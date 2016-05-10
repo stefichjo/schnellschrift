@@ -82,6 +82,14 @@ ___
 
 `s>G.ert-h w.eb-er, v.il.en d.ak f.ir.en AU>tra Ü 4.hu wes.el.r.am.en.`
 
+___
+
+* `m.al` *(Mahl, Mal)*
+ * `ma` *(-mal)*
+
+___
+
+`wr fr.eu .U s, d .in.en I pr.eis.e & b.d.ing.en .iS<ma Z.s.agt-ha.``
 
 
 
