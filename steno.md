@@ -67,3 +67,24 @@ ___
 ___
 
 `sch j* fr.eu.wr .U -st.L AU.ir.e b.st*.en, I wr w.i :er M.er grö-t-en s.og.fat er.l.ed.i.`
+
+
+### Bestellungsannahme (S. 17)
+
+___
+
+* `s>G.ert-h` *(sehr geehrter Herr)*
+* `tra`, `tr.e`, `tr.ug` *(trag, träg, trug)*
+* `was`, `wes`, `wus` *(wachs, wächs, wuchs)*
+ * `wes.el` *(wechsel)*
+
+___
+
+`s>G.ert-h w.eb-er, v.il.en d.ak f.ir.en AU>tra Ü 4.hu wes.el.r.am.en.`
+
+
+
+
+
+
+
