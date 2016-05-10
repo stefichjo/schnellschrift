@@ -91,6 +91,15 @@ ___
 
 `wr fr.eu .U s, d .in.en I pr.eis.e & b.d.ing.en .iS<ma Z.s.agt-ha.``
 
+___
+
+* `let` *(letzt)*
+* `ga` *(ganz)*
+
+___
+
+`.I.n.let.en w.och.en ha.wr ei.e ga.e r.eih.e n.eu.er k.ud.en G.on, I CH M.m G.d.ak.en tra I E>tr.et .U.er .at.ik.le Z.Ü.n.em.`
+
 
 
 
