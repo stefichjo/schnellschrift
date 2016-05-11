@@ -100,8 +100,47 @@ ___
 
 `.I.n.let.en w.och.en ha.wr ei.e ga.e r.eih.e n.eu.er k.ud.en G.on, I CH M.m G.d.ak.en tra I E>tr.et .U.er .at.ik.le Z.Ü.n.em.`
 
+___
+
+* `s` *(sehr)*
+* `schn` *(schnell)*
+* `gra` *(graph)*
+* `ma` *(mann)*
+___
+
+`Ü.al ;U .U.e wes.el.r.am.en s.g.ut AU.n.om; sI :I* O>tr.ef.L f.d schn.e .S.wes.eln v f.ot.o-gra.I.en G.eig.et & ;w v j.ed.em f.ach.ma w.eg.ir-er st.ab.il.ät G.l.obt.`
+
+___
+
+* `G-T` = *`GFT` *(geschäft)*
+* `ma` *(mach)*
+___
+
+`.es>h.ab :I<wr s.ich, d .auch sI g.ut.e G-T.e ma ;w.`
+
+`d.ak .U.es gr.en .ag-er.O.r.at kö.wr .ir.en AU>tra s.schn er.le.ed.i.`
+___
+
+* `ba` *(bahn)*
+___
+
+`wr s.ed .in.en I ga.e AU>tra.m.eng.e m.og M.er ba.`
+
+`h.eut.e dÜ.wr .in.en n-CH .ei-en O.schl.ag ma, ;er sI s I>t-er.ir.en wir:`
+___
 
 
+* `k.ant` *(kannt)*
+
+___
+
+`er>pr.ob.en.sI N.ma s.eb-er .U.e b.k.ant.en f.im.e & f.ot.o-gra.i-en p.ap.ir.e.`
+
+`N.el.H.en dar-Ü kö.sI ;er b.ei.g.ügt-en l.ist.e eNT.n.em.`
+
+`wr ;Ü .U s.fr.eu sch ba W .ei-en AU>tra v.in.en Z.er.hat.`
+
+`M b.est-er .empf.el-UNG`
 
 
 
