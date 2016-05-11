@@ -106,6 +106,7 @@ ___
 * `schn` *(schnell)*
 * `gra` *(graph)*
 * `ma` *(mann)*
+
 ___
 
 `Ü.al ;U .U.e wes.el.r.am.en s.g.ut AU.n.om; sI :I* O>tr.ef.L f.d schn.e .S.wes.eln v f.ot.o-gra.I.en G.eig.et & ;w v j.ed.em f.ach.ma w.eg.ir-er st.ab.il.ät G.l.obt.`
@@ -114,6 +115,7 @@ ___
 
 * `G-T` = *`GFT` *(geschäft)*
 * `ma` *(mach)*
+
 ___
 
 `.es>h.ab :I<wr s.ich, d .auch sI g.ut.e G-T.e ma ;w.`
@@ -122,6 +124,7 @@ ___
 ___
 
 * `ba` *(bahn)*
+
 ___
 
 `wr s.ed .in.en I ga.e AU>tra.m.eng.e m.og M.er ba.`
@@ -141,6 +144,36 @@ ___
 `wr ;Ü .U s.fr.eu sch ba W .ei-en AU>tra v.in.en Z.er.hat.`
 
 `M b.est-er .empf.el-UNG`
+
+
+
+### Beliefern Sie uns mit Kraftfutter? (S. 19)
+
+___
+
+
+* `za` *(zahl)*
+* `fra` *(frag)*
+* `kra` *(kraft)*
+
+___
+
+
+`.I.n.let-tag.en ha.wr W ei-e grö.er.e za v .an.fra.en Ü kra.f.ut-er er.hat.`
+
+
+___
+
+
+* `ja` *(jahr)*
+* `sa` *(satz)*
+* `.I.l.in` *(?)*
+* `.S.l.in` *(?)*
+
+___
+
+`wr s.eb-er I>t-er.ir .U sch s.ei-t ja.en f.n .ab.sa .I.l.in kra.f.ut-er & .S.l.in w.eiz.ens.`
+
 
 
 
