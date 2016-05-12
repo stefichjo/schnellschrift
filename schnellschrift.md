@@ -24,3 +24,15 @@ Nach ausgestoßenem Vorlaut bleibt *t* aufgestrichen. Da *t* den Inlaut nicht an
 
 Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 * *[bald]* → `ba`
+
+Der Inlaut *e*/*ä* bleibt nach Abstrichzeichen jedoch ausgeschrieben.
+* *[fremd]* → `fr.e`
+
+### Keine Auslautausstoßung
+
+Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
+* *[wer]* → `wer`
+
+Der Auslaut *s* wird mit rechtsrundem Anlautzeichen verschmolzen.
+* *[was]* → `was`
+
