@@ -28,7 +28,16 @@ Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 Der Inlaut *e*/*ä* bleibt nach Abstrichzeichen jedoch ausgeschrieben.
 * *[fremd]* → `fr.e`
 
-### Keine Auslautausstoßung
+Da der Inlaut *ei* nicht angedeutet werden kann, bleibt *ei* (und verwandtes *i*) ausgeschrieben. Fußschlaufenzeichen werden dann anstelle des Auslauts ausgestoßen.
+* *[bleib]*, *[blieb]* → `bl.ei`, `bl.i`
+* *[schreib]*, *[schrieb]* → `.eib`, `.ib`
+
+### Keine Auslautausstoßung nach *e*
+
+Kann der Auslaut nicht mit einem Anlaut verwechselt werden, so wird der Inlaut *e* (bzw. *ä*) vom Auslaut angedeutet und der Anlaut wird ausgestoßen.
+* *[text]* → `ext`
+
+### Keine Auslautausstoßung von *r* und *s*
 
 Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * *[wer]* → `wer`
