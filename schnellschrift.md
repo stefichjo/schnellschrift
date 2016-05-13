@@ -36,14 +36,17 @@ Nach ausgestoßenem Vorlaut bleibt *t* aufgestrichen. Da *t* den Inlaut nicht an
 
 Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 * *[bald]* → `ba`
+* *[schnell]* → `schn`
+* *[statt]* → `sta`
 
 ### Inlautandeutung von *e*
 
 Der Inlaut *e* (bzw. *ä*) bleibt nach Abstrichzeichen ausgeschrieben.
 * *[fremd]* → `fr.e`
 
-Kann der Auslaut nicht mit einem Anlaut verwechselt werden, so wird der Inlaut *e* (bzw. *ä*) vom Auslaut angedeutet und der Anlaut wird ausgestoßen.
+Endet der Anlaut mit einer Fußschlaufe oder mit einem Abstrich, so wird dieser ausgestoßen, wenn der Auslaut nicht mit einem Anlaut verwechselt werden kann.
 * *[text]* → `ext`
+* *[kampf]* → `ampf`
 
 ### Inlautandeutung von *ei*
 
