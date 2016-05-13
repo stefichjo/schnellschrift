@@ -1,5 +1,10 @@
 # Schnellschrift
 
+Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
+
+* *(alt)* → `.alt`
+ * *älter* → `.ät-er`
+
 ## Vorlautausstoßung
 
 Der Vorlaut *r* wird ausgestoßen.
@@ -39,11 +44,34 @@ Da der Inlaut *ei* nicht angedeutet werden kann, bleibt *ei* (und verwandtes *i*
 * *[bleib]*, *[blieb]* → `bl.ei`, `bl.i`
 * *[schreib]*, *[schrieb]* → `.eib`, `.ib`
 
-### Keine Auslautausstoßung von *r* und *s*
+### Inlautandeutung bei Auslaut *r* oder *s*
 
 Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * *[wer]* → `wer`
 
 Der Auslaut *s* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * *[was]* → `was`
+
+## Wortverbindungen
+
+### *er*
+
+Die Endung *er* wird verschmolzen.
+* *[aber]* → `ab-er`
+
+### *ung*
+
+Die Endung *ung* wird durch Auslassen der Fußschleife angedeutet.
+* *[zahl]* → `za`
+ * *[zahl]{ung}* → `za*`
+
+Der Ausstoß eines Fußschlaufenzeichen wird ggf. rückgängig gemacht und es wird dafür der jeweils andere Laut ausgestoßen.
+* *[sitz]* → `si`
+ * *[sitz]{ung}* → `.iz*`
+* *[stell]* → `.ell`
+ * *[stell]{ung}* → `st*`
+
+## Inlautkürzung
+
+* *<ist>* → `i`
 
