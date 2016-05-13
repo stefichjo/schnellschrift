@@ -41,18 +41,34 @@ Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 
 ### Inlautandeutung von *e*
 
-Der Inlaut *e* (bzw. *ä*) bleibt nach Abstrichzeichen ausgeschrieben.
+Der Inlaut *e* (bzw. *ä*) bleibt nach zweistufigen Abstrichzeichen ausgeschrieben.
 * *[fremd]* → `fr.e`
-
-Endet der Anlaut mit einer Fußschlaufe oder mit einem Abstrich, so wird dieser ausgestoßen, wenn der Auslaut nicht mit einem Anlaut verwechselt werden kann.
-* *[text]* → `ext`
-* *[kampf]* → `ampf`
+* *[geh]* → `g`
 
 ### Inlautandeutung von *ei*
 
-Da der Inlaut *ei* nicht angedeutet werden kann, bleibt *ei* (und verwandtes *i*) ausgeschrieben. Fußschlaufenzeichen werden dann anstelle des Auslauts ausgestoßen.
-* *[bleib]*, *[blieb]* → `bl.ei`, `bl.i`
-* *[schreib]*, *[schrieb]* → `.eib`, `.ib`
+Der Inlaut *ei* kann nicht angedeutet werden. Daher bleibt *ei* (und verwandtes *i*) ausgeschrieben.
+* *[bleib]* → `bl.ei`
+ * *[blieb]* → `bl.i`
+
+### Streckende und stellende Inlautandeutung
+
+* *[brech]* → `br`
+ * *[brich]* → `bri`
+ * *[brach]* → `bra`
+   * *[bräch]* → `br`
+ * *[broch]* → `bro`
+   * *[bruch]* → `bru`
+     * *[brüch]* → `brÜ` 
+
+Kann das Anlautzeichen nicht gestreckt oder hoch- bzw. tiefgestellt werden, so wird stattdessen auf den Auslaut gekürzt.
+* *[sprech]* → `spr`
+ * *[sprich]* → `.ich`
+ * *[sprach]* → `spra`
+   * *[spräch]* → `spr`
+ * *[sproch]* → `.och`
+   * *[spruch]* → `.uch`
+     * *[sprüch]* → `.üch` 
 
 ### Inlautandeutung bei Auslaut *r* oder *s*
 
@@ -62,14 +78,26 @@ Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 Der Auslaut *s* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * *[was]* → `was`
 
+### Alternative zur Inlautandeutung
+
+Alternativ zur Inlautandeutung kann auf den Auslaut gekürzt werden.
+
+* *[|schreib|]* → `.eib`
+
+Die Inlaute *e* (bzw. *ä*) und *a* werden bei der Auslautkürzung ohne Anstrich geschrieben.
+
+* *[|rech|]* → `ech`
+* *[|text|]* → `ext`
+* *[|kampf|]* → `ampf`
+
 ## Wortverbindungen
 
-### *er*
+### -*er*
 
 Die Endung *er* wird verschmolzen.
-* *[aber]* → `ab-er`
+* *aber* → `ab-er`
 
-### *ung*
+### -*ung*
 
 Die Endung *ung* wird durch Auslassen der Fußschleife angedeutet.
 * *[zahl]* → `za`
@@ -77,8 +105,8 @@ Die Endung *ung* wird durch Auslassen der Fußschleife angedeutet.
 
 Der Ausstoß eines Fußschlaufenzeichen wird ggf. rückgängig gemacht und es wird dafür der jeweils andere Laut ausgestoßen.
 * *[sitz]* → `si`
- * *[sitz]{ung}* → `.iz*`
-* *[stell]* → `.ell`
+ * *[|sitz|]{ung}* → `.iz*`
+* *[|stell|]* → `.ell`
  * *[stell]{ung}* → `st*`
 
 ## Inlautkürzung
@@ -87,3 +115,10 @@ Der Ausstoß eines Fußschlaufenzeichen wird ggf. rückgängig gemacht und es wi
 * *[schrift]* → `.ift`
  * -*\<schrift>* → `i`
 
+___
+
+* *{stand}* → `.and`
+* *{ge}{sund}* → `G.und`
+* *[|gang|]* → `ang`
+* *[|ging|]* → `.ing`
+* *saß* → `s.ass`
