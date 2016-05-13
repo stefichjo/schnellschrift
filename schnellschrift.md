@@ -50,6 +50,7 @@ Der Inlaut *e* (bzw. *ä*) bleibt nach zweistufigen Abstrichzeichen ausgeschrieb
 Der Inlaut *ei* kann nicht angedeutet werden. Daher bleibt *ei* (und verwandtes *i*) ausgeschrieben.
 * *[bleib]* → `bl.ei`
  * *[blieb]* → `bl.i`
+* *[blind]* → `bli`
 
 ### Streckende und stellende Inlautandeutung
 
@@ -75,8 +76,12 @@ Kann das Anlautzeichen nicht gestreckt oder hoch- bzw. tiefgestellt werden, so w
 Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * *[wer]* → `wer`
 
-Der Auslaut *s* wird mit rechtsrundem Anlautzeichen verschmolzen.
+Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen verschmolzen.
 * *[was]* → `was`
+* *[pass]* → `pass`
+
+Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
+* *[wasser]* → `was-er`
 
 ### Alternative zur Inlautandeutung
 
@@ -122,3 +127,8 @@ ___
 * *[|gang|]* → `ang`
 * *[|ging|]* → `.ing`
 * *saß* → `s.ass`
+* *schifffahrt* → `sch.if-fat`
+* *[klein]* → `;N`
+* *[|war|]* → `:ar`
+* *[wahr]* → `wa`
+* *[warum]* → `war-u`
