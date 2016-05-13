@@ -5,6 +5,13 @@ Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibu
 * *(alt)* → `.alt`
  * *älter* → `.ät-er`
 
+Einige Wörter werden nur als Wortbestandteil gekürzt.
+
+* *bar* → `b.ar`
+ * -*[bar]* → `bar`
+* *da* → `d.a`
+ * *[da]*- → `da`
+
 ## Vorlautausstoßung
 
 Der Vorlaut *r* wird ausgestoßen.
@@ -74,4 +81,6 @@ Der Ausstoß eines Fußschlaufenzeichen wird ggf. rückgängig gemacht und es wi
 ## Inlautkürzung
 
 * *\<ist>* → `i`
+* *[schrift]* → `.ift`
+ * -*\<schrift>* → `i`
 
