@@ -73,5 +73,5 @@ Der Ausstoß eines Fußschlaufenzeichen wird ggf. rückgängig gemacht und es wi
 
 ## Inlautkürzung
 
-* *<ist>* → `i`
+* *\<ist>* → `i`
 
