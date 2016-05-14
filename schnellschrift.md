@@ -1,3 +1,176 @@
+* *[hol]* → `ho`
+* *[hör]* → `hö`
+
+* -*<hol>*- → `o`
+ * : *{wieder}<hol>* → `W-o`
+
+* -*{irgend}*- → `.i`
+ * : *{irgend}{wie}* → `.i-I`
+ * : *{irgend}[wo]* → `.i-wo`
+ * : *{irgend}wann* → `.i-w.an`
+
+* -*{wie}*- → `I`
+
+* *[jahr]* → `ja`
+* -*[|jahr|]*- `.ar`
+ * : *{in} {ein}er reihe {|von|} [|jahr|]en* → `.I.ei-er-r.eih.ar.en`
+
+* *ein* → `N`
+ * -*{ein}*- → `.ei`
+    * : *{ein}e* → `.ei-e`
+    * : *{ein}er* → `.ei-er`
+
+* *land* → `la`
+ * *länd* → `l`
+    * *{länder}* → `;dr`
+
+* -*[haft]*- → `ha`
+ * : *{einzel}[haft]* → `.ei-ha`
+
+* *[druck]* → `dru`
+
+* -*<druck>*- → `u`
+ * : *{aus}<druck>* → `.S-u`
+ * : *[|nach|][druck]* → `ach.dru` :/ `ach-u`
+
+* *[fahr]* → `fa`
+ * *fahrt* → `fat`
+ * *fähr* → `f.är` :/
+    * *fährd* → `f.ed`
+    * *[fährt]* → `ft`
+ * *[fuhr]* → `fu`
+
+* *[fall]* → `fa`
+ * *fiel* → `f.il` :/ `fi`
+
+* *fang* → `f.ang`
+ * -*[fang]*- → `fa` :/ `ang`
+    * : *be[fang]* → `b.fa`
+ * -*[|fang|]*- → `ang`
+    * : *ein[|fang|]* → `N.ang`
+ * *fäng* → `f.eng`
+    * -*[fäng]*- → `f` :/ `eng`
+       * : *{ge}[fäng]{nis}* → `G.f.is`
+    * -*[|fäng|]*- → `eng`
+       * : *{ver}[|fäng|]{lich}* → `E.eng.L`
+ * *fing* → `f.ing`
+
+* *[|flieg|]* → `.ig`
+ * *[|flog|]* → `.og`
+ * *[|flug|]* → `.ug`
+
+* *[flieh]* → `fli`
+ * -*[|flieh|]*- → `.ih`
+    * : *{ent}[|flieh|]* → `eNT.ih` :/ `eNT,fli`
+ * *[|floh|] → `.oh` :/ `flo`
+    * → *[|flucht|] → `.ucht` :/ `flu`
+
+* *[fließ]* → `fli`
+ * *[floss]* → `flo`
+    * → *[floß]* → (?)
+ * *[fluss]* → `flu`
+    * *[|flüss|]* → `.üss` :/ `flÜ`
+
+* *[früh]* → `frÜ`
+ * -*<früh>*- → `Ü`
+    * *heute.<früh>* → `heu-Ü`
+    * *[morg]en.<früh>* → `mo-Ü`
+    * *{schon}.<früh>er* → `sch-Ü-er`
+
+* *fug* → `f.ug`
+ * *füg* → `f.üg`
+    * -*<füg>*- → `Ü`
+       * : *an<füg>* → `.an-Ü`
+       * : *ein<füg>* → `N-Ü`
+       * : *{ge}[|ring|]<füg>{ig}* → `G.ing-Ü-i`
+       * : *{ver}<füg>* → `E-Ü`
+    * -*[|füg|]*- → `.üg`
+       * : *{ge}[|füg|]* → `G.üg` :/ `G-Ü`
+       * : *{zu}[|füg|]* → `Z.üg` :/ `Z-Ü`
+       * : *{zu}{samm}en[|füg|]* → `Z-sa.üg` :/ `Z-sa-Ü`
+
+* *führ* → `f.ür`
+ * -*[|führ|]*- → `.ür`
+    * : *<üb>er[|führ|]* → `Ü-ür`
+    * : *<zu>[rück][|führ|]* → `u-rÜ<ür`
+ * -*{führ}*- → `Ür`
+    * : *ab{führ}* → `.ab-Ür` :/ `.ab.ür`
+    * : *an{führ}* → `.an-Ür` :/ `.an.ür`
+    * : *auf{führ}* → `AU-Ür` :/ `AU.ür`
+    * : *ein{führ}* → `N-Ür` :/ `N.ür`
+    * : *{her}{bei}{führ}* → `h.ei-Ür` :/ `h.ei-ür`
+    * : *{unter}{führ}{ung}* → `UNTER-Ür-UNG` :/ `UNTER.ür-UNG`
+    * : *{ver}{führ}* → `E-Ü` :/ `E.ür`
+    * : *{vor}{führ}* → `O-Ü` :/ `O.ür`
+ * -*{|führ|}*- → `ü`
+    * : *{aus}{|führ|}{lich}* → `.S-ü.L` :/ `.S.ür`
+    * : *{durch}{|führ|} → `dr-ü` :/ `dr.ür`
+
+* *bei* → `b.ei`
+ * -*{bei}*- → `.ei`
+    * : *{bei}[trag]* → `.ei>tra`
+    * : *{her}{bei}* → `h.ei`
+
+* *[füll]* → `fÜ`
+ * -*<füll>*- → `Ü`
+    * *{er}<füll>* → `er-Ü`
+
+* *gar* → `g.ar`
+ * -*[gar]*- → `ga`
+    * : *[gar].{nicht}* → `ga-t`
+
+* *[|glied|]* → `.id`
+
+* *[|greif|]* → `.eif`
+ * *[|griff|]* → `.if`
+
+* *[her]* → `h`
+ * -*{her}*- → `.e`
+    * : *{her}{auf}* → `.e-AU`
+    * : *{her}{unter}* → `.e-UNTER`
+    * : *{her}{vor}* → `.e-O`
+
+* *{hin}* → `hn`
+ * -{|hin|}- → `.in`
+    * : {da}{hin} → `da.in`
+    * : {weiter}{hin} → `T-er.in`
+ * -*{|hin|}*- → `n` :/ `.in`
+    * : {|hin|}{auf} → `n>AU` :/ `.in<AU`
+    * : {|hin|}{aus} → `n.S` :/ `.in.S`
+    * : {|hin|}ein → `n.N` (?) :/ `.in.N`
+    * : {|hin|}{zu} → `n>Z` :/ `.in<Z`
+
+* *[heut]* → `heu`
+
+* *kein* → `k.N`
+ * -*{kein}*- → `k`
+    * : *{kein}esfalls* → `k.fa-s`
+
+* [|klar|] → `.ar` :/ `kla` (?)
+
+* *[morg]en* → `mo`
+
+* *[|nam|]* → `.am`
+ * : *nam[haft]* → `n.am.ha` :/ `.am.ha`
+ * : *[|näm|]{lich}* → `.äm.L`
+ * : *{nament}{lich}* → `-t-L` :/ `.am.L`
+
+* -*{|off|}*- → `.o`
+ * -*{|öff|}*- → `.ö`
+    * : *{|öff|}ent{lich}* → `.ö-L`
+ * : *{|off|}en[bar]* → `.o-bar`
+ * : *{|off|}en{heit}* → `.o-H`
+
+* *[|lang|]* → `ang`
+* *{länger}* → `NG`
+
+* [|recht|] → `echt`
+
+* 
+
+___
+___
+
 # Schnellschrift
 
 Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
@@ -132,3 +305,159 @@ ___
 * *[|war|]* → `:ar`
 * *[wahr]* → `wa`
 * *[warum]* → `war-u`
+
+
+# *...*
+
+Bereits in der Verkehrsschrift wird Dehnungs-*h* vor der Endung *t* ausgestoßen.
+* *sieh* → `s.ih`
+ * *sieht* → `s.it`
+
+## *-t*
+
+* *walt* → `wat`
+* *wart* → `wat`
+ * *wärt* → `wet`
+* *kalt* → `kat`
+* *halt* → `hat`
+* *welt* → `wet`
+* *wert* → `wet`
+
+
+# *[]*
+
+* *[bild]* → `bi`
+* *[tief]* → `ti`
+* *[fa]* → `fa`
+
+* *[schreck]* → `schr`
+ * *[schrick]* → `.ik` (?)
+ * *[schrak]* → `schra`
+ * *[schrock]* → `schro`
+
+* *[hand]* → `ha`
+ : *{einzel}[händ]ler* → `.ei-h-er`
+
+## *[ei]*
+
+* *[treib]* → `tr.ei`
+ * *[trieb]* → `tr.i`
+
+## *[||]*
+
+* *[|blick|]* → `.ik`
+* *[|schick|]* → `.ik`
+* *[|ding|]* → `.ing`
+
+# *{}*
+
+* *{schon}* → `sch`
+* *{hatt}* → `t`
+ * *{hätt}* → *[|hätt|]* → `.ät`
+* *{punkt}* → `pt`
+* *{soll}* → `;S`
+* *{forder}* → `F`
+* *{markt}* → `;kt`
+* *{war}* → `:ar`
+ * *{wär}* → `:är`
+
+# -t
+
+* *[sprich]* → `.ich`
+ * *[spricht]* → `.icht`
+
+# *<>*
+
+Wortbestandteile können auf den Inlaut gekürzt werden. Der vorhergehende Wortbestandteil wird dann mit dem gekürzten Inlaut verschmolzen. Ist eine Verschmelzung nicht möglich, so wird abgesetzt.
+* -*<schrift>*- → `i`
+ * : *{vor}<schrift>* → `O-i`
+ * : *[kurz]<schrift>* → `ku,i`
+* -*<sicht>*- → `i`
+ * : *ab<sicht>* → `.ab-i`
+ * : *an{ge}<sicht>* → `.an.G,i`
+ * : *{auf}<sicht>* → `AU-i`
+ * : *{zu}{ver}<sicht>* → `Z.E-i`
+
+# *<||>*
+
+* -*<schied>*- → `i`
+ * : *{unter}<schied>* → `UNTER-i`
+* -*<schrift>*- → `i`
+ * : *{unter}<|schrift|>* → `UNTER,i`
+* -*<spruch>*- → `u`
+ * : *{wider}<spruch> → `W-u`
+
+# *{||}*
+
+* -*{|forder|}- → `.o`
+ * : *{er}{|forder|}{lich}* → er.o-L
+
+## *{||}* → ``
+
+* -*{|sicht|}*- → ``
+ * : *{ge}{|sicht|}*- → `G`
+ * : *{hin}{|sicht|}* → `hn`
+ * : *{rück}{|sicht|}* → `rÜ`
+* -*{|schied|}*- → ``
+ * : *{ver}ab{|schied|}* → `E.ab`
+
+## *{|t|}*
+
+* *{|halt|}* → `;-t`
+ * : [sach]{ver}{|halt|} → `sa.E-t`
+* -*{|wart|}*- → `;-t`
+ * : *[geg]en{|wart|}* → `g-t`
+ * -*{|wärt|}*- → `;-t`
+    * : *[geg]en{|wärt|}{ig}* → `g-t-ig`
+* -*{|welt|}*- → `;-t`
+ * : *um{|welt|}* → `.um-t`
+* -*{|markt|}* → `;-t`
+ * : *{|welt|}{|markt|}* → `;-t;-t`
+
+## -**-
+
+* -*{einzel}*- → `.ei`
+* -*[sach]*- → `sa`
+ * : [sach]{ver}{|halt|} → `sa.E-t`
+* -*{|sach|}*- → `a`
+ * : *neben{|sach|}e* → `n.eb,a.e`
+ * -*{|säch|}- → `ä`
+    * : *neben{|säch|}{lich}* → `n.eb,ä.L` (?)
+* -*[|trieb|]*- → `.ib`
+ * : be[|trieb|] → `b.ib`
+
+* *{einz}* → `N`
+
+
+# :/
+
+* *[statt]* → `sta`
+ * *[|stätt|]* → `.ät` :/
+* *kartei* → `k.at.ei` :/
+* *vorsicht* → `O-i` → `O,i` → `O.icht` :/
+* *[|scheid|]* → `.eid`
+ * *schied* → `sch.id` :/
+    * -*[|schied|]*- → `.id`
+       * : *ab[|schied|]* → `.ab.id`
+
+* *ton* → `:o`
+ * *tön* → `:ö`
+
+* *[trag]* → `tra`
+ * *[träg]* → `tr`
+ * *trug* → `tr.ug` :/
+
+* *tret* → `tr.et` :/ `tr.e`
+ * *[|tritt|]* → `.it` :/ `tri`
+ * *[trat]* → `tra`
+
+* *treff* → `tr.ef` :/ `.ef`
+ * *[|triff|]* → `.if`
+ * *[|traf|]* → `.af`
+ * *[|troff|]* → `.of`
+
+* *[wahl]* → `wa`
+ * *wähl* → `w.el` :/ `w`
+
+* -*{|wert|}* → *{wert}* → `;-t`
+ * : *{er}[streb]ens{|wert|}* → `er>str;-t` :/ `er>str-t`
