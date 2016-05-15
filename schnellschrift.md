@@ -1,7 +1,31 @@
-### **
+# Schnellschrift
+
+### *()*
+
+Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
+* *(alt)* → `.alt`
+ * *älter* → `.ät-er`
+
+___
+
+* *(alt)* → `.alt`
+
+### * *
+
+Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
+* *end* → `.ed`
+* *feld* → `f.ed`
+* *erst* → `.est`
+
+Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut bleibt *t* aufgestrichen. Da *t* den Inlaut nicht andeuten kann, wird dieser durch den Anlaut angedeutet. Kann auch der Anlaut den Inlaut nicht andeuten, wird Abstrich-*t* geschrieben.
+* *hals* → `h.a-s`
+* *wort* → `wot`
+* *ort* → `.ot`
 
 * *bei* → `b.ei`
 * *ein* → `N`
+* *end* → `.ed`
+* *erst* → `.est`
 * *fang* → `f.ang`
  * -*[fang]*- → `fa` :/ `ang`
     * : *be[fang]* → `b.fa`
@@ -13,6 +37,7 @@
     * -*[/fäng/]*- → `eng`
        * : *{ver}[/fäng/]{lich}* → `E.eng.L`
  * *fing* → `f.ing`
+* *feld* → `f.ed`
 * *fug* → `f.ug`
  * *füg* → `f.üg`
     * -*\<füg>*- → `Ü`
@@ -43,10 +68,59 @@
 * *gar* → `g.ar`
  * -*[gar]*- → `ga`
     * : *[gar].{nicht}* → `ga-t`
+* *hals* → `h.a-s`
 * *kein* → `k.N`
+* *ort* → `.ot`
+* *wort* → `wot`
 
 ### *[]*
 
+Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
+* *[bald]* → `ba`
+* *[blind]* → `bli`
+* *[schnell]* → `schn`
+* *[statt]* → `sta`
+
+Der Inlaut *e* (bzw. *ä*) bleibt am Wortende nach Abstrichzeichen ausgeschrieben.
+* *[fremd]* → `fr.e`
+* *[kenn]* → `k.e`
+* *{geh}* → `g` :/ `g.e`
+
+Der Inlaut *ei* kann nicht angedeutet werden. Daher bleiben *ei* und verwandtes *i* ausgeschrieben.
+* *[bleib]* → `bl.ei`
+ * *[blieb]* → `bl.i`
+
+Kann das Anlautzeichen nicht gestreckt oder hoch- bzw. tiefgestellt werden, so wird stattdessen auf den Auslaut gekürzt.
+* *[sprech]* → `spr`
+ * *[sprich]* → `.ich`
+ * *[sprach]* → `spra`
+   * *[spräch]* → `spr`
+ * *[sproch]* → `.och`
+   * *[spruch]* → `.uch`
+     * *[sprüch]* → `.üch` 
+
+Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
+* *[wer]* → `wer`
+
+Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen verschmolzen.
+* *[was]* → `was`
+* *[pass]* → `pass`
+
+Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
+* *[wass]er* → `was-er`
+
+___
+
+* *[bald]* → `ba`
+* *[bleib]* → `bl.ei`
+ * *[blieb]* → `bl.i`
+* *[brech]* → `br`
+ * *[brich]* → `bri`
+ * *[brach]* → `bra`
+   * *[bräch]* → `br`
+ * *[broch]* → `bro`
+   * *[bruch]* → `bru`
+     * *[brüch]* → `brÜ` 
 * *[druck]* → `dru`
  * *[drück]* → `drÜ` (?)
 * *[fahr]* → `fa`
@@ -67,6 +141,7 @@
     * → *[floß]* → (?)
  * *[fluss]* → `flu`
     * *[/flüss/]* → `.üss` :/ `flÜ`
+* *[fremd]* → `fr.e`
 * *[frucht]* → `fru` (?)
 * *[früh]* → `frÜ`
 * *[haupt]* → `hau` (?)
@@ -76,8 +151,22 @@
 * *[hol]* → `ho`
 * *[hör]* → `hö`
 * *[jahr]* → `ja`
+* *[kenn]* → `k.e`
 * *[land]* → `la`
  * *[länd]* → `l`
+* *[pass]* → `pass`
+* *[schnell]* → `schn`
+* *[sprech]* → `spr`
+ * *[sprich]* → `.ich`
+ * *[sprach]* → `spra`
+   * *[spräch]* → `spr`
+ * *[sproch]* → `.och`
+   * *[spruch]* → `.uch`
+     * *[sprüch]* → `.üch` 
+* *[statt]* → `sta`
+* *[was]* → `was`
+* *[wass]er* → `was-er`
+* *[wer]* → `wer`
 
 ### -*[]*-
 
@@ -98,7 +187,7 @@
  * : *nam[haft]* → `n.am.ha` :/ `.am.ha`
  * : *[/näm/]{lich}* → `.äm.L`
  * : *{nament}{lich}* → `-t-L` :/ `.am.L`
-* [/recht/] → `echt`
+* *[/recht/]* → `echt`
 * *[/schlag/]* → `.ag` (?)
  * *[/schläg/]* → `.eg` (?)
  * *[/schlug/]* → `.ug` (?)
@@ -115,6 +204,7 @@
 
 ### *{}*
 
+* *{geh}* → `g` :/ `g.e`
 * *{hin}* → `hn`
 * *{länder}* → `;dr` :/ `l.er`
 * *{länger}* → `NG`
@@ -182,84 +272,7 @@
  * : *[sprich]\<wort>* → `.ich-o`
     * : *[sprich]\<wört>{lich}* → `.ich-ö.L`
 
-# Schnellschrift
 
-Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
-
-* *(alt)* → `.alt`
- * *älter* → `.ät-er`
-
-## Vorlautausstoßung
-
-Der Vorlaut *r* wird ausgestoßen.
-* *erst* → `.est`
-
-Der Vorlaut *n* wird ausgestoßen.
-* *end* → `.ed`
-
-Der Vorlaut *l* wird ausgestoßen.
-* *feld* → `f.ed`
-
-### Vorlautausstoßung vor *s* und *t*
-
-Nach ausgestoßenem Vorlaut bleibt *s* linkswendig.
-* *hals* → `h.a-s`
-
-Nach ausgestoßenem Vorlaut bleibt *t* aufgestrichen. Da *t* den Inlaut nicht andeuten kann, wird dieser durch den Anlaut angedeutet. Kann auch der Anlaut den Inlaut nicht andeuten, wird Abstrich-*t* geschrieben.
-* *wort* → `wot`
-* *ort* → `.ot`
-
-## Inlautandeutung
-
-Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
-* *[bald]* → `ba`
-* *[schnell]* → `schn`
-* *[statt]* → `sta`
-
-### Inlautandeutung von *e*
-
-Der Inlaut *e* (bzw. *ä*) bleibt am Wortende nach Abstrichzeichen ausgeschrieben.
-* *[fremd]* → `fr.e`
-* *[kenn]* → `k.e`
-* *{geh}* → `g` :/ `g.e`
-
-### Inlautandeutung von *ei*
-
-Der Inlaut *ei* kann nicht angedeutet werden. Daher bleibt *ei* (und verwandtes *i*) ausgeschrieben.
-* *[bleib]* → `bl.ei`
- * *[blieb]* → `bl.i`
-* *[blind]* → `bli`
-
-### Inlautandeutung durch Streckung und Stellung
-
-* *[brech]* → `br`
- * *[brich]* → `bri`
- * *[brach]* → `bra`
-   * *[bräch]* → `br`
- * *[broch]* → `bro`
-   * *[bruch]* → `bru`
-     * *[brüch]* → `brÜ` 
-
-Kann das Anlautzeichen nicht gestreckt oder hoch- bzw. tiefgestellt werden, so wird stattdessen auf den Auslaut gekürzt.
-* *[sprech]* → `spr`
- * *[sprich]* → `.ich`
- * *[sprach]* → `spra`
-   * *[spräch]* → `spr`
- * *[sproch]* → `.och`
-   * *[spruch]* → `.uch`
-     * *[sprüch]* → `.üch` 
-
-### Inlautandeutung bei Auslaut *r* oder *s*
-
-Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
-* *[wer]* → `wer`
-
-Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen verschmolzen.
-* *[was]* → `was`
-* *[pass]* → `pass`
-
-Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
-* *[wasser]* → `was-er`
 
 ### Auslautkürzung
 
