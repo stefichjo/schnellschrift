@@ -2,17 +2,19 @@
 
 ## Verkehrsschrift
 
-Bereits in der Verkehrsschrift wird Dehnungs-*h* vor der Endung *t* ausgestoßen.
+Dehnungs-*h* wird vor der Endung *t* ausgestoßen. *ch* wird mit der Endung *t* verschmolzen.
 * *sieh* → `s.ih`
  * *sieht* → `s.it`
+* *sprich* → `spr.ich`
+ * *spricht* → `spr.icht`
 
 Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
 * *(alt)* → `.alt`
- * *älter* → `.ät-er`
 
 ___
 
 * *(alt)* → `.alt`
+ * *älter* → `.ät-er`
 
 ## Schnellschrift
 
@@ -40,7 +42,6 @@ Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut 
 * *hals* → `h.a-s`
 * *wort* → `wot`
 * *ort* → `.ot`
-
 
 ___
 
@@ -115,7 +116,6 @@ Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 Der Inlaut *e* (bzw. *ä*) bleibt am Wortende nach Abstrichzeichen ausgeschrieben.
 * *[fremd]* → `fr.e`
 * *[kenn]* → `k.e`
-* *{geh}* → `g` :/ `g.e`
 
 Der Inlaut *ei* kann nicht angedeutet werden. Daher bleiben *ei* und verwandtes *i* ausgeschrieben.
 * *[bleib]* → `bl.ei`
@@ -211,8 +211,16 @@ ___
      * *[sprüch]* → `.üch` 
 * *[statt]* → `sta`
 * *[tief]* → `ti`
+* *[trag]* → `tra`
+ * *[träg]* → `tr` :/ `tr.e`
+ * *trug* → `tr.ug` :/ `tru`
+* *tret* → `tr.et` :/ `tr.e`
+ * *[/tritt/]* → `.it` :/ `tri`
+ * *[trat]* → `tra`
 * *[treib]* → `tr.ei`
  * *[trieb]* → `tr.i`
+* *[wahl]* → `wa`
+ * *wähl* → `w.el` :/ `w`
 * *[wahr]* → `wa`
 * *[was]* → `was`
 * *[wass]er* → `was-er`
@@ -270,6 +278,10 @@ ___
  * : *{nament}{lich}* → `-t-L` :/ `.am.L`
 * *[/rech/]* → `ech`
 * *[/recht/]* → `echt`
+* *[/scheid/]* → `.eid`
+ * *schied* → `sch.id` :/ `.id`
+    * -*[/schied/]*- → `.id`
+       * : *ab[/schied/]* → `.ab.id`
 * *[/schick/]* → `.ik`
 * *[/schlag/]* → `.ag` (?)
  * *[/schläg/]* → `.eg` (?)
@@ -279,7 +291,12 @@ ___
  * *[/schrieb/]* → `.ib`
 * *[/stell/]* → `.ell`
  * : *[/stell/]{ung}* → `st*`
+* *[/stätt/]* → `.ät` :/ `st`
 * *[/text/]* → `ext`
+* *treff* → `tr.ef` :/ `.ef`
+ * *[/triff/]* → `.if`
+ * *[/traf/]* → `.af`
+ * *[/troff/]* → `.of`
 * *[/weis/]* → `.eis`
  * *wies* → `w.is` :/ `.is`
     * -*[/wies/]*- → `.is`
@@ -300,6 +317,7 @@ ___
 * *{hatt}* → `t`
  * *{hätt}* → *[/hätt/]* → `.ät`
 * *{hin}* → `hn`
+* *{kartei}* → `k.at.ei` :/ (?)
 * *{klein}* → `;N`
 * *{länder}* → `;dr` :/ `l.er`
 * *{länger}* → `NG`
@@ -331,10 +349,6 @@ ___
  * : *{her}{vor}* → `.e-O`
 * -*{kein}*- → `k`
  * : *{kein}es[fall]s* → `k.fa-s`
-* -*{/sach/}*- → `a`
- * : *neben{/sach/}e* → `n.eb,a.e`
- * -*{/säch/}- → `ä`
-    * : *neben{/säch/}{lich}* → `n.eb,ä.L` (?)
 * -*{wie}*- → `I`
  * : *{so}{wie}* → `.o>I`
 
@@ -365,6 +379,10 @@ ___
     * : *{/öff/}ent{lich}* → `.ö-L`
  * : *{/off/}en[bar]* → `.o-bar`
  * : *{/off/}en{heit}* → `.o-H`
+* -*{/sach/}*- → `a`
+ * : *neben{/sach/}e* → `n.eb,a.e`
+ * -*{/säch/}- → `ä`
+    * : *neben{/säch/}{lich}* → `n.eb,ä.L` (?)
 * -*{/sicht/}*- → ``
  * : *{ge}{/sicht/}*- → `G`
  * : *{hin}{/sicht/}* → `hn`
@@ -377,6 +395,8 @@ ___
     * : *[geg]en{/wärt/}{ig}* → `g-t-ig`
 * -*{/welt/}*- → `;-t`
  * : *um{/welt/}* → `.um-t`
+* -*{/wert/}* → *{wert}* → `;-t`
+ * : *{er}[streb]ens{/wert/}* → `er>str;-t` :/ `er>str-t`
 
 ## *\<>*
 
@@ -388,11 +408,6 @@ Ist eine Verschmelzung bei Inlautkürzung nicht möglich, so wird abgesetzt.
 * -*\<schrift>*- → `i`
  * : *{vor}\<schrift>* → `O-i`
  * : *[kurz]\<schrift>* → `ku,i`
-* -*\<sicht>*- → `i`
- * : *ab\<sicht>* → `.ab-i`
- * : *an{ge}\<sicht>* → `.an.G,i`
- * : *{auf}\<sicht>* → `AU-i`
- * : *{zu}{ver}\<sicht>* → `Z.E-i`
 
 ___
 
@@ -415,6 +430,7 @@ ___
  * : *an{ge}\<sicht>* → `.an.G,i`
  * : *{auf}\<sicht>* → `AU-i`
  * : *{zu}{ver}\<sicht>* → `Z.E-i`
+ * : *{vor}[|sicht|]* → `O.icht` :/ `O-i`
 * -*\<spruch>*- → `u`
  * : *{wider}\<spruch>* → `W-u`
 * -*\<um>*- → `u`
@@ -433,40 +449,7 @@ ___
 
 * -*\<schrift>*- → `i`
  * : *{unter}\</schrift/>* → `UNTER,i`
-___
-___
 
-@
-* *[sprich]* → `.ich`
- * *[spricht]* → `.icht`
-
-
-# :/
-
-* *[statt]* → `sta`
- * *[/stätt/]* → `.ät` :/
-* *kartei* → `k.at.ei` :/
-* *vorsicht* → `O-i` → `O,i` → `O.icht` :/
-* *[/scheid/]* → `.eid`
- * *schied* → `sch.id` :/
-    * -*[/schied/]*- → `.id`
-       * : *ab[/schied/]* → `.ab.id`
-
-* *[trag]* → `tra`
- * *[träg]* → `tr`
- * *trug* → `tr.ug` :/
-
-* *tret* → `tr.et` :/ `tr.e`
- * *[/tritt/]* → `.it` :/ `tri`
- * *[trat]* → `tra`
-
-* *treff* → `tr.ef` :/ `.ef`
- * *[/triff/]* → `.if`
- * *[/traf/]* → `.af`
- * *[/troff/]* → `.of`
-
-* *[wahl]* → `wa`
- * *wähl* → `w.el` :/ `w`
-
-* -*{/wert/}* → *{wert}* → `;-t`
- * : *{er}[streb]ens{/wert/}* → `er>str;-t` :/ `er>str-t`
+DOKTOR
+FEHLER
+EIFER
