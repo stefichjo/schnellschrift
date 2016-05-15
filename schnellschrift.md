@@ -1,48 +1,7 @@
-* *[hol]* → `ho`
-* *[hör]* → `hö`
+### **
 
-* -*<hol>*- → `o`
- * : *{wieder}<hol>* → `W-o`
-
-* -*{irgend}*- → `.i`
- * : *{irgend}{wie}* → `.i-I`
- * : *{irgend}[wo]* → `.i-wo`
- * : *{irgend}wann* → `.i-w.an`
-
-* -*{wie}*- → `I`
-
-* *[jahr]* → `ja`
-* -*[|jahr|]*- `.ar`
- * : *{in} {ein}er reihe {|von|} [|jahr|]en* → `.I.ei-er-r.eih.ar.en`
-
+* *bei* → `b.ei`
 * *ein* → `N`
- * -*{ein}*- → `.ei`
-    * : *{ein}e* → `.ei-e`
-    * : *{ein}er* → `.ei-er`
-
-* *land* → `la`
- * *länd* → `l`
-    * *{länder}* → `;dr`
-
-* -*[haft]*- → `ha`
- * : *{einzel}[haft]* → `.ei-ha`
-
-* *[druck]* → `dru`
-
-* -*<druck>*- → `u`
- * : *{aus}<druck>* → `.S-u`
- * : *[|nach|][druck]* → `ach.dru` :/ `ach-u`
-
-* *[fahr]* → `fa`
- * *fahrt* → `fat`
- * *fähr* → `f.är` :/
-    * *fährd* → `f.ed`
-    * *[fährt]* → `ft`
- * *[fuhr]* → `fu`
-
-* *[fall]* → `fa`
- * *fiel* → `f.il` :/ `fi`
-
 * *fang* → `f.ang`
  * -*[fang]*- → `fa` :/ `ang`
     * : *be[fang]* → `b.fa`
@@ -54,29 +13,6 @@
     * -*[|fäng|]*- → `eng`
        * : *{ver}[|fäng|]{lich}* → `E.eng.L`
  * *fing* → `f.ing`
-
-* *[|flieg|]* → `.ig`
- * *[|flog|]* → `.og`
- * *[|flug|]* → `.ug`
-
-* *[flieh]* → `fli`
- * -*[|flieh|]*- → `.ih`
-    * : *{ent}[|flieh|]* → `eNT.ih` :/ `eNT,fli`
- * *[|floh|] → `.oh` :/ `flo`
-    * → *[|flucht|] → `.ucht` :/ `flu`
-
-* *[fließ]* → `fli`
- * *[floss]* → `flo`
-    * → *[floß]* → (?)
- * *[fluss]* → `flu`
-    * *[|flüss|]* → `.üss` :/ `flÜ`
-
-* *[früh]* → `frÜ`
- * -*<früh>*- → `Ü`
-    * *heute.<früh>* → `heu-Ü`
-    * *[morg]en.<früh>* → `mo-Ü`
-    * *{schon}.<früh>er* → `sch-Ü-er`
-
 * *fug* → `f.ug`
  * *füg* → `f.üg`
     * -*<füg>*- → `Ü`
@@ -88,7 +24,6 @@
        * : *{ge}[|füg|]* → `G.üg` :/ `G-Ü`
        * : *{zu}[|füg|]* → `Z.üg` :/ `Z-Ü`
        * : *{zu}{samm}en[|füg|]* → `Z-sa.üg` :/ `Z-sa-Ü`
-
 * *führ* → `f.ür`
  * -*[|führ|]*- → `.ür`
     * : *<üb>er[|führ|]* → `Ü-ür`
@@ -98,78 +33,154 @@
     * : *an{führ}* → `.an-Ür` :/ `.an.ür`
     * : *auf{führ}* → `AU-Ür` :/ `AU.ür`
     * : *ein{führ}* → `N-Ür` :/ `N.ür`
-    * : *{her}{bei}{führ}* → `h.ei-Ür` :/ `h.ei-ür`
+    * : *[her]{bei}{führ}* → `h.ei-Ür` :/ `h.ei-ür`
     * : *{unter}{führ}{ung}* → `UNTER-Ür-UNG` :/ `UNTER.ür-UNG`
     * : *{ver}{führ}* → `E-Ü` :/ `E.ür`
     * : *{vor}{führ}* → `O-Ü` :/ `O.ür`
  * -*{|führ|}*- → `ü`
     * : *{aus}{|führ|}{lich}* → `.S-ü.L` :/ `.S.ür`
-    * : *{durch}{|führ|} → `dr-ü` :/ `dr.ür`
-
-* *bei* → `b.ei`
- * -*{bei}*- → `.ei`
-    * : *{bei}[trag]* → `.ei>tra`
-    * : *{her}{bei}* → `h.ei`
-
-* *[füll]* → `fÜ`
- * -*<füll>*- → `Ü`
-    * *{er}<füll>* → `er-Ü`
-
+    * : *{durch}{|führ|} → `dr-ü` :/ `dr.ür`* *haft* → `h.aft` (?)
 * *gar* → `g.ar`
  * -*[gar]*- → `ga`
     * : *[gar].{nicht}* → `ga-t`
+* *kein* → `k.N`
 
+### *[]*
+
+* *[druck]* → `dru`
+ * *[drück]* → `drÜ` (?)
+* *[fahr]* → `fa`
+ * *fahrt* → `fat`
+ * *fähr* → `f.är` :/
+    * *fährd* → `f.ed`
+    * *[fährt]* → `ft`
+ * *[fuhr]* → `fu`
+* *[fall]* → `fa`
+ * *fiel* → `f.il` :/ `fi`
+* *[flieh]* → `fli`
+ * -*[|flieh|]*- → `.ih`
+    * : *{ent}[|flieh|]* → `eNT.ih` :/ `eNT,fli`
+ * *[|floh|] → `.oh` :/ `flo`
+    * → *[|flucht|] → `.ucht` :/ `flu`
+* *[fließ]* → `fli`
+ * *[floss]* → `flo`
+    * → *[floß]* → (?)
+ * *[fluss]* → `flu`
+    * *[|flüss|]* → `.üss` :/ `flÜ`
+* *[frucht]* → `fru` (?)
+* *[früh]* → `frÜ`
+* *[haupt]* → `hau` (?)
+* *[her]* → `h`
+* *[heut]* → `heu`
+* *[morg]en* → `mo`
+* *[hol]* → `ho`
+* *[hör]* → `hö`
+* *[jahr]* → `ja`
+* *[land]* → `la`
+ * *[länd]* → `l`
+
+### -*[]*-
+
+* -*[haft]*- → `ha`
+ * : *{einzel}[haft]* → `.ei-ha`
+
+### *[||]
+
+* *[|flieg|]* → `.ig`
+ * *[|flog|]* → `.og`
+ * *[|flug|]* → `.ug`
 * *[|glied|]* → `.id`
-
 * *[|greif|]* → `.eif`
  * *[|griff|]* → `.if`
-
-* *[her]* → `h`
- * -*{her}*- → `.e`
-    * : *{her}{auf}* → `.e-AU`
-    * : *{her}{unter}* → `.e-UNTER`
-    * : *{her}{vor}* → `.e-O`
-
-* *{hin}* → `hn`
- * -{|hin|}- → `.in`
-    * : {da}{hin} → `da.in`
-    * : {weiter}{hin} → `T-er.in`
- * -*{|hin|}*- → `n` :/ `.in`
-    * : {|hin|}{auf} → `n>AU` :/ `.in<AU`
-    * : {|hin|}{aus} → `n.S` :/ `.in.S`
-    * : {|hin|}ein → `n.N` (?) :/ `.in.N`
-    * : {|hin|}{zu} → `n>Z` :/ `.in<Z`
-
-* *[heut]* → `heu`
-
-* *kein* → `k.N`
- * -*{kein}*- → `k`
-    * : *{kein}esfalls* → `k.fa-s`
-
-* [|klar|] → `.ar` :/ `kla` (?)
-
-* *[morg]en* → `mo`
-
+* *[|klar|]* → `.ar` :/ `kla` (?)
+* *[|lang|]* → `ang`
 * *[|nam|]* → `.am`
  * : *nam[haft]* → `n.am.ha` :/ `.am.ha`
  * : *[|näm|]{lich}* → `.äm.L`
  * : *{nament}{lich}* → `-t-L` :/ `.am.L`
+* [|recht|] → `echt`
+* *[|schlag|]* → `.ag` (?)
+ * *[|schläg|]* → `.eg` (?)
+ * *[|schlug|]* → `.ug` (?)
+ * *[|schlacht|]* → `.acht` (?)
+* *[|weis|]* → `.eis`
+ * *wies* → `w.is` :/ `.is`
+    * -*[|wies|]*- → `.is`
+       * : *{ge}[|wies|]en* `G.is`
 
+### -*[||]*-
+
+* -*[|jahr|]*- `.ar`
+ * : *{in}.{ein}er.reihe.{|von|}.[|jahr|]en* → `.I.ei-er-r.eih.ar.en`
+
+### *{}*
+
+* *{hin}* → `hn`
+* *{länder}* → `;dr` :/ `l.er`
+* *{länger}* → `NG`
+* *{macht}* → `aCHT` (?)
+
+### -*{}*-
+
+* -*{bei}*- → `.ei`
+ * : *{bei}[trag]* → `.ei>tra`
+ * : *[her]{bei}* → `h.ei`
+* -*{ein}*- → `.ei`
+ * : *{ein}e* → `.ei-e`
+ * : *{ein}er* → `.ei-er`
+* -*{her}*- → `.e`
+ * : *{her}{auf}* → `.e-AU`
+ * : *{her}{unter}* → `.e-UNTER`
+ * : *{her}{vor}* → `.e-O`
+* -*{kein}*- → `k`
+ * : *{kein}esfalls* → `k.fa-s`
+* -*{wie}*- → `I`
+ * : *{so}{wie}* → `.o>I`
+
+### *{||}*
+
+### -*{||}*-
+
+* -{|hin|}- → `.in`
+ * : {da}{hin} → `da.in`
+ * : {weiter}{hin} → `T-er.in`
+* -*{|hin|}*- → `n` :/ `.in`
+ * : {|hin|}{auf} → `n>AU` :/ `.in<AU`
+ * : {|hin|}{aus} → `n.S` :/ `.in.S`
+ * : {|hin|}ein → `n.N` (?) :/ `.in.N`
+ * : {|hin|}{zu} → `n>Z` :/ `.in<Z`
+* -*{|irgend|}*- → `.i`
+ * : *{|irgend|}{wie}* → `.i-I`
+ * : *{|irgend|}[wo]* → `.i-wo`
+ * : *{|irgend|}wann* → `.i-w.an`
 * -*{|off|}*- → `.o`
  * -*{|öff|}*- → `.ö`
     * : *{|öff|}ent{lich}* → `.ö-L`
  * : *{|off|}en[bar]* → `.o-bar`
  * : *{|off|}en{heit}* → `.o-H`
 
-* *[|lang|]* → `ang`
-* *{länger}* → `NG`
+### *<>*
 
-* [|recht|] → `echt`
+* *<ist>* → `i`
 
-* 
+### -*<>*-
 
-___
-___
+* -*<druck>*- → `u`
+ * : *{aus}<druck>* → `.S-u`
+ * : *[|nach|][druck]* → `ach.dru` :/ `ach-u`
+* -*<früh>*- → `Ü`
+ * *heute.<früh>* → `heu-Ü`
+ * *[morg]en.<früh>* → `mo-Ü`
+ * *{schon}.<früh>er* → `sch-Ü-er`
+* -*<hol>*- → `o`
+ * : *{wieder}<hol>* → `W-o`
+* -*<wort>*- → `o`
+ * : *[bind]e<wort>* → `bi-o`
+ * : *[haupt]<wort>* → `hau-o`
+ * : *{macht}<wort>* → `aCHT-o`
+ * : *[|schlag|]<wort>* → `.ag-o`
+ * : *[sprich]<wort>* → `.ich-o`
+    * : *[sprich]<wört>{lich}* → `.ich-ö.L`
 
 # Schnellschrift
 
@@ -177,13 +188,6 @@ Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibu
 
 * *(alt)* → `.alt`
  * *älter* → `.ät-er`
-
-Einige Wörter werden nur als Wortbestandteil gekürzt.
-
-* *bar* → `b.ar`
- * -*[bar]* → `bar`
-* *da* → `d.a`
- * *[da]*- → `da`
 
 ## Vorlautausstoßung
 
@@ -214,9 +218,10 @@ Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 
 ### Inlautandeutung von *e*
 
-Der Inlaut *e* (bzw. *ä*) bleibt nach zweistufigen Abstrichzeichen ausgeschrieben.
+Der Inlaut *e* (bzw. *ä*) bleibt am Wortende nach Abstrichzeichen ausgeschrieben.
 * *[fremd]* → `fr.e`
-* *[geh]* → `g`
+* *[kenn]* → `k.e`
+* *{geh}* → `g` :/ `g.e`
 
 ### Inlautandeutung von *ei*
 
@@ -225,7 +230,7 @@ Der Inlaut *ei* kann nicht angedeutet werden. Daher bleibt *ei* (und verwandtes 
  * *[blieb]* → `bl.i`
 * *[blind]* → `bli`
 
-### Streckende und stellende Inlautandeutung
+### Inlautandeutung durch Streckung und Stellung
 
 * *[brech]* → `br`
  * *[brich]* → `bri`
@@ -256,7 +261,7 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen verschm
 Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
 * *[wasser]* → `was-er`
 
-### Alternative zur Inlautandeutung
+### Auslautkürzung
 
 Alternativ zur Inlautandeutung kann auf den Auslaut gekürzt werden.
 
@@ -269,6 +274,15 @@ Die Inlaute *e* (bzw. *ä*) und *a* werden bei der Auslautkürzung ohne Anstrich
 * *[|kampf|]* → `ampf`
 
 ## Wortverbindungen
+
+Einige Wörter werden nur als Wortbestandteil gekürzt.
+
+* *bar* → `b.ar`
+ * -*[bar]*- → `bar`
+    * : *[frucht][bar]* → `fru.bar`
+* *da* → `d.a`
+ * -*[da]*- → `da`
+    * : *[da][her]* → `da.h`
 
 ### -*er*
 
@@ -291,7 +305,7 @@ Der Ausstoß eines Fußschlaufenzeichen wird ggf. rückgängig gemacht und es wi
 
 * *\<ist>* → `i`
 * *[schrift]* → `.ift`
- * -*\<schrift>* → `i`
+ * -*\<schrift>*- → `i`
 
 ___
 
@@ -329,7 +343,9 @@ Bereits in der Verkehrsschrift wird Dehnungs-*h* vor der Endung *t* ausgestoßen
 * *[bild]* → `bi`
 * *[tief]* → `ti`
 * *[fa]* → `fa`
-
+* *[füll]* → `fÜ`
+ * -*<füll>*- → `Ü`
+    * *{er}<füll>* → `er-Ü`
 * *[schreck]* → `schr`
  * *[schrick]* → `.ik` (?)
  * *[schrak]* → `schra`
