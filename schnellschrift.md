@@ -15,19 +15,19 @@
  * *fing* → `f.ing`
 * *fug* → `f.ug`
  * *füg* → `f.üg`
-    * -*/<füg>*- → `Ü`
-       * : *an/<füg>* → `.an-Ü`
-       * : *ein/<füg>* → `N-Ü`
-       * : *{ge}[/ring/]/<füg>{ig}* → `G.ing-Ü-i`
-       * : *{ver}/<füg>* → `E-Ü`
+    * -*\<füg>*- → `Ü`
+       * : *an\<füg>* → `.an-Ü`
+       * : *ein\<füg>* → `N-Ü`
+       * : *{ge}[/ring/]\<füg>{ig}* → `G.ing-Ü-i`
+       * : *{ver}\<füg>* → `E-Ü`
     * -*[/füg/]*- → `.üg`
        * : *{ge}[/füg/]* → `G.üg` :/ `G-Ü`
        * : *{zu}[/füg/]* → `Z.üg` :/ `Z-Ü`
        * : *{zu}{samm}en[/füg/]* → `Z-sa.üg` :/ `Z-sa-Ü`
 * *führ* → `f.ür`
  * -*[/führ/]*- → `.ür`
-    * : */<üb>er[/führ/]* → `Ü-ür`
-    * : */<zu>[rück][/führ/]* → `u-rÜ/<ür`
+    * : *\<üb>er[/führ/]* → `Ü-ür`
+    * : *\<zu>[rück][/führ/]* → `u-rÜ\<ür`
  * -*{führ}*- → `Ür`
     * : *ab{führ}* → `.ab-Ür` :/ `.ab.ür`
     * : *an{führ}* → `.an-Ür` :/ `.an.ür`
@@ -145,10 +145,10 @@
  * : {da}{hin} → `da.in`
  * : {weiter}{hin} → `T-er.in`
 * -*{/hin/}*- → `n` :/ `.in`
- * : {/hin/}{auf} → `n>AU` :/ `.in/<AU`
+ * : {/hin/}{auf} → `n>AU` :/ `.in\<AU`
  * : {/hin/}{aus} → `n.S` :/ `.in.S`
  * : {/hin/}ein → `n.N` (?) :/ `.in.N`
- * : {/hin/}{zu} → `n>Z` :/ `.in/<Z`
+ * : {/hin/}{zu} → `n>Z` :/ `.in\<Z`
 * -*{/irgend/}*- → `.i`
  * : *{/irgend/}{wie}* → `.i-I`
  * : *{/irgend/}[wo]* → `.i-wo`
@@ -159,28 +159,28 @@
  * : *{/off/}en[bar]* → `.o-bar`
  * : *{/off/}en{heit}* → `.o-H`
 
-### */<>*
+### *\<>*
 
-* */<ist>* → `i`
+* *\<ist>* → `i`
 
-### -*/<>*-
+### -*\<>*-
 
-* -*/<druck>*- → `u`
- * : *{aus}/<druck>* → `.S-u`
+* -*\<druck>*- → `u`
+ * : *{aus}\<druck>* → `.S-u`
  * : *[/nach/][druck]* → `ach.dru` :/ `ach-u`
-* -*/<früh>*- → `Ü`
- * *heute./<früh>* → `heu-Ü`
- * *[morg]en./<früh>* → `mo-Ü`
- * *{schon}./<früh>er* → `sch-Ü-er`
-* -*/<hol>*- → `o`
- * : *{wieder}/<hol>* → `W-o`
-* -*/<wort>*- → `o`
- * : *[bind]e/<wort>* → `bi-o`
- * : *[haupt]/<wort>* → `hau-o`
- * : *{macht}/<wort>* → `aCHT-o`
- * : *[/schlag/]/<wort>* → `.ag-o`
- * : *[sprich]/<wort>* → `.ich-o`
-    * : *[sprich]/<wört>{lich}* → `.ich-ö.L`
+* -*\<früh>*- → `Ü`
+ * *heute.\<früh>* → `heu-Ü`
+ * *[morg]en.\<früh>* → `mo-Ü`
+ * *{schon}.\<früh>er* → `sch-Ü-er`
+* -*\<hol>*- → `o`
+ * : *{wieder}\<hol>* → `W-o`
+* -*\<wort>*- → `o`
+ * : *[bind]e\<wort>* → `bi-o`
+ * : *[haupt]\<wort>* → `hau-o`
+ * : *{macht}\<wort>* → `aCHT-o`
+ * : *[/schlag/]\<wort>* → `.ag-o`
+ * : *[sprich]\<wort>* → `.ich-o`
+    * : *[sprich]\<wört>{lich}* → `.ich-ö.L`
 
 # Schnellschrift
 
@@ -344,8 +344,8 @@ Bereits in der Verkehrsschrift wird Dehnungs-*h* vor der Endung *t* ausgestoßen
 * *[tief]* → `ti`
 * *[fa]* → `fa`
 * *[füll]* → `fÜ`
- * -*/<füll>*- → `Ü`
-    * *{er}/<füll>* → `er-Ü`
+ * -*\<füll>*- → `Ü`
+    * *{er}\<füll>* → `er-Ü`
 * *[schreck]* → `schr`
  * *[schrick]* → `.ik` (?)
  * *[schrak]* → `schra`
@@ -382,26 +382,26 @@ Bereits in der Verkehrsschrift wird Dehnungs-*h* vor der Endung *t* ausgestoßen
 * *[sprich]* → `.ich`
  * *[spricht]* → `.icht`
 
-# */<>*
+# *\<>*
 
 Wortbestandteile können auf den Inlaut gekürzt werden. Der vorhergehende Wortbestandteil wird dann mit dem gekürzten Inlaut verschmolzen. Ist eine Verschmelzung nicht möglich, so wird abgesetzt.
-* -*/<schrift>*- → `i`
- * : *{vor}/<schrift>* → `O-i`
- * : *[kurz]/<schrift>* → `ku,i`
-* -*/<sicht>*- → `i`
- * : *ab/<sicht>* → `.ab-i`
- * : *an{ge}/<sicht>* → `.an.G,i`
- * : *{auf}/<sicht>* → `AU-i`
- * : *{zu}{ver}/<sicht>* → `Z.E-i`
+* -*\<schrift>*- → `i`
+ * : *{vor}\<schrift>* → `O-i`
+ * : *[kurz]\<schrift>* → `ku,i`
+* -*\<sicht>*- → `i`
+ * : *ab\<sicht>* → `.ab-i`
+ * : *an{ge}\<sicht>* → `.an.G,i`
+ * : *{auf}\<sicht>* → `AU-i`
+ * : *{zu}{ver}\<sicht>* → `Z.E-i`
 
-# */<//>*
+# *\<//>*
 
-* -*/<schied>*- → `i`
- * : *{unter}/<schied>* → `UNTER-i`
-* -*/<schrift>*- → `i`
- * : *{unter}/</schrift/>* → `UNTER,i`
-* -*/<spruch>*- → `u`
- * : *{wider}/<spruch> → `W-u`
+* -*\<schied>*- → `i`
+ * : *{unter}\<schied>* → `UNTER-i`
+* -*\<schrift>*- → `i`
+ * : *{unter}\</schrift/>* → `UNTER,i`
+* -*\<spruch>*- → `u`
+ * : *{wider}\<spruch> → `W-u`
 
 # *{//}*
 
