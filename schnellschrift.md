@@ -8,7 +8,7 @@ ___
 
 * *(alt)* → `.alt`
 
-### Vorlautausstoßung
+## Vorlautausstoßung
 
 Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
 * *end* → `.ed`
@@ -73,7 +73,7 @@ ___
 * *ort* → `.ot`
 * *wort* → `wot`
 
-### *[]*
+## *[]*
 
 Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 * *[bald]* → `ba`
@@ -168,12 +168,25 @@ ___
 * *[wass]er* → `was-er`
 * *[wer]* → `wer`
 
-### -*[]*-
+## -*[]*-
 
 * -*[haft]*- → `ha`
  * : *{einzel}[haft]* → `.ei-ha`
 
-### *[//]*
+## *[//]*
+
+Alternativ zur Inlautandeutung kann auf den Auslaut gekürzt werden.
+
+* *[/schreib/]* → `.eib`
+ * *[/schrieb/]* → `.ib`
+
+Die Inlaute *e* (bzw. *ä*) und *a* werden bei Auslautkürzung ohne Anstrich geschrieben.
+
+* *[/rech/]* → `ech`
+* *[/text/]* → `ext`
+* *[/kampf/]* → `ampf`
+
+___
 
 * *[/flieg/]* → `.ig`
  * *[/flog/]* → `.og`
@@ -181,28 +194,34 @@ ___
 * *[/glied/]* → `.id`
 * *[/greif/]* → `.eif`
  * *[/griff/]* → `.if`
+* *[/kampf/]* → `ampf`
+ * *[/kämpf/]* → `empf`
 * *[/klar/]* → `.ar` :/ `kla` (?)
 * *[/lang/]* → `ang`
 * *[/nam/]* → `.am`
  * : *nam[haft]* → `n.am.ha` :/ `.am.ha`
  * : *[/näm/]{lich}* → `.äm.L`
  * : *{nament}{lich}* → `-t-L` :/ `.am.L`
+* *[/rech/]* → `ech`
 * *[/recht/]* → `echt`
 * *[/schlag/]* → `.ag` (?)
  * *[/schläg/]* → `.eg` (?)
  * *[/schlug/]* → `.ug` (?)
  * *[/schlacht/]* → `.acht` (?)
+* *[/schreib/]* → `.eib`
+ * *[/schrieb/]* → `.ib`
+* *[/text/]* → `ext`
 * *[/weis/]* → `.eis`
  * *wies* → `w.is` :/ `.is`
     * -*[/wies/]*- → `.is`
        * : *{ge}[/wies/]en* `G.is`
 
-### -*[//]*-
+## -*[//]*-
 
 * -*[/jahr/]*- `.ar`
  * : *{in}.{ein}er.reihe.{/von/}.[/jahr/]en* → `.I.ei-er-r.eih.ar.en`
 
-### *{}*
+## *{}*
 
 * *{geh}* → `g` :/ `g.e`
 * *{hin}* → `hn`
@@ -210,7 +229,7 @@ ___
 * *{länger}* → `NG`
 * *{macht}* → `aCHT` (?)
 
-### -*{}*-
+## -*{}*-
 
 * -*{bei}*- → `.ei`
  * : *{bei}[trag]* → `.ei>tra`
@@ -227,9 +246,9 @@ ___
 * -*{wie}*- → `I`
  * : *{so}{wie}* → `.o>I`
 
-### *{//}*
+## *{//}*
 
-### -*{//}*-
+## -*{//}*-
 
 * -{/hin/}- → `.in`
  * : {da}{hin} → `da.in`
@@ -249,11 +268,11 @@ ___
  * : *{/off/}en[bar]* → `.o-bar`
  * : *{/off/}en{heit}* → `.o-H`
 
-### *\<>*
+## *\<>*
 
 * *\<ist>* → `i`
 
-### -*\<>*-
+## -*\<>*-
 
 * -*\<druck>*- → `u`
  * : *{aus}\<druck>* → `.S-u`
@@ -272,19 +291,7 @@ ___
  * : *[sprich]\<wort>* → `.ich-o`
     * : *[sprich]\<wört>{lich}* → `.ich-ö.L`
 
-
-
-### Auslautkürzung
-
-Alternativ zur Inlautandeutung kann auf den Auslaut gekürzt werden.
-
-* *[/schreib/]* → `.eib`
-
-Die Inlaute *e* (bzw. *ä*) und *a* werden bei der Auslautkürzung ohne Anstrich geschrieben.
-
-* *[/rech/]* → `ech`
-* *[/text/]* → `ext`
-* *[/kampf/]* → `ampf`
+___
 
 ## Wortverbindungen
 
