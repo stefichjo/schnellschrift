@@ -8,6 +8,19 @@ ___
 
 * *(alt)* → `.alt`
 
+## Verschmelzung und Andeutung von Wortbestandteilen
+
+Die Endung *er* wird verschmolzen.
+* *aber* → `ab-er`
+
+Die Endung *ung* wird durch Auslassen der Fußschleife angedeutet. Hierfür wird zwischen Inlautandeutung und Auslautkürzung gewechselt.
+* *[zahl]* → `za`
+ * *[zahl]{ung}* → `za*`
+* *[sitz]* → `si`
+ * *[sitz]{ung}* → `.iz*`
+* *[/stell/]* → `.ell`
+ * *[/stell/]{ung}* → `st*`
+
 ## Vorlautausstoßung
 
 Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
@@ -22,7 +35,9 @@ Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut 
 
 ___
 
+* *bar* → `b.ar`
 * *bei* → `b.ei`
+* *da* → `d.a`
 * *ein* → `N`
 * *end* → `.ed`
 * *erst* → `.est`
@@ -66,11 +81,10 @@ ___
     * : *{aus}{/führ/}{lich}* → `.S-ü.L` :/ `.S.ür`
     * : *{durch}{/führ/} → `dr-ü` :/ `dr.ür`* *haft* → `h.aft` (?)
 * *gar* → `g.ar`
- * -*[gar]*- → `ga`
-    * : *[gar].{nicht}* → `ga-t`
 * *hals* → `h.a-s`
 * *kein* → `k.N`
 * *ort* → `.ot`
+* *um* → `.um`
 * *wort* → `wot`
 
 ## *[]*
@@ -156,6 +170,9 @@ ___
  * *[länd]* → `l`
 * *[pass]* → `pass`
 * *[schnell]* → `schn`
+* *[schrift]* → `.ift`
+* *[sitz]* → `si`
+ * : *[sitz]{ung}* → `.iz*`
 * *[sprech]* → `spr`
  * *[sprich]* → `.ich`
  * *[sprach]* → `spra`
@@ -164,12 +181,23 @@ ___
    * *[spruch]* → `.uch`
      * *[sprüch]* → `.üch` 
 * *[statt]* → `sta`
+* *[wahr]* → `wa`
 * *[was]* → `was`
 * *[wass]er* → `was-er`
 * *[wer]* → `wer`
+* *[zahl]* → `za`
+ * : *[zahl]{ung}* → `za*`
 
-## -*[]*-
+### -*[]*-
 
+___
+
+* -*[bar]*- → `bar`
+ * : *[frucht][bar]* → `fru.bar`
+* -*[da]*- → `da`
+ * : *[da][her]* → `da.h`
+* -*[gar]*- → `ga`
+ * : *[gar].{nicht}* → `ga-t`
 * -*[haft]*- → `ha`
  * : *{einzel}[haft]* → `.ei-ha`
 
@@ -191,6 +219,8 @@ ___
 * *[/flieg/]* → `.ig`
  * *[/flog/]* → `.og`
  * *[/flug/]* → `.ug`
+* *[/gang/]* → `ang`
+ * *[/ging/]* → `.ing`
 * *[/glied/]* → `.id`
 * *[/greif/]* → `.eif`
  * *[/griff/]* → `.if`
@@ -210,13 +240,15 @@ ___
  * *[/schlacht/]* → `.acht` (?)
 * *[/schreib/]* → `.eib`
  * *[/schrieb/]* → `.ib`
+* *[/stell/]* → `.ell`
+ * : *[/stell/]{ung}* → `st*`
 * *[/text/]* → `ext`
 * *[/weis/]* → `.eis`
  * *wies* → `w.is` :/ `.is`
     * -*[/wies/]*- → `.is`
        * : *{ge}[/wies/]en* `G.is`
 
-## -*[//]*-
+### -*[//]*-
 
 * -*[/jahr/]*- `.ar`
  * : *{in}.{ein}er.reihe.{/von/}.[/jahr/]en* → `.I.ei-er-r.eih.ar.en`
@@ -228,8 +260,11 @@ ___
 * *{länder}* → `;dr` :/ `l.er`
 * *{länger}* → `NG`
 * *{macht}* → `aCHT` (?)
+* *{stand}* → `.and`
+* *{sund}* → `.und`
+ * : *{ge}{sund} → `G.und`
 
-## -*{}*-
+### -*{}*-
 
 * -*{bei}*- → `.ei`
  * : *{bei}[trag]* → `.ei>tra`
@@ -242,13 +277,13 @@ ___
  * : *{her}{unter}* → `.e-UNTER`
  * : *{her}{vor}* → `.e-O`
 * -*{kein}*- → `k`
- * : *{kein}esfalls* → `k.fa-s`
+ * : *{kein}es[fall]s* → `k.fa-s`
 * -*{wie}*- → `I`
  * : *{so}{wie}* → `.o>I`
 
 ## *{//}*
 
-## -*{//}*-
+### -*{//}*-
 
 * -{/hin/}- → `.in`
  * : {da}{hin} → `da.in`
@@ -272,7 +307,7 @@ ___
 
 * *\<ist>* → `i`
 
-## -*\<>*-
+### -*\<>*-
 
 * -*\<druck>*- → `u`
  * : *{aus}\<druck>* → `.S-u`
@@ -283,6 +318,8 @@ ___
  * *{schon}.\<früh>er* → `sch-Ü-er`
 * -*\<hol>*- → `o`
  * : *{wieder}\<hol>* → `W-o`
+* -*\<um>*- → `u`
+ * : [war]\<um> → `war-u`
 * -*\<wort>*- → `o`
  * : *[bind]e\<wort>* → `bi-o`
  * : *[haupt]\<wort>* → `hau-o`
@@ -292,53 +329,17 @@ ___
     * : *[sprich]\<wört>{lich}* → `.ich-ö.L`
 
 ___
-
-## Wortverbindungen
-
-Einige Wörter werden nur als Wortbestandteil gekürzt.
-
-* *bar* → `b.ar`
- * -*[bar]*- → `bar`
-    * : *[frucht][bar]* → `fru.bar`
-* *da* → `d.a`
- * -*[da]*- → `da`
-    * : *[da][her]* → `da.h`
-
-### -*er*
-
-Die Endung *er* wird verschmolzen.
-* *aber* → `ab-er`
-
-### -*ung*
-
-Die Endung *ung* wird durch Auslassen der Fußschleife angedeutet.
-* *[zahl]* → `za`
- * *[zahl]{ung}* → `za*`
-
-Der Ausstoß eines Fußschlaufenzeichen wird ggf. rückgängig gemacht und es wird dafür der jeweils andere Laut ausgestoßen.
-* *[sitz]* → `si`
- * *[/sitz/]{ung}* → `.iz*`
-* *[/stell/]* → `.ell`
- * *[stell]{ung}* → `st*`
-
-## Inlautkürzung
-
-* *\<ist>* → `i`
-* *[schrift]* → `.ift`
- * -*\<schrift>*- → `i`
-
 ___
 
-* *{stand}* → `.and`
-* *{ge}{sund}* → `G.und`
-* *[/gang/]* → `ang`
-* *[/ging/]* → `.ing`
+
+
+
 * *saß* → `s.ass`
+
 * *schifffahrt* → `sch.if-fat`
+
 * *[klein]* → `;N`
 * *[/war/]* → `:ar`
-* *[wahr]* → `wa`
-* *[warum]* → `war-u`
 
 
 # *...*
@@ -402,7 +403,7 @@ Bereits in der Verkehrsschrift wird Dehnungs-*h* vor der Endung *t* ausgestoßen
 * *[sprich]* → `.ich`
  * *[spricht]* → `.icht`
 
-# *\<>*
+# -*\<>*-
 
 Wortbestandteile können auf den Inlaut gekürzt werden. Der vorhergehende Wortbestandteil wird dann mit dem gekürzten Inlaut verschmolzen. Ist eine Verschmelzung nicht möglich, so wird abgesetzt.
 * -*\<schrift>*- → `i`
