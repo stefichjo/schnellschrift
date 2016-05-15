@@ -134,12 +134,11 @@ Kann das Anlautzeichen nicht gestreckt oder hoch- bzw. tiefgestellt werden, so w
 
 Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * *[wer]* → `wer`
+* *[fehl]er* → `fer`
 
-Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen verschmolzen.
+Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen verschmolzen. Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
 * *[was]* → `was`
 * *[pass]* → `pass`
-
-Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
 * *[wass]er* → `was-er`
 
 ___
@@ -232,13 +231,13 @@ ___
 
 ___
 
-* -*[bar]*- → `bar`
+* -*{bar}*- → -*[bar]*- → `bar`
  * : *[frucht][bar]* → `fru.bar`
-* -*[da]*- → `da`
+* -*{da}*- → -*[da]*- → `da`
  * : *[da][her]* → `da.h`
 * -*[gar]*- → `ga`
  * : *[gar].{nicht}* → `ga-t`
-* -*[haft]*- → `ha`
+* -*{haft}*- → -*[haft]*- → `ha`
  * : *{/einzel/}[haft]* → `.ei-ha`
 * -*[sach]*- → `sa`
  * : [sach]{ver}{/halt/} → `sa.E-t`
@@ -314,7 +313,7 @@ ___
 
 ## *\<>*
 
-* *\<ist>* → `i`
+* *{ist}* → *\<ist>* → `i`
 
 ### -*\<>*-
 
@@ -377,6 +376,8 @@ ___
 
 ## *{}*
 
+* *{aber}* → `ber`
+* *{doktor}* → `der`
 * *{einz}* → `N`
 * *{forder}* → `F`
  * : *{er}{/forder/}{lich}* → er.o-L
@@ -417,6 +418,7 @@ ___
 Eine alternative Kürzelform besteht in der Ausstoßung des Anlauts und des Auslauts. Der Inlaut *a* (bzw. *ä*) wird durch die Hochstellung auf die Oberlinie angedeutet.
 * -*{/ein/}*- → `.ei`
 * -*{/einzel/}*- → `.ei`
+* -*{/et/}*- → `.e`
 * -*{/forder/}*- → `.o`
 * -*{/her/}*- → `.e`
 * -*{/irgend/}*- → `.i`
@@ -435,6 +437,8 @@ ___
 * -*{/ein/}*- → `.ei`
  * : *{/ein/}e* → `.ei-e`
  * : *{/ein/}er* → `.ei-er`
+* -*{/et/}*- → `.e`
+ * : *{/et/}[was]* → `.e-was`
 * -*{/forder/}- → `.o`
 * *{/halt/}* → `;-t`
  * : [sach]{ver}{/halt/} → `sa.E-t`
@@ -476,7 +480,3 @@ ___
  * : {/hin/}{aus} → `n.S` :/ `.in.S`
  * : {/hin/}ein → `n.N` (?) :/ `.in.N`
  * : {/hin/}{zu} → `n>Z` :/ `.in\<Z`
-
-DOKTOR
-FEHLER
-EIFER
