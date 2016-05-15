@@ -1,7 +1,5 @@
 # Schnellschrift
 
-### *()*
-
 Einige Wörter behalten in der Schnellschrift ihre verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
 * *(alt)* → `.alt`
  * *älter* → `.ät-er`
@@ -10,7 +8,7 @@ ___
 
 * *(alt)* → `.alt`
 
-### * *
+### Vorlautausstoßung
 
 Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
 * *end* → `.ed`
@@ -21,6 +19,8 @@ Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut 
 * *hals* → `h.a-s`
 * *wort* → `wot`
 * *ort* → `.ot`
+
+___
 
 * *bei* → `b.ei`
 * *ein* → `N`
@@ -173,7 +173,7 @@ ___
 * -*[haft]*- → `ha`
  * : *{einzel}[haft]* → `.ei-ha`
 
-### *[//]
+### *[//]*
 
 * *[/flieg/]* → `.ig`
  * *[/flog/]* → `.og`
