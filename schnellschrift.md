@@ -83,7 +83,7 @@ ___
     * : *an{führ}* → `.an-Ür` :/ `.an.ür`
     * : *auf{führ}* → `AU-Ür` :/ `AU.ür`
     * : *ein{führ}* → `N-Ür` :/ `N.ür`
-    * : *[her]{bei}{führ}* → `h.ei-Ür` :/ `h.ei-ür`
+    * : *[her][/bei/]{führ}* → `h.ei-Ür` :/ `h.ei-ür`
     * : *{unter}{führ}{ung}* → `UNTER-Ür-UNG` :/ `UNTER.ür-UNG`
     * : *{ver}{führ}* → `E-Ü` :/ `E.ür`
     * : *{vor}{führ}* → `O-Ü` :/ `O.ür`
@@ -182,7 +182,7 @@ ___
  * -*\<füll>*- → `Ü`
     * *{er}\<füll>* → `er-Ü`
 * *[hand]* → `ha`
- : *{einzel}[händ]ler* → `.ei-h-er`
+ : *{/einzel/}[händ]ler* → `.ei-h-er`
 * *[haupt]* → `hau` (?)
 * *[her]* → `h`
 * *[heut]* → `heu`
@@ -239,7 +239,7 @@ ___
 * -*[gar]*- → `ga`
  * : *[gar].{nicht}* → `ga-t`
 * -*[haft]*- → `ha`
- * : *{einzel}[haft]* → `.ei-ha`
+ * : *{/einzel/}[haft]* → `.ei-ha`
 * -*[sach]*- → `sa`
  * : [sach]{ver}{/halt/} → `sa.E-t`
 
@@ -304,99 +304,13 @@ ___
 
 ### -*[//]*-
 
+* -*[/bei/]*- → `.ei`
+ * : *[/bei/][trag]* → `.ei>tra`
+ * : *[her][/bei/]* → `h.ei`
 * -*[/jahr/]*- `.ar`
- * : *{in}.{ein}er.reihe.{/von/}.[/jahr/]en* → `.I.ei-er-r.eih.ar.en`
+ * : *{in}.{/ein/}er.reihe.{/von/}.[/jahr/]en* → `.I.ei-er-r.eih.ar.en`
 * -*[/trieb/]*- → `.ib`
  * : be[/trieb/] → `b.ib`
-
-## *{}*
-
-* *{einz}* → `N`
-* *{forder}* → `F`
-* *{geh}* → `g` :/ `g.e`
-* *{hatt}* → `t`
- * *{hätt}* → *[/hätt/]* → `.ät`
-* *{hin}* → `hn`
-* *{kartei}* → `k.at.ei` :/ (?)
-* *{klein}* → `;N`
-* *{länder}* → `;dr` :/ `l.er`
-* *{länger}* → `NG`
-* *{macht}* → `aCHT` (?)
-* *{markt}* → `;kt`
-* *{punkt}* → `pt`
-* *{schon}* → `sch`
-* *{soll}* → `;S`
-* *{stand}* → `.and`
-* *{sund}* → `.und`
- * : *{ge}{sund} → `G.und`
-* *{ton}* → `:o`
- * *{tön}* → `:ö`
-* *{war}* → `:ar`
- * *{wär}* → `:är`
-
-### -*{}*-
-
-* -*{bei}*- → `.ei`
- * : *{bei}[trag]* → `.ei>tra`
- * : *[her]{bei}* → `h.ei`
-* -*{ein}*- → `.ei`
- * : *{ein}e* → `.ei-e`
- * : *{ein}er* → `.ei-er`
-* -*{einzel}*- → `.ei`
-* -*{her}*- → `.e`
- * : *{her}{auf}* → `.e-AU`
- * : *{her}{unter}* → `.e-UNTER`
- * : *{her}{vor}* → `.e-O`
-* -*{kein}*- → `k`
- * : *{kein}es[fall]s* → `k.fa-s`
-* -*{wie}*- → `I`
- * : *{so}{wie}* → `.o>I`
-
-## *{//}*
-
-### -*{//}*-
-
-* -*{/forder/}- → `.o`
- * : *{er}{/forder/}{lich}* → er.o-L
-* *{/halt/}* → `;-t`
- * : [sach]{ver}{/halt/} → `sa.E-t`
-* -*{/hin/}*- → `.in`
- * : {da}{hin} → `da.in`
- * : {weiter}{hin} → `T-er.in`
-* -*{/hin/}*- → `n` :/ `.in`
- * : {/hin/}{auf} → `n>AU` :/ `.in\<AU`
- * : {/hin/}{aus} → `n.S` :/ `.in.S`
- * : {/hin/}ein → `n.N` (?) :/ `.in.N`
- * : {/hin/}{zu} → `n>Z` :/ `.in\<Z`
-* -*{/irgend/}*- → `.i`
- * : *{/irgend/}{wie}* → `.i-I`
- * : *{/irgend/}[wo]* → `.i-wo`
- * : *{/irgend/}wann* → `.i-w.an`
-* -*{/markt/}* → `;-t`
- * : *{/welt/}{/markt/}* → `;-t;-t`
-* -*{/off/}*- → `.o`
- * -*{/öff/}*- → `.ö`
-    * : *{/öff/}ent{lich}* → `.ö-L`
- * : *{/off/}en[bar]* → `.o-bar`
- * : *{/off/}en{heit}* → `.o-H`
-* -*{/sach/}*- → `a`
- * : *neben{/sach/}e* → `n.eb,a.e`
- * -*{/säch/}- → `ä`
-    * : *neben{/säch/}{lich}* → `n.eb,ä.L` (?)
-* -*{/sicht/}*- → ``
- * : *{ge}{/sicht/}*- → `G`
- * : *{hin}{/sicht/}* → `hn`
- * : *{rück}{/sicht/}* → `rÜ`
-* -*{/schied/}*- → ``
- * : *{ver}ab{/schied/}* → `E.ab`
-* -*{/wart/}*- → `;-t`
- * : *[geg]en{/wart/}* → `g-t`
- * -*{/wärt/}*- → `;-t`
-    * : *[geg]en{/wärt/}{ig}* → `g-t-ig`
-* -*{/welt/}*- → `;-t`
- * : *um{/welt/}* → `.um-t`
-* -*{/wert/}* → *{wert}* → `;-t`
- * : *{er}[streb]ens{/wert/}* → `er>str;-t` :/ `er>str-t`
 
 ## *\<>*
 
@@ -449,6 +363,119 @@ ___
 
 * -*\<schrift>*- → `i`
  * : *{unter}\</schrift/>* → `UNTER,i`
+
+## -*\<-->*-
+
+* -*\<-schied->*-
+ * : *{ver}ab\<-schied->* → `E.ab`
+* -*\<-sicht->*-
+ * : *{ge}\<-sicht->*- → `G`
+ * : *{hin}\<-sicht->* → `hn`
+ * : *{rück}\<-sicht->* → `rÜ`
+* -*\<-weiter->*-
+ * : *{und}.{so}.\<-weiter->* → `&.o`
+
+## *{}*
+
+* *{einz}* → `N`
+* *{forder}* → `F`
+ * : *{er}{/forder/}{lich}* → er.o-L
+* *{geh}* → `g` :/ `g.e`
+* *{hatt}* → `t` :/ `.at`
+ * *{hätt}* → *[/hätt/]* → `.ät`
+* *{hin}* → `hn`
+* *{kartei}* → `k.at.ei` :/ (?)
+* *{klein}* → `;N`
+* *{länder}* → `;d-er` :/ `l.er`
+* *{länger}* → `NG`
+* *{macht}* → `aCHT` (?)
+* *{punkt}* → `pt`
+* *{schon}* → `sch`
+* *{soll}* → `;S`
+* *{stand}* → `.and`
+* *{sund}* → `.und`
+ * : *{ge}{sund} → `G.und`
+* *{ton}* → `:o`
+ * *{tön}* → `:ö`
+* *{war}* → `:ar`
+ * *{wär}* → `:är`
+* *{weltmarkt}* → `;-t;-t` :/ `;-t;kt`
+
+### -*{}*-
+
+* -*{kein}*- → `k`
+ * : *{kein}es[fall]s* → `k.fa-s`
+* -*{wert}* → `;-t`
+ * : *{er}[streb]ens{wert}* → `er>str;-t` :/ `er>str-t`
+* -*{wie}*- → `I`
+ * : *{so}{wie}* → `.o>I`
+
+## *{//}*
+
+### -*{//}*-
+
+Eine alternative Kürzelform besteht in der Ausstoßung des Anlauts und des Auslauts. Der Inlaut *a* (bzw. *ä*) wird durch die Hochstellung auf die Oberlinie angedeutet.
+* -*{/ein/}*- → `.ei`
+* -*{/einzel/}*- → `.ei`
+* -*{/forder/}*- → `.o`
+* -*{/her/}*- → `.e`
+* -*{/irgend/}*- → `.i`
+* -*{/off/}*- → `.o`
+* -*{/sach/}*- → `a.`
+ * -*{/säch/}*- → `ä.`
+
+Auslaute mit Aufstrich-*t* werden nicht ausgestoßen. Das Kürzel wird dann auf die Oberlinie gestellt.
+* *{/halt/}* → `;-t`
+* *{/markt/}* → `;kt`
+* -*{/wart/}*- → `;-t`
+* -*{/welt/}*- → `;-t`
+
+___
+
+* -*{/ein/}*- → `.ei`
+ * : *{/ein/}e* → `.ei-e`
+ * : *{/ein/}er* → `.ei-er`
+* -*{/forder/}- → `.o`
+* *{/halt/}* → `;-t`
+ * : [sach]{ver}{/halt/} → `sa.E-t`
+* -*{/her/}*- → `.e`
+ * : *{/her/}{auf}* → `.e-AU`
+ * : *{/her/}{unter}* → `.e-UNTER`
+ * : *{/her/}{vor}* → `.e-O`
+* -*{/irgend/}*- → `.i`
+ * : *{/irgend/}{wie}* → `.i-I`
+ * : *{/irgend/}[wo]* → `.i-wo`
+ * : *{/irgend/}wann* → `.i-w.an`
+* *{/markt/}* → `;kt`
+* -*{/off/}*- → `.o`
+ * -*{/öff/}*- → `.ö`
+    * : *{/öff/}ent{lich}* → `.ö-L`
+ * : *{/off/}en[bar]* → `.o-bar`
+ * : *{/off/}en{heit}* → `.o-H`
+* -*{/sach/}*- → `a`
+ * : *neben{/sach/}e* → `n.eb,a.e`
+ * -*{/säch/}- → `ä`
+    * : *neben{/säch/}{lich}* → `n.eb,ä.L` (?)
+* -*{/wart/}*- → `;-t`
+ * : *[geg]en{/wart/}* → `g-t`
+ * -*{/wärt/}*- → `;-t`
+    * : *[geg]en{/wärt/}{ig}* → `g-t-ig`
+* -*{/welt/}*- → `;-t`
+ * : *um{/welt/}* → `.um-t`
+
+___
+
+
+### -*{//}*-
+
+* -*{/hin/}*- → `.in`
+ * : {da}{hin} → `da.in`
+ * : {weiter}{hin} → `T-er.in`
+* -*{/hin/}*- → `n` :/ `.in`
+ * : {/hin/}{auf} → `n>AU` :/ `.in\<AU`
+ * : {/hin/}{aus} → `n.S` :/ `.in.S`
+ * : {/hin/}ein → `n.N` (?) :/ `.in.N`
+ * : {/hin/}{zu} → `n>Z` :/ `.in\<Z`
 
 DOKTOR
 FEHLER
