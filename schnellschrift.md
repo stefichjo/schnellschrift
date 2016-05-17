@@ -1,4 +1,4 @@
-*# Kurzschrift
+# Kurzschrift
 
 ## Verkehrsschrift
 
