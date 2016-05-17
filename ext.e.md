@@ -167,12 +167,12 @@ ___
 
 * `ja` *(jahr)*
 * `sa` *(satz)*
-* `.I.l.in` *(?)*
-* `.S.l.in` *(?)*
+* `.I.l.i-en`
+* `.S.l.i-en`
 
 ___
 
-`wr s.eb-er I>t-er.ir .U sch s.ei-t ja.en f.n .ab.sa .I.l.in kra.f.ut-er & .S.l.in w.eiz.ens.`
+`wr s.eb-er I>t-er.ir .U sch s.ei-t ja.en f.n .ab.sa .I.l.i-en kra.f.ut-er & .S.l.i-en w.eiz.ens.`
 
 
 
