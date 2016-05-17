@@ -44,7 +44,7 @@ Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet.
 * *{in}{dukt}{ion} → `.I.du-O`
 
 Die Silben *at*, *et*, *it*, *ut* sowie *id* und *il* fallen, außer am Wortende, aus.
-* *[/form/]at{ion} → `.om-O` (?)
+* *[/form/]at{ion}* → `.om-O` (?)
 * *phonetik* → `f.on.ik`
 * *{kon}[/form/]ität* → `ko.om.ät`
 * *{in}{stit}ut{ion}* → `.I.st*` !
@@ -810,9 +810,9 @@ ___
  * : *{kon}[kret]* → `ko.kr`
  * : *{kon}[kret]~is~ier* → `ko.kr.ir`
 * *[kurr]* → `ku` (?) kurrier
- * -*<kurr>*- → `u`
-    * : *{kon}<kurr>enz* → `ko-u.ez`
-    * : *{kon}<kurr>ier* → `ko-u.ir`
+ * -*\<kurr>*- → `u`
+    * : *{kon}\<kurr>enz* → `ko-u.ez`
+    * : *{kon}\<kurr>ier* → `ko-u.ir`
  * *[kurs]* → `kus`
     * -*[/kurs/]*- → `.us`
        * : *{kon}[/kurs/]* → `ko.us`
@@ -947,12 +947,12 @@ ___
  * : *{in}[stall]{ion}* → `.I.sta*`
 * *[/stell/]* → `.ell`
  * : *{kon}[/stell/]at{ion}* → `ko.ell.iO`
-* -*</stru/>*- → `,u`
- * : *{kon}</stru/>ier* → `ko,u-ir`
+* -*\</stru/>*- → `,u`
+ * : *{kon}\</stru/>ier* → `ko,u-ir`
     * *strukt* → `str.ukt`
        * : *struktur* → `str.ukt-UR` !
-    * -*</strukt/>*- → `,u`
-       * : *{kon}</strukt/>{ion} → `ko,u-O`
+    * -*\</strukt/>*- → `,u`
+       * : *{kon}\</strukt/>{ion} → `ko,u-O`
 * -*[sul]*- → `su`
  * : *{kon}[sul]* → `ko-su`
  * -*{sult}*- → `su`
@@ -1043,12 +1043,3 @@ ___
     * : *{kon}{zept}* → `ko.z` !
     * : *re{zept}* → `r.e-z`
     * : *re{zept}{ion}* → `r.e-z.iO`
-
-
-### TODO
-
-___
-
-
-* ! :/
-* [//] durch ≠ motivieren (schreib ≠ schrei)
