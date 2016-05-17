@@ -1,4 +1,4 @@
 # Steno
 
-* [Steno](steno.md)
-* [Liste](liste.md)
+* [Kurzschrift](ku,i.md)
+* [Texte](ext.e.md)
