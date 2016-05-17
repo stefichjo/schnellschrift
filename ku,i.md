@@ -80,14 +80,12 @@ ___
 * *end* → `.ed`
 * *erst* → `.est`
 * *fang* → `f.ang`
- * -*[fang]*- → `fa` :/ `ang`
-    * : *be[fang]* → `b.fa`
  * -*[/fang/]*- → `ang`
+    * : *be[/fang/]* → `b.e-ang` !
     * : *ein[/fang/]* → `N.ang`
  * *fäng* → `f.eng`
-    * -*[fäng]*- → `f` :/ `eng`
-       * : *{ge}[fäng]{nis}* → `G.f.is`
     * -*[/fäng/]*- → `eng`
+       * : *{ge}[/fäng/]{nis}* → `G.eng.is` !
        * : *{ver}[/fäng/]{lich}* → `E.eng.L`
  * *fing* → `f.ing`
 * *feld* → `f.ed`
@@ -343,7 +341,7 @@ ___
 * -*[/jahr/]*- `.ar`
  * : *{in}.{/ein/}er.reihe.{/von/}.[/jahr/]en* → `.I.ei-er-r.eih.ar.en`
 * -*[/trieb/]*- → `.ib`
- * : be[/trieb/] → `b.ib`
+ * : be[/trieb/] → `b.e-ib`
 
 ## *\<>*
 
@@ -601,11 +599,14 @@ ___
 * ! *[stat]* → `sta`
  * ! : *(stat)ik* → `st.at.ik` (?)
  * ! : *[stat]{istisch}* → `sta.iS.i`
- * ! : *[stat](u)e* → `sta.u.e`
- * ! : *[stat](u)ier* → `sta.u.ir`
+ * ! : *[stat]\(u)e* → `sta.u.e`
+ * ! : *[stat]\(u)ier* → `sta.u.ir`
  * ! : *[stat]us* → `sta.us`
  * ! : *[stat]ut* → `sta.ut`
  * ! : *{kon}[stat]ier* → `ko.sta.ir`
+
+* ! *{stat}*
+ * : ! *{stat}{ion}* → `.at.iO`
 
 * ! *~stit~*
  * ! *{in}~stit~ut{ion}* → `.I.ut.iO`
@@ -931,7 +932,7 @@ ___
  * *[/stat/]* → `.at`
     * : *[/staat/]* → `.at`
     * : *[/stat/]ik* → `.at.ik` !
-    * : *[/stat/]{ion}* → `.at.iO`
+    * : *[/stat/]{ion}* → `sta*` !
     * : *[/stat/]istik* → `.at.ist-ik` !
     * : *[/stat/]{istisch}* → `.at.iS.i`
     * : *[/stat/]ue* → `.at.e` !
@@ -1043,3 +1044,8 @@ ___
     * : *{kon}{zept}* → `ko.z` !
     * : *re{zept}* → `r.e-z`
     * : *re{zept}{ion}* → `r.e-z.iO`
+
+* ! -*[fang]*- → `fa`
+ * ! : *be[fang]* → `b.e-fa`
+* ! -*[fäng]*- → `f`
+ * ! : *{ge}[fäng]{nis}* → `G.f.is`
