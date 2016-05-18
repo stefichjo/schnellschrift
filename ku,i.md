@@ -254,7 +254,7 @@ ___
 * **was** → `was`
 * **wass**er → `was-er`
 * **wer** → `wer`
-* {wo} → ***wo** → `wo`
+* {wo} → **wo** → `wo`
 * **zahl** → `za`
  * : **zahl**{ung} → `za*`
 
@@ -347,7 +347,7 @@ ___
 
 ## *\<>*
 
-* {ist} → *\<ist> → `i`
+* {ist} → **i**st → `i`
 
 ### -\<>-
 
