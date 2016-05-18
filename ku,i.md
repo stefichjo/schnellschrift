@@ -352,9 +352,9 @@ ___
 ### -\<>-
 
 Ist eine Verschmelzung bei Inlautkürzung nicht möglich, so wird abgesetzt.
-* -\<schrift>- → `i`
- * : {vor}\<schrift> → `O-i`
- * : **kurz**\<schrift> → `ku,i`
+* -schr**i**ft- → `i`
+ * : {vor}schr**i**ft → `O-i`
+ * : **kurz**schr**i**ft → `ku,i`
 
 Eine Inlautkürzung auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen und nach *s* nicht möglich. Dann wird stattdessen auf den Auslaut gekürzt.
 * {ver}\<füg> → `E-Ü`
@@ -374,9 +374,9 @@ ___
  * : {wieder}\<hol> → `W-o`
 * -\<schied>- → `i`
  * : {unter}\<schied> → `UNTER-i`
-* -\<schrift>- → `i`
- * : {vor}\<schrift> → `O-i`
- * : **kurz**\<schrift> → `ku,i`
+* -schr**i**ft- → `i`
+ * : {vor}schr**i**ft → `O-i`
+ * : **kurz**schr**i**ft → `ku,i`
 * -\<sicht>- → `i`
  * : ab\<sicht> → `.ab-i`
  * : an{ge}\<sicht> → `.an.G,i`
@@ -408,7 +408,7 @@ ___
  * : bei.\</ihnen/> → `b.ei,i`
  * : um.\</ihnen/> → `.um,i`
  * : {wir}.danken.\</ihnen/> → `wr.d.ak,i`
-* -\<schrift>- → `i`
+* -schr**i**ft- → `i`
  * : {unter}\</schrift/> → `UNTER,i`
 * -\<wieder>- → `i`
  * : {immer}.\<wieder> → `:er,i`
