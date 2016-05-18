@@ -420,14 +420,14 @@ ___
 
 ## -~~-
 
-* -~schied~-
- * : {ver}ab~schied~ → `E.ab`
-* -~sicht~-
- * : {ge}~sicht~- → `G`
- * : {hin}~sicht~ → `hn`
- * : {rück}~sicht~ → `rÜ`
-* -~weiter~-
- * : {und}.{so}.~weiter~ → `&.o`
+* -~~schied~~-
+ * : {ver}ab~~schied~~ → `E.ab`
+* -~~sicht~~-
+ * : {ge}~~sicht~~- → `G`
+ * : {hin}~~sicht~~ → `hn`
+ * : {rück}~~sicht~~ → `rÜ`
+* -~~weiter~~-
+ * : {und}.{so}.~~weiter~~ → `&.o`
 
 ## *{}*
 
@@ -499,9 +499,9 @@ ___
  * {wirst} → `wir`
  * {word} → `;O`
  * {wurd} → `;U`
-    * {wurd}~e~ → `;U`
+    * {wurd}~~e~~ → `;U`
     * {würd} → `;Ü`
-       * {würd}~e~ → `;Ü`
+       * {würd}~~e~~ → `;Ü`
 * {wettbewertb} → `w*`
 * {wieder} → `W`
  * : {wider} → `W`
@@ -600,7 +600,7 @@ ___
 
 * ! {mus} → `mu`
  * ! muse → `m.us.e`
- * ! mus~eum~ → `m.us`
+ * ! mus~~eum~~ → `m.us`
  * ! {mus}ik → `mu.ik`
  * ! {mus}izier → `mu.iz.ir`
  * ! {mus}ik{ant} → `mu.ik.aNT`
@@ -608,12 +608,12 @@ ___
 * ! {dikt} → `di`
  * ! : {dikt}ator → `di.at.or`
  * ! (dikt){ion} → `d.ikt-iO`
- * ! : {pro}du~k~t → `.o>dut`
+ * ! : {pro}du~~k~~t → `.o>dut`
 
 * ! -{fer}- → `f`
- * ! : {kon}{fer}~enz~ → `ko.f`
+ * ! : {kon}{fer}~~enz~~ → `ko.f`
  * ! -{fess}-
-    * ! : {kon}{fess}~ion~ → `ko.f`
+    * ! : {kon}{fess}~~ion~~ → `ko.f`
 
 * ! firm → `f.im`
  * ! : {kon}firmat{ion} → `ko.f.im-O`
@@ -626,7 +626,7 @@ ___
     * ! : {per}{fekt} → `p.fet`
 
 * ! -front- → `fr.ot`
- * ! {kon}{front}~ier~ → `ko.fr.o`
+ * ! {kon}{front}~~ier~~ → `ko.fr.o`
  * ! {kon}frontat{ion} → `ko.fr.ot.iO`
 
 * ! {fundament} → `fut`
@@ -642,21 +642,21 @@ ___
 * ! -mitt- → `m.it`
  * ! emittier → `.e-m.it.ir`
  * ! -[/miss/]- → `.iss`
-    * ! {kommiss}~ion~ → `ko-i`
-    * ! {kom}~pro~[/miss/] → `kom.iss`
+    * ! {kommiss}~~ion~~ → `ko-i`
+    * ! {kom}~~pro~~[/miss/] → `kom.iss`
 
 * ! {pos} → `po`
- * ! posit~ion~ → `p.os`
+ * ! posit~~ion~~ → `p.os`
  * ! {pos}itiv → `po.iv`
- * ! {dis}[/pos/]it~ion~ → `ds.os`
+ * ! {dis}[/pos/]it~~ion~~ → `ds.os`
 
 * ! [/pon/] → `.on`
  * ! : {dis}[/pon/]ier → `ds.on.ir`
 
-* ! (post)~ul~at → `p.o-st.at`
+* ! (post)~~ul~~at → `p.o-st.at`
 
 * ! rat*
- * ! : rat~ion~ier → `r.at.ir`
+ * ! : rat~~ion~~ier → `r.at.ir`
 
 * ! reg → `r.eg`
  * ! {regier} → `I>;r`
@@ -690,17 +690,17 @@ ___
 * ! {stat}*
  * : ! {stat}{ion} → `.at.iO`
 
-* ! ~stit~*
- * ! {in}~stit~ut{ion} → `.I.ut.iO`
+* ! ~~stit~~*
+ * ! {in}~~stit~~ut{ion} → `.I.ut.iO`
 
 * ! {struktur} → `str.uk`
 
 * ! {tangente} → `t.ang.ent.e`
 
-* ! {kon}[tin]~ent~ → `ko,ti`
-* ! {kon}[tin]u~ier~{lich} → `ko,ti.L`
+* ! {kon}[tin]~~ent~~ → `ko,ti`
+* ! {kon}[tin]u~~ier~~{lich} → `ko,ti.L`
 
-* ! {kon}[ting]~ent~ → `ko,ti`
+* ! {kon}[ting]~~ent~~ → `ko,ti`
 
 * ! {eventualität} → `.e-v.ät`
 * ! {inventar} → `.I.-t-ar`
@@ -891,7 +891,7 @@ ___
  * : {kommun}ikat{ion} → `ko-u.ik.iO`
 * -[kret]- → `kr`
  * : {kon}[kret] → `ko.kr`
- * : {kon}[kret]~is~ier → `ko.kr.ir`
+ * : {kon}[kret]~~is~~ier → `ko.kr.ir`
 * [kurr] → `ku` (?) kurrier
  * -\<kurr>- → `u`
     * : {kon}\<kurr>enz → `ko-u.ez`
@@ -953,7 +953,7 @@ ___
 * {rat} → `ra`
  * : {rat}e → `ra.e`
  * : {rat}{ion} → `ra.iO`
- * : {rat}{ional}~is~ier* `ra.iaL.ir`
+ * : {rat}{ional}~~is~~ier* `ra.iaL.ir`
  * : {rat}{ionell} → `ra.ieL`
  * : {rat}{ion}ier → `ra.iO.ir` !
  * : {rat}{ifiz}ier → `ra.if.ir`
@@ -963,7 +963,7 @@ ___
  * : [reg]ier → `r.ir` !
  * : [reg]ier{ung} → `r.ir-UNG` !
  * : [reg]{ion} → `r.iO` !
- * : [reg]ulier* ~ `r.ul.ir`
+ * : [reg]ulier → `r.ul.ir`
  * {rekt} → `r`
     * : {rekt}or → `r.or`
     * : {kon}{rekt}or → `ko.r.or` !
@@ -1093,7 +1093,7 @@ ___
  * : re{vid}ier → `r.e-w.ir`
  * vis → `v.is`
     * vis{ion} → `v.is.iO`
-    * visual~is~ier → `v.is.al.ir`
+    * visual~~is~~ier → `v.is.al.ir`
     * visuell → `v.is.ell`
     * -{vis}- → `w`
        * re{vis}{ion} → `re.w-O`
