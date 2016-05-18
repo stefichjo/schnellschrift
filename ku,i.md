@@ -363,8 +363,8 @@ Eine Inlautkürzung auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeiche
 
 ___
 
-* -\<druck>- → `u`
- * : {aus}\<druck> → `.S-u`
+* -dr**u**ck- → `u`
+ * : {aus}dr**u**ck → `.S-u`
  * : ***nach*****druck** → `ach.dru` :/ `ach-u`
 * -\<früh>- → `Ü`
  * heute.\<früh> → `heu-Ü`
