@@ -181,7 +181,7 @@ ___
  * **broch** → `bro`
    * **bruch** → `bru`
      * **brüch** → `brÜ`
-* {dar} → ***dar** → `dar`
+* {dar} → **dar** → `dar`
 * **druck** → `dru`
  * **drück** → `drÜ` (?)
 * **fahr** → `fa`
@@ -196,10 +196,10 @@ ___
  * -***flieh***- → `.ih`
     * : {ent}***flieh*** → `eNT.ih` :/ `eNT,fli`
  * ***floh*** → `.oh` :/ `flo`
-     → * ***flucht*** → `.ucht` :/ `flu`
+     * → ***flucht*** → `.ucht` :/ `flu`
 * **fließ** → `fli`
  * **floss** → `flo`
-     → ***floß** → (?)
+     * →**floß** → (?)
  * **fluss** → `flu`
     * ***flüss*** → `.üss` :/ `flÜ`
 * **fremd** → `fr.e`
@@ -365,35 +365,35 @@ ___
 
 * -dr**u**ck- → `u`
  * : {aus}dr**u**ck → `.S-u`
- * : ***nach*****druck** → `ach.dru` :/ `ach-u`
-* -\<früh>- → `Ü`
- * heute.\<früh> → `heu-Ü`
- * **morg**en.\<früh> → `mo-Ü`
- * {schon}.\<früh>er → `sch-Ü-er`
-* -\<hol>- → `o`
- * : {wieder}\<hol> → `W-o`
-* -\<schied>- → `i`
- * : {unter}\<schied> → `UNTER-i`
+ * : ***nach*****druck** → `ach.dru`
+* -fr**ü**h- → `Ü`
+ * **heut**e.fr**ü**h → `heu-Ü`
+ * **morg**en.fr**ü**h → `mo-Ü`
+ * {schon}.fr**ü**her → `sch-Ü-er`
+* -h**o**l- → `o`
+ * : {wieder}h**o**l → `W-o`
+* -sch**ie**d- → `i`
+ * : {unter}sch**ie**d → `UNTER-i`
 * -schr**i**ft- → `i`
  * : {vor}schr**i**ft → `O-i`
  * : **kurz**schr**i**ft → `ku,i`
-* -\<sicht>- → `i`
- * : ab\<sicht> → `.ab-i`
- * : an{ge}\<sicht> → `.an.G,i`
- * : {auf}\<sicht> → `AU-i`
- * : {zu}{ver}\<sicht> → `Z.E-i`
- * : {vor}**|sicht|** → `O.icht` :/ `O-i`
-* -\<spruch>- → `u`
- * : {wider}\<spruch> → `W-u`
-* -\<um>- → `u`
- * : **war**\<um> → `war-u`
-* -\<wort>- → `o`
- * : **bind**e\<wort> → `bi-o`
- * : **haupt**\<wort> → `hau-o`
- * : {macht}\<wort> → `aCHT-o`
- * : ***schlag***\<wort> → `.ag-o`
- * : **sprich**\<wort> → `.ich-o`
-    * : **sprich**\<wört>{lich} → `.ich-ö.L`
+* -s**i**cht- → `i`
+ * : abs**i**cht → `.ab-i`
+ * : an{ge}s**i**cht → `.an.G,i`
+ * : {auf}s**i**cht → `AU-i`
+ * : {zu}{ver}s**i**cht → `Z.E-i`
+ * : {vor}***sicht*** → `O.icht` :/ `O-i`
+* -spr**u**ch- → `u`
+ * : {wider}spr**u**ch → `W-u`
+* -**u**m- → `u`
+ * : **war****u**m → `war-u`
+* -w**o**rt- → `o`
+ * : **bind**ew**o**rt → `bi-o`
+ * : **haupt**w**o**rt → `hau-o`
+ * : {macht}w**o**rt → `aCHT-o`
+ * : ***schlag***w**o**rt → `.ag-o`
+ * : **sprich**w**o**rt → `.ich-o`
+    * : **sprich**w**ö**rt{lich} → `.ich-ö.L`
 
 ## *\<//>*
 
@@ -410,13 +410,13 @@ ___
  * : {wir}.danken.\</ihnen/> → `wr.d.ak,i`
 * -schr**i**ft- → `i`
  * : {unter}\</schrift/> → `UNTER,i`
-* -\<wieder>- → `i`
- * : {immer}.\<wieder> → `:er,i`
- * : auch.\<wieder> → `.auch,i`
- * -\<widrig>- → `i`
-    * : {gesetz}\<widrig> → `-G,i`
-    * : ***pflicht***\<widrig> → `.icht,i` :/ `pfli,i`
-    * : {ver}**trag**s\<widrig> → `E>tra,i`
+* -\</wieder/>- → `i`
+ * : {immer}.\</wieder/> → `:er,i`
+ * : auch.\</wieder/> → `.auch,i`
+ * -\</widrig/>- → `i`
+    * : {gesetz}\</widrig/> → `-G,i`
+    * : ***pflicht***\</widrig/> → `.icht,i` :/ `pfli,i`
+    * : {ver}**trag**s\</widrig/> → `E>tra,i`
 
 ## -~~-
 
@@ -447,16 +447,16 @@ ___
 * {forder} → `F`
  * : {er}{/forder/}{lich} → er.o-L
 * {geh} → `g` :/ `g.e`
-* {hab} → ***hab** → `ha`
+* {hab} → **hab** → `ha`
  * {hat} → `ha`
  * {hast} → `ha`
  * {hatt} → `t` :/ `.at`
-    * {hätt} → ****hätt*** → `.ät`
+    * {hätt} → ***hätt*** → `.ät`
 * {hin} → `hn`
 * {immer} → `:er`
 * {kann} → `k`
  * {konn} → `k`
-    * {könn} → ***könn** → `kö`
+    * {könn} → **könn** → `kö`
 * {kartei} → `k.at.ei` :/ (?)
 * {klein} → `;N`
 * {länder} → `;d-er` :/ `l.er`
