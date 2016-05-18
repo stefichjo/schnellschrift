@@ -180,7 +180,8 @@ ___
    * *[bräch]* → `br`
  * *[broch]* → `bro`
    * *[bruch]* → `bru`
-     * *[brüch]* → `brÜ` 
+     * *[brüch]* → `brÜ`
+* *{dar}* → *[dar]* → `dar`
 * *[druck]* → `dru`
  * *[drück]* → `drÜ` (?)
 * *[fahr]* → `fa`
@@ -226,6 +227,8 @@ ___
  * *[schrak]* → `schra`
  * *[schrock]* → `schro`
 * *[schrift]* → `.ift`
+* *[send]* → `s` (?)
+ * : *ab[send]er* → `.ab-s*-er` (?)
 * *[sitz]* → `si`
  * : *[sitz]{ung}* → `.iz*`
 * *[sprech]* → `spr`
@@ -251,6 +254,7 @@ ___
 * *[was]* → `was`
 * *[wass]er* → `was-er`
 * *[wer]* → `wer`
+* *{wo}* → *[wo]* → `wo`
 * *[zahl]* → `za`
  * : *[zahl]{ung}* → `za*`
 
@@ -395,8 +399,24 @@ ___
 
 ### -*\<//>*-
 
+* -*\</auch/>*- → `au`
+ * : *{aber}.</auch/>* → `ber,au`
+ * : *{oder}.</auch/>* → `.od-er,au`
+ * : *{sondern}.</auch/>* → `S,au`
+* -*\</ihnen/>*- → `i`
+ * : *{mit}.\</ihnen/>* → `M,i`
+ * : *bei.\</ihnen/>* → `b.ei,i`
+ * : *um.\</ihnen/>* → `.um,i`
+ * : *{wir}.danken.\</ihnen/>* → `wr.d.ak,i`
 * -*\<schrift>*- → `i`
  * : *{unter}\</schrift/>* → `UNTER,i`
+* -*\<wieder>*- → `i`
+ * : *{immer}.\<wieder>* → `:er,i`
+ * : *auch.\<wieder>* → `.auch,i`
+ * -*\<widrig>*- → `i`
+    * : *{gesetz}\<widrig>* → `-G,i`
+    * : *[/pflicht/]\<widrig>* → `.icht,i` :/ `pfli,i`
+    * : *{ver}[trag]s\<widrig>* → `E>tra,i`
 
 ## -*~~*-
 
@@ -412,30 +432,84 @@ ___
 ## *{}*
 
 * *{aber}* → `ber`
+* *{besser}* → `bes*-er`
+* *{bestimm}* → `bes*-i`
+* *{damals}* → `da-s*`
+* *{das}* → `d`
+* *{d. h.}* → `d.h*`
+* *{die}* → `I`
+* *{dies}* → `.iS`
+* *{doch}* → `d-ch`
 * *{doktor}* → `der`
 * *{einz}* → `N`
+* *{er}* → `er`
+* *{fest}* → `fes*`
 * *{forder}* → `F`
  * : *{er}{/forder/}{lich}* → er.o-L
 * *{geh}* → `g` :/ `g.e`
-* *{hatt}* → `t` :/ `.at`
- * *{hätt}* → *[/hätt/]* → `.ät`
+* *{hab}* → *[hab]* → `ha`
+ * *{hat}* → `ha`
+ * *{hast}* → `ha`
+ * *{hatt}* → `t` :/ `.at`
+    * *{hätt}* → *[/hätt/]* → `.ät`
 * *{hin}* → `hn`
+* *{immer}* → `:er`
+* *{kann}* → `k`
+ * *{konn}* → `k`
+    * *{könn}* → *[könn]* → `kö`
 * *{kartei}* → `k.at.ei` :/ (?)
 * *{klein}* → `;N`
 * *{länder}* → `;d-er` :/ `l.er`
 * *{länger}* → `NG`
 * *{macht}* → `aCHT` (?)
+* *{mit}* → `M`
+ * : *{mitt}* → `M`
+* *{mitbestimm}* → `M-s*`
+* *{nicht}* → `-t`
+* *{noch}* → `n-ch`
+* *{nur}* → `;UR`
 * *{punkt}* → `pt`
+* *{selbst}* → `-st`
 * *{schon}* → `sch`
+* *{sei}* → `:ei`
+* *{sich}* → `CH`
+* *{sie}* → `sI`
+* *{sind}* → `:I*`
+* *{so}* → `.o`
+* *{solch}* → `s-CH`
 * *{soll}* → `;S`
+* *{sonder}* → `S`
+ * *{sondern}* → `S`
 * *{stand}* → `.and`
 * *{sund}* → `.und`
  * : *{ge}{sund} → `G.und`
 * *{ton}* → `:o`
  * *{tön}* → `:ö`
+* *{und}* → `&`
+* *{uns}* → `U`
+* *{unser}* → `U*`
+* *{vielleicht}* → `v.ei`
+* *{voll}* → `Ol`
+ * *{völl}* → `Öl`
 * *{war}* → `:ar`
  * *{wär}* → `:är`
 * *{weltmarkt}* → `;-t;-t` :/ `;-t;kt`
+* *{werd}* → `;w`
+ * *{wird}* → `wir`
+ * *{wirst}* → `wir`
+ * *{word}* → `;O`
+ * *{wurd}* → `;U`
+    * *{wurd}~e~* → `;U`
+    * *{würd}* → `;Ü`
+       * *{würd}~e~* → `;Ü`
+* *{wettbewertb}* → `w*`
+* *{wieder}* → `W`
+ * : *{wider}* → `W`
+ * : *{widr}* → `W`
+* *{woll}* → `:ol`
+ * *{will}* → `:l`
+ * *{willst}* → `:l`
+* *{wir}* → `wr`
 
 ### -*{}*-
 
@@ -472,6 +546,7 @@ ___
 * -*{/ein/}*- → `.ei`
  * : *{/ein/}e* → `.ei-e`
  * : *{/ein/}er* → `.ei-er`
+* -*{/es/}*- → `.e`
 * -*{/et/}*- → `.e`
  * : *{/et/}[was]* → `.e-was`
 * -*{/forder/}- → `.o`
@@ -481,6 +556,13 @@ ___
  * : *{/her/}{auf}* → `.e-AU`
  * : *{/her/}{unter}* → `.e-UNTER`
  * : *{/her/}{vor}* → `.e-O`
+* -*{/hin/}*- → `.in`
+ * : {/hin/}{auf} → `n>AU` :/ `.in\<AU`
+ * : {/hin/}{aus} → `n.S` :/ `.in.S`
+ * : {/hin/}ein → `n.N` (?) :/ `.in.N`
+ * : {/hin/}{zu} → `n>Z` :/ `.in\<Z`
+ * : {da}{hin} → `da.in`
+ * : {weiter}{hin} → `T-er.in`
 * -*{/irgend/}*- → `.i`
  * : *{/irgend/}{wie}* → `.i-I`
  * : *{/irgend/}[wo]* → `.i-wo`
@@ -507,14 +589,6 @@ ___
 
 ### ?
 
-* -*{/hin/}*- → `.in`
- * : {da}{hin} → `da.in`
- * : {weiter}{hin} → `T-er.in`
-* -*{/hin/}*- → `n` :/ `.in`
- * : {/hin/}{auf} → `n>AU` :/ `.in\<AU`
- * : {/hin/}{aus} → `n.S` :/ `.in.S`
- * : {/hin/}ein → `n.N` (?) :/ `.in.N`
- * : {/hin/}{zu} → `n>Z` :/ `.in\<Z`
 
 
 ### !
