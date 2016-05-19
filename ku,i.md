@@ -277,8 +277,8 @@ ___
 
 Alternativ zur Inlautandeutung kann auf den Auslaut gekürzt werden.
 
-* ***schreib*** → `.eib` ≠ *schrei*
- * ***schrieb*** → `.ib` ≠ *schrie*
+* ***schreib*** → `.eib` ≠ schrei
+ * ***schrieb*** → `.ib` ≠ schrie
 
 Die Inlaute *e* (bzw. *ä*) und *a* werden bei Auslautkürzung ohne Anstrich geschrieben.
 
@@ -289,8 +289,8 @@ Die Inlaute *e* (bzw. *ä*) und *a* werden bei Auslautkürzung ohne Anstrich ges
 ___
 
 * ***blick*** → `.ik` ≠ ***blind***
-* ***schreib*** → `.eib` ≠ *schrei*
- * ***schrieb*** → `.ib` ≠ *schrie*
+* ***schreib*** → `.eib` ≠ schrei
+ * ***schrieb*** → `.ib` ≠ schrie
 
 ___
 
@@ -401,23 +401,22 @@ ___
 
 * -***au****ch*- → `au`
  * : {aber}.***au****ch* → `ber,au`
- * : {oder}.***au****ch* → `.od-er,au`
- * : {oder}.***au****ch* → `.od-er,au`
+ * : oder.***au****ch* → `.od-er,au`
  * : {sondern}.***au****ch* → `S,au`
-* -\</ihnen/>- → `i`
- * : {mit}.\</ihnen/> → `M,i`
- * : bei.\</ihnen/> → `b.ei,i`
- * : um.\</ihnen/> → `.um,i`
- * : {wir}.danken.\</ihnen/> → `wr.d.ak,i`
+* -***i****hnen*- → `i`
+ * : {mit}.***i****hnen* → `M,i`
+ * : bei.***i****hnen* → `b.ei,i`
+ * : um.***i****hnen* → `.um,i`
+ * : {wir}.danken.***i****hnen* → `wr.d.ak,i`
 * -schr**i**ft- → `i`
- * : {unter}\</schrift/> → `UNTER,i`
-* -\</wieder/>- → `i`
- * : {immer}.\</wieder/> → `:er,i`
- * : auch.\</wieder/> → `.auch,i`
- * -\</widrig/>- → `i`
-    * : {gesetz}\</widrig/> → `-G,i`
-    * : ***pflicht***\</widrig/> → `.icht,i` :/ `pfli,i`
-    * : {ver}**trag**s\</widrig/> → `E>tra,i`
+ * : {unter}*schr****i****ft* → `UNTER,i`
+* -*w****ie****der*- → `i`
+ * : {immer}.*w****ie****der* → `:er,i`
+ * : auch.*w****ie****der* → `.auch,i`
+ * -*w****i****drig*- → `i`
+    * : {gesetz}*w****i****drig* → `-G,i`
+    * : ***pflicht****w****i****drig* → `.icht,i` :/ `pfli,i`
+    * : {ver}**trag**s*w****i****drig* → `E>tra,i`
 
 ## -~~-
 
