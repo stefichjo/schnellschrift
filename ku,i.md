@@ -90,14 +90,14 @@ ___
  * fing → `f.ing`
 * feld → `f.ed`
 * fug → `f.ug`
- * -\<füg>- → `Ü`
-    * : an\<füg> → `.an-Ü`
-    * : ein\<füg> → `N-Ü`
-    * : {ge}\<füg> → `G.üg`
-    * : {ge}***ring***\<füg>{ig} → `G.ing-Ü-i`
-    * : {ver}\<füg> → `E-Ü`
-    * : {zu}\<füg> → `Z.üg`
-    * : {zu}{samm}en\<füg> → `Z-sa.üg`
+ * -f**ü**g- → `Ü`
+    * : anf**ü**g → `.an-Ü`
+    * : einf**ü**g → `N-Ü`
+    * : {ge}f**ü**g → `G.üg`
+    * : {ge}***ring***f**ü**g{ig} → `G.ing-Ü-i`
+    * : {ver}f**ü**g → `E-Ü`
+    * : {zu}f**ü**g → `Z.üg`
+    * : {zu}{samm}enf**ü**g → `Z-sa.üg`
 * führ → `f.ür`
  * -***führ***- → `.ür`
     * : \<üb>er***führ*** → `Ü-ür`
@@ -357,9 +357,9 @@ Ist eine Verschmelzung bei Inlautkürzung nicht möglich, so wird abgesetzt.
  * : **kurz**schr**i**ft → `ku,i`
 
 Eine Inlautkürzung auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen und nach *s* nicht möglich. Dann wird stattdessen auf den Auslaut gekürzt.
-* {ver}\<füg> → `E-Ü`
-* {zu}\<füg> → `Z.üg`
-* {zu}{samm}en\<füg> → `Z-sa.üg`
+* {ver}f**ü**g → `E-Ü`
+* {zu}f**ü**g → `Z.üg`
+* {zu}{samm}enf**ü**g → `Z-sa.üg`
 
 ___
 
@@ -399,10 +399,11 @@ ___
 
 ### -\<//>-
 
-* -\</auch/>- → `au`
- * : {aber}.</auch/> → `ber,au`
- * : {oder}.</auch/> → `.od-er,au`
- * : {sondern}.</auch/> → `S,au`
+* -***au****ch*- → `au`
+ * : {aber}.***au****ch* → `ber,au`
+ * : {oder}.***au****ch* → `.od-er,au`
+ * : {oder}.***au****ch* → `.od-er,au`
+ * : {sondern}.***au****ch* → `S,au`
 * -\</ihnen/>- → `i`
  * : {mit}.\</ihnen/> → `M,i`
  * : bei.\</ihnen/> → `b.ei,i`
