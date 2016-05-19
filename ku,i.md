@@ -44,11 +44,11 @@ Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet.
 * {in}{dukt}{ion} → `.I.du-O`
 
 Die Silben *at*, *et*, *it*, *ut* sowie *id* und *il* fallen, außer am Wortende, aus.
-* ***form***at{ion} → `.om-O` (?)
+* ***form***at{ion} → `.om-O`
 * phonetik → `f.on.ik`
 * {kon}***form***ität → `ko.om.ät`
 * {in}{stit}ut{ion} → `.I.st*` !
-* konsolidierung → `ko-s.ol.ir-UNG` (?)
+* {kon}solidier{ung} → `ko-s.ol.ir-UNG`
 * {kom}{pat}ibilität → `kom-p.ib.ät`
 
 Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
@@ -85,7 +85,7 @@ ___
     * : ein***fang*** → `N.ang`
  * fäng → `f.eng`
     * -***fäng***- → `eng`
-       * : {ge}***fäng***{nis} → `G.eng.is` !
+       * : *ge****fäng***{nis} → `G.eng.is` !
        * : {ver}***fäng***{lich} → `E.eng.L`
  * fing → `f.ing`
 * feld → `f.ed`
@@ -93,8 +93,8 @@ ___
  * -f**ü**g- → `Ü`
     * : anf**ü**g → `.an-Ü`
     * : einf**ü**g → `N-Ü`
-    * : {ge}f**ü**g → `G.üg`
-    * : {ge}***ring***f**ü**g{ig} → `G.ing-Ü-i`
+    * : *ge*f**ü**g → `G.üg`
+    * : *ge****ring***f**ü**g{ig} → `G.ing-Ü-i`
     * : {ver}f**ü**g → `E-Ü`
     * : {zu}f**ü**g → `Z.üg`
     * : {zu}{samm}enf**ü**g → `Z-sa.üg`
@@ -113,7 +113,8 @@ ___
     * : {vor}{führ} → `O-Ü` :/ `O.ür`
  * -{/führ/}- → `ü`
     * : {aus}{/führ/}{lich} → `.S-ü.L` :/ `.S.ür`
-    * : {durch}{/führ/} → `dr-ü` :/ `dr.ür`* haft → `h.aft` (?)
+    * : {durch}{/führ/} → `dr-ü` :/ `dr.ür`
+* **haft** → `ha`
 * gar → `g.ar`
 * hals → `h.a-s`
 * halt → `hat`
@@ -207,7 +208,7 @@ ___
 * **früh** → `frÜ`
 * **füll** → `fÜ`
  * -\<füll>- → `Ü`
-    * {er}\<füll> → `er-Ü`
+    * *er*\<füll> → `er-Ü`
 * **hand** → `ha`
  : {/einzel/}**händ**ler → `.ei-h-er`
 * **haupt** → `hau` (?)
@@ -267,7 +268,7 @@ ___
 * -{da}- → -**da**- → `da`
  * : **da****her** → `da.h`
 * -**gar**- → `ga`
- * : **gar**.{nicht} → `ga-t`
+ * : **gar**.*nicht* → `ga-t`
 * -{haft}- → -**haft**- → `ha`
  * : {/einzel/}**haft** → `.ei-ha`
 * -**sach**- → `sa`
@@ -333,7 +334,7 @@ ___
 * ***weis*** → `.eis`
  * wies → `w.is` :/ `.is`
     * -***wies***- → `.is`
-       * : {ge}***wies***en* `G.is`
+       * : *ge****wies***en* `G.is`
 
 ### -******-
 
@@ -361,6 +362,13 @@ Eine Inlautkürzung auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeiche
 * {zu}f**ü**g → `Z.üg`
 * {zu}{samm}enf**ü**g → `Z-sa.üg`
 
+@ im Falle von "druck" wird auf "dru" gekürzt.
+
+@
+* -{/her/}- → `.e`
+
+
+
 ___
 
 * -dr**u**ck- → `u`
@@ -369,9 +377,9 @@ ___
 * -fr**ü**h- → `Ü`
  * **heut**e.fr**ü**h → `heu-Ü`
  * **morg**en.fr**ü**h → `mo-Ü`
- * {schon}.fr**ü**her → `sch-Ü-er`
+ * *schon*.fr**ü**her → `sch-Ü-er`
 * -h**o**l- → `o`
- * : {wieder}h**o**l → `W-o`
+ * : *wieder*h**o**l → `W-o`
 * -sch**ie**d- → `i`
  * : {unter}sch**ie**d → `UNTER-i`
 * -schr**i**ft- → `i`
@@ -379,157 +387,146 @@ ___
  * : **kurz**schr**i**ft → `ku,i`
 * -s**i**cht- → `i`
  * : abs**i**cht → `.ab-i`
- * : an{ge}s**i**cht → `.an.G,i`
+ * : an*ge*s**i**cht → `.an.G,i`
  * : {auf}s**i**cht → `AU-i`
  * : {zu}{ver}s**i**cht → `Z.E-i`
  * : {vor}***sicht*** → `O.icht` :/ `O-i`
 * -spr**u**ch- → `u`
- * : {wider}spr**u**ch → `W-u`
+ * : *wider*spr**u**ch → `W-u`
 * -**u**m- → `u`
  * : **war****u**m → `war-u`
 * -w**o**rt- → `o`
  * : **bind**ew**o**rt → `bi-o`
  * : **haupt**w**o**rt → `hau-o`
- * : {macht}w**o**rt → `aCHT-o`
+ * : *macht*w**o**rt → `aCHT-o`
  * : ***schlag***w**o**rt → `.ag-o`
  * : **sprich**w**o**rt → `.ich-o`
     * : **sprich**w**ö**rt{lich} → `.ich-ö.L`
 
-## *\<//>*
-
-### -\<//>-
 
 * -***au****ch*- → `au`
- * : {aber}.***au****ch* → `ber,au`
+ * : *aber*.***au****ch* → `ber,au`
  * : oder.***au****ch* → `.od-er,au`
- * : {sondern}.***au****ch* → `S,au`
+ * : *sondern*.***au****ch* → `S,au`
 * -***i****hnen*- → `i`
- * : {mit}.***i****hnen* → `M,i`
+ * : *mit*.***i****hnen* → `M,i`
  * : bei.***i****hnen* → `b.ei,i`
  * : um.***i****hnen* → `.um,i`
- * : {wir}.danken.***i****hnen* → `wr.d.ak,i`
+ * : *wir*.danken.***i****hnen* → `wr.d.ak,i`
 * -schr**i**ft- → `i`
  * : {unter}*schr****i****ft* → `UNTER,i`
 * -*w****ie****der*- → `i`
- * : {immer}.*w****ie****der* → `:er,i`
+ * : *immer*.*w****ie****der* → `:er,i`
  * : auch.*w****ie****der* → `.auch,i`
  * -*w****i****drig*- → `i`
     * : {gesetz}*w****i****drig* → `-G,i`
     * : ***pflicht****w****i****drig* → `.icht,i` :/ `pfli,i`
     * : {ver}**trag**s*w****i****drig* → `E>tra,i`
 
-## -~~-
-
 * -~~schied~~-
  * : {ver}ab~~schied~~ → `E.ab`
 * -~~sicht~~-
- * : {ge}~~sicht~~- → `G`
- * : {hin}~~sicht~~ → `hn`
+ * : *ge*~~sicht~~- → `G`
+ * : *hin*~~sicht~~ → `hn`
  * : {rück}~~sicht~~ → `rÜ`
 * -~~weiter~~-
- * : {und}.{so}.~~weiter~~ → `&.o`
+ * : *und*.*so*.~~weiter~~ → `&.o`
 
 ## *{}*
 
-* {aber} → `ber`
-* {besser} → `bes*-er`
-* {bestimm} → `bes*-i`
-* {damals} → `da-s*`
-* {das} → `d`
-* {d. h.} → `d.h*`
-* {die} → `I`
-* {dies} → `.iS`
-* {doch} → `d-ch`
-* {doktor} → `der`
-* {einz} → `N`
-* {er} → `er`
-* {fest} → `fes*`
-* {forder} → `F`
- * : {er}{/forder/}{lich} → er.o-L
-* {geh} → `g` :/ `g.e`
-* {hab} → **hab** → `ha`
- * {hat} → `ha`
- * {hast} → `ha`
- * {hatt} → `t` :/ `.at`
-    * {hätt} → ***hätt*** → `.ät`
-* {hin} → `hn`
-* {immer} → `:er`
-* {kann} → `k`
- * {konn} → `k`
-    * {könn} → **könn** → `kö`
-* {kartei} → `k.at.ei` :/ (?)
-* {klein} → `;N`
-* {länder} → `;d-er` :/ `l.er`
-* {länger} → `NG`
-* {macht} → `aCHT` (?)
-* {mit} → `M`
- * : {mitt} → `M`
-* {mitbestimm} → `M-s*`
-* {nicht} → `-t`
-* {noch} → `n-ch`
-* {nur} → `;UR`
-* {punkt} → `pt`
-* {selbst} → `-st`
-* {schon} → `sch`
-* {sei} → `:ei`
-* {sich} → `CH`
-* {sie} → `sI`
-* {sind} → `:I*`
-* {so} → `.o`
-* {solch} → `s-CH`
-* {soll} → `;S`
-* {sonder} → `S`
- * {sondern} → `S`
-* {stand} → `.and`
-* {sund} → `.und`
- * : {ge}{sund} → `G.und`
-* {ton} → `:o`
- * {tön} → `:ö`
-* {und} → `&`
-* {uns} → `U`
-* {unser} → `U*`
-* {vielleicht} → `v.ei`
-* {voll} → `Ol`
- * {völl} → `Öl`
-* {war} → `:ar`
- * {wär} → `:är`
-* {weltmarkt} → `;-t;-t` :/ `;-t;kt`
-* {werd} → `;w`
- * {wird} → `wir`
- * {wirst} → `wir`
- * {word} → `;O`
- * {wurd} → `;U`
-    * {wurd}~~e~~ → `;U`
-    * {würd} → `;Ü`
-       * {würd}~~e~~ → `;Ü`
-* {wettbewertb} → `w*`
-* {wieder} → `W`
- * : {wider} → `W`
- * : {widr} → `W`
-* {woll} → `:ol`
- * {will} → `:l`
- * {willst} → `:l`
-* {wir} → `wr`
+* *aber* → `ber`
+* *besser* → `bes*-er`
+* *bestimm* → `bes*-i`
+* *damals* → `da-s*`
+* *das* → `d`
+* *d. h.* → `d.h*`
+* *die* → `I`
+* *dies* → `.iS`
+* *doch* → `d-ch`
+* *doktor* → `der`
+* *einz* → `N`
+* *er* → `er`
+* *fest* → `fes*`
+* *forder* → `F`
+ * : *er*{/forder/}{lich} → er.o-L
+* -*ge*- → `G`
+* *geh* → `g` :/ `g.e`
+* *hab* → **hab** → `ha`
+ * *hat* → `ha`
+ * *hast* → `ha`
+ * *hatt* → `t` :/ `.at`
+    * *hätt* → ***hätt*** → `.ät`
+* *hin* → `hn`
+* *immer* → `:er`
+* *kann* → `k`
+ * *konn* → `k`
+    * *könn* → **könn** → `kö`
+* *kartei* → `k.at.ei` :/ (?)
+* *klein* → `;N`
+* *länder* → `;d-er` :/ `l.er`
+* *länger* → `NG`
+* *macht* → `aCHT` (?)
+* *mit* → `M`
+ * : *mitt* → `M`
+* *mitbestimm* → `M-s*`
+* *nicht* → `-t`
+* *noch* → `n-ch`
+* *nur* → `;UR`
+* *punkt* → pt. → `pt`
+* *selbst* → `-st`
+* *schon* → `sch`
+* *sei* → `:ei`
+* *sich* → `CH`
+* *sie* → `sI`
+* *sind* → `:I*`
+* *so* → `.o`
+* *solch* → `s-CH`
+* *soll* → `;S`
+* *sonder* → `S`
+ * *sondern* → `S`
+* *stand* → `.and`
+* *sund* → `.und`
+ * : *ge**sund* → `G.und`
+* *ton* → `:o`
+ * *tön* → `:ö`
+* *und* → `&`
+* *uns* → `U`
+* *unser* → `U*`
+* *vielleicht* → `v.ei`
+* *voll* → `Ol`
+ * *völl* → `Öl`
+* *war* → `:ar`
+ * *wär* → `:är`
+* *weltmarkt* → `;-t;-t` :/ `;-t;kt`
+* *werd* → `;w`
+ * *wird* → `wir`
+ * *wirst* → `wir`
+ * *word* → `;O`
+ * *wurd* → `;U`
+    * *wurd*~~e~~ → `;U`
+    * *würd* → `;Ü`
+       * *würd*~~e~~ → `;Ü`
+* *wettbewertb* → `w*`
+* *wieder* → `W`
+ * : *wider* → `W`
+ * : *widrig* → `W`
+* *woll* → `:ol`
+ * *will* → `:l`
+ * *willst* → `:l`
+* *wir* → `wr`
 
-### -{}-
-
-* -{kein}- → `k`
- * : {kein}es**fall**s → `k.fa-s`
+* -*kein*- → `k`
+ * : *kein*es**fall**s → `k.fa-s`
 * -{wert}- → `;-t`
- * : {er}**streb**ens{wert} → `er>str;-t` :/ `er>str-t`
-* -{wie}- → `I`
- * : {so}{wie} → `.o>I`
-
-## *{//}*
-
-### -{//}-
+ * : *er***streb**ens{wert} → `er>str;-t` :/ `er>str-t`
+* -*wie*- → `I`
+ * : *so**wie* → `.o>I`
 
 Eine alternative Kürzelform besteht in der Ausstoßung des Anlauts und des Auslauts. Der Inlaut *a* (bzw. *ä*) wird durch die Hochstellung auf die Oberlinie angedeutet.
 * -{/ein/}- → `.ei`
 * -{/einzel/}- → `.ei`
 * -{/et/}- → `.e`
 * -{/forder/}- → `.o`
-* -{/her/}- → `.e`
 * -{/irgend/}- → `.i`
 * -{/off/}- → `.o`
 * -{/sach/}- → `a.`
@@ -561,10 +558,10 @@ ___
  * : {/hin/}{aus} → `n.S` :/ `.in.S`
  * : {/hin/}ein → `n.N` (?) :/ `.in.N`
  * : {/hin/}{zu} → `n>Z` :/ `.in\<Z`
- * : {da}{hin} → `da.in`
- * : {weiter}{hin} → `T-er.in`
+ * : {da}*hin* → `da.in`
+ * : {weiter}*hin* → `T-er.in`
 * -{/irgend/}- → `.i`
- * : {/irgend/}{wie} → `.i-I`
+ * : {/irgend/}*wie* → `.i-I`
  * : {/irgend/}**wo** → `.i-wo`
  * : {/irgend/}wann → `.i-w.an`
 * {/markt/} → `;kt`
@@ -584,19 +581,12 @@ ___
 * -{/welt/}- → `;-t`
  * : um{/welt/} → `.um-t`
 
-___
-
-
-### ?
-
-
-
-### !
+### ! Janz unanjenehme Ausnahmn
 
 * ! -**fang**- → `fa`
  * ! : be**fang** → `b.e-fa`
  * ! -**fäng**- → `f`
-    * ! : {ge}**fäng**{nis} → `G.f.is`
+    * ! : *ge***fäng**{nis} → `G.f.is`
 
 * ! {mus} → `mu`
  * ! muse → `m.us.e`
@@ -842,6 +832,7 @@ ___
     * : {kon}**fekt** → `ko.f` !
     * : {per}**fekt** → `p.f` !
 * ***form*** → `.om`
+ * : ***form***at{ion} → `.om-O`
  * : ***form***el → `.om.el`
  * : ***form***ulier → `.om.ul.ir`
  * : {in}***form***at{ion} → `.I.om-O`
@@ -914,8 +905,8 @@ ___
  * : {mater}{ial} → `ma.iaL`
  * : {mater}{ial}{ismus} → `ma.iaL.iS`
  * : {mater}{ial}{istisch} → `ma.iaL.iS.i` (?)
-* {mitt} → `M`
- * : e{mitt}ier → `.e-M.ir` !
+* *mitt* → `M`
+ * : e*mitt*ier → `.e-M.ir` !
  * {miss} → `ms`
     * : {miss}{ion} → `ms-O`
     * : e{miss}{ion} → `.e-ms-O`
@@ -994,7 +985,7 @@ ___
  * : e**skal**ier → `.e-ska-ir` (?)
 * sol → `s.ol`
  * : solid → `s.ol.id`
- * : konsolidierung → `ko.s.ol.ir-UNG` (?)
+ * : {kon}solidier{ung} → `ko-s.ol.ir-UNG`
 * son → `s.on`
  * : sonate → `s.on.at.e`
  * -{son}- → `s`
