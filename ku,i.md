@@ -1030,12 +1030,12 @@ ___
  * : {in}**stall**{ion} → `.I.sta*`
 * ***stell*** → `.ell`
  * : {kon}***stell***at{ion} → `ko.ell.iO`
-* -\</stru/>- → `,u`
- * : {kon}\</stru/>ier → `ko,u-ir`
+* -*str****u***- → `,u`
+ * : {kon}*str****u***ier → `ko,u-ir`
     * strukt → `str.ukt`
        * : struktur → `str.ukt-UR` !
-    * -\</strukt/>- → `,u`
-       * : {kon}\</strukt/>{ion} → `ko,u-O`
+    * -*str****u****kt*- → `,u`
+       * : {kon}*str****u****kt*{ion} → `ko,u-O`
 * -**sul**- → `su`
  * : {kon}**sul** → `ko-su`
  * -{sult}- → `su`
