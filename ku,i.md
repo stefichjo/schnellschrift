@@ -1063,7 +1063,7 @@ ___
  * : *kon***sum** → `ko-su`
  * : *kon***sum**ier → `ko-su.ir`
  * : *kon***sum***ent* → `ko-su.eNT`
-* tang*
+* tang
  * : tangier → `t.ang.ir`
  * : tang*ent*e → `t.ang.eNT.e` !
  * takt*
@@ -1104,42 +1104,42 @@ ___
        * : *in*vers → `.I.w.es`
        * : *in*vers*ion* → `.I.w.es.iO`
        * : *kon*vers*ion* → `ko.w.es.iO`
-* -{vid}- → `w`
- * : di{vid}ier → `d.i-w.ir`
- * : re{vid}ier → `r.e-w.ir`
+* -***v****id*- → `w`
+ * : di***v****id*ier → `d.i-w.ir`
+ * : re***v****id*ier → `r.e-w.ir`
  * vis → `v.is`
     * vis*ion* → `v.is.iO`
     * visual~~is~~ier → `v.is.al.ir`
     * visuell → `v.is.ell`
-    * -{vis}- → `w`
-       * re{vis}*ion* → `re.w-O`
-* -{volv}- → `w.ow`
- * : re{volv}er → `r.e-w.ow-er`
- * -{volt}- → `wot`
-    * : re{volt}e → `r.e-wot.e`
- * -{volution}- → `u-O`
-    * : e{volution} → `.e,u-O`
-    * : re{volution} → `r.e-u-O`
-    * : {konter}re{volution} → `ko-t-er.r.e-u-O` (?)
-* {zentr} → `zr`
- * : *kon*{zentr}at*ion* → `ko>zr.iO`
-* {zentral} → `zr-a`
+    * -***v****is*- → `w`
+       * re***v****is**ion* → `re.w-O`
+* -volv- → `w.ow`
+ * : revolver → `r.e-w.ow-er`
+ * -volt- → `wot`
+    * : revolte → `r.e-wot.e`
+ * -*volution*- → `u-O`
+    * : e*volution* → `.e,u-O`
+    * : re*volution* → `r.e-u-O`
+    * : {konter}re*volution* → `ko-t-er.r.e-u-O` (?)
+* *zentr* → `zr`
+ * : *kon**zentr*at*ion* → `ko>zr.iO`
+* *zentral* → `zr-a`
 * ***zed*** → `.ed`
  * : *kon****zed***ier → `ko.ed.ir`
  * ***zess*** → `.ess`
     * : *kon****zess****ion* → `ko.ess.iO` !
 * zern → `z.en`
  * : *kon*zern → `ko.z.en`
- * {zert} → `zer`
-    * : {zert}{ifik}at → `zer.if.at`
-    * : {zert}{ifiz}ier → `zer.if.ir`
-    * : *kon*{zert} → `ko>zer` (?) !
+ * *zert* → `zer`
+    * : *zert*{ifik}at → `zer.if.at`
+    * : *zert*{ifiz}ier → `zer.if.ir`
+    * : *kon**zert* → `ko>zer` (?) !
 * **zil** → `.il`
  * : *kon***zil** → `ko.il`
 * **zip** → `.ip`
  * : *kon***zip**ier → `ko.ip.ir`
- * {zept} → `z`
-    * : *kon*{zept} → `ko.z` !
-    * : re{zept} → `r.e-z`
-    * : re{zept}*ion* → `r.e-z.iO`
+ * ***z****ept* → `z`
+    * : *kon****z****ept* → `ko.z` !
+    * : re***z****ept* → `r.e-z`
+    * : re***z****ept**ion* → `r.e-z.iO`
 
