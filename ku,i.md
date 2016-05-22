@@ -471,7 +471,7 @@ ___
     * *hätt* → ***hätt*** → `.ät`
  * -*haft*- → -**haft**- → `ha`
     * : **einzel****haft** → `.ei-ha`
-mj* *hin* → `hn`
+* *hin* → `hn`
 * -*ig*- → `.i`
 * *immer* → `:er`
 * *in* → `.I*`
@@ -578,7 +578,7 @@ ___
 * -**ein**- → `.ei`
  * : **ein**e → `.ei-e`
  * : **ein**er → `.ei-er`
-* -{/es/}- → `.e`
+* -**es**- → `.e`
 * -**et**- → `.e`
  * : **et****was** → `.e-was`
 * *hal****t*** → `;-t`
@@ -899,8 +899,8 @@ ___
 * grav → `gr.aw`
  * : gravur → `gr.aw-UR`
  * : gravitation → `gr.aw-O`
-* {jiz} → `j`
- * : *pro*{jiz}ir → `.o>j.ir`
+* ***j****iz* → `j`
+ * : *pro****j****iz*ir → `.o>j.ir`
  * **jekt** → `j`
     * : *in***jekt***ion* → `.I.j.iO`
     * : *pro***jekt** → `.o>j`
@@ -990,14 +990,14 @@ ___
  * : **reg**ier*ung* → `r.ir-UNG` !
  * : **reg***ion* → `r.iO` !
  * : **reg**ulier → `r.ul.ir`
- * {rekt} → `r`
-    * : {rekt}or → `r.or`
-    * : **kon**{rekt}or → `ko.r.or` !
-    * {direkt} → `dit`
-       * {direkt}*ion* → `dit-iO` !
- * -{rig}- → `r`
-    * : di{rig}ier → `d.i-r.ir`
-    * : di{rig}*ent* → `d.i-r.eNT` !
+ * **rekt** → `r`
+    * : **rekt**or → `r.or`
+    * : **kon****rekt**or → `ko.r.or` !
+    * *direkt* → `dit`
+       * *direkt**ion* → `dit-iO` !
+ * -***r****ig*- → `r`
+    * : di***r****ig*ier → `d.i-r.ir`
+    * : di***r****ig**ent* → `d.i-r.eNT` !
 * sequ → `s.equ`
  * : sequenz → `s.equ.ez` !
  * -**sequ**- → `s`
@@ -1028,8 +1028,8 @@ ___
 * sort → `s.ort`
  * : sortiment → `s.ot.met` !
  * : **kon**sortium → `ko-s.ot.um`
-* {spiz} → `sp`
- * : *in*{spiz}ier → `.I.sp.ir`
+* ***sp****iz* → `sp`
+ * : *in****sp****iz*ier → `.I.sp.ir`
  * **spekt** → `sp`
     * : *in***spekt***ion* → `.I.sp*`
 * spir → `sp.ir`
