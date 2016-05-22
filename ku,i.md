@@ -534,11 +534,15 @@ mj* *hin* → `hn`
 * -**zer**- → `zer`
 * *zu* → `Z`
 
+* -*ifik*- → `.if`
+ * : -*ifiz*- → `.if`
 * -**kon**- → `ko`
  * : -**kol**- → `ko`
  * : -*kom*- → `kom`
 * -**konter**- → `ko-t-er`
 * -*ion*- → `.iO`
+ * : -*ional*- → `.iaL`
+ * : -*ionell*- → `.ieL`
 * -***p****er*- → `p`
 * -*pro*- → `.o`
 * *ton* → `:o`
@@ -646,13 +650,13 @@ ___
  * ! **kon**{front}~~ier~~ → `ko.fr.o`
  * ! **kon**frontat*ion* → `ko.fr.ot.iO`
 
-* ! {fundament} → `fut`
+* ! *fundament* → `fut`
 
 * ! funkt → `f.ukt`
  * ! funktor → `f.ukt-or`
 
-* ! {jekt} → `jet`
- * ! *pro*{jekt}{il} → `.o>jet-il` (?)
+* ! *jekt* → `jet`
+ * ! *pro**jekt*{il} → `.o>jet-il` (?)
 
 * ! {kommunikation} → `ko-u-o`
 
@@ -815,7 +819,7 @@ ___
  * : datei → `da.ei`
  * -{dit}- → `di`
     * : **kon**dit*ion* → `ko,di-O`
-    * : **kon**dit{ional} → `ko,di-aL` (?)
+    * : **kon**dit*ional* → `ko,di-aL` (?)
 * -dik- → `d.ik`
  * : *in*dikat*ion* → `.I.d.ik.iO`
  * -*dikt* → `di`
@@ -930,16 +934,16 @@ ___
     * : **kol**lekt{iv} → `ko.ekt-iv`
 * {mater} → `ma`
  * : {mater}{i}e → `ma.I.e`
- * : {mater}{ial} → `ma.iaL`
- * : {mater}{ial}{ismus} → `ma.iaL.iS`
- * : {mater}{ial}{istisch} → `ma.iaL.iS.i` (?)
+ * : {mater}{ial} → `ma.ial` (?)
+ * : {mater}{ial}{ismus} → `ma.ial.iS` (?)
+ * : {mater}{ial}{istisch} → `ma.ial.iS.i` (?)
 * *mitt* → `M`
  * : e*mitt*ier → `.e-M.ir` !
- * {miss} → `ms`
-    * : {miss}*ion* → `ms-O`
-    * : e{miss}*ion* → `.e-ms-O`
-    * : *kom*{miss}*ion* → `ko.ms-O` !
-    * : *kom**pro*{miss} → `kom.o-ms` !
+ * *miss* → `ms`
+    * : *miss**ion* → `ms-O`
+    * : e*miss**ion* → `.e-ms-O`
+    * : *kom**miss**ion* → `ko.ms-O` !
+    * : *kom**pro**miss* → `kom.o-ms` !
 * ***p****at* → `p`
  * : *kom****p****at*ibel → `kom-p.ib.el`
  * : *kom****p****at*ibilität → `kom-p.ib.ät`
@@ -961,22 +965,22 @@ ___
     * : pos. → `p.os`
     * : positiv → `p.os.iv` !
     * : {dis}posit*ion* → `ds>p.os.iO` !
-* {post} → `po`
- * : {post}ier → `po.ir`
- * : {post}ulat → `po.ul.at` !
- * : {post}ulier → `po.ul.ir`
+* *post* → `po`
+ * : *post*ier → `po.ir`
+ * : *post*ulat → `po.ul.at` !
+ * : *post*ulier → `po.ul.ir`
  * -{pot}- → `p.o`
     * : de{pot} → `d.e>p.o`
-* {put} → `p`
- * am{put}at*ion* → `.am-p-O`
-* {rat} → `ra`
- * : {rat}e → `ra.e`
- * : {rat}*ion* → `ra.iO`
- * : {rat}{ional}~~is~~ier* `ra.iaL.ir`
- * : {rat}{ionell} → `ra.ieL`
- * : {rat}*ion*ier → `ra.iO.ir` !
- * : {rat}{ifiz}ier → `ra.if.ir`
- * : {rat}{ifik}at*ion* → `ra.if-O`
+* ***p****ut* → `p`
+ * am***p****ut*at*ion* → `.am-p-O`
+* **rat** → `ra`
+ * : **rat**e → `ra.e`
+ * : **rat***ion* → `ra.iO`
+ * : **rat***ional*~~is~~ier* `ra.iaL.ir`
+ * : **rat***ionell* → `ra.ieL`
+ * : **rat***ion*ier → `ra.iO.ir` !
+ * : **rat***ifiz*ier → `ra.if.ir`
+ * : **rat***ifik*at*ion* → `ra.if-O`
 * **reg** → `r`
  * : **reg**el → `r.el`
  * : **reg**ier → `r.ir` !
@@ -1082,7 +1086,7 @@ ___
 * un → `.un`
  * unikat → `.un.ik.at`
  * unikum → `.un.ik.um`
- * un{ifik}at*ion* → `.un.if-O`
+ * un*ifik*at*ion* → `.un.if-O`
  * uniform → (?)
  * {univers} → `.un`
     * : {univers}al → `.un.al`
@@ -1103,7 +1107,7 @@ ___
  * vers → `v.es`
     * -vers- → `w.es`
        * : divers → `d.i-w.es`
-       * : divers{ifik}at*ion* → `d.i-w.es.if-O`
+       * : divers*ifik*at*ion* → `d.i-w.es.if-O`
        * : *in*vers → `.I.w.es`
        * : *in*vers*ion* → `.I.w.es.iO`
        * : **kon**vers*ion* → `ko.w.es.iO`
@@ -1134,8 +1138,8 @@ ___
 * zern → `z.en`
  * : **kon**zern → `ko.z.en`
  * *zert* → `zer`
-    * : *zert*{ifik}at → `zer.if.at`
-    * : *zert*{ifiz}ier → `zer.if.ir`
+    * : *zert**ifik*at → `zer.if.at`
+    * : *zert**ifiz*ier → `zer.if.ir`
     * : **kon***zert* → `ko>zer` (?) !
 * **zil** → `.il`
  * : **kon****zil** → `ko.il`
