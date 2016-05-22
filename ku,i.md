@@ -135,7 +135,7 @@ ___
 * wert → `wet`
 * wort → `wot`
 
-## ******
+## Selbstlautandeutung
 
 Der Anlaut deutet den Inlaut an. Der Auslaut wird ausgestoßen.
 * **bald** → `ba`
@@ -160,7 +160,11 @@ Kann das Anlautzeichen nicht gestreckt oder hoch- bzw. tiefgestellt werden, so w
    * **spräch** → `spr`
  * **sproch** → `.och`
    * **spruch** → `.uch`
-     * **sprüch** → `.üch` 
+     * **sprüch** → `.üch`
+
+Hat der Stamm keinen Anlaut, so wird der Auslaut ausgestoßen.
+* -**ein**- → `.ei`
+ * : **ein**er → `.ei-er`
 
 Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * **wer** → `wer`
@@ -187,6 +191,9 @@ ___
      * **brüch** → `brÜ`
 * **druck** → `dru`
  * **drück** → `drÜ` (?)
+* -**ein**- → `.ei`
+ * : -**einzel**- → `.ei`
+* -**et**- → `.e`
 * **fahr** → `fa`
  * fahrt → `fat`
  * fähr → `f.är` :/
@@ -213,17 +220,19 @@ ___
  * -\<füll>- → `Ü`
     * *er*\<füll> → `er-Ü`
 * **hand** → `ha`
- : {/einzel/}**händ**ler → `.ei-h-er`
+ : **einzel****händ**ler → `.ei-h-er`
 * **haupt** → `hau` (?)
 * **her** → `h`
 * **heut** → `heu`
 * **morg** → `mo`
 * **hol** → `ho`
 * **hör** → `hö`
+* -**irgend**- → `.i`
 * **jahr** → `ja`
 * **kenn** → `k.e`
 * **land** → `la`
  * **länd** → `l`
+* -**off**- → `.o`
 * **pass** → `pass`
 * **schnell** → `schn`
 * **schreck** → `schr`
@@ -338,7 +347,7 @@ ___
  * : ***bei*****trag** → `.ei>tra`
  * : **her*****bei*** → `h.ei`
 * -***jahr***- `.ar`
- * : *in*.{/ein/}er.reihe.{/von/}.***jahr***en → `.I.ei-er-r.eih.ar.en`
+ * : *in*.**ein**er.reihe.{/von/}.***jahr***en → `.I.ei-er-r.eih.ar.en`
 * -***trieb***- → `.ib`
  * : be***trieb*** → `b.e-ib`
 
@@ -450,7 +459,8 @@ ___
 * *er* → `er`
 * *fest* → `fes*`
 * *forder* → `F`
- * : *er*{/forder/}*lich* → er.o-L
+ * : -**forder**- → `o`
+    * : *er***forder***lich* → er.o-L
 * -*ge*- → `G`
 * *geh* → `g` :/ `g.e`
 * *gesetz* → `-G`
@@ -460,7 +470,7 @@ ___
  * *hatt* → `t` :/ `.at`
     * *hätt* → ***hätt*** → `.ät`
  * -*haft*- → -**haft**- → `ha`
-    * : {/einzel/}**haft** → `.ei-ha`
+    * : **einzel****haft** → `.ei-ha`
 mj* *hin* → `hn`
 * -*ig*- → `.i`
 * *immer* → `:er`
@@ -554,12 +564,6 @@ mj* *hin* → `hn`
  * : *so**wie* → `.o>I`
 
 Eine alternative Kürzelform besteht in der Ausstoßung des Anlauts und des Auslauts. Der Inlaut *a* (bzw. *ä*) wird durch die Hochstellung auf die Oberlinie angedeutet.
-* -{/ein/}- → `.ei`
-* -{/einzel/}- → `.ei`
-* -{/et/}- → `.e`
-* -{/forder/}- → `.o`
-* -{/irgend/}- → `.i`
-* -{/off/}- → `.o`
 * -{/sach/}- → `a.`
  * -{/säch/}- → `ä.`
 
@@ -571,13 +575,12 @@ Auslaute mit Aufstrich-t* werden nicht ausgestoßen. Das Kürzel wird dann auf d
 
 ___
 
-* -{/ein/}- → `.ei`
- * : {/ein/}e → `.ei-e`
- * : {/ein/}er → `.ei-er`
+* -**ein**- → `.ei`
+ * : **ein**e → `.ei-e`
+ * : **ein**er → `.ei-er`
 * -{/es/}- → `.e`
-* -{/et/}- → `.e`
- * : {/et/}**was** → `.e-was`
-* -{/forder/}- → `.o`
+* -**et**- → `.e`
+ * : **et****was** → `.e-was`
 * *hal****t*** → `;-t`
  * : **sach***ver**hal****t*** → `sa.E-t`
 * -{/her/}- → `.e`
@@ -591,16 +594,16 @@ ___
  * : {/hin/}*zu* → `n>Z` :/ `.in\<Z`
  * : *da**hin* → `da.in`
  * : ***weit***er*hin* → `T-er.in`
-* -{/irgend/}- → `.i`
- * : {/irgend/}*wie* → `.i-I`
- * : {/irgend/}**wo** → `.i-wo`
- * : {/irgend/}wann → `.i-w.an`
+* -**irgend**- → `.i`
+ * : **irgend***wie* → `.i-I`
+ * : **irgend****wo** → `.i-wo`
+ * : **irgend**wann → `.i-w.an`
 * *mar****kt*** → `;kt`
-* -{/off/}- → `.o`
+* -**off**- → `.o`
  * -{/öff/}- → `.ö`
     * : {/öff/}ent*lich* → `.ö-L`
- * : {/off/}en**bar** → `.o-bar`
- * : {/off/}en{heit} → `.o-H`
+ * : **off**en**bar** → `.o-bar`
+ * : **off**en{heit} → `.o-H`
 * -{/sach/}- → `a`
  * : neben{/sach/}e → `n.eb,a.e`
  * -{/säch/}- → `ä`
@@ -1149,4 +1152,3 @@ ___
     * : **kon*****z****ept* → `ko.z` !
     * : re***z****ept* → `r.e-z`
     * : re***z****ept**ion* → `r.e-z*` !
-
