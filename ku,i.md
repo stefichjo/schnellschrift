@@ -47,7 +47,7 @@ Die Silben *at*, *et*, *it*, *ut* sowie *id* und *il* fallen, außer am Wortende
 * ***form***at*ion* → `.om-O`
 * phonetik → `f.on.ik`
 * *kon****form***ität → `ko.om.ät`
-* *in**stit*ut*ion* → `.I.st*` !
+* *in****st****it*ut*ion* → `.I.st*` !
 * *kon*solidier*ung* → `ko-s.ol.ir-UNG`
 * **kom*****p****at*ibilität → `kom-p.ib.ät`
 
@@ -104,7 +104,7 @@ ___
 * führ → `f.ür`
  * -***führ***- → `.ür`
     * : \<üb>er***führ*** → `Ü-ür`
-    * : \<zu>**rück*****führ*** → `u-rÜ\<ür`
+    * : \z**u****rück*****führ*** → `u-rÜ\<ür`
  * -{führ}- → `Ür`
     * : ab{führ} → `.ab-Ür` :/ `.ab.ür`
     * : an{führ} → `.an-Ür` :/ `.an.ür`
@@ -285,7 +285,7 @@ Die Inlaute *e* (bzw. *ä*) und *a* werden bei Auslautkürzung ohne Anstrich ges
 
 ___
 
-* ***blick*** → `.ik` ≠ ***blind***
+* ***blick*** → `.ik` ≠ **blind**
 * ***schreib*** → `.eib` ≠ schrei
  * ***schrieb*** → `.ib` ≠ schrie
 
@@ -1038,10 +1038,10 @@ ___
     * : ***stat***us → `.at.us` !
     * : ***stat***ut → `.at.ut` !
     * : *kon****stat***ier → `ko.at.ir` !
- * *stit* → `st`
-    * : *in**stit*ut*ion* → `.I.st*` !
-    * : *kon**stit*uier → `ko.st.ir`
-    * : *kon**stit*ut*ion* → `ko.st*`
+ * ***st****it* → `st`
+    * : *in****st****it*ut*ion* → `.I.st*` !
+    * : *kon****st****it*uier → `ko.st.ir`
+    * : *kon****st****it*ut*ion* → `ko.st*`
 * **stall** → `sta`
  * : *in***stall***ion* → `.I.sta*`
 * ***stell*** → `.ell`
