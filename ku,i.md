@@ -233,7 +233,9 @@ ___
  * **broch** → `bro`
    * **bruch** → `bru`
      * **brüch** → `brÜ`
-* ***ding*** → `.ing` ≠
+* **dien** → `di`
+ * **dienst** → `di`
+* ***ding*** → `.ing` ≠ **dien**
 * **druck** → `dru`
  * : ***nach*****druck** → `ach.dru`
  * -dr**u**ck- → `u`
@@ -253,7 +255,7 @@ ___
 * **fall** → `fa`
  * : **k**eines**fall**s → `k.fa-s`
  * fiel → `f.il` :/ `fi`
-* ***flieg*** → `.ig` ≠
+* ***flieg*** → `.ig` ≠ **flieh**, **fließ**
  * ***flog*** → `.og`
  * ***flug*** → `.ug`
 * **flieh** → `fli`
@@ -278,13 +280,15 @@ ___
 * **füll** → `fÜ`
  * -f**ü**ll- → `Ü`
     * *er*f**ü**ll → `er-Ü`
-* ***gang*** → `ang` ≠
+* ***gang*** → `ang` ≠ **gar**, **gar**, **gast**
  * ***ging*** → `.ing`
+* **ganz** → `ga`
 * -**gar**- → `ga`
  * : **gar**.*nicht* → `ga-t`
-* ***glied*** → `.id` ≠
-* ***greif*** → `.eif` ≠
- * ***griff*** → `.if`
+* **gast** → `ga`
+* **glied** → `gli` !
+* **greif** → `gr.ei` !
+ * ***griff*** → `.if` !
 * **hand** → `ha`
  : **einzel****händ**ler → `.ei-h-er`
 * **haupt** → `hau`
@@ -306,7 +310,11 @@ ___
 * **jahr** → `ja`
  * -***jahr***- `.ar`
     * : *in*.**ein**er.reihe.~~von~~.***jahr***en → `.I.ei-er-r.eih.ar.en`
-* ***kampf*** → `ampf` ≠
+* **kalk** → `ka` !
+* *kalkul* → `ka,u`
+ * : *kalkul*ation → `ka,u-O`
+ * : *kalkul*ier → `ka,u-ir`
+* ***kampf*** → `ampf` ≠ **kalk**
  * : **klass**en***kampf*** → `kla.ampf`
  * ***kämpf*** → `empf`
 * **kart** → `kat`
@@ -323,9 +331,11 @@ ___
  * : **klass***ifik*at*ion* → `kla.if-O`
 * **land** → `la`
  * **länd** → `l`
-* ***lang*** → `ang` ≠
+* ***lang*** → `ang` ≠ **lag**, **land**
+* **lieg** → `li`
+ * **lag** → `la`
 * **morg** → `mo`
-* ***nam*** → `.am` ≠
+* ***nam*** → `.am` ≠ an
  * : nam**haft** → `n.am.ha` :/ `.am.ha`
  * : ***näm****lich* → `.äm.L`
  * : {nament}*lich* → `-t-L` :/ `.am.L`
@@ -343,19 +353,19 @@ ___
 * -spr**u**ch- → `u`
  * : *wider*spr**u**ch → `W-u`
 * **pass** → `pass`
-* ***rech*** → `ech` ≠
-* ***recht*** → `echt` ≠
+* ***rech*** → `ech` ≠ *er*
+* ***recht*** → `echt` ≠ *er*
 * -**sach**- → `sa`
  * : **sach***ver*hal**t** → `sa.E-t`
  * -*s****a****ch*- → `a.`
     * : neben*s****a****ch*e → `n.eb,a.e`
-* ***scheid*** → `.eid` ≠
+* ***scheid*** → `.eid` ≠ ?
  * schied → `sch.id` :/ `.id`
     * -***schied***- → `.id`
        * : ab***schied*** → `.ab.id`
     * -~~schied~~-
        * : *ver*ab~~schied~~ → `E.ab`
-* ***schick*** → `.ik` ≠
+* ***schick*** → `.ik` ≠ ?
 * ***schlag*** → `.ag` ≠ **schlacht**
  * ***schläg*** → `.äg`
  * ***schlug*** → `.ug`
@@ -378,15 +388,15 @@ ___
    * **spruch** → `.uch`
      * **sprüch** → `.üch` 
 * **statt** → `sta`
- * : ***stätt*** → `.ät` ≠ :/ `st`
-* ***stell*** → `.ell` ≠
+ * : ***stätt*** → `.ät` ≠ **städt**
+* ***stell*** → `.ell` ≠ **städt**
  * : ***stell****ung* → `st*`
-* ***text*** → `ext` ≠
+* ***text*** → `ext` ≠ ha**tt**
 * **tief** → `ti`
 * **trag** → `tra`
- * **träg** → `tr` :/ `tr.e`
- * trug → `tr.ug` :/ `tru`
-* treff → `tr.ef` :/ `.ef` ≠
+ * **träg** → `tr.e`
+ * **trug** → `.ug` !
+* treff → `tr.ef` :/ `.ef` ≠ **träg**
  * ***triff*** → `.if`
  * ***traf*** → `.af`
  * ***troff*** → `.of`
@@ -402,7 +412,7 @@ ___
 * **wahr** → `wa`
 * **was** → `was`
 * **wass**er → `was-er`
-* ***weis*** → `.eis` ≠
+* ***weis*** → `.eis` ≠ -**weich**-
  * wies → `w.is` :/ `.is`
     * -***wies***- → `.is`
        * : *ge****wies***en `G.is`
@@ -1158,3 +1168,10 @@ ___
 * ! -*sult*- → `su`
  * ! re**sult*ier → `r.e-su.ir`
  * ! re**sult*at → `r.e-su.at`
+
+* ! ***glied*** → `.id` ≠ ?
+
+* ! ***greif*** → `.eif` ≠ ?
+ * ! ***griff*** → `.if` ≠ ?
+* ! kalk → `k.ak`
+* ! trug → `tr.ug` :/ 
