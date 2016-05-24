@@ -13,6 +13,30 @@ Nur selten behält ein Wort in der Schnellschrift seine verkehrsschriftliche Sch
 
 ## Schnellschrift
 
+Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
+* end → `.ed`
+* feld → `f.ed`
+* erst → `.est`
+
+Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut bleibt *t* aufgestrichen. Da *t* den Inlaut nicht andeuten kann, wird dieser durch den Anlaut angedeutet. Kann auch der Anlaut den Inlaut nicht andeuten, wird Abstrich-*t* geschrieben.
+* hals → `h.a-s`
+* wort → `wot`
+* ort → `.ot`
+
+Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden werden.
+* **kon****sequ**enz → `ko-s.ez`
+
+Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen.
+* **kol**lekt*ion* → `ko.ekt-iO`
+* *kom****p****at*ibel → `kom-p.ib.el`
+
+Lateinisches *v* wird, außer am Wortanfang und in *iv*, *w* geschrieben.
+* vers → `v.es`
+* **kon**vers*ion* → `ko.w.es.iO`
+
+Die Nachsilbe **ig** wird nach Aufstrichzeichen auf den Auslaut gekürzt.
+* **geg**enwär**t****ig** → `g-t-ig`
+
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
 * schifffahrt → `sch.if-fat`
 * **richt****ig***keit* → `ri.i-T`
@@ -25,7 +49,7 @@ Die Vokale *i* und *u* am Ende eines mehrsilbigen lateinischen Wortbestandteils 
 * **kon**sortium → `ko-s.ot.um`
 * situier → `s.it.ir`
 
-Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Hierfür wird zwischen Inlautandeutung und Auslautkürzung gewechselt. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
+Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Vor *ung* wird hierfür zwischen Inlautandeutung und Auslautkürzung gewechselt. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
 * *in***dukt***ion* → `.I.du-O`
 * *in***spekt***ion* → `.I.sp*`
 * **zahl** → `za`
@@ -46,36 +70,16 @@ Die Silben *id*, *il*, *is* fallen, außer am Wortende, aus.
 * *kom****p****at*ibilität → `kom-p.ib.ät`
 * **kon****kret**isier → `ko.kr.ir`
 
-Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
-* end → `.ed`
-* feld → `f.ed`
-* erst → `.est`
-
-Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut bleibt *t* aufgestrichen. Da *t* den Inlaut nicht andeuten kann, wird dieser durch den Anlaut angedeutet. Kann auch der Anlaut den Inlaut nicht andeuten, wird Abstrich-*t* geschrieben.
-* hals → `h.a-s`
-* wort → `wot`
-* ort → `.ot`
-
-Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden werden.
-* **kon****sequ**enz → `ko-s.ez`
-
-Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* zu *komp* verschmolzen.
-* **kol**lekt*ion* → `ko.ekt-iO`
-* *kom****p****at*ibel → `kom-p.ib.el`
-
-Der Anlaut *v* lateinischer Wortbestandteile wird in der Wortmitte *w* geschrieben.
-* **kon*****v****ent**ion* → `ko.w-O`
-
-Die Nachsilbe **ig** wird nach Aufstrichzeichen auf den Auslaut gekürzt.
-* **geg**enwär**t****ig** → `g-t-ig`
-
 ___
 
 * (alt) → `.alt`
  * älter → `.ät-er`
 * bar → `b.ar`
 * bei → `b.ei`
+ * -***bei***- → `.ei`
+    * : **her*****bei*** → `h.ei`
 * da → `d.a`
+ * -*da*- → -**da**- → `da`
 * -dens- → `des`
  * : **kon**densier → `ko.des.ir`
  * : **kon**densat → `ko.des.at`
@@ -93,6 +97,7 @@ ___
  * -**ein**- → `.ei`
     * : **ein**e → `.ei-e`
     * : **ein**er → `.ei-er`
+ * -*einz*- → `N` (?)
     * -**einzel**- → `.ei`
 * end → `.ed`
 * erst → `.est`
@@ -106,10 +111,10 @@ ___
        * : *ver****fäng****lich* → `E.eng.L`
  * fing → `f.ing`
 * faz ?
- * {fakt} → `fat`
-    * : {fakt}ura → `fat.UR.a`
- * {fiz} → `f`
-    * : e{fiz}i*ent* → `.e-f.eNT` !
+ * *fakt* → `fat`
+    * : *fakt*ura → `fat.UR.a`
+ * ***f****iz* → `f`
+    * : e***f****iz*i*ent* → `.e-f.eNT` !
  * **fekt** → `f`
     * : ef**fekt** → `.e-f`
     * : ef**fekt**iv → `.e-f.iv` !
@@ -128,19 +133,19 @@ ___
 * führ → `f.ür`
  * -***führ***- → `.ür`
     * : **ü**ber***führ*** → `Ü-ür`
-    * : \z**u****rück*****führ*** → `u-rÜ\<ür`
- * -*führ*- → `Ür`
-    * : ab*führ* → `.ab-Ür` :/ `.ab.ür`
-    * : an*führ* → `.an-Ür` :/ `.an.ür`
-    * : auf*führ* → `AU-Ür` :/ `AU.ür`
-    * : ein*führ* → `N-Ür` :/ `N.ür`
-    * : **her*****bei****führ* → `h.ei-Ür` :/ `h.ei-ür`
-    * : *unter**führ**ung* → `UNTER-Ür-UNG` :/ `UNTER.ür-UNG`
-    * : *ver**führ* → `E-Ü` :/ `E.ür`
-    * : *vor**führ* → `O-Ü` :/ `O.ür`
- * -f**ü**hr- → `ü`
-    * : *aus*f**ü**hr*lich* → `.S-ü.L` :/ `.S.ür`
-    * : *durch*f**ü**hr → `dr-ü` :/ `dr.ür`
+    * : z**u****rück*****führ*** → `u-rÜ-ür`
+    * -*führ*- → `Ür`
+       * : ab*führ* → `.ab-Ür`
+       * : an*führ* → `.an-Ür`
+       * : auf*führ* → `AU-Ür`
+       * : ein*führ* → `N-Ür`
+       * : **her*****bei****führ* → `h.ei-Ür`
+       * : *unter**führ**ung* → `UNTER-Ür-UNG`
+       * : *ver**führ* → `E-Ü`
+       * : *vor**führ* → `O-Ü`
+    * -f**ü**hr- → `ü`
+       * : *aus*f**ü**hr*lich* → `.S-ü.L`
+       * : *durch*f**ü**hr → `dr-ü`
 * fung → `f.ung`
  * : fungier → `f.ung.ir`
  * **funkt** → `fu`
@@ -163,6 +168,8 @@ ___
     * : **kon**junkt*ion* → `ko>j.ukt-iO`
 * kalt → `kat`
 * kein → `k.N`
+ * -**k**ein- → `k`
+    * : **k**eines**fall**s → `k.fa-s`
 * leg → `l.eg`
  * : legende → `l.eg.ed.e`
  * lekt → `l.ekt`
@@ -170,7 +177,7 @@ ___
     * : lektor → `l.ekt-or`
     * : lektüre → `l.ekt-ür.e`
     * : **kol**lekt*ion* → `ko.ekt-iO`
-    * : **kol**lekt{iv} → `ko.ekt-iv`
+    * : **kol**lektiv → `ko.ekt-iv`
 * log → `l.og`
  * : log**isch** → `l.og.i`
  * -**log**- → `.og` !
@@ -186,7 +193,7 @@ ___
     * : **pass***ion* → `pass-O`
 * pand → `p.ad`
  * **pans** → `pas`
-    * : {/ex/}**pans***ion* → `.e-pas-O`
+    * : **ex****pans***ion* → `.e-pas-O`
  * **pass** → `pass`
     * : **pass**us → `pass.us`
     * : **pass**ier → `pass.ir`
@@ -202,17 +209,17 @@ ___
  * : deponier → `d.e>p.on.ir`
  * : *dis*ponier → `ds>p.on.ir` !
  * pos → `p.os`
-    * : posit*ion* → `p.os.iO`
     * : pos. → `p.os`
+    * : posit*ion* → `p.os.iO`
     * : positiv → `p.os.iv` !
     * : *dis*posit*ion* → `ds>p.os.iO` !
 * saß → `s.ass`
 * schrei → `schr.ei`
  * schrie → `schr.i`
 * send → `s.ed`
- * -***s****end*- → `s`
-    * : ab***s****end*er → `.ab-s-er`
-    * : ein***s****end*er → `N-s-er`
+ * -**s**end- → `s`
+    * : ab**s**ender → `.ab-s-er`
+    * : ein**s**ender → `N-s-er`
  * sandt → `s.adt`
 * sequ → `s.equ`
  * : sequenz → `s.equ.ez` !
@@ -220,7 +227,7 @@ ___
     * : **kon****sequ**ent → `ko-s.eNT` !
     * : **kon****sequ**enz → `ko-s.ez`
 * serv → `s.ew`
- * -**serv**- → `-s`
+ * -**serv**- → `s`
     * : **kon****serv**e → `ko-s.e`
     * : **kon****serv**ier → `ko-s.ir`
     * : **kon****serv**ativ → `ko-s.iv`
@@ -246,8 +253,8 @@ ___
  * : **kon**solidier*ung* → `ko-s.ol.ir-UNG`
 * son → `s.on`
  * : sonate → `s.on.at.e`
- * -{son}- → `s`
-    * **kon**{son}ant → `ko-s.aNT`
+ * -***s****on*- → `s`
+    * **kon*****s****on*ant → `ko-s.aNT`
 * sort → `s.ot`
  * : sortiment → `s.ot.met` !
  * : **kon**sortium → `ko-s.ot.um`
@@ -259,7 +266,7 @@ ___
  * ***stat*** → `.at`
     * : ***staat*** → `.at`
     * : ***stat***ik → `.at.ik` !
-    * : ***stat****ion* → `sta*` !
+    * : ***stat****ion* → `.at.iO`
     * : ***stat***istik → `.at.ist-ik` !
     * : ***stat****istisch* → `.at.iS.i`
     * : ***stat***ue → `.at.e` !
@@ -271,10 +278,10 @@ ___
     * : *in****st****it*ut*ion* → `.I.st*` !
     * : **kon*****st****it*uier → `ko.st.ir`
     * : **kon*****st****it*ut*ion* → `ko.st*`
-* tang
+* tang → `t.ang`
  * : tangier → `t.ang.ir`
  * : tang*ent*e → `t.ang.eNT.e` !
- * takt*
+ * takt → `t.akt`
     * : **kon**takt → `ko.t.akt`
 * theater → `t.e-at-er`
  * : theatr**alisch** → `t.e-atr.i`
@@ -282,7 +289,7 @@ ___
  * : theorie → `t.e-or.I` !
  * : theoret**isch** → `t.e-or.i`
 * therm → `t.em`
-*  : thermal → `t.em.al`
+ * : thermal → `t.em.al`
 * um → `.um`
  * -**u**m- → `u`
     * : **war****u**m → `war-u`
@@ -392,9 +399,6 @@ Die Inlaute *e* (bzw. *ä*) und *a* werden bei Auslautkürzung ohne Anstrich ges
 ___
 
 * **bald** → `ba`
-* -***bei***- → `.ei`
- * : ***bei*****trag** → `.ei>tra`
- * : **her*****bei*** → `h.ei`
 * **bi** → `bi` !
 * **bild** → `bi`
 * **bleib** → `bl.ei`
@@ -435,11 +439,11 @@ ___
  * -**dukt**- → `du`
     * *in***dukt***ion* → `.I.du-O`
     * *pro***dukt** → `.o>du` !
-* -**es**- → `.e`
+* **es** → `.e`
 * -**et**- → `.e`
  * : **et****was** → `.e-was`
+* -**ex**- → `.e`
 * **fall** → `fa`
- * : **k**eines**fall**s → `k.fa-s`
  * fiel → `f.il` :/ `fi`
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
@@ -512,6 +516,7 @@ ___
  : **einzel****händ**ler → `.ei-h-er`
 * **haupt** → `hau`
 * *her* → **her** → `h`
+ * : **da****her** → `da.h`
  * -*her*- → `.e`
     * : *her**auf* → `.e-AU`
     * : *her**unter* → `.e-UNTER`
@@ -676,7 +681,7 @@ ___
  * : ***stätt*** → `.ät` ≠ **städt**
 * ***stell*** → `.ell` ≠ **städt**
  * : ***stell****ung* → `st*`
- * : **kon*****stell***at*ion* → `ko.st*` !
+ * : **kon*****stell***at*ion* → `ko.ell.iO`
 * -**sul**- → `su`
  * : **kon****sul** → `ko-su`
  * -**sult**- → `sut`
@@ -699,6 +704,7 @@ ___
 * -**ting**- → `ti`
  * : **kon****ting***ent* → `ko,ti.eNT` !
 * **trag** → `tra`
+ * : ***bei*****trag** → `.ei>tra`
  * **träg** → `tr.e`
  * **trug** → `.ug` !
 * -**trah**- → `tra` ?
@@ -798,8 +804,6 @@ ___
  * : **frucht****bar** → `fru.bar`
 * *besser* → `bes*-er`
 * *bestimm* → `bes*-i`
-* -*da*- → -**da**- → `da`
- * : **da****her** → `da.h`
 * *damals* → `da-s*`
 * *dar* → **dar** → `dar`
 * **d**as → `d`
@@ -875,6 +879,7 @@ ___
  * : *wir*.danken.**i**hnen → `wr.d.ak,i`
 * *immer* → `:er`
 * *in* → `.I*`
+ * -*in*- → `I>` ?
 * -*inter*- → `I>t-er`
 * -*ion*- → `.iO`
  * : -*ional*- → `.iaL`
@@ -894,7 +899,6 @@ ___
 * *kann* → **k**ann → `k`
  * *konn* → **k**onn → `k`
     * *könn* → **könn** → `kö`
-* -**k**ein- → `k`
 * -*keit*- → `T`
 * *klein* → `;N`
 * *kommun* → `ko-u`
@@ -1025,8 +1029,6 @@ ___
 
 ### Ausnahmen
 
-* ! **kon*****stell***at*ion* → `ko.ell.iO`
-
 * ! -**fang**- → `fa`
  * ! : be**fang** → `b.e-fa`
  * ! -**fäng**- → `f`
@@ -1121,8 +1123,6 @@ ___
  * ! : **stat**ut → `sta.ut`
  * ! : **kon****stat**ier → `ko.sta.ir`
 
-* : ! *station* → `.at.iO`
-
 * ! ~~stit~~*
  * ! *in*~~stit~~ut*ion* → `.I.ut.iO`
 
@@ -1155,8 +1155,8 @@ ___
 * ! phys**isch** → `f.ys.i`
 * ! them → `t.em`
 * ! : themat**isch** → `t.em.i`
-* ! {theor} → `t.e-o`
- * ! : {theor}ie → `t.e-o.I`
+* ! *theor* → `t.e-o`
+ * ! : *theor*ie → `t.e-o.I`
 
 * ! **klass**~~iz~~*ismus* → `kla.iS`
 * ! *firmament* → `f.im-met`
