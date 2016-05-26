@@ -64,7 +64,7 @@ Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * ***form***at*ion* → `.om-o`
 * phonetik → `f.on.ik`
 * **kon*****form***ität → `ko.om.ät`
-* *in****st****it*ut*ion* → `.I.st*` !
+* *in****st****it*ut*ion* → `.I.st*`
 
 Die Silben *id*, *il*, *is* fallen, außer am Wortende, aus.
 * **kon**solidier*ung* → `ko-s.ol.ir-UNG`
@@ -301,15 +301,25 @@ ___
  * : **kon**stanz → `ko.st.az`
  * ***stat*** → `.at`
     * : ***staat*** → `.at`
-    * : ***stat***ik → `.at.ik` !
+    * : ***stat***ik → `.at.ik`
+       * *statik* → `st.at.ik`
     * : ***stat****ion* → `.at.iO`
-    * : ***stat***istik → `.at.ist-ik` !
+    * : ***stat***ist → `.at.ist`
+       * *statist* → `I>;st`
+          * : *statist*ik → `I>;st-ik`
+       * *statist*isch → `I>;st-isch`
     * : ***stat****istisch* → `.at.iS.i`
-    * : ***stat***ue → `.at.e` !
-    * : ***stat***uier → `.at.ir` !
-    * : ***stat***us → `.at.us` !
-    * : ***stat***ut → `.at.ut` !
-    * : **kon*****stat***ier → `ko.at.ir` !
+       * *statistisch* → `sta.iS.i`
+    * : ***stat***ue → `.at.e`
+       * *statue* → `sta.u.e`
+    * : ***stat***uier → `.at.ir`
+       * *statuier* → `sta.u.ir`
+    * : ***stat***us → `.at.us`
+       * *status* → `sta.us`
+    * : ***stat***ut → `.at.ut`
+       * *status* → `sta.ut`
+    * : **kon*****stat***ier → `ko.at.ir`
+       * *konstatier* → `ko.sta.ir`
  * ***st****it* → `st`
     * : *in****st****it*ut*ion* → `.I.st*`
        * *institution* → `.I.ut.iO`
@@ -324,7 +334,7 @@ ___
 * tang → `t.ang`
  * : tangier → `t.ang.ir`
  * : tang*ent*e → `t.ang.eNT.e`
-    * {tangente} → `t.ang.ent.e`
+    * *tangente* → `t.ang.ent.e`
  * takt → `t.akt`
     * : **kon**takt → `ko.t.akt`
 * theater → `t.e-at-er`
@@ -452,7 +462,7 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *
 ___
 
 * **bald** → `ba`
-* **bi** → `bi` !
+* **bi** → `bi`
 * **bild** → `bi`
 * **bleib** → `bl.ei`
  * **blieb** → `bl.i`
@@ -467,7 +477,7 @@ ___
      * **brüch** → `brÜ`
 * **chem** → `ch`
  * : **chem**ie → `ch.I`
- * : **bi**o**chem**ie → `bi.ch.I` !
+ * : **bi**o**chem**ie → `bi.ch.I`
 * **dar** → `dar`
 * **dat** → `da`
  * : **dat**um → `da.um`
@@ -483,7 +493,7 @@ ___
  * : ***nach*****druck** → `ach.dru`
  * -dr**u**ck- → `u`
     * : *aus*dr**u**ck → `.S-u`
-    * : ***nach***dr**u**ck → `ach.dru` !
+    * : ***nach***dr**u**ck → `ach.dru`
  * *drück* → `Ük`
   * ein*drück*e → `N-Ük.e`
 * **duk** → `du` ?
@@ -499,7 +509,7 @@ ___
  * : **et****was** → `.e-was`
 * -**ex**- → `.e`
 * **fall** → `fa`
- * **fiel** → `fi` !
+ * **fiel** → `fi`
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
 * ***flieg*** → `.ig` ≠ **flieh**, **fließ**
@@ -565,8 +575,11 @@ ___
  * : **graph**ik → `gra.ik`
  * : **graph****isch** → `gra.i`
  * : **graph**it → `gra.it`
- * : **bi**o**graph**ie → `bi.gra.I` !
- * : **ge**o**graph**ie → `ge.gra.I` !
+ * : **bi**o**graph**ie → `bi.gra.I`
+ * : **ge**o**graph** → `ge.gra`
+    * : **ge**o**graph**ie → `ge.gra.I`
+    * *geograph* → `g.e-o-gra`
+       * : *geograph*ie → `g.e-o-gra.I`
  * : **phon**o**graph****isch** → `f.on.gra.i`
  * : **tele****graph** → `t.gra`
 * ***greif*** → `.eif` ≠ (?)
@@ -589,7 +602,7 @@ ___
 * **jahr** → `ja`
  * -***jahr***- `.ar`
     * : *in*.**ein**er.reihe.~~von~~.***jahr***en → `.I.ei-er-r.eih.ar.en`
-* **kalk** → `ka` !
+* **kalk** → `ka`
 * *kalkul* → `ka,u`
  * : *kalkul*at*ion* → `ka,u-O`
  * : *kalkul*ier → `ka,u-ir`
@@ -631,18 +644,16 @@ ___
  * : **mater***ial**istisch* → `ma.ial.iS.i`
 * **morg** → `mo`
 * **mus** → `mus` :)
- * : **mus**e → `mus.e` !
- * : **mus**eum → `mus.um` !
- * : **mus**ik → `mus.ik` !
- * : **mus**izier → `mus.iz.ir` !
- * : **mus**ik*ant* → `mus.ik.aNT` !
- * mus → `m.us`
-    * muse → `m.us.e`
-    * mus~~eum~~ → `m.us`
- * *mus* → `mu`
-    * *mus*ik → `mu.ik`
-    * *mus*izier → `mu.iz.ir`
-    * *mus*ik*ant* → `mu.ik.aNT`
+ * : **mus**e → `mus.e`
+    * *muse* → `m.us.e`
+ * : **mus**eum → `mus.um`
+    * *museum* → `m.us`
+ * : **mus**ik → `mus.ik`
+    * *musik* → `mu.ik`
+ * : **mus**izier → `mus.iz.ir`
+    * *musizier* → `mu.iz.ir`
+ * : **mus**ik*ant* → `mus.ik.aNT`
+    * *musikant* → `mu.ik.aNT`
 * ***nam*** → `.am` ≠ an
  * : nam**haft** → `n.am.ha` :/ `.am.ha`
  * : ***näm****lich* → `.äm.L`
@@ -1110,7 +1121,6 @@ ___
 * ! biologie → `b.i-l.og.I`
 * ! **ge**ologie → `ge.l.og.I`
 * ! (bio)**graph**ie → `b.i.o-gra.I`
-* ! {geo}**graph**ie → `g.e-o-gra.I`
 * ! phraso**log**ie → `fr.as.o-I` !
 * ! phys**isch** → `f.ys.i`
 * ! them → `t.em`
@@ -1132,10 +1142,3 @@ ___
 * ! skal → `sk.al`
  * ! : skala → `sk.al.a`
 
-* ! **stat** → `sta`
- * ! : (stat)ik → `st.at.ik`
- * ! : **stat***istisch* → `sta.iS.i`
- * ! : **stat**\(u)e → `sta.u.e`
- * ! : **stat**\(u)ier → `sta.u.ir`
- * ! : **stat**us → `sta.us`
- * ! : **stat**ut → `sta.ut`
