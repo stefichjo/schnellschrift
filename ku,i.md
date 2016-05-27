@@ -149,7 +149,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeutet.
 * -*s****a****ch*- → `a.`
 
-### Wörterbuch
+## Wörterbuch
 
 * *aber* → `ber`
 * (alt) → `.alt`
@@ -304,6 +304,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *fest* → `fes*`
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
+* **find** → `fi`
+ * **fand** → `fa` ! `f.ad`
+ * **fund** → `fu`
 * *firm* → `im`
  * : *firm*a → `im.a`
  * : *firm*ament → `im.a-met`
@@ -544,7 +547,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *kommun**ion* → `ko-u.iO`
  * : *kommun*izier → `ko-u.iz.ir`
  * : *kommun*ikat*ion* → `ko-u.ik.iO`
- * *kommunikation* → `ko-u-o`
+    * *kommunikation* → `ko-u-o`
 * -**kon**- → `ko`
  * : -**kol**- → `ko`
  * : -*kom*- → `kom`
@@ -622,7 +625,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *mus*izier → `mu.iz.ir`
  * : *mus*ik*ant* → `mu.ik.aNT`
 * ***nam*** → `.am` ≠ an
- * : nam**haft** → `n.am.ha` :/ `.am.ha`
+ * : ***nam*****haft** → `.am.ha`
+    * *namhaft* → `n.am.ha`
  * : ***näm****lich* → `.äm.L`
     * namen**t** → `;-t`
        * : namen**t***lich* → `-t-L`
