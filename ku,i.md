@@ -207,6 +207,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * de**r** → `;r`
 * *die* → `I`
 * **dien** → `di`
+ * : **dien**er → `di-er` ! `di.er`
+ * : be**dien** → `b.e,di`
  * **dienst** → `di`
 * *dies* → `.iS`
 * ***ding*** → `.ing` ≠ **dien**
@@ -305,8 +307,32 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
 * **find** → `fi`
+ * : **find**er → `fi-er`
+ * : **find**ig → `fi.i`
+ * : **find**igkeit → `fi.i-T`
+ * : **find*****ling*** → `fi.ing`
+ * : ab**find** → `.ab,fi` !! `.ab.f.i`
+ * : *auf***find** → `AU,fi` !! `AU.f.i`
+ * : be**find** → `b.e,fi` !! `b.e-f.i`
+ * : *er***find** → `er,fi` !! `er.f.i`
+ * : *er***find**er → `er,fi-er`
+ * : *vor***find** → `O,fi` !! `O.f.i`
+ * : z**u*****rück*****find** → `u-rÜ,fi` !! `u-rÜ-f.i`
+ * : *zu***samm**en**find** → `Z-sa,fi` !! `Z-sa.f.i`
+ * : *zu*.**find** → `Z,fi` ! `Z.fi`
+ * -f**i**nd- → `i`
+    * : `empf**i**nd` → `.emp-i`
  * **fand** → `fa` ! `f.ad`
+    * be**fand** → `b.e-fa`
+    * -f**a**nd- → `a`
+       * : `empf**a**nd` → `.emp-a`
+ * **fänd** → `f` ! `f.äd`
  * **fund** → `fu`
+    * : abge**fund** → `.ab.fu`
+    * : *auf*ge**fund** → `AU.fu`
+    * : z**u*****rück****ge***fund** → `u-rÜ-fu`
+    * -f**u**nd- → `u`
+       * : `empf**u**nd` → `.emp-u`
 * *firm* → `im`
  * : *firm*a → `im.a`
  * : *firm*ament → `im.a-met`
@@ -584,7 +610,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **kol**lektiv → `ko.ekt-iv`
 * -*lich*- → `L`
 * **lieg** → `li`
+ * : *unter***lieg** → `UNTER,li`
  * **lag** → `la`
+* -***ling***- → `.ing`
+ * : **früh*****ling*** → `frÜ-.ing`
 * log → `l.og`
  * : log**isch** → `l.og.i`
  * -**log**- → `.og`
