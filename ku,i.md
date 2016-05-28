@@ -321,7 +321,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *zu***samm**en**find** → `Z-sa,fi` !! `Z-sa.f.i`
  * : *zu*.**find** → `Z,fi` ! `Z.fi`
  * -f**i**nd- → `i`
-    * : `empf**i**nd` → `.emp-i`
+    * : empf**i**nd → `.emp-i`
  * **fand** → `fa` ! `f.ad`
     * be**fand** → `b.e-fa`
     * -f**a**nd- → `a`
