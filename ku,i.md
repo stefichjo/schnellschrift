@@ -325,14 +325,14 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **fand** → `fa` ! `f.ad`
     * be**fand** → `b.e-fa`
     * -f**a**nd- → `a`
-       * : `empf**a**nd` → `.emp-a`
+       * : empf**a**nd → `.emp-a`
  * **fänd** → `f` ! `f.äd`
  * **fund** → `fu`
     * : abge**fund** → `.ab.fu`
     * : *auf*ge**fund** → `AU.fu`
     * : z**u*****rück****ge***fund** → `u-rÜ-fu`
     * -f**u**nd- → `u`
-       * : `empf**u**nd` → `.emp-u`
+       * : empf**u**nd → `.emp-u`
 * *firm* → `im`
  * : *firm*a → `im.a`
  * : *firm*ament → `im.a-met`
