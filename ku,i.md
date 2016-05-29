@@ -272,7 +272,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *durch* → `dr`
 * ein → `N`
  * -**ein**- → `.ei`
-    * : **ein**e → `.ei-e`
+    * : **ein**e → `.ei`
     * : **ein**er → `.ei-er`
  * *einz* → `N`
     * -**einzel**- → `.ei`
@@ -281,6 +281,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *er* → `er`
 * erst → `.est`
 * **es** → `.e`
+* ess → `.ess`
+ * ~~ess~~
+    * : *inter*~~ess~~e → `I>t-er.e` ! `I>t-er`
+    * : *inter*~~ess~~ier → `I>t-er.ir`
 * **et** → `.e`
  * : **et****was** → `.e-was`
 * -**ex**- → `.e`
@@ -549,14 +553,19 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *wieder*h**o**l → `W-o`
 * **hör** → `hö`
 * -*ial*- → `.ial`
+* *ich* → `.I`
 * -*ifik*- → `.if`
  * : -*ifiz*- → `.if`
 * -**ig**- → `.i`
-* **i**hnen → `i`
- * : *mit*.**i**hnen → `M,i`
- * : bei.**i**hnen → `b.ei,i`
- * : um.**i**hnen → `.um,i`
- * : *wir*.danken.**i**hnen → `wr.d.ak,i`
+* ihn → `.in`
+ * : ihnen → `.in.en`
+    * **i**hnen → `i`
+       * : *mit*.**i**hnen → `M,i`
+       * : bei.**i**hnen → `b.ei,i`
+       * : um.**i**hnen → `.um,i`
+       * : *wir*.danken.**i**hnen → `wr.d.ak,i`
+* ihr → `.ir`
+ * : ihrer → `.ir-er`
 * *immer* → `:er`
 * *in* → `.I*`
  * -*in*- → `I>` ?
@@ -700,10 +709,14 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **mater***ial* → `ma.ial`
  * : **mater***ial**ismus* → `ma.ial.iS`
  * : **mater***ial**istisch* → `ma.ial.iS.i`
+* merk → `m.ek`
+ * *bemerk* → `b.e-m`
 * metr → `m.etr`
  * : geometrie → `g.e-m.etr.I`
  * -~~metr~~-
     * : sym~~metr~~ie → `s.ym.I`
+* mir → `m.ir`
+ * -***mir***- → `.ir`
 * *mit* → `M`
  * : *mitt* → `M`
 * *mitbestimm* → `M-s*`
@@ -743,6 +756,13 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **off**en*heit* → `.o.H`
     * -**öff**- → `.ö`
        * : **öff**ent*lich* → `.ö-L`
+* ord → `.od`
+ * : ordentlich → `.od.L`
+ * : ordinär → `.od.är` ! `.od.in.är`
+ * : ordner → `.od-er`
+ * : ordnung → `.od-UNG`
+ * ~~ord~~
+    * : *außerordentlich* → `.auss.L`
 * ort → `.ot`
 * **pass** → `pass`
 * pati → `p.az`
@@ -766,6 +786,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * **p**at → `p`
  * : *kom***p**atibel → `kom-p.ib.el`
  * : *kom***p**atibilität → `kom-p.ib.ät`
+* **p**erson → `p`
+ * **p**ersön*lich* → `p.L`
 * phon → `f.on`
  * : phonetik → `f.on.ik`
  * : phonet**isch** → `f.on.i`
@@ -1025,6 +1047,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *stand* → `.and`
 * **statt** → `sta`
  * : ***stätt*** → `.ät` ≠ **städt**
+ * *gestatt* → `-G-a`
 * ***stell*** → `.ell` ≠ **städt**
  * : ***stell****ung* → `st*`
  * : **kon*****stell***at*ion* → `ko.ell.iO`
@@ -1217,6 +1240,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * wurf → `w.uf`
     * -**wurf**- → `wu`
        * : *vor***wurf** → `O.wu`
+       * -w**u**rf- → `u`
+          * : *ent*w**u**rf → `eNT-u`
+          * : *ent*w**ü**rfe → `eNT-Ü.e`
+          * : *zer*w**ü**rf***nis*** → `zer-Ü.is`
  * würf → `w.üf`
 * wert → `wet`
  * -*wert*- → `;-t`
@@ -1295,10 +1322,18 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 
 #### Deutsche Wörter
 
-* `wr-I ber -G-a.e .am .emp-a .ir-er .eNT-Ü.e .auss.L I>t-er.irt.`
+* `wr-I ber -G-a.e .am .emp-a .ir-er .eNT-Ü.e .auss.od.L I>t-er.ess.irt.`
+ * `.auss.od.L` → `.auss.L`
+ * `I>t-er.ess.irt` → `I>t-er.irt`
 
 #### Fremdwörter
 
 * `iS.en O.wu ha ;r .emp-i.L.e .emp-er l.eid-er .as ds-i.ir-UNG .emp-u.`
+ * `ds,kri.ir-UNG` → `ds-i.ir-UNG`
 * `-G-a.e I>let-T ds-u.ir.wr Ü-I eNT-i :es ko-su.`
+
+### Anlautkürzungen mit e (I) — § 14/1 a
+
+* `.I -G-a.ir .ei p.L.e b.e-m.ek.`
+ * `b.e-m.ek` → `b.e-m`
 
