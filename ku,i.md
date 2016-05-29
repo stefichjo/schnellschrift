@@ -73,7 +73,7 @@ Die Silben *id*, *il*, *in*, *is* fallen, außer am Wortende, aus.
 * determinat*ion* → `d.e-t.em-o`
 * **kon****kret**isier → `ko.kr.ir`
 
-Vorsilben werden hochgestellt, außer vor rechtsrunden Zeichen.
+Vorsilben werden hochgestellt. ? Anstelle einer Kürzung auf den Anlaut mit einer Andeutung des Inlautes *i* wird *i* ausgeschrieben.
 * *auf***trag** → `AU>tra`
 * an**fass** → `.an.fass`
 * *auf***find** → `AU.f.i`
@@ -641,8 +641,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **krimin**ell → `kri.ell`
     * *kriminell* → `kri.ieL`
  * : *dis***krimin**ier → `ds,kri.ir`
-    * *diskrimin* → `ds-i`
-       * : *diskrimin*ier → `ds-i.ir`
+ * -kr**i**min- → `i`
+    * : *dis*kr**i**minier → `ds-i.ir`
  * *krimi* → `kri.I`
 * **kurr** → `ku`
  * : **kur**ier → `ku.ir`
@@ -652,9 +652,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **kurs** → `kus`
     * -***kurs***- → `.us`
        * : **kon*****kurs*** → `ko.us`
-* -k**u**t- → `u`
+* k**u**t → `u`
  * : *dis*k**u**tier → `ds-u.ir`
- * -k**u**ss- → `u`
+ * k**u**ss → `u`
     * : *dis*k**u**ss*ion* → `ds-u-o`
        * *diskussion* → `ds-u`
 * **land** → `la`
@@ -676,6 +676,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : lektüre → `l.ekt-ür.e`
     * : **kol**lekt*ion* → `ko.ekt-iO`
     * : **kol**lektiv → `ko.ekt-iv`
+* *letzt* → `let`
 * -*lich*- → `L`
 * *liefer* → `l.i-er`
 * **lieg** → `li`
@@ -937,6 +938,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * : **rück**~~sicht~~ → `rÜ`
 * *sie* → `sI`
 * *sind* → `:I*`
+ * -*sind*- → `I`
+    * : *wir*.*sind* → `wr-I`
 * (sist) → `s.i-st`
  * : *in*(sist)ier → `.I.s.i-st.ir` ?
  * : **kon**(sist)enz → `ko-s.i-st.ez`
@@ -1219,6 +1222,14 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * -*wert*- → `;-t`
     * : *er***streb**ens*wert* → `er>str;-t` :/ `er>str-t`
 * *wettbewertb* → `w*`
+* **wick** → `wi`
+ * : **wick**el → `wi.el`
+ * : *ent***wick**el → `eNT,wi.el`
+ * : *ver***wick**el → `E,wi.el`
+    * *verwickel* → `E>wi.el`
+ * -w**i**ck- → `i`
+    * : *ent*w**i**ckel → `eNT-i`* zend → `z.ed`
+ * **trans**zend*ent* → `tra.z.ed.eNT` ! `tra.z.ed.ent`
 * wie → `w.i`
  * -*wie*- → `I`
     * : *so**wie* → `.o>I`
@@ -1252,8 +1263,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * ***zess*** → `.ess`
     * : **kon*****zess****ion* → `ko.ess.iO`
        * *konzession* → `ko.ess`
-* zend → `z.ed`
- * **trans**zend*ent* → `tra.z.ed.eNT` ! `tra.z.ed.ent`
+* ***zeit*** → `T`
 * *zentr* → `zr`
  * : *zentr*al → `zr.al`
     * *zentral* → `zr-a`
@@ -1281,5 +1291,14 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 
 ## Beispiele
 
+### Formkürzung mit Selbstlautandeutung (I) — § 18/3; Verürzung von Kürzeln — § 20/3
+
+#### Deutsche Wörter
+
+* `wr-I ber -G-a.e .am .emp-a .ir-er .eNT-Ü.e .auss.L I>t-er.irt.`
+
+#### Fremdwörter
+
 * `iS.en O.wu ha ;r .emp-i.L.e .emp-er l.eid-er .as ds-i.ir-UNG .emp-u.`
+* `-G-a.e I>let-T ds-u.ir.wr Ü-I eNT-i :es ko-su.`
 
