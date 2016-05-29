@@ -27,9 +27,10 @@ Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut 
 Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden werden.
 * **kon****sequ**enz → `ko-s.ez`
 
-Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen.
+Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen. Anlaut-*s* wird nach *tran* ausgestoßen.
 * **kol**lekt*ion* → `ko.ekt-iO`
 * *kom***p**atibel → `kom-p.ib.el`
+* **tran**(sist)or → `tra.i-st.or`
 
 Lateinisches *v* wird, außer am Wortanfang und in *iv*, *w* geschrieben.
 * vers → `v.es`
@@ -152,6 +153,17 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 ## Wörterbuch
 
 * *aber* → `ber`
+* ag → `.ag`
+ * : agier → `.ag.ir`
+ * akt → `.akt`
+ * *akt* → `-t`
+    * : *akt**ion* → `-t-O`
+    * : *akt*ivier → `-t-iv.ir`
+    * : *in**akt*ivität → `.I-t-iv.ät`
+    * : re*akt**ion*är → `r.e-t-O.är`
+    * : re*akt*or → `r.e-t-or` ! `r.e-akt-or`
+    * : **trans**ak**t***ion* → `tra-t-O`
+* -*age*- → `.asch.e`
 * (alt) → `.alt`
  * älter → `.ät-er`
 * -*ant*- → `aNT`
@@ -173,10 +185,14 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *bestimm* → `bes*-i`
 * **bi** → `bi`
 * **bild** → `bi`
+* **blatt** → `bla`
 * **bleib** → `bl.ei`
  * **blieb** → `bl.i`
 * ***blick*** → `.ik` ≠ **blind**
 * ***boot*** → `.ot`
+* **blut** → `blu`
+* **blüt** → `blü`
+* **bod** → `bo`
 * **brech** → `br`
  * **brich** → `bri`
  * **brach** → `bra`
@@ -299,10 +315,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **p**er**fekt** → `p.f`
        * *perfekt* → `p.fet`
 * feld → `f.ed`
-* -**f**er- → `f`
+* **f**er → `f`
  * : **kon****f**erenz → `ko.f.ez`
     * *konferenz* → `ko.f`
  * : **kon****f**erier → `ko.f.ir`
+ * : **trans****f**er → `tra.f`
 * *fest* → `fes*`
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
@@ -366,6 +383,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : re***form***ier → `r.e-om.ir`
  * : re***form***at*ion* → `r.e-om-o`
  * : re***form***ator**isch** → `r.e-om.or.i`
+ * : **trans*****form***ator → `tra.om.or`
  * : uni***form*** → `.un.om`
 * **fremd** → `fr.e`
 * **front** → `fr.o`
@@ -413,6 +431,14 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **fund**ier → `fu.ir`
  * : **fund**ament → `fu.a-met`
     * *fundament* → `fut`
+ * : dif**fund**  → `d.i,fu`
+ * fus → `f.us`
+    * : fus*ion* → `f.us.iO`
+       * *fusion* → `f.us`
+    * : diffus → `d.i-f.us` ?
+    * : **kon**fus `ko.f.us` ?
+    * : **trans**fus*ion* → `tra.f.us.iO`
+       * *transfusion* → `tra.f.us`
 * fung → `f.ung`
  * : fungier → `f.ung.ir`
  * **funkt** → `fu`
@@ -431,6 +457,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * -*ge*- → `G`
 * *geh* → `g` :/ `g.e`
 * *gesetz* → `-G`
+* *gift* → `git`
+ * -g**i**ft- → `i`
+    * : **blut***ver*g**i**ft → `blu,E-i`
+* **glanz** → `gla`
+ * **glänz** → `glä`
 * ***glied*** → `.id` ≠ ?
 * ***grad*** → `.ad` ≠ **graph**
  * -**gress**- → `gr`
@@ -470,6 +501,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * : **einzel****haft** → `.ei-ha`
 * hals → `h.a-s`
 * hal**t** → `;-t`
+ * : *in*hal**t** → `.I-t`
  * : **sach***ver*hal**t** → `sa.E-t`
 * **hand** → `ha`
  * : **einzel****händ**ler → `.ei-h-er`
@@ -524,6 +556,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * -*ismus*- → `.iS`
 * *ist* → **i**st → `i`
 * -*istisch*- → `.iS.i`
+* it → `.it`
+ * **trans**it → `tra.it`
 * **jahr** → `ja`
  * -***jahr***- `.ar`
     * : *in*.**ein**er.reihe.~~von~~.***jahr***en → `.I.ei-er-r.eih.ar.en`
@@ -609,6 +643,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **kol**lekt*ion* → `ko.ekt-iO`
     * : **kol**lektiv → `ko.ekt-iv`
 * -*lich*- → `L`
+* *liefer* → `l.i-er`
 * **lieg** → `li`
  * : *unter***lieg** → `UNTER,li`
  * **lag** → `la`
@@ -632,6 +667,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **mater***ial**istisch* → `ma.ial.iS.i`
 * metr → `m.etr`
  * : geometrie → `g.e-m.etr.I`
+ * -~~metr~~-
+    * : sym~~metr~~ie → `s.ym.I`
 * *mit* → `M`
  * : *mitt* → `M`
 * *mitbestimm* → `M-s*`
@@ -645,6 +682,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * *komission* → `ko-i`
     * : *kom**pro**miss* → `kom.o-ms`
        * *kompromiss* → `kom.iss`
+    * : **trans***miss**ion* → `tra.ms-o`
+        * *transmission* → `tra.ms`
 * **morg** → `mo`
 * *mus* → `mu`
  * : *mus*e → `mu.e` ! `m.us.e`
@@ -681,6 +720,13 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **pass** → `pass`
     * : **pass**us → `pass.us`
     * : **pass**ier → `pass.ir`
+* *par* → `pa`
+ * : *paar* → `pa`
+ * : *par*ade → `pa.ad.e`
+ * : *par*adis → `pa.ad.is`
+ * : *paris* → `pa.is`
+ * : *par*ität → `pa.ät` ! `p.ar.ät`
+ * : **trans***par**ent* → `tra.pa.eNT`
 * -**p**er- → `p`
 * **p**at → `p`
  * : *kom***p**atibel → `kom-p.ib.el`
@@ -696,12 +742,15 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * *physisch* → `f.ys.i`
  * : **phys**ik → `fy.ik`
  * : **phys**ik**alisch** → `fy.ik.i`
+* **plant** → `pla`
+ * : **plant***age* → `pla.asch.e`
+ * : **trans****plant*at*ion* → `tra.pla.O`
 * po → `p.o`
  * : poesie → `p.o-es.I`
-* pon → `p.on`
- * : deponier → `d.e>p.on.ir`
- * : *dis*ponier → `ds>p.on.ir`
-    * *disponier* → `ds.on.ir`
+* ***p.on*** → `.on` ≠ ?
+ * : de***pon***ier → `d.e-on.ir` ! `d.e>p.on.ir`
+ * : *dis****pon***ier → `ds.on.ir`
+ * : **trans*****pon***ier → `tra.on.ir`
  * **pos** → `pos`
     * : **pos**it*ion* → `pos-o`
        * *position* → `p.os`
@@ -724,10 +773,26 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **prakt**iker → `pra.ik-er`
  * pragm → `pr.agm`
     * : pragmat**isch** → `pr.agm.i`
+* **prinz** → `pri`
+* *prinzip* → `I>ip`
+ * *prinzip**iell* → `I>ip.ieL`
+* *privat* → `pri`
+ * *privat*isier → `pri.ir`
+* *privileg* → `pri.eg`
+* port → `pot`
+ * : portal → `pot-al`
+ * : *pro*port*ion* → `.o>pot-O`
+ * : **trans**port → `tra.pot`
 * -*pro*- → `.o`
+* *problem* → `;l.em`
+ * *problem*atik → `;l.em.ik`
 * *punkt* → pt. → `pt`
 * **p**ut → `p`
  * am**p**utat*ion* → `.am-p-o`
+* rad → `r.ad`
+ * -***rad*** → `.ad`
+    * : *fahr****rad*** → `fa.ad`
+ * *gerad* → `-G-a`
 * **rat** → `ra`
  * : **rat**e → `ra.e`
  * : **rat***ion* → `ra.iO`
@@ -741,6 +806,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * ***recht*** → `echt` ≠ *er*
 * **reg** → `r` ! `r.eg`
  * : **reg**el → `r.el`
+    * -*regel*- → `:el`
+       * : *regel**ung* → `:el-UNG`
+       * : ***spiel****regel*n → `.il,:eln`
+       * : *in*.~~der~~.*regel* → `.I.el`
  * : **reg**ier → `r.ir`
     * *regier* → `I>;r`
  * : **reg**ier*ung* → `r.ir-UNG`
@@ -757,6 +826,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : di**r**igier → `d.i-r.ir`
     * : di**r**ig*ent* → `d.i-r.eNT`
        * *dirigent* → `di.ent`
+* ring → `r.ing`
+ * -***ring*** → `.ing`
+    * : *ge****ring*** → `G.ing`
+    * : *ver****ring*** → `E.ing`
 * **rück** → `rÜ`
 * -**sach**- → `sa`
  * : **sach***ver*hal**t** → `sa.E-t`
@@ -829,8 +902,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *sie* → `sI`
 * *sind* → `:I*`
 * (sist) → `s.i-st`
- * : **kon**(sist)enz → `ko-s.i-st.ez`
  * : *in*(sist)ier → `.I.s.i-st.ir` ?
+ * : **kon**(sist)enz → `ko-s.i-st.ez`
+ * : **tran**(sist)or → `tra.i-st.or`
 * situ → `s.it`
  * : situier → `s.it.ir`
  * : situat*ion* → `s.it.iO`
@@ -858,6 +932,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : sortiment → `s.ot.met`
     * *sortiment* → `s.ot.eNT`
  * : **kon**sortium → `ko-s.ot.um`
+* ***spiel*** → `.il`
+ * : ***spiel***er → `.il-er` ! `.il.er`
+ * : bei***spiel*** → `b.ei-il`
+ * : **trau**er***spiel*** → `trau-er.il`
 * spir → `sp.ir`
  * : **kon**spirat*ion* → `ko.sp.ir.iO`
 * **sp**iz → `sp`
@@ -932,6 +1010,12 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **kon****sum***ent* → `ko-su.eNT`
 * *sund* → `.und`
  * : *ge**sund* → `G.und`
+* *symbol* → `y-b.ol`
+ * *symbol*isier → `y-b.ol.ir`
+* *system* → `:em`
+ * *system*atik → `:em.ik`
+ * *system*atisch → `:em.i`
+ * *system*atisier → `:em.ir`
 * tang → `t.ang`
  * : tangier → `t.ang.ir`
  * : tang*ent*e → `t.ang.eNT.e`
@@ -970,6 +1054,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **trakt** → `tr.akt`
     * -**trakt**- → `tra`
        * : **kon****trakt** → `ko>tra`
+* -**trans**- → `tra`
+ * -**tran**- → `tra`
+* **trau** → `trau`
+ * : **trau**er → `trau-er`
 * treff → `tr.ef` :/ `.ef` ≠ **träg**
  * ***triff*** → `.if`
  * ***traf*** → `.af`
@@ -1001,9 +1089,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * *eventualität* → `.e-v.ät`
     * : evtl. → `.e-v-t-l`
     * : *in***v**entar → `.I.w.ar`
-       * *inventar* → `.I.-t-ar`
+       * *inventar* → `.I-t-ar`
     * : *in***v**entur → `.I.w-UR`
-       * *inventur* → `.I.-t-UR`
+       * *inventur* → `.I-t-UR`
     * : **kon****v**ent*ion* → `ko.w-o`
     * : *inter***v**ent*ion* → `I>t-er.w-o`
 * -*ver*- → `E`
@@ -1117,6 +1205,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * ***zess*** → `.ess`
     * : **kon*****zess****ion* → `ko.ess.iO`
        * *konzession* → `ko.ess`
+* zend → `z.ed`
+ * **trans**zend*ent* → `tra.z.ed.eNT` ! `tra.z.ed.ent`
 * *zentr* → `zr`
  * : *zentr*al → `zr.al`
     * *zentral* → `zr-a`
@@ -1141,3 +1231,5 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : re***z****ept**ion* → `r.e-z*`
        * *rezeption* → `r.e-z.iO`
 * *zu* → `Z`
+
+
