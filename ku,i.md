@@ -282,9 +282,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * erst → `.est`
 * **es** → `.e`
 * ess → `.ess`
- * ~~ess~~
-    * : *inter*~~ess~~e → `I>t-er.e` ! `I>t-er`
-    * : *inter*~~ess~~ier → `I>t-er.ir`
+ * : *inter*essier → `I>t-er.ess.ir` → `I>t-er.ir`
 * **et** → `.e`
  * : **et****was** → `.e-was`
 * -**ex**- → `.e`
@@ -304,19 +302,17 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * -***fang***- → `ang`
     * : be***fang*** → `b.e-ang`
        * *befang* → `b.e-fa`
+    * : emp***fang*** → `.emp.ang` → `emp-a`
     * : ein***fang*** → `N.ang`
-    * -f**a**ng- → `a`
-       * : empf**a**ng → `emp-a`
  * fäng → `f.eng`
     * -***fäng***- → `eng`
+       * : emp***fäng*** → `.emp.eng` → `.emp`
        * : *ge****fäng******nis*** → `G.eng.is`
           * *gefängnis* → `G.f.is`
        * : *ver****fäng****lich* → `E.eng.L`
-       * -f**ä**ng-
-          * : empf**ä**ng → `emp`
  * fing → `f.ing`
-    * -f**i**ng- → `i`
-       * : empf**i**ng → `emp-i`
+    * -***fing***- → `.ing`
+       * : empf**i**ng → `.emp.ing` → `.emp-i`
 * -fat- ?
  * -**fess**- → `fess`
     * **kon****fess***ion* → `ko.fess-o`
@@ -352,25 +348,22 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : ab**find** → `.ab.f.i`
  * : *auf***find** → `AU.f.i`
  * : be**find** → `b.e-f.i`
+ * : emp**find** → `.emp-f.i` → `.emp-i`
  * : *er***find** → `er.f.i`
  * : *er***find**er → `er,fi-er`
  * : *vor***find** → `O.f.i`
  * : z**u*****rück*****find** → `u-rÜ-f.i`
  * : *zu***samm**en**find** → `Z-sa.f.i`
  * : *zu*.**find** → `Z.f.i` ! `Z.fi`
- * -f**i**nd- → `i`
-    * : empf**i**nd → `.emp-i`
  * **fand** → `fa` ! `f.ad`
     * be**fand** → `b.e-fa`
-    * -f**a**nd- → `a`
-       * : empf**a**nd → `.emp-a`
+    * emp**fand** → `.emp-fa` → `.emp-a`
  * **fänd** → `f` ! `f.äd`
  * **fund** → `fu`
     * : abge**fund** → `.ab.fu`
     * : *auf*ge**fund** → `AU.fu`
+    * : emp**fund** → `.emp-fu` → `.emp-u`
     * : z**u*****rück****ge***fund** → `u-rÜ-fu`
-    * -f**u**nd- → `u`
-       * : empf**u**nd → `.emp-u`
 * *firm* → `im`
  * : *firm*a → `im.a`
  * : *firm*ament → `im.a-met`
@@ -389,6 +382,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **fluss** → `flu`
     * ***flüss*** → `.üss` :/ `flÜ`
 * **flucht** → `.ucht`
+* **folg** → `fo`
 * *forder* → `F`
  * : -**forder**- → `o`
     * : *er***forder***lich* → er.o-L
@@ -512,7 +506,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : gravitation → `gr.aw-o`
 * ***greif*** → `.eif` ≠ ?
  * ***griff*** → `.if`
-* *hab* → **hab** → `ha`
+* **gunst** → `gu`
+ * **günst** → `gÜ`
+    * : **günst**ig → `gÜ-i`* *hab* → **hab** → `ha`
  * *hat* → `ha`
  * *hast* → `ha`
  * *hatt* → ha**tt** → `t`
@@ -649,9 +645,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * *kriminalität* → `kri.ät`
  * : **krimin**ell → `kri.ell`
     * *kriminell* → `kri.ieL`
- * : *dis***krimin**ier → `ds,kri.ir`
- * -kr**i**min- → `i`
-    * : *dis*kr**i**minier → `ds-i.ir`
+ * : *dis***krimin**ier → `ds,kri.ir` → `ds-i.ir`
  * *krimi* → `kri.I`
 * **kurr** → `ku`
  * : **kur**ier → `ku.ir`
@@ -732,6 +726,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * *kompromiss* → `kom.iss`
     * : **trans***miss**ion* → `tra.ms-o`
         * *transmission* → `tra.ms`
+* *monat* → `:at`
 * **morg** → `mo`
 * *mus* → `mu`
  * : *mus*e → `mu.e` ! `m.us.e`
@@ -757,12 +752,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * -**öff**- → `.ö`
        * : **öff**ent*lich* → `.ö-L`
 * ord → `.od`
- * : ordentlich → `.od.L`
+ * : ordent*lich* → `.od.L`
+    * : *außer*ordent*lich* → `.auss.od.L` → `.auss.L`
  * : ordinär → `.od.är` ! `.od.in.är`
  * : ordner → `.od-er`
  * : ordnung → `.od-UNG`
- * ~~ord~~
-    * : *außerordentlich* → `.auss.L`
 * ort → `.ot`
 * **pass** → `pass`
 * pati → `p.az`
@@ -1239,7 +1233,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * worf → `w.of`
  * wurf → `w.uf`
     * -**wurf**- → `wu`
+       * : *ent***wurf** → `eNT.wu`
+       * : *ent***würf**e → `eNT.wÜ.e`
        * : *vor***wurf** → `O.wu`
+       * : *vor***würf**e → `O.wÜ.e`
        * -w**u**rf- → `u`
           * : *ent*w**u**rf → `eNT-u`
           * : *ent*w**ü**rfe → `eNT-Ü.e`
@@ -1251,12 +1248,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *wettbewertb* → `w*`
 * **wick** → `wi`
  * : **wick**el → `wi.el`
- * : *ent***wick**el → `eNT,wi.el`
- * : *ver***wick**el → `E,wi.el`
-    * *verwickel* → `E>wi.el`
- * -w**i**ck- → `i`
-    * : *ent*w**i**ckel → `eNT-i`* zend → `z.ed`
- * **trans**zend*ent* → `tra.z.ed.eNT` ! `tra.z.ed.ent`
+ * : *ent***wick**el → `eNT,wi.el` → `eNT-i`
+ * : *ver***wick**el → `E,wi.el` → `E>wi.el`
 * wie → `w.i`
  * -*wie*- → `I`
     * : *so**wie* → `.o>I`
@@ -1291,6 +1284,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **kon*****zess****ion* → `ko.ess.iO`
        * *konzession* → `ko.ess`
 * ***zeit*** → `T`
+* zend → `z.ed`
+ * **trans**zend*ent* → `tra.z.ed.eNT` ! `tra.z.ed.ent`
 * *zentr* → `zr`
  * : *zentr*al → `zr.al`
     * *zentral* → `zr-a`
@@ -1318,22 +1313,37 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 
 ## Beispiele
 
+In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandteilen sowie auf die Anwendung noch speziellerer Kürzel verzichtet aber auf deren Möglichkeit hingewiesen.
+* `.auss.od.L` → `.auss.L`
+* `ds,kri.ir-UNG` → `ds-i.ir-UNG`
+
 ### Formkürzung mit Selbstlautandeutung (I) — § 18/3; Verürzung von Kürzeln — § 20/3
 
 #### Deutsche Wörter
 
-* `wr-I ber -G-a.e .am .emp-a .ir-er .eNT-Ü.e .auss.od.L I>t-er.ess.irt.`
+* `wr-I ber -G-a.e .am .emp-a .ir-er eNT.wÜ.e .auss.od.L I>t-er.ess.irt.`
+ * `.emp.ang` → `.emp-a`
+ * `eNT.wÜ.e` → `eNT-Ü.e`
  * `.auss.od.L` → `.auss.L`
  * `I>t-er.ess.irt` → `I>t-er.irt`
 
 #### Fremdwörter
 
 * `iS.en O.wu ha ;r .emp-i.L.e .emp-er l.eid-er .as ds-i.ir-UNG .emp-u.`
+ * `.emp-f.i-L.e` → `.emp-i.L.e`
+ * `.emp.eng-er` → `.emp-er`
  * `ds,kri.ir-UNG` → `ds-i.ir-UNG`
+ * `.emp-fu` → `.emp-u`
 * `-G-a.e I>let-T ds-u.ir.wr Ü-I eNT-i :es ko-su.`
 
 ### Anlautkürzungen mit e (I) — § 14/1 a
 
 * `.I -G-a.ir .ei p.L.e b.e-m.ek.`
  * `b.e-m.ek` → `b.e-m`
+
+#### Engere Kontakte erwünscht
+
+* `I>let :at.en ha.wr I gÜ-i eNT-i .ir-er ko-su;O.FT M bes*-er AU.T E.fo.`
+ * `ko-su;O.FT` → `ko-su.FT`
+ * `AU.m.ek.Sa.T` → `AU.T`
 
