@@ -67,10 +67,16 @@ Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * **kon*****form***ität → `ko.om.ät`
 * *in****st****it*ut*ion* → `.I.st*`
 
-Die Silben *id*, *il*, *is* fallen, außer am Wortende, aus.
+Die Silben *id*, *il*, *in*, *is* fallen, außer am Wortende, aus.
 * **kon**solidier*ung* → `ko-s.ol.ir-UNG`
 * *kom***p**atibilität → `kom-p.ib.ät`
+* determinat*ion* → `d.e-t.em-o`
 * **kon****kret**isier → `ko.kr.ir`
+
+Vorsilben werden hochgestellt, außer vor rechtsrunden Zeichen.
+* *auf***trag** → `AU>tra`
+* an**fass** → `.an.fass`
+* *auf***find** → `AU.f.i`
 
 ## Kürzung
 
@@ -164,8 +170,13 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : re*akt*or → `r.e-t-or` ! `r.e-akt-or`
     * : **trans**ak**t***ion* → `tra-t-O`
 * -*age*- → `.asch.e`
+* *all* → `.al` V
+* *als* → `.als` V
+* *also* → `.als.o` V
 * (alt) → `.alt`
  * älter → `.ät-er`
+* **and** → `.ad` V
+* : **and**er → `.ad-er` V@
 * -*ant*- → `aNT`
 * auch → `.auch`
  * .**au**ch. → `au`
@@ -242,7 +253,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *in****dex*** → `.I.ex`
 * -*dis*- → `ds`
 * *doch* → `d-ch`
-* *doktor* → `der`
+* *doktor* → `d-er`
 * **druck** → `dru`
  * : ***nach*****druck** → `ach.dru`
  * -dr**u**ck- → `u`
@@ -290,12 +301,18 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : be***fang*** → `b.e-ang`
        * *befang* → `b.e-fa`
     * : ein***fang*** → `N.ang`
+    * -f**a**ng- → `a`
+       * : empf**a**ng → `emp-a`
  * fäng → `f.eng`
     * -***fäng***- → `eng`
        * : *ge****fäng******nis*** → `G.eng.is`
           * *gefängnis* → `G.f.is`
        * : *ver****fäng****lich* → `E.eng.L`
+       * -f**ä**ng-
+          * : empf**ä**ng → `emp`
  * fing → `f.ing`
+    * -f**i**ng- → `i`
+       * : empf**i**ng → `emp-i`
 * -fat- ?
  * -**fess**- → `fess`
     * **kon****fess***ion* → `ko.fess-o`
@@ -328,15 +345,15 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **find**ig → `fi.i`
  * : **find**igkeit → `fi.i-T`
  * : **find*****ling*** → `fi.ing`
- * : ab**find** → `.ab,fi` !! `.ab.f.i`
- * : *auf***find** → `AU,fi` !! `AU.f.i`
- * : be**find** → `b.e,fi` !! `b.e-f.i`
- * : *er***find** → `er,fi` !! `er.f.i`
+ * : ab**find** → `.ab.f.i`
+ * : *auf***find** → `AU.f.i`
+ * : be**find** → `b.e-f.i`
+ * : *er***find** → `er.f.i`
  * : *er***find**er → `er,fi-er`
- * : *vor***find** → `O,fi` !! `O.f.i`
- * : z**u*****rück*****find** → `u-rÜ,fi` !! `u-rÜ-f.i`
- * : *zu***samm**en**find** → `Z-sa,fi` !! `Z-sa.f.i`
- * : *zu*.**find** → `Z,fi` ! `Z.fi`
+ * : *vor***find** → `O.f.i`
+ * : z**u*****rück*****find** → `u-rÜ-f.i`
+ * : *zu***samm**en**find** → `Z-sa.f.i`
+ * : *zu*.**find** → `Z.f.i` ! `Z.fi`
  * -f**i**nd- → `i`
     * : empf**i**nd → `.emp-i`
  * **fand** → `fa` ! `f.ad`
@@ -526,6 +543,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * *hinauf* → `n>AU`
     * *hinaus* → `n.S`
     * *hinzu* → `n>Z`
+* *hinter* → `I>t-er`
 * **hol** → `ho`
  * -h**o**l- → `o`
     * : *wieder*h**o**l → `W-o`
@@ -615,6 +633,17 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * **kret** → `kr`
  * : **kon****kret** → `ko.kr`
  * : **kon****kret**isier → `ko.kr.ir`
+* **krimin** → `kri`
+ * : **krimin**al → `kri.al`
+    * *kriminal* → `kri.iaL`
+ * : *kriminalität* → `kri.al.ät`
+    * *kriminalität* → `kri.ät`
+ * : **krimin**ell → `kri.ell`
+    * *kriminell* → `kri.ieL`
+ * : *dis***krimin**ier → `ds,kri.ir`
+    * *diskrimin* → `ds-i`
+       * : *diskrimin*ier → `ds-i.ir`
+ * *krimi* → `kri.I`
 * **kurr** → `ku`
  * : **kur**ier → `ku.ir`
  * -k**u**rr- → `u`
@@ -634,6 +663,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * *länder* → `;d-er`
 * ***lang*** → `ang` ≠ **lag**, **land**
  * *länger* → `NG`
+* ***lass*** → `ass`
+ * : *hinter****lass*** → `I>t-er.ass`
+ * ***läss*** → `ess` ! `l.ess`
+ * ***ließ*** → `.iss` ! `l.iss`
+    * : *hinter****ließ*** → `I>t-er.iss`
 * leg → `l.eg`
  * : legende → `l.eg.ed.e`
  * lekt → `l.ekt`
@@ -679,7 +713,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *miss**ion* → `ms-o`
     * : e*miss**ion* → `.e-ms-o`
     * : *kom**miss**ion* → `ko.ms-o`
-       * *komission* → `ko-i`
+       * *kommission* → `ko-i`
     * : *kom**pro**miss* → `kom.o-ms`
        * *kompromiss* → `kom.iss`
     * : **trans***miss**ion* → `tra.ms-o`
@@ -848,6 +882,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * -~~schied~~-
           * : *ver*ab~~schied~~ → `E.ab`
 * ***schick*** → `.ik` ≠ ?
+* schirm → `sch.im`
+* schlaf → `schl.af`
 * ***schlag*** → `.ag` ≠ **schlacht**
  * ***schläg*** → `.äg`
  * ***schlug*** → `.ug`
@@ -1022,6 +1058,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * *tangente* → `t.ang.ent.e`
  * takt → `t.akt`
     * : **kon**takt → `ko.t.akt`
+* termin → `t.em` ! `;m.in` ≠ therm
+ * : determinier → `d.e-t.em.ir`
 * ***text*** → `ext` ≠ ha**tt**
 * theater → `t.e-at-er`
  * : theatr**alisch** → `t.e-atr.i`
@@ -1168,6 +1206,15 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * *wurd*~~e~~ → `;U`
     * *würd* → `;Ü`
        * *würd*~~e~~ → `;Ü`
+* werf → `w.ef`
+ * : werfer → `w.ef-er`
+ * wirf → `w.if`
+ * warf → `w.af`
+ * worf → `w.of`
+ * wurf → `w.uf`
+    * -**wurf**- → `wu`
+       * : *vor***wurf** → `O.wu`
+ * würf → `w.üf`
 * wert → `wet`
  * -*wert*- → `;-t`
     * : *er***streb**ens*wert* → `er>str;-t` :/ `er>str-t`
@@ -1232,4 +1279,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * *rezeption* → `r.e-z.iO`
 * *zu* → `Z`
 
+## Beispiele
+
+* `iS.en O.wu ha ;r .emp-i.L.e .emp-er l.eid-er .as ds-i.ir-UNG .emp-u.`
 
