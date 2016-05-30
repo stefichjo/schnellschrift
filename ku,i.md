@@ -40,7 +40,7 @@ Die Nachsilbe *ig* wird nach Aufstrichzeichen auf den Auslaut gekürzt.
 * **geg**enwär**t****ig** → `g-t-ig`
 
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
-* schifffahrt → `sch.if-fat`
+* schifffahrt → `sch.if-fa-t`
 * **richt****ig***keit* → `ri.i-T`
 
 Zwischen griechischen Wortbestandteilen fällt *o* aus. Treffen zwei Vokale innerhalb eines Wortbestandteils aufeinander, so werden diese miteinander verschmolzen.
@@ -282,17 +282,32 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * erst → `.est`
 * **es** → `.e`
 * ess → `.ess`
+ * : *inter*esse → `I>t-er.ess.e` → `I>t-er`
  * : *inter*essier → `I>t-er.ess.ir` → `I>t-er.ir`
 * -**et**- → `.e`
  * : **et****was** → `.e-was`
 * *europa* → `.eup`
 * -**ex**- → `.e`
-* *fahr* → `fa` @
- * fahrt → `fat`
- * fähr → `f.är`
-    * fährd → `f.ed`
-    * **fährt** → `fet`
- * *fuhr* → `fu`
+* *fahr* → `fa`
+ * : *fahr***bar** → `fa.bar`
+ * : *fahr*er → `fa-er` ! `far-er`
+ * : *fahr*t → `fa-t`
+ * : ab*fahr* → `.ab.fa`
+ * : *aus**fahr* → `.S.fa`
+ * : *ge**fahr* → `G.fa`
+ * : *er**fahr* → `er.fa`
+ * : *ver**fahr* → `E.fa`
+ * : *zu**fahr*t → `Z.fa-t`
+ * *fähr* → `f`
+    * : *fähr*e → `f.e` ! `f.ähr.e`
+    * : *fähr*t → `f-t`
+    * : *ge**fähr*d → `G.f-d`
+    * : *ge**fähr*te → `G.f-t.e`
+    * : *unge**fähr* → `UN-G.f` → `UN-G`
+* *fuhr* → `fu`
+ * : *aus**fuhr* → `.S.fu`
+ * : ein*fuhr* → `N.fu`
+ * : *fuhr*e → fu.e
 * **fall** → `fa`
  * **fiel** → `fi` ! `f.il`
 * *famili* → `f.am`
@@ -328,6 +343,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **kon****f**erier → `ko.f.ir`
  * : **trans****f**er → `tra.f`
 * *ferien* → `f.I.en`
+* *fern* → `fer`
 * *fest* → `fes*`
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
@@ -408,20 +424,20 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *ver*f**ü**g → `E-Ü`
     * : *zu*f**ü**g → `Z.üg`
     * : *zu***samm**enf**ü**g → `Z-sa.üg`
-* führ → `f.ür`
- * -*führ*- → `Ür`
-    * : ab*führ* → `.ab-Ür`
-    * : an*führ* → `.an-Ür`
-    * : auf*führ* → `AU-Ür`
-    * : *aus**führ* → `.S-Ür` → `.S-ü`
-    * : *durch**führ* → `dr-Ür` → `dr-ü`
-    * : ein*führ* → `N-Ür`
-    * : **her*****bei****führ* → `h.ei-Ür`
-    * : **ü**ber***führ*** → `Ü-ür`
-    * : *unter**führ* → `UNTER-Ür`
-    * : *ver**führ* → `E-Ü`
-    * : *vor**führ* → `O-Ü`
-    * : z**u*****rück******führ*** → `u-rÜ-ür`
+* *führ* → `.Ür` ! `f.ür`
+ * : ab*führ* → `.ab-Ür`
+ * : an*führ* → `.an-Ür`
+ * : auf*führ* → `AU-Ür`
+ * : *aus**führ* → `.S-Ür` → `.S-ü`
+ * : *durch**führ* → `dr-Ür` → `dr-ü`
+ * : ein*führ* → `N-Ür`
+ * : *ge**führ*t → `G-Ürt`
+ * : **her*****bei****führ* → `h.ei-Ür`
+ * : **ü**ber***führ*** → `Ü-ür`
+ * : *unter**führ* → `UNTER-Ür`
+ * : *ver**führ* → `E-Ür`
+ * : *vor**führ* → `O-Ür`
+ * : z**u*****rück******führ*** → `u-rÜ-ür`
 * **füll** → `fÜ`
  * *er***füll** → `er.fÜ` → `er-Ü`
 * **fund** → `fu`
@@ -448,6 +464,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * **gast** → `ga`
 * ge → `g.e`
 * -*ge*- → `G`
+ * -*unge*- → `UN-G`
 * ***geb*** → `.eb` → `g`
  * : ***geb***er → `.eb-er` ! `g.eb-er`
  * ***gab*** → `.ab`
@@ -644,6 +661,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * ***lass*** → `ass`
  * : *hinter****lass*** → `I>t-er.ass`
  * ***läss*** → `ess` ! `l.ess`
+    * : *fahr****läss*****ig** → `fa-ess.i` ! `fa.l.ess.i`
  * ***ließ*** → `.iss` ! `l.iss`
     * : *hinter****ließ*** → `I>t-er.iss`
 * laub → `l.aub`
@@ -1251,6 +1269,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *zert**ifik*at → `zer.if.at`
     * : *zert**ifiz*ier → `zer.if.ir`
     * : **kon***zert* → `ko>zer` → `ko.zet`
+* ***zeug*** → `.eug` ≠ ?
+ * : *fahr****zeug*** → `fa.eug`
 * **zil** → `.il`
  * : **kon****zil** → `ko.il`
 * **zip** → `.ip`
@@ -1328,5 +1348,3 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `wr.aub` → `wr-au`
  * `E>brau-er` → `E-au-er`
  * `E>trau` → `E-au`
-
-
