@@ -309,7 +309,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : ***f****ähr*e → `f.e` ! `f.ähr.e`
     * : ***f****ähr*t → `f-t`
     * : *ge****f****ähr*d → `G.f-d`
-    * : *ge****f****ähr*te → `G.f-t.e`
+    * : *ge****f****ähr*t → `G.f-t`
     * : *unge****f****ähr* → `UN-G.f` → `UN-G`
 * ***f****uhr* → `fu`
  * : *aus****f****uhr* → `.S.fu`
