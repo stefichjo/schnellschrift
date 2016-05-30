@@ -68,7 +68,7 @@ Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * *in****st****it*ut*ion* → `.I.st*`
 
 Die Silben *id*, *il*, *in*, *is* fallen, außer am Wortende, aus.
-* **kon**solidier*ung* → `ko-s.ol.ir-UNG`
+* **kon**solidier → `ko-s.ol.ir`
 * *kom***p**atibilität → `kom-p.ib.ät`
 * determinat*ion* → `d.e-t.em-o`
 * **kon****kret**isier → `ko.kr.ir`
@@ -273,8 +273,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * -**ein**- → `.ei`
     * : **ein**e → `.ei`
     * : **ein**er → `.ei-er`
- * *einz* → `N` @
+ * *einzel* → `N.el`
     * -**einzel**- → `.ei`
+ * *einzig* → `;z.i`
 * end → `.ed`
 * -*ent*- → `eNT`
 * *er* → `er`
@@ -417,7 +418,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : ein*führ* → `N-Ür`
     * : **her*****bei****führ* → `h.ei-Ür`
     * : **ü**ber***führ*** → `Ü-ür`
-    * : *unter**führ**ung* → `UNTER-Ür-UNG`
+    * : *unter**führ* → `UNTER-Ür`
     * : *ver**führ* → `E-Ü`
     * : *vor**führ* → `O-Ü`
     * : z**u*****rück******führ*** → `u-rÜ-ür`
@@ -502,6 +503,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *in*hal**t** → `.I-t`
  * : **sach***ver*hal**t** → `sa.E-t`
 * **hand** → `ha`
+ * : **einzel****hand**el → `.ei-ha.el`
  * : **einzel****händ**ler → `.ei-h-er`
 * **haupt** → `hau`
 * -*heit*- → `H`
@@ -732,8 +734,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * ord → `.od`
  * : ordent*lich* → `.od.L`
  * : ordinär → `.od.är` ! `.od.in.är`
- * : ordner → `.od-er`
- * : ordnung → `.od-UNG`
+ * : ordn → `.od`
  * : *außer*ordent*lich* → `.auss.od.L` → `.auss.L`
 * ort → `.ot`
 * **pass** → `pass`
@@ -832,7 +833,6 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * **reg** → `r` ! `r.eg`
  * : **reg**el → `r.el`
     * -*regel*- → `:el`
-       * : *regel**ung* → `:el-UNG`
        * : ***spiel****regel*n → `.il,:eln`
        * : *in*.~~der~~.*regel* → `.I.el`
  * : **reg**ier → `r.ir` → `I>;r`
@@ -951,7 +951,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *so* → `.o` V
 * sol → `s.ol`
  * : solid → `s.ol.id`
- * : **kon**solidier*ung* → `ko-s.ol.ir-UNG`
+ * : **kon**solidier → `ko-s.ol.ir`
 * *solch* → `s-CH`
 * *soll* → `;S`
 * son → `s.on`
@@ -1266,7 +1266,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 
 In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandteilen sowie auf die Anwendung noch speziellerer Kürzel verzichtet aber auf deren Möglichkeit hingewiesen.
 * `.auss.od.L` → `.auss.L`
-* `ds,kri.ir-UNG` → `ds-i.ir-UNG`
+* `ds,kri.ir` → `ds-i.ir`
 
 ### Formkürzung mit Selbstlautandeutung (I) — § 18/3; Verürzung von Kürzeln — § 20/3
 
@@ -1303,7 +1303,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 ### Anlautkürzungen mit e für Fremdwörter — § 19/1 a
 
 * `I>n s.om.f.I.en :ol<wr ach schw.ed.en fa.`
- * `schw.ed.en` → `schw`
+ * `schw.ed` → `schw`
 
 ### Schlusssilben -inal, -ional, -inell, -ionell ­— § 19/5
 
