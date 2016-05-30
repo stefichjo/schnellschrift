@@ -581,8 +581,17 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * it → `.it`
  * **trans**it → `tra.it`
 * **jahr** → `ja`
- * -***jahr***- `.ar`
-    * : *in*.**ein**er.reihe.~~von~~.***jahr***en → `.I.ei-er-r.eih.ar.en` @
+ * : *vor****jahr*** → `O>ja`
+ * .***jahr***. `.ar`
+    * : *in*.~~den~~.*letzt*en.***jahr***en → `I>let-ar.en`
+    * : *in*.**ein**er.reihe.~~von~~.***jahr***en → `.I.ei-er-r.eih.ar.en`
+    * : im.***jahr***e → `.im.ar.e`
+    * : im.*letzt*en.***jahr*** → `.im.let-ar`
+    * : im.*nächst*en.***jahr*** → `.im;-st-ar`
+    * : im.*ver*~~gang~~enen***jahr*** → `.im.E.ar`
+    * : im.*vor****jahr*** → `.im-o.ar`
+    * : im.*vorig*en.***jahr*** → `.im,ig.ar`
+    * : *in*.*dies*em.***jahr*** → `I>.iS.ar`
 * **j**iz → `j`
  * : *pro***j**izir → `.o>j.ir`
  * **jekt** → `j`
@@ -733,6 +742,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *mus*izier → `mu.iz.ir`
  * : *mus*ik*ant* → `mu.ik.aNT`
 * ***nach*** → `ach`
+ * ***näch***st → `echst`
+    * *nächst* → `;-st`
 * ***nam*** → `.am` ≠ an
  * : ***nam*****haft** → `.am.ha`
     * *namhaft* → `n.am.ha`
@@ -1170,6 +1181,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * : **konter**re*volution* → `ko-t-er,r.e-u-O`
 * **v**on → `v`
 * *vor* → `O`
+ * *vorig* → `ig`
 * **wahl** → `wa`
  * **wähl** → `w` ! `w.el`
 * *wahr* → `wa`
