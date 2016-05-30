@@ -581,7 +581,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * it → `.it`
  * **trans**it → `tra.it`
 * **jahr** → `ja`
- * : *vor****jahr*** → `O>ja`
+ * : *vor***jahr** → `O>ja`
  * .***jahr***. `.ar`
     * : *in*.~~den~~.*letzt*en.***jahr***en → `I>let-ar.en`
     * : *in*.**ein**er.reihe.~~von~~.***jahr***en → `.I.ei-er-r.eih.ar.en`
@@ -663,7 +663,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **p**erk**u**ss*ion* → `p-u-o` ?
 * **land** → `la`
  * **länd** → `l`
-    * : **länd**er @
+    * : **länd**er → `l-er` !
        * *länder* → `;d-er`
 * ***lang*** → `ang` ≠ **lag**, **land**
  * *länger* → `NG`
@@ -889,14 +889,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *ver**ur***sach** → `E.UR-sa`
 * **samm** → `sa`
 * saß → `s.ass`
-* ***scheid*** → `.eid` ≠ ? @
- * schied → `sch.id` :/ `.id`
-    * -***schied***- → `.id`
-       * : ab***schied*** → `.ab.id`
-       * -sch**ie**d- → `i`
-          * : *unter*sch**ie**d → `UNTER-i`
-       * -~~schied~~-
-          * : *ver*ab~~schied~~ → `E.ab`
+* ***scheid*** → `.eid` ≠ ?
+ * ***schied*** → `.id` ! `sch.id`
+    * : ab***schied*** → `.ab.id`
+    * : *unter****schied*** → `UNTER.id` → `UNTER-i`
+    * : *ver*ab***schied*** → `E.ab.id` → `E.ab`
 * ***schick*** → `.ik` ≠ ?
 * schirm → `sch.im`
 * schlaf → `schl.af`
@@ -918,11 +915,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * schrie → `schr.i`
 * ***schreib*** → `.eib` ≠ schrei
  * ***schrieb*** → `.ib`
-* **schrift** → `.ift` @
- * -schr**i**ft- → `i`
-    * : **kurz**schr**i**ft → `ku,i`
-    * : *unter**schr****i****ft* → `UNTER,i`
-    * : *vor*schr**i**ft → `O-i`
+* **schrift** → `.ift`
+ * : **kurz****schrift** → `ku.ift` → `ku,i`
+ * : *unter***schrift** → `UNTER.ift` → `UNTER,i`
+ * : *vor***schrift** → `O.ift` → `O-i`
 * schwed → `schw.ed`
  * : schwede → `schw.ed.e` ! `schw.e`
  * : schweden → `schw.ed` ! `schw`
@@ -1227,10 +1223,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * : *vor***wurf** → `O.wu`
        * : *vor***würf**e → `O.wÜ.e`
        * : *zer***würf*****nis*** → `zer.wÜ.is` → `zer-Ü.is`
-* wert → `wet` @
+* wert → `wet`
  * -*wert*- → `;-t`
-    * : *er***streb**ens*wert* → `er>str;-t` :/ `er>str-t`
-* *wettbewertb* → `w*`
+    * : *er***streb**ens*wert* → `er>str-t` ! `er>str;-t`
+* *wettbewerb* → `w*`
 * **wick** → `wi`
  * : **wick**el → `wi.el`
  * : *ent***wick**el → `eNT,wi.el` → `eNT-i`
