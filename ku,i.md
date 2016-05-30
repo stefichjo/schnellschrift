@@ -385,7 +385,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * ***flieg*** → `.ig` ≠ **flieh**, **fließ**
  * ***flog*** → `.og`
  * ***flug*** → `.ug`
-* ***flieh*** → `.ih` ≠ **fließ** → `fli`
+* ***flieh*** → `.ih` ≠ **fließ** ! `fl.ih` → `fli`
  * : *ent****flieh*** → `eNT.ih`
  * ***floh*** → `.oh` ≠ **floss**
 * **fließ** → `fli`
@@ -395,7 +395,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * **flucht** → `.ucht`
 * **folg** → `fo`
 * *forder* → `F`
- * : *er**forder**lich* → `er.F.L` → er.o-L
+ * : *er**forder**lich* → `er.F.L` → `er.o-L`
 * *fort* → `fr` V
 * ***form*** → `.om`
  * : ***form***at*ion* → `.om-o`
@@ -546,10 +546,10 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *hin* → `hn` V
  * : *hin*ter → `hnt-er`
  * -***hin***- → `.in` ≠ **hier**
-    * : ***hin****auf* → `.in\<AU` → `n>AU`
+    * : ***hin****auf* → `.in<AU` → `n>AU`
     * : ***hin****aus* → `.in.S` → `n.S`
     * : ***hin***ein → `.in.N`  → `hi.N`
-    * : ***hin****zu* → `.in\<Z` → `n>Z`
+    * : ***hin****zu* → `.in<Z` → `n>Z`
     * : *da****hin*** → `da.in`
     * : ***weit***er***hin*** → `T-er.in`
 * *hinter* → `I>t-er`
@@ -717,7 +717,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * mal → `m.al`
  * -**mal**- → `ma`
     * : **da****mal**s → `da.ma-s` → `da-s`
-    * : *dies***mal** → `.iS\<ma`
+    * : *dies***mal** → `.iS<ma`
     * : je**mal**s → `j.e-ma-s`
     * : *manch***mal** → `CH.ma` ! `CH.m.al`
     * : nie**mal**s → `n.i-ma-s`
