@@ -221,8 +221,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * da → `d.a`
  * -**da**- → `da` V
 * **dar** → `dar` V
-* **d**as → `d`
-* *d. h.* → `d.h*`
+* **d**as → `d` V
+* *d. h.* → `d.h*` V
 * **dat** → `da`
  * : **dat**um → `da.um`
  * : **dat**ier → `da.ir`
@@ -295,26 +295,26 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **et****was** → `.e-was`
 * *europa* → `.eup`
 * -**ex**- → `.e`
-* *fahr* → `fa`
- * : *fahr***bar** → `fa.bar`
- * : *fahr*er → `fa-er` ! `far-er`
- * : *fahr*t → `fa-t`
- * : ab*fahr* → `.ab.fa`
- * : *aus**fahr* → `.S.fa`
- * : *ge**fahr* → `G.fa`
- * : *er**fahr* → `er.fa`
- * : *ver**fahr* → `E.fa`
- * : *zu**fahr*t → `Z.fa-t`
- * *fähr* → `f`
-    * : *fähr*e → `f.e` ! `f.ähr.e`
-    * : *fähr*t → `f-t`
-    * : *ge**fähr*d → `G.f-d`
-    * : *ge**fähr*te → `G.f-t.e`
-    * : *unge**fähr* → `UN-G.f` → `UN-G`
-* *fuhr* → `fu`
- * : *aus**fuhr* → `.S.fu`
- * : ein*fuhr* → `N.fu`
- * : *fuhr*e → fu.e
+* ***f****ahr* → `fa`
+ * : ***f****ahr***bar** → `fa.bar`
+ * : ***f****ahr*er → `fa-er` ! `far-er`
+ * : ***f****ahr*t → `fa-t`
+ * : ab***f****ahr* → `.ab.fa`
+ * : *aus****f****ahr* → `.S.fa`
+ * : *ge****f****ahr* → `G.fa`
+ * : *er****f****ahr* → `er.fa`
+ * : *ver****f****ahr* → `E.fa`
+ * : *zu****f****ahr*t → `Z.fa-t`
+ * ***f****ähr* → `f`
+    * : ***f****ähr*e → `f.e` ! `f.ähr.e`
+    * : ***f****ähr*t → `f-t`
+    * : *ge****f****ähr*d → `G.f-d`
+    * : *ge****f****ähr*te → `G.f-t.e`
+    * : *unge****f****ähr* → `UN-G.f` → `UN-G`
+* ***f****uhr* → `fu`
+ * : *aus****f****uhr* → `.S.fu`
+ * : ein***f****uhr* → `N.fu`
+ * : ***f****uhr*e → fu.e
 * **fall** → `fa`
  * **fiel** → `fi` ! `f.il`
 * *famili* → `f.am`
@@ -684,7 +684,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * ***lass*** → `ass`
  * : *hinter****lass*** → `I>t-er.ass`
  * ***läss*** → `ess` ! `l.ess`
-    * : *fahr****läss*****ig** → `fa-ess.i` ! `fa.l.ess.i`
+    * : ***f****ahr****läss*****ig** → `fa-ess.i` ! `fa.l.ess.i`
  * ***ließ*** → `.iss` ! `l.iss`
     * : *hinter****ließ*** → `I>t-er.iss`
 * laub → `l.aub`
@@ -867,7 +867,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * am**p**utat*ion* → `.am-p-o`
 * rad → `r.ad`
  * -***rad*** → `.ad`
-    * : *fahr****rad*** → `fa.ad`
+    * : ***f****ahr****rad*** → `fa.ad`
  * *gerad* → `-G-a`
 * **rat** → `ra`
  * : **rat**e → `ra.e`
@@ -1310,7 +1310,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *zert**ifiz*ier → `zer.if.ir`
     * : **kon***zert* → `ko>zer` → `ko.zet`
 * ***zeug*** → `.eug` ≠ ?
- * : *fahr****zeug*** → `fa.eug`
+ * : ***f****ahr****zeug*** → `fa.eug`
 * **zil** → `.il`
  * : **kon****zil** → `ko.il`
 * **zip** → `.ip`
