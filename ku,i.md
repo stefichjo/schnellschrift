@@ -41,7 +41,7 @@ Die Nachsilbe *ig* wird nach Aufstrichzeichen auf den Auslaut gekürzt.
 
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
 * schifffahrt → `sch.if-fa-t`
-* **richt****ig***keit* → `ri.i-T`
+* **richt****ig*****keit*** → `ri.i-T`
 
 Zwischen griechischen Wortbestandteilen fällt *o* aus. Treffen zwei Vokale innerhalb eines Wortbestandteils aufeinander, so werden diese miteinander verschmolzen.
 * geometrie → `g.e-m.etr.I`
@@ -397,36 +397,47 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *exemp* → `.ex` E
  * : *exemp*el → `.ex.el` E
  * : *exemp*lar → `.ex.l.ar` → `.ex.ar` E
+* **fabr** → `fa` E
+ * : **fabr**ik → `fa.ik` E
+ * : **fabr**izier → `fa.iz.ir` ?
+ * **fabrik** → `fa` E
+    * : **fabrik*at → `fa.at` E
+    * : **fabrik***ant* → `fa.aNT` → `fa.ant` E
+    * : **fabrik**at*ion* → `fa.iO` E
 * **fach** → `fa`
  * : **fäch**er → `f-er` ! `f.ech-er`
  * : *ent***fach**t → `eNT.fa-t` → `eNT.fa`
-* ***f****ahr* → `fa`
+* ***f****ahr* → `fa` E
  * : ***f****ahr***bar** → `fa.bar`
- * : ***f****ahr*er → `fa-er` ! `far-er`
- * : ***f****ahr*t → `fa-t`
+ * : ***f****ahr*er → `fa-er` ! `far-er` E
+ * : ***f****ahr*t → `fa-t` E
  * : ab***f****ahr* → `.ab.fa`
  * : *aus****f****ahr* → `.S.fa`
  * : *ge****f****ahr* → `G.fa`
  * : *er****f****ahr* → `er.fa`
  * : *ver****f****ahr* → `E.fa`
  * : *zu****f****ahr*t → `Z.fa-t`
- * ***f****ähr* → `f`
+ * ***f****ähr* → `f` E
     * : ***f****ähr*e → `f.e` ! `f.ähr.e`
-    * : ***f****ähr*t → `f-t`
+    * : ***f****ähr*t → `f-t` E
     * : *ge****f****ähr*d → `G.f-d`
     * : *ge****f****ähr*t → `G.f-t`
     * : *unge****f****ähr* → `UN-G.f` → `UN-G`
 * ***f****uhr* → `fu`
- * : *aus****f****uhr* → `.S.fu`
+ * : *aus****f****uhr* → `.S.fu` E
  * : ein***f****uhr* → `N.fu`
  * : ***f****uhr*e → fu.e
-* **fall** → `fa`
+* **fall** → `fa` E
+ * : **fäll****ig*****keit*** → `f.i-T` E
+ * : **fall**s → `fa-s`
  * : **k**eines**fall**s → `k.fa-s`
- * **fiel** → `fi` ! `f.il`
-* *famili* → `f.am`
- * : fam. → `f.am`
- * : *famili*e → `f.am.e`
- * : *famili*är → `f.am.är`
+ * **fiel** → `fi` ! `f.i` E
+* falsch → `f.asch` E
+* falt → `fat` E
+ * : sorgfält**ig** → `s.og.fet-ig` E
+* *famili* → `f.am` E
+ * : *famili*e → `f.am.e` E
+ * : *famili*är → `f.am.är` E
 * fang → `f.ang`
  * -***fang***- → `ang`
     * : be***fang*** → `b.e-ang` → `b.e-fa`
@@ -436,6 +447,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : ein***fang*** → `N.ang`
     * : *ge****fäng******nis*** → `G.eng.is` → `G.f.is`
     * : *ver****fäng****lich* → `E.eng.L`
+* (farm) → `f.arm` E → `f.am`
 * *fast* → `Fa`
 * fat ?
  * **f**ess → `f`
@@ -451,6 +463,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : ef**fekt**iv → `.e-f.iv` ! `.e-f.ekt.iv`
     * : **kon****fekt** → `ko.f` ! `ko.f.ekt`
     * : **p**er**fekt** → `p.f` → `p.fet`
+* feier → `f.ei-er` E
 * feld → `f.ed`
 * **f**er → `f`
  * : dif**f**erenz → `d.if.ez` → `d.if` E
@@ -459,15 +472,22 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **kon****f**erenz → `ko.f.ez` → `ko.f`
  * : **kon****f**erier → `ko.f.ir`
  * : **trans****f**er → `tra.f`
+* fenster → `fest-er` E
 * *ferien* → `f.I.en`
-* *fern* → `fer`
+* fern → `f.en` E
+ * *fern* → `fer`
+* fert → `fet` E
+ * fert**ig** → `fet-ig` E
 * *fest* → `fes*`
+* feuer → `f.eu-er` → E
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
+* *filial* → `f.iaL` E
+* **finanz** → `fi`
 * **find** → `fi`
  * : **find**er → `fi-er`
  * : **find**ig → `fi.i`
- * : **find**igkeit → `fi.i-T`
+ * : **find**ig***keit*** → `fi.i-T`
  * : **find*****ling*** → `fi.ing`
  * : ab**find** → `.ab.f.i`
  * : *auf***find** → `AU.f.i`
@@ -488,10 +508,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *auf*ge**fund** → `AU.fu`
     * : emp**fund** → `.emp-fu` → `.emp-u`
     * : z**u*****rück****ge***fund** → `u-rÜ-fu`
-* *firm* → `im`
- * : *firm*a → `im.a`
- * : *firm*ament → `im.a-met` → `f.im-met`
- * : **kon***firm*at*ion* → `ko,im-o` → `ko.f.im-o`
+* firm → `f.im` E
+ * *firm* → `im`
+    * : *firm*a → `im.a`
+    * : *firm*ament → `im.a-met` → `f.im-met`
+    * : **kon***firm*at*ion* → `ko,im-o` → `ko.f.im-o`
 * ***flieg*** → `.ig` ≠ **flieh**, **fließ**
  * ***flog*** → `.og`
  * ***flug*** → `.ug`
@@ -503,32 +524,39 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **fluss** → `flu`
  * **flüss** `flÜ` → `.üss`
 * **flucht** → `.ucht`
-* **folg** → `fo`
-* *forder* → `F`
+* **folg** → `fo` E
+* *forder* → `F` E
  * : *er**forder**lich* → `er.F.L` → `er.o-L`
+ * *förder* → `Fö` E
 * *fort* → `fr` V
-* ***form*** → `.om`
- * : ***form***at*ion* → `.om-o`
- * : ***form***el → `.om.el`
- * : ***form***ulier → `.om.ul.ir`
- * : *in****form***at*ion* → `.I.om-o`
- * : *in****form***atik → `.I.om.ik`
- * : **kon*****form*** → `ko.om`
- * : **kon*****form***ität → `ko.om.ät`
- * : re***form*** → `r.e-om`
- * : re***form***ier → `r.e-om.ir`
- * : re***form***at*ion* → `r.e-om-o`
- * : re***form***ator**isch** → `r.e-om.or.i`
- * : **trans*****form***ator → `tra.om.or`
- * : uni***form*** → `.un.om`
+* form → `f.om` E
+ * : format → `f.om.at` E
+ * : formulier → `f.om.ul.ir` E
+ * ***form*** → `.om`
+    * : ***form***at → `.om.at`
+    * : ***form***at*ion* → `.om-o`
+    * : ***form***el → `.om.el`
+    * : ***form***ulier → `.om.ul.ir`
+    * : *in****form***at*ion* → `.I.om-o`
+    * : *in****form***atik → `.I.om.ik`
+    * : **kon*****form*** → `ko.om`
+    * : **kon*****form***ität → `ko.om.ät`
+    * : re***form*** → `r.e-om`
+    * : re***form***ier → `r.e-om.ir`
+    * : re***form***at*ion* → `r.e-om-o`
+    * : re***form***ator**isch** → `r.e-om.or.i`
+    * : **trans*****form***ator → `tra.om.or`
+    * : uni***form*** → `.un.om`
+* **frag** → `fra` E
 * **fremd** → `fr.e`
+* *freund* → `.eund` E
 * **front** → `fr.o`
  * : **kon****front**ier → `ko.fr.o.ir` →  `ko.fr.o`
  * : **kon****front**at*ion* → `ko.fr.o.iO` → `ko.fr.ot.iO`
 * **frucht** → `fru`
  * **frücht** → `frÜ`
     * : süd**frücht**e → `s.üd.frÜ.e` → `s.üd-Ü.e`
-* **früh** → `frÜ`
+* **früh** → `frÜ` E
  * fr**ü**h → `Ü`
     * **heut**e.fr**ü**h → `heu-Ü`
     * **morg**en.fr**ü**h → `mo-Ü`
@@ -542,16 +570,17 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *ver*f**ü**g → `E-Ü`
     * : *zu*f**ü**g → `Z.üg`
     * : *zu***samm**enf**ü**g → `Z-sa.üg`
-* *führ* → `.Ür` ! `f.ür`
+* *führ* → `.Ür` ! `f.ür` E
  * : ab*führ* → `.ab-Ür`
  * : an*führ* → `.an-Ür`
  * : auf*führ* → `AU-Ür`
- * : *aus**führ* `.S-Ür` !! `.S.ür` → `.S-ü`
- * : *durch**führ* → `dr-Ür` → `dr-ü`
+ * : *aus**führ* `.S-Ür` !! `.S.ür` E → `.S-ü`
+ * : *durch**führ* → `dr-Ür` E → `dr-ü`
  * : ein*führ* → `N-Ür`
  * : *ge**führ*t → `G-Ürt`
+ * : *geschäft*s*führ*er → `G-T-Ür-er` E
  * : **her*****bei****führ* → `h.ei-Ür`
- * : **ü**ber***führ*** → `Ü-Ür` !! `Ü-ür`
+ * : **ü**ber***führ*** → `Ü-Ür` !! `Ü-ür` E
  * : *unter**führ* → `UNTER-Ür`
  * : *ver**führ* → `E-Ür`
  * : *vor**führ* → `O-Ür`
@@ -748,7 +777,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *kapital* → `aP`
 * kart → `kat`
  * *kartei* → `ka.ei`
-* -*keit*- → `T` V
+* -***keit***- → `T` V
 * **kenn** → `k.e`
  * **kann** → `ka`
     * : **kann**te → `ka-t.e`
@@ -868,6 +897,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **minist**erien → `mi-er.I.en` ! `mi.er.I.en` E
  * : **minist**erium → `mi-er.I.um` → `mi.um` E
  * : **minist**erial → `mi-er.iaL` → `mi.iaL` E
+ * : **finanz****minist**er → `fi.mi-er` → `fi.mi.er` E
 * mir → `m.ir`
  * -***mir***- → `.ir`
 * *mit* → `M` V
