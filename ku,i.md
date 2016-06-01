@@ -309,10 +309,13 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *desto* → `d.est` E
 * *deutsch* → `;sch`
 * *die* → `I` V
-* **dien** → `di`
+* **dien** → `di` E
  * : **dien**er → `di-er` ! `di.er`
+ * : **dien***lich* → `di.L` ! `d.in.L` ≠ **dienst***lich* E
  * : be**dien** → `b.e,di`
- * **dienst** → `di`
+ * : *ver***dien** → `E,di` E
+ * **dienst** → `di` E
+    * **dienst***lich* → `di.L` E
 * *dies* → `.iS` V
 * ***ding*** → `.ing` ≠ **dien**
 * dik → `d.ik`
@@ -325,15 +328,22 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *in*diz → `.I.d.iz`
  * ***dex*** → `ex`
     * : *in****dex*** → `.I.ex`
-* -*dis*- → `ds`
+* -*dis*- → `ds` E
 * *doch* → `d-ch` V
 * *doktor* → `d-er` V
+* dok
+ * : dokument → `d.ok.met` !
+    * *dokument* → `d.ok` E
+ * doz → `d.oz`
+    * : doz*ent* → `doz.eNT` → `doz`
+* dort → `dot` E
 * **druck** → `dru`
  * : *aus***druck** → `.S.dru` → `.S-u`
  * : *aus***drück** → `.S.drÜ` → `.S-Y`
  * : ein**drück**e → `N.drÜ.e` ! `N-Ük.e`
  * : ***nach*****druck** → `ach.dru`
  * : ***nach*****drück** → `ach.drÜ` → `ach-Ü`
+* *du* → `D` E
 * **duk** → `du` ?
  * **duz** → `du`
     * *in***duz**ier → `.I.du.ir`
@@ -342,11 +352,19 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * *in***dukt***ion* → `.I.du-o`
     * *pro***dukt** → `.o>du` → `.o>dut`
 * *durch* → `dr` V
+* **dürf** → `dÜ` E
+ * **darf** → `da` E
+ * **durf** → `du` E
 * ein → `N` V
  * -**ein**- → `.ei`
-    * : **ein**e → `.ei`
-    * : **ein**er → `.ei-er`
- * *einzel* → `N.el`
+    * : **ein**e → `.ei` V
+    * : **ein**em → `.ei-em` V
+    * : **ein**en → `.ei-en` V
+    * : **ein**er → `.ei-er` V
+    * : **ein**es → `.ei-es` V
+    * : **ein**st → `.eist` E
+ * *einzel* → `N.el` E
+    * *einzeln* → `N.el` E
     * -**einzel**- → `.ei`
  * *einzig* → `;z.i`
  * dein → `d.N` V
@@ -354,18 +372,31 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * -**k**ein- → `k`
  * mein → `m.N` V
  * sein → `s.N` V
+* *elektr* → `.el` E
+ * : *elektr***isch** → `.el.i` E
+ * : *elektr*isier → `.el.ir` E
+ * : *elektr**ifiz*ier → `.el.if.ir` E
+ * : *elektr*on**isch** → `.el.on.i` E
 * end → `.ed`
+* -end- → `.ed` E
+* energ → `.en.eg` E
 * -*ent*- → `eNT` V
 * *er* → `er` V
-* erst → `.est`
+* erst → `.est` E
 * **es** → `.e` V
 * ess → `.ess`
  * : *inter*esse → `I>t-er.ess.e` → `I>t-er`
  * : *inter*essier → `I>t-er.ess.ir` → `I>t-er.ir`
-* -**et**- → `.e`
+* -**et**- → `.e` E
  * : **et****was** → `.e-was`
-* *europa* → `.eup`
+* **europa** → `.eu`
+ * : **europ**a → `.eu.a`
+ * : **europ**ä**isch** → `.eu.ä-i` → `.eu.i` E
+ * *europa* → `.eup`
 * -**ex**- → `.e`
+* *exemp* → `.ex` E
+ * : *exemp*el → `.ex.el` E
+ * : *exemp*lar → `.ex.l.ar` → `.ex.ar` E
 * **fach** → `fa`
  * : **fäch**er → `f-er` ! `f.ech-er`
  * : *ent***fach**t → `eNT.fa-t` → `eNT.fa`
@@ -422,6 +453,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **p**er**fekt** → `p.f` → `p.fet`
 * feld → `f.ed`
 * **f**er → `f`
+ * : dif**f**erenz → `d.if.ez` → `d.if` E
+ * : dif**f**erenzier → `d.if.ez.ir` E
+ * : dif**f**erier → `d.if.ir` ! `d.if.er.ir` E
  * : **kon****f**erenz → `ko.f.ez` → `ko.f`
  * : **kon****f**erier → `ko.f.ir`
  * : **trans****f**er → `tra.f`
@@ -1003,9 +1037,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **rekt** → `r` ! `r.ekt`
     * : **rekt**or → `r.or`
     * : **kon****rekt**or → `ko.r.or` ! `ko.r.ekt-or`
-    * *direkt* → `dit`
-       * *direkt**ion* → `dit-iO`
-          * *direktion* → `di.iO`
+    * *direkt* → `di.ekt` E !
+       * *direkt* → `dit`
+          * *direkt**ion* → `dit-iO` → `di.iO` E
  * **r**ig → `r`
     * : di**r**igier → `d.i-r.ir`
     * : di**r**ig*ent* → `d.i-r.eNT` → `di.ent`
@@ -1115,6 +1149,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *in*(sist)ier → `.I.s.i-st.ir` ?
  * : **kon**(sist)enz → `ko-s.i-st.ez`
  * : **tran**(sist)or → `tra.i-st.or`
+ * *exist* → `.ex`
+    * : *exist*enz → `.ex.ez` → `.ex` E
+    * : *exist*ier → `.ex.ir` E
 * sit → `s.it`
  * : situier → `s.it.ir`
  * : situat*ion* → `s.it.iO` → `s.iO`
@@ -1325,7 +1362,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * visualisier → `v.is.al.ir`
     * visuell → `v.is.ell`
     * -**v**is- → `w`
-       * de**v**ise → `d.e-w.e` → `d.e-is.e` E<
+       * de**v**ise → `d.e-w.e` → `d.e-is.e` E
        * re**v**is*ion* → `r.e-w-o`
 * *vielleicht* → `v.ei` V
 * *voll* → `Ol` V
@@ -1532,8 +1569,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Bericht vom Stockholmer Kongress
 
-* `AUF.m ko>gr I.r schw.ed.i hau.sta .ab ;r s.at.pr .ei-en .emp-fa, ;r ;n b.e-eil-i-t-en .S ga .eup UN.E.g.ess.L ;N.wr.`
+* `AUF.m ko>gr I.r schw.ed.i hau.sta .ab ;r s.at.pr .ei-en .emp-fa, ;r ;n b.e-eil-i-t-en .S ga .eu.a UN.E.g.ess.L ;N.wr.`
  * `.emp-fa` → `.emp-a`
+ * `.eu.a` → `.eup`
 
 ### Formkürzungen mit Selbstlautandeutung (II) — § 18/3, Verkürzung von Kürzeln (II) — § 20/3
 
@@ -1545,8 +1583,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Neue Ganzlängen — § 20/5
 
-* `wr.aub, d Fa .al.e .eup.i E>brau-er u-er-er m.ak.e E>trau.`
+* `wr.aub, d Fa .al.e .eu.i E>brau-er u-er-er m.ak.e E>trau.`
  * `wr.aub` → `wr-au`
+ * `.eu.i` → `.eup.i`
  * `E>brau-er` → `E-au-er`
  * `E>trau` → `E-au`
 
@@ -1591,7 +1630,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Schlusssilbenkürzungen für Fremdwörter (I) — § 19/1 d
 
-* `AU.m ko>gr .I* fra,u-ein spra ;r;r f FT.L.e Z-sa.T .S.ür.L Ü-I la I>n eNT,wi.l.ed-er.`
+* `AU.m ko>gr .I* fra,u-ein spra ;r;r f FT.L.e Z-sa.T .S.ür.L Ü-I la I>n eNT,wi.l.l.ed-er.`
  * `.S.ür.L` → `.S-ü.L`
- * `eNT,wi.l.ed-er` → `eNT-i.d-er`
+ * `eNT,wi.l.l.ed-er` → `eNT-i.d-er`
 
