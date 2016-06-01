@@ -163,6 +163,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 
 ## Wörterbuch
 
+* abend → `.ab.ed`
+ * *abend* → `:ed`
 * aber → `.ab-er` E
  * *aber* → `ber`
 * ag → `.ag`
@@ -211,7 +213,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *aus* → `.S` V
  * auss → `.auss`
   * : *aussen* → `.auss` E
-  * : *ausserdem* → `.auss.m` E
+  * : *ausser**dem* → `.auss.m` E
 * aut → `.aut` E
  * : auto → `.aut.o`
 * **bahn** → `ba` E
@@ -622,6 +624,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : gegen → `g.eg` V
 * **geh** → `g.e` → `g`
 * *gesetz* → `-G`
+* *gestern* → `g.est` E
 * *gift* → `git`
  * **blut***ver**gift* → `blu.E,git` → `blu,E-i`
 * **glanz** → `gla`
@@ -895,7 +898,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * .ministe**r**. → `;r`
        * : de**r**.ministe**r** → `;r;r`
  * : **minist**erien → `mi-er.I.en` ! `mi.er.I.en` E
- * : **minist**erium → `mi-er.I.um` → `mi.um` E
+ * : **minist**erium → `mi-er.I.um`
+    * *ministerium* → `mi.um` E
+       * *aussen**ministerium* → `.auss.mi.um` → `.auss.um`
  * : **minist**erial → `mi-er.iaL` → `mi.iaL` E
  * : **finanz****minist**er → `fi.mi-er` → `fi.mi.er` E
 * mir → `m.ir`
@@ -1053,17 +1058,23 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **rat***ion*ier → `ra.iO.ir` → `r.at.ir`
  * : **rat***ifiz*ier → `ra.if.ir`
  * : **rat***ifik*at*ion* → `ra.if-o`
+ * : be**rat** → `b.e-ra` → `Ra`
 * ***rech*** → `ech` ≠ *er*
 * ***recht*** → `echt` ≠ *er*
-* **reg** → `r` ! `r.eg`
- * : **reg**el → `r.el`
-    * -*regel*- → `:el`
-       * : ***spiel****regel*n → `.il,:eln`
-       * : *in*.~~der~~.*regel* → `.I.el`
- * : **reg**ier → `r.ir` → `I>;r`
- * : **reg**ier*ung* → `r.ir-UNG` → `ir-UNG`
- * : **reg***ion* → `r.iO` ! `r.eg.iO`
- * : **reg**ulier → `r.ul.ir`
+* **reich** → `r.ei`
+ * : *er***reich** → `er>r.ei`
+ * : *er***folg****reich** → `er.fo.r.ei` → `er,r.ei`
+ * -***reich***- → `.eich`
+    * : *er****reich*** → `er.eich` ! `er>r.ei`
+    * : *über****reich*** → `Ü.eich`
+* reg → `r.eg`
+ * *regel* → `:el` ! `r.eg.el` → `r.el`
+    * : ***spiel****regel*n → `.il,:eln`
+    * : *in*.~~der~~.*regel* → `.I.el`
+ * : regier → `r.eg.ir` → `I>;r`
+ * : regier*ung* → `r.eg.ir-UNG` → `ir-UNG`
+ * : reg*ion* → `r.eg.iO`
+ * : regulier → `r.eg.ul.ir` → `r.ul.ir`
  * **rekt** → `r` ! `r.ekt`
     * : **rekt**or → `r.or`
     * : **kon****rekt**or → `ko.r.or` ! `ko.r.ekt-or`
@@ -1660,7 +1671,24 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Schlusssilbenkürzungen für Fremdwörter (I) — § 19/1 d
 
+#### Fragen der wirtschaftlichen Zusammenarbeit
+
 * `AU.m ko>gr .I* fra,u-ein spra ;r;r f FT.L.e Z-sa.T .S.ür.L Ü-I la I>n eNT,wi.l.l.ed-er.`
  * `.S.ür.L` → `.S-ü.L`
  * `eNT,wi.l.l.ed-er` → `eNT-i.d-er`
+
+### Zweistufiges r — § 20/5
+
+#### Trainingssätze
+
+* `I b.e-ra.en M.m .auss.mi.um :ar er.fo.r.ei.`
+ * `b.e-ra.en` → `Ra.en`
+ * `.auss.mi.um` → `.auss.um`
+ * `er.fo.r.ei` → `er.fo.eich` → `er.eich` ! `er,r.ei`
+
+### Die Schlusssilbenkürzung (II) — § 18/2 a; Verkürzung von da- und dar- — § 20/3
+
+#### Trainingssätze
+
+* `wr-a g.est-ed I>u-er-er f.am Ü.I bi>h.i :el-UNG ds-u.irt.`
 
