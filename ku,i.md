@@ -164,7 +164,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 ## Wörterbuch
 
 * abend → `.ab.ed`
- * *abend* → `:ed`
+ * ab**end** → `:ed`
 * aber → `.ab-er` E
  * *aber* → `ber`
 * ag → `.ag`
@@ -181,7 +181,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **trans***akt**ion* → `tra-t-iO`
 * -*age*- → `.asch.e`
 * akadem → `.ak.ad.em` → `.ak.ad` E
-* *akti* → `:I` E
+* akt**i** → `:I` E
 * *all* → `.al` V
 * *als* → `.als` V
 * *also* → `.als.o` V
@@ -307,7 +307,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **kon**densier → `ko.des.ir`
  * : **kon**densat → `ko.des.at`
 * de**r** → `;r` V
-* *des* → `:es` V
+* d**es** → `:es` V
 * *desto* → `d.est` E
 * *deutsch* → `;sch`
 * *die* → `I` V
@@ -719,7 +719,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * : *wir*.danken.**i**hnen → `wr.d.ak,i`
 * ihr → `.ir`
  * : ihrer → `.ir-er`
-* *immer* → `:er`
+* imm**er** → `:er`
 * *in* → `.I*` V
  * -*in*- → `I>`
  * .*in*. → `I>`
@@ -904,7 +904,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **minist**erial → `mi-er.iaL` → `mi.iaL` E
  * : **finanz****minist**er → `fi.mi-er` → `fi.mi.er` E
 * mir → `m.ir`
- * -***mir***- → `.ir`
+ * .***mir***. → `.ir`
 * *mit* → `M` V
  * : *mitt* → `M` V
 * *mitt* → `M`
@@ -922,7 +922,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : mobilisier → `m.ob.ir`
  * : mobilität → `m.ob.ät`
  * : automobil → `.aut.m.ob.il` → `.aut.il` E
-* *monat* → `:at`
+* mon**at** → `:at`
 * **morg** → `mo`
 * *mus* → `mu`
  * : *mus*e → `mu.e` ! `m.us.e`
@@ -1068,9 +1068,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *er****reich*** → `er.eich` ! `er>r.ei`
     * : *über****reich*** → `Ü.eich`
 * reg → `r.eg`
- * *regel* → `:el` ! `r.eg.el` → `r.el`
-    * : ***spiel****regel*n → `.il,:eln`
-    * : *in*.~~der~~.*regel* → `.I.el`
+ * reg**el** → `:el` ! `r.eg.el` → `r.el`
+    * : ***spiel***reg**el**n → `.il,:eln`
+    * : *in*.~~der~~.reg**el** → `.I.el`
  * : regier → `r.eg.ir` → `I>;r`
  * : regier*ung* → `r.eg.ir-UNG` → `ir-UNG`
  * : reg*ion* → `r.eg.iO`
@@ -1148,9 +1148,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : schwede → `schw.ed.e` ! `schw.e`
  * : schweden → `schw.ed` ! `schw`
  * : schwedisch → `schw.ed.i`
-* *sei* → `:ei` V
- * : *sei*d → `:eid`
-* *sein* → `;N`
+* s**ei** → `:ei` V
+ * : s**eid** → `:eid`
+* s**ein** → `;N`
 * *selbst* → `-st` V
 * *senat* → `s.at`
 * send → `s.ed`
@@ -1299,16 +1299,16 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *ge**sund* → `G.und`
 * *symbol* → `y-b.ol`
  * *symbol*isier → `y-b.ol.ir`
-* *system* → `:em`
- * *system*atik → `:em.ik`
- * *system*atisch → `:em.i`
- * *system*atisier → `:em.ir`
+* syst**em** → `:em`
+ * syst**em**atik → `:em.ik`
+ * syst**em**atisch → `:em.i`
+ * syst**em**atisier → `:em.ir`
 * tang → `t.ang`
  * : tangier → `t.ang.ir`
  * : tang*ent*e → `t.ang.eNT.e` → `t.ang.ent.e`
  * takt → `t.akt`
     * : **kon**takt → `ko.t.akt`
-* *teil* → `:eil`
+* t**eil** → `:eil`
 * *termin* → `;m.in`
  * : *termin*al* → `;m.in.al`
  * : de*termin*ier → `d.e;m.in.ir` ! `d.e-t.em.ir`
@@ -1329,8 +1329,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **kon****tin**uier*lich* → `ko,ti.ir.L` → `ko,ti.L`
 * **ting** → `ti`
  * : **kon****ting***ent* → `ko,ti.eNT` → `ko,ti`
-* *ton* → `:o`
- * *tön* → `:ö`
+* t**o**n → `:o`
+ * t**ö**n → `:ö`
 * **trag** → `tra`
  * : ***bei*****trag** → `.ei>tra`
  * **träg** → `tr.e`
@@ -1429,8 +1429,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **wähl** → `w` ! `w.el`
 * *wahr* → `wa`
 * walt → `wat`
-* *war* → `:ar`
- * *wär* → `:är`
+* w**ar** → `:ar`
+ * w**är** → `:är`
 * wart → `wat`
  * -war**t**- → `;-t`
     * : **geg**enwar**t** → `g-t`
@@ -1495,7 +1495,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *so**wie* → `.o>I`
 * *wieder* → `W` V
  * .w**ie**der. → `i`
-    * : *immer*.w**ie**der → `:er,i`
+    * : imm**er**.w**ie**der → `:er,i`
     * : auch.w**ie**der → `.auch,i`
  * : *wider* → `W` V
  * : *widr* → `W` V
