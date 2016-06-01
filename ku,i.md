@@ -1552,10 +1552,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * zirk → `z.ik`
  * : zirka → `z.ik.a`
  * : zirkel → `z.ik.el`
- * : zirkulier → `z.ik.ul.ir` → `z.ik.ir`
- * : zirkulation → `z.ik.ul.iO` → `z.ik.iO`
  * : zirkus → `z.ik.us`
  * : bezirk → `b.e-z.ik` E
+ * *zirkul* → `z.ik`
+    * : *zirkul*ier → `z.ik.ir`
+    * : *zirkul*ation → `z.ik.iO`
 * *zu* → `Z` V
 * **z**um → `z` V
 * *zur* → `zr*` V
