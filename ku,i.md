@@ -309,7 +309,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * de**r** → `:r` V
 * d**es** → `:es` V
 * *desto* → `d.est` E
-* *deutsch* → `:sch`
+* deut**sch** → `:sch`
 * *die* → `I` V
 * **dien** → `di` E
  * : **dien**er → `di-er` ! `di.er`
@@ -874,6 +874,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *zu***mal** → `Z.ma`
 * **man** → `ma`
 * mar**kt** → `:kt`
+ * wel**t**mark**t** → `:-t;kt` → `:-t;-t`
 * **mater** → `ma`
  * : **mater**ie → `ma.I.e`
  * : **mater***ial* → `ma.ial`
@@ -940,7 +941,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * *namhaft* → `n.am.ha`
  * : ***näm****lich* → `.äm.L`
  * namen**t** → `:-t`
-* **nehm** → `:n`
+* *nehm* → `:n`
  * : *ge**nehm* → `G:n` → `G.n`
  * : an*ge**nehm* → `.an.G;n` → `.an.G` E
 * *nicht* → `-t` V
@@ -950,7 +951,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *noch* → `n-ch` V
 * nom → `n.om`
  * : nom*inal* → `n.om.iaL`
-* *nur* → `:UR` V
+* n**ur** → `:UR` V
 * off → `.of`
  * -**off**- → `.o`
     * : **off**en**bar** → `.o.bar`
@@ -1041,8 +1042,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *pro*port*ion* → `.o>pot-iO`
  * : **trans**port → `tra.pot`
 * -*pro*- → `.o`
-* *problem* → `:l.em`
- * *problem*atik → `:l.em.ik`
+* prob**lem** → `:l.em`
+ * prob**lem**atik → `:l.em.ik`
 * *punkt* → pt. → `pt`
 * **p**ut → `p`
  * am**p**utat*ion* → `.am-p-o`
@@ -1451,7 +1452,6 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * welt → `wet`
  * -wel**t**- → `:-t`
     * : umwel**t** → `.um-t`
-* *weltmarkt* → `:-t;-t`
 * **wenn** → `w` V
 * **wer** → `wer`
 * werb → `w.eb`
