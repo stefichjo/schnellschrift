@@ -562,7 +562,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * fr**ü**h → `Ü`
     * **heut**e.fr**ü**h → `heu-Ü`
     * **morg**en.fr**ü**h → `mo-Ü`
-    * **scho**on.fr**ü**her → `sch-Ü-er`
+    * **sch**on.fr**ü**her → `sch-Ü-er`
 * fug → `f.ug`
  * -f**ü**g- → `Ü`
     * : anf**ü**g → `.an-Ü`
