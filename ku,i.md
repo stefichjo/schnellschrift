@@ -665,6 +665,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **günst**ig → `gÜ-i`
 * **hab** → `ha` V
  * .h**a**b. → `a`
+    * : *ich*.h**a**b → `.I-a`
     * : *wir*.h**a**b → `wr-a`
  * *hat* → `ha` V
  * *hast* → `ha` V
@@ -1692,6 +1693,6 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Trainingssätze
 
 * `wr-a g.est-ed I>u-er-er f.am Ü.I bi>h.i :el-UNG ds-u.irt.`
-* `I-au, I-a I eNT,wi.l .auch-t .an.näh.d ri.i N.sch.` ?
+* `.I-au, .I-a I eNT,wi.l .auch-t .an.näh.d ri.i N.sch.` ?
  * `eNT,wi.l` → `eNT-i`
  * `.an.näh.d` → `.an;r.d`
