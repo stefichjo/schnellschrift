@@ -1692,6 +1692,6 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Trainingssätze
 
 * `wr-a g.est-ed I>u-er-er f.am Ü.I bi>h.i :el-UNG ds-u.irt.`
-* `I-au, I-a I eNT,wi.l .auch.T .an.näh.d ri.i N.sch.`
+* `I-au, I-a I eNT,wi.l .auch-t .an.näh.d ri.i N.sch.` ?
  * `eNT,wi.l` → `eNT-i`
  * `.an.näh.d` → `.an;r.d`
