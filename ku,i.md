@@ -63,7 +63,7 @@ Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet.
 
 *sch* darf seine Fußschleife nicht verlieren, da es sonst mit *heit* verwechselt werden könnte.
 * kr**a**nk*heit* → `a-H`
-* **I schaff***ung* → `I scha*` !! `I scha`
+* **die schaff***ung* → `I scha*` !! `I scha`
 
 Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * ***form***at*ion* → `.om-o`
