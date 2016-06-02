@@ -1768,10 +1768,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Trainingssätze
 
 * `I ko-u.al.E.wat-UNG .uss.CH I.n;=st;aten M-er re>pa-UR :r :al.iO bet-ig.`
- * `I ko-u.al.E.wat-UNG` → `I ko-u.al-UNG`
+ * `ko-u.al.E.wat-UNG` → `ko-u.al-UNG`
 
 ### Anlautkürzungen mit a, ä (II) — § 14/1 a
 
-`.I-a :n .emp.ang :r wa.en .S.drÜ.L b.e+st.i.`
-* `.emp.ang` → `.emp-a`
-* `.S.drÜ.L` → `.S-Y.L`
+* `.I-a :n .emp.ang :r wa.en .S.drÜ.L b.e+st.i.`
+ * `.emp.ang` → `.emp-a`
+ * `.S.drÜ.L` → `.S-Y.L`
