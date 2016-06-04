@@ -1029,18 +1029,19 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *justiz***minist**er → `ju+st,mi-er` → `fi.mi.er` E
 * mir → `m.ir`
  * .***mir***. → `.ir`
+* -*miss*- → `ms` V
 * *mit* → `M` V
  * : **hier***mit* → `hi<M`
  * : *mitt* → `M` V
  * : *mittel* → `-t-el`
 * *mitt* → `M`
- * : e*mitt*ier → `.e-M.ir`
-    * *emittier* → `.e-m.it.ir`
- * *miss* → `ms` V
+ * : e*mitt*ier → `.e-M.ir` → `.e-m.it.ir`
+ * : *kom**pro**miss*ier → `kom.o-M.ir` → `k.omp.it.ir` E → `kom-p.it.ir`
+ * *miss* → `ms`
     * : *miss**ion* → `ms-o`
-    * : e*miss**ion* → `.e-ms-o`
+    * : e*miss**ion* → `.e-ms-o` 
     * : *kom**miss**ion* → `ko.ms-o` → `ko-i`
-    * : *kom**pro**miss* → `kom.o-ms` → `kom.iss`
+    * : *kom**pro**miss* → `kom.o-ms` → `k.om-p.iss` E → `kom.iss`
     * : **trans***miss**ion* → `tra.ms-o` → `tra.ms`
 * mob → `m.ob`
  * : mobil → `m.ob.il`
