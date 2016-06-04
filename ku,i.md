@@ -155,7 +155,7 @@ Ist eine Verschmelzung bei Inlautkürzeln nicht möglich (oder wird eine solche 
 Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen und nach *s* nicht möglich. Außerdem ist es insbesondere nicht immer möglich, ein *ü* mithilfe eines *r*s anzudeuten. Dann wird stattdessen auf den Auslaut gekürzt.
 * *ver*f**ü**g → `E-Ü`
 * *zu*f**ü**g → `Z.üg`
-* *zu***samm**enf**ü**g → `Z-sa.üg`
+* *zu****samm***enf**ü**g → `Z-sa.üg`
 * z**u*****rück******führ*** → `u-rÜ-ür`
 
 Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeutet.
@@ -506,7 +506,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *er***find**er → `er,fi-er`
  * : *vor***find** → `O.f.i`
  * : z**u*****rück*****find** → `u-rÜ-f.i`
- * : *zu***samm**en**find** → `Z-sa.f.i`
+ * : *zu****samm***en**find** → `Z-sa.f.i`
  * : *zu*.**find** → `Z.f.i` ! `Z.fi`
  * **fand** → `fa` ! `f.ad`
     * be**fand** → `b.e-fa`
@@ -580,7 +580,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *ge****ring***f**ü**g**ig** → `G.ing-Ü-i`
     * : *ver*f**ü**g → `E-Ü`
     * : *zu*f**ü**g → `Z.üg`
-    * : *zu***samm**enf**ü**g → `Z-sa.üg`
+    * : *zu****samm***enf**ü**g → `Z-sa.üg`
 * *führ* → `.Ür` ! `f.ür` E
  * : ab*führ* → `.ab-Ür`
  * : an*führ* → `.an-Ür`
@@ -957,6 +957,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : **kol**lektiv → `ko.ekt-iv`
  * **l**ig → `l`
     * : *intel***l**igenz → `.I.t.ez` E
+* lehr → `l.er`
 * *letzt* → `let`
 * -*lich*- → `L` V
 * *liefer* → `l.i-er`
@@ -1005,6 +1006,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
        * : *gemein**sam* → `G.N-sa` E
        * : *gemein**schaft* → `G.N-sa` E
        * : *all**gemein* → `.al.G.N` → `.al.G` E → `.a-G`
+       * : im.*all**gemein*en → `.im.al.G.N` → `.im.a-G`
 * ***mat*** → `.at`
  * : auto***mat*** → `.aut.at` E
  * : auto***mat****ion* → `.aut.at.iO` E
@@ -1244,10 +1246,13 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : neben**sach**e → `n.eb-sa.e` → `n.eb,a.e`
  * : *ur***sach**e → `UR-sa.e` → `UR,a.e`
  * : *ver**ur***sach** → `E.UR-sa`
-* *samm* → `-sa`
- * *zu**samm* → `Z-sa` V
- * -*sam*- → `-sa` E
- * -*samt*- → `-sa` E
+* **samm** → `sa`
+ * : *zu***samm**en → `Z-sa` V
+ * : **samm**el → `sa.el`
+ * : *ver***samm**el → `E-sa.el` → `E-sa`
+ * : *ver***samm**l*ung* → `E-sa.l-UNG` → `E-sa-UNG`
+ * -*sam*- → `sa` E
+ * -*samt*- → `sa` E
     * : *in*s*ge**samt* → `.I.G-sa` E
 * saß → `s.ass`
 * **schaff** → `scha`
@@ -1658,8 +1663,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : wettbe**werb** → `w.et.b.e-w`
        * *wettbewerb* → `w*`
 * *werd* → `:w` V
- * *wird* → `wir` V
- * *wirst* → `wir` V
+ * *wird* → `w-ir` V
+ * *wirst* → `w-ir` V
  * *word* → `:O` V
  * *wurd* → `:U` V
     * : *wurd*e → `:U` V
@@ -2018,3 +2023,16 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `da.h` → `.a-h`
  * `b.it.wr.sI` → `.it.wr.sI`
  * `la-er.ha.e` ! `l.ag-er.ha.e`
+
+### Linksßs (ss, ß) statt Rechts-s (ss,ß) — § 20/5
+
+#### Trainingssätze
+
+* `.im.al.G.N w-ir .iS-es fa teg.L G.l.ert.`
+ * `.im.al.G.N` → `.im.a-G`
+
+#### Besuchen Sie unsere Ausstellung
+
+* `.an.I b.e-su :r hau.E-sa.l-UNG .I* fr,u.od-er.`
+ * `hau.E-sa.l-UNG` → `hau.E-sa-UNG` → `hau*`
+
