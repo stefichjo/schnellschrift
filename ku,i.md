@@ -1760,11 +1760,60 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * *zur* → `zr*` V
 * **zw**ischen → `zw` V
 
-## Beispiele der Redeschrift
+# Beispiele
 
 In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandteilen sowie auf die Anwendung noch speziellerer Kürzel verzichtet aber auf deren Möglichkeit hingewiesen.
 * `.auss.od.L` → `.auss.L`
 * `ds,kri.ir` → `ds-i.ir`
+
+## Beispiele der Eilschrift
+
+### Wir erwarten Ihre Bestellung
+
+* `b.est.en d.ak f.ir.e gr.e b.st* Ü .I.G-sa 2'm mat-el,st.of.e.`
+* `I s.ot.en 4 & 7 :I* .am l.ag-er & kö bi fr.ei-tag G.l.if-ert-w.`
+* `da.g.eg kö.wr .in.en I qu.al.ät.en 5 & 6 l.eid-er .est .ed.e .aug s.ed, d.a .iS.e s.ot.en E>gr.if :I*.`
+* `sch j* dÜ-wr .ir I>t-er AU.U.e kost-bar.en p.ez.met-el l.ek.`
+* `w.wr .ir.e b.st* dar-Ü n-CH O b.g.in .iS.es wit-er er.hat, kö.wr .in.en AU.I pr.eis.e ;er b.ei.f.ügt-en l.ist.e .ei-en S.r.ab.at v 20.o G.w.är.`
+* `teg.L schi.ik.en .U.e k.ud.en grö.er.e b.st*.en Ü wit-er,met-el, .o>d wr m.üh.e ha, :er pt.L Z.l.if-er.`
+* `.es>h.ab .empf.el.wr .in.en, M.ir-er b.st* T bi-z .okt Z.wat`
+* `.U* E>tr.et-er f.n dot-ig.en b.z.ik :l.sI M.e s.ept b.s.uch, .um .ir.e b.st* eNT.g.eg.z.n.em; :ost kö-t.e .e G.sch.eh, d.wr .auch .I.iS.em wit-er .I* l.if-er<schw.ir.i-T.en G.r.at.`
+* `sI er.hat-en M.iS<br.if .ei-e AU.st* Ü.I l.if-er.bar.en kust,st.of.e.`
+* `w.sI-CH .auch da.f I>t-er.ir.en, kö.sI j* .U.e n.eu.e S>br.osch.ür.e .an.F.`
+* `sI ;w G.w.iss .eb.o Z.fr.id ;N w.i '.e .ad-er.er k.ud.en.`
+* `sch j* fr.eu.wr .U -st.L AU.ir.e b.st*.en, I wr w.i :er M.er grö-t-en s.og.fat er.l.ed.i.`
+
+
+### Bestellungsannahme
+
+* `s>G.ert-h w.eb-er, v.il.en d.ak f.ir.en AU>tra Ü 4.hu wes.el.r.am.en.`
+* `wr fr.eu .U s, d .in.en I pr.eis.e & b.d.ing.en .iS<ma Z.s.agt-ha.``
+* `.I.n.let.en w.och.en ha.wr ei.e ga.e r.eih.e n.eu.er k.ud.en G.on, I CH M.m G.d.ak.en tra I E>tr.et .U.er .at.ik.le Z.Ü.n.em.`
+* `Ü.al ;U .U.e wes.el.r.am.en s.g.ut AU.n.om; sI :I* O>tr.ef.L f.d schn.e .S.wes.eln v f.ot.o-gra.I.en G.eig.et & ;w v j.ed.em f.ach.ma w.eg.ir-er st.ab.il.ät G.l.obt.`
+* `.es>h.ab :I<wr s.ich, d .auch sI g.ut.e G-T.e ma ;w.`
+* `d.ak .U.es gr.en .ag-er.O.r.at kö.wr .ir.en AU>tra s.schn er.le.ed.i.`
+* `wr s.ed .in.en I ga.e AU>tra.m.eng.e m.og M.er ba.`
+* `h.eut.e dÜ.wr .in.en n-CH .ei-en O.schl.ag ma, ;er sI s I>t-er.ir.en wir:`
+* `er>pr.ob.en.sI N.ma s.eb-er .U.e b.k.ant.en f.im.e & f.ot.o-gra.i-en p.ap.ir.e.`
+* `N.el.H.en dar-Ü kö.sI ;er b.ei.g.ügt-en l.ist.e eNT.n.em.`
+* `wr ;Ü .U s.fr.eu sch ba W .ei-en AU>tra v.in.en Z.er.hat.`
+* `M b.est-er .empf.el-UNG`
+
+### Beliefern Sie uns mit Kraftfutter?
+
+* `.I.n.let-tag.en ha.wr W ei-e grö.er.e za v .an.fra.en Ü kra.f.ut-er er.hat.`
+* `wr s.eb-er I>t-er.ir .U sch s.ei-t ja.en f.n .ab.sa .I.l.i-en kra.f.ut-er & .S.l.i-en w.eiz.ens.`
+* `w.i wr h.ör, b.l.if-ert .ir.e O>FT T.UR gr.h.l.er .I.er sta, S.auch N.el.ha.l-UNG.en AU.m la.`
+* `.es>h.ab fra.wr b.ei .in.en .an, .ob.sI .U* UNTER.n.em .I.ir.e h.l.er.k.at.ei AU.n.em :ol.`
+* `wr yss .ab-er O-S.s, d.sI .U ta.kr.i .I.er w.eb-UNG f.ir.e m.ak.at.ik.el h.ef`
+* `M.gl.p.ost s.ed.wr .in.en. .ei-e O.l.äuf.i.e AU.st* Ü.d w.eb.m.at.iaL, d wr f.ei-e gr.e .S.st* ha yss, I M.e n.ov .I* kr.ef.ed sta.f.id ;S.`
+* `wr ;Ü .e b>gr.üss, w.wr sch w.ed ;er .S.st* T.UR f.U.e bi>h.i-en s.ot.i-met.e, S.auch f kra.f.ut-er w.eb.kö-t.`
+* `b>tra.en.sI .iS.e .an.fra AU.al.f.e .as .est-en E.s.uch .U.e k.ud.FT AU.m la s.og.fet-ig.er .as bi>h Z.b.tr.eu.`
+* `wr.är .in.en s.d.ak.bar, w.wr ba .e-w.as v.in.en h.ört.`
+
+
+
+## Beispiele der Redeschrift
 
 ### Formkürzung mit Selbstlautandeutung (I) — § 18/3; Verürzung von Kürzeln — § 20/3
 
