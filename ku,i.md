@@ -2251,7 +2251,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Glückwünsche zur Geschäftsübernahme
 
-* `zr Ü.am.e :es gr fa.G-FT f .eu.i sp.iaL.ät.en I>r ba.ho;e Ü.t-el.wr i I b.est wÜ.e.`
+* `zr Ü.am.e :es gr fa.G-FT f .eu.i sp.iaL.ät.en I>r ba.ho.stra Ü.t-el.wr i I b.est wÜ.e.`
  * `Ü.am.e` → `Ü;e`
  * `.eu.i` → `.eup.i`
  * `ba.ho.stra` → `ba.ho;e`
