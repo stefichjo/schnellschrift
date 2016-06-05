@@ -1935,14 +1935,16 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Fremdwörter
 
-* `iS.en O.wu ha :r .emp-i.L.e .emp-er l.eid-er .as ds-i.ir-UNG .emp-u.`
+* `iS.en O.wu ha :r .emp-f.i-L.e .emp.eng-er l.eid-er .as ds,kri.ir-UNG .emp-fu.`
  * `.emp-f.i-L.e` → `.emp-i.L.e`
  * `.emp.eng-er` → `.emp-er`
  * `ds,kri.ir-UNG` → `ds-i.ir-UNG`
  * `.emp-fu` → `.emp-u`
-* `-G-a.e I>let-T ds-u.ir.wr Ü.I eNT-i :es ko-su.`
-* `I ko-sut-iO :U .as .an.G .emp-u.`
- *
+* `-G-a.e I>let-T ds-u.ir.wr Ü.I eNT,wi.l :es ko-su.`
+ * `eNT,wi.l` → `eNT-i`
+* `I ko-sut-iO :U .as .an.G.em .emp-fu.`
+ * `.emp-fu` → `.emp-u`
+ * `.an.G.em` → `.an.G`
 
 ### Anlautkürzungen mit e (I) — § 14/1 a
 
