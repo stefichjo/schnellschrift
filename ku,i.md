@@ -2157,7 +2157,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Vorlautverstärkung — § 14/1 b; Anlautkürzung mit ä-Symbol — § 14/1 a
 
-* `I .äus-er :r f.I.en;e ha fla.e d.ech-er.`
+* `I .äus-er :r f.I.en.stra ha fla.e d.ech-er.` ?
+ * `f.I.en.stra` → `f.I.en;e`
 
 #### Wir möchten zwei Gästehäuser verkaufen
 
@@ -2186,7 +2187,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Die Schlusssilben -anz, -enz, (u)-ion — § 19/5
 
-* `I .auss<ha,i-az .U.ess ha* I>let :at.en k.w E.schl-ert.` ?
+* `I .auss<ha,i-az .U.ess ha* I>let :at.en k.w E.schl-ert.`
+ * ?
 
 #### Von der Werbung nicht manipulieren lassen
 
@@ -2205,7 +2207,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wortfamilie nehmen
 
-* `wr :n .an.r hau* IN nÜ.b :eil.`
+* `wr .em .an.r hau.E-sa.l-UNG IN nÜ.b :eil.`
+ * `.em` → `:n`
+ * `hau.E-sa.l-UNG` → `hau.E-sa-UNG` → `hau*`
 
 #### Besuchen Sie auch die Warenhäuser
 
