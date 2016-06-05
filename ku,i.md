@@ -829,7 +829,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : *in*.**ein**er.reihe.~~von~~.***jahr***en → `IN.ei-er-r.eih.ar.en`
     * : im.***jahr***e → `.im.ar.e`
     * : im.*letzt*en.***jahr*** → `.im.let-ar`
-    * : im.*nächst*en.***jahr*** → `.im;-st-ar`
+    * : im.näch**st**en.***jahr*** → `.im;-st-ar`
     * : im.*ver*~~gang~~enen***jahr*** → `.im.E.ar`
     * : im.*vor****jahr*** → `.im-o.ar`
     * : im.*vorig*en.***jahr*** → `.im,ig.ar`
@@ -1096,7 +1096,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * *muss* → `.uss`
 * ***nach*** → `ach`
  * ***näch***st → `echst`
-    * *nächst* → `:-st`
+    * näch**st** → `:-st`
+       * : de**m**näch**st** → `:m-st`
 * nah → `n.ah`
  * *näher* → `n.äh`
     * : an*näher* → `.an.n.äh`
