@@ -452,7 +452,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : be***fang*** → `b.e-ang` → `b.e-fa`
     * : emp***fang*** → `.emp.ang` → `.emp-a`
     * : emp***fäng*** → `.emp.eng` → `.emp`
-    * : empf**i**ng → `.emp.ing` → `.emp-i`
+    * : emp***fing*** → `.emp.ing` → `.emp-i`
     * : ein***fang*** → `N.ang`
     * : *ge****fäng******nis*** → `G.eng.is` → `G.f.is`
     * : *ver****fäng****lich* → `E.eng.L`
@@ -478,7 +478,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : dif**f**erenz → `d.if.ez` → `d.if` E
  * : dif**f**erenzier → `d.if.ez.ir` E
  * : dif**f**erier → `d.if.ir` ! `d.if.er.ir` E
- * : **kon****f**erenz → `ko.f.ez` → `ko.f`
+ * : **kon****f**erenz → `ko.f.ez` → `ko.f` E
  * : **kon****f**erier → `ko.f.ir`
  * : **trans****f**er → `tra.f`
 * fenster → `fest-er` E
@@ -834,6 +834,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **kon**jugat*ion* → `ko>j.ug.iO`
  * junkt → `j.ukt`
     * : **kon**junkt*ion* → `ko>j.ukt-iO`
+    * : **kon**kunktur → `ko>j.ukt-UR` → `ko,u-UR` E → `o-u-UR`
 * (just) → `j.u+st`
  * : (just)ier → `j.u+st.ir` E
  * *justiz* → `j.u+st` E
@@ -888,6 +889,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : **klass***ifik*at*ion* → `kla.if-o`
 * kl**ein** → `:N` E
 * **komm** → `ko` E
+ * : *in*.**frag**e.**komm**en → `.I.fra.ko`
  * **kömm** → `kö` E
  * **kam** → `ka` ! `k.am`
 * *kommun* → `ko-u` E
@@ -900,6 +902,11 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : -**kol**- → `ko`
  * : -*kom*- → `kom`
 * -**konter**- → `ko-t-er`
+* **konto** → `ko` E
+ * **skonto** → `sko` E
+* *kontroll* → `ko.tr.o` E
+ * : *kontroll*ör → `ko.tr.o-ör` E
+ * *kontrolle* → `ko.tr.o` E
 * *kost* → `kost`
  * -***k****ost*en- → `ko`
     * : *ver*walt*ung*s***k****ost*en → `E.wat-UNG.ko` → `UNG.ko`
@@ -919,7 +926,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * **küch** → `kÜ`
 * **kurr** → `ku`
  * : **kur**ier → `ku.ir`
- * : **kon****kurr**enz → `ko,ku.ez` → `ko-u.ez`
+ * : **kon****kurr**enz → `ko,ku.ez` → `ko-u.ez` E
  * : **kon****kurr**ier → `ko,ku.ir` → `ko-u.ir`
  * **kurs** → `kus`
     : **kon*****kurs*** → `ko,kus` → `ko.us`
@@ -1318,15 +1325,15 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : ein**s**ender → `N-s-er`
  * sandt → `s.adt`
 * **sequ** → `s`
- * : **kon****sequ**ent → `ko-s.eNT` → `ko-s.e`
- * : **kon****sequ**enz → `ko-s.ez`
+ * : **kon****sequ**ent → `ko-s.eNT` → `ko-s` E
+ * : **kon****sequ**enz → `ko-s.ez` E
  * sequ → `s.equ`
     * : sequenz → `s.equ.ez` → `s.equ`
 * **ser** → `s`
  * : *in*serat → `.I.s.at` E
  * : *in*serier → `.I.s.ir` E
 * **serv** → `s`
- * : **kon****serv**e → `ko-s.e`
+ * : **kon****serv**e → `ko-s`
  * : **kon****serv**ier → `ko-s.ir`
  * : **kon****serv**ativ → `ko-s.iv`
  * serv → `s.ew`
@@ -1463,7 +1470,9 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * strukt → `str.ukt`
     * : struktur → `str.ukt-UR` → `str.uk`
  * *konstru* → `ko,u`
- * *konstruktion* → `ko,u-O`
+ * *konstruktion* → `ko,u-O` E
+* ***stück*** → `.ük`
+ * **früh*****stück*** → `frÜ.ük`
 * **sul** → `su`
  * : **kon****sul** → `ko-su`
  * **sult** → `sut`
@@ -1986,7 +1995,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Der Situationsbericht liegt jetzt vor
 
-* `Ü.I :r.T-ig.e s.it.iO :r t.ocht,G.FT.en N.i-er .am.an.i UNTER-UNG.en k-t wr sI bi>h :UR ga .a-G UNTER;r.`
+* `Ü.I :r.T-ig.e s.it.iO :r t.ocht,G.FT.en N.i-er .am.an.i UNTER-UNG.en k-t wr sI bi>h :UR ga .al.G.N UNTER;r.`
  * `s.it.iO` → `s.iO`
  * `.am.an.i` → `.am.i`
  * `.al.G.N` → `.al.G` → `.a-G`
@@ -2037,3 +2046,18 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `.an.I b.e-su :r hau.E-sa.l-UNG .I* fr,u.od-er.`
  * `hau.E-sa.l-UNG` → `hau.E-sa-UNG` → `hau*`
 
+### Die Schlusssilben -e, -en, -er — § 18/2 b; wurde(n), würde(n) — § 20/3
+
+#### Trainingssätze
+
+* `.I-a;e, :n g-s.är .im.n :r .I.ha.ka Z.emp-a.`
+
+* ehr → `.er`
+ * .ehr**e**. → `:e`
+    * *ich*.h**a**be.~~die~~.ehr**e** → `.I-a;e`
+
+#### Kürzen Sie stärker
+
+#### Die Geschäftsstelle wird verlegt
+
+* `v.U.em M.T-er ha.en.sI scho er.fa, d .U.e G-FT-ell.e :m-st v-er g.öt.e;e I>I nÜ-b.er;e E.l :w-s.`
