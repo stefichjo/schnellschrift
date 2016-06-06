@@ -158,9 +158,6 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * *zu****samm***enf**ü**g → `Z-sa.üg`
 * z**u*****rück******führ*** → `u-rÜ.ür`
 
-Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeutet.
-* -*s****a****ch*- → `a.`
-
 ## Wörterbuch
 
 * abend → `.ab.ed`
@@ -492,7 +489,22 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : ef**fekt**iv → `.e-f.iv` ! `.e-f.ekt.iv`
     * : **kon****fekt** → `ko.f` ! `ko.f.ekt`
     * : **p**er**fekt** → `p.f` → `p.fet`
+* fehl → `f.el`
+ * : fehler → `f.el.er`
+    * *fehler* → `f-er`
+ * : befehl → `b.e-f.el`
+ * : empfehl → `.emp-f.el` → `.emp`
+ * fiehl → `f.il`
+    * : befiehl → `b.e-f.il`
+    * : empfiehl → `.emp-f.il` → `.emp-i`
+ * fahl → `f.al` ?
+    * : befahl → `b.e-f.al`
+    * : empfahl → `.emp-f.al` → `.emp-a`
+ * fohl → `f.ohl`
+    * : befohl → `b.e-f.ol`
+    * : empfohl → `.emp-f.ol` → `.emp-o` → `.emp`
 * feier → `f.ei-er` E
+ * f**eier* → `:ei-er`
 * feld → `f.ed`
 * **f**er → `f`
  * : dif**f**erenz → `d.if.ez` → `d.if` E
@@ -847,6 +859,8 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
     * : im.*vor****jahr*** → `.im-o.ar`
     * : im.*vorig*en.***jahr*** → `.im,ig.ar`
     * : *in*.*dies*em.***jahr*** → `I>.iS.ar`
+* **jed** → `j`
+ * : **jed**er → `j-er`
 * *jetzt* → `j*`
 * **j**iz → `j`
  * : *pro***j**izir → `.o>j.ir`
@@ -893,6 +907,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * : *kart*ell → `k.at.ell` E
     * kart**ell** → `:ell`
  * : *kart*offel → `k.at.of.l` E → `ka.of.l`
+* katalog @
 * ***kauf*** → `.auf` E
  * ***käuf*** → `.äuf` E
     * : *ver****käuf***erin → `E.äuf-er.in`
@@ -1307,6 +1322,12 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
  * **r**ig → `r`
     * : di**r**igier → `d.i-r.ir`
     * : di**r**ig*ent* → `d.i-r.eNT` → `di.ent`
+* reit → `r.T`
+ * : bereit → `b.e-r.T`
+    * *bereit* → `b.e-T`
+       * *bereit*s → `b.e-T-s` → `T-s`
+       * *vor**bereit* → `O.b.e-T` → `O.b.e`
+ * ritt → `r.it`
 * renn → `r.en`
 * *rheinländisch-westfälisch* → `:sch.sch`
 * ring → `r.ing`
@@ -1656,7 +1677,7 @@ Ein Inlautkürzel auf *a* wird durch die Hochstellung auf die Oberlinie angedeut
 * -ur- → `UR` V
 * val**id** → `:id` ?
  * : *in*val**id**e → `IN.id.e` E
- * : *in*val**id**itát → `IN.id.ät` E
+ * : *in*val**id**ität → `IN.id.ät` E
 * **ven** → `w`
  * : *inter***ven**ier → `I>t-er.w.ir`
  * *vent* → `w.et` E
@@ -2057,7 +2078,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `I ko-u.al.E.wat-UNG .uss.CH I.n;-st;aten M-er re>pa-UR :r :al.iO bet-ig.`
+* `I ko-u.al.E.wat-UNG .uss.CH I>n;-st;aten M-er re>pa-UR :r :al.iO bet-ig.`
  * `ko-u.al.E.wat-UNG` → `ko-u.al-UNG`
 
 ### Anlautkürzungen mit a, ä (II) — § 14/1 a
@@ -2189,8 +2210,11 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Die Schlusssilben -anz, -enz, (u)-ion — § 19/5
 
-* `I .auss<ha,i-az .U.ess ha* I>let :at.en k.w E.schl-ert.`
+* `I .auss<ha,i-az .U.ess ha* I>let;at.en k.w-s E.schl-ert.`
  * ?
+ * `k.w-s` → `k.w`
+
+* **schlecht** → `schl`
 
 #### Von der Werbung nicht manipulieren lassen
 
@@ -2199,6 +2223,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `.im.al.G.N` → `.im.a-G`
 
 ### Zusammenfassung: Weglassen von Wörtern — § 20/1 a
+
+* ?
 
 ### Anlautkürzung mit o und ö — § 20/1 c
 
@@ -2272,3 +2298,15 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `kat,blü.i-T` → `kat-Ü.i-T`
  * `ko-ms.ar` → `ko-i.ar`
  * `sch frÜ-er` → `sch-Ü-er`
+
+#### Diskutieren will gelernt sein
+
+* `.e .emp-f.il.CH, d.CH j-er :eil,em-er AU ds-u-o.en grÜ.L O.b.e-T.`
+ * `.emp-f.il.CH` → `.emp-i.CH`
+ * `:eil,em-er` → `:eil;r`
+ * `ds-u-o.en` → `ds-u.en`
+ * `O.b.e-T` → `O.b.e`
+
+### Anlautkürzungen mit i (I) — § 14/1 d
+
+* `I bi.in wa.en :U v.n E.wö-t ko-su.eNT.en .ab.G.` @29
