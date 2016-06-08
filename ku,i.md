@@ -2,9 +2,9 @@
 
 Dehnungs-*h* wird vor der Endung *t* ausgestoßen. *ch* wird mit der Endung *t* verschmolzen.
 * sieh → `s.ih`
- * sieht → `s.it`
+ * : sieht → `s.it`
 * sprich → `spr.ich`
- * spricht → `spr.icht`
+ * : spricht → `spr.icht`
 
 Nur selten behält ein Wort in der Schnellschrift seine verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
 * (alt) → `.alt`
