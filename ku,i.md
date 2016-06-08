@@ -954,7 +954,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * ***klag*** → `.ag` E ≠ **klass**
  * ***kläg*** → `.eg`
 * ***klam*** → `kl.am` ?
- * *re****klam***at*ion* → `re.am-o`
+ * re***klam***at*ion* → `r.e-am-o`
 * ***klar*** → `.ar` E ≠ **klass**
  * ***klär*** → `.är`
     * : *er****klär*** → `er.är` !!! `er-r`
@@ -2401,7 +2401,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Gewichtsschwankungen sind in unserer Branche üblich
 
-* `.ir.e re.am-o.`
+* `.ir.e r.e-am-o.`
 * `s>G-da.h, sI ha.en .U .ei-en .S.ür.L bri G-ib & dar.IN .U.e l.i-er-UNG v* 4. ;g.at b.e-an.and.et.`
  * `.S.ür.L` !ü! `.S-ü.L`
  * `dar.IN` !i! `dar-i`
