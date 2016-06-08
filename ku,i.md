@@ -432,7 +432,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : **et****was** → `.e-was`
 * **europa** → `.eu`
  * : **europ**a → `.eu.a`
- * : **europ**ä**isch** → `.eu.ä-i` !-! `.eu.i` E @
+ * : **europ**ä**isch** → `.eu.ä-i` !-! `.eu.i` E ?
  * *europa* → `.eu-p`
 * -**ex**- → `.e`
 * *exemp* → `.ex` E
@@ -1153,7 +1153,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : *mittel* → `-t-l`
 * *mitt* → `M`
  * : e*mitt*ier → `.e-M.ir` ! `.e-m.it.ir`
- * : *kom**pro**mitt*ier → `kom.o-M.ir` ! `k.omp.it.ir` E →? `kom-p.it.ir`
+ * : *kom**pro**mitt*ier → `kom.o-M.ir` !! `kom-p.it.ir`
+    * *kompromitt* `k.om-p.it.ir` E
  * *miss* → `ms`
     * : *miss**ion* → `ms-o`
     * : e*miss**ion* → `.e-ms-o`
@@ -1311,7 +1312,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : **bund**es*jugend****plan*** → `bu.ug.an`
 * **plant** → `pla`
  * : **plant***age* → `pla.asch.e`
- * : **trans****plant*at*ion* → `tra.pla.O`
+ * : **trans****plant**at*ion* → `tra.pla.O`
 * ***pl****ik* → `pl`
  * : *kom****pl****ik*at*ion* → `kom-pl-o`
  * ***pl****iz* → `pl`
@@ -1375,7 +1376,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : **rat***ifiz*ier → `ra.if.ir`
  * : **rat***ifik*at*ion* → `ra.if-o`
  * : be**rat** → `b.e-ra`
-    * →? *berat* → `Ra`
+    * *berat* → `Ra`
 * real → `r.e-al`
  * realisier → `r.e-al.ir`
  * realität → `.r.e-al.ät`
