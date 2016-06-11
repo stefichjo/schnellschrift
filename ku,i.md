@@ -303,7 +303,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * **chem** → `ch`
  * : **chem**ie → `ch.I`
  * : **bi**o**chem**ie → `bi.ch.I` ! `b.i-ch.I`
-* *d. h.* → `d.h*` V
+* *d. h.* → `d.h°` V
 * da → `d.a`
  * -**da**- → `da` V
 * dach → `d.ach`
@@ -547,7 +547,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * fert**ig** → `fet-ig` E
     * *fertig* → `-t-ig`
        * : *fertig**keit* → `-t-ig.T`
-* *fest* → `f*`
+* *fest* → `f°`
 * feuer → `f.eu-er` → E
 * **fig**ur → `fi-UR`
  * : **kon****fig**urat*ion* → `ko,fi-UR.iO`
@@ -824,7 +824,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * *hinter* → `I>t-er`
 * **hoch** → `ho` E
  * : **höch**stens → `hö.st-s`
-    * *höchstens* → `hö*`
+    * *höchstens* → `hö°`
 * **hoh** → `ho`
  * : **hoh***heit* → `ho.H` !o! `o-H`
 * **hof** → `ho`
@@ -885,7 +885,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * -*alisch*- → `.i`
 * -*ismus*- → `.iS` E
 * **i**st → `i` V
- * .*ist*. → `i*`
+ * .*ist*. → `i°`
 * -*istisch*- → `.iS.i` E
 * it → `.it`
  * *in*it → `I.it`
@@ -906,7 +906,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *in*.*dies*em.***jahr*** → `I>.iS.ar`
 * **jed** → `j`
  * : **jed**er → `j-er`
-* *jetzt* → `j*`
+* *jetzt* → `j°`
 * **j**iz → `j`
  * : *pro***j**izir → `.o>j.ir`
  * **jekt** → `j`
@@ -1305,8 +1305,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : **off**en**bar** → `.o.bar`
     * : **off**en*heit* → `.o.H`
     * : **öff**ent*lich* → `.ö-L`
-* *ohn* → `.o*` V
- * *ohne* → `.o*` V
+* *ohn* → `.o°` V
+ * *ohne* → `.o°` V
 * opt → `.opt`
  * : opt*ion* → `.opt.iO`
  * : opt*ional* → `.opt.iaL` ?
@@ -1492,7 +1492,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : *auf****ruf*** → `AU.uf` !u! `AU-u`
  * : be***ruf*** → `b.e-uf`
  * ***rief*** → `.if` ! `r.if`
-    * : *aus****rief*** → `.S.if`* rump → `r.ump`
+    * : *aus****rief*** → `.S.if`
+* rump → `r.ump`
  * *rupt* → `r.up`
     * : e*rupt**ion* → `.e-r.up-o`
     * : e*rupt*iv → `.e-r.up.iv` ! `.e-r.upt-iv`
@@ -1657,7 +1658,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * **kon****s**onant → `ko-s.aNT`
 * *sonder* → `S` V
  * be*sonder* → `b.e-S`
-    * *besonder* → `b*` V
+    * *besonder* → `b°` V
 * *sorg* → `s.o` ! `s.og`
  * : be*sorg* → `b.e-s.o` !=! `b-es.o`
  * : **f**ür*sorg* → `f-s.o` !o! `f,o`
@@ -1732,10 +1733,10 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * **stinkt** → `st.i`
  * : *in***stinkt** → `IN.st.i`
 * ***stimm*** → `.im` ≠ ?
- * be***stimm*** → `bes*-i`
-    * *bestimm* → `bes*-i`
+ * be***stimm*** → `b°-i`
+    * *bestimm* → `b°-i`
  * *mit*be***stimm*** → `M.b.e-im`
-    * *mitbestimm* → `M*`
+    * *mitbestimm* → `M°`
 * **straß** → `stra`
  * -straß**e**- → `:e`
     * : **haupt**straß**e** → `hau:e`
@@ -1845,7 +1846,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * *und* → `&` V
 * -*ung*- → `UNG` V
 * *uns* → `U` V
- * *unser* → `U*` V
+ * *unser* → `U°` V
     * *unserer* → `u-er-er`
 * *unter* → `UNTER` V
 * -ur- → `UR` V
@@ -1903,7 +1904,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
        * : e*volution* → `.e,u-O`
        * : re*volution* → `r.e-u-O`
        * : **konter**re*volution* → `ko-t-er,r.e-u-O`
-* *vom* → `v*` V
+* *vom* → `v°` V
 * **v**on → `v` V
 * *vor* → `O` V
  * vori**g** → `;g`
@@ -1954,7 +1955,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *ge***werb** → `G-w`
     * : *ge***werb***lich* → `G-w.L` !! `G-L`
     * : wettbe**werb** → `w.et.b.e-w`
-       * *wettbewerb* → `w*`
+       * *wettbewerb* → `w°`
 * *werd* → `;w` V
  * *wird* → `w-ir` V
  * *wirst* → `w-ir` V
@@ -2120,7 +2121,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Engere Kontakte erwünscht
 
-* `I>let :at.en ha.wr I gÜ.i eNT-i .ir-er ko-su;O.FT M bes*-er AU.m.ek.Sa.T E.fo.`
+* `I>let :at.en ha.wr I gÜ.i eNT-i .ir-er ko-su;O.FT M b°-er AU.m.ek.Sa.T E.fo.`
  * `ko-su;O.FT` !! `ko-su.FT`
  * `AU.m.ek.Sa.T` !! `AU.T`
 
@@ -2143,7 +2144,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `t.en.sI zr* dr-Ür .iS-er b.e-üss.e .ei .S.drÜ.L.e er-au.is?`
+* `t.en.sI zr° dr-Ür .iS-er b.e-üss.e .ei .S.drÜ.L.e er-au.is?`
  * `dr-Ür` !ü! `dr-ü`
  * `.S.drÜ.L.e` !Y! `.S-Y.L.e`
 
@@ -2165,7 +2166,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wer könnte unsere Prospekte entwerfen?
 
-* `f.I G-w.S.st* IN h.eid.b :ol<wr .ei-en .o>sp dru, ;r I E>brau-er M-er b*.H u-er-er r.eug.iss.e b.e-ka-t aCHT.`
+* `f.I G-w.S.st* IN h.eid.b :ol<wr .ei-en .o>sp dru, ;r I E>brau-er M-er b°.H u-er-er r.eug.iss.e b.e-ka-t aCHT.`
  * `E>brau-er` !au! `E-au-er`
 
 ### Anlautkürzungen mit a, ä (I) ­— § 14/1 a
@@ -2244,7 +2245,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wir brauchen attraktivere Prospekte
 
-* `f.I schn.e b.e>aNT.wot u-er-er .um.fra ;I<wr,i & .ir.en M.T-er b* ;bar.`
+* `f.I schn.e b.e>aNT.wot u-er-er .um.fra ;I<wr,i & .ir.en M.T-er b° ;bar.`
  * `b.e-aNT.wot` !«! `b.e>aNT`
  * `;I<wr,i` ! `;I<wr .in.en`
 
@@ -2271,9 +2272,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Weitere Verkürzung von Kürzeln — § 20/3
 
-* `wr.Yss O.a ra.ieL ;T, ga.b* ber AU.it ;r -st-E.wat-UNG.`
+* `wr.Yss O.a ra.ieL ;T, ga.b° ber AU.it ;r -st-E.wat-UNG.`
  * `O.a` !a! `O-a`
- * `ga.b*` ! `ga.b.e-S` !! `ga-S`
+ * `ga.b°` ! `ga.b.e-S` !! `ga-S`
  * `-st-E.wat-UNG` !»! `-st-UNG`
 * `AU.iS.it ;S.en IN.est-IN.e E.wat-UNG.kost.en N.spa-t-w.`
  * `AU.iS.it` !i! `AU-i.it`
@@ -2290,8 +2291,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `.an.n.äh.d` !!! `.an;r.d`
  * `E-t-lt-t` ! `E-t-lt t`
 * `I>r b.ei,li-ed AU.st* ;I .U.e r.am-o.en .im.N.l AU-Ürt.`
-* `wr-I.N, d .U.e b.st* M-r .ei-es .ad-er.en .ei-h-er E.wes.lt-O.i*.`
- * `E.wes.lt-O.i*` !-! `E-s.lt-O.i*`
+* `wr-I.N, d .U.e b.st* M-r .ei-es .ad-er.en .ei-h-er E.wes.lt-O.i°.`
+ * `E.wes.lt-O.i°` !-! `E-s.lt-O.i°`
 * `da.h b.it.wr.sI, .ir.en fra.fru M.T-er .an.z.eis, CH I ga.e s.ed I>u-er-er la-er.ha.e .an.z.s.eh.`
  * `da.h` !!! `.a-h`
  * `b.it.wr.sI` !-! `.it.wr.sI`
@@ -2307,7 +2308,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Besuchen Sie unsere Ausstellung
 
 * `.an.I b.e-su ;r hau.E-sa.l-UNG IN fr,u.od-er.`
- * `hau.E-sa.l-UNG` !.! `hau.E-sa-UNG` !!! `hau*`
+ * `hau.E-sa.l-UNG` !.! `hau.E-sa-UNG` !!! `hau°`
 
 ### Die Schlusssilben -e, -en, -er — § 18/2 b; wurde(n), würde(n) — § 20/3
 
@@ -2357,7 +2358,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Die Schlusssilben -anz, -enz, (u)-ion — § 19/5
 
-* `I .auss<ha:az .U.ess ha* I>let:at.en k.w-s E.schl-ert.`
+* `I .auss<ha:az .U.ess ha° I>let:at.en k.w-s E.schl-ert.`
  * `.auss<ha:az` !!! `.auss<ha;az`
  * `k.w-s` !«! `k.w`
 
@@ -2383,7 +2384,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `wr .em .an.r hau.E-sa.l-UNG IN nÜ.b :eil.`
  * `.em` !!! `;n`
- * `hau.E-sa.l-UNG` !.! `hau.E-sa-UNG` !!! `hau*`
+ * `hau.E-sa.l-UNG` !.! `hau.E-sa-UNG` !!! `hau°`
 
 #### Besuchen Sie auch die Warenhäuser
 
@@ -2477,13 +2478,13 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Anlautkürzungen mit i (II) — § 14/1 d
 
-* `.o*.d.i :är I hi.l.ei UN-ög.L -G.en.`
+* `.o°.d.i :är I hi.l.ei UN-ög.L -G.en.`
  * `UN-ög.L` !»! `UN-L`
 
 #### Gewichtsschwankungen sind in unserer Branche üblich
 
 * `.ir.e r.e-am-o.`
-* `s>G-da.h, sI ha.en .U .ei-en .S.ür.L bri G-ib & dar.IN .U.e l.i-er-UNG v* 4. ;g.at b.e-an.and.et.`
+* `s>G-da.h, sI ha.en .U .ei-en .S.ür.L bri G-ib & dar.IN .U.e l.i-er-UNG v° 4. ;g.at b.e-an.and.et.`
  * `.S.ür.L` !ü! `.S-ü.L`
  * `dar.IN` !i! `dar-i`
 
@@ -2555,6 +2556,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Andere Fremdwörter mit Aufstrich-t — § 19/3; -ent und -ant in Fremdwörtern — § 20/5
 
-* `wr-a f.U.e IN.w-UR N f*.es ko.z.`
+* `wr-a f.U.e IN.w-UR N f°.es ko.z.`
  * `IN.w-UR` !!! `IN-t-UR`
  * `ko.z` !?! `ko-t`
+
