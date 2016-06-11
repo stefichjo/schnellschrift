@@ -251,7 +251,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * best → `b.est`
 * **bi** → `bi`
 * ***biet*** → `.it` E ≠ **bi**, **bild**, ***b****is*
- * : *ge****biet*** → `G.it`
+ * : *ge****biet*** → `G-it`
  * : *auf*.~~dem~~.*ge****biet*** → `AU.it`
  * : *auf*.*dies*em.*ge****biet*** → `AU.iS.it` !i! `AU-i.it`
  * ***bot*** → `.ot` E
@@ -284,7 +284,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * branche → `br.asch.e` E
 * **brauch** → `brau` E
  * : *ge***bräuch***lich* → `G-bräu.L`
- * : *ver***brauch** → `E>brau` ! `E>brau` E → `E-au`
+ * : *ver***brauch** → `E>brau` ! `E>brau` E !au! `E-au`
 * **brech** → `br`
  * **brich** → `bri`
  * **brach** → `bra`
@@ -498,7 +498,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : ein***fang*** → `N.ang`
     * : *ge****fäng******nis*** → `G-eng.is` !!! `G-f.is`
     * : *ver****fäng****lich* → `E.eng.L`
-* (farm) → `f.arm` E → `f.am`
+* farm → `f.am` ! `f.arm` E
 * *fast* → `Fa`
 * fat ?
  * **f**ess → `f`
@@ -537,6 +537,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : dif**f**erier → `d.if.ir` ! `d.if.er.ir` E
  * : **kon****f**erenz → `ko.f.ez` !<! `ko.f` E
  * : **kon****f**erier → `ko.f.ir`
+ * : *re***f**erat → `re.f.at`
  * : **trans****f**er → `tra.f`
 * fenster → `fest-er` E
 * *ferien* → `f.I.en`
@@ -649,8 +650,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : ab*führ* → `.ab-Ür`
  * : an*führ* → `.an-Ür`
  * : auf*führ* → `AU-Ür`
- * : *aus**führ* `.S-Ür` !=! `.S.ür` E → `.S-ü`
- * : *durch**führ* → `dr-Ür` E → `dr-ü`
+ * : *aus**führ* `.S-Ür` !=! `.S.ür` E !ü! `.S-ü`
+ * : *durch**führ* → `dr-Ür` E !ü! `dr-ü`
  * : ein*führ* → `N-Ür`
  * : *ge**führ*t → `G-Ürt`
  * : *geschäft*s*führ*er → `G-T-Ür-er` E
@@ -924,9 +925,9 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : (just)ier → `j.u+st.ir` E
  * *justiz* → `j.u+st` E
 * **kalk** → `ka` ! `k.ak`
-* *kalkul* → `k.ak` E → `ka,u`
- * : *kalkul*at*ion* → `k.ak.iO` E → `ka,u-O`
- * : *kalkul*ier → `k.ak.ir` E → `ka,u-ir`
+* *kalkul* → `k.ak` E !u! `ka,u`
+ * : *kalkul*at*ion* → `k.ak.iO` E !u! `ka,u-O`
+ * : *kalkul*ier → `k.ak.ir` E !u! `ka,u-ir`
 * kalt → `kat`
 * ***kampf*** → `ampf` ≠ **kalk**
  * : **klass**en***kampf*** → `kla.ampf`
@@ -949,10 +950,10 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * *kap*uze → `aP.uz.e` E
 * *kart* → `k.at`
  * : *kart*e → `k.at.e` ! `k.art.e` E ≠ **kalt**e
- * : *kart*ei → `k.at.ei` E → `ka.ei`
+ * : *kart*ei → `k.at.ei` E !!! `ka.ei`
  * : *kart*ell → `k.at.ell` E
     * kart**ell** → `:ell`
- * : *kart*offel → `k.at.of.l` E → `ka.of.l`
+ * : *kart*offel → `k.at.of.l` E !!! `ka.of.l`
 * ***kass*** → `ass` ≠ **kam**
 * -*kata*- → `k.at`
 * ***kauf*** → `.auf` E
@@ -1105,6 +1106,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * *lini* → `IN-i` ! `l.in` E
  * : *lini*e → `IN-i.e` ! `l.in` E
  * : *in*.erster.*lini*e → `IN.est-IN.e` ! `IN.est-l.in.e` E !! `IN.IN.e`
+* **lohn** → `l.o`
 * log → `l.og`
  * : log**isch** → `l.og.i`
  * -**log**- → `.og`
@@ -1141,6 +1143,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : auto***mat*** → `.aut.at` E
  * : auto***mat****ion* → `.aut.at.iO` E
 * **mehr** → `mer` !!! `m.e`
+ * *mehrer* → `MR`
 * ***mass*** → `ass` ≠ ?
  * : ***mass***e → `ass.e`
 * m**ein** → `;N`
@@ -1148,7 +1151,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : *wir*.*sind*.~~der~~.m**ein** → `wr-I.N`
  * : *ge*m**ein** → `G:N`
     * *gemein* → `G-N` E
-       * : *gemein*de → `G-Nd.e` E → `;Nd.e`
+       * : *gemein*de → `G-Nd.e` E !!! `;Nd.e`
        * : *gemein**sam* → `G-N.Sa` E !=! `G-N-Sa`
        * : *gemein**schaft* → `G-N.FT` E
           * -*gemeinschaft*- → `N`
@@ -1288,6 +1291,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * *noch* → `n-ch` V
 * nom → `n.om`
  * : nom*inal* → `n.om.iaL`
+* ***not*** → `.ot`
+ * : ***nöt*** → `.öt`
 * n**ur** → `;UR` V
 * **nutz** → `nu`
  * : **nütz** → `nÜ`
@@ -1412,6 +1417,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * -***rad*** → `.ad`
     * : ***f****ahr****rad*** → `fa.ad`
  * *gerad* → `-G-a`
+    * : *gerad*e → `-G-a.e`
 * **rat** → `ra`
  * : **rat**e → `ra.e`
  * : **rat***ion* → `ra.iO`
@@ -1466,6 +1472,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *korrespond*enz → `k.or-r.ez` E !-! `k.o-z`
     * : *korrespond*ier → `k.or-r.ir` E
 * *rheinländisch-westfälisch* → `;sch.sch`
+* **richt** → `ri`
+ * : amts*ge****richt*** → `.amt,G,ri` !i! `.amt,i`
 * ring → `r.ing`
  * -***ring*** → `.ing`
     * : *ge****ring*** → `G-ing`
@@ -1550,6 +1558,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * ***schreib*** → `.eib` ≠ schrei
  * ***schrieb*** → `.ib`
 * **schrift** → `.ift`
+ * : ab**schrift** → `.ab.ift` !i! `.ab,i`
  * : **kurz****schrift** → `ku.ift` !i! `ku,i`
  * : *unter***schrift** → `UNTER.ift` !i! `UNTER,i`
  * : *vor***schrift** → `O.ift` !i! `O-i`
@@ -1669,11 +1678,13 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *in***spekt***ion* → `IN.sp*`
     * : *pro***spekt** → `.o>sp`
 * **sprech** → `spr`
+ * : *ent***sprech**end → `eNT.spr.ed` !! `eNT.ed`
  * **sprich** → `.ich`
  * **sprach** → `spra`
  * **spräch** → `spr`
  * **sproch** → `.och`
  * **spruch** → `.uch`
+    * : ein**spruch** → `N.uch` !u! `N,u`
     * : *wider***spruch** → `W.uch` !u! `W-u`
  * **sprüch** → `.üch` 
 * st → `st`
@@ -1726,8 +1737,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : milchstraß**e** → `m.ich:e`
 * stroph → `.str.of`
  * -**stroph**- → `.of`
-    * : *kata***stroph**e → `k.at.of.e` E → `k.at.e` E
-    * : *kata***stroph**al → `k.at.of.al` E → `k.at.al` E
+    * : *kata***stroph**e → `k.at.of.e` E !! `k.at.e` E
+    * : *kata***stroph**al → `k.at.of.al` E !! `k.at.al` E
 * stru → `str.u`
  * strukt → `str.ukt`
     * : struktur → `str.ukt-UR` !!! `str.uk.UR` !<! `str.uk`
@@ -1843,8 +1854,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * **v**ent → `w` ! `w.et` E
     * : e*vent*ualität → `.e-w.al.ät` ! `.e-w.et.al.ät`
     * : evtl. → `.e-v-t-l`
-    * : *in**vent*ar → `IN.w.ar` ! `IN.w.et.ar` E → `IN-t-ar`
-    * : *in***v**entur → `IN.w-UR` ! `IN.w.et.UR` E → `IN-t-UR`
+    * : *in****v***entar → `IN.w.ar` ! `IN.w.et.ar` E !!! `IN-t-ar`
+    * : *in***v**entur → `IN.w-UR` ! `IN.w.et.UR` E !!! `IN-t-UR`
     * : **kon****v**ent*ion* → `ko.w-o` ! `ko.w.et.iO` E
     * : *inter***v**ent*ion* → `I>t-er.w-o` ! `I>t-er.w.et.iO` E
 * -*ver*- → `E` V
@@ -1925,6 +1936,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * weit → `w.T`
  * *weiter* → `T-er`
     * : *und*.*so*.~~weiter~~ → `&.o` V
+* ***welch*** → `.ech`
 * welt → `wet`
  * -wel**t**- → `;-t`
     * : umwel**t** → `.um-t`
@@ -2218,7 +2230,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `-G-a.e ha.wr I>r fra.fru T-UNG G-l.es, d IN;-st-T M.ei-er .äd-er I>r .aus.ra.E.s.i-er-UNG Z.ech i.`
  * `.aus.ra.E.s.i-er-UNG` !<! `.aus.ra.E`
 
-### Wir trainierung (I)
+### Wir trainieren (I)
 
 #### Wir brauchen attraktivere Prospekte
 
@@ -2496,5 +2508,30 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * ``
 
-@32
+### Inlautkürzungen mit i- und u-Punkt — §§ 17/2, 20/2, 20/3
+
+#### Trainingssätze
+
+* `d .amt,G,ri ha I .ab.ift b.aub.i.`
+ * `.amt,G,ri` → `.amt,i`
+ * `.ab.ift` → `.ab,i`
+
+### Inlautkürzungen für einfache Wörter — § 20/2
+
+* `wr.ät -G-a.e v,i k.ei-en N,u er.wat-et.`
+ * `N.uch` !u! `N,u`
+
+### Wir trainieren (V)
+
+#### Wortfamilie sprechen
+
+* `f.n .er.L fi-er ;S .ei eNT.spr.ed.e b.e-l.o .S.s ;w.`
+ * `eNT.spr.ed` !! `eNT.ed`
+
+#### Vier Methoden zur Ausarbeitung einer Rede
+
+* `wer O.r fra st, .ech.e UNTER.la.en er f.I s.i-er.e & ;k.Ol.e dr-Ür .ei-er r.ed.e, .ei-es O>tra .od-er .auch .ei-es re.f.at b.öt.i, k zw MR.en .ög.L.T.en w.el.`
+ * `dr-Ür` !ü! `dr-ü`
+ * `.od-er .auch` !aY! `.od-er-aY`
+ * `.ög.L.T.en` → `;L.T.en`
 
