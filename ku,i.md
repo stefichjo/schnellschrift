@@ -99,7 +99,7 @@ Der Inlaut *e* (bzw. *ä*) bleibt nach alleinstehendem Abstrichzeichen ausgeschr
 * **fremd** → `fr.e`
 * **kenn** → `k.e`
 
-Der Inlaut *ei* kann nicht angedeutet werden. Daher bleiben *ei* und verwandtes *i* ausgeschrieben.
+Der Inlaut *ei* sieht angedeutet wie ausgeschrieben gleich aus. Daher bleiben *ei* und verwandtes *i* ausgeschrieben.
 * **bleib** → `bl.ei`
  * **blieb** → `bl.i`
 * **treib** → `tr.ei`
@@ -1129,7 +1129,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : jedes.mal → `j.ed.ma` E
     * : *manch***mal** → `CH.ma` ! `CH.m.al`
     * : nie**mal**s → `n.i-ma-s`
-    * : *noch***mal**s → `n-CH<ma-s` E
+    * : *noch***mal**s → `n-ch<ma-s` E
     * : *zu***mal** → `Z-ma`
 * **man** → `ma`
 * **mann** → `ma`
@@ -1148,6 +1148,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * ***mass*** → `ass` ≠ ?
  * : ***mass***e → `ass.e`
 * m**ein** → `;N`
+ * : m**ein***ung* → `;N.UNG`
  * : *ich*.**b**in.~~der~~.m**ein** → `I>bi.N`
  * : *wir*.*sind*.~~der~~.m**ein** → `wr-I.N`
  * : *ge*m**ein** → `G:N`
@@ -1645,7 +1646,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * sol → `s.ol`
  * : solid → `s.ol.id`
  * : **kon**solidier → `ko-s.ol.ir`
-* *solch* → `s-CH` V
+* *solch* → `s>ch` V
 * *soll* → `;S`
 * solv → `s.ow`
  * : solvier → `s.ow.ir`
@@ -2079,6 +2080,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *zirkul*ier → `z.ik.ir`
     * : *zirkul*ation → `z.ik.iO`
 * *zu* → `Z` V
+ * nahe*zu* → `n.ah.e-Z` !!! `e>Z`
 * **z**um → `z` V
 * *zur* → `zr*` V
 * **zw**ischen → `zw` V
@@ -2410,7 +2412,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `ach.U.en b.e-ob.acht.en i I eNT,wi.l n-CH-t b.e-dr.o-L.`
+* `ach.U.en b.e-ob.acht.en i I eNT,wi.l n-ch-t b.e-dr.o-L.`
  * `b.e-ob.acht.en` !! `b.e-ob.en`
  * `eNT,wi.l` !i! `eNT-i`
 
@@ -2560,3 +2562,18 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `IN.w-UR` !!! `IN-t-UR`
  * `ko.z` !?! `ko-t`
 
+#### Anlautkürzungen mit ei — § 14/1 a
+
+* `wr bl.ei b.ei u-er-er ;N.UNG.`
+* `sI bl.i-en 3 wo.en .I° h.eid.b.`
+* `I gä ;I n-ch ang.e G-bl.i.`
+
+#### Mitwirkung und Mitbestimmung der Arbeitnehmer
+
+* `I d.at.ir-UNG u-er-er G-FT da -t O-r ;T,wet ;-t<ma.`
+
+### Anlautkürzungen mit ü — § 14/1 a
+
+* `b.ei n.ah.e-Z .al.en bÜ-er i ;r  u-er-er sta b.e-l.ibt.`
+ * `n.ah.e-Z` !!! `e>Z`
+ * `bÜ-er.m.ei-er` !»! `bÜ-er;r !!! `bÜ-er-er`
