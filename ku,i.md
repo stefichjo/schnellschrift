@@ -2055,7 +2055,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * *zert* → `zer`
     * : *zert**ifik*at → `zer.if.at`
     * : *zert**ifiz*ier → `zer.if.ir`
-    * : **kon***zert* → `ko>zer` !?! `ko.zet`
+    * : **kon***zert* → `ko>zer` ! `ko.zet`
 * ***zeug*** → `.eug` ≠ ?
  * : ***f****ahr****zeug*** → `fa.eug`
 * ***zieh*** → `.ih`
@@ -2068,7 +2068,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * **zip** → `.ip`
  * : **kon****zip**ier → `ko.ip.ir`
  * ***z****ept* → `z`
-    * : **kon*****z****ept* → `ko.z` !?! `ko-t`
+    * : **kon*****z****ept* → `ko.z` !!! `ko-t`
     * : re***z****ept* → `r.e-z`
     * : re***z****ept**ion* → `r.e-z*` ! `r.e-z.iO`
 * zirk → `z.ik`
@@ -2560,7 +2560,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `wr-a f.U.e IN.w-UR N f°.es ko.z.`
  * `IN.w-UR` !!! `IN-t-UR`
- * `ko.z` !?! `ko-t`
+ * `ko.z` !!! `ko-t`
 
 #### Anlautkürzungen mit ei — § 14/1 a
 
@@ -2574,6 +2574,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Anlautkürzungen mit ü — § 14/1 a
 
-* `b.ei n.ah.e-Z .al.en bÜ-er i ;r  u-er-er sta b.e-l.ibt.`
+* `b.ei n.ah.e-Z .al.en bÜ-er i ;r bÜ-er.m.ei-er u-er-er sta b.e-l.ibt.`
  * `n.ah.e-Z` !!! `e>Z`
- * `bÜ-er.m.ei-er` !»! `bÜ-er;r !!! `bÜ-er-er`
+ * `bÜ-er.m.ei-er` !»! `bÜ-er;r` !!! `bÜ-er-er`
+
