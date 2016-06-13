@@ -261,6 +261,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * **bill** → `bi`
  * : **bill****ig** → `bi.i`
 * **bind** → `bi` ! `b.id` E
+ * : *in*.*ver***bind***ung*.*mit* → `I>E,bi<M` ? !! `I>E.M`
+ * : *in*.*ver***bind***ung*.**setz**en → `I>E,bi.s` ? !! `I>E.s`
  * **band** → `ba` ! `b.ad` E
  * **bänd** → `b` ! `b.ed` E
  * **bund** → `bu` E
@@ -284,7 +286,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * branche → `br.asch.e` E
 * **brauch** → `brau` E
  * : *ge***bräuch***lich* → `G-bräu.L`
- * : *ver***brauch** → `E>brau` ! `E>brau` E !au! `E-au`
+ * : *ver***brauch** → `E>brau` E !au! `E-au`
+* **brau** → `brau`
 * **brech** → `br`
  * **brich** → `bri`
  * **brach** → `bra`
@@ -294,12 +297,13 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * **brüch** → `brÜ`
 * **brief** → `bri`
 * **bunt** → `but` E
-* burg → `b.ug` E
- * : bürg → `b.üg` E
- * **hoch**burg → `ho.b.ug`
+* **burg** → `bu` ! `b.ug` E
+ * : **bürg**er → `bÜ-er` ! `b.üg-er` E
 * ***bus*** → `.us` ?
  * : auto***bus*** → `.aut.us` E
-* *char* → `ch.ar` E
+* *büro* → `bÜ.o`
+ * : *makler**büro* `m.ak-er.bÜ.o` !!! `m.ak-er-Ü.o`
+* charakter → `ch.ar.akt-er` !«! `ch.ar` E
 * **chem** → `ch`
  * : **chem**ie → `ch.I`
  * : **bi**o**chem**ie → `bi.ch.I` ! `b.i-ch.I`
@@ -315,6 +319,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * .**dam**. → `da`
 * dank → `d.ak` E
  * dank**bar** → `;bar`
+    * : **sehr**.dank**bar** → `s.bar`
 * **dar** → `dar` V
 * **d**as → `d` V
 * **dat** → `da`
@@ -1031,6 +1036,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * kult → `kut` E
  * : kultus → `kut-us` ! `k.ut.us`
  * kultur → `kut-UR` !u! `u-UR` E
+* **kund** → `ku` ! `k.ud`
+ * : **kund**e → `ku.e`
 * kunst → `kust` E
  * *künst* → `kYst` E
 * **kurr** → `ku`
@@ -1121,6 +1128,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * luxuriös → `l.ux.UR.ös` !.! `l.ux.ös` E
 * **mach** → `ma` E
  * : *macht* → `aCHT`
+* *makler* → `m.ak-er`
 * mal → `m.al` E
  * -**mal**- → `ma` E
     * : **da****mal**s → `da.ma-s` !! `da-s`
@@ -1131,22 +1139,43 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : nie**mal**s → `n.i-ma-s`
     * : *noch***mal**s → `n-ch<ma-s` E
     * : *zu***mal** → `Z-ma`
-* **man** → `ma`
-* **mann** → `ma`
-* mar**kt** → `;kt`
+* **man** → `ma` E
+ * -**mand**- → `ma` E
+    * : je**mand** → `j.e-ma`
+    * : nie**mand** → `n.i-ma`
+* *manch* → `aCH` E
+ * : *manch*er → `aCH-er` ! `aCH.er` E
+ * : *manch*erlei → `aCH-er.l.ei` !.! → `aCH.l.ei` E
+* **mann** → `ma` E
+ * : **männ**er → `m-er` ! `m.er` E
+ * : **männ***lich* → `m.L`
+ * : ***kauf*****mann** → `.auf.ma`
+* mar**kt** → `;kt` ! `m.akt` E
  * wel**t**mark**t** → `;-t;kt` !!! `;-t;-t`
-* **mater** → `ma`
- * : **mater**ie → `ma.I.e`
- * : **mater***ial* → `ma.iaL`
- * : **mater***ial**ismus* → `ma.iaL.iS`
- * : **mater***ial**istisch* → `ma.iaL.iS.i`
+* *maschin* → `I>;n`
+ * : *maschin*e → `I>;n.e` ! `m.asch.in.e` !«! `m.asch` E
+ * : *maschin*ell → `I>;n.ell` ! `m.asch.in.ell` !«! `m.asch.ell` E
+* ***mass*** → `ass` E
+ * : ***mass***en**haft** → `ass.en.ha` E
 * ***mat*** → `.at`
  * : auto***mat*** → `.aut.at` E
  * : auto***mat****ion* → `.aut.at.iO` E
-* **mehr** → `mer` !!! `m.e`
- * *mehrer* → `MR`
+* **mater** → `ma` ! `m.at-er` !«! `m.at` E
+ * : **mater**ie → `ma.I.e` ! `m.at-er.I.e` !«! `m.at.I.e` E
+ * : **mater***ial* → `ma.iaL` ! `m.at-er.iaL` !«! `m.at.iaL` E
+ * : **mater***ial**ismus* → `ma.iaL.iS`
+ * : **mater***ial**istisch* → `ma.iaL.iS.i`
 * ***mass*** → `ass` ≠ ?
  * : ***mass***e → `ass.e`
+* med → `m.ed`
+ * : medikament → `m.ed.ik.a-met` E
+* **mehr** → `mer` !!! `m.e` E
+ * : **mehr**er → `mer-er` ! `m.er-er` E
+    * *mehrer* → `MR`
+ * : *ver***mehr***ung* → `E.mer-UNG` !!! `E.m-UNG` E
+ * : *desto*.**mehr** → `d.est-mer` !!! `d.est-m` E
+ * : imm**er**.**mehr** → `:er>mer` !!! `:er>m` E
+ * : *nicht*.**mehr** → `-t-mer` !!! `-t.m` E
 * m**ein** → `;N`
  * : m**ein***ung* → `;N.UNG`
  * : *ich*.**b**in.~~der~~.m**ein** → `I>bi.N`
@@ -1163,6 +1192,11 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * ***meng*** → `eng`
 * *mensch* → `NSCH`
  * *mensch**heit* → `NSCH*`
+ * *mensch**lich* → `NSCH.L`
+ * *ver**mensch**lich*t → `E.NSCH.L-t`
+* -ment- → `met` E
+ * element → `.el.e-met` E
+ * testament → `t.e+st.a-met` E
 * merk → `m.ek`
  * *auf*merk*sam* → `AU.m.ek.Sa` !! `AU.Sa` E !=! `AU-Sa`
  * bemerk → `b.e-m.ek` !!! `b.e-m`
@@ -1171,8 +1205,11 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : ***mess***er → `ess-er`
  * **höh**enmesse**r** → `hö;r`
  * ***miss*** → `.iss` ! `m.iss`
- * ***maß*** → `ass`
-    * : ***mäß*****ig** → `ess.i`
+ * ***maß*** → `ass` E
+    * : ***mäß*****ig** → `ess.i` E
+    * : ein**ig**er***maß***en → `N.i-er.ass.en` E
+* metall → `m.et.all` !«! `m.et` E
+ * : metall**isch** → `m.et.all.i` !«! `m.et.i` E
 * meth**od** → `:od`
 * metr → `m.etr`
  * : geometrie → `g.e-m.etr.I`
@@ -1188,6 +1225,11 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : **minist**erial → `mi-er.iaL` !.! `mi.iaL` E
  * : **finanz****minist**er → `fi.mi-er` ! `fi.mi.er` E
  * : *justiz***minist**er → `ju+st,mi-er` ! `fi.mi.er` E
+* *mich* → `m.i` E (?) (V)
+* *million* → `''`
+ * : *million*är → `''.är`
+ * : *million*en → `''.en`
+ * : 5.*million*en → `5.''`
 * mir → `m.ir`
  * .***mir***. → `.ir`
 * -*miss*- → `ms` V
@@ -1196,6 +1238,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : *mitt* → `M` V
     * *mittel* → `-t-l`
        * : nahr*ung*s*mittel* → `n.ar-UNG,-t-l`
+       * : *un**mittel***bar** → `UN-t-l.bar` ? !.! `UN-bar`
 * *mitt* → `M`
  * : e*mitt*ier → `.e-M.ir` ! `.e-m.it.ir`
  * : *kom**pro**mitt*ier → `kom.o-M.ir` !!! `kom-p.it.ir`
@@ -1286,7 +1329,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : an*ge****nomm***en → `.an.om`
     * : *auf**ge****nomm***en → `AU.om`
     * : *vor**ge****nomm***en → `O.om`
-
+* **neu** → `neu`
 * *nicht* → `-t` V
 * *nieder* → `n-d-er` V
  * *niedr* → `n-d-er` V
@@ -1353,8 +1396,11 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * phon → `f.on`
  * : phonetik → `f.on.ik`
  * : phonet**isch** → `f.on.i`
- * -***phon***- → `.on`
-    * : grammo***phon*** → `gr.am.on`
+ * -**ph**on- → `f`
+    * : grammo**ph**on → `gr.am.f` !!! `gr.am.on`
+    * : **tele****f**on → `t.f`
+    * : **tele****f**onat → `t.f.at`
+    * : **tele****f**on**isch** → `t.f.i`
 * phras → `fr.as`
 * **phys** → `fy`
  * : **phys****isch** → `fy.i` ! `f.ys.i`
@@ -1623,6 +1669,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : präsid*ent* → `pre.sid.eNT`
     * *präsident* → `pr`
 * *sie* → `sI` V
+* *siedel* → `s.i-l`
 * *sind* → `;IN` V → `;I`
  * .*sind*. → `-I`
     * : *wir*.*sind* → `wr-I`
@@ -1719,6 +1766,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * **stadt** → `stadt`
 * **stall** → `sta`
  * : *in***stall***ion* → `IN.sta*` ! `IN.sta.iO`
+* stamm → `st.am`
 * *stand* → `.and`
 * **statt** → `sta`
  * : ***stätt*** → `.ät` ≠ **städt**
@@ -1782,6 +1830,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * takt → `t.akt`
     * : **kon**takt → `ko.t.akt`
 * t**eil** → `:eil`
+* -**tele** → `t`
 * tend → `t.ed`
  * : tendenz → `t.ed.ez` E
  * **tens** → `t` E
@@ -2015,6 +2064,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * **wo** → `wo`
 * **wohn** → `wo`
  * : **wohn***ung* → `wo.UNG` !u! `wo-u`
+ * : *ge***wöhn***lich* → `G-wö.L` !!! `G-ö-L`
  * : *ver***wöhn**t → `E.wö-t`
 * *woll* → `:ol` V
  * *will* → `:l` V
@@ -2474,7 +2524,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `wr ;-t .e f er>str-t, d.sI ba dar-AU-u-Ü-ko.en.`
+* `wr ;-t .e f er>str-t, d.sI ba dar-AU,u-rÜ.ko.en.`
  * `er>str-t` ! `er>str;-t`
  * `dar-AU,u-rÜ.ko.en` !Ü! `dar-AU-u-Ü-ko.en`
 
@@ -2578,3 +2628,33 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `n.ah.e-Z` !!! `e>Z`
  * `bÜ-er.m.ei-er` !»! `bÜ-er;r` !!! `bÜ-er-er`
 
+### Fremdwörter und Namen — § 19/1 a
+
+* `.e-i° gÜ.i, w bÜ.o-kr.e ;gra.ir.kö.`
+
+#### Besuchen Sie unser Maklerbüro in Düsseldorf
+
+* `.um.ug .U.es m.ak-er-Ü.o v mÜ.en ach dÜ.o.` (?)
+
+### Anlautkürzungen mit u — § 14/1 f
+
+* `I l.ekt-ür.e .iS-es bu :ar UN.G-wö.L I>t-er.aNT.`
+ * `UN.G-wö.L` !!! `UN.G-ö-L`
+ * `I>t-er.aNT` !«! `I>t-er.ess.aNT`
+
+#### Wir sind in allen Bundesländern vertreten
+
+* `f.ir.e .an.fra ;I<wr .in.en s.bar.`
+
+### Anlautkürzungen mit au (äu), eu — § 14/1 f
+
+* `I mÜ-en.er brau.er.ei.en G-hö Z-U.en st.am,ku.en.`
+
+#### Der Neubau ist Ende August fertiggestellt
+
+* `UN.bar ach.m t.f.at M frau bau-er ha.wr .U M.m m.agd.e-bu-er m.ak-er-Ü.o I>E.s, .um n.äh.es Ü.n neu.bau I>r s.i-l-UNG .am neu ;kt Z-er.fa.`
+ * `UN-t-l.bar` !.! `UN-bar`
+ * `bau-er` ! `bau.er`
+ * `M.m m.agd.e-bu-er` ! `M.m m.agd.e-bu.er`
+ * `m.ak-er.bÜ.o` !!! `m.ak-er-Ü.o`
+ * `I>E,bi.s` !! `I>E.s`
