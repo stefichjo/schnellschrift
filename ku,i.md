@@ -610,7 +610,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : format → `f.om.at` E
  * : formulier → `f.om.ul.ir` E
  * form → `f.om`
-    * : *in*format*ion* → `IN.f.om-O` ! `IN.f.om.iO` E
+    * : *in*format*ion* → `IN.f.om-o` ! `IN.f.om.iO` E
     * ***form*** → `.om`
        * : ***form***at → `.om.at`
        * : ***form***at*ion* → `.om-o`
@@ -1218,18 +1218,21 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : **minist**er → `mi-er` ! `mi.er` E
     * .ministe**r**. → `;r`
        * : de**r**.ministe**r** → `;r;r`
- * : **minist**erien → `mi-er.I.en` ! `mi.er.I.en` E
- * : **minist**erium → `mi-er.I.um`
+ * : **minist**er*ial* → `mi-er.I.en` ! `mi.er.I.en` E
+ * : **minist**erien → `mi-er.iaL` !.! `mi.iaL` E
+ * : **minist**erium → `mi-er.I.um` E
     * *ministerium* → `mi.um` E
        * *aussen**ministerium* → `.auss.mi.um` !! `.auss.um`
  * : **minist**erial → `mi-er.iaL` !.! `mi.iaL` E
  * : **finanz****minist**er → `fi.mi-er` ! `fi.mi.er` E
  * : *justiz***minist**er → `ju+st,mi-er` ! `fi.mi.er` E
 * *mich* → `m.i` E (?) (V)
-* *million* → `''`
- * : *million*är → `''.är`
- * : *million*en → `''.en`
- * : 5.*million*en → `5.''`
+* *million* → `;I;I`
+ * : *million*är → `;I;I.är`
+ * : *million*en → `;I;I.en`
+ * : 5.*million*en → `5:I;I`
+* *minder* → `m.i-er`
+* *mindest* → `m.i-eS`
 * mir → `m.ir`
  * .***mir***. → `.ir`
 * -*miss*- → `ms` V
@@ -1238,7 +1241,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : *mitt* → `M` V
     * *mittel* → `-t-l`
        * : nahr*ung*s*mittel* → `n.ar-UNG,-t-l`
-       * : *un**mittel***bar** → `UN-t-l.bar` ? !.! `UN-bar`
+       * : *un**mittel***bar** → `UN-t-l.bar` !! `UN-bar`
 * *mitt* → `M`
  * : e*mitt*ier → `.e-M.ir` ! `.e-m.it.ir`
  * : *kom**pro**mitt*ier → `kom.o-M.ir` !!! `kom-p.it.ir`
@@ -1256,26 +1259,41 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : mobilisier → `m.ob.ir`
  * : mobilität → `m.ob.ät`
  * : automobil → `.aut.m.ob.il` !! `.aut.il` E
-* ***mög*** → `.ög`
+* ***mög*** → `.ög` E
  * : ***mög****lich* → `.ög.L`
-    * mög**lich** → `;L`
-       * : *un*mög**lich** → `UN-L`
- * ***mag*** → `.ag`
- * ***mocht*** → `.ocht`
-* mon**at** → `:at`
-* **morg** → `mo`
+    * mög**lich** → `;L` E
+       * : *er*mög**lich** → `er.L` E
+       * : *un*mög**lich** → `UN-L` E
+ * ***mag*** → `.ag` E
+ * ***mocht*** → `.ocht` E
+* mon**at** → `:at` E
+ * mon**at***lich* → `:at.L` E
+* -*mono*- → `m.o` (?)
+* mont → `m.ot`
+ * : montage → `m.ot.asch.e` E
+ * : montier → `m.ot.ir` E
+ * : montör → `m.ot.ör` E
+* **morg** → `mo` ! `m.og` E
+* mot → `m.ot` (?)
+ * : motor → `m.ot.or` !«! `m.ot` E
 * *mus* → `mu`
  * : *mus*e → `mu.e` ! `m.us.e`
  * : *mus*eum → `mu.um` ! `m.us.um` !«! `m.us`
  * : *mus*ik → `mu.ik`
  * : *mus*izier → `mu.iz.ir`
  * : *mus*ik*ant* → `mu.ik.aNT` !ik! `mu.aNT`
-* *müss* → `yss`
- * .*müss*. → `.Yss`
-    * : *wir*.*müss* → `wr.Yss`
- * *muss* → `.uss`
-* ***nach*** → `ach`
- * ***näch***st → `echst`
+* *müss* → `yss` E
+ * .*müss*. → `.Yss` E
+    * : *ihr*.*müss* → `.ir yss` E
+    * : *sie*.*müss* → `sI.Yss` E
+    * : *wir*.*müss* → `wr.Yss` E
+ * *muss* → `.uss` E
+    * : *du*.*muss*t → `D.uss` E
+* ***nach*** → `ach` E
+ * : ***nach*****bar** → `ach.bar` E
+ * ***näch***st → `echst` E
+    * : de**m*****näch***st → `;m<echst`
+    * : *zu****näch***st → `Z-echst` !?! `Z.n`
     * näch**st** → `;-st`
        * : de**m**näch**st** → `;m-st`
 * ***nacht*** → `acht`
@@ -1295,6 +1313,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * *namhaft* → `n.am.ha`
  * : ***näm****lich* → `.äm.L`
  * namen**t** → `;-t`
+* nat**ur** → `;UR` E
+ * nat**ür** → `;YR.L` E
 * ***nehm*** → `.em` !!! `n`
  * : *ge***nehm** → `G-em` !!! `G-n`
  * : an*ge***nehm** → `.an.G-em` !«! `.an.G` E
@@ -1420,6 +1440,8 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *kom****pl****ex* → `kom-pl` !!! `ko>ex`
 * po → `p.o`
  * : poesie → `p.o-es.I`
+* pol → `p.ol` (?)
+ * : *mono*pol → `m.o-p.ol` E
 * poli**t** → `;-t`
  * poli**t**ik → `;-t.ik` !!! `-tik`
  * poli**tisch** → `;t.i`
@@ -2652,9 +2674,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Der Neubau ist Ende August fertiggestellt
 
-* `UN.bar ach.m t.f.at M frau bau-er ha.wr .U M.m m.agd.e-bu-er m.ak-er-Ü.o I>E.s, .um n.äh.es Ü.n neu.bau I>r s.i-l-UNG .am neu ;kt Z-er.fa.`
- * `UN-t-l.bar` !.! `UN-bar`
+* `UN-t-l.bar ach.m t.f.at M frau bau-er ha.wr .U M.m m.agd.e-bu-er m.ak-er-Ü.o I>E,bi.s, .um n.äh.es Ü.n neu.bau I>r s.i-l-UNG .am neu ;kt Z-er.fa.`
+ * `UN-t-l.bar` !! `UN-bar`
  * `bau-er` ! `bau.er`
- * `M.m m.agd.e-bu-er` ! `M.m m.agd.e-bu.er`
+ * `m.agd.e-bu-er` ! `m.agd.e-bu.er`
  * `m.ak-er.bÜ.o` !!! `m.ak-er-Ü.o`
  * `I>E,bi.s` !! `I>E.s`
