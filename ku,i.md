@@ -479,10 +479,10 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *ge****f****ähr*d → `G-f-d`
     * : *ge****f****ähr*t → `G-f-t`
     * : *unge****f****ähr* → `UN.G-f` !«! `UN.G`
-* ***f****uhr* → `fu`
- * : *aus****f****uhr* → `.S.fu` E
- * : ein***f****uhr* → `N.fu`
- * : ***f****uhr*e → fu.e
+ * ***f****uhr* → `fu`
+    * : *aus****f****uhr* → `.S.fu` E
+    * : ein***f****uhr* → `N.fu`
+    * : ***f****uhr*e → fu.e
 * **fall** → `fa` E
  * : **fäll****ig*****keit*** → `f.i-T` E
  * : **fall**s → `fa-s`
@@ -490,7 +490,6 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * **fiel** → `fi` ! `f.i` E
 * falsch → `f.asch` E
 * falt → `fat` E
- * : *
  * -fält**ig**- → `fet-ig` !!! `f.i`
     * : *sorg*fält**ig** → `s.o.fet-ig` ! `s.og.fet-ig` E !o! `o<fet-ig` !!! `o<f.i`
     * : *ver**viel*fält**ig** → `E.il<fet-ig` !!! `E.il<f.i`
@@ -1321,6 +1320,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * *namhaft* → `n.am.ha`
  * : ***näm****lich* → `.äm.L`
  * namen**t** → `;-t`
+* *nation* → `I>;O`
 * nat**ur** → `;UR` E
  * nat**ür** → `;YR.L` E
 * neg → `n.eg`
@@ -1409,11 +1409,6 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * ört*lich* → `.öt.L` E
  * *er*örter → `er.öt-er` E
 * *österreich* → `.ö` E
-* **pass** → `pass`
-* pati → `p.az`
- * : pati*ent* → `p.az.eNT`
- * **pass** → `pass`
-    * : **pass***ion* → `pass-o`
 * pand → `p.ad`
  * **pans** → `pas`
     * : **ex****pans***ion* → `.e-pas-o`
@@ -1436,11 +1431,16 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *parlamentar*ier → `PAR.er` ! `PAR.ar-er`
     * : *parlamentar***isch** → `PAR.i`
 * *partei* → `pa-ei` E
-* -**p**er- → `p`
+* **pass** → `pass`
 * **p**at → `p`
  * : *kom***p**atibel → `kom-p.ib.l`
  * : *kom***p**atibilität → `kom-p.ib.ät`
+* pati → `p.az`
+ * : pati*ent* → `p.az.eNT`
+ * **pass** → `pass`
+    * : **pass***ion* → `pass-o`
 * pension → `p.eS.iO` E
+* -**p**er- → `p`
 * **per**son → `p` E
  * **per**sön*lich* → `p.L` E
 * ***pflicht*** → `.icht` ≠ ? E
@@ -1481,25 +1481,32 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * poli**t** → `;-t`
  * poli**t**ik → `;-t.ik` !!! `-tik` ! `p.ol.ik` E
  * poli**tisch** → `;t.i` ! `p.ol.i` E
+* poliz → `p.ol.iz` !«! `p.ol` E
+ * polizei → `p.ol.iz.ei` !«! `p.ol.ei` E
+ * polizist → `p.ol.iz.ei` !«! `p.ol.ei` E
 * ***pon*** → `.on` ≠ ?
  * : de***pon***ier → `d.e-on.ir` ! `d.e>p.on.ir`
  * : *dis****pon***ier → `ds.on.ir`
  * : **trans*****pon***ier → `tra.on.ir`
  * **pos** → `pos`
     * : **pos**it*ion* → `pos-o` ! `p.os.iO` !«! `p.os`
-    * : **pos**itiv → `pos.iv` !-! `po.iv`
+    * : **pos**itiv → `pos.iv` ! `p.os.iv` E !-! `po.iv`
     * : *dis***pos**it*ion* → `ds>pos-o` !!! `ds.os.iO` ! `ds.os`
+* *porto* → `p.ot` E
 * *post* → `po`
  * : *post*ier → `po.ir`
  * : *post*ulat → `po.ul.at` ! `p.o+st.ul.at` !.! `p.o+st.at`
  * : *post*ulier → `po.ul.ir`
  * *pot* → `p.o`
     * : de*pot* → `d.e>p.o`
+* präm → `pr.äm`
+ * prämie → `pr.äm.e` E
+ * prämien → `pr.äm.I.en` E
 * **prax** → `pra`
- * : **prax**is → `pra.is`
+ * : **prax**is → `pra.is` E
  * **prakt** → `pra`
     * : **prakt**izier → `pra.iz.ir`
-    * : **prakt****isch** → `pra.i`
+    * : **prakt****isch** → `pra.i` E
     * : **prakt**iker → `pra.ik-er`
  * pragm → `pr.agm`
     * : pragmat**isch** → `pr.agm.i`
@@ -1730,8 +1737,10 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
     * : *vor*s**i**cht → `O-i`
     * : *zu**ver*s**i**cht → `Z-E-i`
 * sid → `s.id` ?
- * : präsid*ent* → `pre.sid.eNT`
-    * *präsident* → `pr`
+ * präsid → `pr.s.id`
+    * **prä**sid → `pr`
+       * **prä**sid*ent* → `pr.eNT` !«! `pr` E
+       * **prä**sidium → `pr.um` E
 * *sie* → `sI` V
 * *siedel* → `s.i-l`
 * *sind* → `;IN` V → `;I`
@@ -1892,6 +1901,9 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * : tang*ent*e → `t.ang.eNT.e` ! `t.ang.ent.e`
  * takt → `t.akt`
     * : **kon**takt → `ko.t.akt`
+* tech**n** → `;n`
+ * : tech**n**ik → `;n.ik`
+ * : tech**n****isch** → `;n.isch`
 * t**eil** → `:eil`
 * -**tele** → `t`
 * tend → `t.ed`
@@ -2194,6 +2206,7 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
  * *zirkul* → `z.ik`
     * : *zirkul*ier → `z.ik.ir`
     * : *zirkul*ation → `z.ik.iO`
+* *zivil* → `I>;l`
 * *zu* → `Z` V
  * nahe*zu* → `n.ah.e-Z` !!! `e>Z`
 * **z**um → `z` V
