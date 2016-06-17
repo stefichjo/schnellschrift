@@ -106,8 +106,7 @@
  * **bünd** → `bü` E
 * ***b****is* → `bi` V
 * bist ← sein
-* bitt → `b.it`
- * *bitt* → `.it` E
+* bitt → `b.it` !!! `.it` E
  * bat → `b.at` E
  * bet → `b.et` E
 * **blatt** → `bla`
