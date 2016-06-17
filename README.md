@@ -1,4 +1,4 @@
-# Steno
+# Schnellschrift
 
 Dehnungs-*h* wird vor der Endung *t* ausgestoßen. *ch* wird mit der Endung *t* verschmolzen.
 * sieh → `s.ih`
