@@ -2068,10 +2068,6 @@
  * wärt → `wet` E
 * **was** → `was`
 * **wass**er → `was-er` ! `w.ass.er` !«! `w.ass` E
-* ***weis*** → `.eis` ≠ -**weich**-
- * be***weis*** → `b.e-eis`
- * ***wies*** `.is` ! `w.is`
-    * : *ge****wies***en `G-is`
 * *wechsel* → `wes.l` E
  * -*wechsel*- → `s.l`
     * : *aus**wechsel* → `.S-s.l` !?! `.S.S.l`
@@ -2081,9 +2077,11 @@
  * -**weg**- → `w`
     * : **k**eines**weg**s → `k.w-s` !«! `k.w`
 * weiger → `w.eig-er` E
-* w**eis** → `:eis` E
- * w**ies** → `.is` ! `w.is` E
+* w**eis** → `:eis` E ≠ -**weich**-
+ * : be***weis*** → `b.e-eis`
+ * w**ies** → `:is` ! `w.is` E
     * : bew**ies** → `b.e-is` E
+    * : *ge*w**ies**en `G-is`
 * weit → `w.T`
  * *weiter* → `T-er`
     * : *und*.*so*.~~weiter~~ → `&.o` V
