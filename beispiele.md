@@ -613,3 +613,6 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `G-Ür.en ;I g.ed.l.ei-en f.I I>.an.uch.am.e v .ö-L di.l.ei-en.`
  * `I>.an.uch.am.e` !u! `I>.an,u.am.e` !! `I>.an,u.e`
 
+### Wechsel zwischen Anlaut- und Auslautkürzung ­— §§ 14/1 a, 14/1 d, 15/1 a
+
+* `I.uss :an ;n b.e-eis er,bri.`
