@@ -135,6 +135,22 @@
 * **brief** → `bri`
 * *bühr* → `-Ür` !=! `.ür`
  * : *ge**bühr* → `G-Ür`
+* **bring** → `bri`
+ * : an**bring** → `.an,bri` !!! `.an.ing`
+ * : *aus***bring** → `.S,bri` !!! `.S.ing`
+ * : bei**bring** → `b.ei,bri` !!! `b.ei-ing`
+ * : *er***bring** → `er,bri`
+ * : **ü**ber**bring** → `Ü,bri` !!! `Ü.ing`
+ * : *un**wieder***bring***lich* → `UN.W,bri.L` !!! `UN.W.ing.L`
+ * : *ver***bring** → `E,bri` !!! `E.ing`
+ * **bracht** → `bra`
+    * : an*ge***bracht** → `.an>bra`
+    * : bei*ge***bracht** → `b.ei>bra`
+    * : *er***bracht** → `er>bra`
+    * : **ü**ber**bracht** → `Ü.bra`
+    * : *un*an*ge***bracht** → `UN-an.bra`
+    * : *ver***bracht** → `E>bra`
+ * **brächt** → `brä`
 * **bunt** → `but` E
 * **burg** → `bu` ! `b.ug` E
  * : **bürg**er → `bÜ-er` ! `b.üg-er` E
@@ -151,14 +167,12 @@
  * -**da**- → `da` V
 * dach → `d.ach`
  : dächer → `d.ech-er`
-* dacht → `d.acht` E
- * dächt → `d.echt` E
+* dacht ← denk
 * dam → `d.am`
  * : dame → `d.am.e`
  * .**dam**. → `da`
-* dank → `d.ak` E
- * dank**bar** → `;bar`
-    * : **sehr**.dank**bar** → `s.bar`
+* dank ← denk
+* d**ann** → `:an`
 * **dar** → `dar` V
 * **d**as → `d` V
 * **dat** → `da`
@@ -175,7 +189,11 @@
 * *demokrat* → `d.at` E
 * de**n** → `;n` V
 * denk → `d.ek` E
+ * dacht → `d.acht` E
+    * dächt → `d.echt` E
  * dank → `d.ak` E
+    * dank**bar** → `;bar`
+       * : **sehr**.dank**bar** → `s.bar`
 * dens → `des`
  * : **kon**densier → `ko.des.ir`
  * : **kon**densat → `ko.des.at`
@@ -439,11 +457,12 @@
 * ***flieh*** → `.ih` ≠ **fließ** !!! `fli`
  * : *ent****flieh*** → `eNT.ih`
  * ***floh*** → `.oh` ≠ **floss**
+ * **flucht** → `.ucht`
 * **fließ** → `fli`
  * **floss** → `flo`
  * **fluss** → `flu`
  * **flüss** `flÜ` !!! `.üss`
-* **flucht** → `.ucht`
+* flucht ← flieh
 * **folg** → `fo` E
  * : *in***folg** → `IN.fo` !!! → `IN.o`
 * *forder* → `F` E
@@ -585,6 +604,10 @@
 * **gl**eich → `gl` E
 * ***glied*** → `.id` ≠ ?
 * ***glück*** → `.ük` ≠ ? E
+* **gönn** → `gö`
+ * **gunst** → `gu` E
+    * **günst** → `gÜ` E
+       * : **günst**ig → `gÜ.i`
 * ***grad*** → `.ad` ≠ **graph**
  * -**gress**- → `gr`
     * : **kon****gress** → `ko>gr`
@@ -616,9 +639,7 @@
 * **gr**oß → `gr` ≠ **grob** E
  * : **größ**e → `grö.e` E
 * **grund** → `gru` E
-* **gunst** → `gu` E
- * **günst** → `gÜ` E
-    * : **günst**ig → `gÜ.i`
+* gunst ← gönn
 * **hab** → `ha` V
  * .h**a**b. → `a`
     * : *ich*.h**a**b → `.I-a`
@@ -843,6 +864,9 @@
  * : *will***komm**en → `;l.ko`
  * **kömm** → `kö` E
  * **kam** → `ka` ! `k.am`
+ * **kunft** → `ku`
+    * : *zu***kunft** → `Z-ku`
+    * : *zu***künft****ig** → `Z-kÜ.i`
 * **kol**loquium → `ko.oqu.um` !«! `ko.oqu`
 * *kommun* → `ko-u` E
  * : *kommun*al → `ko-u.al` E
@@ -858,6 +882,8 @@
     * : **k**annst → `k` V
  * **konn** → `ko` V
     *konnt* → `k` V
+ * kunst → `kust` E
+    * *künst* → `kYst` E
 * -**konter**- → `ko-t-er`
 * **konto** → `ko` E
  * **skonto** → `sko` E
@@ -891,8 +917,8 @@
  * kultur → `kut-UR` !u! `u-UR` E
 * **kund** → `ku` ! `k.ud`
  * : **kund**e → `ku.e`
-* kunst → `kust` E
- * *künst* → `kYst` E
+* kunft ← komm
+* kunst ← könn
 * **k**ur → `k` ! `k.ur`
  * : pr**o****k**urist → `o>k.ist` E
 * **kurr** → `ku`
@@ -983,6 +1009,7 @@
  * luxuriös → `l.ux.UR.ös` !.! `l.ux.ös` E
 * **mach** → `ma` E
  * : *macht* → `aCHT`
+* macht ← mög
 * *makler* → `m.ak-er`
 * mal → `m.al` E
  * -**mal**- → `ma` E
@@ -1115,6 +1142,7 @@
  * : mobilisier → `m.ob.ir`
  * : mobilität → `m.ob.ät`
  * : automobil → `.aut.m.ob.il` !! `.aut.il` E
+* mocht ← mög
 * ***mög*** → `.ög` E
  * : ***mög****lich* → `.ög.L`
     * mög**lich** → `;L` E
@@ -1122,6 +1150,7 @@
        * : *un*mög**lich** → `UN-L` E
  * ***mag*** → `.ag` E
  * ***mocht*** → `.ocht` E
+ * *macht* → `aCHT`
 * mon**at** → `:at` E
  * mon**at***lich* → `:at.L` E
 * -mono- → `m.on` ! `m.on.o` E
@@ -1523,6 +1552,8 @@
  * ***schieh*** → `.ih`
  * ***schah*** → `.ah`
  * ***schäh*** → `.äh`
+ * ***schicht*** → `.icht`
+    * : *ge****schicht***e → `G-icht.e`
 * ***scheid*** → `.eid` ≠ ?
  * ***schied*** → `.id` ! `sch.id`
     * : ab***schied*** → `.ab.id`
@@ -1536,6 +1567,7 @@
  * : ***w****ahr****schein****lich* → `wa.N.L`
  * ***schien*** → `.in`
     * : *er****schien*** → `er.in`
+* schicht ← scheh
 * ***schick*** → `.ik` ≠ ?
 * schirm → `sch.im`
 * schlaf → `schl.af`
@@ -1571,6 +1603,15 @@
 * seh → `s.eh`
  * sieh → `s.ih`
  * sah → `s.ah`
+ * ***sicht*** → `.icht` E ! `s.icht`
+    * ab***sicht*** → `.ab.icht` !i! `.ab-i`
+    * **an*****sicht*** → `.an.icht`
+    * *auf****sicht*** → `AU.icht` !i! `AU-i`
+    * **ge*****sicht*** → `G-icht` !i! `G,i` !«! `G`
+    * *hin****sicht*** → `hn.icht` !i! `hn-i` !«! `hn`
+    * : **rück*****sicht*** → `rÜ.icht` !i! `rÜ-i` !«! `rÜ`
+    * : *vor****sicht*** → `O.icht` !i! `O-i`
+    * : *zu**ver****sicht*** → `Z-E.icht` !i! `Z-E-i`
 * **sehr** → `s` E
 * s**ein** → `;N` E
  * **bin** → `bi`
@@ -1628,22 +1669,21 @@
     * -*versicherung*- → `E`
        * : lebens*versicherung* → `l.eb.E`
        * : ***haus*****rat***versicherung* → `.aus.ra.E.s.i-er-UNG` !«! `.aus.ra.E`
-* sicht → `s.icht`
- * -***sicht***- → `.icht` E
-    * ab***sicht*** → `.ab.icht` !i! `.ab-i`
-    * **an*****sicht*** → `.an.icht`
-    * *auf****sicht*** → `AU.icht` !i! `AU-i`
-    * **ge*****sicht*** → `G-icht` !i! `G,i` !«! `G`
-    * *hin****sicht*** → `hn.icht` !i! `hn-i` !«! `hn`
-    * : **rück*****sicht*** → `rÜ.icht` !i! `rÜ-i` !«! `rÜ`
-    * : *vor****sicht*** → `O.icht` !i! `O-i`
-    * : *zu**ver****sicht*** → `Z-E.icht` !i! `Z-E-i`
+* sicht ← seh
 * sid → `s.id` ?
  * präsid → `pr.s.id`
     * **prä**sid → `pr`
        * **prä**sid*ent* → `pr.eNT` !«! `pr` E
        * **prä**sidium → `pr.um` E
 * *sie* → `sI` V
+* siech → `s.ich`
+ * **sucht** → su
+    * -s**u**cht- → `u`
+       * bleichs**u**cht → `bl.eich,u`
+    * : **sücht** → `sÜ` !=! `s.ücht`
+       * -s**ü**cht- → `ü`
+          * bleichs**ü**cht**ig** → `bl.eich-Ü.i`
+          * eigens**ü**cht**ig** → `.eig-Ü.i` ≠ eigen**nütz****ig** ! `.eig.ücht.i`
 * *siedel* → `s.i-l`
 * sind ← sein
 * (sist) → `s.i+st`
@@ -1808,6 +1848,7 @@
 * **stütz** → `stÜ` E
 * **such** → `su`
  * : be**such** → `b.e-su` !=! `be-su`
+* sucht ← siech
 * **sul** → `su`
  * : **kon****sul** → `ko-su`
  * **sult** → `sut`
@@ -2028,6 +2069,7 @@
 * **was** → `was`
 * **wass**er → `was-er` ! `w.ass.er` !«! `w.ass` E
 * ***weis*** → `.eis` ≠ -**weich**-
+ * be***weis*** → `b.e-eis`
  * ***wies*** `.is` ! `w.is`
     * : *ge****wies***en `G-is`
 * *wechsel* → `wes.l` E
@@ -2210,9 +2252,11 @@
     * : *zirkul*ier → `z.ik.ir`
     * : *zirkul*ation → `z.ik.iO`
 * *zivil* → `I>;l`
+* zog ← zieh
 * *zu* → `Z` V
  * nahe*zu* → `n.ah.e-Z` !!! `e>Z`
  * **z**um → `z` V
  * *zur* → `zr*` V
+* zug ← zieh
 * **zw**ischen → `zw` V
 
