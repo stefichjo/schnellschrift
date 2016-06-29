@@ -10,7 +10,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Deutsche Wörter
 
-* `wr-I ber -G-a.e .am .emp-a .ir-er eNT.wÜ.e .auss.od.L I>t-er.ess.irt.`
+* `wr-I ber -G-a.e .am .emp.ang .ir-er eNT.wÜ.e .auss.od.L I>t-er.ess.irt.`
  * `.emp.ang` !a! `.emp-a`
  * `eNT.wÜ.e` !Ü! `eNT-Ü.e`
  * `.auss.od.L` !! `.auss.L`
@@ -31,7 +31,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Anlautkürzungen mit e (I) — § 14/1 a
 
-* `.I -G-a.ir .ei p.L.e b.e-m.ek.`
+* `.I G-sta.ir .ei p.L.e b.e-m.ek.`
+ * `G-sta.ir` !a! `-G-a.ir`
  * `b.e-m.ek` !!! `b.e-m`
 
 #### Engere Kontakte erwünscht
@@ -131,8 +132,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `wr-a g.est-ed I>u-er-er f.am Ü.I bi>h.i :el-UNG ds-u.irt.`
- * `r.l-UNG` !!! `:el-UNG`
+* `wr-a g.est-ed I>u-er-er f.am Ü.I bi>h.i :l-UNG ds-u.irt.`
+ * `r.l-UNG` !!! `:l-UNG`
 * `.I-au, .I-a I eNT,wi.l .auch-t .an.n.äh.d ri.i N.sch.` ?
  * `eNT,wi.l` !i! `eNT-i`
  * `.an.n.äh.d` !!! `.an;r.d`
@@ -207,7 +208,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `.an.n.äh.d` !!! `.an;r.d`
  * `E-t-lt-t` ! `E-t-lt t`
 * `I>r b.ei,li-ed AU.st* ;I .U.e r.am-o.en .im.N.l AU-Ürt.`
-* `wr-I.N, d .U.e b.st* M-r .ei-es .ad-er.en .ei-h-er E.wes.lt-O.i°.`
+* `wr-I.N, d .U.e b.st* M-r .ei-es .ad-er.en .ei-h.l-er E.wes.lt-O.i°.`
+ * `.ei-h.l-er` !! `.ei-h-er`
  * `E.wes.lt-O.i°` !-! `E-s.lt-O.i°`
 * `da.h b.it.wr.sI, .ir.en fra.fru M.T-er .an.z.eis, CH I ga.e s.ed I>u-er-er la-er.ha.e .an.z.s.eh.`
  * `da.h` !!! `.a-h`
@@ -218,7 +220,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `.im.al.G.N w-ir .iS-es fa teg.L G-l.ert.`
+* `.im.al.G.N ;wr .iS-es fa teg.L G-l.ert.`
  * `.im.al.G.N` !a! `.im.a-G.N` !«! `.im.a-G`
 
 #### Besuchen Sie unsere Ausstellung
@@ -317,10 +319,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Zwei IHK-Arbeitsgemeinschaften
 
-* `f.ir I>t-er.ess.e .an T-s.N.FT.en u-er-er .I.ha.ka d.ak.wr,i.`
+* `f.ir I>t-er.ess.e .an Ts.N.FT.en u-er-er .I.ha.ka d.ak.wr,i.`
  * `I>t-er.ess.e` !«! `I>t-er`
  * `d.ak.wr,i` ! `d.ak.wr .in.en`
- * `T-s.N.FT.en` !«! `T-s.N.en`
+ * `Ts.N.FT.en` !«! `Ts.N.en`
 
 ### Formkürzungen auf Vorsilbe sowie Vor- und Schlusssilben — § 18/1
 
@@ -358,8 +360,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `.I-a I kat,blü.i-T .iS-es ko-ms.ar sch frÜ-er b.e-wu-ert.`
- * `kat,blü.i-T` !Ü! `kat-Ü.i-T`
+* `.I-a I kat,blü.T .iS-es ko-ms.ar sch frÜ-er b.e-wu-ert.`
+ * `kat,blü.T` !Ü! `kat-Ü.T`
  * `ko-ms.ar` !i! `ko-i.ar`
  * `sch frÜ-er` !Ü! `sch-Ü-er`
 
@@ -466,8 +468,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `I ;-t.ik-er ha Z-ei-er gr.üg.i sp.ed-t-iO AU.F-t.`
- * `I ;-t.ik-er` !!! `I-t-ik-er`
+* `I ;-tik-er ha Z-ei-er gr.üg.i sp.ed-t-iO AU.F-t.`
+ * `I ;-tik-er` !!! `I-tik-er`
  * `gr.üg.i` !Ü! `gr-Ü.i`
 
 ### Andere Fremdwörter mit Aufstrich-t — § 19/3; -ent und -ant in Fremdwörtern — § 20/5
@@ -508,7 +510,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wir sind in allen Bundesländern vertreten
 
-* `f.ir.e .an.fra ;I<wr .in.en s.bar.`
+* `f.ir.e .an.fra ;I<wr,i s.bar.`
+ * `;I<wr,i` ! `;I<wr .in.en`
 
 ### Anlautkürzungen mit au (äu), eu — § 14/1 f
 
@@ -527,16 +530,18 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wortfamilie treiben
 
-* `f sch.e AU.en i N st.ak-er .an>tr.i dri<o<w.i.`
+* `f schw.e AU.ab.en i N st.ak-er .an>tr.i dri.ed .ot.w.i.`
+ * `AU.ab.en` !! `AU.en`
+ * `dri.ed .ot.w.i` !!! `dri.ed o>w.i` !! `dri<o<w.i`
 
 #### Prospekte und Kataloge erhalten Sie zu unseren Selbstkosten
 
-* `s>G-da.h, f.ir.e .eund.L.T, .U .S.ür.L & schn Ü.I eNT,wi.l .ir.es UNTER;n w.ed-er let :at.e Z-b.e,ri, ;I<wr,i s.bar.`
+* `s>G-da.h, f.ir.e .eund.L.T, .U .S.ür.L & schn Ü.I eNT,wi.l .ir.es UNTER.em w.ed-er let :at.e Z-b.e,ri, ;I<wr,i s.bar.`
  * `.eund.L.T` !!! `eu-L.T`
  * `.S.ür.L` !ü! `.S-ü.L`
  * `eNT,wi.l` !i! `eNT-i`
- * `UNTER;n` !!! `UNTER.n`
- * `i` ! `.in.en`
+ * `UNTER.em` ! `UNTER.em.en` !! `UNTER.en`
+ * `;I<wr,i` ! `;I<wr .in.en`
 
 ### Die vokalische Anlautkürzung — § 14/2
 
@@ -557,7 +562,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `G-a.e .im.ö-L-l.eb ;I ga b°-i-t.e r.ln Z-b.e-acht.`
  * `b.e-imt.e` !!! `b°-i-t.e`
- * `r.ln` !!! `:eln`
+ * `r.ln` !!! `:ln`
 
 ### Weglassen von Vorlauten — § 20/1 a
 
@@ -567,7 +572,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Auslautkürzungen für Fremdwörter (I) — § 19/1 a
 
-* `UNTER o>ess E.st.wr Z-echst N G:i-L E.fa.`
+* `UNTER o>ess E.st.wr Z-echst N G,ri.L E.fa.`
  * `Z-echst` !?! `Z.n`
  * `G,ri.L` !i! `G,i-L` !?! `G:i-L`
 
@@ -616,3 +621,353 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 ### Wechsel zwischen Anlaut- und Auslautkürzung ­— §§ 14/1 a, 14/1 d, 15/1 a
 
 * `I.uss :an ;n b.e-eis er,bri.`
+
+#### Die Wissenschaftlichen Dienste
+
+* `PAR.M.id-er & ;r.en M.T-er kö I .um<ang.r.ei IN.om-o.en ;UR IN ko>zr.irt-er .om .S.wet.`
+ * `PAR.M.id-er` !i! `PAR,Mi-er`
+ * `.um<ang.r.ei` !! `.um.r.ei` !!! `.um<eich`
+
+### Auslautkürzungen mit ei (I) — § 15/1 a
+
+* `.eid.e pat-er ;I b.e-T, ;n O.ag AU.z.eif.`
+
+#### Gute IHK-Prüfungsergebnisse
+
+* `G-a.e ha I IN.ha.ka .ir.en b.e,ri Ü.I .is.i ;bst-Ü.UNG E.ö-L-t.`
+ * `.is<j.i` !! `.is.i`
+ * `;bst,prÜ.UNG` !Ü! `;bst-Ü.UNG`
+
+### Auslautkürzungen mit ei (II) — § 15/1 a
+
+* `.iS.e T.e i v.gr.b.e-deu.`
+ * `v.gr.b.e-deu` !?! `v.gr.b-eu-T`
+
+#### Von der Tarifhoheit
+
+* `I SS.pat-er ha d R, mat-el,ta.if.tr.e .ab.z.iss.` ...
+
+### Wir trainieren (VII)
+
+#### Wortfamilien besser und fließen
+
+* `wr b.e-mÜ .U .um .ei-en bes .um-t,u.`
+ * `bes` !!! `br*`
+ * `.um-t,uz` !u! `.um-t,u`
+
+#### Lieferungsbedingungen eines Elektronikunternehmens
+
+* `f.I I>r b.ei-Ü l.i AU-Ürt g.end.e l.ei-et ;r E.äuf-er G.w I>r.eis.e, d .äd.en .an.iS.en g.end.en, I .i-ha ;r G-w.l.ei,.ist G-m.ed ;w & AU w.ek.f-er u-rÜ.z-Ür ;I, ach.s.ei-er wa dr ach.bes-UNG .od-er er-sa.li-er-UNG UN.eNT.get-L b.e-T-igt-w.`
+ * `b.ei-Ü` !?! `b.ei-Ü-G`
+ * `G-w` ! `G-wä`
+
+#### Worfamilien tragen und treten
+
+* `;r .an>tra i .ab.l.ent.`
+ * `.an>tra` !«! `.an`
+ * `.ab.l.ent` !ge! `.ab.G`
+
+#### Vom Kaufvertrag
+
+* `;r .auf,E>tra i ;r I>r .au.m.i pra.is .am-m.ei O.ko.ed.e E>tra.`
+ * `.auf,E>tra` !! `.auf.tra`
+ * `E>tra` !a! `E-a`
+
+### Auslautkürzungen mit u — § 15/1 a
+
+* `.eif.l.os ha .ir M.T-er s.ei b.e-u-iss.e Ü.it.`
+ * `.eif.l.os` !! `.eif.os` !.! `.eif-s`
+
+#### VHS-Seminar "Gesunde Lebensführung"
+
+* `.im ;-st frÜ.ja b.e-g.i I hi.i V,ho.ul.e M.ei-em ;n.ar f G-und.e l.eb-Ür-UNG.`
+ * `frÜ.ja` !!! `frÜ.ar`
+ * `b.e-g.i` !!! `b.e-int`
+ * `V,ho.ul.e` !«! `V.ho`
+
+### Auslautkürzungen mit au, äu, eu — § 15/1 a
+
+* `N.fa.e er.äut-er.en G-üg I>.iS<fa.e -t.`
+
+#### Wortfamilie -stand
+
+* `M.iS.en O.äg.en :ar.en I m.ei GT.eut.e N.E.and.`
+ * `N.E.and` !«! `N.E`
+
+#### Von der Jugendhilfe
+
+* `d gr.e G-it ;r .ug.ed,hi.e .um.asst I b.e-r.ei.e .ug.ed,f-s.o & .ug.ed<pfl, .auch .ug.ed;T G-n.ant.`
+ * `.ug.ed,hi.e` !«! `.ug,hi.e`
+ * `b.e-r.ei.e` !!! `b.e-eich.e`
+ * `.ug.ed,f-s.o` !o! `.ug.ed,f,o` !Ü! `.ug.ed-Ü.o` !«! `.ug-Ü.o`
+ * `.ug.ed<pfl` !«! `.ug<pfl`
+ * `.ug.ed;T` !«! `.ug;T`
+
+### Selbstlautandeutung im benachbarten Wortteil — § 20/1 a
+
+* `s.I yss.CH-Ü.ar.N, d.wr ach-o .U.en and.pt M.al.eNT.id.H E>tr.`
+ * `yss.CH-Ü.ar.N` !a! `yss.CH-Ü.a-N`
+ * `ach.O` !o! `ach-o`
+ * `and.pt` !a! `a-pt`
+ * `M.al.eNT.id.H` !«! `M.al.eNT`
+
+#### Wer stellt die Tagesordnung auf?
+
+* `wr k.e MR.e .om.en ;r d.at.I.`
+
+### Auslautkürzungen auf der Oberlinie — § 15/1 b
+
+* `;r bra.bu.i la.eis .um.asst .e-w.a 40 G-Nd.en.`
+ * `.e-w.a` !!! `:a`
+ * `G-Nd.en` !!! `;Nd.en`
+
+#### Der Deutsche Sportbund
+
+* `;r ;sch.ot.bu i I d.ach.og.an.iO :es G-Sa.en :ot I:r bu:sch-a.`
+ * `d.ach.og.an.iO` !.! `d.ach.og.iO`
+
+### Weitere Verwendung der Durchkreuzung — §§ 14/1 a, 15/1 d, 20/1 a, 20/3
+
+#### Trainingssätze
+
+* `ach.m.ei-er Ü.eug ;wr .ei Ü>prÜ .iS-er GT.bÜ-er -ts Z.wÜ Ü.i l.ass.`
+ * `ach.m.ei-er Ü.eug` !! `ach.m.ei-er-Ü.eug` !«! `ach.m.ei-er-Ü`
+ * `.ei Ü>prÜ` !Ü! `.ei Ü-Ü` !! .ei-Ü-Ü
+ * `GT.bÜ-er` !Ü! `GT-Ü-er`
+ * `-ts Z.wÜ Ü.i l.ass` !! `-ts.wÜ Ü.i l.ass` !Ü! `-ts-Ü-Ü l.ass` !«! `-ts-Ü-Ü`
+
+#### Bücher bereichern unser Leben
+
+* `IN kau .ei-em .ad-er.en la ;w .o-il bÜ-er o>du.irt w.i I<r bu:sch-a.`
+
+### Auslautkürzungen ohne Anstrich — § 15/1 c
+
+* `wr.Yss ;n ampf g.I ko,ku.ez M b.e-arr.T T-er-Ür.`
+ * `ko,ku.ez` !u! `ko-u.ez`
+
+#### Wir erwarten einen annehmbaren Vorschlag
+
+* `s>G-da.h, ;r an.ass f.iS.eib i .al.es .ad-er.e .as er,eu-L.`
+ * `f.iS .eib` !! `f.iS.eib`
+
+### Fremde Schlußsilben mit i und u — § 19/4
+
+* `I b.e-ih.en Z .ad-er.en I>;O.en ;I IN I>;k.l 7 u-er-er .az* G-r.lt.`
+ * `I b.e-ih.en` → `I.ih.en`
+ * `I>;k.l 7` → `:l 7`
+
+### Doppelte Weite für o-o und o-ur — § 20/5
+
+* `.an.iS-er d.e-mo.iO ha.en NSCH.en .S E.id.en I>;O.en :eil.om.`
+ * `d.e-mo.iO` !!! `d.e-mo-o`
+
+#### Von der Konjunktur
+
+* `f.I E.äd-er ;r ko>j.ukt-UR .ibt .e .ei fÜ v UR-sa.en.`
+ * `ko>j.ukt-UR` !u! `ko,u-UR` !o! `o-u-UR`
+ * `.ei fÜ.e v` !Ü! `.ei-Ü-v`
+
+### Fremdwörterkürzung auf das Wortende — § 19/2 b
+
+#### Trainingssätze
+
+* `I ;sch.e .at;t.ek IN ;l.in .um.asst MR.e ;I;I.en b.e.`
+ * `b.e` ! `bä`
+
+#### Unbehagen oder Freude an moderner Technologie?
+
+* `I N.st* ;r NSCH* zr* ;n.ik & Z.ir.en N,flü.en & .S;k.en AU.I l.eb.E-t-iss.e & ;n l.eb.ard ha* s.T-NGR.T n.en-t E.äd-ert.`
+ * `l.eb.E-t-iss.e` !! `l.eb-t-iss.e`
+ * `l.eb.ard` !!! `l.ard`
+ * `n.en-t` ! `n.en;-t`
+
+### Fremdwörterkürzung auf den Wortanfang (I) — § 19/2 a
+
+* `I E.N.i MR-er UNTER.em h.ei f.us.iO.`
+ * `E.N.i` !! `E.i` ! `E.ig`
+ * `UNTER.em` ! `UNTER.em.en` !! `UNTER.en`
+ * `f.us.iO` → `f.us`
+
+#### Infrastruktur ist kein Schlagwort
+
+* `I>r T-UNG, .im l.ok.al.eil .eb.oft w.i .im FT.eil, i :er,i v IN.fra,u-UR Z.l.es.`
+ * `l.ok.al.eil` !! `l.ok.eil`
+* `IN.fra,u-UR i dr.S ;K .ag-o, S ;r ;m.in.us,t.en.ik.us f.ei-en wi.i l.eb-b.e-r.ei.`
+ * `;m.in.us,t.en.ik.us` !! `;m.in.us,.us`
+ * `l.eb-b.e-r.ei` !!! `l.eb-b.e-eich`
+
+### Fremdwörterkürzung auf den Wortanfang (II) — § 19/2 a
+
+* `wr k-t .al.e .an.ift.en ;m .adr.bu eNT.em.`
+ * `.an.ift.en` !i! `.an,i.en`
+ * `eNT.em` !!! `eNT;en`
+
+#### Aus der Arbeit eines Bundesministeriums
+
+* `d bu,mi-er.I.um f .ug.ed, f.am.e, frau.en & G-und.H ha .il.e AU.ab.en Z-er.fÜ.`
+ * `bu,mi-er.I.um` !! `bu.um`
+ * `.ug.ed` !«! `.ug` ! `j.ug`
+ * `f.am.e` E !«! `f.am`
+ * `G-und.H` !u! `u-H`
+ * `AU.ab.en` !! `AU.en`
+ * `Z-er.fÜ` ! `Z-er-Ü.en`
+
+### Anlautkürzungen für Fremdwörter mit Stammselbstlaut a — § 19/1 a
+
+* `AU-er E>trau,ba.is k ;r echt.an.wat bes M.m ma.aNT Z-sa;k.`
+ * `E>trau,ba.is` !au! `E-au,ba.is`
+ * `echt.an.wat` !«! `echt.an` !!! `R.an`
+ * `bes` !!! `br*`
+
+#### Entgegnung auf die Stellungnahme eines Anwalts
+
+* `.im.am & .im AU>tra :es h kut fi-er, :es.en I>t-er.ess.en .I E>tr, b.e>aNT.wot-I .ir.e st*.am.e w.i fo:`
+ * `.im.am` ! `.im.am.en` !! `.im.en`
+ * `.im AU<tra` !«! `.im<AU`
+ * `I>t-er.ess.en` !«! `I>t-er.en`
+ * `b.e>aNT.wot-I` !! `b.e>aNT.I`
+ * `st*.am.e` !!! `st*:e`
+
+### Anlautkürzungen für Fremdwörter mit Stammselbstlaut o (ö) — § 19/1 a
+
+* `ach.O ha I do-au,.if-fa-t gr.e b.e-deu.`
+ * `ach.O` !o! `ach-o`
+ * `b.e-deu` !?! `b-eu-T`
+
+#### Bundesstaat und Bundesländer
+
+* `I bu:sch-a i N d.at.ir & SS bu.at.`
+
+### Anlautkürzungen für Fremdwörter mit Stammselbstlaut u — § 19/1 a
+
+* `d br-o,G,wi ;U k.orr er-t-lt.`
+ * `bru-o,G,wi` !! `bru-o,wi`
+
+#### Was heißt Bruttosozialprodukt?
+
+* `Fa -teg.L .eib.en I T-UNG.en, d zr* Ü.w.id ;r ;Ts.os.T N st.äk-er FT.was-tum .ot.w.i :ei.`
+ * `;Ts.os.T` !!! `;l.os.T`
+ * `FT.was-tum` !«! `FT.was`
+ * `.ot.w.i` !!! `o>w.i`
+
+### Wir trainieren (IX)
+
+#### Wortfamilie lassen
+
+* `wr-a b.e-Ts E.an.asst, d,i .U.e zr-a.e MR.e neu dru.ift.en Z-ikt.`
+ * `b.e-Ts` !»! `Ts`
+ * `E.an.asst` !«! `E.an`
+ * `d,i` ! `d .in.en`
+ * `dru.ift.en` !i! `dru,i.en`
+
+#### Wir lösen Ihre Organisationsprobleme
+
+* `s>G-da.h, O,i li I neu-est .S.ab.e u-er-er .aus.T,.ift.`
+ * `.aus.T,.ift` !i! `.aus.T,i`
+
+### Anlautkürzungen für Fremdwörter mit Stammselbstlaut i (I) — § 19/1 a
+
+* `.ech-er di.om.at ;wr M-er chi.es.i .ab.od d.ir E.ha.l?`
+ * `d.i-r` !!! `di-t`
+ * `E.ha.l` !«! `E.ha`
+
+#### Kritisieren — aber richtig
+
+* `kri.ik,f.T ha -ts Z-tu M bes.iss.er.ei & r.e-sp.os.T.`
+ * `bes.iss.er.ei` !! `bes.iss.ei` !!! `br*.iss.ei`
+
+### Anlautkürzungen für Fremdwörter mit Stammselbstlaut i (II) — § 19/1 a
+
+* `wr-a M.m o>mi.eNT kri.ik-er Ü li.UR ds-u.irt.`
+ * `o>mi.eNT` !«! `o>mi`
+
+### Fremdwörterkürzung auf Wortanfang mit -ende (I) — § 19/2 c
+
+* `.iS-er .ab-UR.eNT .öcht.e .ach.i-t.ekt ;w.`
+ * `.ach.i-t.ekt` !.! `.ach.ekt`
+
+#### Neue Wege für mehr Information
+
+* `IN .il.en ds.z.in.en ha I .a-str.om.I v-er eNT,wi.l ;r .a-str.aut.ik o>f.it.irt.`
+ * `ds.z.in.en` !! `ds.in.en` !«! `ds.en`
+ * `eNT,wi.l` !i! `eNT-i`
+
+### Fremdwörterkürzung auf Wortanfang mit -ende (II) — § 19/2 c
+
+* `d-er fi-er ha* .an.r .un.ät h.ab.irt.`
+ * `h.ab.irt` ! `h.ab.il.irt`
+
+#### Wollen Sie unsere Festschrift ausarbeiten?
+
+* `.S.an.ass ;r er.ö u-er-er r.e-h.ab-o,kli.ik .im ;bst ;-st ja :ol<wr .ei .ill.irt f°.ift h.S.eb.`
+ * `.S.an.ass` !«! `.S.an`
+ * `;-st ja` !!! `;-st-ar`
+ * `f°.ift` !i! `f°,i`
+ * `h.S.eb` !!! `h.S.g` !?! `er-s.g`
+
+### Auslautkürzungen für Fremdwörter — § 19/1 b
+
+* `;r o>mi.eNT.e mu.ik-er .ilt .ei-v IN,u-met.en.`
+ * `o>mi.eNT.e` !«! `o>mi.e`
+ * `IN,u-met.en` !!! `IN.u-met.en`
+
+#### Wer kann Parlamentsstenograf werden?
+
+* `;r b.e-w-er f.I .auf.ba :es PAR;gra .uss N fa.ud.um .an.ei-er ho.ul.e M.ei-er .est .at.prÜ.UNG .od-er .ei-er .un.äts .od-er ho.ul<prÜ.UNG .ab.oss ha.`
+ * `ho.ul.e` !u! `ho-u`
+ * `.at.prÜ.UNG` !Ü! `.at-Ü.UNG`
+ * `ho.ul<prÜ.UNG` !u! `ho-u,prÜ.UNG` !Ü! `ho-u-Ü.UNG`
+
+### Wir trainieren (X)
+
+#### Wortfamilie sein
+
+* `wr ;w b.e-mÜ.N, s.I b.ei-iS-er .ir.i AU.ab.e Z-UNTER.stÜ.`
+ * `AU.ab.e` !! `AU.e`
+ * `UNTER.stÜ` !Ü! `UNTER-Ü`
+
+#### Zur Rechts- und Verwaltungsreform
+
+* `r.e-om.en ;r UNG & :es echts ;I .ei ko,ti.ir.L.e AU.ab.e ;r bu.r.ir-UNG & ;r :es.r.ir-UNG.en.`
+ * `echts` !!! `R.s`
+ * `ko,ti.ir.L.e` !.! `ko,ti.L.e`
+ * `AU.ab.e` !! `AU.e`
+ * `bu.r.ir-UNG` !u! `u-r.ir-UNG` !!! `u-r-UNG`
+ * `:es.r.ir-UNG.en` !!! `:es.r-UNG.en`
+
+### Wir trainnieren (XI)
+
+#### Zur Stellung der deutscen Sprache in der Welt
+
+* `i Fö ;r ;sch spra .im .S.la :ar & i .ei zr-a.e AU.ab.e u-er-er .S-t-ig kut-UR-tik.`
+ * `AU.ab.e` !! `AU.e`
+ * `kut-UR-tik` !u! `u-UR-tik`
+
+### Wir trainieren (XII)
+
+#### Die Bundesanstalt für Arbeit hat viele Aufgaben
+
+* `I .il.T-ig AU.ab.en ;r bu.an-a-t f ;T b.e>tr UN-t-l.bar I I>t-er.ess.en ;r ;T-em-er & ;T-eb-er.`
+ * `AU.ab.en` !! `AU.en`
+ * `UN-t-l.bar` !! `UN-bar`
+ * `I>t-er.ess.en` !«! `I>t-er.en`
+ * `;T-em-er` !!! `;T;r`
+ * `;T-eb-er` !!! `;T-g-er` !«! `;T-g`
+
+### Wir trainieren (XIII)
+
+#### Der Gemeinsame Markt bringt viele Vorteile
+
+* `I scha.UNG ;es G-N-sa.kt i f.I .eu.a-tik .al.er b.e-eil.i-t ;d-er .ei gr.e er-s.F.`
+ * `G-N-sa.kt` !!! `;N-sa.kt`
+ * `.eu.a-tik` !!! `.eu-p-tik`
+ * `h.S.F` !?! `er-s.F`
+
+### Wir trainieren (XIV)
+
+#### Dr. Waigel zur Stabilitätspolitik
+
+* `.ei-a-h, .eil<wr Z.aus.e FTs & fi-tik er.fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
+ * `er.fo.r.ei` !! `er,r.ei`
+ * `b.e-Ts` !»! `Ts`
+ * `O.b.e-T` !«! `O.b.e`
