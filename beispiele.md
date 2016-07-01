@@ -132,7 +132,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `wr-a g.est-ed I>u-er-er f.am Ü.I bi>h.i :l-UNG ds-u.irt.`
+* `wr-a g.est-ed I>u-er-er f.am.e Ü.I bi>h.i r.l-UNG ds-u.irt.`
+ * `f.am.e` E !«! `f.am`
  * `r.l-UNG` !!! `:l-UNG`
 * `.I-au, .I-a I eNT,wi.l .auch-t .an.n.äh.d ri.i N.sch.` ?
  * `eNT,wi.l` !i! `eNT-i`
@@ -142,8 +143,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `I ko-u.al.E.wat-UNG .uss.CH I>n;-st:aten M-er re>pa-UR ;r :al.iO bet-ig.`
- * `ko-u.al.E.wat-UNG` !»! `ko-u.al-UNG`
+* `I ko-u.al.E.wat .uss.CH I>n;-st:aten M-er re>pa-UR ;r :al.iO bet-ig.`
+ * `ko-u.al.E.wat` ! `ko-u.al.E.wat-UNG` !»! `ko-u.al-UNG`
 
 ### Anlautkürzungen mit a, ä (II) — § 14/1 a
 
@@ -176,27 +177,28 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Der Situationsbericht liegt jetzt vor
 
-* `Ü.I ;r.T-ig.e s.it.iO ;r t.ocht,G-FT.en N.i-er .am.an.i UNTER-UNG.en k-t wr sI bi>h ;UR ga .al.G.N UNTER,ri.`
+* `Ü.I ;r.T-ig.e s.it.iO ;r t.ocht,G-FT.en N.i-er .am.an.i UNTER.em-UNG.en k-t wr sI bi>h ;UR ga .al.G.N UNTER,ri.`
  * `s.it.iO` !-! `s.iO`
  * `.am.an.i` !«! `.am.i`
+ * `UNTER.em-UNG.en` !.! `UNTER-UNG.en`
  * `.al.G.N` !«! `.al.G` !a! `.a-G`
 
 #### Bitte behandeln Sie diese Mitteilung vertraulich
 
-* `h kr-s :ar Fa N ja.z I>u-er-er m.aiz-er E.si-er-UNG.zr-a.e bet-igt.`
+* `h kr-s :ar Fa N ja.z I>u-er-er m.aiz-er E.si-er.zr-a.e bet-igt.`
  * `m.aiz-er` ! `m.aiz.er`
- * `E.si-er-UNG.zr-a.e` !i! `E-i.zr-a.e`
+ * `E.si-er.zr-a.e` !i! `E-i.zr-a.e`
 
 ### Weitere Verkürzung von Kürzeln — § 20/3
 
-* `wr.Yss O.a ra.ieL ;T, ga.b° ber AU.it ;r -st-E.wat-UNG.`
+* `wr.Yss O.a ra.ieL ;T, ga.b° ber AU.it ;r -st-E.wat.`
  * `O.a` !a! `O-a`
  * `ga.b°` ! `ga.b.e-S` !! `ga-S`
- * `-st-E.wat-UNG` !»! `-st-UNG`
-* `AU.iS.it ;S.en IN.est-IN.e E.wat-UNG.kost.en N.spa-t-w.`
+ * `-st-E.wat` ! `-st-E.wat-UNG` !»! `-st-UNG`
+* `AU.iS.it ;S.en IN.est-IN.e E.wat.kost.en N.spa-t-w.`
  * `AU.iS.it` !i! `AU-i.it`
  * `IN.est-IN.e` !! `IN.IN.e`
- * `E.wat-UNG.kost.en` !»! `UNG.ko`
+ * `E.wat.kost.en` ! `E.wat-UNG.kost.en` !»! `UNG.ko`
  * `N.spa-t-w` ! `N.spa ;w`
 
 #### Wir müssen reklamieren
@@ -225,8 +227,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Besuchen Sie unsere Ausstellung
 
-* `.an.I b.e-su ;r hau.E-sa.l-UNG IN fr,u.od-er.`
- * `hau.E-sa.l-UNG` !.! `hau.E-sa-UNG` !!! `hau°`
+* `.an.I b.e-su ;r hau.E-sa.l IN fr,u.od-er.`
+ * `hau.E-sa.l` !«! `hau.E-sa` !!! `hau°`
 
 ### Die Schlusssilben -e, -en, -er — § 18/2 b; wurde(n), würde(n) — § 20/3
 
@@ -300,9 +302,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wortfamilie nehmen
 
-* `wr .em .an.r hau.E-sa.l-UNG IN nÜ.b :eil.`
+* `wr .em .an.r hau.E-sa.l IN nÜ.b :eil.`
  * `.em` !!! `;n`
- * `hau.E-sa.l-UNG` !.! `hau.E-sa-UNG` !!! `hau°`
+ * `hau.E-sa.l` !«! `hau.E-sa` !!! `hau°`
 
 #### Besuchen Sie auch die Warenhäuser
 
@@ -547,10 +549,11 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `wr-a d gu.acht :es sa<E.änd.i .ei-L sch frÜ-er er.wat-et.`
+* `wr-a d gu.acht :es sa<E.änd.i .eig.L sch frÜ-er er.wat-et.`
  * `gu.acht` !!! `gu.a` !!! `u.a`
  * `sch frÜ-er` !Ü! `sch-Ü-er`
  * `sa<E.änd.i` !«! `sa<E`
+ * `.eig.L` !!! `.ei-L`
 
 ### Die vokalische Auslautkürzung — § 15/2
 
@@ -971,3 +974,13 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `er.fo.r.ei` !! `er,r.ei`
  * `b.e-Ts` !»! `Ts`
  * `O.b.e-T` !«! `O.b.e`
+* `d ;b.ol ;r hat d.m  i zr* l.T-IN.e f .eu.a ;O.`
+ * `.eu.a` !!! `.eup`
+* `.e .ibt heu .ei-en w.et.auf .um.I n-dr.i-st IN.fla.ra.en IN .eu.a.`
+ * `IN.fla-o.ra.en` !«! `IN.fla.ra.en`
+ * `.eu.a` !!! `.eup`
+* `I E.ing-er-UNG ;r .aus-t,d.e-f.it.e i z eNT.eid.ed.en & O.ang.i .il ;r fi-tik ;O.`
+ * `.aus-t,d.e-f.it.e` !.! `.aus-t,d.e-it.e`
+ * `eNT.eid.ed.en` !!! `eNT.ei-ed.en`
+* `I .ab.wet ;r .eig w-UNG git heu .as ma.l.`
+ * `w-UNG` ! `wä`
