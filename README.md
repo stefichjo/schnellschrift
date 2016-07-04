@@ -2,7 +2,7 @@
 
 Dehnungs-*h* wird vor der Endung *t* ausgestoßen. *ch* wird mit der Endung *t* verschmolzen.
 * sieh → `s.ih`
- * : sieht → `s.iht` !=! `s.it`
+ * : sieht → `s.iht` = `s.it`
 * sprich → `spr.ich`
  * : spricht → `spr.icht`
 
@@ -25,8 +25,8 @@ Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut 
 * ort → `.ot`
 
 Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden kann. Hierfür wird *be* gekürzt. Nach *k* wird *s* eingeschlossen.
-* absolv*ent* → `.ab.s.ow.eNT` !=! `.ab-s.ow.eNT`
-* be**such** → `b.e-su` !=! `be-su`
+* absolv*ent* → `.ab.s.ow.eNT` = `.ab-s.ow.eNT`
+* be**such** → `b.e-su` = `be-su`
 * **kon****sequ**enz → `ko-s.ez`
 
 Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen. Anlaut-*s* wird nach *tran* ausgestoßen.
@@ -65,7 +65,7 @@ Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet.
 
 *sch* darf seine Fußschleife nicht verlieren, da es sonst mit *heit* verwechselt werden könnte.
 * kr**a**nk*heit* → `a-H`
-* **die schaff***ung* → `I scha*` !=! `I scha`
+* **die schaff***ung* → `I scha*` = `I scha`
 
 Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * ***form***at*ion* → `.om-o`
@@ -145,19 +145,22 @@ Anlautkürzel bestehen in der Regel nur aus dem Anlaut, bzw. sehen sie mit Inlau
 * **d**as → `d`
 * ***b****is* → `bi`
 
-Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Selbstlautanstriche auf der Oberlinie werden stets abgesetzt, sodass statt `,:` stets `:` geschrieben wird.
-* de**r** → `;r`
-* d**es** → `:es`
-* ***spiel***reg**el** → `.il:el`
+Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Selbstlautanstriche auf der Oberlinie werden stets abgesetzt, sodass statt `,:` stets `:` geschrieben wird. Als Auslautkürzel wird *ung* nicht hochgestellt.
+* ~~de~~**r** → `;r`
+* ~~d~~**es** → `:es`
+* ***spiel***~~reg~~**el** → `.il:el`
+* ***w****ahr*~~nehm~~***ung*** → `wa,UNG`
 
 Inlautkürzel werden zwischen zwei Wörtern abgesetzt.
 * oder.**au**ch → `.od-er,au`
 
-Ist eine Verschmelzung bei Inlautkürzeln nicht möglich (oder wird eine solche zum Zwecke der Unterscheidung vermieden), so wird abgesetzt.
+Ist eine Verschmelzung bei Inlautkürzeln nicht möglich (oder wird eine solche zum Zwecke der Unterscheidung vermieden), so wird abgesetzt. Abgesetzte *o* und *ö* werden auf die Oberlinie gestellt.
 * -schr**i**ft- → `i`
  * : **kurz**schr**i**ft → `ku,i`
  * : *unter**schr****i****ft* → `UNTER,i`
  * : *vor*schr**i**ft → `O-i`
+* t**o**n → `:o`
+ * t**ö**n → `:ö`
 
 Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen und nach *s* nicht möglich. Außerdem ist es insbesondere nicht immer möglich, ein *ü* mithilfe eines *r*s anzudeuten. Dann wird stattdessen auf den Auslaut gekürzt.
 * *ver*f**ü**g → `E-Ü`
