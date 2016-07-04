@@ -1421,7 +1421,7 @@
     * ~~nahm~~**e** → `:e`
        * : an~~nahm~~**e** → `.an:e`
     * ~~nahme~~**n** → `;n`
-       * : an~~nahm~~**en** → `.an;n`
+       * : an~~nahme~~**n** → `.an;n`
  * ***nomm*** → `.om`
     * : an*ge****nomm***en → `.an.om`
     * : *auf**ge****nomm***en → `AU.om`
@@ -2242,7 +2242,7 @@
     * *unserer* → `u-er-er`
 * *unter* → `UNTER` V
 * ur- → `UR` V
-* ~~val~~**id** → `:id` ?
+* ~~val~~**id** → `I>;d` ?
  * : *in*~~val~~**id**e → `IN.id.e` E
  * : *in*~~val~~**id**ität → `IN.id.ät` E
 * **ven** → `w`
@@ -2354,9 +2354,9 @@
 * weiger → `w.eig-er` E
 * ***weil*** → `.eil`
  * ***weil***e → `.eil.e` ! `w.eil.e`
-* ~~w~~**eis** → `:eis` E ≠ -**weich**-
+* ~~w~~**eis** → `:eis` E
  * : be~~w~~**eis** → `b.e-eis`
- * ~~w~~**ies** → `:is` ! `w.is` E
+ * ~~w~~**ies** → `I>;s` ! `w.is` E
     * : be~~w~~**ies** → `b.e-is` E
     * : *ge*~~w~~**ies**en `G-is`
 * ***weit*** → `T` ! `w.T`
@@ -2456,7 +2456,7 @@
 * *wir* → `wr` V
 * ~~wir~~**k** → `;k` ! `w.ik` E
  * : ~~wir~~**k***lich* → `;k.L`
- * : ~~wir~~**k****sa***keit* → `;k.Sa.T` ! `;k-s.am.T`
+ * : ~~wir~~**k****sa***keit* → `;k-sa.T` ! `;k-s.am.T`
  * : *ge*wir**k**t → `G;kt`
 * **wirt** → `wit`
  * *wirt*- → `;wr`
