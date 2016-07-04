@@ -116,7 +116,7 @@ Kann das Anlautzeichen den Inlaut nicht andeuten, so wird stattdessen auf den Au
    * **spräch** → `spr`
  * **sproch** → `.och`
    * **spruch** → `.uch`
-     * **sprüch** → `.üch`
+      * **sprüch** → `.üch`
 
 Alternativ zur Inlautandeutung kann auf den Auslaut gekürzt werden.
 
@@ -132,6 +132,11 @@ Die Inlaute *e* (bzw. *ä*) und *a* werden bei Auslautkürzung ohne Anstrich ges
 Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * **wer** → `wer`
 * **fehl**er → `fer`
+
+Auf manche Wortstämme wird keine Kürzung angewendet, wenn sie ohne Vorsilbe verwendet werden.
+* ***fang*** → `ang` ! `f.ang`
+ * : fang an! → `f.ang .an!`
+ * : ein an***fang*** → `N .an.ang`
 
 Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *k* verschmolzen. Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
 * **was** → `was`
@@ -172,10 +177,24 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 
 ## Didaktik
 
-Einige Kurzschreibungen der Eilschrift sind bei genauem Hinsehen nicht der Erwähnung wert, da sie den Schreibregeln der Eilschrift entsprechen. Der Verweis auf die Eilschrift erfolgt dann nur in Klammern. 
+### Kurzschreibungen
+Einige Kurzschreibungen der Eilschrift sind bei genauem Hinsehen nicht der Erwähnung wert, da sie den Schreibregeln der Eilschrift entsprechen. Der Verweis auf die Eilschrift erfolgt dann nur in Klammern.
 * wort → `wot` (E)
 
-Es scheint nicht didaktisch wertvoll, ein Wortbestandteil auszulassen, wenn hierdurch eine Kürzung oder ein Kürzel der Schnellschrift verschattet wird.
+### Stabile Kurzformen
+Kurzformen, die nur in Verbindung mit feststehenden Vor- oder Nachsilben angewendet werden, gelten als eigenständige Kürzel.
+* ***lang*** → `ang`
+ * : ***läng***er → `eng-er`
+    * *länger* → `NGR` :)
+
+Bereits angewendete Kurzformen sollten zunächst nicht weiter abgeändert oder aufgehoben werden.
+* ***haus*** → `.aus`
+ * ***häus*** → `.äus`
+    * : *ge****häus***e → `G-äus.e`
+       * *ge*häuse → `G-h.äus.e` :/
+
+### Auslassen von Kurzformen
+Ein Stenograph sollte eine Kurzform der Schnellschrift erst dann auslassen, wenn er sie sicher beherrscht. Zunächst sollten daher nur schnellschriftliche Kurzschreibungen ausgelassen werden.
 * *ant*wort → `aNT.wot`
  * *ant*~~wort~~ → `aNT` :)
 * dank**bar** → `d.ak.bar`
@@ -185,10 +204,25 @@ Es scheint nicht didaktisch wertvoll, ein Wortbestandteil auszulassen, wenn hier
 * *auf****gab***e → `AU.ab.e`
  * *auf*~~gab~~e → `AU.e` :/
 
-Das unregelmäßige Auslassen von Vor- und Nachsilben scheint allgemein didaktisch nicht wertvoll.
+Um Unsicherheiten zu vermeiden, sollten hierbei zunächst lediglich Wortstämme ausgelassen werden, und zwar in Verbindung mit feststehenden Vor- oder Nachsilben.
 * *bereit* → `b.e-T`
  * : *bereit*s → `b.e-Ts` « `Ts` :/
 * *miss**ion* → `ms-o`
  * : e*miss**ion* → `.e-ms-o`
- * : **trans***miss**ion* → `tra.ms-o` » `tra.ms` :/
+ * : **trans***miss**ion* → `tra.ms-o`
+    * **trans***miss*~~ion~~ → `tra.ms` :/
+* *ver***trag** → `E.tra`
+ * : ***kauf****ver***trag** → `.auf,E>tra`
+    * ***kauf***~~ver~~**trag** → `.auf.tra` :/
+* **hind**er → `hi-er`
+ * : **hind**er*lich* → `hi-er.L`
+    * **hind**~~er~~*lich* → `hi.L` :/
 
+### Instabile Kurzformen
+Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung variiert werden, wenn dies nur wenn die Regeln zu Kurzschreibung, Kürzungen und Kürzeln sicher beherrscht werden.
+* **schrift** → `.ift`
+ * **kurz****schrift** → `ku.ift`
+    * : ab**schrift** → `.ab.ift` * `.ab,i`
+    * : **kurz****schrift** → `ku.ift` * `ku,i`
+    * : *unter***schrift** → `UNTER.ift` * `UNTER,i`
+    * : *vor***schrift** → `O.ift` * `O-i`
