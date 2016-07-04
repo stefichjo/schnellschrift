@@ -221,7 +221,11 @@ Um Unsicherheiten zu vermeiden, sollten hierbei zunächst lediglich Wortstämme 
 ### Instabile Kurzformen
 Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung variiert werden, wenn dies nur wenn die Regeln zu Kurzschreibung, Kürzungen und Kürzeln sicher beherrscht werden.
 * **schrift** → `.ift`
- * : ab**schrift** → `.ab.ift` * `.ab,i` :)
- * : **kurz****schrift** → `ku.ift` * `ku,i` :)
- * : *unter***schrift** → `UNTER.ift` * `UNTER,i` :)
- * : *vor***schrift** → `O.ift` * `O-i` :)
+ * : ab**schrift** → `.ab.ift`
+    * abschr**i**ft → `.ab,i` :)
+ * : **kurz****schrift** → `ku.ift`
+    * **kurz**schr**i**ft → `ku,i` :)
+ * : *unter***schrift** → `UNTER.ift`
+    * *unter*schr**i**ft → `UNTER,i` :)
+ * : *vor***schrift** → `O.ift`
+    * *vor*schr**i**ft → `O-i` :)
