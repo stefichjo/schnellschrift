@@ -163,8 +163,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wir brauchen attraktivere Prospekte
 
-* `f.I schn.e b.e>aNT.wot u-er-er .um.fra ;I<wr,i & .ir.en M.T-er b° ;bar.`
- * `b.e-aNT.wot` » `b.e>aNT`
+* `f.I schn.e b.e>aNT u-er-er .um.fra ;I<wr,i & .ir.en M.T-er b° ;bar.`
  * `;I<wr,i` ! `;I<wr .in.en`
 
 #### Haben Sie Untersuchen der Verbraucherzentrale ausgewertet?
@@ -821,11 +820,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Entgegnung auf die Stellungnahme eines Anwalts
 
-* `.im.am & .im AU>tra :es h kut fi-er, :es.en I>t-er.ess.en .I E>tr, b.e>aNT.wot-I .ir.e st*.am.e w.i fo:`
+* `.im.am & .im AU>tra :es h kut fi-er, :es.en I>t-er.ess.en .I E>tr, b.e>aNT.I .ir.e st*.am.e w.i fo:`
  * `.im.am` ! `.im.am.en` × `.im.en`
  * `.im AU<tra` » `.im<AU`
  * `I>t-er.ess.en` » `I>t-er.en`
- * `b.e>aNT.wot-I` × `b.e>aNT.I`
  * `st*.am.e` ~ `st*:e`
 
 ### Anlautkürzungen für Fremdwörter mit Stammselbstlaut o (ö) — § 19/1 a
