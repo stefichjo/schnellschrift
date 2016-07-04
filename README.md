@@ -145,10 +145,11 @@ Anlautkürzel bestehen in der Regel nur aus dem Anlaut, bzw. sehen sie mit Inlau
 * **d**as → `d`
 * ***b****is* → `bi`
 
-Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Selbstlautanstriche auf der Oberlinie werden stets abgesetzt, sodass statt `,:` stets `:` geschrieben wird. Als Auslautkürzel wird *ung* nicht hochgestellt.
+Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Selbstlautanstriche auf der Oberlinie werden stets abgesetzt, sodass statt `,:` stets `:` geschrieben werden kann. Statt `:i` wird stets `I>;` geschrieben. Als Auslautkürzel wird *ung* nicht hochgestellt.
 * ~~de~~**r** → `;r`
 * ~~d~~**es** → `:es`
 * ***spiel***~~reg~~**el** → `.il:el`
+* ~~nat~~**ion** → `I>;O`
 * ***w****ahr*~~nehm~~***ung*** → `wa,UNG`
 
 Inlautkürzel werden zwischen zwei Wörtern abgesetzt.
