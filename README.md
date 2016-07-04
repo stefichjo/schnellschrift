@@ -205,17 +205,19 @@ Ein Stenograph sollte eine Kurzform der Schnellschrift erst dann auslassen, wenn
  * *auf*~~gab~~e → `AU.e` :/
 
 Um Unsicherheiten zu vermeiden, sollten hierbei zunächst lediglich Wortstämme ausgelassen werden, und zwar in Verbindung mit feststehenden Vor- oder Nachsilben.
-* *bereit* → `b.e-T`
- * : *bereit*s → `b.e-Ts` « `Ts` :/
+* reit → `r.T`
+ * : bereit → `b.e-r.T`
+    * *bereit* → `b.e-T` :)
+       * : *bereit*s → `b.e-Ts` « `Ts` :/
 * *miss**ion* → `ms-o`
  * : e*miss**ion* → `.e-ms-o`
- * : **trans***miss**ion* → `tra.ms-o`
+ * : **trans***miss**ion* → `tra.ms-o` :)
     * **trans***miss*~~ion~~ → `tra.ms` :/
 * *ver***trag** → `E.tra`
- * : ***kauf****ver***trag** → `.auf,E>tra`
+ * : ***kauf****ver***trag** → `.auf,E>tra` :)
     * ***kauf***~~ver~~**trag** → `.auf.tra` :/
 * **hind**er → `hi-er`
- * : **hind**er*lich* → `hi-er.L`
+ * : **hind**er*lich* → `hi-er.L` :)
     * **hind**~~er~~*lich* → `hi.L` :/
 
 ### Instabile Kurzformen
