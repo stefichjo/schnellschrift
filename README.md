@@ -170,3 +170,25 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * *zu****samm***enf**ü**g → `Z-sa.üg`
 * z**u*****rück******führ*** → `u-rÜ.ür`
 
+## Didaktik
+
+Einige Kurzschreibungen der Eilschrift sind bei genauem Hinsehen nicht der Erwähnung wert, da sie den Schreibregeln der Eilschrift entsprechen. Der Verweis auf die Eilschrift erfolgt dann nur in Klammern. 
+* wort → `wot` (E)
+
+Es scheint nicht didaktisch wertvoll, ein Wortbestandteil auszulassen, wenn hierdurch eine Kürzung oder ein Kürzel der Schnellschrift verschattet wird.
+* *ant*wort → `aNT.wot`
+ * *ant*~~wort~~ → `aNT` :)
+* dank**bar** → `d.ak.bar`
+ * ~~dank~~**bar** → `;bar` :)
+* automobil → `.aut.m.ob.il`
+ * auto~~mob~~il `.aut.il` :)
+* *auf****gab***e → `AU.ab.e`
+ * *auf*~~gab~~e → `AU.e` :/
+
+Das unregelmäßige Auslassen von Vor- und Nachsilben scheint allgemein didaktisch nicht wertvoll.
+* *bereit* → `b.e-T`
+ * : *bereit*s → `b.e-Ts` « `Ts` :/
+* *miss**ion* → `ms-o`
+ * : e*miss**ion* → `.e-ms-o`
+ * : **trans***miss**ion* → `tra.ms-o` » `tra.ms` :/
+
