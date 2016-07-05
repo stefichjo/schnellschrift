@@ -162,7 +162,7 @@ Inlautkürzel werden zwischen zwei Wörtern abgesetzt.
 * oder.**au**ch → `.od-er,au`
 
 Ist eine Verschmelzung bei Inlautkürzeln nicht möglich (oder wird eine solche zum Zwecke der Unterscheidung vermieden), so wird abgesetzt. Abgesetzte *o* und *ö* werden auf die Oberlinie gestellt.
-* -schr**i**ft- → `i`
+* -schr**i**ft → `i`
  * : **kurz**schr**i**ft → `ku,i`
  * : *unter**schr****i****ft* → `UNTER,i`
  * : *vor*schr**i**ft → `O-i`
