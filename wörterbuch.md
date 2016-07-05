@@ -1,7 +1,6 @@
 # Wörterbuch
 
-* abend → `.ab.ed`
- * ~~ab~~**end** → `:ed`
+* ~~ab~~**end** → `:ed`
 * aber → `.ab-er` (E)
  * *aber* → `ber`
 * acht → `.acht`
@@ -43,9 +42,8 @@
 * : änder → `.äd-er` (E)
 * -*ant* → `aNT` V
 * *ant*- → `aNT` V
-* arbeit → `.ab.T` (E)
- * ~~arb~~**eit** → `;T` ≠ **zeit**
-    * : **fach**~~arb~~**eit**er → `fa.T-er`
+* ~~arb~~**eit** → `;T` ! `.ab.T` (E)
+ * : **fach**~~arb~~**eit**er → `fa.T-er`
  * ~~arb~~**eit**s**los** → `;Ts.os`
     * ~~arbeits~~**los** → `;l.os`
 * arch → `.ach`
@@ -105,7 +103,7 @@
  * : *auf*.*dies*em.*ge****biet*** → `AU.iS.it` * `AU-i.it`
  * ***bot*** → `.ot` E
 * bibli → `b.ibl.i`
- * bibliothek → `b.ibl.i-t.ek` ! `b.ibl.i-o-t.ek`
+ * : bibliothek → `b.ibl.i-t.ek` ! `b.ibl.i-o-t.ek`
     * ~~biblio~~**thek** → `;t.ek`
        * : ~~biblio~~**thek**ar**isch** → `;t.ek.ar.i` > `;t.ek.i`
 * ~~bil~~**anz** → `:az` ~ → `;az`
@@ -213,9 +211,8 @@
  * dacht → `d.acht` (E)
     * dächt → `d.echt` (E)
  * dank → `d.ak` (E)
-    * : dank**bar** → `d.ak.bar`
-    * ~~dank~~**bar** → `;bar`
-       * : **sehr**.~~dank~~**bar** → `s.bar`
+    * : dank**bar** → `d.ak.bar` - `;bar`
+    * : **sehr**.dank**bar** → `s.d.ak.bar` - `s.bar`
 * dens → `des`
  * : **kon**densier → `ko.des.ir`
  * : **kon**densat → `ko.des.at`
@@ -293,8 +290,7 @@
  * **durf** → `du` E
 * *düsseldorf* → `dÜ.o`
 * ehr → `.er`
- * .~~ehr~~**e**. → `:e`
-    * *ich*.h**a**be.~~die~~.ehr**e** → `.I-a:e`
+ * : *ich*.h**a**be.~~die~~.ehre → `.I-a.er.e` - `.I-a:e`
 * eig → `.eig`
  * : eigen → `.eig`
  * : eigent*lich* → `.eig.L` ~ `.ei-L`
@@ -648,7 +644,7 @@
  * gült → `güt` (E)
 * *genau* → `G-au`
 * *gener* → `g.en` E
- * : *gener*al → `g.en.al` ! `g.en` E
+ * : *gener*al → `g.en.al` » `g.en` E
  * : *gener*ell → `g.en.ell` E
  * : *gener*at*ion* → `g.en.iO` E
 * *genossenschaft* → `;O.FT` E
