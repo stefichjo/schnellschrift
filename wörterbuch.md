@@ -147,6 +147,7 @@
  * **broch** → `bro`
  * **bruch** → `bru`
  * **brüch** → `brÜ`
+* breit → `br.T`
 * **brief** → `bri`
 * *bühr* → `-Ür` = `.ür`
  * : *ge**bühr* → `G-Ür`
@@ -849,7 +850,6 @@
  * n~~imm~~*er** → `;n.er` E
 * *in* → `IN` V
  * : **dar***in* → `dar.IN` * `dar-i`
- * -*in*- → `I>` (?)
  * .*in*. → `I>`
  * inn → `.in`
     * : innen → `.in` E
@@ -902,6 +902,9 @@
     * : *in*.*dies*em.***jahr*** → `I>.iS.ar`
 * **jed** → `j`
  * : **jed**er → `j-er`
+* jen → `j.en` ?
+ * → -*jenig* → `j`
+ * : ~~de~~**m***jenig*en → `;m<j`
 * *jetzt* → `j°`
 * **j**iz → `j`
  * : pr**o****j**izir → `o>j.ir`
@@ -1012,11 +1015,12 @@
  * **skonto** → `sko` E
 * *kontroll* → `ko.tr.o` E
  * : *kontroll*ör → `ko.tr.o-ör` E
- * *kontrolle* → `ko.tr.o` E !o! `ko;o`
-* *kost* → `kost` E
- * *köst* → `köst` E
-    * : *köst**lich* → `köst.L`
- * *kosten* → `ko` ! `kost-en` (?)
+ * *kontrolle* → `ko.tr.o` E !o! `ko:o`
+* **kost** → `kost` E
+ * **kost**en**los** → `kost-l.o` ~ `ko.os`
+ * **köst** → `köst` E
+    * : **köst***lich* → `köst.L`
+ * -*kosten* → `ko`
     * : *ver*walt*ung*s*kosten* → `E.wat-UNG.ko` « `UNG.ko`
 * **kraft** → `kra` E
  * : **kräft**e → `kr.e`
@@ -1136,7 +1140,7 @@
  * : **früh*****ling*** → `frÜ.ing`
 * *lini* → `;IN` ! `l.in` E
  * : *lini*e → `;IN.e` ! `l.in` E
- * : *in*.erster.*lini*e → `IN.est-IN.e` ! `IN.est-l.in.e` E × `IN.IN.e` (?)
+ * : *in*.erster.*lini*e → `IN.est-IN.e` × `IN.IN.e` ! `IN.est-l.in.e` E
 * *list* → `l.i` ! `l.ist`
  * : *list*e → `l.i`
 * **liter** → `li` ! `l.it-er`
@@ -1162,8 +1166,9 @@
  * luxuriös → `l.ux.UR.ös` > `l.ux.ös` E
 * **mach** → `ma` E
  * : *macht* → `aCHT`
- * *makel* → `m.ak` (?)
-  * : *makl*er → `m.ak-er`
+ * *makel* → `m.ak`
+  * *makl* → `m.ak`
+     * : *makl*er → `m.ak-er`
 * macht ← mög
 * **mak** → `ma`
  * : **mak**el → `ma.l`
