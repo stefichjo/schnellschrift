@@ -163,7 +163,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wir brauchen attraktivere Prospekte
 
-* `f.I schn.e b.e>aNT u-er-er .um.fra ;I<wr,i & .ir.en M.T-er b° ;bar.`
+* `f.I schn.e b.e>aNT u-er-er .um.fra.e ;I<wr,i & .ir.en M.T-er b° ;bar.`
+ * `.um.fra.e` » `.um.fra`
  * `;I<wr,i` ! `;I<wr .in.en`
 
 #### Haben Sie Untersuchen der Verbraucherzentrale ausgewertet?
@@ -458,7 +459,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Vier Methoden zur Ausarbeitung einer Rede
 
-* `wer O.r fra st, .ech.e UNTER.la.en er f.I s.i-er.e & ;k.Ol.e dr-Ür .ei-er r.ed.e, .ei-es O>tra .od-er .auch .ei-es re.f.at b.öt.i, k zw MR.en .ög.L.T.en w.el.`
+* `wer O.r fra.e st, .ech.e UNTER.la.en er f.I s.i-er.e & ;k.Ol.e dr-Ür .ei-er r.ed.e, .ei-es O>tra .od-er .auch .ei-es re.f.at b.öt.i, k zw MR.en .ög.L.T.en w.el.`
+ * `fra.e` » `fra`
  * `dr-Ür` * `dr-ü`
  * `.od-er .auch` !aY! `.od-er-aY`
  * `.ög.L.T.en` « `;L.T.en`
@@ -509,7 +511,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wir sind in allen Bundesländern vertreten
 
-* `f.ir.e .an.fra ;I<wr,i s.bar.`
+* `f.ir.e .an.fra.e ;I<wr,i s.bar.`
+ * `.an.fra.e` » `.an.fra`
  * `;I<wr,i` ! `;I<wr .in.en`
 
 ### Anlautkürzungen mit au (äu), eu — § 14/1 f
@@ -935,11 +938,15 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Wir trainnieren (XI)
 
-#### Zur Stellung der deutscen Sprache in der Welt
+#### Zur Stellung der deutschen Sprache in der Welt
 
-* `i Fö ;r ;sch spra .im .S.la :ar & i .ei zr-a.e AU.ab.e u-er-er .S-t-ig kut-UR-tik.`
+* `i Fö ;r ;sch spra.e .im .S.la :ar & i .ei zr-a.e AU.ab.e u-er-er .S-t-ig kut-UR-tik.`
+ * `spra.e` » `spra`
  * `AU.ab.e` × `AU.e`
  * `kut-UR-tik` * `u-UR-tik`
+* `.S .iS gru.e ;w gr.e .an>str.en G-aCHT, .um I ;sch.e spra.e .im .S.la st.äk-er Z-E.br.T.`
+ * `.S .iS gru.e` ~ `.S-S.gru.e` × `.S-S.e`
+ * `spra.e` » `spra`
 
 ### Wir trainieren (XII)
 
@@ -992,3 +999,6 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `.eu.ä.i` ~ `.eu-p.i`
  * `UN-ab.eng.i` × `UN-ab.i`
  * `eNT.eid.kö` ~ `eNT.ei-kö`
+* `.ir .at.us i M ;m<j ;r bu<b.ak UN-N.schr-t E.gl.bar.`
+ * `.at.us` ~ `sta.us`
+ * `UN-N.schr-t` » `UN-N.schr`
