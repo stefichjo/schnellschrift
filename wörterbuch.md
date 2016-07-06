@@ -186,7 +186,7 @@
  * **da**- → `da` V
  * -**da** → `da` V
 * dach → `d.ach`
- : dächer → `d.ech-er`
+ * : dächer → `d.ech-er`
 * dacht ← denk
 * dam → `d.am`
  * : dame → `d.am.e`
@@ -1059,7 +1059,7 @@
  * : **kon****kurr**enz → `ko,ku.ez` * `ko-u.ez` E
  * : **kon****kurr**ier → `ko,ku.ir` * `ko-u.ir`
  * **kurs** → `kus`
-    : **kon*****kurs*** → `ko,kus` ~ `ko.us`
+    * : **kon*****kurs*** → `ko,kus` ~ `ko.us`
 * **kurz** → `ku` E
  * **kürz** → `kÜ` E
 * k**u**t → `u`
@@ -1989,10 +1989,10 @@
  * *sozial* → `SS`
 * **spann** → `spa`
 * **spez** → `sp` E
- : **spez***ial* → `sp.iaL` E
- : **spez***ial*isier → `sp.iaL.ir` E
- : **spez***iell* → `sp.ieL` E
- : **spez***ifiz*ier → `sp.if.ir` ! `sp.ez.if.ir` > `sp.ez.ir`
+ * : **spez***ial* → `sp.iaL` E
+ * : **spez***ial*isier → `sp.iaL.ir` E
+ * : **spez***iell* → `sp.ieL` E
+ * : **spez***ifiz*ier → `sp.if.ir` ! `sp.ez.if.ir` > `sp.ez.ir`
 * ***spiel*** → `.il`
  * : ***spiel***er → `.il-er`
  * : bei***spiel*** → `b.ei-il`
