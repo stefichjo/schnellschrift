@@ -245,6 +245,13 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `g.öt.e+stra` !:! `g.öt.e:e`
  * `nÜ.b-er+stra` !:! `nÜ.b.er:e`
  * `E.lt-w-s` ! `E.l ;w.S`
+* `h kut b.eg-er ;wr I GT-Ü.UNG Ü.n.` …
+* `.e-i° f.U -st-L, d G-a.e .iS.e GT-ell.e ga-S l.ei-f.i ;N.uss.` …
+* `wr g a-v .S, d ;r .um.ug UN-bar ach.n m.al.er;T-en er.fo.` …
+* `.iS ;r ach.U.N sp.ens .ed.e .iS.at ;r fa ;N.` …
+* `I spr,u-n ;r GT-Ür-er ;I AU.m b.ei,li.ed.en m.ek:el .an.g.` …
+* `.e .emp-i.CH j-ch, d.sI.CH ach.L.T .ift-L .od-er t.f.i .an.m.ed.en, a-M sI G-H ha.en, .ir.e sp.ieL fra.en .S-ü.L M h b.eg-er Z-b.e-spr.` …
+* `er i b.e>str, .in.en b.ei-r :el-UNG .ir-er .an.H.en Z-h.ef.` …
 
 ### Vorlautverstärkung — § 14/1 b; Anlautkürzung mit ä-Symbol — § 14/1 a
 
@@ -469,14 +476,14 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `I ;-tik-er ha Z-ei-er gr.üg.i sp.ed-t-iO AU.F-t.`
+* `I ;-tik-er ha Z-ei-er gr.üg.i sp.ed-tiO AU.F-t.`
  * `I ;-tik-er` ~ `I-tik-er`
  * `gr.üg.i` * `gr-Ü.i`
 
 ### Andere Fremdwörter mit Aufstrich-t — § 19/3; -ent und -ant in Fremdwörtern — § 20/5
 
 * `wr-a f.U.e IN.w-UR N f°.es ko.z.`
- * `IN.w-UR` ~ `IN-t-UR`
+ * `IN.w-UR` ~ `IN-tUR`
  * `ko.z` ~ `ko-t`
 
 #### Anlautkürzungen mit ei — § 14/1 a
@@ -660,7 +667,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Lieferungsbedingungen eines Elektronikunternehmens
 
-* `f.I I>r b.ei-Ü l.i AU-Ürt g.end.e l.ei-et ;r E.äuf-er G.w I>r.eis.e, d .äd.en .an.iS.en g.end.en, I .i-ha ;r G-w.l.ei,.ist G-m.ed ;w & AU w.ek.f-er u-rÜ.z-Ür ;I, ach.s.ei-er wa dr ach.bes-UNG .od-er er-sa.li-er-UNG UN.eNT.get-L b.e-T-igt-w.`
+* `f.I I>r b.ei-Ü l.i AU-Ürt g.end.e l.ei-et ;r E.äuf-er G.w I>r.eis.e, d .äd.en .an.iS.en g.end.en, I .i-ha ;r G-w.l.ei,.ist G-m.ed ;w & AU w.ek.f-er u-rÜ.z-Ür ;I, ach.s.ei-er wa dr ach.bes-UNG .od-er er-sa.li-er-UNG UN.eNT.get-L b.e-Tigt-w.`
  * `b.ei-Ü` ~ `b.ei-Ü-G`
  * `G-w` ! `G-wä`
 
@@ -918,6 +925,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `ho.ul.e` * `ho-u`
  * `.at.prÜ.UNG` * `.at-Ü.UNG`
  * `ho.ul<prÜ.UNG` * `ho-u,prÜ.UNG` * `ho-u-Ü.UNG`
+* `:es>ha i f.n b.e-uf :es PAR;gra Z-echst I ho.ul.eif.e er.F.L.`
+ * `Z-echst` ~ `Z.n`
+ * `ho.ul.eif.e` * `ho-u.eif.e`
+ * `er.F.L` ~ `er.o-L`
 
 ### Wir trainieren (X)
 
@@ -940,13 +951,21 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Zur Stellung der deutschen Sprache in der Welt
 
-* `i Fö ;r ;sch spra.e .im .S.la :ar & i .ei zr-a.e AU.ab.e u-er-er .S-t-ig kut-UR-tik.`
+* `i Fö ;r ;sch spra.e .im .S.la :ar & i .ei zr-a.e AU.ab.e u-er-er .S-tig kut-UR-tik.`
  * `spra.e` » `spra`
  * `AU.ab.e` × `AU.e`
  * `kut-UR-tik` * `u-UR-tik`
 * `.S .iS gru.e ;w gr.e .an>str.en G-aCHT, .um I ;sch.e spra.e .im .S.la st.äk-er Z-E.br.T.`
  * `.S .iS gru.e` ~ `.S-S.gru.e` × `.S-S.e`
  * `spra.e` » `spra`
+* `I r.e-al.ir-UNG .iS-es .il da ber-t N.T-ig er.fo.`
+ * `er.fo` » `er`
+* `.U.e .S-tig.e kut-UR-tik i dr .S.tau & Z-sa.T AU-r ba.is gl.b.e-echt.i pat-er.FT G-k.eich.`
+ * `kut-UR` * `u-UR`
+ * `gl.b.e-echt.i` ~ `gl.b.e-R.i` » `gl.b.e-R` ~ `gl.b.e-r`
+* `-tiv.e spra-tik ha I b.e-T-FT z er.l.en fr-er spra.en b.ei-U -st zr* O.S-s.`
+ * `er.l.en` ! `er.l.en.en`
+
 
 ### Wir trainieren (XII)
 
@@ -1002,3 +1021,6 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `.ir .at.us i M ;m<j ;r bu<b.ak UN-N.schr-t E.gl.bar.`
  * `.at.us` ~ `sta.us`
  * `UN-N.schr-t` » `UN-N.schr`
+* `I .eu-p.i zr-a.b.ak ;wr dr.n E-a .ar AU.d .il ;r g.ed,.ab.ät E.icht.et.` …
+* `.e ;wr k.ei ;L.T zr* .ot.b.ak,fi.ir-UNG ;r .at.aus-t.e I>r .eu-p-o g.` …
+* `.auch I>r .äuss wä-tik er-t I .eu-p.i zr-a.b.ak I gl kom.ez.en, I heu I bu<b.ak wa;-t` …
