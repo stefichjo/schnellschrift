@@ -17,6 +17,7 @@ Nicht eingedeutschte lateinische Stämme mit Auslaut-*st* werden wie mit Anlaut-
 
 ## Kurzschreibung
 
+### Vorlaute n, l, r
 Die Vorlaute *n*, *l*, *r* werden ausgestoßen.
 * end → `.ed`
 * feld → `f.ed`
@@ -27,35 +28,43 @@ Nach ausgestoßenem Vorlaut bleibt *s* linkswendig. Nach ausgestoßenem Vorlaut 
 * wort → `wot`
 * ort → `.ot`
 
+### Anlaut s
 Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden kann. Hierfür wird *be* gekürzt. Nach *k* wird *s* eingeschlossen.
 * absolv*ent* → `.ab.s.ow.eNT` = `.ab-s.ow.eNT`
 * be**such** → `b.e-su` = `be-su`
 * **kon****sequ**enz → `ko-s.ez`
 
+### Vorsilbe kon
 Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen. Anlaut-*s* wird nach *tran* ausgestoßen.
 * **kol**lekt*ion* → `ko.ekt-iO`
 * *kom***p**atibel → `kom-p.ib.l`
 * **tran**(sist)or → `tra.i+st.or`
 
+### Anlaut v
 Lateinisches *v* wird, außer am Wortanfang und in *iv*, *w* geschrieben.
 * vers → `v.es`
 * **kon**vers*ion* → `ko.w.es.iO`
 
+### Nachsilbe ig
 Die Nachsilbe *ig* wird nach Aufstrichzeichen auf den Auslaut gekürzt.
 * **geg**enwär**t****ig** → `g-t-ig`
 
+### Überdeckung von Aufstrichen
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
 * schifffahrt → `sch.if-fa-t`
 * **richt****ig*****keit*** → `ri.i-T`
 
+### Auslaut o
 Zwischen griechischen Wortbestandteilen fällt *o* aus. Treffen zwei Vokale innerhalb eines Wortbestandteils aufeinander, so werden diese miteinander verschmolzen.
 * geometrie → `g.e-m.etr.I`
 * theater → `t.e-at-er`
 
+### Auslaute i und u
 Die Vokale *i* und *u* am Ende eines mehrsilbigen lateinischen Wortbestandteils werden ausgestoßen.
 * **kon**sortium → `ko-s.ot.um`
 * situier → `s.it.ir`
 
+### …
 Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Vor *ung* wird hierfür zwischen Inlautandeutung und Auslautkürzung gewechselt. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
 * *in***dukt***ion* → `IN.du-o`
 * *in***spekt***ion* → `IN.sp*`
@@ -136,11 +145,6 @@ Der Auslaut *r* wird mit rechtsrundem Anlautzeichen verschmolzen.
 * **wer** → `wer`
 * **fehl**er → `fer`
 
-Auf manche Wortstämme wird keine Kürzung angewendet, wenn sie ohne Vorsilbe verwendet werden.
-* ***fang*** → `ang` ! `f.ang`
- * : fang an! → `f.ang .an!`
- * : ein an***fang*** → `N .an.ang`
-
 Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *k* verschmolzen. Bei der Verschmelzung mit einstufigem rechtsrunden Anlautzeichen wird *s* statt *ss* geschrieben.
 * **was** → `was`
 * **pass** → `pass`
@@ -149,18 +153,22 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *
 
 ## Kürzel
 
-Anlautkürzel bestehen in der Regel nur aus dem Anlaut, bzw. sehen sie mit Inlautandeutung wie Anlautkürzungen aus. Die Notation eines Anlautkürzels mit Inlautandeutung wird daher nur dann notwendig, wenn ein rechtsrundes Anlaut-Zeichen nicht mit Auslaut-*r* oder Aulaut-*s* verschmilzt.
-* **d**as → `d`
-* ***b****is* → `bi`
+### Anlautkürzel
+Anlautkürzel von alleinstehenden Verbstämmen werden ausgeschrieben.
+* **d**~~as~~ → `d`
+* **bi**~~s~~ → `bi`
+* **we**~~nd~~ → `w` = `w.ed`
+ * : an**we**~~nd~~ → `.an.w`
 
-Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Selbstlautanstriche auf der Oberlinie werden stets abgesetzt, sodass statt `,:` stets `:` geschrieben werden kann. Statt `:i` wird stets `I>;` geschrieben. Statt `:u` wird stehts `.u` geschrieben. Als Auslautkürzel wird *ung* nicht hochgestellt.
-* ~~de~~**r** → `;r`
-* ~~d~~**es** → `:es`
-* ***spiel***~~reg~~**el** → `.il:el`
+### Auslautkürzel
+Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Beginnt das Auslautkürzel mit *i*, so wird `I>;` statt `:i` geschrieben. Alleinstehende Auslautkürzel von Verbstämmen werden ausgeschrieben.
+* ~~arb~~***eit*** → `;T`
 * ~~nat~~**ion** → `I>;O`
-* ~~min~~**ute** → `.ut.e`
-* ***w****ahr*~~nehm~~***ung*** → `wa,UNG`
+* ~~f~~***ang*** → `:ang` ! `f.ang`
+ * : ~~f~~***ang*** an! → `:ang .an!` ! `f.ang .an!`
+ * : ein an~~f~~***ang*** → `N .an.ang`
 
+### Inlautkürzel
 Inlautkürzel werden zwischen zwei Wörtern abgesetzt.
 * oder.**au**ch → `.od-er,au`
 
