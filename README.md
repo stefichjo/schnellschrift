@@ -155,18 +155,18 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *
 
 ### Anlautkürzel
 Anlautkürzel von alleinstehenden Verbstämmen werden ausgeschrieben.
-* **d**~~as~~ → `d`
-* **bi**~~s~~ → `bi`
-* **we**~~nd~~ → `w` = `w.ed`
- * : an**we**~~nd~~ → `.an.w`
+* **d**as → `d`
+* **bi**s → `bi`
+* **we**nd → `w` = `w.ed`
+ * : an**we**nd → `.an.w`
 
 ### Auslautkürzel
 Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Beginnt das Auslautkürzel mit *i*, so wird `I>;` statt `:i` geschrieben. Alleinstehende Auslautkürzel von Verbstämmen werden ausgeschrieben.
-* ~~arb~~***eit*** → `;T`
+* arb***eit*** → `;T`
 * ~~nat~~***ion*** → `I>;O`
-* ~~f~~***ang*** → `:ang` ! `f.ang`
- * : ~~f~~***ang*** an! → `:ang .an!` ! `f.ang .an!`
- * : ein an~~f~~***ang*** → `N .an.ang`
+* f***ang*** → `:ang` ! `f.ang`
+ * : f***ang*** an! → `:ang .an!` ! `f.ang .an!`
+ * : ein anf***ang*** → `N .an.ang`
 
 ### Inlautkürzel
 Inlautkürzel werden zwischen zwei Wörtern abgesetzt.
@@ -197,6 +197,10 @@ Kurzformen, die nur in Verbindung mit feststehenden Vor- oder Nachsilben angewen
 * ***lang*** → `ang`
  * : ***läng***er → `eng-er`
     * *länger* → `NGR` :)
+
+In- und Auslautkürzel gelten wie eigenständige Kürzel als erlernenswert.
+* arb***eit***s**los** → `;Ts.os`
+ * ~~arbeit~~~~s~~***los*** → `;l.os` :)
 
 Bereits angewendete Kurzformen sollten zunächst nicht weiter abgeändert oder aufgehoben werden.
 * ***haus*** → `.aus`
