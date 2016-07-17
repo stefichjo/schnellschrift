@@ -163,7 +163,7 @@ Anlautkürzel von alleinstehenden Verbstämmen werden ausgeschrieben.
 ### Auslautkürzel
 Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Beginnt das Auslautkürzel mit *i*, so wird `I>;` statt `:i` geschrieben. Alleinstehende Auslautkürzel von Verbstämmen werden ausgeschrieben.
 * ~~arb~~***eit*** → `;T`
-* ~~nat~~**ion** → `I>;O`
+* ~~nat~~***ion*** → `I>;O`
 * ~~f~~***ang*** → `:ang` ! `f.ang`
  * : ~~f~~***ang*** an! → `:ang .an!` ! `f.ang .an!`
  * : ein an~~f~~***ang*** → `N .an.ang`
