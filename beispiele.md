@@ -15,6 +15,15 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `eNT.wÜ.e` * `eNT-Ü.e`
  * `.auss.od.L` × `.auss.L`
  * `I>t-er.ess.irt` » `I>t-er.irt`
+* `.im.al.G.N ha.wr .emp-f.ol, I eNT,wi.l .ab.z.wat.`
+ * `.im.al.G.N` * `.im.a-G.N` »× `.im.a-G`
+ * `.emp-f.ol` * `.emp-o` »× `.emp`
+ * `eNT,wi.l` * `eNT-i`
+* `G-sta.sI-ir, i .ei-en .ad-er.en eNT.wu Z-emp-f.el.`
+ * `G-sta.sI-ir` * `-G-a.sI-ir`
+ * `i` ! `.in.en`
+ * `eNT.wu` * `eNT-u`
+ * `Z-emp-f.el` * `Z-emp`
 
 #### Fremdwörter
 
@@ -134,7 +143,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `wr-a g.est-ed I>u-er-er f.am.e Ü.I bi>h.i r.l-UNG ds-u.irt.`
  * `f.am.e` E » `f.am`
- * `r.l-UNG` ~ `:l-UNG`
+ * `r.l-UNG` ~ `:el-UNG`
 * `.I-au, .I-a I eNT,wi.l .auch-t .an.n.äh.d ri.i N.sch.` ?
  * `eNT,wi.l` * `eNT-i`
  * `.an.n.äh.d` ~ `.an;r.d`
@@ -181,7 +190,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `s.it.iO` ~ `s.iO`
  * `.am.an.i` » `.am.i`
  * `UNTER.em-UNG.en` × `UNTER-UNG.en`
- * `.al.G.N` » `.al.G` * `.a-G`
+ * `.al.G.N` »× `.al.G` * `.a-G`
 
 #### Bitte behandeln Sie diese Mitteilung vertraulich
 
@@ -223,7 +232,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Trainingssätze
 
 * `.im.al.G.N ;wr .iS-es fa teg.L G-l.ert.`
- * `.im.al.G.N` * `.im.a-G.N` » `.im.a-G`
+ * `.im.al.G.N` * `.im.a-G.N` »× `.im.a-G`
 
 #### Besuchen Sie unsere Ausstellung
 
@@ -245,13 +254,29 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `g.öt.e+stra` !:! `g.öt.e:e`
  * `nÜ.b-er+stra` !:! `nÜ.b.er:e`
  * `E.lt-w-s` ! `E.l ;w.S`
-* `h kut b.eg-er ;wr I GT-Ü.UNG Ü.n.` …
-* `.e-i° f.U -st-L, d G-a.e .iS.e GT-ell.e ga-S l.ei-f.i ;N.uss.` …
-* `wr g a-v .S, d ;r .um.ug UN-bar ach.n m.al.er;T-en er.fo.` …
-* `.iS ;r ach.U.N sp.ens .ed.e .iS.at ;r fa ;N.` …
-* `I spr,u-n ;r GT-Ür-er ;I AU.m b.ei,li.ed.en m.ek:el .an.g.` …
-* `.e .emp-i.CH j-ch, d.sI.CH ach.L.T .ift-L .od-er t.f.i .an.m.ed.en, a-M sI G-H ha.en, .ir.e sp.ieL fra.en .S-ü.L M h b.eg-er Z-b.e-spr.` …
-* `er i b.e>str, .in.en b.ei-r :el-UNG .ir-er .an.H.en Z-h.ef.` …
+* `h kut b.eg-er ;wr I GT-Ür-UNG Ü.em.`
+ * `Ü.em` ! `Ü.em.en` × `Ü.en`
+* `.e-i° f.U -st-E.end.L, d -G-a.e .iS.e GT-ell.e ga.b° l.ei-f.i ;N.uss.`
+ * `-st-E.end.L` × `-st-L`
+ * `ga.b°` ! `ga.b.e-S` < `ga-S`
+* `wr g da.v .S, d ;r .um.ug UN-t-l.bar ach.n m.al.er;T-en er.fo.`
+ * `da.v` * `a-v`
+ * `UN-t-l.bar` × `UN-bar`
+* `.iS ;wr ach.U.N sp.est-ens .ed.e .iS.at ;r fa ;N.`
+ * `sp.est-ens` > `sp.ens`
+* `I spr,u-en ;r GT-Ür-er ;I AU.m b.ei,li.ed.en m.ek:el .an.eb.`
+ * `.an.eb` ~ `.an.g`
+* `.e .emp-f.il.CH j-ch, d.sI.CH ach.ög.L.T .ift-L .od-er t.f.i .an.m.ed.en, da.M sI G-l.H ha.en, .ir.e sp.ieL fra.en .S.ür.L M h b.eg-er Z-b.e-spr.`
+ * `.emp-f.il.CH` * `.emp-i.CH`
+ * `ach.ög.L.T` × `ach.L.T`
+ * `da.M` * `a-M`
+ * `G-l.H` × `G-H`
+ * `.S.ür` * `.S-ü`
+* `er i b.e-str-t, i b.ei-r :el-UNG .ir-er .an.l.H.en Z-h.ef.`
+ * `b.e-str-t` » `b.e-str`
+ * `i` ! `.in.en`
+ * `.an.l.H.en` × `.an.H.en`
+* 
 
 ### Vorlautverstärkung — § 14/1 b; Anlautkürzung mit ä-Symbol — § 14/1 a
 
@@ -293,11 +318,13 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `I :od.en ;r w.eb E.ag ;r E>brau-er .im.al.G.N -t Z-äd-er.`
  * `E>brau-er` * `E-au-er`
- * `.im.al.G.N` * `.im.a-G.N` » `.im.a-G`
+ * `.im.al.G.N` * `.im.a-G.N` »× `.im.a-G`
 
 ### Zusammenfassung: Weglassen von Wörtern — § 20/1 a
 
-* ?
+* `.iS-es UNTER.em ;U .im;70 G-grÜ.`
+ * `UNTER.em` ! `UNTER.em.en` × `UNTER.en`
+ * `.im ja.e 1970` ~ `.im.ar.e 1970` ~ `.im;70`
 
 ### Anlautkürzung mit o und ö — § 20/1 c
 
@@ -572,7 +599,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `G-a.e .im.ö-L-l.eb ;I ga b°-i-t.e r.ln Z-b.e-acht.`
  * `b.e-imt.e` ~ `b°-i-t.e`
- * `r.ln` ~ `:ln`
+ * `r.ln` ~ `:eln`
 
 ### Weglassen von Vorlauten — § 20/1 a
 
@@ -715,10 +742,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Selbstlautandeutung im benachbarten Wortteil — § 20/1 a
 
-* `s.I yss.CH-Ü.ar.N, d.wr ach-o .U.en and.pt M.al.eNT.id.H E>tr.`
+* `s.I yss.CH-Ü.ar.N, d.wr ach-o .U.en and,u M.al.eNT.id.H E>tr.`
  * `yss.CH-Ü.ar.N` * `yss.CH-Ü.a-N`
  * `ach.O` * `ach-o`
- * `and.pt` * `a-pt`
+ * `and,u` ! `and.pt` * `a-pt`
  * `M.al.eNT.id.H` » `M.al.eNT`
 
 #### Wer stellt die Tagesordnung auf?
@@ -740,11 +767,11 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `ach.m.ei-er Ü.eug ;wr .ei Ü>prÜ .iS-er GT.bÜ-er -ts Z.wÜ Ü.i l.ass.`
+* `ach.m.ei-er Ü.eug ;wr .ei Ü>prÜ .iS-er GT.bÜ-er -ts Z.wÜ Ü.i :ass.`
  * `ach.m.ei-er Ü.eug` × `ach.m.ei-er-Ü.eug` » `ach.m.ei-er-Ü`
  * `.ei Ü>prÜ` * `.ei Ü-Ü` × .ei-Ü-Ü
  * `GT.bÜ-er` * `GT-Ü-er`
- * `-ts Z.wÜ Ü.i l.ass` × `-ts.wÜ Ü.i l.ass` * `-ts-Ü-Ü l.ass` » `-ts-Ü-Ü`
+ * `-ts Z.wÜ Ü.i :ass` × `-ts.wÜ Ü.i :ass` * `-ts-Ü-Ü :ass` » `-ts-Ü-Ü`
 
 #### Bücher bereichern unser Leben
 
@@ -764,7 +791,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `I b.e-ih.en Z .ad-er.en I>;O.en ;I IN I>;k.l 7 u-er-er .az* G-r.lt.`
  * `I b.e-ih.en` < `I.ih.en`
- * `I>;k.l 7` → `:l 7`
+ * `I>;k.l 7` → `:el 7`
 
 ### Doppelte Weite für o-o und o-ur — § 20/5
 
@@ -991,7 +1018,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Dr. Waigel zur Stabilitätspolitik
 
-* `.ei-a-h, .eil<wr Z.aus.e FTs & fi-tik er.fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
+* `.ei-a-h, .eil<wr Z.aus.e FTs & fi.az-tik er.fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
+ * `fi.az-tik` » `fi-tik`
  * `er.fo.r.ei` × `er,r.ei`
  * `b.e-Ts` « `Ts`
  * `O.b.e-T` » `O.b.e`
@@ -1000,15 +1028,16 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `.e .ibt heu .ei-en w.et.auf .um.I n-dr.i-st IN.fla.ra.en IN .eu.a.`
  * `IN.fla-o.ra.en` » `IN.fla.ra.en`
  * `.eu.a` ~ `.eup`
-* `I E.ing-er-UNG ;r .aus-t,d.e-f.it.e i z eNT.eid.ed.en & O.ang.i .il ;r fi-tik ;O.`
+* `I E.ing-er-UNG ;r .aus-t,d.e-f.it.e i z eNT.eid.ed.en & O.ang.i .il ;r fi.az-tik ;O.`
  * `.aus-t,d.e-f.it.e` × `.aus-t,d.e-it.e`
  * `eNT.eid.ed.en` ~ `eNT.ei-ed.en`
+ * `fi.az-tik` » `fi-tik`
 * `I .ab.wet ;r .eig w-UNG git heu .as ma.l.`
  * `w-UNG` ! `wä`
 * `O w.en.i-en ja.en ;U.en eNT.spr.ed.e ass.am.en n-ch .as -t-l ;r o-u-UR<st.äk .emp.`
  * `eNT.spr.ed.e` × `eNT.ed.e`
  * `ass.am.en` ~ `ass;n`
- * `ko>j.ukt-UR.st.äk` * `ko,u-UR<st.äk` E * `o-u-UR<st.äk`
+ * `ko>j.ukt-UR.st.äk` * `ko,u-UR<st.äk` * `o-u-UR<st.äk`
 * `O .al.em i d m.od.ell ;r UN-ab.eng.i.en ;sch bu.b.ak O,bi f.I .eu.ä.i zr-a.b.ak ;O.`
  * `O .al.em` * `O-a`
  * `m.od.ell` ~ `m.o-ell`
@@ -1024,3 +1053,20 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `I .eu-p.i zr-a.b.ak ;wr dr.n E-a .ar AU.d .il ;r g.ed,.ab.ät E.icht.et.` …
 * `.e ;wr k.ei ;L.T zr* .ot.b.ak,fi.ir-UNG ;r .at.aus-t.e I>r .eu-p-o g.` …
 * `.auch I>r .äuss wä-tik er-t I .eu-p.i zr-a.b.ak I gl kom.ez.en, I heu I bu<b.ak wa;-t` …
+* `Ü.I f°.l :es wes.l,kus:em eNT.ei-en w.i-h I ;n.al ir-UNG.en.` …
+* `I>r -teg.L I>t-er.w-o-tik i I zr-a.b.ak j-ch UN-ab.i.` …
+* `l.T-IN.en .od-er ri.IN.en f.I wes.l,kus-tik ;r .ot.b.ak dr-I ir-UNG.en ;wr .e -t g.` …
+* `;L ;I ;UR g.en.ell.e .or.ir-UNG.en, I .S.L .emp.ed.en ch.ar ha.` …
+* `a-dr ;I I E-a.L gru-a G-g, a-M I kÜ.i.e .eu-p.i wä ;r d.m I>r .ab.ät -t ach.st.` …
+* `f.I Ü.ang.od.e bi<zr* er-ri ;r .eu-p.i zr-a.b.ak ha.wr .im E-a,eNT-u I UN-N.schr-t E>aNT ;r ;n.al .ot.b.ak.en f.I g.ed;-t,.ab.ät f°.ib.` …
+* `eNT.ei-ed.e AU.e :es Z er-ri.ed.en .eu-p.i wä,IN.ut i I O.b.e .ei-r fu-o,f.i.en .eu-p.i zr-a.b.ak.` …
+* `d wä,IN.ut ha j-ch k.ei-er.l.ei g.ed.it.e kom.ez.en.` …
+* `.e ;wr Ü k.ei .eig.end.i aP.ba.is E-Ü; .il<m ;w s.ei AU.w.en dr .ei>tr.e ;r ;n.al .ot.b.ak.en b.e-it.` …
+* `I b.e-oss E.bar.en E,hi grau,z.on.en I>r g.ed.it.i E>aNT.` …
+* `I g.ed & wä-tik k ;UR eNT.ed-er ;n.al .od-er su.n.al H.L eNT.id ;w.` …
+* `.e k k.ei G-m.ischt.e .od-er E.eilt.e g.ed-tik zw.ei-er .eu-p.i zr-a.e & .ei-er ;n.al .ot.b.ak g.` …
+* `g.ed;-t,.ab.ät ha I w.T-ed.e Ü.N,i ;r FT.L .il.e & er.iss.e zr* O.S-s.` …
+* `wr ;w I d.m ;UR IN.ei ;N.FT N.ing, ;r.en M-i-er ;sch-a .an .ab.ät,u-N -t ach.st.` …
+* `U.e kr.it & aP.kt.e ;I g.I Ü.ess.i I>.an,u.e dr-I kr.it<AU:e .ad-er-er .at.en G-schü.` …
+* `a-M, .ei-a-h, ;wr aP, d bi>h :ei,:ei f.I .aus-t,fi.ir-UNG E.w.et ;U, f IN.w-o.en & a-M f Ts.ez.e & f.I b.e-empf ;r ;l.os.T zr*-Ü.ellt.` …
+* `;UR b.ei er ;S I wä,u-O I>kra.tr.` …
