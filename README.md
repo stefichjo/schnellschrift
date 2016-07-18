@@ -101,7 +101,16 @@ Vorsilben werden hochgestellt. Anstelle einer Kürzung auf den Anlaut mit einer 
 
 ## Kürzung
 
-Eine (Anlaut-)Kürzung besteht in der Regel aus dem Ausstoßen des Auslauts und der Andeutung des Inlauts durch den Anlaut.
+### Formkürzung
+Formkürzungen auf die Nachsilbe werden auf die Oberlinie gestellt.
+* ~~dank~~**bar** → `;bar`
+* ~~ab~~end → `:ed`
+
+Beginnt die Nachsilbe mit *i*, so wird `I>;` statt `:i` geschrieben.
+* ~~reg~~ier → `I>;r`
+
+### Anlautkürzung
+Eine Anlautkürzung besteht in der Regel aus dem Ausstoßen des Auslauts und der Andeutung des Inlauts durch den Anlaut.
 * **bald** → `ba`
 * **blind** → `bli`
 * **schnell** → `schn`
@@ -131,12 +140,10 @@ Kann das Anlautzeichen den Inlaut nicht andeuten, so wird stattdessen auf den Au
       * **sprüch** → `.üch`
 
 Alternativ zur Inlautandeutung kann auf den Auslaut gekürzt werden.
-
 * ***schreib*** → `.eib` ≠ schrei
  * ***schrieb*** → `.ib` ≠ schrie
 
 Die Inlaute *e* (bzw. *ä*) und *a* werden bei Auslautkürzung ohne Anstrich geschrieben.
-
 * ***rech*** → `ech`
 * ***text*** → `ext`
 * ***kampf*** → `ampf`
@@ -157,13 +164,12 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *
 Anlautkürzel von alleinstehenden Verbstämmen werden ausgeschrieben.
 * **d**as → `d`
 * **bi**s → `bi`
-* **we**nd → `w` = `w.ed`
- * : an**we**nd → `.an.w`
+* **w**end → `w` = `w.ed`
+ * : an**w**end → `.an.w`
 
 ### Auslautkürzel
-Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Beginnt das Auslautkürzel mit *i*, so wird `I>;` statt `:i` geschrieben. Alleinstehende Auslautkürzel von Verbstämmen werden ausgeschrieben.
+Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Alleinstehende Auslautkürzel von Verbstämmen werden ausgeschrieben.
 * arb***eit*** → `;T`
-* ~~nat~~***ion*** → `I>;O`
 * f***ang*** → `:ang` ! `f.ang`
  * : f***ang*** an! → `:ang .an!` ! `f.ang .an!`
  * : ein anf***ang*** → `N .an.ang`
@@ -200,7 +206,7 @@ Kurzformen, die nur in Verbindung mit feststehenden Vor- oder Nachsilben angewen
 
 In- und Auslautkürzel gelten wie eigenständige Kürzel als erlernenswert.
 * arb***eit***s**los** → `;Ts.os`
- * ~~arbeit~~~~s~~***los*** → `;l.os` :)
+ * ~~arbeit~~~~s~~los → `;l.os` :)
 
 Bereits angewendete Kurzformen sollten zunächst nicht weiter abgeändert oder aufgehoben werden.
 * ***haus*** → `.aus`
