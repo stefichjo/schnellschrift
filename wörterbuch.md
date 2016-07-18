@@ -719,8 +719,8 @@
  * : **bi**o**graph**ie → `bi.gra.I` ! `b.i.o-gra.I`
  * : biblio**graph**ie → `b.ibl.i-gra.I` ! `b.ibl.i-o-gra.I`
  * : geo**graph** → `g.e-gra` ! `g.e-o-gra`
- * : ***p****ara***graph** → `pa.gra`
-    * ***p****ara*~~graph~~ `pa` E
+ * : **pa**ra**graph** → `pa.gra`
+    * **pa**ra~~graph~~ `pa` E
  * : phono**graph****isch** → `f.on.gra.i`
  * : steno**graph** → `st.en.gra` ! `st.en.o-gra`
     * ~~steno~~**graph** → `;gra`
@@ -1375,9 +1375,9 @@
 * mon***at*** → `:at` E
  * mon***at****lich* → `:at.L` E
 * mono- → `m.on` ! `m.on.o` E
-* ***m****onstr* → `mo`
- * : de***m****onstr*at*ion* → `d.e-mo.iO` ~ `d.e-mo-o`
- * : de***m****onstr*ier → `d.e-mo.ir`
+* **mo**nstr → `mo`
+ * : de**mo**nstrat*ion* → `d.e-mo.iO` ~ `d.e-mo-o`
+ * : de**mo**nstrier → `d.e-mo.ir`
 * mont → `m.ot`
  * : montage → `m.ot.asch.e` (E)
  * : montier → `m.ot.ir` (E)
@@ -1460,7 +1460,7 @@
  * ~~nehm~~st → `;-st`
     * : *vor*~~nehm~~st → `O;-st`
  * ~~nehm~~*ung* → `UNG`
-    * : ***w****ahr*~~nehm~~*ung* → `wa,UNG`
+    * : **wa**hr*~~nehm~~*ung* → `wa,UNG`
  * ***nimm*** → `.im`
     * -~~nimm~~t- → `;t`
        * : ab~~nimm~~t → `.ab;t`
@@ -1491,10 +1491,10 @@
  * *niedr* → `n-dr` V
 * -***nis*** → `.is` E
 * *noch* → `n-ch` V
-* ***nom** → `.om` ! `n.om`
- * : ***nom****inal* → `.om.iaL` ! `n.om.iaL`
- * : astro***nom***ie → `.a-str.om.I`
- * : öko***nom*** → `.ök.om`
+* n***om*** → `:om` ! `n.om`
+ * : n***om****inal* → `:om.iaL` ! `n.om.iaL`
+ * : astron***om***ie → `.a-str.om.I`
+ * : ökon***om*** → `.ök.om`
 * norm → `n.om` (E)
  * : normal → `n.om.al` (E)
  * : enorm → `.e-n.om` (E)
@@ -1548,19 +1548,19 @@
  * **pass** → `pass`
     * : **pass**us → `pass.us`
     * : **pass**ier → `pass.ir`
-* ***p****ar* → `pa`
- * : ***p****aar* → `pa`
- * : ***p****ar*ade → `pa.ad.e`
- * : ***p****ar*adis → `pa.ad.is`
- * : ***p****ar*is → `pa.is`
- * : ***p****ar*ität → `pa.ät` ! `p.ar.ät`
- * : ap***p****ar*at → `.a-pa.at` E
- * : ap***p****ar*atur → `.a-pa-UR` ! `.a-pa.UR` E
- * : re***p****ar*atur → `r.e>pa-UR` ! `r.e>pa-UR` E
- * : re***p****ar*ier → `r.e>pa.ir` E
- * : **trans*****p****ar**ent* → `tra.pa.eNT`
-* ***p****ara*- → `pa`
- * : ***p****ara*llel → `pa.ll.el` ~ `p.ar.el` E
+* **pa**r → `pa`
+ * : **pa**ar → `pa`
+ * : **pa**rade → `pa.ad.e`
+ * : **pa**radis → `pa.ad.is`
+ * : **pa**ris → `pa.is`
+ * : **pa**rität → `pa.ät` ! `p.ar.ät`
+ * : ap**pa**rat → `.a-pa.at` E
+ * : ap**pa**ratur → `.a-pa-UR` ! `.a-pa.UR` E
+ * : re**pa**ratur → `r.e>pa-UR` ! `r.e>pa-UR` E
+ * : re**pa**rier → `r.e>pa.ir` E
+ * : **trans****pa**r*ent* → `tra.pa.eNT`
+* **pa**ra- → `pa`
+ * : **pa**rallel → `pa.ll.el` ~ `p.ar.el` E
 * *parlament* → `PAR` ~ `p.ar` E
  * *parlamentar* → `PAR`
     * : *parlamentar*ier → `PAR.er` ! `PAR.ar-er`
@@ -1604,12 +1604,12 @@
  * : **trans****plant**at*ion* → `tra.pla.O`
 * ***platz*** → `.az`
  * : ***plätz***e → `.ez.e`
-* ***pl****ik* → `pl`
- * : *kom****pl****ik*at*ion* → `kom-pl-o`
- * ***pl****iz* → `pl`
-    * : *kom****pl****iz*ier → `kom-pl.ir`
- * ***pl****ex* → `pl`
-    * : *kom****pl****ex* → `kom-pl` ~ `ko>ex`
+* **pl**ik → `pl`
+ * : *kom***pl**ikat*ion* → `kom-pl-o`
+ * **pl**iz → `pl`
+    * : *kom***pl**izier → `kom-pl.ir`
+ * **pl**ex → `pl`
+    * : *kom***pl**ex → `kom-pl` ~ `ko>ex`
 * plod → `p.lod`
  * : *ex*plodier → `.e-pl.od.ir`
  * **pl**os → `pl`
@@ -1848,7 +1848,7 @@
  * : ansch***ein***end → `.an.N.ed`
  * : besch***ein***ig → `b.e-N.i`
  * : *er*sch***ein*** → `er.N` ~ `er.;N`
- * : ***w****ahr*sch***ein****lich* → `wa.N.L`
+ * : **wa**hr*sch***ein****lich* → `wa.N.L`
  * sch***ien*** → `I>;n`
     * : *er*sch***ien*** → `er.in`
 * schicht ← scheh
@@ -2414,8 +2414,8 @@
  * : **kraft****wag**en → `kra.wa`
 * **wahl** → `wa`
  * **wähl** → `w` ! `w.el`
-* ***w****ahr* → `wa`
- * : ***w****ahr*e → `wa.e`
+* **wa**hr* → `wa`
+ * : **wa**hr*e → `wa.e`
  * : ***w****ähr*end → `w.ed` E
  * : *ge****w****ähr* → `G-w` ! `G-wä`
 * walt → `wat` (E)
