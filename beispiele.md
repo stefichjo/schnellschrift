@@ -1070,3 +1070,75 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `U.e kr.it & aP.kt.e ;I g.I Ü.ess.i I>.an,u.e dr-I kr.it<AU:e .ad-er-er .at.en G-schü.` …
 * `a-M, .ei-a-h, ;wr aP, d bi>h :ei,:ei f.I .aus-t,fi.ir-UNG E.w.et ;U, f IN.w-o.en & a-M f Ts.ez.e & f.I b.e-empf ;r ;l.os.T zr*-Ü.ellt.` …
 * `;UR b.ei er ;S I wä,u-O I>kra.tr.` …
+
+
+
+* `.al.e ;I.CH dar.IN N.i, d .e O.ang.i-es .il ;r ;-tik ;N.uss, I ;Ts.os.T ;k-sa Z-b.e-empf.`
+ * `dar.IN` * `dar-i`
+ * `;Ts.os.T` ~ `;l.os.T`
+* `Ü.I G-eig.en w.eg.e Z-iS .il b.e-st j-ch UNTER.id.L.e AU.ass.en.`
+ * `UNTER.id.L.e` * `UNTER-i.L.e`
+* `bi>h ;U .IN.est-IN.e d .il E.fo, d bet-ig.an.ot Z-er.hö.`
+ * `IN.est-IN.e` × `IN.IN.e`
+* `.ob ;r j.i bu.r.ir-UNG M.ir-er eNT.spr.ed.en mer.H .im bu.ra AU.iS.it er.fo b.e-id.N.wr, bl.ei .of.`
+ * `bu.r.ir-UNG` * `u-r.ir-UNG` ~ `u-r-UNG`
+ * `eNT.spr.ed.en` × `eNT.ed.en`
+ * `mer.H` ~ `m.H`
+ * `AU.iS.it` * `AU-i.it`
+* `was d eu-er.L.e ko.z .an.g, .o E.spr.CH aCH.e fa.eut.e da.v E-t-is.ess.i w.en.i, & .ob d .an.str-t.e bü.is f ;T ;r gr.e w.uf ;N.wr, .eiss.ma n-ch-t.`
+ * `ko.z` ~ `ko-t`
+ * `da.v` * `a-v`
+ * `E-t-is.ess.i` × `E-t-is.i`
+* `AU-r .ei-en T.e i .ei b.e-m.ek;-t.e .of.iv.e hn.icht.L ;r Fö ;r :eil,T:T Z-E.eich, I .eif.l.os ;T-kt;t.i.e .ak.zet.e s.`
+ * `b.e-m.ek;-t` ~ `b.e-m;-t`
+ * `hn.icht.L` »× `hn.L`
+ * `.eif.l.os` > `.eif.os` ~ `.eif-s`
+ * `.ak.zet.e` ! `.ak.z.ent.e`
+ * `s` ! `s.ez`
+* `.im .öf.L.en di ;U da.M IN b.ay dr eNT.spr.ed.e ass.am.en I>zw .ei :eil,T,bet-ig v ru 20-o er-r.ei.`
+ * `.öf.L.en` ~ `.ö-L.en`
+ * `da.M` * `a-M`
+ * `eNT.spr.ed.e` × `eNT.ed.e`
+ * `ass.am.en` ~ `ass;n`
+* `;r v-r .at.r.ir-UNG INs l.eb.en G-uf.e bet-ig.pa ha T-er.in da.Z G-Ürt, I b.e-T-ell v .S>bi.ez.en Z-Fö.`
+ * `.at.r.ir-UNG` ~ `.at,ir-UNG`
+* `.is E>di b° .an.er.k.` …
+ * `.an.er.k` »× `.an.er`
+* `AU-r .ad-er.en T.e ber .ibt .e N ga bü.l eNT.g-s ass.am.en.` …
+ * `ass.am.en` ~ `ass;n`
+* `.o ha b.ay .as .est-es la I wo.T,T er.hö & N o>gr.am b.e-oss, ;m .im .öf.L di ja.ja ;I.e v pla.ell.en z  .opf-er fa.` …
+ * `o>gr.am` ~ `o>gra`
+ * `.öf.L` ~ `.ö-L`
+* `d .ürt ber .aut.at.i da.Z, d :er w.en.i-er ach.wus.kr.e N.ellt-w.` …
+ * `da.Z` * `a-Z`
+* `N da.M pa.ll.l .auf.ed-er .ab.bau v .at.L.en AU.ab.en i j-ch -t Z-E.eich, .o>d .as.o dr .iS.e ass.am.en I O.ha.e ;T .im .öf.L.en di AU w.en.i-er M.T-er E.eilt-wr.` …
+ * `da.M` * `a-M`
+ * `AU.ab.en` »× `AU.en`
+ * `ass.am.en` ~ `ass;n`
+ * `.öf.L.en` ~ `.ö-L.en`
+* `;r b.ay.i.e b.e-a.bu ha .iS ;r .at.r.ir-UNG mer.fa O-t.` …
+ * `.at.r.ir-UNG` ~ `.at,ir-UNG`
+ * `mer.fa` ~ `m.fa`
+* `.iS.e ess-CH .of.bar v-r Ü.l l.T, d d, was AU.m .al.G.N.en ;T-kt git, f.n .öf.L.en ;T-eb-er k.ei get ha.` …
+ * `ess-CH` ! `l.ess-CH`
+ * `.of.bar` ~ `.o-bar`
+ * `.al.G.N.en` »× `.al.G.en`
+ * `.öf.L.en` ~ `.ö-L.en`
+ * `;T-eb-er` ~ `;T-g-er` » `;T-g`
+* `I M.T-er :es .öf.L.en di.es ;I UNTER.m G-icht,u ;r .at.kost-en Z.s.eh, I v° eu-er.za-er fi.az.irt-w.`
+ * `.öf.L.en` ~ `.ö-L.en`
+ * `G-icht,u` × `G,u`
+ * `eu-er.za-er` ~ `eu-er;r`
+ * `fi.az.irt-w` » `fi.irt-w`
+* `j.e w.en.i-er p.al.kost.en ;r .at ha, d.est mer k.er f IN.w-o.en AU.w; j.e G-ing-er I kost-en :es .at.es ;I, d.est G-ing-er i I eu-er,b.e-ast ;r bÜ.er.`
+ * `mer` ~ `m.e`
+ * `bÜ-er` ! `b.üg-er`
+* `da.Z ko .iss.L n-ch: j.e eng-er I l.eb.T,T, d.est G-ing-er I E-s.o.ko.`
+ * `da.Z` * `a-Z`
+ * `eng-er` ~ `NGR`
+* `.e .uss ber .auch dar-AU hin.is.w, d dr .iS.e ;-tik ;r .öf.L.e di .S.tr.ok ;wr & d ;Ts.os.T ;n .at -t-UR g.ed kost, S-AY eu-er.N.am.en eNT.ih.`
+ * `ber .auch` * `ber-AY`
+ * `.öf.L.e` ~ `.ö-L.e`
+* `UN-es.L i da.b.ei d .ag.met, d I kost-en ;r ;Ts.os.T -t .S la-t-ln b.e-it ;w.` …
+ * `da.b.ei` * `a-b.ei`
+ * `.ag.met` ! `.ag.u-met`
