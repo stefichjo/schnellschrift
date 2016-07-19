@@ -264,19 +264,63 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 * **Anlaut**kürzel
 * Auslaut**kürzel**
 * Inl**au**tandeutung
+* : Beispiel
 
 ### Kurzschrift
-* `.` Anstrich (Grundlinie)
+* `.` Anstrich
+ * ab → `.ab`
 * `:` Anstrich (Oberlinie)
-* `,` Absetzen (Grundlinie)
+ * d***es*** → `:es`
+* `,` Absetzen
+ * *un**ge***heuer** → `UN-G,h.eu-er`
 * `;` Absetzen (Oberlinie)
+ * de***r*** → `;r`
 * `>` Ansetzen
+ * **bi**s**her** → `bi>h`
 * `<` Ausrichten (Grundlinie)
-* `-` Anlaut (Wortende)
-* `-` Auslaut (Wortanfang)
+ * *ver**viel*fält**ig** → `E.il<fet-ig`
+* `-` Wortbestandteil ohne Anstrich
+ * befehl → `b.e-f.el`
 * `-` Verschmelzen
-* `-` Selbstlautandeutung
+ * aber → `.ab-er`
 * `-` Anschließen (nach Aufstrich)
+ * fenster → `fest-er`
+* `-` Anlautschreibung (Auslaut)
+ * astro***naut*** → `.a-str.aut`
+* `-` Auslaut (Wortanfang)
+ * selbst → `-st`
+* `-` Selbstlautandeutung
+ * d**a****v**on → `a-v`
 * `Ü` Durchkreuzung
+ * **büch**er → `bÜ-er`
 * `*` Auslassen oder Setzen der Fußschleife
+ * **zahl***ung* → `za*`
 * `°` Kringel
+ * *fest* → `f°`
+
+
+### Kurzformalternativen
+* ~ Extrakürzel oder Extrakürzung
+ * anwalt → `.an.wat` ~ `.an-t`
+* ! Aufhebung des Kürzels oder der Kürzung
+ * ***seit*** → `T` ! `s.T`
+* * Selbstlautandeutung
+ * **kurz****schrift** → `ku.ift` * `ku,i`
+* » Nachsilbenauslassung am Wortende
+ * **frag**e → `fra.e` » `fra`
+* « Vorsilbenauslassung am Wortanfang
+ * *bereit*s → `b.e-Ts` « `Ts`
+* × Stammauslassung nach bestimmten Vor- und Nachsilben
+ * *un*abh***äng*****ig** → `UN-ab.eng.i` × `UN-ab.i`
+* »× Stammauslassung nach Vorsilbe
+ * *ant*wort → `aNT.wot` »× `aNT`
+* ×« Stammauslassung vor Nachsilbe
+ * dank**bar** → `d.ak.bar` ×« `;bar`
+* > Nachsilbenauslassung vor Nachsilbe
+ * **hind**er*lich* → `hi-er.L` > `hi.L`
+* < Vorsilbenauslassung nach Vorsilbe
+ * *un*be~~ding~~t → `UN-b.e-t` < `UN-t`
+* = Kompensation
+ * **schaff***ung* → `scha*` = `scha`
+
+
