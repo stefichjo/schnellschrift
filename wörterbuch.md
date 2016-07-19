@@ -340,7 +340,7 @@
 * -end → `.ed` (E)
 * energ → `.en.eg` (E)
  * ener***g*** → `;g`
-    * : ener***g*****i** → `;g.I`
+    * : ener***g*****ie** → `;g.I`
 * *ent*- → `eNT` V
 * -*ent* → `eNT` V
 * *er* → `er` V
