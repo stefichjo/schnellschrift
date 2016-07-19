@@ -75,9 +75,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Neue Ganzlängen — § 20/5
 
-* `wr.aub, d Fa .al.e .eu.ä-i E>brau-er u-er-er m.ak.e E>trau.`
+* `wr.aub, d Fa .al.e .eu.i E>brau-er u-er-er m.ak.e E>trau.`
  * `wr.aub` * `wr-au`
- * `.eu.ä-i` > `.eu.i` ~ `.eu-p.i`
+ * `.eu.i` ~ `.eu-p.i`
  * `E>brau-er` * `E-au-er`
  * `E>trau` * `E-au`
 
@@ -386,7 +386,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `zr Ü.am.e :es gr fa.GT f .eu.i sp.iaL.ät.en I>r ba.ho.stra Ü.t-l.wr,i I b.est wÜ.e.`
  * `Ü.am.e` !:! `Ü:e`
- * `.eu.ä-i` > `.eu.i` ~ `.eu-p.i`
+ * `.eu.i` ~ `.eu-p.i`
  * `ba.ho.stra` !:! `ba.ho:e`
  * `Ü.t-l.wr,i` ! `Ü.t-l.wr .in.en`
  * `I b.est wÜ.e` * `I b.est-Ü.e`
@@ -1038,13 +1038,13 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `eNT.spr.ed.e` × `eNT.ed.e`
  * `ass.am.en` ~ `ass;n`
  * `ko>j.ukt-UR.st.äk` * `ko,u-UR<st.äk` * `o-u-UR<st.äk`
-* `O .al.em i d m.od.ell ;r UN-ab.eng.i.en ;sch bu.b.ak O,bi f.I .eu.ä.i zr-a.b.ak ;O.`
+* `O .al.em i d m.od.ell ;r UN-ab.eng.i.en ;sch bu.b.ak O,bi f.I .eu.i zr-a.b.ak ;O.`
  * `O .al.em` * `O-a`
  * `m.od.ell` ~ `m.o-ell`
  * `UN-ab.eng.i.en` × `UN-ab.i.en`
- * `.eu.ä.i` ~ `.eu-p.i`
+ * `.eu.i` ~ `.eu-p.i`
 * `I kÜ-i.e .eu-ä.i zr-a.b.ak ;wr :ö UN-ab.eng.i eNT.eid.kö.`
- * `.eu.ä.i` ~ `.eu-p.i`
+ * `.eu.i` ~ `.eu-p.i`
  * `UN-ab.eng.i` × `UN-ab.i`
  * `eNT.eid.kö` ~ `eNT.ei-kö`
 * `.ir .at.us i M ;m<j ;r bu<b.ak UN-N.schr-t E.gl.bar.`
