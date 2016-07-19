@@ -252,3 +252,31 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
     * *unter*schr**i**ft → `UNTER,i` :)
  * : *vor***schrift** → `O.ift`
     * *vor*schr**i**ft → `O-i` :)
+
+## Legende
+
+### Langschrift
+* Kurzschreibung
+* *Kürzel*
+* **Anlautkürzung**
+* ***Auslautkürzung***
+* Form~~kürz~~ung
+* **Anlaut**kürzel
+* Auslaut**kürzel**
+* Inl**au**tandeutung
+
+### Kurzschrift
+* `.` Anstrich (Grundlinie)
+* `:` Anstrich (Oberlinie)
+* `,` Absetzen (Grundlinie)
+* `;` Absetzen (Oberlinie)
+* `>` Ansetzen
+* `<` Ausrichten (Grundlinie)
+* `-` Anlaut (Wortende)
+* `-` Auslaut (Wortanfang)
+* `-` Verschmelzen
+* `-` Selbstlautandeutung
+* `-` Anschließen (nach Aufstrich)
+* `Ü` Durchkreuzung
+* `*` Auslassen oder Setzen der Fußschleife
+* `°` Kringel
