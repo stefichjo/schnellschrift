@@ -225,8 +225,8 @@
  * dacht → `d.acht` (E)
     * dächt → `d.echt` (E)
  * dank → `d.ak` (E)
-    * : dank**bar** → `d.ak.bar` - `;bar`
-    * : **sehr**.dank**bar** → `s.d.ak.bar` - `s.bar`
+    * : dank**bar** → `d.ak.bar` ×« `;bar`
+    * : **sehr**.dank**bar** → `s.d.ak.bar` ×« `s.bar`
 * dens → `des`
  * : **kon**densier → `ko.des.ir`
  * : **kon**densat → `ko.des.at`
@@ -305,7 +305,7 @@
  * **durf** → `du` E
 * *düsseldorf* → `dÜ.o`
 * ehr → `.er`
- * : *ich*.h**a**be.~~die~~.ehre → `.I-a.er.e` - `.I-a:e`
+ * : *ich*.h**a**be.~~die~~.ehre → `.I-a.er.e` × `.I-a:e`
 * eig → `.eig`
  * : eigen → `.eig`
  * : eigent*lich* → `.eig.L` ~ `.ei-L`
@@ -354,11 +354,13 @@
     * ~~et~~w***as*** → `:as`
  * : **et**wa → `.e-w.a`
     * ~~et~~w***a*** → `:a`
-* **europ** → `.eu`
- * : **europ**a → `.eu.a`
- * : **europ**ä**isch** → `.eu.ä-i` > `.eu.i` E
- * *europa* → `.eu-p`
- * *europä* → `.eu-p`
+* *europ* → `.eu`
+ * : *europ*a → `.eu.a`
+    * *europa* → `.eu-p`
+ * *europä* → `.eu.i` E
+    * : *europä***isch** → `.eu.ä-i` > `.eu.i` E
+    * *europä* → `.eu-p`
+       * : *europä***isch** → `.eu-p.i`
 * **ex**- → `.e`
 * *exemp* → `.ex` E
  * : *exemp*el → `.ex.l` E
@@ -406,7 +408,7 @@
  * **fiel** → `fi` ! `f.i` E
 * falsch → `f.asch` (E)
 * falt → `fat` (E)
- * : *sorg*fält**ig** → `s.o-fet-ig` * `o<fet-ig` ~ `o<f.i` ! `s.og.fet-ig` (E)
+ * : *sorg*fält**ig** → `s.o-fet-ig` * `o>fet-ig` ~ `o>f.i` ! `s.og.fet-ig` (E)
  * : *ver**viel*fält**ig** → `E.il<fet-ig` ~ `E.il<f.i`
 * *famili* → `f.am` E
  * : *famili*e → `f.am.e` E » `f.am`
@@ -1818,7 +1820,7 @@
  * -*schaft* → `FT` V
     * **wirt***schaft* → `wit-FT` ~ `;wr.FT` ≠ **wiss**en*schaft*
        * wirt**schaft** → `FT` E
-          * **land**wirt**schaft** → `la.FT` ~ `a-;wr.FT`
+          * *land*wirt**schaft** → `la.FT` ~ `a-;wr.FT`
     * ***wiss****schaft* → `.iss.FT` ~ `wi.FT`
 * ***schau*** → `.au`
  * : *ge****schau*** → `G-au`
