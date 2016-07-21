@@ -323,4 +323,7 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 * = Kompensation
  * **schaff***ung* → `scha*` = `scha`
 
-
+* `y` = `i`
+* `Y` = `u`
+* `FT` = `<FT`
+* `H` = `<H`
