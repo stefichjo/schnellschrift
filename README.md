@@ -102,9 +102,10 @@ Vorsilben werden hochgestellt. Anstelle einer Kürzung auf den Anlaut mit einer 
 ## Kürzung
 
 ### Formkürzung
-Formkürzungen auf die Nachsilbe werden auf die Oberlinie gestellt.
+Formkürzungen auf die Nachsilbe werden auf die Oberlinie gestellt. Die Endung *ung* bleibt auf der Grundlinie.
 * ~~dank~~**bar** → `;bar`
 * ~~ab~~end → `:ed`
+* ~~verwalt~~*ung* → `UNG`
 
 Beginnt die Nachsilbe mit *i*, so wird `I>;` statt `:i` geschrieben.
 * ~~reg~~ier → `I>;r`
@@ -130,6 +131,7 @@ Hat der Stamm keinen Anlaut, so wird der Auslaut ausgestoßen.
 * -**ein**- → `.ei`
  * : **ein**er → `.ei-er`
 
+### Auslautkürzung
 Kann das Anlautzeichen den Inlaut nicht andeuten, so wird stattdessen auf den Auslaut gekürzt.
 * **sprech** → `spr`
  * **sprich** → `.ich`
@@ -157,6 +159,10 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *
 * **pass** → `pass`
 * **wass**er → `was-er`
 * **kurs** → `kus`
+
+### An- und Auslautkürzung
+In einigen Einzelfällen (meist bei Fremdwörtern) wird sowohl auf den An- als auch auf den Auslaut gekürzt.
+* **di**pl***om*** → `di.om`
 
 ## Kürzel
 
@@ -191,6 +197,15 @@ Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen 
 * *zu*f**ü**g → `Z-üg`
 * *zu****samm***enf**ü**g → `Z-sa.üg`
 * z**u*****rück******führ*** → `u-rÜ.ür`
+
+### Unregelmäßige Kürzungen
+Unregelmäßige Kürzungen werden wie Kürzel behandelt. Daher wird **la**nd (Anlautkürzel) statt **land** (Anlautkürzung) geschrieben.
+* land → `l.ad` ≠ lad
+ * **la**nd → `la` E
+ * länd → `l.ed` (E)
+    * : *ge*lände → `G-l.ed.e`
+    * : *ge*länder → `G-l.ed-er`
+    * ~~länd~~er → `;d-er`
 
 ## Didaktik
 
