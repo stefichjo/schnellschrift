@@ -263,10 +263,10 @@
  * : *un*be***ding***t → `UN-b.e-ingt` × *un*be~~ding~~t → `UN-b.e-t` < `UN-t`
  * : *un*be***ding***t.***not*****w**end**ig** → `UN-b.e-ingt .ot.w.i` ~ `UN-t o>w.i` ~ `UN-b.e-o-w.i`
 * *dis*- → `ds` E
-* *diplom* → `di.om`
- * *diplom*at → `di.om.at`
- * *diplom*atie → `di.om.I`
- * *diplom*atisch → `di.om.isch`
+* **di**pl***om*** → `di.om`
+ * **di**pl***om***at → `di.om.at`
+ * **di**pl***om***atie → `di.om.I`
+ * **di**pl***om***atisch → `di.om.isch`
 * *doch* → `d-ch` V
  * je*doch* → `j.e-d-ch`
     * *jedoch* → `j-ch`
@@ -340,7 +340,7 @@
 * -end → `.ed` (E)
 * energ → `.en.eg` (E)
  * ener***g*** → `;g`
-    * : ener***g*****ie** → `;g.I`
+    * : ener***g***ie → `;g.I`
 * *ent*- → `eNT` V
 * -*ent* → `eNT` V
 * *er* → `er` V
@@ -878,7 +878,7 @@
  * : *illustr*at*ion* → `.ill.iO`
 * im ← in
 * ~~imm~~er → `:er` E
- * n~~imm~~*er** → `;n.er` E
+ * n~~imm~~er → `;n.er` E
 * *in* → `IN` V
  * : **dar***in* → `dar.IN` * `dar-i`
  * .*in*. → `I>`
@@ -1057,7 +1057,7 @@
  * **köst** → `köst` E
     * : **köst***lich* → `köst.L`
  * -*kosten* → `ko`
-    * : *ver*walt*ung*s*kosten* → `E.wat-UNG.ko` « `UNG.ko`
+    * : *ver*walt*ung*s*kosten* → `E.wat-UNG.ko` ×« `UNG.ko`
 * **kraft** → `kra` E
  * : **kräft**e → `kr.e`
 * **krank** → `kra`
@@ -1105,14 +1105,16 @@
     * : **p**erk**u**ss*ion* → `p-u-o`
 * lad → `l.ad`
  * **last** → `ast` ! `.ast`
-* land → `l.ad` ≠ lad ~ `la` E
- * : landes → `l.ad.es` ~ `:es`
+* land → `l.ad` ≠ lad
+ * **la***nd* → `la` E
+ * : landes → `l.ad.es`
+    * ~~land~~es → `:es`
  * : deut***sch***land → `;sch.l.ad` * `;sch-a`
  * : **bund**es*republik*.deut***sch***land → `bu<r.e-ik:sch.l.ad` × **bund**es~~republik~~.deut***sch***land → `bu:sch.l.ad` * `bu:sch-a`
- * länd → `l.ed`
-    * : länder → `l.ed-er` (E) ~ `;d-er`
+ * länd → `l.ed` (E)
     * : *ge*lände → `G-l.ed.e`
     * : *ge*länder → `G-l.ed-er`
+    * ~~länd~~er → `;d-er`
 * ***lang*** → `ang` E
  * : ***läng***er → `eng-er` ~ `NGR`
 * l***ass*** → `:ass` ! `l.ass`
@@ -1429,11 +1431,11 @@
 * ~~nat~~*ion* → `I>;O`
 * ~~nat~~ur → `;UR` E
  * ~~nat~~*ür* → `;YR.L` E
-* ***naut*** → `.aut` ! `n.aut`
- * : ***naut***ik → `.aut.ik` ! `n.aut.ik`
- * : aero***naut***ik → `.er.aut.ik` ! `.er.o-n.aut.ik` ~ `.er.o-n.ik`
- * : astro***naut*** → `.a-str.aut`
- * : kosmo***naut*** → `k.osm.aut`
+* n***aut*** → `:aut` ! `n.aut`
+ * : n***aut***ik → `.aut.ik` ! `n.aut.ik`
+ * : aeron***aut***ik → `.er.aut.ik` ! `.er.o-n.aut.ik` ~ `.er.o-n.ik`
+ * : astron***aut*** → `.a-str.aut`
+ * : kosmon***aut*** → `k.osm.aut`
 * neg → `n.eg`
  * : negier → `n.eg.ir`
  * : negat*ion* → `n.eg.iO`
@@ -2423,8 +2425,7 @@
  * : ***recht***sanwalt → `echt.an.wat`
     * ***recht***san~~walt~~ `echt.an` ~ `R.an`
  * : *über*wältigend → `Ü.wet-ig.ed` (E)
- * : *ver*walt → `E.wat`
-    * *verwaltung* → `UNG`
+ * : *ver*walt → `E.wat` ×« ~~verwalt~~*ung* → `UNG`
 * wand ← wind
 * wand → `w.ad`
 * wandel ← wind
