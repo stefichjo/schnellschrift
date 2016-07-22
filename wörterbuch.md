@@ -1,5 +1,6 @@
 # Wörterbuch
 
+* ab → `.ab`
 * ~~ab~~end → `:ed`
 * aber → `.ab-er` (E)
  * *aber* → `ber`
@@ -151,7 +152,7 @@
 * branche → `br.asch.e` (E)
 * **brauch** → `brau` E
  * : *ge***bräuch***lich* → `G-bräu.L`
- * : *ver***brauch** → `E>brau` E * `E-au`
+ * : *ver***brauch** → `E>brau` E * *ver*br**au**ch → `E-au`
 * **brau** → `brau`
 * **brech** → `br`
  * **brich** → `bri`
@@ -189,7 +190,7 @@
 * b***us*** → `:us` ! `b.us`
  * : autob***us*** → `.aut.us` E
 * *büro* → `bÜ.o`
- * : *makler**büro* `m.ak-er.bÜ.o` ~ `m.ak-er-Ü.o`
+ * : *makler**büro* → `m.ak-er.bÜ.o` ~ `m.ak-er-Ü.o`
 * charakter → `ch.ar.akt-er` » `ch.ar` E
 * **chem** → `ch`
  * : **chem**ie → `ch.I`
@@ -347,7 +348,7 @@
 * erst → `.est` (E)
 * **es** → `.e` V
 * ess → `.ess`
- * : *inter*esse → `I>t-er.ess.e` × *inter*~~ess~~e → `I>t-er` E
+ * : *inter*esse → `I>t-er.ess.e` × *inter*~~ess~~e → `I>t-er.e` » `I>t-er` E
  * : *inter*essier → `I>t-er.ess.ir` × *inter*~~ess~~ier → `I>t-er.ir` E
 * **et**- → `.e` E
  * : **et****was** → `.e-was`
@@ -386,7 +387,7 @@
  * : *aus****f****ahr* → `.S.fa`
  * : *er****f****ahr* → `er.fa`
  * : *ge****f****ahr* → `G-fa`
- * : ***schiff******f****ahrt* `.if-fa-t`
+ * : ***schiff******f****ahrt* → `.if-fa-t`
  * : *ver****f****ahr* → `E.fa`
  * : *zu****f****ahr*t → `Z-fa-t`
  * ***f****ähr* → `f` E
@@ -606,8 +607,8 @@
  * : ab*führ* → `.ab-Ür`
  * : an*führ* → `.an-Ür`
  * : auf*führ* → `AU-Ür`
- * : *aus**führ* `.S-Ür` = `.S.ür` E * `.S-ü`
- * : *durch**führ* → `dr-Ür` E * `dr-ü`
+ * : *aus**führ* → `.S-Ür` = `.S.ür` E * *aus*f**ü**hr → `.S-ü`
+ * : *durch**führ* → `dr-Ür` E * *durch*f**ü**hr → `dr-ü`
  * : ein*führ* → `N-Ür`
  * : *ge**führ*t → `G-Ürt`
  * : *geschäft*s*führ*er → `GT-Ür-er` E
@@ -960,9 +961,9 @@
  * : (just)ier → `j.u+st.ir` E
  * *justiz* → `j.u+st` E
 * **kalk** → `ka` ! `k.ak`
-* *kalkul* → `k.ak` E * `ka,u`
- * : *kalkul*at*ion* → `k.ak.iO` E * `ka,u-O`
- * : *kalkul*ier → `k.ak.ir` E * `ka,u-ir`
+* *kalkul* → `k.ak` E * **kalk*****u****l* → `ka,u`
+ * : *kalkul*at*ion* → `k.ak.iO` E * **kalk*****u****l*at*ion* → `ka,u-O`
+ * : *kalkul*ier → `k.ak.ir` E * **kalk*****u****l*ier → `ka,u-ir`
 * kalt → `kat`
 * ***kampf*** → `ampf`
  * : **klass**en***kampf*** → `kla.ampf`
@@ -1286,7 +1287,7 @@
        * : ~~ge~~m***ein****schaft* → `;N.FT`
        * : arb***eit***s~~ge~~m***ein****schaft* → `;Ts.N.FT` » `;Ts.N`
     * : *all**ge*m***ein*** → `.al.G-N` = `.al.G.N`
-       * *all**ge*~~mein~~ → `.all.G` E * `.a-G`
+       * *all**ge*~~mein~~ → `.all.G` E ~ `.a-G`
     * : im.*all**ge*m***ein***en → `.im.al.G-N` = `.im.al.G.N` * im.**a**ll*ge*m***ein***en → `.im.a-G.N` ~ `.im.a-G`
 * **meist** → `m.ei`
 * meld → `m.ed`
@@ -1352,7 +1353,7 @@
 * *mitt* → `M`
  * : e*mitt*ier → `.e-M.ir` ! `.e-m.it.ir`
  * : *kom*pr**o***mitt*ier → `kom.o-M.ir` ~ `kom-p.it.ir`
-    * *kompromitt* `k.om-p.it.ir` E
+    * *kompromitt* → `k.om-p.it.ir` E
  * *miss* → `ms`
     * : *miss**ion* → `ms-o`
     * : e*miss**ion* → `.e-ms-o`
