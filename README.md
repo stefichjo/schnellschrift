@@ -321,16 +321,12 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
  * ***seit*** → `T` ! `s.T`
 * * Selbstlautandeutung
  * **kurz****schrift** → `ku.ift` * `ku,i`
+* × Stammauslassung nach bestimmten Vor- und/oder Nachsilben
+ * *un*abh***äng*****ig** → `UN-ab.eng.i` × `UN-ab.i`
 * » Nachsilbenauslassung am Wortende
  * **frag**e → `fra.e` » `fra`
 * « Vorsilbenauslassung am Wortanfang
  * *bereit*s → `b.e-Ts` « `Ts`
-* × Stammauslassung nach bestimmten Vor- und Nachsilben
- * *un*abh***äng*****ig** → `UN-ab.eng.i` × `UN-ab.i`
-* »× Stammauslassung nach Vorsilbe
- * *ant*wort → `aNT.wot` »× `aNT`
-* ×« Stammauslassung vor Nachsilbe
- * dank**bar** → `d.ak.bar` ×« `;bar`
 * > Nachsilbenauslassung vor Nachsilbe
  * **hind**er*lich* → `hi-er.L` > `hi.L`
 * < Vorsilbenauslassung nach Vorsilbe
