@@ -119,7 +119,7 @@
  * : *auf*.*dies*em.*ge****biet*** → `AU.iS.it` * *auf*.d**ie**sem.*ge****biet*** → `AU-i.it`
  * ***bot*** → `.ot` E
     * : an*ge****bot*** → `.an.ot`
-* ~~bil~~anz → `:az` ~ → `;az`
+* ~~bil~~anz → `:az` ~ `;az`
 * **bild** → `bi` E
  * *vor***bild** → `O,bi`
 * **bill** → `bi`
@@ -2183,11 +2183,11 @@
  * : *in*str**u**ier → `IN,u-ir`
  * : *in*str**u**ment → `IN,u-met` ~ `IN.u-met`
  * : **kon**str**u**ier → `ko,u.ir`
- * str**u**kt → `u`
-    * : str**u**ktur → `u-UR` ≠ k**u**ltur ! `str.ukt-UR` » `str.ukt` ~ `str.uk` E
-    * : *in*str**u**kt*ion* → `IN,u-O`
-    * : *in*frastr**u**ktur → `IN.fra,u-UR`
-    * : **kon**str**u**kt*ion* → `ko,u-O` E
+ * *str****u****kt* → `u`
+    * : *str****u****kt*ur → `u,UR` ! `str.ukt-UR` » `str.ukt` ~ `str.uk` E
+    * : *in**str****u****kt**ion* → `IN,u-O`
+    * : *in*fra*str****u****kt*ur → `IN.fra,u-UR`
+    * : **kon***str****u****kt**ion* → `ko,u-O` E
 * ***stück*** → `.ük`
  * **früh*****stück*** → `frÜ.ük`
 * ***stud*** → `.ud`
