@@ -1133,7 +1133,7 @@
     * : l***äss*****ig** → `:ess.i` ! `l.ess.i`
     * : anl***äss****lich* → `.an.ess.L` × an~~läss~~*lich* → `.an.L`
     * : ***f****ahrl****äss*****ig** → `fa.ess.i` ! `fa.l.ess.i`
- * l***ieß*** → `:iss` ! `l.iss`
+ * l***ieß*** → `I>;ss` ! `l.iss`
     * : *hinter*l***ieß*** → `I>t-er.iss`
 * last ← lad
 * laub → `l.aub`
