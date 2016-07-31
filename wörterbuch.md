@@ -1074,7 +1074,7 @@
 * **kred** → `kr`
  * : **kred**it → `kr.it` E
 * kr***eis*** → `:eis`
- * landkr**eis** → `l.ad.eis` ~ `la.eis`
+ * **la***nd*kr**eis** → `la.eis`
 * **kret** → `kr`
  * : **kon****kret** → `ko.kr`
  * : **kon****kret**isier → `ko.kr.ir`
@@ -1113,16 +1113,14 @@
     * : **p**erk**u**ss*ion* → `p-u-o`
 * lad → `l.ad`
  * **last** → `ast` ! `.ast`
-* land → `l.ad` ≠ lad
- * **la***nd* → `la` E
- * : landes → `l.ad.es`
-    * ~~land~~es → `:es`
- * : deut***sch***land → `;sch.l.ad` * deut***sch***l**a**nd → `;sch-a`
- * : **bund**es*republik*.deut***sch***land → `bu<r.e-ik:sch.l.ad` × **bund**es~~republik~~.deut***sch***land → `bu:sch.l.ad` * **bund**es~~republik~~.deut***sch***l**a**nd → `bu:sch-a`
- * länd → `l.ed` (E)
-    * : *ge*lände → `G-l.ed.e`
-    * : *ge*länder → `G-l.ed-er`
-    * ~~länd~~er → `;d-er`
+* **la***nd* → `la` E
+ * : deut***sch*****la***nd* → `;sch.la` * deut***sch***l**a**nd → `;sch-a`
+ * : **bund**es*republik*.deut***sch*****la***nd* → `bu<r.e-ik:sch.la` × **bund**es~~republik~~.deut***sch*****la***nd* → `bu:sch.la` * **bund**es~~republik~~.deut***sch***l**a**nd → `bu:sch-a`
+ * ~~land~~es → `:es`
+ * ~~län~~der → `;d-er`
+ * *länd* → `l.ed` (E)
+    * : *ge**länd*e → `G-l.ed.e`
+    * : *ge**länd*er → `G-l.ed-er`
 * ***lang*** → `ang` E
  * : ***läng***er → `eng-er` ~ `NGR`
 * l***ass*** → `:ass` ! `l.ass`
@@ -1692,10 +1690,9 @@
     * *republikanisch* → `r.e-ik.i` E
     * : **bund**es*republik* → `bu<r.e-ik` < `bu.ik`
 * *punkt* → pt. → `pt` E
- * : *stand**punkt* → `and.pt` * st**a**nd*punkt* → `a-pt`
  * -p**u**nkt → `u`
     * : *ge*s***icht***sp**u**nkt → `G-icht,u` × *ge*~~sicht~~sp**u**nkt → `G,u`
-    * : *stand*p**u**nkt → `and,u`
+    * : *stand*p**u**nkt → `and,u` ~ st**a**nd*punkt* → `a-pt`
  * *pünkt* → pt. → `pt` E
 * **p**ut → `p`
  * am**p**utat*ion* → `.am-p-o`
@@ -1830,7 +1827,7 @@
  * -*schaft* → `FT` V
     * **wirt***schaft* → `wit-FT` ~ `;wr.FT` ≠ **wiss**en*schaft*
        * wirt**schaft** → `FT` E
-          * *land*wirt**schaft** → `la.FT` ~ `a-;wr.FT`
+          * **la***nd*wirt**schaft** → `la.FT` ~ `a-;wr.FT`
     * ***wiss****schaft* → `.iss.FT` ~ `wi.FT`
 * ***schau*** → `.au`
  * : *ge****schau*** → `G-au`
