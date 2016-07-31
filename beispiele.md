@@ -40,8 +40,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Anlautkürzungen mit e (I) — § 14/1 a
 
-* `.I G-sta.ir .ei p.L.e b.e-m.ek.`
+* `.I G-sta.ir .ei p-s.L.e b.e-m.ek.`
  * `G-sta.ir` * `G-a.ir` = `-G-a.ir`
+ * `p-s.L.e` × `p.L.e`
  * `b.e-m.ek` ~ `b.e-m`
 
 #### Engere Kontakte erwünscht
@@ -132,10 +133,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `I b.e-ra.en M.m .auss,mi.um :ar er.fo.r.ei.`
+* `I b.e-ra.en M.m .auss,mi.um :ar er>fo.r.ei.`
  * `b.e-ra.en` ~ `Ra.en`
  * `.auss,mi.um` × `.auss.um`
- * `er.fo.r.ei` × `er,r.ei`
+ * `er>fo.r.ei` × `er,r.ei`
 
 ### Die Schlusssilbenkürzung (II) — § 18/2 a; Verkürzung von da- und dar- — § 20/3
 
@@ -204,9 +205,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `O.a` * `O-a`
  * `ga.b°` ! `ga.b.e-S` × `ga-S`
  * `-st-E.wat` ! `-st-E.wat-UNG` « `-st-UNG`
-* `AU.iS.it ;S.en IN.est-IN.e E.wat.kost.en N.spa-t-w.`
+* `AU.iS.it ;S.en I>est-IN.e E.wat.kost.en N.spa-t-w.`
  * `AU.iS.it` * `AU-i.it`
- * `IN.est-IN.e` × `IN.IN.e`
+ * `I>est-IN.e` × `I>IN.e` ! `IN.IN.e`
  * `E.wat.kost.en` ! `E.wat-UNG.kost.en` « `UNG.ko`
  * `N.spa-t-w` ! `N.spa ;w`
 
@@ -250,7 +251,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Die Geschäftsstelle wird verlegt
 
-* `v.U.em M.T-er ha.en.sI scho er.fa, d .U.e GT-ell.e ;m-st v-er g.öt.e+stra I>I nÜ.b.er:e E.l ;w.S.`
+* `v.U.em M.T-er ha.en.sI scho er>fa, d .U.e GT-ell.e ;m-st v-er g.öt.e+stra I>I nÜ.b.er:e E.l ;w.S.`
  * `g.öt.e+stra` !:! `g.öt.e:e`
  * `nÜ.b-er+stra` !:! `nÜ.b.er:e`
  * `E.lt-w-s` ! `E.l ;w.S`
@@ -259,7 +260,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `.e-i° f.U -st-E.end.L, d -G-a.e .iS.e GT-ell.e ga.b° l.ei-f.i ;N.uss.`
  * `-st-E.end.L` × `-st-L`
  * `ga.b°` ! `ga.b.e-S` < `ga-S`
-* `wr g da.v .S, d ;r .um.ug UN-t-l.bar ach.n m.al.er;T-en er.fo.`
+* `wr g da.v .S, d ;r .um.ug UN-t-l.bar ach.n m.al.er;T-en er>fo.`
  * `da.v` * `a-v`
  * `UN-t-l.bar` × `UN-bar`
 * `.iS ;wr ach.U.N sp.est-ens .ed.e .iS.at ;r fa ;N.`
@@ -299,9 +300,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Zum Vereinsjubiläum
 
-* `.im ig.at k-t I ;gra.i E.N.i u-er-er sta AU hu ja.e er.fo.r.ei-er ;T u-rÜ.ik.`
+* `.im ig.at k-t I ;gra.i E.N.i u-er-er sta AU hu ja.e er>fo.r.ei-er ;T u-rÜ.ik.`
  * `E.N.i` × `E.i` ! `E.ig`
- * `er.fo.r.ei-er` × `er,r.ei-er`
+ * `er>fo.r.ei-er` × `er,r.ei-er`
 
 ### Anlautkürzungen mit r-Verschmelzung — § 20/1 b
 
@@ -415,7 +416,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Einladung zur Elternversammlung
 
-* `.S-er -tag.T-UNG ha.en.sI wa.N.L sch v.ei-em wi.i pla er.fa, ;r I>r;-st-T r.e-al.irt-w.S.`
+* `.S-er -tag.T-UNG ha.en.sI wa.N.L sch v.ei-em wi.i pla er>fa, ;r I>r;-st-T r.e-al.irt-w.S.`
 
 ### Die Kürzung auf den Nachlaut — § 16
 
@@ -444,7 +445,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `.iS-er s.o.fet-ig er.fa.b.e,ri ;r G-FT f er.n.är E,di UN-b.e-ing-t .ir.e AU.m.ek-sa.T.`
+* `.iS-er s.o.fet-ig er>fa.b.e,ri ;r G-FT f er.n.är E,di UN-b.e-ing-t .ir.e AU.m.ek-sa.T.`
  * `s.o.fet-ig` * `o<fet-ig` ~ `o<f.i`
  * `er.n.är` ~ `er.ä`
  * `UN-b.e-ing-t` × `UN-t`
@@ -463,8 +464,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Kürzen Sie stärker
 
-* `IN.fo ;r Ü.schw.em k.am .e Z stra.sp.err.en.`
- * `IN.fo` ~ `IN.o`
+* `I>fo ;r Ü.schw.em k.am .e Z stra.sp.err.en.`
+ * `I>fo` ~ `IN.o`
  * `stra.sp.err.en` ≠ **straß**ensperren ! `stra.sp.err-UNG.en`
 
 #### Betriebliche Kontrollen
@@ -509,8 +510,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Andere Fremdwörter mit Aufstrich-t — § 19/3; -ent und -ant in Fremdwörtern — § 20/5
 
-* `wr-a f.U.e IN.w-UR N f°.es ko.z.`
- * `IN.w-UR` ~ `IN-tUR`
+* `wr-a f.U.e I>w-UR N f°.es ko.z.`
+ * `I>w-UR` ~ `IN-tUR`
  * `ko.z` ~ `ko-t`
 
 #### Anlautkürzungen mit ei — § 14/1 a
@@ -555,7 +556,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Der Neubau ist Ende August fertiggestellt
 
-* `UN-t-l.bar ach.m t.f.at M frau bau-er ha.wr .U M.m m.agd.e-bu-er m.ak-er-Ü.o I>E,bi.s, .um n.äh.es Ü.n neu.bau I>r s.i-l-UNG .am neu ;kt Z-er.fa.`
+* `UN-t-l.bar ach.m t.f.at M frau bau-er ha.wr .U M.m m.agd.e-bu-er m.ak-er-Ü.o I>E,bi.s, .um n.äh.es Ü.n neu.bau I>r s.i-l-UNG .am neu ;kt Z-er>fa.`
  * `UN-t-l.bar` × `UN-bar`
  * `bau-er` ! `bau.er`
  * `m.agd.e-bu-er` ! `m.agd.e-bu.er`
@@ -620,7 +621,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Die Mobilität bietet nicht nur Vorteile
 
-* `wr l.eb IN.ei-er m.ob.il G-FT.`
+* `wr l.eb I>ei-er m.ob.il G-FT.`
+ * `I>ei-er` ! `IN.ei-er`
 * `ber .iS-e m.ob.ät ha -t>ur O.eil.e.`
 
 ### Auslautkürzungen mit ä, o, ö — § 15/1 a
@@ -630,8 +632,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Informationsverarbeitung
 
-* `I IN.om-o.E.ab.T i .ei zr-a.e AU.ab.e j.es UNTER.em-er.`
- * `IN.om-o.E.ab.T` » `IN.om-o.E`
+* `I I>om-o.E.ab.T i .ei zr-a.e AU.ab.e j.es UNTER.em-er.`
+ * `I>om-o.E.ab.T` » `I>om-o.E` ! `IN.om-o.E`
  * `AU.ab.e` × `AU.e`
  * `UNTER.em-er` × `UNTER;r` ~ `UNTER-er`
 
@@ -661,7 +663,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Die Wissenschaftlichen Dienste
 
-* `PAR.M.id-er & ;r.en M.T-er kö I .um<ang.r.ei IN.om-o.en ;UR IN ko>zr.irt-er .om .S.wet.`
+* `PAR.M.id-er & ;r.en M.T-er kö I .um<ang.r.ei I>om-o.en ;UR IN ko>zr.irt-er .om .S.wet.`
+ * `I>om-o.en` ! `IN.om-o.en`
  * `PAR.M.id-er` * `PAR,Mi-er`
  * `.um<ang.r.ei` × `.um.r.ei` ~ `.um<eich`
 
@@ -671,7 +674,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Gute IHK-Prüfungsergebnisse
 
-* `G-a.e ha I IN.ha.ka .ir.en b.e,ri Ü.I .is.i ;bst-Ü.UNG E.ö-L-t.`
+* `G-a.e ha I I>ha.ka .ir.en b.e,ri Ü.I .is.i ;bst-Ü.UNG E.ö-L-t.`
+ * `I>ha.ka` ! `IN.ha.ka`
  * `.is<j.i` × `.is.i`
  * `;bst,prÜ.UNG` * `;bst-Ü.UNG`
 
@@ -826,9 +830,11 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Infrastruktur ist kein Schlagwort
 
-* `I>r T-UNG, .im l.ok.al.eil .eb.oft w.i .im FT.eil, i :er,i v IN.fra,u-UR Z.l.es.`
+* `I>r T-UNG, .im l.ok.al.eil .eb.oft w.i .im FT.eil, i :er,i v I>fra,u-UR Z.l.es.`
  * `l.ok.al.eil` × `l.ok.eil`
-* `IN.fra,u-UR i dr.S ;K .ag-o, S ;r ;m.in.us,t.en.ik.us f.ei-en wi.i l.eb-b.e-r.ei.`
+ * `I>fra,u-UR` ! `IN.fra,u-UR`
+* `I>fra,u-UR i dr.S ;K .ag-o, S ;r ;m.in.us,t.en.ik.us f.ei-en wi.i l.eb-b.e-r.ei.`
+ * `I>fra,u-UR` ! `IN.fra,u-UR`
  * `;m.in.us,t.en.ik.us` × `;m.in.us,.us`
  * `l.eb-b.e-r.ei` ~ `l.eb-b.e-eich`
 
@@ -840,13 +846,13 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Aus der Arbeit eines Bundesministeriums
 
-* `d bu,mi-er.I.um f .ug.ed, f.am.e, frau.en & G-und.H ha .il.e AU.ab.en Z-er.fÜ.`
+* `d bu,mi-er.I.um f .ug.ed, f.am.e, frau.en & G-und.H ha .il.e AU.ab.en Z-er>fÜ.`
  * `bu,mi-er.I.um` × `bu.um`
  * `.ug.ed` » `.ug` ! `j.ug`
  * `f.am.e` E » `f.am`
  * `G-und.H` * `u-H`
  * `AU.ab.en` × `AU.en`
- * `Z-er.fÜ` ! `Z-er-Ü.en`
+ * `Z-er>fÜ` ! `Z-er-Ü.en`
 
 ### Anlautkürzungen für Fremdwörter mit Stammselbstlaut a — § 19/1 a
 
@@ -951,10 +957,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `ho.ul.e` * `ho-u`
  * `.at.prÜ.UNG` * `.at-Ü.UNG`
  * `ho.ul<prÜ.UNG` * `ho-u,prÜ.UNG` * `ho-u-Ü.UNG`
-* `:es>ha i f.n b.e-uf :es PAR;gra Z-echst I ho.ul.eif.e er.F.L.`
+* `:es>ha i f.n b.e-uf :es PAR;gra Z-echst I ho.ul.eif.e er>F.L.`
  * `Z-echst` ~ `Z.n`
  * `ho.ul.eif.e` * `ho-u.eif.e`
- * `er.F.L` ~ `er.o-L`
+ * `er>F.L` ~ `er.o-L`
 
 ### Wir trainieren (X)
 
@@ -984,8 +990,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `.S .iS gru.e ;w gr.e .an>str.en G-aCHT, .um I ;sch.e spra.e .im .S.la st.äk-er Z-E.br.T.`
  * `.S .iS gru.e` ~ `.S-S.gru.e` × `.S-S.e`
  * `spra.e` » `spra`
-* `I r.e-al.ir-UNG .iS-es .il da ber-t N.T-ig er.fo.`
- * `er.fo` » `er`
+* `I r.e-al.ir-UNG .iS-es .il da ber-t N.T-ig er>fo.`
+ * `er>fo` » `er`
 * `.U.e .S-tig.e kut-UR-tik i dr .S.tau & Z-sa.T AU-r ba.is gl.b.e-echt.i pat-er.FT G-k.eich.`
  * `kut-UR` * `u-UR`
  * `gl.b.e-echt.i` ~ `gl.b.e-R.i` » `gl.b.e-R` ~ `gl.b.e-r`
@@ -1017,15 +1023,15 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Dr. Waigel zur Stabilitätspolitik
 
-* `.ei-a-h, .eil<wr Z.aus.e FTs & fi.az-tik er.fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
+* `.ei-a-h, .eil<wr Z.aus.e FTs & fi.az-tik er>fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
  * `fi.az-tik` » `fi-tik`
- * `er.fo.r.ei` × `er,r.ei`
+ * `er>fo.r.ei` × `er,r.ei`
  * `b.e-Ts` « `Ts`
  * `O.b.e-T` » `O.b.e`
 * `d ;b.ol ;r hat d.m  i zr* l.T-IN.e f .eu.a ;O.`
  * `.eu.a` ~ `.eup`
 * `.e .ibt heu .ei-en w.et.auf .um.I n-dr.i-st IN.fla.ra.en IN .eu.a.`
- * `IN.fla-o.ra.en` » `IN.fla.ra.en`
+ * `I>fla-o.ra.en` ! `IN.fla-o.ra.en` » `IN.fla.ra.en`
  * `.eu.a` ~ `.eup`
 * `I E.ing-er-UNG ;r .aus-t,d.e-f.it.e i z eNT.eid.ed.en & O.ang.i .il ;r fi.az-tik ;O.`
  * `.aus-t,d.e-f.it.e` × `.aus-t,d.e-it.e`
@@ -1070,18 +1076,20 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `a-M, .ei-a-h, ;wr aP, d bi>h :ei,:ei f.I .aus-t,fi.ir-UNG E.w.et ;U, f IN.w-o.en & a-M f Ts.ez.e & f.I b.e-empf ;r ;l.os.T zr*-Ü.ellt.` …
 * `;UR b.ei er ;S I wä,u-O I>kra.tr.` …
 
+# ...
+
 * `.al.e ;I.CH dar.IN N.i, d .e O.ang.i-es .il ;r ;-tik ;N.uss, I ;l.os.T ;k-sa Z-b.e-empf.`
  * `dar.IN` * `dar-i`
 * `Ü.I G-eig.en w.eg.e Z-iS .il b.e-st j-ch UNTER.id.L.e AU.ass.en.`
  * `UNTER.id.L.e` * `UNTER-i.L.e`
-* `bi>h ;U .IN.est-IN.e d .il E.fo, d bet-ig.an.ot Z-er.hö.`
- * `IN.est-IN.e` × `IN.IN.e`
-* `.ob ;r j.i bu.r.ir-UNG M.ir-er eNT.spr.ed.en mer.H .im bu.ra AU.iS.it er.fo b.e-id.N.wr, bl.ei .of.`
+* `bi>h ;U .I>est-IN.e d .il E.fo, d bet-ig.an.ot Z-er.hö.`
+ * `I>est-IN.e` × `I>IN.e`
+* `.ob ;r j.i-en bu.r.ir-UNG M.ir-er eNT.spr.ed.en mer.H .im bu.ra AU.iS.it er>fo b.e-id.N.wr, bl.ei .of.`
  * `bu.r.ir-UNG` * `u-r.ir-UNG` ~ `u-r-UNG`
  * `eNT.spr.ed.en` × `eNT.ed.en`
  * `mer.H` ~ `m.H`
  * `AU.iS.it` * `AU-i.it`
-* `was d eu-er.L.e ko.z .an.g, .o E.spr.CH aCH.e fa.eut.e da.v E-t-is.ess.i w.en.i, & .ob d .an.str-t.e bü.is f ;T ;r gr.e w.uf ;N.wr, .eiss.ma n-ch-t.`
+* `was d eu-er.L.e ko.z .an.g, .o E.spr.CH aCH.e fa.eut.e da.v E-t-is.ess.i w.en.i, & .ob d .an>str-t.e bü.is f ;T ;r gr.e w.uf ;N.wr, .eiss.ma n-ch-t.`
  * `ko.z` ~ `ko-t`
  * `da.v` * `a-v`
  * `E-t-is.ess.i` × `E-t-is.i`
@@ -1096,18 +1104,19 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `da.M` * `a-M`
  * `eNT.spr.ed.e` × `eNT.ed.e`
  * `ass.am.en` ~ `ass;n`
-* `;r v-r .at.r.ir-UNG INs l.eb.en G-uf.e bet-ig.pa ha T-er.in da.Z G-Ürt, I b.e-T-ell v .S>bi.ez.en Z-Fö.`
+* `;r v-r .at.r.ir-UNG I>s l.eb.en G-uf.e bet-ig.pa ha T-er.in da.Z G-Ürt, I b.e-T-ell v .S>bi.ez.en Z-Fö.`
  * `.at.r.ir-UNG` ~ `.at,ir-UNG`
-* `.is E>di b° .an.er.k.`
+ * `da.Z` * `a-Z`
+* `.is E>di b°.e .an.er.k.`
  * `.an.er.k` × `.an.er`
-* `AU-r .ad-er.en T.e ber .ibt .e N ga bü.l eNT.g-s ass.am.en.`
+* `AU-r .ad-er.en T.e ber .ibt .e N ga.es bü.l eNT.g-s ass.am.en.`
  * `ass.am.en` ~ `ass;n`
-* `.o ha b.ay .as .est-es la I wo;T,T er.hö & N o>gr.am b.e-oss, ;m .im .öf.L di ja.ja ;I.e v pla.ell.en z  .opf-er fa.`
+* `.o ha b.ay .as .est-es la I wo;T,T er.hö & N o>gr.am b.e-oss, ;m .im .öf.L.en di ja.ja ;I.e v pla.ell.en z .opf-er fa.`
  * `o>gr.am` ~ `o>gra`
  * `.öf.L` ~ `.ö-L`
-* `d .ürt ber .aut.at.i da.Z, d :er w.en.i-er ach.wus.kr.e N.ellt-w.` 117
+* `d .ürt ber .aut.at.i da.Z, d :er w.en.i-er ach.wus.kr.e N.ellt-w.`
  * `da.Z` * `a-Z`
-* `N da.M pa.ll.l .auf.ed-er .ab.bau v .at.L.en AU.ab.en i j-ch -t Z-E.eich, .o>d .as.o dr .iS.e ass.am.en I O.ha.e ;T .im .öf.L.en di AU w.en.i-er M.T-er E.eilt-wr.`
+* `N da.M pa.ll.l .auf.ed-er .ab.bau v .at.L.en AU.ab.en i j-ch -t Z-E.eich, .o>d .as.o dr .iS.e ass.am.en I O.ha.en.e ;T .im .öf.L.en di AU w.en.i-er M.T-er E.eilt-wr.`
  * `da.M` * `a-M`
  * `AU.ab.en` × `AU.en`
  * `ass.am.en` ~ `ass;n`
@@ -1121,21 +1130,23 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `.al.G.N.en` × `.al.G.en`
  * `.öf.L.en` ~ `.ö-L.en`
  * `;T-eb-er` ~ `;T-g-er` » `;T-g`
-* `I M.T-er :es .öf.L.en di.es ;I hi<ach UNTER.m G-icht,u ;r .at.kost-en Z.s.eh, I v° eu-er.za-er fi.az.irt-w.`
+* `I M.T-er :es .öf.L.en di.es ;I hi<ach UNTER.m G-icht,u ;r .at.ko Z.s.eh, I v° eu-er.za-er fi.az.irt-w.`
  * `.öf.L.en` ~ `.ö-L.en`
  * `G-icht,u` × `G,u`
  * `eu-er.za-er` ~ `eu-er;r`
  * `fi.az.irt-w` » `fi.irt-w`
-* `j.e w.en.i-er p.al.kost.en ;r .at ha, d.est mer k.er f IN.w-o.en AU.w; j.e G-ing-er I kost-en :es .at.es ;I, d.est G-ing-er i I eu-er,b.e-ast ;r bÜ.er.`
+* `j.e w.en.i-er p-s.al.ko ;r .at ha, d.est mer k.er f I>w-o.en AU.w; j.e G-ing-er I kost-en :es .at ;I, d.est G-ing-er i I eu-er,b.e-ast ;r bÜ.er.`
+ * `p-s.al.ko` × `p.al.ko`
  * `mer` ~ `m.e`
  * `bÜ-er` ! `b.üg-er`
-* `da.Z ko .iss.L n-ch: j.e eng-er I l.eb.T,T, d.est G-ing-er I E-s.o.ko.`
+* `da.Z ko .iss.L n-ch: j.e eng-er I l.eb.T,T, d.est G-ing-er I E-s.o,ko.`
  * `da.Z` * `a-Z`
  * `eng-er` ~ `NGR`
-* `.e .uss ber .auch dar-AU hin.is w, d dr .iS.e ;-tik ;r .öf.L.e di .S.tr.ok ;wr & d ;l.os.T ;n .at -t-UR g.ed kost, S .auch eu-er.N.am.en eNT.ih.`
+* `.e .uss ber .auch dar-AU hin.is w, d dr .iS.e ;-tik ;r .öf.L.e di .S.tr.ok ;wr & d ;l.os.T ;n .at -t-UR g.ed kost, S .auch eu-er.N.am.en eNT.iht.`
  * `ber .auch` * `ber-AY`
  * `.öf.L.e` ~ `.ö-L.e`
  * `S .auch` * `S-AY`
+ * `eu-er.N.am.en` ~ `eu-er.N;n`
 * `UN-es.L i da.b.ei d .ag.met, d I kost-en ;r ;l.os.T -t .S la-t-ln b.e-it ;w.`
  * `da.b.ei` * `a-b.ei`
  * `.ag.met` ! `.ag.u-met`
