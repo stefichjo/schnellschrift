@@ -3,17 +3,11 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-Dehnungs-*h* wird vor der Endung *t* ausgestoßen. *ch* wird mit der Endung *t* verschmolzen.
-* sieh → `s.ih`
- * : sieht → `s.iht` = `s.it`
-* sprich → `spr.ich`
- * : spricht → `spr.icht`
-
 Nur selten behält ein Wort in der Schnellschrift seine verkehrsschriftliche Schreibung, um die Deutlichkeit zu wahren.
 * (alt) → `.alt`
 
 Nicht eingedeutschte lateinische Stämme mit Auslaut-*st* werden wie mit Anlaut-*st* geschrieben.
-* *in*(sist)ier → `IN.s.i+st.ir`
+* *in*(sist)ier → `I>s.i+st.ir`
 
 ## Kurzschreibung
 
@@ -66,8 +60,8 @@ Die Vokale *i* und *u* am Ende eines mehrsilbigen lateinischen Wortbestandteils 
 
 ### …
 Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Vor *ung* wird hierfür zwischen Inlautandeutung und Auslautkürzung gewechselt. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
-* *in***dukt***ion* → `IN.du-o`
-* *in***spekt***ion* → `IN.sp*`
+* *in***dukt***ion* → `I>du-o`
+* *in***spekt***ion* → `I>sp*`
 * **zahl** → `za`
  * **zahl***ung* → `za*`
 * **sitz** → `si`
@@ -83,7 +77,7 @@ Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * ***form***at*ion* → `.om-o`
 * phonetik → `f.on.ik`
 * **kon*****form***ität → `ko.om.ät`
-* *in***st**itut*ion* → `IN.st*`
+* *in***st**itut*ion* → `I>st*`
 
 Die Silben *id*, *il*, *in*, *is* fallen, außer am Wortende, aus.
 * **kon**solidier → `ko-s.ol.ir`
