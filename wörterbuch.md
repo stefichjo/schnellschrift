@@ -1129,12 +1129,12 @@
  * : *hinter*l***ass*** → `I>t-er.ass`
  * : *ver*anl***ass*** → `E.an.ass`
     * *ver*anlass → `E.an`
- * ***läss*** → `ess` ! `l.ess`
-    * : ***läss*****ig** → `ess.i` ! `l.ess.i`
-    * : an***läss****lich* → `.an.ess.L` × an~~läss~~*lich* → `.an.L`
-    * : ***f****ahr****läss*****ig** → `fa.ess.i` ! `fa.l.ess.i`
- * ***ließ*** → `.iss` ! `l.iss`
-    * : *hinter****ließ*** → `I>t-er.iss`
+ * l***äss*** → `:ess` ! `l.ess`
+    * : l***äss*****ig** → `:ess.i` ! `l.ess.i`
+    * : anl***äss****lich* → `.an.ess.L` × an~~läss~~*lich* → `.an.L`
+    * : ***f****ahrl****äss*****ig** → `fa.ess.i` ! `fa.l.ess.i`
+ * l***ieß*** → `:iss` ! `l.iss`
+    * : *hinter*l***ieß*** → `I>t-er.iss`
 * last ← lad
 * laub → `l.aub`
  * : *er*laub → `er.l.aub` * *er*l**au**b → `er-au`
