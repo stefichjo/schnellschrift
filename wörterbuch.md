@@ -79,6 +79,7 @@
     * *darauf* → `dar-AU` E
 * *aus* → `.S` V
  * **her***aus* → `h.S` ~ `er.S` ~ `er-s`
+ * *vor**aus* → `O-S``
  * auss → `.auss`
   * : *aussen* → `.auss` E
   * : *ausser**dem* → `.auss.m` E
@@ -325,6 +326,7 @@
     * : **ein**es → `.ei-es` V
     * : **ein**st → `.eist` E
  * : ein**ig** → `N.i`
+    * *ver*ein**bar** → `E.N.bar` × *ver*~~ein~~**bar** `E.bar`
     * *ver*ein**ig** → `E.N.i` × *ver*~~ein~~**ig** → `E.i` ! `E.ig`
        * -*vereinigung*- → `ig`
           * : *wirtschaftlich*e *vereinigung* → `FT.L.e ig`
@@ -1105,7 +1107,7 @@
 * **kurr** → `ku`
  * : **kur**ier → `ku.ir`
  * : **kon****kurr**enz → `ko,ku.ez` * **kon**k**u**rrenz → `ko-u.ez` E
- * : **kon****kurr**ier → `ko,ku.ir` * **kon**k**u**rrier → `ko-u.ir`
+ * : **kon****kurr**ier → `ko,ku.ir` * **kon**k**u**rrier → `ko-u.ir` E
  * **kurs** → `kus`
     * : **kon*****kurs*** → `ko,kus` ~ `ko.us`
 * **kurz** → `ku` E
@@ -1140,6 +1142,14 @@
  * l***ieß*** → `I>;ss` ! `l.iss`
     * : *hinter*l***ieß*** → `I>t-er.iss`
 * last ← lad
+* lat → l.at
+ * : lateral → `l.at-er.al`
+    * .~~later~~**al**. → `:al`
+       * **bi**~~later~~**al** → `bi.al`
+       * **mult**i~~later~~**al** → `mut-al`
+ * : relativ → `r.e-l.at.iv`
+    * *relat* → `ret`
+       * : *relativ* → `ret-iv`
 * laub → `l.aub`
  * : *er*laub → `er.l.aub` * *er*l**au**b → `er-au`
  * : urlaub → `UR.l.aub` * ur*l****au****b* → `UR,au`
@@ -1153,6 +1163,7 @@
     * : **er**l***äut***er → `er.äut-er`
 * läuter ← laut
 * **lieg** → `li` E
+ * bei**lieg**end → `b.ei,li.ed` E
  * **lag** → `la` E
  * **leg** → `l` E
     * : an*ge***leg**en*heit* → `.an.l.H` × an*ge*~~leg~~en*heit* → `.an.H`
@@ -1556,6 +1567,9 @@
  * ört*lich* → `.öt.L` (E)
  * *er*örter → `er.öt-er` (E)
 * *österreich* → `.ö` E
+* **pack** → ! `p.ak`
+ * **päck**chen → `p.ch.en`
+ * *ver***pack**t → `E>pa-t` ~ `E>pa`
 * *pakt* → `pat`
  * -**pakt** → `pa`
 * pand → `p.ad`
@@ -1739,8 +1753,8 @@
     * : **bund**es**reg**ier*ung* → `bu.r.ir-UNG` * b**u**ndes**reg**ier*ung* → `u-r.ir-UNG` ~ `u-r-UNG`
  * : **reg**ulier → `r.ul.ir`
  * : **reg**el → `r.l` ~ `:el`
-    * : ***spiel*****reg**el → `.il.r.l` ~ `.il:l`
-    * : *in*.~~der~~.**reg**el → `I>r.l` × *in*.~~der~~.~~reg~~el → `I>l`
+    * : ***spiel*****reg**el → `.il.r.l` ~ `.il:el`
+    * : *in*.~~der~~.**reg**el → `I>r.el` × *in*.~~der~~.~~reg~~el → `I>el`
  * : **reg***ion* → `r.iO` ! `r.eg.iO`
  * **rekt** → `r` ! `r.ekt`
     * : **rekt**or → `r.or`
@@ -1910,6 +1924,7 @@
     * : **kurz****schrift** → `ku.ift` * **kurz**schr**i**ft → `ku,i`
     * : *unter***schrift** → `UNTER.ift` * *unter**schr****i****ft* → `UNTER,i`
     * : *vor***schrift** → `O.ift` * *vor*schr**i**ft → `O-i`
+    * : *zu***schrift** → `Z.ift` * *zu**schr****i****ft* → `Z,i`
 * ***schreit*** → `T` ! `schr.T`
  * ***schritt*** → `.it` ! `schr.it`
 * schrift ← schreib
@@ -2226,6 +2241,7 @@
  * *unter***stütz** → `UNTER.stÜ` * *unter*st**ü**tz → `UNTER-Ü`
 * **such** → `su`
  * : be**such** → `b.e-su` = `be-su`
+ * : *unter***such** → `UNTER.su` * `UNTER-u`
  * : *ver***such** → `E-su`
 * sucht ← siech
 * **sul** → `su`
@@ -2462,6 +2478,8 @@
 * wand ← wind
 * wand → `w.ad`
 * wandel ← wind
+* **wa**r → `wa`
+ * : **wa**re → `wa.e`
 * war ← sein
 * wart → `wat`
  * -war***t*** → `;-t`
@@ -2609,6 +2627,7 @@
     * : be***wuss***t → `b.e-usst`
 * **wo** → `wo`
  * *wor*- → `wo` E
+* **woch**e → `wo.e` » `wo`
 * **wohn** → `wo`
  * : **wohn***ung* → `wo.UNG` * **wohn****u**ng → `wo-u`
  * : *ge***wöhn***lich* → `G-wö.L` ~ `G-ö-L`
