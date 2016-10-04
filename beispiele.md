@@ -219,14 +219,14 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `.S.ür` * `.S-ü`
  * `.an.n.äh.d` ~ `.an;r.d`
  * `E-t-lt-t` ! `E-t-lt t`
-* `I>r b.ei,li-ed AU.st* ;I .U.e r.am-o.en .im.N.l AU-Ürt.`
-* `wr-I.N, d .U.e b.st* M-r .ei-es .ad-er.en .ei-h.l-er E.wes.lt-O.i°.`
+* `I>r b.ei,li-ed AU.st* ;I .U°.e r.am-o.en .im.N.l AU-Ürt.`
+* `wr-I.N, d .U°.e b.st* M-r .ei-es .ad-er.en .ei-h.l-er E.wes.lt-O.i°.`
  * `.ei-h.l-er` × `.ei-h-er`
  * `E.wes.lt-O.i°` ~ `E-s.lt-O.i°`
-* `da.h b.it.wr.sI, .ir.en fra.fru M.T-er .an.z.eis, CH I ga.e s.ed I>u-er-er la-er.ha.e .an.z.s.eh.`
+* `da.h b.it.wr.sI, .ir.en fra.fru M.T-er .an.z.eis, CH I ga.e s.ed I>u-er-er la-er<ha.e .an.z.s.eh.`
  * `da.h` ~ `.a-h`
  * `b.it.wr.sI` ~ `.it.wr.sI`
- * `la-er.ha.e` ! `l.ag-er.ha.e`
+ * `la-er<ha.e` ! `l.ag-er.ha.e`
 
 ### Links-s (ss, ß) statt Rechts-s (ss, ß) — § 20/5
 
@@ -244,14 +244,15 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `.I-a:e, ;n g-s.är .im.n ;r .I.ha.ka Z-emp.ang.`
+* `.I-a.er.e, ;n g-s.är .im.n ;r .I.ha.ka Z-emp.ang.`
+ * `.I-a.er.e × .I-a.e`
  * `Z-emp.ang` * `Z-emp-a`
 
 #### Kürzen Sie stärker
 
 #### Die Geschäftsstelle wird verlegt
 
-* `v.U.em M.T-er ha.en.sI scho er>fa, d .U.e GT-ell.e ;m-st v-er g.öt.e+stra I>I nÜ.b.er:e E.l ;w.S.`
+* `v.U°.em M.T-er ha.en.sI scho er>fa, d .U°.e GT-ell.e ;m-st v-er g.öt.e+stra I>I nÜ.b.er:e E.l ;w.S.`
  * `g.öt.e+stra` !:! `g.öt.e:e`
  * `nÜ.b-er+stra` !:! `nÜ.b.er:e`
  * `E.lt-w-s` ! `E.l ;w.S`
@@ -263,7 +264,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `wr g da.v .S, d ;r .um.ug UN-t-l.bar ach.n m.al.er;T-en er>fo.`
  * `da.v` * `a-v`
  * `UN-t-l.bar` × `UN-bar`
-* `.iS ;wr ach.U.N sp.est-ens .ed.e .iS.at ;r fa ;N.`
+* `.iS ;wr ach.U°.N sp.est-ens .ed.e .iS.at ;r fa ;N.`
  * `sp.est-ens` > `sp.ens`
 * `I spr,u-en ;r GT-Ür-er ;I AU.m b.ei,li.ed.en m.ek:el .an.eb.`
  * `.an.eb` ~ `.an.g`
@@ -311,7 +312,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Die Schlusssilben -anz, -enz, (u)-ion — § 19/5
 
-* `I .auss<ha:az .U.ess ha° I>let:at.en k.w-s E.schl-ert.`
+* `I .auss<ha:az .U°.ess ha° I>let:at.en k.w-s E.schl-ert.`
  * `.auss<ha:az` ~ `.auss<ha;az`
  * `k.w-s` » `k.w`
 
@@ -364,7 +365,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `ach.U.en b.e-ob.acht.en i I eNT,wi.l n-ch-t b.e-dr.o-L.`
+* `ach.U°.en b.e-ob.acht.en i I eNT,wi.l n-ch-t b.e-dr.o-L.`
  * `b.e-ob.acht.en` × `b.e-ob.en`
  * `eNT,wi.l` * `eNT-i`
 
@@ -437,7 +438,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Gewichtsschwankungen sind in unserer Branche üblich
 
 * `.ir.e r.e-am-o.`
-* `s>G-da.h, sI ha.en .U .ei-en .S.ür.L bri G-ib & dar.IN .U.e l.i-er-UNG v° 4. ;g.at b.e-an.and.et.`
+* `s>G-da.h, sI ha.en .U .ei-en .S.ür.L bri G-ib & dar.IN .U°.e l.i-er-UNG v° 4. ;g.at b.e-an.and.et.`
  * `.S.ür.L` * `.S-ü.L`
  * `dar.IN` * `dar-i`
 
@@ -510,7 +511,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Andere Fremdwörter mit Aufstrich-t — § 19/3; -ent und -ant in Fremdwörtern — § 20/5
 
-* `wr-a f.U.e I>w-UR N f°.es ko.z.`
+* `wr-a f.U°.e I>w-UR N f°.es ko.z.`
  * `I>w-UR` ~ `IN-tUR`
  * `ko.z` ~ `ko-t`
 
@@ -536,7 +537,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Besuchen Sie unser Maklerbüro in Düsseldorf
 
-* `.um.ug .U.es m.ak-er-Ü.o v mÜ.en ach dÜ.o.`
+* `.um.ug .U°.es m.ak-er-Ü.o v mÜ.en ach dÜ.o.`
 
 ### Anlautkürzungen mit u — § 14/1 f
 
@@ -649,7 +650,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Auslautkürzungen mit i (II) und ü — § 15/1 a
 
-* `.U.e b.ei-il.e ;I k.w-s .ir.i.`
+* `.U°.e b.ei-il.e ;I k.w-s .ir.i.`
  * `k.w-s` » `k.w`
 
 #### Gebühren, Beiträge und Verwarnungen
@@ -746,7 +747,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Selbstlautandeutung im benachbarten Wortteil — § 20/1 a
 
-* `s.I yss.CH-Ü.ar.N, d.wr ach-o .U.en and,u M.al.eNT.id.H E>tr.`
+* `s.I yss.CH-Ü.ar.N, d.wr ach-o .U°.en and,u M.al.eNT.id.H E>tr.`
  * `yss.CH-Ü.ar.N` * `yss.CH-Ü.a-N`
  * `ach.O` * `ach-o`
  * `and,u` ! `and.pt` * `a-pt`
@@ -894,7 +895,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Wortfamilie lassen
 
-* `wr-a b.e-Ts E.an.asst, d,i .U.e zr-a.e MR.e neu dru.ift.en Z-ikt.`
+* `wr-a b.e-Ts E.an.asst, d,i .U°.e zr-a.e MR.e neu dru.ift.en Z-ikt.`
  * `b.e-Ts` « `Ts`
  * `E.an.asst` » `E.an`
  * `d,i` ! `d .in.en`
@@ -992,7 +993,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `spra.e` » `spra`
 * `I r.e-al.ir-UNG .iS-es .il da ber-t N.T-ig er>fo.`
  * `er>fo` » `er`
-* `.U.e .S-tig.e kut-UR-tik i dr .S.tau & Z-sa.T AU-r ba.is gl.b.e-echt.i pat-er.FT G-k.eich.`
+* `.U°.e .S-tig.e kut-UR-tik i dr .S.tau & Z-sa.T AU-r ba.is gl.b.e-echt.i pat-er.FT G-k.eich.`
  * `kut-UR` * `u-UR`
  * `gl.b.e-echt.i` ~ `gl.b.e-R.i` » `gl.b.e-R` ~ `gl.b.e-r`
 * `-tiv.e spra-tik ha I b.e-T-FT z er.l.en fr-er spra.en b.ei-U -st zr* O.S-s.`
@@ -1150,3 +1151,32 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `UN-es.L i da.b.ei d .ag.met, d I kost-en ;r ;l.os.T -t .S la-t-ln b.e-it ;w.`
  * `da.b.ei` * `a-b.ei`
  * `.ag.met` ! `.ag.u-met`
+
+### Wir müssen konkurrenzfähig bleiben
+
+* `wr.Yss ko,ku.ez<f.i bl.eib`
+ * `ko,ku.ez<f.i` * `ko-u.ez<fi`
+* `.äd-er.UNG u-er-er E>pa.en.`
+* `s>G-da.h, f.ir.e Z,i & ;n gr.en AU>tra Ü bÜ.o,b.e-da,I>k.el d.ak.wr,i`
+ * `bÜ.o,b.e-da,I>k.el` × `bÜ.o,b.e-da:el`
+* `wr ;w i I b.e-ell-t-en I>;k.el aCH-er b.ei,li.ed.en b.e-st*.an:e sch I>r echst-en wo.e l.if-er.`
+ * `echst-en wo.e` ~ `;-st-wo.e` » `;-st.wo`
+* `O-S.icht.L ;wr .U°.e .auss,di,M.T-er.in, frau j.ut.a w.ag-er, I wa.en b.ei-ir.em be-su M,bri.`
+ * `M,bri` ~ `M.ing`
+* `frau w.ag-er ;wr O.h t.f.i M,i .ei-en ;m.in E.N.bar.`
+ * `E.N.bar` × `E.bar`
+* `s.I .eib<U, d.wr .U°.e I>k.el & b° I E>pa.en Z.oft & Z.schn E.äd-er, wo.dr .ir.e la-er<b.e-end.e sch ach ret-iv ku.er T E.alt.`
+ * `la-er<b.e-end.e` ! `l.ag-er.b.e-end.e`
+
+Sie schreiben uns, dass wir unsere Artikel und besonders die Verpackungen zu oft und zu schnell verändern, wodurch Ihre Lagerbestände schon nach relativ kurzer Zeit veralten.
+
+* `hi>Z .öcht.wr fo.ed.es b.e-m.ek: wr-I N .ür.ed.es UNTER;n ;r bÜ.o,b.e-da.br.asch.e.`
+
+Hierzu möchten wir folgendes bemerken: Wir sind ein führendes Unternehmen der Bürobedarfsbranche.
+
+* `-G-a.e :es>ha yss.wr M-er T g & end.i prÜ, .ob E>br*.UNG.en ;L & .ot.w.i ;I`
+ * `.ot.w.i` ~ `o>w.i`
+
+Gerade deshalb müssen wir mit der Zeit gehen und ständig prüfen, ob Verbesserungen möglich und notwendig sind.
+
+Vor allem müssen wir den in- und ausländischen Markt sorgfältig beobachten, um nicht nur konkurrenzfähig zu bleiben, sondern unsere führende Position zu behaupten.
