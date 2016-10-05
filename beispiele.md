@@ -1155,28 +1155,20 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 ### Wir müssen konkurrenzfähig bleiben
 
 * `wr.Yss ko,ku.ez<f.i bl.eib`
- * `ko,ku.ez<f.i` * `ko-u.ez<fi`
 * `.äd-er.UNG u-er-er E>pa.en.`
 * `s>G-da.h, f.ir.e Z,i & ;n gr.en AU>tra Ü bÜ.o,b.e-da,I>k.el d.ak.wr,i`
- * `bÜ.o,b.e-da,I>k.el` × `bÜ.o,b.e-da:el`
 * `wr ;w i I b.e-ell-t-en I>;k.el aCH-er b.ei,li.ed.en b.e-st*.an:e sch I>r echst-en wo.e l.if-er.`
- * `echst-en wo.e` ~ `;-st-wo.e` » `;-st.wo`
 * `O-S.icht.L ;wr .U°.e .auss,di,M.T-er.in, frau j.ut.a w.ag-er, I wa.en b.ei-ir.em be-su M,bri.`
- * `M,bri` ~ `M.ing`
 * `frau w.ag-er ;wr O.h t.f.i M,i .ei-en ;m.in E.N.bar.`
- * `E.N.bar` × `E.bar`
-* `s.I .eib<U, d.wr .U°.e I>k.el & b° I E>pa.en Z.oft & Z.schn E.äd-er, wo.dr .ir.e la-er<b.e-end.e sch ach ret-iv ku.er T E.alt.`
- * `la-er<b.e-end.e` ! `l.ag-er.b.e-end.e`
-
-Sie schreiben uns, dass wir unsere Artikel und besonders die Verpackungen zu oft und zu schnell verändern, wodurch Ihre Lagerbestände schon nach relativ kurzer Zeit veralten.
-
+* `s.I .eib.en<U, d.wr .U°.e I>k.el & b° I E>pa.en Z.oft & Z.schn E.äd-er, wo.dr .ir.e la-er<b.e-end.e sch ach ret-iv ku.er T E.alt.`
 * `hi>Z .öcht.wr fo.ed.es b.e-m.ek: wr-I N .ür.ed.es UNTER;n ;r bÜ.o,b.e-da.br.asch.e.`
-
-Hierzu möchten wir folgendes bemerken: Wir sind ein führendes Unternehmen der Bürobedarfsbranche.
-
 * `-G-a.e :es>ha yss.wr M-er T g & end.i prÜ, .ob E>br*.UNG.en ;L & .ot.w.i ;I`
- * `.ot.w.i` ~ `o>w.i`
+* `O.a yss.wr ;n IN- & .S.l.i-en ;kt s.o-fet-ig b.e-ob.acht, .um -t<UR ko,ku.ez<f.i Z.bl.ei, S .U°.e .ür.ed.e pos.O Z.b.e-hau.`
 
-Gerade deshalb müssen wir mit der Zeit gehen und ständig prüfen, ob Verbesserungen möglich und notwendig sind.
+Das bedeutet zum einen, dass alle Erzeugnisse den neuesten Erkenntnissen der Technik entsprechen müssen.
 
-Vor allem müssen wir den in- und ausländischen Markt sorgfältig beobachten, um nicht nur konkurrenzfähig zu bleiben, sondern unsere führende Position zu behaupten.
+* `d b.e-deu Z.ei-en, d .al.e er.eug.iss.e ;n neu-st-en er.k.iss.en ;r ;n.ik eNT.spr yss.`
+
+Das bedeutet aber auch, dass Formgestaltung und Verpackung aktuell sein müssen.
+
+* `d b.e-deu ber-au, d .om-G-a-t-UNG & E>pa.UNG -t-ell ;N.Yss.`
