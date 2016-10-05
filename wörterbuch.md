@@ -12,11 +12,13 @@
 * ag `.ag`
  * : agier `.ag.ir`
  * akt `.akt`
-    * aktuell `.akt.ell` (E)
-    * aktualität `.akt.al.ät` (E)
+    * aktuell `.akt-ell` ! `.ak.t.ell` (E)
+    * aktualität `.akt-al.ät` ! `.ak.t.al.ät` (E)
     * -*akt*- `-t`
        * : *akt**ion* `-tiO`
        * : *akt*ivier `-tiv.ir`
+       * : *akt*ualität `-t-al.ät`
+       * : *akt*uell `-t-ell`
        * : *in**akt*ivität `I>-tiv.ät`
        * : re*akt**ion*är `r.e-tiO.är`
        * : re*akt*or `r.e-tor` ! `r.e-akt-or`
@@ -71,9 +73,9 @@
 * astr `.a-str`
 * auch `.auch`
  * .**au**ch. `au`
-    * : *aber*.**au**ch `ber,au`
-    * : oder.**au**ch `.od-er,au`
-    * : *sondern*.**au**ch `S,au`
+    * : *aber*.**au**ch `ber-au`
+    * : oder.**au**ch `.od-er-au`
+    * : *sondern*.**au**ch `S-au`
 * *auf* `AU` V
  * *dar**auf* `dar.AU`
     * *darauf* `dar-AU` E
@@ -559,23 +561,22 @@
 * form `f.om` (E)
  * : format `f.om.at` (E)
  * : formulier `f.om.ul.ir` (E)
- * form `f.om`
-    * : *in*format*ion* `I>f.om-o` ! `I>f.om.iO` (E)
-    * ***form*** `.om`
-       * : ***form***at `.om.at`
-       * : ***form***at*ion* `.om-o`
-       * : ***form***el `.om.l`
-       * : ***form***ulier `.om.ul.ir`
-       * : *in****form***at*ion* `I>om-o`
-       * : *in****form***atik `I>om.ik`
-       * : **kon*****form*** `ko.om`
-       * : **kon*****form***ität `ko.om.ät`
-       * : re***form*** `r.e-om`
-       * : re***form***ier `r.e-om.ir`
-       * : re***form***at*ion* `r.e-om-o`
-       * : re***form***ator**isch** `r.e-om.or.i`
-       * : **trans*****form***ator `tra.om.or`
-       * : uni***form*** `.un.om`
+ * : *in*format*ion* `I>f.om-o` ! `I>f.om.iO` (E)
+ * ***form*** `.om`
+    * : ***form***at `.om.at`
+    * : ***form***at*ion* `.om-o`
+    * : ***form***el `.om.l`
+    * : ***form***ulier `.om.ul.ir`
+    * : *in****form***at*ion* `I>om-o`
+    * : *in****form***atik `I>om.ik`
+    * : **kon*****form*** `ko.om`
+    * : **kon*****form***ität `ko.om.ät`
+    * : re***form*** `r.e-om`
+    * : re***form***ier `r.e-om.ir`
+    * : re***form***at*ion* `r.e-om-o`
+    * : re***form***ator**isch** `r.e-om.or.i`
+    * : **trans*****form***ator `tra.om.or`
+    * : uni***form*** `.un.om`
 * **frag** `fra` E
  * : **frag**e `fra.e` » `fra` E
 * **frau** `frau`
@@ -1009,6 +1010,7 @@
 * -***keit*** `T` V
 * **kenn** `k` = `k.e`
  * : an*er***kenn** `.an.er.k` × an*er*~~kenn~~ `.an.er`
+ * : **er****kenn**t*nis* `er.k.is`
  * **kann** `ka`
     * : **kann**te `ka-t.e`
 * **kind** `ki`
@@ -1120,14 +1122,15 @@
 * lad `l.ad`
  * **last** `ast` ! `.ast`
 * **la***nd* `la` E
- * : *aus***la**nd
+ * : *aus***la**nd `.S.la`
  * : deut***sch*****la***nd* `;sch.la` * deut***sch***l**a**nd `;sch-a`
  * : **bund**es*republik*.deut***sch*****la***nd* `bu<r.e-ik:sch.la` × **bund**es~~republik~~.deut***sch*****la***nd* `bu:sch.la` * **bund**es~~republik~~.deut***sch***l**a**nd `bu:sch-a`
  * ~~land~~es `:es`
  * ~~län~~der `;d-er`
- * *länd* `l.ed` (E)
-    * : *ge**länd*e `G-l.ed.e`
-    * : *ge**länd*er `G-l.ed-er`
+ * *länd* `l` ! `l.ed` (E)
+    * : *aus***lä**nd*isch* `.S.l.i`
+    * : *ge**länd*e `G-l.e` ! `G-l.ed.e`
+    * : *ge**länd*er `G-l-er` ! `G-l.ed-er`
 * ***lang*** `ang` E
  * : ***läng***er `eng-er` ~ `NGR`
 * l***ass*** `:ass` ! `l.ass`
@@ -1381,12 +1384,12 @@
  * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
     * *kompromitt* `k.om-p.it.ir` E
  * *miss* `ms`
-    * : *miss**ion* `ms-o`
-    * : e*miss**ion* `.e-ms-o`
+    * : *miss**ion* `ms.O`
+    * : e*miss**ion* `.e-ms.O`
     * : *kom**miss*ar `ko-ms.ar` * *kom*m**i**ssar `ko-i.ar`
-    * : *kom**miss**ion* `ko-ms-o` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
+    * : *kom**miss**ion* `ko-ms.O` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
     * : *kom*pr**o***miss* `kom.o-ms` ~ `k.om-p.iss` E < `kom`
-    * : **trans***miss**ion* `tra.ms-o` » `tra.ms`
+    * : **trans***miss**ion* `tra.ms.O` » `tra.ms`
 * mob `m.ob`
  * : mobil `m.ob.il`
  * : mobilar `m.ob.ar`
@@ -1575,7 +1578,7 @@
  * -**pakt** `pa`
 * pand `p.ad`
  * **pans** `pas`
-    * : **ex****pans***ion* `.e-pas-o`
+    * : **ex****pans***ion* `.e-pas.O`
  * **pass** `pass`
     * : **pass**us `pass.us`
     * : **pass**ier `pass.ir`
@@ -1605,7 +1608,7 @@
 * pati `p.az`
  * : pati*ent* `p.az.eNT`
  * **pass** `pass`
-    * : **pass***ion* `pass-o`
+    * : **pass***ion* `pass.O`
 * pension `p.eS.iO` (E)
 * **p**er- `p` E
 * **pfleg** `pfl`
@@ -1662,9 +1665,9 @@
  * : *dis****pon***ier `ds.on.ir`
  * : **trans*****pon***ier `tra.on.ir`
  * **pos** `pos`
-    * : **pos**it*ion* `pos-o` ! `p.os.iO` » `p.os`
+    * : **pos**it*ion* `pos.O` ! `p.os.iO` » `p.os`
     * : **pos**itiv `pos.iv` ! `p.os.iv` (E) ~ `po.iv`
-    * : *dis***pos**it*ion* `ds>pos-o` ~ `ds.os.iO` ! `ds.os`
+    * : *dis***pos**it*ion* `ds>pos.O` ~ `ds.os.iO` ! `ds.os`
 * port `pot`
  * : portal `pot-al`
  * : import `.im-pot` (E)
@@ -2160,7 +2163,7 @@
 * stall ← steh
 * *stalt* `-a-t`
  * : an*stalt* `.an-a-t`
- * : *ge**stalt* `G-a-t`
+ * : *ge**stalt* `G-a-t` = `-G-a-t`
 * stamm `st.am`
 * stand ← steh
 * ~~stand~~ard `:ard` ~ `;ard` ! `st.ad.ad` (E)
@@ -2696,6 +2699,7 @@
     * : merk~~zett~~el `m.ek:el`
 * ***zeug*** `.eug` E
  * : ***f****ahr****zeug*** `fa.eug`
+ * : **er*****zeug****niss*e `er.eug.iss.e`
  * : *über****zeug*** `Ü.eug`
  * : ***nach***.m**ein**er.*über****zeug****ung* `ach.m.ei-er-Ü.eug`
     * ***nach***.m**ein**er.*über*~~zeug~~*ung* `ach.m.ei-er-Ü`
