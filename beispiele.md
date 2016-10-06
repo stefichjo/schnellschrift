@@ -1161,14 +1161,23 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `O-S.icht.L ;wr .U°.e .auss,di,M.T-er.in, frau j.ut.a w.ag-er, I wa.en b.ei-ir.em be-su M,bri.`
 * `frau w.ag-er ;wr O.h t.f.i M,i .ei-en ;m.in E.N.bar.`
 * `s.I .eib.en<U, d.wr .U°.e I>k.el & b° I E>pa.en Z.oft & Z.schn E.äd-er, wo.dr .ir.e la-er<b.e-end.e sch ach ret-iv ku.er T E.alt.`
-* `hi>Z .öcht.wr fo.ed.es b.e-m.ek: wr-I N .ür.ed.es UNTER;n ;r bÜ.o,b.e-da.br.asch.e.`
+* `hi>Z .öcht.wr fo.ed.es b.e-m.ek: wr-I N .ür.ed.es UNTER.em.en ;r bÜ.o,b.e-da.br.asch.e.`
 * `-G-a.e :es>ha yss.wr M-er T g & end.i prÜ, .ob E>br*.UNG.en ;L & .ot.w.i ;I`
 * `O.a yss.wr ;n IN- & .S.l.i-en ;kt s.o-fet-ig b.e-ob.acht, .um -t<UR ko,ku.ez<f.i Z.bl.ei, S .U°.e .ür.ed.e pos.O Z.b.e-hau.`
+* `d b.e-deu z.ei-en, d .al.e er.eug.iss.e ;n neu-st-en er.k.iss.en ;r ;n.ik eNT.spr yss.`
+* `d b.e-deu ber-au, d .om-G-a-t-UNG & E>pa.UNG -t-ell ;N>yss.`
+* `.om & E>pa.UNG ;I -G-a.e heu .oft f.n E.auf eNT.eid.ed.`
+* `w.i sI .iss, ha.wr .U sch .an.ang .iS<ja eNT.oss, .U° s.ot.met N.z.schr, I>m.wr j° -t-mer o .il.e .S.ür-UNG.en w.i frÜ.er .an.it.`
 
-Das bedeutet zum einen, dass alle Erzeugnisse den neuesten Erkenntnissen der Technik entsprechen müssen.
+Diese Beschränkung bedeutet gerade für unsere Händlerkunden eine erfreuliche Vereinfachung des Sortiments.
 
-* `d b.e-deu Z.ei-en, d .al.e er.eug.iss.e ;n neu-st-en er.k.iss.en ;r ;n.ik eNT.spr yss.`
+* `.iS.e b.e>schr b.e-deu -G-a.e f.U°.e h.l-er,ku.en .ei er,eu-L.e E.N.fa :es s.ot.met.`
 
-Das bedeutet aber auch, dass Formgestaltung und Verpackung aktuell sein müssen.
+Für Ende dieses Jahres planen wir, noch weitere Ausführungen aus usnerem Sortiment herauszunehmen.
 
-* `d b.e-deu ber-au, d .om-G-a-t-UNG & E>pa.UNG -t-ell ;N.Yss.`
+* `f .ed.e .iS.ja pla.wr n-ch T-er.e .S.ür.UNG.en .S.U°.em s.ot.met h.S.z.em.`
+
+Sie werden verstehen, dass die wenigen Modelle, die wir unseren Kunden in Zukunft anbieten, in jeder Hinsicht leistungs- und konkurrenzfähig sein müssen.
+
+* `sI ;w E.st, d I w.en.i-en m.od.ell.e, I wr .U°.en ku.en I>Z.ku .an.it, I>j-er.hn l.ei-UNG-s- & ko,ku.ez<f.i ;N>yss.`
+
