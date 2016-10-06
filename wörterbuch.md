@@ -227,7 +227,8 @@
 * ***d****auer* `dau` E
  * : *ge****d****auer*t `G-dau-t` » `G-dau` E
 * de***m*** `;m` V
-* *demokrat* `d.at` E
+ * *in*de***m*** `I>m` S@
+* *demokrat* `d.at` E @krat
 * de***n*** `;n` V
 * denk `d.ek` (E)
  * dacht `d.acht` (E)
@@ -945,7 +946,9 @@
     * : *in*.*dies*em.***jahr*** `I>iS.ar`
     * .im.~~jahr~~~~e~~.~~19~~.80 `.im;80`
 * **jed** `j`
+ * : **jed**e `j.e` ! `j.ed.e`
  * : **jed**er `j-er`
+ * : **jed**es `j.es`
 * jen `j.en`
  * -*jenig* `j`
  * : de***m****jenig* `;m<j`
@@ -1250,7 +1253,7 @@
     * : **da****mal**s `da.ma-s` × **da**~~mal~~s `da-s`
     * : *dies***mal** `.iS<ma` E
     * : je**mal**s `j.e-ma-s`
-    * : jedes.mal `j.ed.ma` E
+    * : **jed**es.**mal** `j.es.ma`
     * : *manch***mal** `aCH.ma` ! `aCH.m.al`
     * : nie**mal**s `n.i-ma-s`
     * : *noch***mal**s `n-ch<ma-s` E
@@ -1958,9 +1961,10 @@
     * : **rück**s***icht*** `rÜ.icht` * **rück**s**i**cht `rÜ-i`
     * : *vor*s***icht*** `O.icht` * *vor*s**i**cht `O-i`
     * : *zu**ver*s***icht*** `Z-E.icht` * *zu**ver*s**i**cht `Z-E-i`
-    * *ge*sicht `G`
-    * *hin*sicht `hn`
-    * **rück**sicht `rÜ`
+    * *ge*~~sicht~~ `G`
+    * *hin*~~sicht~~ `hn`
+       * : *in*.**jed**er.*hin*~~sicht~~ `I>j-er.hn` » `I>j.hn`
+    * **rück**~~sicht~~ `rÜ`
 * **sehr** `s` E
 * seid `s.eid`
  * : seide `s.eid.e`
@@ -2161,9 +2165,9 @@
  * ***stab***ilität `.ab.ät`
 * stadt ← steh
 * stall ← steh
-* *stalt* `-a-t`
- * : an*stalt* `.an-a-t`
- * : *ge**stalt* `G-a-t` = `-G-a-t`
+* *stalt* `-at`
+ * : an*stalt* `.an-at`
+ * : *ge**stalt* `G-at` = `-G-at`
 * stamm `st.am`
 * stand ← steh
 * ~~stand~~ard `:ard` ~ `;ard` ! `st.ad.ad` (E)
@@ -2433,6 +2437,7 @@
     * : pr**o****v**isor**isch** `o>w.or.i` E
     * : re**v**is*ion* `r.e-w-o`
 * ***viel*** `.il`
+ * : *so****viel*** `.o-il`
 * *vielleicht* `v.ei` V
 * *volk* `V` E
 *  *völk* `V` E
