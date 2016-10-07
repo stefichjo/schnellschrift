@@ -15,14 +15,14 @@
     * aktuell `.akt-ell` ! `.ak.t.ell` (E)
     * aktualität `.akt-al.ät` ! `.ak.t.al.ät` (E)
     * -*akt*- `-t`
-       * : *akt**ion* `-tiO`
-       * : *akt*ivier `-tiv.ir`
+       * : *akt**ion* `-t-iO`
+       * : *akt*ivier `-t-iv.ir`
        * : *akt*ualität `-t-al.ät`
        * : *akt*uell `-t-ell`
-       * : *in**akt*ivität `I>-tiv.ät`
-       * : re*akt**ion*är `r.e-tiO.är`
-       * : re*akt*or `r.e-tor` ! `r.e-akt-or`
-       * : **trans***akt**ion* `tra-tiO`
+       * : *in**akt*ivität `I>-t-iv.ät`
+       * : re*akt**ion*är `r.e-t-iO.är`
+       * : re*akt*or `r.e-t-or` ! `r.e-akt-or`
+       * : **trans***akt**ion* `tra-t-iO`
     * ~~akt~~**i** `:I` E
        * : ~~akt~~**i**onär `:I.on.är` ~ `:I.är` E
 * -*age* `.asch.e`
@@ -65,6 +65,7 @@
  * ärger `.äg-er` (E)
 * argu `.ag.u`
  * argument `.ag.met` ! `.ag.u-met`
+* *art* `.a` ! `.art`
 * ~~art~~ikel `I>;k.el` ! `.at.ik.l` (E)
  * .~~art~~~~ik~~el. `:el`
     * : ~~art~~~~ik~~el 7 `:el 7`
@@ -196,8 +197,8 @@
  * : **bürg**er `bÜ-er` ! `b.üg-er` (E)
 * b***us*** `:us` ! `b.us`
  * : autob***us*** `.aut.us` E
-* *büro* `bÜ.o`
- * : *makler**büro* `m.ak-er.bÜ.o` ~ `m.ak-er-Ü.o`
+* *bür* `bÜ`
+ * : *makler**bür*o `m.ak-er.bÜ.o` ~ `m.ak-er-Ü.o`
 * charakter `ch.ar.akt-er` » `ch.ar` E
 * **chem** `ch`
  * : **chem**ie `ch.I`
@@ -227,9 +228,11 @@
 * ***d****auer* `dau` E
  * : *ge****d****auer*t `G-dau-t` » `G-dau` E
 * de***m*** `;m` V
- * *in*de***m*** `I>m` S@
-* *demokrat* `d.at` E @krat
+ * *in*de***m*** `I>m` S
+* **dem** `d`
+ * : demokrat ← krat
 * de***n*** `;n` V
+ * : *in*.de***n*** `I>n`
 * denk `d.ek` (E)
  * dacht `d.acht` (E)
     * dächt `d.echt` (E)
@@ -492,8 +495,8 @@
  * *fern* `fer`
 * fert `fet` (E)
  * fert**ig** `fet-ig` (E)
-    * *fertig* `-tig`
-       * : *fertig**keit* `-tig.T`
+    * *fertig* `-t-ig`
+       * : *fertig**keit* `-t-ig.T`
 * *fest* `f°`
 * feuer `f.eu-er` (E)
 * **fig**ur `fi-UR`
@@ -657,8 +660,6 @@
  * : *garant*ier `g.ar.ir` E
 * **gast** `ga`
 * ge `g.e`
- * geo**graph** `g.e-gra` ! `g.e-o-gra` E
- * geometrie `g.e-m.etr.I` (E)
 * *ge*- `G` V
  * *unge*- `UN.G`
 * ***geb*** `.eb` ! `g.eb` ~ `g` E
@@ -727,7 +728,8 @@
  * : **graph**it `gra.it`
  * : **bi**o**graph**ie `bi.gra.I` ! `b.i.o-gra.I`
  * : biblio**graph**ie `b.ibl.i-gra.I` ! `b.ibl.i-o-gra.I`
- * : geo**graph** `g.e-gra` ! `g.e-o-gra`
+ * : **dem**o**graph**ie `d.gra.I` ! `d.o-gra.I`
+ * : geo**graph** `g.e-gra` ! `g.e-o-gra` E
  * : **pa**ra**graph** `pa.gra`
     * **pa**ra~~graph~~ `pa` E
  * : phono**graph****isch** `f.on.gra.i`
@@ -748,6 +750,9 @@
  * : **größ**e `grö.e` E
 * **grund** `gru` E
  * : **gründ** `grÜ`
+* ***gruß*** `.uss`
+ * ***grüß*** `.üss`
+ * : *mit*.*freund**lich*~~en~~.grüßen `M.eund.L<üss.en` ~ `M,eu-Ü`
 * gunst ← gönn
 * **gut** `gu`
  * besser `b.ess-er` » `b.ess` E
@@ -776,8 +781,10 @@
 * hälft `h.eft` (E)
 * hals `h.a-s`
 * halt `hat` (E)
- * : hielt `hit` (E)
+ * : **hielt** `hit` (E)
+    * : **er****hielt** `er,hit` ~ **er*****hie****lt* `er>hi`
  * hal***t*** `;-t`
+    * : **er**hal***t*** `er-t`
     * : ***haus***hal***t*** `.aus-t`
     * : *in*hal***t*** `I>-t`
     * : **sach***ver*hal***t*** `sa.E-t`
@@ -1061,7 +1068,7 @@
     *konnt* `k` V
  * kunst `kust` E
     * *künst* `kYst` E
-* **konter**- `ko-ter`
+* **konter**- `ko-t-er`
 * **konto** `ko` E
  * **skonto** `sko` E
 * *kontroll* `ko.tr.o` E
@@ -1080,6 +1087,9 @@
 * **kraft** `kra` E
  * : **kräft**e `kr.e`
 * **krank** `kra`
+* ***krat*** `.at`
+ * *bür*o***krat*** `bÜ.at`
+ * **dem**o***krat*** `d.at` E
 * **kreb** `kr`
  * : **kreb**s `kr-s`
 * **kred** `kr`
@@ -1303,6 +1313,7 @@
  * : ~~imm~~er.**mehr** `:er>mer` ~ `:er>m` E
  * : *nicht*.**mehr** `-t-mer` ~ `-t.m` E
  * : **nun****mehr** `nu<mer` ! `nu<m` E
+* meid `m.eid`
 * m***ein*** `;N`
  * : m***ein****ung* `;N.UNG`
  * : *ich*.**b**in.~~der~~.m***ein*** `I>bi.N`
@@ -1346,7 +1357,7 @@
  * : metall**isch** `m.et.all.i` » `m.et.i` E
 * meth***od*** `:od`
 * metr `m.etr`
- * : geometrie `g.e-m.etr.I`
+ * : geometrie `g.e-m.etr.I` (E)
  * : symmetrie `s.ym-m.etr.I` × sym~~metr~~ie `s.ym.I`
 * *mich* `m.i` E
 * *million* `;I;I` E
@@ -1408,7 +1419,8 @@
  * ***mocht*** `.ocht` E
  * *macht* `aCHT`
 * mon***at*** `:at` E
- * mon***at****lich* `:at.L` E
+ * : mon***at****lich* `:at.L` E
+ * : *in*.de***n*** näch***st***.~~en~~.mon***at***.en `I>n;-st-at.en` ! `I>n ;st :at.en`
 * mono- `m.on` ! `m.on.o` E
 * **mo**nstr `mo`
  * : de**mo**nstrat*ion* `d.e-mo.iO` ~ `d.e-mo-o`
@@ -1436,6 +1448,7 @@
     * : *wir*.***müss*** `wr.Yss` E
  * ***muss*** `.uss` E
     * : *du*.***muss***t `D.uss` E
+* *muster* `.ust`
 * ***nach*** `ach` E
  * : ***nach*****bar** `ach.bar` E
  * : **hier*****nach*** `hi<ach`
@@ -1657,8 +1670,8 @@
 * pol `p.ol`
  * : monopol `m.on.p.ol` ~ `m.o-p.ol` E
 * poli***t*** `;-t`
- * poli***tik*** `;-tik` ~ `-tik` ! `p.ol.ik` (E)
-    * : **fin**anzpoli***tik*** `fi.az-tik` » `fi-tik`
+ * poli***tik*** `;-t-ik` ~ `-t-ik` ! `p.ol.ik` (E)
+    * : **fin**anzpoli***tik*** `fi.az-t-ik` » `fi-t-ik`
  * poli***tisch*** `;t.i` ! `p.ol.i` E
 * poliz `p.ol.iz` » `p.ol` E
  * polizei `p.ol.iz.ei` » `p.ol.ei` E
@@ -1696,6 +1709,7 @@
     * : **prakt**iker `pra.ik-er`
  * pragm `pr.agm`
     * : pragmat**isch** `pr.agm.i`
+* pr**eis** `:eis`
 * press `pr`
 * **prinz** `pri`
 * *prinzip* `I>ip` ! `pr.iz.ip` (E)
@@ -1748,6 +1762,8 @@
  * : be**rat** `b.e-ra`
     * *berat* `Ra`
  * : **bund**es**rat** `bu.ra`
+* ***raum*** `.aum`
+ * : ***räum***e `.äum.e`
 * real `r.e-al`
  * realisier `r.e-al.ir`
  * realität `.r.e-al.ät`
@@ -1766,7 +1782,7 @@
  * **rekt** `r` ! `r.ekt`
     * : **rekt**or `r.or`
     * : di**rekt** `d.i-r` ~ `di.ekt` E ~ `di-t`
-    * : di**rekt***ion* `d.i-r.iO` ~ `di.ekt-iO` ~ `di-tiO` × `di-o` ! `di.iO` E 
+    * : di**rekt***ion* `d.i-r.iO` ~ `di.ekt-iO` ~ `di-t-iO` × `di-o` ! `di.iO` E 
     * : **kon****rekt**or `ko.r.or` ! `ko.r.ekt-or`
     * : kor**rekt** `kor-r`
  * **r**ig `r`
@@ -2401,8 +2417,8 @@
  * **v**ent `w` ! `w.et` E
     * : e*vent*ualität `.e-w.al.ät` ! `.e-w.et.al.ät`
     * : evtl. `.e-v-t-l`
-    * : *in****v***entar `I>w.ar` ! `IN.w.et.ar` (E) ~ `IN-tar`
-    * : *in***v**entur `I>w-UR` ! `IN.w.et.UR` (E) ~ `IN-tUR`
+    * : *in****v***entar `I>w.ar` ! `IN.w.et.ar` (E) ~ `IN-t-ar`
+    * : *in***v**entur `I>w-UR` ! `IN.w.et.UR` (E) ~ `IN-t-UR`
     * : **kon****v**ent*ion* `ko.w-o` ! `ko.w.et.iO` (E)
     * : *inter***v**ent*ion* `I>t-er.w-o` ! `I>t-er.w.et.iO` E
 * *ver*- `E` V
@@ -2454,7 +2470,7 @@
  * *vol***u***t* `u`
     * : e*vol***u***t*ion `.e,u-O`
     * : re*vol***u***t*ion `r.e-u-O`
-    * : **konter**re*vol***u***t*ion `ko-ter,r.e-u-O`
+    * : **konter**re*vol***u***t*ion `ko-t-er,r.e-u-O`
 * **v**on `v` V
  * : **da****v**on `da.v` * d**a****v**on `a-v`
  * *vom* `v°` V
@@ -2495,8 +2511,8 @@
     * : **geg**enwar***t*** `g-t`
  * wärt `wet` (E)
     * -wär***t*** `;-t`
-       * : *aus*wär***t*****ig** `.S-tig`
-       * : **geg**enwär***t*****ig** `g-tig`
+       * : *aus*wär***t*****ig** `.S-t-ig`
+       * : **geg**enwär***t*****ig** `g-t-ig`
 * **was** `was`
 * **wass**er `was-er` ! `w.ass.er` » `w.ass` E
 * *wechsel* `s.l` ~ `wes.l` E
@@ -2676,6 +2692,7 @@
  * : ***zeich***en `.eich`
  * : ***zeich***nung `.eich.UNG`
  * : *ver****zeich*****nis** `E.eich.is`
+* ***zeig*** `.eig`
 * ***zeit*** `T` E
  * : ***zeit****lich* `T.L`
  * : ***zeit****ung* `T-UNG`
