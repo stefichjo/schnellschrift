@@ -332,3 +332,5 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 * `Y` = `u`
 * `FT` = `<FT`
 * `H` = `<H`
+
+* S (sts)
