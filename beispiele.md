@@ -505,14 +505,14 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `I ;-tik-er ha Z-ei-er gr.üg.i sp.ed-tiO AU.F-t.`
- * `I ;-tik-er` ~ `I-tik-er`
+* `I ;-t-ik-er ha Z-ei-er gr.üg.i sp.ed-t-iO AU.F-t.`
+ * `I ;-t-ik-er` ~ `I-t-ik-er`
  * `gr.üg.i` * `gr-Ü.i`
 
 ### Andere Fremdwörter mit Aufstrich-t — § 19/3; -ent und -ant in Fremdwörtern — § 20/5
 
 * `wr-a f.U°.e I>w-UR N f°.es ko.z.`
- * `I>w-UR` ~ `IN-tUR`
+ * `I>w-UR` ~ `IN-t-UR`
  * `ko.z` ~ `ko-t`
 
 #### Anlautkürzungen mit ei — § 14/1 a
@@ -984,19 +984,19 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Zur Stellung der deutschen Sprache in der Welt
 
-* `i Fö ;r ;sch spra.e .im .S.la :ar & i .ei zr-a.e AU.ab.e u-er-er .S-tig kut-UR-tik.`
+* `i Fö ;r ;sch spra.e .im .S.la :ar & i .ei zr-a.e AU.ab.e u-er-er .S-t-ig kut-UR-t-ik.`
  * `spra.e` » `spra`
  * `AU.ab.e` × `AU.e`
- * `kut-UR-tik` * `u-UR-tik`
+ * `kut-UR-t-ik` * `u-UR-t-ik`
 * `.S .iS gru.e ;w gr.e .an>str.en G-aCHT, .um I ;sch.e spra.e .im .S.la st.äk-er Z-E.br.T.`
  * `.S .iS gru.e` ~ `.S-S.gru.e` × `.S-S.e`
  * `spra.e` » `spra`
 * `I r.e-al.ir-UNG .iS-es .il da ber-t N.T-ig er>fo.`
  * `er>fo` » `er`
-* `.U°.e .S-tig.e kut-UR-tik i dr .S.tau & Z-sa.T AU-r ba.is gl.b.e-echt.i pat-er.FT G-k.eich.`
+* `.U°.e .S-t-ig.e kut-UR-t-ik i dr .S.tau & Z-sa.T AU-r ba.is gl.b.e-echt.i pat-er.FT G-k.eich.`
  * `kut-UR` * `u-UR`
  * `gl.b.e-echt.i` ~ `gl.b.e-R.i` » `gl.b.e-R` ~ `gl.b.e-r`
-* `-tiv.e spra-tik ha I b.e-T-FT z er.l.en fr-er spra.en b.ei-U -st zr* O.S-s.`
+* `-t-iv.e spra-t-ik ha I b.e-T-FT z er.l.en fr-er spra.en b.ei-U -st zr* O.S-s.`
  * `er.l.en` ! `er.l.en.en`
 
 
@@ -1015,17 +1015,17 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Der Gemeinsame Markt bringt viele Vorteile
 
-* `I scha.UNG ;es G-N-sa.kt i f.I .eu.a-tik .al.er b.e-eil.i-t ;d-er .ei gr.e er-s.F.`
+* `I scha.UNG ;es G-N-sa.kt i f.I .eu.a-t-ik .al.er b.e-eil.i-t ;d-er .ei gr.e er-s.F.`
  * `G-N-sa.kt` ~ `;N-sa.kt`
- * `.eu.a-tik` ~ `.eu-p-tik`
+ * `.eu.a-t-ik` ~ `.eu-p-t-ik`
  * `h.S.F` ~ `er.S.F` ~ `er-s.F`
 
 ### Wir trainieren (XIV)
 
 #### Dr. Waigel zur Stabilitätspolitik
 
-* `.ei-a-h, .eil<wr Z.aus.e FTs & fi.az-tik er>fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
- * `fi.az-tik` » `fi-tik`
+* `.ei-a-h, .eil<wr Z.aus.e FTs & fi.az-t-ik er>fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
+ * `fi.az-t-ik` » `fi-t-ik`
  * `er>fo.r.ei` × `er,r.ei`
  * `b.e-Ts` « `Ts`
  * `O.b.e-T` » `O.b.e`
@@ -1034,10 +1034,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `.e .ibt heu .ei-en w.et.auf .um.I n-dr.i-st IN.fla.ra.en IN .eu.a.`
  * `I>fla-o.ra.en` ! `IN.fla-o.ra.en` » `IN.fla.ra.en`
  * `.eu.a` ~ `.eup`
-* `I E.ing-er-UNG ;r .aus-t,d.e-f.it.e i z eNT.eid.ed.en & O.ang.i .il ;r fi.az-tik ;O.`
+* `I E.ing-er-UNG ;r .aus-t,d.e-f.it.e i z eNT.eid.ed.en & O.ang.i .il ;r fi.az-t-ik ;O.`
  * `.aus-t,d.e-f.it.e` × `.aus-t,d.e-it.e`
  * `eNT.eid.ed.en` ~ `eNT.ei-ed.en`
- * `fi.az-tik` » `fi-tik`
+ * `fi.az-t-ik` » `fi-t-ik`
 * `I .ab.wet ;r .eig w-UNG git heu .as ma.l.`
  * `w-UNG` ! `wä`
 * `O w.en.i-en ja.en ;U.en eNT.spr.ed.e ass.am.en n-ch .as -t-l ;r o-u-UR<st.äk .emp.`
@@ -1058,10 +1058,10 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `UN-N.schr-t` » `UN-N.schr`
 * `I .eu-p.i zr-a.b.ak ;wr dr.n E-a .ar AU.d .il ;r g.ed,.ab.ät E.icht.et.` …
 * `.e ;wr k.ei ;L.T zr* .ot.b.ak,fi.ir-UNG ;r .at.aus-t.e I>r .eu-p-o g.` …
-* `.auch I>r .äuss wä-tik er-t I .eu-p.i zr-a.b.ak I gl kom.ez.en, I heu I bu<b.ak wa;-t` …
+* `.auch I>r .äuss wä-t-ik er-t I .eu-p.i zr-a.b.ak I gl kom.ez.en, I heu I bu<b.ak wa;-t` …
 * `Ü.I f°.l :es wes.l,kus:em eNT.ei-en w.i-h I ;n.al ir-UNG.en.` …
-* `I>r -teg.L I>t-er.w-o-tik i I zr-a.b.ak j-ch UN-ab.i.` …
-* `l.T-IN.en .od-er ri.IN.en f.I wes.l,kus-tik ;r .ot.b.ak dr-I ir-UNG.en ;wr .e -t g.` …
+* `I>r -teg.L I>t-er.w-o-t-ik i I zr-a.b.ak j-ch UN-ab.i.` …
+* `l.T-IN.en .od-er ri.IN.en f.I wes.l,kus-t-ik ;r .ot.b.ak dr-I ir-UNG.en ;wr .e -t g.` …
 * `;L ;I ;UR g.en.ell.e .or.ir-UNG.en, I .S.L .emp.ed.en ch.ar ha.` …
 * `a-dr ;I I E-a.L gru-a G-g, a-M I kÜ.i.e .eu-p.i wä ;r d.m I>r .ab.ät -t ach.st.` …
 * `f.I Ü.ang.od.e bi<zr* er-ri ;r .eu-p.i zr-a.b.ak ha.wr .im E-a,eNT-u I UN-N.schr-t E>aNT ;r ;n.al .ot.b.ak.en f.I g.ed;-t,.ab.ät f°.ib.` …
@@ -1069,8 +1069,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `d wä,IN.ut ha j-ch k.ei-er.l.ei g.ed.it.e kom.ez.en.` …
 * `.e ;wr Ü k.ei .eig.end.i aP.ba.is E-Ü; .il<m ;w s.ei AU.w.en dr .ei>tr.e ;r ;n.al .ot.b.ak.en b.e-it.` …
 * `I b.e-oss E.bar.en E,hi grau,z.on.en I>r g.ed.it.i E>aNT.` …
-* `I g.ed & wä-tik k ;UR eNT.ed-er ;n.al .od-er su.n.al H.L eNT.id ;w.` …
-* `.e k k.ei G-m.ischt.e .od-er E.eilt.e g.ed-tik zw.ei-er .eu-p.i zr-a.e & .ei-er ;n.al .ot.b.ak g.` …
+* `I g.ed & wä-t-ik k ;UR eNT.ed-er ;n.al .od-er su.n.al H.L eNT.id ;w.` …
+* `.e k k.ei G-m.ischt.e .od-er E.eilt.e g.ed-t-ik zw.ei-er .eu-p.i zr-a.e & .ei-er ;n.al .ot.b.ak g.` …
 * `g.ed;-t,.ab.ät ha I w.T-ed.e Ü.N,i ;r FT.L .il.e & er.iss.e zr* O.S-s.` …
 * `wr ;w I d.m ;UR IN.ei ;N.FT N.ing, ;r.en M-i-er ;sch-a .an .ab.ät,u-N -t ach.st.` …
 * `U.e kr.it & aP.kt.e ;I g.I Ü.ess.i I>.an,u.e dr-I kr.it<AU:e .ad-er-er .at.en G-schü.` …
@@ -1079,7 +1079,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 # ...
 
-* `.al.e ;I.CH dar.IN N.i, d .e O.ang.i-es .il ;r ;-tik ;N.uss, I ;l.os.T ;k-sa Z-b.e-empf.`
+* `.al.e ;I.CH dar.IN N.i, d .e O.ang.i-es .il ;r ;-t-ik ;N.uss, I ;l.os.T ;k-sa Z-b.e-empf.`
  * `dar.IN` * `dar-i`
 * `Ü.I G-eig.en w.eg.e Z-iS .il b.e-st j-ch UNTER.id.L.e AU.ass.en.`
  * `UNTER.id.L.e` * `UNTER-i.L.e`
@@ -1143,7 +1143,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `da.Z ko .iss.L n-ch: j.e eng-er I l.eb.T,T, d.est G-ing-er I E-s.o,ko.`
  * `da.Z` * `a-Z`
  * `eng-er` ~ `NGR`
-* `.e .uss ber .auch dar-AU hin.is w, d dr .iS.e ;-tik ;r .öf.L.e di .S.tr.ok ;wr & d ;l.os.T ;n .at -t-UR g.ed kost, S .auch eu-er.N.am.en eNT.iht.`
+* `.e .uss ber .auch dar-AU hin.is w, d dr .iS.e ;-t-ik ;r .öf.L.e di .S.tr.ok ;wr & d ;l.os.T ;n .at -t-UR g.ed kost, S .auch eu-er.N.am.en eNT.iht.`
  * `ber .auch` * `ber-AY`
  * `.öf.L.e` ~ `.ö-L.e`
  * `S .auch` * `S-AY`
@@ -1180,4 +1180,48 @@ Für Ende dieses Jahres planen wir, noch weitere Ausführungen aus usnerem Sorti
 Sie werden verstehen, dass die wenigen Modelle, die wir unseren Kunden in Zukunft anbieten, in jeder Hinsicht leistungs- und konkurrenzfähig sein müssen.
 
 * `sI ;w E.st, d I w.en.i-en m.od.ell.e, I wr .U°.en ku.en I>Z.ku .an.it, I>j-er.hn l.ei-UNG-s- & ko,ku.ez<f.i ;N>yss.`
+
+Dies bedeutet allerdings auch, dass sich Verbesserungen und Änderungen nicht vermeiden lassen.
+
+* `.iS b.deu ;ngs, d.CH E>br*UNG.en & .äd-er.en -t E.m.eid.ass.`
+
+Wir sind sicher, dass Sie Verständnis für diese Siutuation haben.
+
+* `wr-I s.i-er, d.sI E.end.is f.iS.e s.it.iO ha.`
+
+In den nächsten Tagen erhalten Sie neue Kataloge, Prospekte und Preislisten.
+
+* `I>n ;-st-tag.en er-t.en.sI neu k.at.og.e, o>sp.e & :eis,li.en.`
+
+Bitte beachten Sie darin besonders unsere Sonderangebote, die nur bis Ende nächsten Monats gelten.
+
+* `.it.e b.e-acht.en.sI dar.IN b° .U°.e S.an.ot.e, I ;UR bi .ed.e ;st-at-s get.`
+
+Für den Herbst planen wir eine große Werbeaktion, bei der auch unsere Händlerkunden erfolgreich mitwirken können.
+
+* `f.n h.ebst pla.wr .ei gr.e w.eb-t-iO, b.ei-r .auch .U°.e h.l-er,ku.en er>fo.r.ei M;k.kö.`
+
+Wir stellen Ihnen dazu zahlreiche Hilfen zur Verfügung.
+
+* `wr.ell,i da.Z za.r.ei.e h.if.en zr E-Ü.`
+
+Dazu gehören vor allem Muster für Zeitungsanzeigen, Vorschläge für Werbebriefe und neuartige Aufsteller für Ihre Ladenräume.
+
+* `da.Z G.hö O.a .ust f T-UNG.an.eig.en, O.äg.e f w.eb,bri.e & neu.a.i.e AU.ell-er f.ir.e l.ad.äum.e.`
+
+Einzelheiten hierüber können wir Ihnen in etwa zwei Wochen mitteilen.
+
+* `N.l.H.en hi.Ü kö.wr,i I>e-w.a 2 wo.en M.eil.`
+
+Die Bedingungen für Ihre Teilnahme an dieser Werbeaktion sind besonders günstig.
+
+* `I b.ing.en f.ir.e .eil.am.e .an.iS-er w.eb-t-iO ;I b° gü.i.`
+
+Frau Wagner wird Sie darüber informieren.
+
+* `frau w.ag-er ;wr.sI dar-Ü I>om.ir.`
+
+Mit freundlichen Grüßen
+
+* `M,eu-Ü`
 
