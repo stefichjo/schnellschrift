@@ -300,7 +300,7 @@
  * : *aus***drück** `.S.drÜ` * *aus*dr**ü**ck `.S-Y`
  * : ein**drück**e `N.drÜ.e` ! `N-Ük.e`
  * : ***nach*****druck** `ach.dru`
- * : ***nach*****drück** `ach.drÜ` ****nach***dr**ü**ck  `ach-Ü`
+ * : ***nach*****drück** `ach.drÜ` * ***nach***dr**ü**ck  `ach-Ü`
 * *droh* `dr.o`
 * *du* `dU` E
 * **duk** `du`
@@ -765,7 +765,7 @@
 * gunst ← gönn
 * **gut** `gu`
  * besser `b.ess-er` » `b.ess` E
-    * **bess**er `bess-er` = `bes-er` » `bes` ~ `br*`
+    * **bess**er `bess-er` = `bes-er` » `bes` ~ `br°`
     * best `b.est`
 * **hab** `ha` V
  * .h**a**b. `a`
@@ -1271,7 +1271,7 @@
 * makel ← mach
 * mal `m.al` (E)
  * -**mal** `ma` E
-    * : **da****mal**s `da.ma-s` × **da**~~mal~~s `da-s` ~ `da°`
+    * : **da****mal**s `da.ma-s` × **da**~~mal~~s `da-s` ~ `da*`
     * : *dies***mal** `.iS<ma` E
     * : je**mal**s `j.e-ma-s`
     * : **jed**es.**mal** `j.es.ma`
@@ -2232,7 +2232,7 @@
     * : **städt**e `st.e`
     * : **städt****isch** `st.i` E
  * **stall** `sta`
-    * : *in***stall***ion* `I>sta*` ! `IN.sta.iO`
+    * : *in***stall**at*ion* `I>sta*` ! `IN.sta.iO`
  * ***stell*** `.ell` E
     * : ***stell****ung* `st*` E
     * : *geschäft*s***stell***e `GT-ell.e`
