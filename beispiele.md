@@ -262,7 +262,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `-st-E.end.L` × `-st-L`
  * `ga.b°` ! `ga.b.e-S` < `ga-S`
 * `wr g da.v .S, d ;r .um.ug UN-t-l.bar ach.n m.al.er;T-en er>fo.`
- * `da.v` * `a-v`
+ * `da.v` ~ `.a-v` * `a-v`
  * `UN-t-l.bar` × `UN-bar`
 * `.iS ;wr ach.U°.N sp.est-ens .ed.e .iS.at ;r fa ;N.`
  * `sp.est-ens` > `sp.ens`
@@ -271,7 +271,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `.e .emp-f.il.CH j-ch, d.sI.CH ach.ög.L.T .ift-L .od-er t.f.i .an.m.ed.en, da.M sI G-l.H ha.en, .ir.e sp.ieL fra.en .S.ür.L M h b.eg-er Z-b.e-spr.`
  * `.emp-f.il.CH` * `.emp-i.CH`
  * `ach.ög.L.T` × `ach.L.T`
- * `da.M` * `a-M`
+ * `da.M` ~ `.a-M` * `a-M`
  * `G-l.H` × `G-H`
  * `.S.ür` * `.S-ü`
 * `er i b.e-str-t, i b.ei-r :el-UNG .ir-er .an.l.H.en Z-h.ef.`
@@ -386,7 +386,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Glückwünsche zur Geschäftsübernahme
 
-* `zr Ü.am.e :es gr fa.GT f .eu.i sp.iaL.ät.en I>r ba.ho.stra Ü.t-l.wr,i I b.est wÜ.e.`
+* `zr* Ü.am.e :es gr fa.GT f .eu.i sp.iaL.ät.en I>r ba.ho.stra Ü.t-l.wr,i I b.est wÜ.e.`
  * `Ü.am.e` !:! `Ü:e`
  * `.eu.i` ~ `.eu-p.i`
  * `ba.ho.stra` !:! `ba.ho:e`
@@ -432,7 +432,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 ### Anlautkürzungen mit i (II) — § 14/1 d
 
-* `.o°.d.i :är I hi.l.ei UN-ög.L -G.en.`
+* `.o°.d.i :är I h.if.l.ei UN-ög.L -G.en.`
+ * `h.if.l.ei` * `hi.l.ei`
  * `UN-ög.L` « `UN-L`
 
 #### Gewichtsschwankungen sind in unserer Branche üblich
@@ -738,8 +739,8 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Von der Jugendhilfe
 
-* `d gr.e G-it ;r .ug.ed,hi.e .um.asst I b.e-r.ei.e .ug.ed,f-s.o & .ug.ed<pfl, .auch .ug.ed;T G-n.ant.`
- * `.ug.ed,hi.e` » `.ug,hi.e`
+* `d gr.e G-it ;r .ug.ed,h.if.e .um.asst I b.e-r.ei.e .ug.ed,f-s.o & .ug.ed<pfl, .auch .ug.ed;T G-n.ant.`
+ * `.ug.ed,h.if.e` * `.ug.ed,hi.e` » `.ug,hi.e`
  * `b.e-r.ei.e` ~ `b.e-eich.e`
  * `.ug.ed,f-s.o` * `.ug.ed,f,o` * `.ug.ed-Ü.o` » `.ug-Ü.o`
  * `.ug.ed<pfl` » `.ug<pfl`
@@ -772,11 +773,11 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Trainingssätze
 
-* `ach.m.ei-er Ü.eug ;wr .ei Ü>prÜ .iS-er GT.bÜ-er -ts Z.wÜ Ü.i :ass.`
+* `ach.m.ei-er Ü.eug ;wr .ei Ü>prÜ .iS-er GT.bÜ-er -ts Z-wÜ Ü.i :ass.`
  * `ach.m.ei-er Ü.eug` × `ach.m.ei-er-Ü.eug` » `ach.m.ei-er-Ü`
  * `.ei Ü>prÜ` * `.ei Ü-Ü` × .ei-Ü-Ü
  * `GT.bÜ-er` * `GT-Ü-er`
- * `-ts Z.wÜ Ü.i :ass` × `-ts.wÜ Ü.i :ass` * `-ts-Ü-Ü :ass` » `-ts-Ü-Ü`
+ * `-ts Z-wÜ Ü.i :ass` × `-ts.wÜ Ü.i :ass` * `-ts-Ü-Ü :ass` » `-ts-Ü-Ü`
 
 #### Bücher bereichern unser Leben
 
@@ -818,7 +819,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Unbehagen oder Freude an moderner Technologie?
 
-* `I N.st* ;r NSCH* zr* ;n.ik & Z.ir.en N,flü.en & .S;k.en AU.I l.eb.E-t-iss.e & ;n l.eb.ard ha* s.T-NGR.T n.en;-t E.äd-ert.`
+* `I N.st* ;r NSCH* zr* ;n.ik & Z-ir.en N,flü.en & .S;k.en AU.I l.eb.E-t-iss.e & ;n l.eb.ard ha* s.T-NGR.T n.en;-t E.äd-ert.`
  * `l.eb.E-t-iss.e` × `l.eb-t-iss.e`
  * `l.eb.ard` ~ `l.ard`
 
@@ -831,7 +832,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Infrastruktur ist kein Schlagwort
 
-* `I>r T-UNG, .im l.ok.al.eil .eb.oft w.i .im FT.eil, i :er,i v I>fra,u-UR Z.l.es.`
+* `I>r T-UNG, .im l.ok.al.eil .eb.oft w.i .im FT.eil, i :er,i v I>fra,u-UR Z-l.es.`
  * `l.ok.al.eil` × `l.ok.eil`
  * `I>fra,u-UR` ! `IN.fra,u-UR`
 * `I>fra,u-UR i dr.S ;K .ag-o, S ;r ;m.in.us,t.en.ik.us f.ei-en wi.i l.eb-b.e-r.ei.`
@@ -1024,7 +1025,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Dr. Waigel zur Stabilitätspolitik
 
-* `.ei-a-h, .eil<wr Z.aus.e FTs & fi.az-t-ik er>fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
+* `.ei-a-h, .eil<wr Z-aus.e FTs & fi.az-t-ik er>fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
  * `fi.az-t-ik` » `fi-t-ik`
  * `er>fo.r.ei` × `er,r.ei`
  * `b.e-Ts` « `Ts`
@@ -1063,7 +1064,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `I>r -teg.L I>t-er.w-o-t-ik i I zr-a.b.ak j-ch UN-ab.i.` …
 * `l.T-IN.en .od-er ri.IN.en f.I wes.l,kus-t-ik ;r .ot.b.ak dr-I ir-UNG.en ;wr .e -t g.` …
 * `;L ;I ;UR g.en.ell.e .or.ir-UNG.en, I .S.L .emp.ed.en ch.ar ha.` …
-* `a-dr ;I I E-a.L gru-a G-g, a-M I kÜ.i.e .eu-p.i wä ;r d.m I>r .ab.ät -t ach.st.` …
+* `a-dr ;I I E-a.L gru-a G-g, .a-M I kÜ.i.e .eu-p.i wä ;r d.m I>r .ab.ät -t ach.st.` …
 * `f.I Ü.ang.od.e bi<zr* er-ri ;r .eu-p.i zr-a.b.ak ha.wr .im E-a,eNT-u I UN-N.schr-t E>aNT ;r ;n.al .ot.b.ak.en f.I g.ed;-t,.ab.ät f°.ib.` …
 * `eNT.ei-ed.e AU.e :es Z er-ri.ed.en .eu-p.i wä,IN.ut i I O.b.e .ei-r fu-o,f.i.en .eu-p.i zr-a.b.ak.` …
 * `d wä,IN.ut ha j-ch k.ei-er.l.ei g.ed.it.e kom.ez.en.` …
@@ -1074,7 +1075,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `g.ed;-t,.ab.ät ha I w.T-ed.e Ü.N,i ;r FT.L .il.e & er.iss.e zr* O.S-s.` …
 * `wr ;w I d.m ;UR IN.ei ;N.FT N.ing, ;r.en M-i-er ;sch-a .an .ab.ät,u-N -t ach.st.` …
 * `U.e kr.it & aP.kt.e ;I g.I Ü.ess.i I>.an,u.e dr-I kr.it<AU:e .ad-er-er .at.en G-schü.` …
-* `a-M, .ei-a-h, ;wr aP, d bi>h :ei,:ei f.I .aus-t,fi.ir-UNG E.w.et ;U, f IN.w-o.en & a-M f Ts.ez.e & f.I b.e-empf ;r ;l.os.T zr*-Ü.ellt.` …
+* `.a-M, .ei-a-h, ;wr aP, d bi>h :ei,:ei f.I .aus-t,fi.ir-UNG E.w.et ;U, f IN.w-o.en & .a-M f Ts.ez.e & f.I b.e-empf ;r ;l.os.T zr*-Ü.ellt.` …
 * `;UR b.ei er ;S I wä,u-O I>kra.tr.` …
 
 # ...
@@ -1092,7 +1093,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `AU.iS.it` * `AU-i.it`
 * `was d eu-er.L.e ko.z .an.g, .o E.spr.CH aCH.e fa.eut.e da.v E-t-is.ess.i w.en.i, & .ob d .an>str-t.e bü.is f ;T ;r gr.e w.uf ;N.wr, .eiss.ma n-ch-t.`
  * `ko.z` ~ `ko-t`
- * `da.v` * `a-v`
+ * `da.v` ~ `.a-v` * `a-v`
  * `E-t-is.ess.i` × `E-t-is.i`
 * `AU-r .ei-en T.e i .ei b.e-m.ek;-t.e .of.iv.e hn.icht.L ;r Fö ;r :eil,T:T Z-E.eich, I .eif.l.os ;T-kt;t.i.e .ak.zet.e s.`
  * `b.e-m.ek;-t` ~ `b.e-m;-t`
@@ -1107,7 +1108,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `ass.am.en` ~ `ass;n`
 * `;r v-r .at.r.ir-UNG I>s l.eb.en G-uf.e bet-ig.pa ha T-er.in da.Z G-Ürt, I b.e-T-ell v .S>bi.ez.en Z-Fö.`
  * `.at.r.ir-UNG` ~ `.at,ir-UNG`
- * `da.Z` * `a-Z`
+ * `da.Z` ~ `.a-Z` * `a-Z`
 * `.is E>di b°.e .an.er.k.`
  * `.an.er.k` × `.an.er`
 * `AU-r .ad-er.en T.e ber .ibt .e N ga.es bü.l eNT.g-s ass.am.en.`
@@ -1116,7 +1117,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `o>gr.am` ~ `o>gra`
  * `.öf.L` ~ `.ö-L`
 * `d .ürt ber .aut.at.i da.Z, d :er w.en.i-er ach.wus.kr.e N.ellt-w.`
- * `da.Z` * `a-Z`
+ * `da.Z` ~ `.a-Z` * `a-Z`
 * `N da.M pa.ll.l .auf.ed-er .ab.bau v .at.L.en AU.ab.en i j-ch -t Z-E.eich, .o>d .as.o dr .iS.e ass.am.en I O.ha.en.e ;T .im .öf.L.en di AU w.en.i-er M.T-er E.eilt-wr.`
  * `da.M` * `a-M`
  * `AU.ab.en` × `AU.en`
@@ -1131,7 +1132,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `.al.G.N.en` × `.al.G.en`
  * `.öf.L.en` ~ `.ö-L.en`
  * `;T-eb-er` ~ `;T-g-er` » `;T-g`
-* `I M.T-er :es .öf.L.en di.es ;I hi<ach UNTER.m G-icht,u ;r .at.ko Z.s.eh, I v° eu-er.za-er fi.az.irt-w.`
+* `I M.T-er :es .öf.L.en di.es ;I hi<ach UNTER.m G-icht,u ;r .at.ko Z-s.eh, I v° eu-er.za-er fi.az.irt-w.`
  * `.öf.L.en` ~ `.ö-L.en`
  * `G-icht,u` × `G,u`
  * `eu-er.za-er` ~ `eu-er;r`
@@ -1141,7 +1142,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
  * `mer` ~ `m.e`
  * `bÜ-er` ! `b.üg-er`
 * `da.Z ko .iss.L n-ch: j.e eng-er I l.eb.T,T, d.est G-ing-er I E-s.o,ko.`
- * `da.Z` * `a-Z`
+ * `da.Z` ~ `.a-Z` * `a-Z`
  * `eng-er` ~ `NGR`
 * `.e .uss ber .auch dar-AU hin.is w, d dr .iS.e ;-t-ik ;r .öf.L.e di .S.tr.ok ;wr & d ;l.os.T ;n .at -t-UR g.ed kost, S .auch eu-er.N.am.en eNT.iht.`
  * `ber .auch` * `ber-AY`
@@ -1160,68 +1161,33 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `wr ;w i I b.e-ell-t-en I>;k.el aCH-er b.ei,li.ed.en b.e-st*.an:e sch I>r echst-en wo.e l.if-er.`
 * `O-S.icht.L ;wr .U°.e .auss,di,M.T-er.in, frau j.ut.a w.ag-er, I wa.en b.ei-ir.em be-su M,bri.`
 * `frau w.ag-er ;wr O.h t.f.i M,i .ei-en ;m.in E.N.bar.`
-* `s.I .eib.en<U, d.wr .U°.e I>k.el & b° I E>pa.en Z.oft & Z.schn E.äd-er, wo.dr .ir.e la-er<b.e-end.e sch ach ret-iv ku.er T E.alt.`
+* `s.I .eib.en<U, d.wr .U°.e I>k.el & b° I E>pa.en Z-oft & Z-schn E.äd-er, wo.dr .ir.e la-er<b.e-end.e sch ach ret-iv ku.er T E.alt.`
 * `hi>Z .öcht.wr fo.ed.es b.e-m.ek: wr-I N .ür.ed.es UNTER.em.en ;r bÜ.o,b.e-da.br.asch.e.`
 * `-G-a.e :es>ha yss.wr M-er T g & end.i prÜ, .ob E>br*.UNG.en ;L & .ot.w.i ;I`
-* `O.a yss.wr ;n IN- & .S.l.i-en ;kt s.o-fet-ig b.e-ob.acht, .um -t<UR ko,ku.ez<f.i Z.bl.ei, S .U°.e .ür.ed.e pos.O Z.b.e-hau.`
+* `O.a yss.wr ;n IN- & .S.l.i-en ;kt s.o-fet-ig b.e-ob.acht, .um -t<UR ko,ku.ez<f.i Z-bl.ei, S .U°.e .ür.ed.e pos.O Z-b.e-hau.`
 * `d b.e-deu z.ei-en, d .al.e er.eug.iss.e ;n neu-st-en er.k.iss.en ;r ;n.ik eNT.spr yss.`
 * `d b.e-deu ber-au, d .om-G-a-t-UNG & E>pa.UNG -t-ell ;N>yss.`
 * `.om & E>pa.UNG ;I -G-a.e heu .oft f.n E.auf eNT.eid.ed.`
 * `w.i sI .iss, ha.wr .U sch .an.ang .iS<ja eNT.oss, .U° s.ot.met N.z.schr, I>m.wr j° -t-mer o .il.e .S.ür-UNG.en w.i frÜ.er .an.it.`
-
-Diese Beschränkung bedeutet gerade für unsere Händlerkunden eine erfreuliche Vereinfachung des Sortiments.
-
 * `.iS.e b.e>schr b.e-deu -G-a.e f.U°.e h.l-er,ku.en .ei er,eu-L.e E.N.fa :es s.ot.met.`
-
-Für Ende dieses Jahres planen wir, noch weitere Ausführungen aus usnerem Sortiment herauszunehmen.
-
 * `f .ed.e .iS.ja pla.wr n-ch T-er.e .S.ür.UNG.en .S.U°.em s.ot.met h.S.z.em.`
-
-Sie werden verstehen, dass die wenigen Modelle, die wir unseren Kunden in Zukunft anbieten, in jeder Hinsicht leistungs- und konkurrenzfähig sein müssen.
-
-* `sI ;w E.st, d I w.en.i-en m.od.ell.e, I wr .U°.en ku.en I>Z.ku .an.it, I>j-er.hn l.ei-UNG-s- & ko,ku.ez<f.i ;N>yss.`
-
-Dies bedeutet allerdings auch, dass sich Verbesserungen und Änderungen nicht vermeiden lassen.
-
-* `.iS b.deu ;ngs, d.CH E>br*UNG.en & .äd-er.en -t E.m.eid.ass.`
-
-Wir sind sicher, dass Sie Verständnis für diese Siutuation haben.
-
-* `wr-I s.i-er, d.sI E.end.is f.iS.e s.it.iO ha.`
-
-In den nächsten Tagen erhalten Sie neue Kataloge, Prospekte und Preislisten.
-
-* `I>n ;-st-tag.en er-t.en.sI neu k.at.og.e, o>sp.e & :eis,li.en.`
-
-Bitte beachten Sie darin besonders unsere Sonderangebote, die nur bis Ende nächsten Monats gelten.
-
-* `.it.e b.e-acht.en.sI dar.IN b° .U°.e S.an.ot.e, I ;UR bi .ed.e ;st-at-s get.`
-
-Für den Herbst planen wir eine große Werbeaktion, bei der auch unsere Händlerkunden erfolgreich mitwirken können.
-
+* `sI ;w E.st, d I w.en.i-en m.od.ell.e, I wr .U°.en ku.en I>z.ku .an.it, I>j-er.hn l.ei-UNG-s- & ko,ku.ez<f.i ;N>yss.`
+* `.iS b.deu ;ngs .auch, d.CH E>br*UNG.en & .äd-er.en -t E.m.eid.ass.`
+* `wr-I s.i-er, d.sI E.end.is f.iS.e s.it.iO ha.en.`
+* `I>n ;-st-tag.en er-t.en.sI neu.e k.at.og.e, o>sp.e & :eis,li.en.`
+* `b.it.e b.e-acht.en.sI dar.IN b° .U°.e S.an.ot.e, I ;UR bi .ed.e ;st-at-s get.`
 * `f.n h.ebst pla.wr .ei gr.e w.eb-t-iO, b.ei-r .auch .U°.e h.l-er,ku.en er>fo.r.ei M;k.kö.`
-
-Wir stellen Ihnen dazu zahlreiche Hilfen zur Verfügung.
-
-* `wr.ell,i da.Z za.r.ei.e h.if.en zr E-Ü.`
-
-Dazu gehören vor allem Muster für Zeitungsanzeigen, Vorschläge für Werbebriefe und neuartige Aufsteller für Ihre Ladenräume.
-
-* `da.Z G.hö O.a .ust f T-UNG.an.eig.en, O.äg.e f w.eb,bri.e & neu.a.i.e AU.ell-er f.ir.e l.ad.äum.e.`
-
-Einzelheiten hierüber können wir Ihnen in etwa zwei Wochen mitteilen.
-
-* `N.l.H.en hi.Ü kö.wr,i I>e-w.a 2 wo.en M.eil.`
-
-Die Bedingungen für Ihre Teilnahme an dieser Werbeaktion sind besonders günstig.
-
-* `I b.ing.en f.ir.e .eil.am.e .an.iS-er w.eb-t-iO ;I b° gü.i.`
-
-Frau Wagner wird Sie darüber informieren.
-
+* `wr.ell,i da.Z za.r.ei.e h.if.en zr*-Ü.`
+* `da.Z G.hö O.a .ust f T-UNG.an.eig.en, O.äg.e f w.eb.e,bri.e & neu.a.i.e AU.ell-er f.ir.e l.ad.äum.e.`
+* `N.l.H.en hi-Ü kö.wr,i I>e-w.a 2 wo.en M.eil.`
+* `I b.ing.en f.ir.e .eil.am.e .an.iS-er w.eb-t-iO ;I b° gÜ.i.`
 * `frau w.ag-er ;wr.sI dar-Ü I>om.ir.`
-
-Mit freundlichen Grüßen
-
 * `M,eu-Ü`
 
+### Schlechte Verkaufsergebnisse (zwei Briefe)
+
+* `.ir.e E.auf,er.eb.iss.e.`
+* `s>G-h neu,m.ei-er, .S.m t.f,G-spr M.m l.T-er u-er-er E.auf.ab.eil-UNG, h-n d-er r.eim-er, .iss.sI b.e-Ts, d.wr v.ir.em r.eis.e,b.e,ri Ü.ir.e ku,be-su.e .im ;g.at eNT.täu-t.I.`
+* `wr.eib,i .iS.en bri -t g.en, s.eh ber k.ei .ad-er.e ;L.T.`
+* `h d-er r.eim-er ha,i .auch sch G-s.agt, w.i s CH .U°.e .ad-er.en .auss,di,M.T-er, O.a .auch .ir.e n.eu-en ko.eg.in.en & .um.I N.l.ha.el.GT.e b.e-mÜ & :er,i neu.e ku.en G-w.in.`
+* `sI .a-g`
