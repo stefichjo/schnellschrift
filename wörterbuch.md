@@ -207,7 +207,7 @@
 * *d. h.* `d.h°` V
 * da `d.a`
  * **da**- `da` V
-    * *da*- `.a` * d**a**- `a`
+    * *da*- `.a-` * d**a**- `a-`
  * -**da** `da` V
 * dach `d.ach`
  * : dächer `d.ech-er`
@@ -1204,7 +1204,7 @@
     * : lektor `l.ekt-or`
     * : lektüre `l.ekt-ür.e`
     * : *intel*lekt `IN.t.ekt` E
-    * : **kol*lektion* `ko.ekt-iO`
+    * : *kol*lekt*ion* `ko.ekt-iO`
     * : **kol**lektiv `ko.ekt-iv`
  * **l**ig `l`
     * : *intel***l**igenz `IN.t.ez` E
@@ -1463,6 +1463,7 @@
 * *muster* `.ust`
 * ***nach*** `ach` E
  * : ***nach*****bar** `ach.bar` E
+ * : *da****nach*** `.a-ach` ! **da*****nach*** `da>ach`
  * : **hier*****nach*** `hi<ach`
  * ***näch***st `echst` E
     * : de***m******näch***st `;m<echst`
@@ -2160,7 +2161,7 @@
 * **sp**iz `sp`
  * : *in***sp**izier `I>sp.ir`
  * **spekt** `sp`
-    * : *in***spekt***ion* `I>sp*`
+    * : *in***spekt***ion* `I>sp*` ! `I>sp.iO` ! `IN.sp.iO`
     * : pr**o****spekt** `o>sp` E
     * : re**spekt** `r.e-sp`
 * sp***ort*** `:ot` ! `sp.ot` (E)
@@ -2195,9 +2196,9 @@
     * : **kon*****stat***ier `ko.at.ir` ~ `ko.sta.ir`
  * **st**it `st`
     * : *in***st**itut `I>st.ut` ! `IN.st.ut` E
-    * : *in***st**itut*ion* `I>st*` ! `I>st.ut.iO` × `I>ut.iO` ! `IN.ut.iO`
+    * : *in***st**itut*ion* `I>st*` ! `IN.st*` ! `IN.st.iO` ! `IN.st.ut.iO` E
     * : **kon****st**ituier `ko.st.ir`
-    * : **kon****st**itut*ion* `ko.st*` ! `ko.st.ut.iO` E
+    * : **kon****st**itut*ion* `ko.st*` ! `ko.st.iO` ! `ko.st.it.iO` E
 * ***stab*** `.ab`
  * ***stab***ilität `.ab.ät`
 * stadt ← steh
