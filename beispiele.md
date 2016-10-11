@@ -695,7 +695,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Wortfamilien besser und fließen
 
 * `wr b.e-mÜ .U .um .ei-en bes .um-t,u.`
- * `bes` ~ `br*`
+ * `bes` ~ `br°`
  * `.um-t,uz` * `.um-t,u`
 
 #### Lieferungsbedingungen eines Elektronikunternehmens
@@ -861,7 +861,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `AU-er E>trau,ba.is k ;r echt.an.wat bes M.m ma.aNT Z-sa;k.`
  * `E>trau,ba.is` * `E-au,ba.is`
  * `echt.an.wat` » `echt.an` ~ `R.an`
- * `bes` ~ `br*`
+ * `bes` ~ `br°`
 
 #### Entgegnung auf die Stellungnahme eines Anwalts
 
@@ -916,7 +916,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 #### Kritisieren — aber richtig
 
 * `kri.ik,f.T ha -ts Z-tu M bes.iss.er.ei & r.e-sp.os.T.`
- * `bes.iss.er.ei` × `bes.iss.ei` ~ `br*.iss.ei`
+ * `bes.iss.er.ei` × `bes.iss.ei` ~ `br°.iss.ei`
 
 ### Anlautkürzungen für Fremdwörter mit Stammselbstlaut i (II) — § 19/1 a
 
@@ -1025,7 +1025,7 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 #### Dr. Waigel zur Stabilitätspolitik
 
-* `.ei-a-h, .eil<wr Z-aus.e FTs & fi.az-t-ik er>fo.r.ei G-a-t, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
+* `.ei-a-h, .eil<wr Z-aus.e FTs & fi.az-t-ik er>fo.r.ei G-stat, :ar ;r bo f.I N.i Ü G-au-er.e .ab.ät,kri.I.en b.e-Ts O.b.e-T.`
  * `fi.az-t-ik` » `fi-t-ik`
  * `er>fo.r.ei` × `er,r.ei`
  * `b.e-Ts` « `Ts`
@@ -1163,16 +1163,16 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `frau w.ag-er ;wr O.h t.f.i M,i .ei-en ;m.in E.N.bar.`
 * `s.I .eib.en<U, d.wr .U°.e I>k.el & b° I E>pa.en Z-oft & Z-schn E.äd-er, wo.dr .ir.e la-er<b.e-end.e sch ach ret-iv ku.er T E.alt.`
 * `hi>Z .öcht.wr fo.ed.es b.e-m.ek: wr-I N .ür.ed.es UNTER.em.en ;r bÜ.o,b.e-da.br.asch.e.`
-* `-G-a.e :es>ha yss.wr M-er T g & end.i prÜ, .ob E>br*.UNG.en ;L & .ot.w.i ;I`
+* `-G-a.e :es>ha yss.wr M-er T g & end.i prÜ, .ob E>br°.UNG.en ;L & .ot.w.i ;I`
 * `O.a yss.wr ;n IN- & .S.l.i-en ;kt s.o-fet-ig b.e-ob.acht, .um -t<UR ko,ku.ez<f.i Z-bl.ei, S .U°.e .ür.ed.e pos.O Z-b.e-hau.`
 * `d b.e-deu z.ei-en, d .al.e er.eug.iss.e ;n neu-st-en er.k.iss.en ;r ;n.ik eNT.spr yss.`
-* `d b.e-deu ber-au, d .om-G-a-t-UNG & E>pa.UNG -t-ell ;N>yss.`
+* `d b.e-deu ber-au, d .om.stat-UNG & E>pa.UNG -t-ell ;N>yss.`
 * `.om & E>pa.UNG ;I -G-a.e heu .oft f.n E.auf eNT.eid.ed.`
 * `w.i sI .iss, ha.wr .U sch .an.ang .iS<ja eNT.oss, .U° s.ot.met N.z.schr, I>m.wr j° -t-mer o .il.e .S.ür-UNG.en w.i frÜ.er .an.it.`
 * `.iS.e b.e>schr b.e-deu -G-a.e f.U°.e h.l-er,ku.en .ei er,eu-L.e E.N.fa :es s.ot.met.`
 * `f .ed.e .iS.ja pla.wr n-ch T-er.e .S.ür.UNG.en .S.U°.em s.ot.met h.S.z.em.`
 * `sI ;w E.st, d I w.en.i-en m.od.ell.e, I wr .U°.en ku.en I>z.ku .an.it, I>j-er.hn l.ei-UNG-s- & ko,ku.ez<f.i ;N>yss.`
-* `.iS b.deu ;ngs .auch, d.CH E>br*UNG.en & .äd-er.en -t E.m.eid.ass.`
+* `.iS b.deu ;ngs .auch, d.CH E>br°UNG.en & .äd-er.en -t E.m.eid.ass.`
 * `wr-I s.i-er, d.sI E.end.is f.iS.e s.it.iO ha.en.`
 * `I>n ;-st-tag.en er-t.en.sI neu.e k.at.og.e, o>sp.e & :eis,li.en.`
 * `b.it.e b.e-acht.en.sI dar.IN b° .U°.e S.an.ot.e, I ;UR bi .ed.e ;st-at-s get.`
@@ -1187,7 +1187,11 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 ### Schlechte Verkaufsergebnisse (zwei Briefe)
 
 * `.ir.e E.auf,er.eb.iss.e.`
-* `s>G-h neu,m.ei-er, .S.m t.f,G-spr M.m l.T-er u-er-er E.auf.ab.eil-UNG, h-n d-er r.eim-er, .iss.sI b.e-Ts, d.wr v.ir.em r.eis.e,b.e,ri Ü.ir.e ku,be-su.e .im ;g.at eNT.täu-t.I.`
+* `s>G-h neu.m.ei-er, .S.m t.f,G-spr M.m l.T-er u-er-er E.auf.ab.eil-UNG, h-n d-er r.eim-er, .iss.sI b.e-Ts, d.wr v.ir.em r.eis.e,b.e,ri Ü.ir.e ku,be-su.e .im ;g.at eNT.täu-t.I.`
 * `wr.eib,i .iS.en bri -t g.en, s.eh ber k.ei .ad-er.e ;L.T.`
 * `h d-er r.eim-er ha,i .auch sch G-s.agt, w.i s CH .U°.e .ad-er.en .auss,di,M.T-er, O.a .auch .ir.e n.eu-en ko.eg.in.en & .um.I N.l.ha.el.GT.e b.e-mÜ & :er,i neu.e ku.en G-w.in.`
-* `sI .a-g`
+* `sI .a-g ha.en.CH .a-M b.e-ügt, .ir.e st.am.ku.FT Z-be-su.`
+* `.auss.m f-t .U AU, d.sI ;UR .ei-en ;N.en :eil ;r fa.GT.e f bÜ.o,I>;k.el b.e>treu.en.`
+* `wr-a,i sch .oft deu.L Z.ma E-su-t, w.i eNT.eid.ed .e f.U°.en G-sa.um-sa i, G-a.e v.n gu N.ürt.en fa.GT.en f bÜ.o,I>;k.el n.en;-t.e AU>tr.e Z-r-t.en.`
+* `I>iS.ang er.i<wr.sI .an.U° ru.eib.en nu 16 v° 10. .apr .iS-es.ar.`
+* `dar-i t.wr .al.en .auss,di,M.T-ern dri.ed .emp-o, ;r ko.t.akt,pfl.e Z-n N.l.h.l-ern ga-S.e AU.T Z;m.`
