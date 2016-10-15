@@ -6,7 +6,7 @@
  * : abends `.ab.eds` (BSA)
  * : *vor*abend `O.ab.ed` (BSA)
  * ~~ab~~end `:ed`
-* aber `.ab-er` (ABS)
+* aber `.ab-er` (BSA)
  * *aber* `ber`
 * acht `.acht`
  * : beobacht `b.e-ob.acht`
