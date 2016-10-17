@@ -140,13 +140,13 @@
  * auss `.auss`
   * : *außen* `.auss` BSA
   * : *außer* `.auss` BSA
-  * : *äußer* `.äuss` BSA
-     * : *äußer**lich* `.äuss.L` (BSA)
-     * : *äußer*st `äuss-st` (BSA)
-        * : *auf*s.*äußer*ste `AU.äuss-st.e` ~ `AU-s.äuss-st` BSA
-        * : **bi**s.*zum*.*äußer*sten `bi>z.äuss-st-en` » `bi>z.äuss-st` BSA
-     * : *ge**äußer*t `G-äuss` ! `G-äuss-t` BSA
-     * : *ver**äußer** `E.äuss` (BSA)
+     * : *äußer* `.äuss` BSA
+        * : *äußer**lich* `.äuss.L` (BSA)
+        * : *äußer*st `äuss-st` (BSA)
+           * : *auf*s.*äußer*ste `AU.äuss-st.e` ~ `AU-s.äuss-st` BSA
+           * : **bi**s.*zum*.*äußer*sten `bi>z.äuss-st-en` » `bi>z.äuss-st` BSA
+        * : *ge**äußer*t `G-äuss` ! `G-äuss-t` BSA
+        * : *ver**äußer* `E.äuss` (BSA)
 * aut `.aut` (E)
  * : auto `.aut.o`
 * **bahn** `ba` BSA
@@ -233,14 +233,14 @@
  * : **bild***ung* `bi-UNG`
     * ! *bildung* `bi.UNG` BSA
        * : *vor**bildung* `O,bi.UNG` (BSA)
- * : *aus**bild** `.S,bi` (BSA)
- * : *aus**ge**bild**et `.S,bi.et` (BSA)
- * : *ge**bild**e `G,bi.e` (BSA)
- * : *ge**bild**et `G,bi.et` (BSA)
- * : *un**ge**bild**et `UN.G,bi.et` (BSA)
- * : *vor**bild** `O,bi` (BSA)
- * : *die* *fort**bild***ung* `I fr,bi` (BSA)
- * : *die* neu*bild***ung* `I n.eu,bi` (BSA)
+ * : *aus***bild** `.S,bi` (BSA)
+ * : *aus**ge***bild**et `.S,bi.et` (BSA)
+ * : *ge***bild**e `G,bi.e` (BSA)
+ * : *ge***bild**et `G,bi.et` (BSA)
+ * : *un**ge***bild**et `UN.G,bi.et` (BSA)
+ * : *vor***bild** `O,bi` (BSA)
+ * : *die* *fort***bild***ung* `I fr,bi` (BSA)
+ * : *die* neu**bild***ung* `I n.eu,bi` (BSA)
 * **bill** `bi`
  * : **bill****ig** `bi.i`
 * bin ← sein
@@ -343,7 +343,7 @@
 * ***d****auer* `dau` E
  * : *ge****d****auer*t `G-dau-t` » `G-dau` E
 * de***m*** `;m` V
- * : *außer**dem* `.auss.m` BSA
+ * : *außer**dem* `.auss.m` (BSA)
  * : *in*de***m*** `I>m` S
  * : *mit*.de***m*** `M.m` ~ `MM` P
 * **dem** `d`
