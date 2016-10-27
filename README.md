@@ -65,7 +65,7 @@ Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet.
 * **zahl** → `za`
  * **zahl***ung* → `za*`
 * **sitz** → `si`
- * **sitz***ung* → `.iz*`
+ * **sitz***ung* → `.iz*
 * ***stell*** → `.ell`
  * ***stell****ung* → `st*`
 
@@ -334,3 +334,41 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 * `H` = `<H`
 
 * S (sts)
+
+@UR wird in BSA nicht verschmolzen
+@Neue Kürzel ("länger")
+@Formkürzungen ("Antwort", "Nachbar")
+@Vokalandeutungen ("-schrift")
+
+### -ung (nicht) auslassen
+
+Nur in Wendungen oder nach Artikeln (bzw. Pronomen) -ung ausfallen lassen.
+* `ho.acht.Ol`
+* `s.ei Ü.eug`
+
+Nach Artikeln (bzw. Pronomen) nur ausfallen lassen, wenn z. B.:
+* in "igung":
+ * `I .ab.fet-ig`
+* in "erung":
+* in "ungen":
+ * `;N.e E.b.ess.en`
+ * `s.ei er.l.äut-er.en`
+ * `I E.an.stat-en`
+* nach unbetontem Stamm
+ * `I N>tra`
+ * @ `k.ei .S.sp.err` ! `k.ei .S.sp.err-UNG`
+ * @ `I .ab.im.en` ! `I .ab.im-UNG.en`
+
+* `I er.ih`
+* `f.est-l-UNG` : `f.est-l.e` ?
+
+Nicht ausfallen lassen, wenn z.B.:
+* ohne Artikel:
+ * `b.e-k.empf-UNG` `E.z.iS-UNG` `E.acht-UNG` `.od-UNG` `er.öf-UNG` `E.kn.ap-UNG`
+* allein stehend oder lediglich mit unbetonter Vorsilbe:
+ * `m.ei er.W-UNG` `I b.e-l.eb-UNG` `pr.üf-UNG,E.fa` ≠ `pr.üf,E.fa` `fÜ.UNG` ≠ `fÜ.e` = `fÜ`
+ * @ `I E.n.N.UNG` » `I E.n.N`
+ * @ `k.ei eNT.l.on.UNG` » `k.ei eNT.l.on`
+
+
+@ "iz" bleibt nur in "izier" erhalten. (siehe aber "ifiz")
