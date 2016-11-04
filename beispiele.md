@@ -1216,9 +1216,9 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 
 * `s-G-h w.eb-er, AU.ir.it.e .um u-UNG :es T .apr .iS.ar f.i-en b.e>tra .Yss.wr,i M.eil, d.wr AU.ei .o>fr.i.e b.e-za* ;r su.e -t E-i.kö.`
 * `.im E-au.en AU.ir.e E.spr*.en ha.wr I za*.ist sch E.NGR.`
-* `.e aCHT k.ei-en gu N.dru, w-sI T-er.in -t za.en, .U wat-ass & .ir.e E.icht.en -t er-Ü.en.`
+* `.e aCHT k.ei-en gu N.dru, w-sI T-er.in -t za.en, .U wat-ass & .ir.e E.icht.en -t er>fÜ.en.`
 * `b.ei-er heu-ig.en FT.la.e I>.ir.em GT.eig .ysst-en-sI d-ch I>la.N, I E.bar-t-en za*.ist-en N.z-t.`
-* `.e li .auch ;K gru O, M.n er.eug.iss.en u-er-er im.a UN.z.id.en Z-N.`
+* `.e li .auch ;K gru O, M.n er.eug.iss.en u-er-er ;m.a UN.z.id.en Z-N.`
 * `.S u-er-er ang.en GT.E,bi .iss.sI, d.wr -t ;N.L ;I.`
 * `wr-I,i g-Ü :er Z.j-er h.if.e b.e-T -G.en & kö -t E.st, d-sI .U°.e ech.en -t pt.L b.e-za.`
 * `wr brau w.ol -t Z-b.e-t.on, d .auch wr .U°.en E.icht.en ach.ko.Yss.`
@@ -1262,3 +1262,32 @@ In den folgenden Beispielen wird zunächst auf die Auslassung von Wortbestandtei
 * `I>iS-er di.l.ei-UNG,G-FT ;wr AU.dau ;UR ;r<j.e er,r.ei ;N, ;r dr.I qu.al.ät s.ei-er wa.en & di.l.ei-UNG.en Ü.eug.k.`
 * `I r.am.b.e-ing.UNG.en f.I FT.t.ik ;w dr.I I>st*.en ;r .eu-p.e-i.en u-O, dr.I bu.r.ir-UNG & -t Z-let dr.I ta.if<pat-er f°.l.`
 * `.i-ha .iS-er r.am.b.e-ing.UNG.en bl.ei j-ch .S.r.ei-ed.e ha.l-UNG.il.äum.e .um.I -t.l.end.i-e FT Z-Fö, .um .ex.ez.grÜ.er.in.en & b.eim .it I>I -st-ig.T Z-h.ef, .um.I .auss.FT.L.en b.e-ih.UNG.en b.ay-s Z-U°.en ;barn I>r .eu-p.e-i-en u-O .S.z.bau, .um dr.N G-eig.et.es and.ot.m.ak.et.ing zr .an-s.i-l-UNG v UNTER.em.en b.ei.z.tra & .um.I I>fra,u-UR I>b.ay T-er .S.z.bau.`
+
+### Deutsche Meisterschaften 2010 in Marktredwitz
+
+* `.S.kÜ.e N.ho & s.og.fet-ig l.es`
+* `s-G-da.h u-er heu-ig.es ru.eib.en E,di .ir.e b°.e AU.T.`
+* `w-sI-CH O E>lu.en schÜ.ol .emp.wr,i dri.ed fo.ed.e hn.eis.e Z-b.e-acht:`
+* `1. b.ei-er AU.am.e .ei-er GT.E,bi-UNG M.ei-em UN-b.e-ka-t-en pat-er i .e UN-b.e-ingt er>F.L, O.h .ei Z-E.ess.i.e .S.ku N.z.ho.`
+* `aCH.L.T w.en-sI-CH .an.ei b.ak, :ost ber .an.ei G-w.L.e .S.ku.ei.`
+* `2. wat-en-sI .ab b,i I G-wÜ.t.e .S.ku O,li.`
+* `.iss.en-sI .as.o -t sch O.h .ei-en l.i-er,E>tra .ab & l.i-ern-sI k.ei wa.en .S.`
+* `3. l.es.en-sI I N.ang.en.e .S.ku s s.og.fet-ig.`
+* `.e G-üg -t, I .S.ku ;UR Z-Ü-ig & l.ed.i-L I gÜ-i er.N.ed.en .an.ab.en Ü aP & E.ög.en zr.k.is Z-em.`
+* `G-a.e b.ei .S.kÜ.en .uss.ma .auch zw.n z.eil.en l.es.kö.`
+* `I m.ei-en I>om-o.en .iS-er .art eNT-t b.imt.e .om.ul.ir-UNG.en, I ;r fa.ma .as w.an.UNG.en Z-deu E.st.`
+* `I ;k.L.e b.e-deu s-ch O.icht.i-er .om.ul.ir-UNG.en yss.sI k.`
+* `.S ha.UNG<grÜ.en ;w s-ch.e .an.ab.en ga b.e-usst -t .ar-er nd-er.ib.`
+* `w-sI .eif.l ha.en .emp-i .e CH b.eim .S.ku<eb-er ach.z.fra.`
+* `4. :ass.en-sI-CH dr .äuss.e .ing.e -t täu.`
+* `w-sI z.b I>-s bÜ.o .ir.es kÜ.i-en GT.pat-er ko.en, ;wr,i v.ei ;r N.dru .ei-er .auss.L l.eb.ha.en GT.t.T E-t-lt.`
+* `v.ei ;w gr.e wa.eng.en .an.l.i-ert .od-er b.e-acht.L.e wa.O.r.e G-eigt.`
+* `;n wa.en kö-sI -t .an.s.eh, .ob-sI AU kr.it G-auft .od-er b.e-Ts b.e-za-t-I.`
+* `5. b°.e O.icht i :er G-ot, w neu.e GT.pat-er dar-AU b.e-st, I .im GT.eig .üb.L.en b.e-ing.en Ol .S.z.öpf .od-er .a-M dr.o, b.ei .ei-em .ad-er.en l.i-er-er Z-auf, w b.imt.e F.en -t er>fÜ-t-w.`
+* `6. b.e-fra.en-sI .ad-er.e ;m.en Ü.ir.e er>fa-UNG.en I>b°.e Ü.I za*.eis.e :es GT.pat-er.`
+* `7. Ü.S O.icht.i ;S-t-en-sI ;N, w N neu-er ku.e,i ei -st.S.ku O.l.`
+* `8. E.d.echt.i i :er, w N neu-er ku.e .ei ;L-st gr.e wa.eng.e b.e-ih .öcht.e, .o° b°.es I>t-er f qu.al.ät, s.ot.ir-UNG ach grö.e, f.ab.en & .om.en Z-eig.`
+* `9. w N neu-er ku.e I E.bart-en b.e-ing.en -t N-t-ha, ;S-t-en-sI k.ei UN-AU.F-t Ü.sa-t-en wes.l .an.em.`
+* `.il<mer ;S-t-en-sI M.al.eNT.id.H I b.e-za* ;r wa.en E.ang.`
+* `;wr .iS .ab.l.ent, :an ;S-t-en-sI I G-l.i-ert-en wa.en u-rÜ.ho.`
+* `s.i-er ;w-sI M.iS.en hn.eis.en ri.k.en m.i-er.kö.`
