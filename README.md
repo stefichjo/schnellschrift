@@ -372,3 +372,7 @@ Nicht ausfallen lassen, wenn z.B.:
 
 
 @ "iz" bleibt nur in "izier" erhalten. (siehe aber "ifiz")
+
+An- und Auslaut: rat, rät
+treib/trieb
+Ü-kürzungen
