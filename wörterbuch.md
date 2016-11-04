@@ -706,7 +706,7 @@
 * farb `f.ab` (BSA)
  * : X `f.ab.i` `f.ab.l.os` `G-f.ebt` `E.f.eb` `f.eb-UNG`
 * farm `f.am` ! `f.arm` BSA
-* f***ass*** `:ass` ! `fass`
+* f***ass*** `.ass` ! `fass`
  * **nach**.m**ein**er.*auf*f***ass****ung* `ach.m.ei-er AU.ass` × `ach.m.ei-ass`
  * umf***ass*** `.um.ass`
 * *fast* `Fa`
@@ -813,10 +813,10 @@
     * : z**u****rück***ge***fund** `u-rÜ.fu`
 * firm `f.im` (BSA)
  * X `f.im.en` `f.im.ir`
- * *firm* `im`
-    * : *firm*a `im.a`
-    * : *firm*ament `im.a-met` ! `f.im.a-met` > `f.im-met`
-    * : **kon***firm*at*ion* `ko,im-o` ! `ko.f.im-o`
+ * *firm* `;m`
+    * : *firm*a `;m.a`
+    * : *firm*ament `;m.a-met` ! `f.im.a-met` > `f.im-met`
+    * : **kon***firm*at*ion* `ko;m-o` ! `ko.f.im-o`
 * **flach** `fla`
 * ***flieg*** `.ig`
  * ***flog*** `.og`
@@ -1574,12 +1574,12 @@
     * : *ge**länd*er `G-l-er` ! `G-l.ed-er`
 * ***lang*** `ang` E
  * : ***läng***er `eng-er` ~ `NGR`
-* l***ass*** `.ass` ! `l.ass`
+* l***ass*** `:ass` ! `l.ass`
  * : *aus*.anl***ass*** `.S.an.ass`
-    * *aus*.anlass `.S.an`
+    * *aus*.an~~lass~~ `.S.an`
  * : *hinter*l***ass*** `I>t-er.ass`
  * : *ver*anl***ass*** `E.an.ass`
-    * *ver*anlass `E.an`
+    * *ver*an~~lass~~ `E.an`
  * l***äss*** `:ess` ! `l.ess`
     * : l***äss*****ig** `:ess.i` ! `l.ess.i`
     * : anl***äss****lich* `.an.ess.L` × an~~läss~~*lich* `.an.L`
@@ -1598,7 +1598,7 @@
        * : *relativ* `ret-iv`
 * laub `l.aub`
  * : *er*laub `er.l.aub` * *er*l**au**b `er-au`
- * : urlaub `UR.l.aub` * ur*l****au****b* `UR,au`
+ * : urlaub `UR.l.aub` * ur*l****au****b* `UR-au` = `UR,au`
 * ***lauf*** `.auf`
  * ***läuf*** `.äuf`
     * : *ge****läuf*****ig** `G-äuf.i`
@@ -1860,12 +1860,12 @@
  * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
     * *kompromitt* `k.om-p.it.ir` E
  * *miss* `ms`
-    * : *miss**ion* `ms.O`
-    * : e*miss**ion* `.e-ms.O`
+    * : *miss**ion* `ms-o`
+    * : e*miss**ion* `.e-ms-o`
     * : *kom**miss*ar `ko-ms.ar` * *kom*m**i**ssar `ko-i.ar`
-    * : *kom**miss**ion* `ko-ms.O` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
+    * : *kom**miss**ion* `ko-ms-o` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
     * : *kom*pr**o***miss* `kom.o-ms` ~ `k.om-p.iss` E < `kom`
-    * : **trans***miss**ion* `tra.ms.O` » `tra.ms`
+    * : **trans***miss**ion* `tra.ms-o` » `tra.ms`
 * mob `m.ob`
  * : mobil `m.ob.il`
     * : automobil `.aut.m.ob.il` × auto~~mob~~il `.aut.il` BSA
@@ -2012,6 +2012,9 @@
 * n***om*** `:om` ! `n.om`
  * : n***om****inal* `:om.iaL` ! `n.om.iaL`
  * : astron***om***ie `.a-str.om.I`
+ * : auto***nom*** `.aut.om` BSA
+ * : gastro***nom*** `g.a-str.om`
+ * : metro***nom*** `m.etr.om`
  * : ökon***om*** `.ök.om`
 * nord `n.od`
  * **nord**- `n.o`
@@ -2019,12 +2022,6 @@
 * norm `n.om` (E)
  * : normal `n.om.al` (E)
  * : enorm `.e-n.om` (E)
-* nom `n.om`
- * : nom*inal* `n.om.iaL`
- * : -***nom*** `.om`
-    * : auto***nom*** `.aut.om` BSA
-    * : gastro***nom*** `g.a-str.om`
-    * : metro***nom*** `m.etr.om`
 * ***not*** `.ot`
  * : ***nöt*** `.öt`
 * ***nug*** `.ug`
@@ -2206,8 +2203,8 @@
 * pr**eis** `:eis`
 * press `pr`
 * **prinz** `pri`
-* *prinzip* `I>ip` ! `pr.iz.ip` (E)
- * : *prinzip**iell* `I>ip.ieL` ! `pr.iz.ip.ieL` (E)
+* *prinzip* `I>p` ! `pr.iz.ip` (E)
+ * : *prinzip**iell* `I>p.ieL` ! `pr.iz.ip.ieL` (E)
 * *privat* `pri`
  * *privat*isier `pri.ir`
 * *privileg* `pri.eg`
@@ -2342,6 +2339,8 @@
 * ***ring*** `I>;ng` ! `r.ing`
  * : *ge****ring*** `G-ing`
  * : *ver****ring*** `E.ing`
+* *risiko* `ri.ko`
+ * *risiken* `ri.k.en`
 * roll `r.oll`
  * : **ein**e.r**o**lle.sp**ie**len `.ei,o,i`
 * **rück** `rÜ` V ! `r.ük`
@@ -2468,6 +2467,7 @@
 * **sch**on `sch` V
 * **schön** `schö`
  * : **schön***heit* `schö.H` * sch**ö**n*heit* `ö-H`
+* ***schöpf*** `.öpf`
 * **schrank** `schra`
  * **schränk** `schr`
 * **schreck** `schr`
@@ -2911,7 +2911,7 @@
  * : theatr*alisch* `t.e-atr.i`
 * **them** `t`
  * : **them**a `t.a`
- * : **them**at**isch** `t.i` ! `t.em.i`
+ * : **them**at**isch** `t.i` ! `t.em.i` ≠ **tät***ig*
 * theor `t.e-or`
  * : theorie `t.e-or.I` (E) ~ `t.e-o.I`
  * : theoret**isch** `t.e-or.i` (E)
@@ -3023,10 +3023,10 @@
  * : **kon**vertier `ko.wet-ir`
  * vers `v.es`
     * : divers `d.i-w.es`
-    * : divers*ifik*at*ion* `d.i-w.es.if-o`
-    * : *in*vers `I>w.es`
-    * : *in*vers*ion* `I>w.es.iO`
-    * : **kon**vers*ion* `ko.w.es.iO`
+    * : divers*ifik*at*ion* `d.i-wes.if-o` ! `d.i-w.es.if-o`
+    * : *in*vers `I>wes` ! `I>w.es`
+    * : *in*vers*ion* `I>wes-o` ! `I>w.es.iO`
+    * : **kon**vers*ion* `ko.wes-o` ! `ko.w.es.iO`
     * *univers* `.un` E
           * : *univers*al `.un.al` E
           * : *univers*ell `.un.ell` E
