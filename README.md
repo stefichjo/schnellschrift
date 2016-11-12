@@ -3,8 +3,6 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-## Vorlautausstoßung
-
 Die Vorlaute *n*, *l*, *r* werden ausgestoßen. (Ausnahmen stehen in der BSA.) Nach ausgestoßenem Vorlaut behält *s* seine Wendigkeit, und *t* behält seinen Aufstrich, wenn der Stamm einen Anlaut hat. Dieser Anlaut ist es nämlich, der anstelle des ausgestoßen Vorlauts vor Aufstrich-*t* den Inlaut andeutet.
 * end `.ed`
 * feld `f.ed`, *alt* `.alt` BSA
@@ -12,52 +10,41 @@ Die Vorlaute *n*, *l*, *r* werden ausgestoßen. (Ausnahmen stehen in der BSA.) N
 * hals `h.a-s`, als `.as` V
 * wort `wot`, ort `.ot`
 
-Auslaut-*st* und -*nt* werden in Fremdwörtern mit Anlaut-*st* bzw. *nt* geschrieben, außer am Wortende.
+Um ein Häkchen zu vermeiden, wird in Fremdwörtern Abstrich-*st* und Abstrich-*nt* geschrieben.
 * fantast `f.at.ast`
 * fantast*isch* `f.at.a+st.i`
 * *inter*~~ess~~*ant* `I>t-er.ant`
 * romant*isch* `r.om.aNT.i`
 
-## Kurzschreibung
-
-
-### Anlaut s
 Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden kann. Hierfür wird *be* gekürzt. Nach *k* wird *s* eingeschlossen.
 * absolv*ent* `.ab.s.ow.ent` = `.ab-s.ow.ent`
 * be**such** `b.e-su` = `be-su`
 * **kon****sequ**enz `ko-s.ez`
 
-### Vorsilbe kon
 Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen. Anlaut-*s* wird nach *tran* ausgestoßen.
 * **kol**lekt*ion* `ko.ekt-iO`
 * *kom***p**atibel `kom-p.ib.l`
 * **tran**(sist)or `tra.i+st.or`
 
-### Anlaut v
 Lateinisches *v* wird, außer am Wortanfang und in *iv*, *w* geschrieben.
 * vers `v.es`
 * **kon**vers*ion* `ko.wes.iO`
 
-### Nachsilbe ig
 Die Nachsilbe *ig* wird nach Aufstrichzeichen nicht gekürzt.
 * **geg**enwär**t****ig** `g-t-ig`
 
-### Überdeckung von Aufstrichen
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
 * schifffahrt `sch.if-fa-t`
 * **richt****ig*****keit*** `ri.i-T`
 
-### Auslaut o
 Zwischen griechischen Wortbestandteilen fällt *o* aus. Treffen zwei Vokale innerhalb eines Wortbestandteils aufeinander, so werden diese miteinander verschmolzen.
 * geometrie `g.e-m.etr.I`
 * theater `t.e-at-er`
 
-### Auslaute i und u
 Die Vokale *i* und *u* am Ende eines mehrsilbigen lateinischen Wortbestandteils werden ausgestoßen.
 * **kon**sortium `ko-s.ot.um`
 * situier `s.it.ir`
 
-### …
 Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
 * *in***dukt***ion* `I>du-o`
 * *in***spekt***ion* `I>sp*`
@@ -81,9 +68,16 @@ Die Silben *id*, *il*, *in*, *is* sowie *ik* und *iz* fallen, außer am Wortende
 * *zert*ifikat `zer.if.at`
 * *zert*ifizier `zer.if.ir`
 
+Die Silbe *an* fällt, außer am Wortende, aus.
+* organ `.og.an`
+* organisation `.og.iO`
+
 Vorsilben werden angestellt.
 * *auf***trag** `AU>tra`
 * an**fass** `.an.fass`
+
+In der Wortmitte werden Anlautkürzungen mit Durchstreichungs-*u* durch Durchstreichung ersetzt.
+* *ent***würf**e `eNT-Ü.e`
 
 ## Kürzung
 
