@@ -13,7 +13,7 @@ Die Vorlaute *n*, *l*, *r* werden ausgestoßen. (Ausnahmen stehen in der BSA.) N
 Um ein Häkchen zu vermeiden, wird in Fremdwörtern Abstrich-*st* und Abstrich-*nt* geschrieben.
 * fantast `f.at.ast`
 * fantast*isch* `f.at.a+st.i`
-* *inter*~~ess~~*ant* `I>t-er.ant`
+* *inter*~~ess~~*ant* `(I)t-er.ant`
 * romant*isch* `r.om.aNT.i`
 
 Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden kann. Hierfür wird *be* gekürzt. Nach *k* wird *s* eingeschlossen.
@@ -46,8 +46,8 @@ Die Vokale *i* und *u* am Ende eines mehrsilbigen lateinischen Wortbestandteils 
 * situier `s.it.ir`
 
 Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
-* *in***dukt***ion* `I>du-o`
-* *in***spekt***ion* `I>sp*`
+* *in***dukt***ion* `(I)du-o`
+* *in***spekt***ion* `(I)sp*`
 * **zahl** `za`
  * **zahl***ung* `za*`
 
@@ -58,7 +58,7 @@ Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * ***form***at*ion* `.om-o`
 * phonetik `f.on.ik`
 * **kon*****form***ität `ko.om.ät`
-* *in***st**itut*ion* `I>st*`
+* *in***st**itut*ion* `(I)st*`
 
 Die Silben *id*, *il*, *in*, *is* sowie *ik* und *iz* fallen, außer am Wortende, aus. (*ik* und *iz* fallen nur in *ifik* und *ifiz* aus.)
 * **kon**solidier `ko-s.ol.ir`
@@ -73,7 +73,7 @@ Die Silbe *an* fällt, außer am Wortende, aus.
 * organisation `.og.iO`
 
 Vorsilben werden angestellt.
-* *auf***trag** `AU>tra`
+* *auf***trag** `(AU)tra`
 * an**fass** `.an.fass`
 
 In der Wortmitte werden Anlautkürzungen mit Durchstreichungs-*u* durch Durchstreichung ersetzt.
@@ -87,8 +87,8 @@ Formkürzungen auf die Nachsilbe werden auf die Oberlinie gestellt. Die Endung *
 * ~~ab~~end `:ed`
 * ~~verwalt~~*ung* `UNG`
 
-Beginnt die Nachsilbe mit *i*, so wird `I>;` statt `:i` geschrieben.
-* ~~reg~~ier `I>;r`
+Beginnt die Nachsilbe mit *i*, so wird `(I);` statt `:i` geschrieben.
+* ~~reg~~ier `(I);r`
 
 ### Anlautkürzung
 Eine Anlautkürzung besteht in der Regel aus dem Ausstoßen des Auslauts und der Andeutung des Inlauts durch den Anlaut.
@@ -230,7 +230,7 @@ Um Unsicherheiten zu vermeiden, sollten hierbei zunächst lediglich Wortstämme 
  * : **trans***miss**ion* `tra.ms-o` :)
     * **trans***miss*~~ion~~ `tra.ms` :/
 * *ver***trag** `E.tra`
- * : ***kauf****ver***trag** `.auf,E>tra` :)
+ * : ***kauf****ver***trag** `.auf,(E)tra` :)
     * ***kauf***~~ver~~**trag** `.auf.tra` :/
 * **hind**er `hi-er`
  * : **hind**er*lich* `hi-er.L` :)
@@ -270,8 +270,8 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
  * *un**ge***heuer** `UN-G,h.eu-er`
 * `;` Absetzen (Oberlinie)
  * de***r*** `;r`
-* `>` Ansetzen
- * **bi**s**her** `bi>h`
+* `()` Ansetzen
+ * **bi**s**her** `(bi)h`
 * `<` Ausrichten (Grundlinie)
  * *ver**viel*fält**ig** `E.il<fet-ig`
 * `-` Wortbestandteil ohne Anstrich
@@ -341,7 +341,7 @@ Nach Artikeln (bzw. Pronomen) nur ausfallen lassen, wenn z. B.:
  * `s.ei er.l.äut-er.en`
  * `I E.an.stat-en`
 * nach unbetontem Stamm
- * `I N>tra`
+ * `I (N)tra`
  * @ `k.ei .S.sp.err` ! `k.ei .S.sp.err-UNG`
  * @ `I .ab.im.en` ! `I .ab.im-UNG.en`
 
