@@ -7,8 +7,8 @@ Die Vorlaute *n*, *l*, *r* werden ausgestoßen. (Ausnahmen stehen in der BSA.) N
 * end `.ed`
 * feld `f.ed`, *alt* `.alt` BSA
 * erst `.est`, *arg* `.arg` BSA
-* hals `h.a-s`, als `.as` V
-* wort `wot`, ort `.ot`
+* hals `h.a's`, als `.as` V
+* wort `wo't`, ort `.ot`
 
 Um ein Häkchen zu vermeiden, wird in Fremdwörtern Abstrich-*st* und Abstrich-*nt* geschrieben.
 * fantast `f.at.ast`
@@ -83,12 +83,12 @@ In der Wortmitte werden Anlautkürzungen mit Durchstreichungs-*u* durch Durchstr
 
 ### Formkürzung
 Formkürzungen auf die Nachsilbe werden auf die Oberlinie gestellt. Die Endung *ung* bleibt auf der Grundlinie.
-* ~~dank~~**bar** `;bar`
-* ~~ab~~end `:ed`
+* ~~dank~~**bar** `(bar)`
+* ~~ab~~end `(.ed)`
 * ~~verwalt~~*ung* `UNG`
 
-Beginnt die Nachsilbe mit *i*, so wird `(I);` statt `:i` geschrieben.
-* ~~reg~~ier `(I);r`
+Beginnt die Nachsilbe mit *i*, so wird `(I)` statt `(.i)` geschrieben.
+* ~~reg~~ier `((I)r)`
 
 ### Anlautkürzung
 Eine Anlautkürzung besteht in der Regel aus dem Ausstoßen des Auslauts und der Andeutung des Inlauts durch den Anlaut.
@@ -155,9 +155,9 @@ Anlautkürzel von alleinstehenden Verbstämmen werden ausgeschrieben.
 
 ### Auslautkürzel
 Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Alleinstehende Auslautkürzel von Verbstämmen werden ausgeschrieben.
-* arb***eit*** `;T`
-* f***ang*** `:ang` ! `f.ang`
- * : f***ang*** an! `:ang .an!` ! `f.ang .an!`
+* arb***eit*** `(T)`
+* f***ang*** `(.ang)` ! `f.ang`
+ * : f***ang*** an! `(.ang) .an!` ! `f.ang .an!`
  * : ein anf***ang*** `N .an.ang`
 
 ### Inlautkürzel
@@ -169,8 +169,8 @@ Ist eine Verschmelzung bei Inlautkürzeln nicht möglich (oder wird eine solche 
  * : **kurz**schr**i**ft `ku,i`
  * : *unter**schr****i****ft* `UNTER,i`
  * : *vor*schr**i**ft `O-i`
-* t**o**n `:o`
- * t**ö**n `:ö`
+* t**o**n `o`
+ * t**ö**n `ö`
 
 Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen und nach *s* nicht möglich. Außerdem ist es insbesondere nicht immer möglich, ein *ü* mithilfe eines *r*s anzudeuten. Dann wird stattdessen auf den Auslaut gekürzt.
 * *ver*f**ü**g `E-Ü`
@@ -185,7 +185,7 @@ Unregelmäßige Kürzungen werden wie Kürzel behandelt. Daher wird **la**nd (An
  * länd `l.ed` (E)
     * : *ge*lände `G-l.ed.e`
     * : *ge*länder `G-l.ed-er`
-    * ~~länd~~er `;d-er`
+    * ~~länd~~er `(d-er)`
 
 ## Didaktik
 
@@ -200,8 +200,8 @@ Kurzformen, die nur in Verbindung mit feststehenden Vor- oder Nachsilben angewen
     * *länger* `NGR` :)
 
 In- und Auslautkürzel gelten wie eigenständige Kürzel als erlernenswert.
-* arb***eit***s**los** `;Ts.os`
- * ~~arbeit~~~~s~~los `;l.os` :)
+* arb***eit***s**los** `(T)-s.os`
+ * ~~arbeit~~~~s~~los `(l.os)` :)
 
 Bereits angewendete Kurzformen sollten zunächst nicht weiter abgeändert oder aufgehoben werden.
 * ***haus*** `.aus`
@@ -214,7 +214,7 @@ Ein Stenograph sollte eine Kurzform der Schnellschrift erst dann auslassen, wenn
 * *ant*wort `aNT.wot`
  * *ant*~~wort~~ `aNT` :)
 * dank**bar** `d.ak.bar`
- * ~~dank~~**bar** `;bar` :)
+ * ~~dank~~**bar** `(bar)` :)
 * automobil `.aut.m.ob.il`
  * auto~~mob~~il `.aut.il` :)
 * *auf****gab***e `AU.ab.e`
@@ -264,16 +264,16 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 ### Kurzschrift
 * `.` Anstrich
  * ab `.ab`
-* `:` Anstrich (Oberlinie)
- * d***es*** `:es`
+* `(.)` Anstrich (Oberlinie)
+ * d***es*** `(.es)`
 * `,` Absetzen
  * *un**ge***heuer** `UN-G,h.eu-er`
-* `;` Absetzen (Oberlinie)
- * de***r*** `;r`
+* `()` Absetzen (Oberlinie)
+ * de***r*** `(r)`
 * `()` Ansetzen
  * **bi**s**her** `(bi)h`
-* `<` Ausrichten (Grundlinie)
- * *ver**viel*fält**ig** `E.il<fet-ig`
+* `:` Ausrichten (Grundlinie)
+ * *ver**viel*fält**ig** `E.il:fet-ig`
 * `-` Wortbestandteil ohne Anstrich
  * befehl `b.e-f.el`
 * `-` Verschmelzen
@@ -316,10 +316,9 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 
 * `y` = `i`
 * `Y` = `u`
-* `FT` = `<FT`
-* `H` = `<H`
+* `.FT` = `:FT`
 
-* S (sts)
+* S = Schnellschrift (sts)
 
 @UR wird in BSA nicht verschmolzen
 @Neue Kürzel ("länger")
@@ -337,7 +336,7 @@ Nach Artikeln (bzw. Pronomen) nur ausfallen lassen, wenn z. B.:
  * `I .ab.fet-ig`
 * in "erung":
 * in "ungen":
- * `;N.e E.b.ess.en`
+ * `(N).e E.b.ess.en`
  * `s.ei er.l.äut-er.en`
  * `I E.an.stat-en`
 * nach unbetontem Stamm
