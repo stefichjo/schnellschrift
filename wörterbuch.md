@@ -5,7 +5,7 @@
  * : abend*lich* `.ab.ed.L` (BSA)
  * : abends `.ab.eds` (BSA)
  * : *vor*abend `O.ab.ed` (BSA)
- * ~~ab~~end `:ed`
+ * ~~ab~~end `(.ed)`
 * aber `.ab-er` (BSA)
  * *aber* `ber`
 * acht `.acht`
@@ -22,17 +22,17 @@
     * : akt*ion*är `.akt-iO.är` = `.ak.t.iO.är` BSA ~ *aktionär* `.I.är` BSA
     * : aktuell `.akt-ell` = `.ak.t.ell` (BSA)
     * : aktualität `.akt-al.ät` = `.ak.t.al.ät` (BSA)
-    * -*akt*- `-t`
-       * : *akt**ion* `-t-iO`
-       * : *akt*ivier `-t-iv.ir`
-       * : *akt*ualität `-t-al.ät`
-       * : *akt*uell `-t-ell`
-       * : *in**akt*ivität `I>-t-iv.ät`
-       * : re*akt**ion*är `r.e-t-iO.är`
-       * : re*akt*or `r.e-t-or` ! `r.e-akt-or`
-       * : **trans***akt**ion* `tra-t-iO`
-    * ~~akt~~**i** `:I` E
-       * : ~~akt~~**i**onär `:I.on.är` ~ `:I.är` E
+    * -*akt*- `'t`
+       * : *akt**ion* `'t-iO`
+       * : *akt*ivier `'t-iv.ir`
+       * : *akt*ualität `'t-al.ät`
+       * : *akt*uell `'t-ell`
+       * : *in**akt*ivität `(I)'t-iv.ät`
+       * : re*akt**ion*är `r.e't-iO.är`
+       * : re*akt*or `r.e't-or` ! `r.e-akt-or`
+       * : **trans***akt**ion* `tra't-iO`
+    * ~~akt~~**i** `(.I)` E
+       * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är` E
 * -*age* `.asch.e`
 * *akadem* `.ak.ad` BSA
  * : *akadem*ie `.ak.ad.I` (BSA)
@@ -45,7 +45,7 @@
 * also `.as.o` V
 * alt `.at` ! *alt* `.alt` BSA
  * : alter `.at-er` (BSA)
- * : alter*tum* `.at-er-tum` (BSA)
+ * : alter*tum* `.at-er.tum` (BSA)
  * : *ge*altert `G-at-er` ! `G-at-ert` BSA ≠ *ge***trag**en
  * : *über*alt `Ü.at-er` (BSA)
  * : *von*.alters.*her* `v.at-er.h` (BSA)
@@ -88,13 +88,13 @@
  * *mit*arbeiter `M-ab.T-er` (BSA)
  * um*ge*arbeitet `.um.ab.T` ! `.um.ab.T-et` BSA
  * *zu***samm**arbeit `Z-sa.ab.T` (BSA)
- * arb***eit*** `;T`
+ * arb***eit*** `(T)`
     * : **fach**arb***eit***er `fa.T-er`
     * : *mit*arb***eit***er `M.T-er`
     * : *zu***samm**enarb***eit*** `Z-sa.T`
-    * arb***eit***slos `;T-l.os`
-       * ~~arbeit~~slos `;l.os`
-          * : ~~arbeit~~slos**ig***keit* `;l.os.T`
+    * arb***eit***slos `(T)-l.os`
+       * ~~arbeit~~slos `(l.os)`
+          * : ~~arbeit~~slos**ig***keit* `(l.os).T`
 * arch `.ach`
  * : architekt `.ach.i-t.ekt` > `.ach.t.ekt` ~ `.ach.ekt`
  * : architektur `.ach.i-t.ekt-UR` × archi~~tekt~~ur `.ach.i-UR` > `.ach.UR`
@@ -115,11 +115,11 @@
 * arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
 * *art* `.a` ! `.art`
 * artikel `.at.ik.el` (BSA)
- * : badeartikel `b.ad.e-at.ik.el` ! `b.ad.e,.at.ik.el` BSA ≠ be**darf**sartikel
+ * : badeartikel `b.ad.e-at.ik.el` ! `b.ad.e;at.ik.el` BSA ≠ be**darf**sartikel
  * : be**darf**sartikel `b.e-da.at.ik.el` (BSA)
- * ~~art~~ikel `I>;k.el`
-    * .~~art~~~~ik~~el. `:el`
-       * : ~~art~~~~ik~~el 7 `:el 7`
+ * ~~art~~ikel `((I)k.el)`
+    * .~~art~~~~ik~~el. `(.el)`
+       * : ~~art~~~~ik~~el 7 `(.el) 7`
 * arz `.az` (BSA)
  * : arznei `.az.n.ei` (BSA)
  * : ärzte `.ezt.e` (BSA)
@@ -148,9 +148,9 @@
   * : *außer* `.auss` BSA
      * : *äußer* `.äuss` BSA
         * : *äußer**lich* `.äuss.L` (BSA)
-        * : *äußer*st `äuss-st` (BSA)
-           * : *auf*s.*äußer*ste `AU.äuss-st.e` ~ `AU-s.äuss-st` BSA
-           * : **bi**s.*zum*.*äußer*sten `bi>z.äuss-st-en` » `bi>z.äuss-st` BSA
+        * : *äußer*st `äuss+st` (BSA)
+           * : *auf*s.*äußer*ste `AU.äuss+st.e` ~ `AU-s.äuss+st` BSA
+           * : **bi**s.*zum*.*äußer*sten `(bi)z.äuss+st-en` » `(bi)z.äuss+st` BSA
         * : *ge**äußer*t `G-äuss` ! `G-äuss-t` BSA
         * : *ver**äußer* `E.äuss` (BSA)
 * aut `.aut` (E)
@@ -159,13 +159,13 @@
  * **bahn**te `ba-t.e` (BSA)
  * an**bahn** `.an.ba` (BSA)
  * auto**bahn** `.aut.ba` ! `.aut.o-ba` BSA
- * **bund**es**bahn** `bu<ba` (BSA)
+ * **bund**es**bahn** `bu:ba` (BSA)
  * eis**bahn** `.eis.ba` (BSA)
  * eisen**bahn** `.eis.en.ba` (BSA)
 * **bald** `ba` BSA
  * : **bald***ig* `ba.i` (BSA)
  * : als**bald** `.as.ba` (BSA)
- * : ***so*****bald** `.o>ba` (BSA)
+ * : ***so*****bald** `(o)ba` (BSA)
  * : **sehr**.**bald** `s.ba` (BSA)
 * **ball** `ba` ! ball `b.all`
 * band ← bind
@@ -211,8 +211,8 @@
 * **bi** `bi`
 * bibli `b.ibl.i`
  * : bibliothek `b.ibl.i-t.ek` ! `b.ibl.i-o-t.ek`
-    * ~~bibli~~othek `;t.ek`
-       * : ~~bibli~~othekar**isch** `;t.ek.ar.i` > `;t.ek.i`
+    * ~~bibli~~othek `(t.ek)`
+       * : ~~bibli~~othekar**isch** `(t.ek).ar.i` > `(t.ek).i`
 * ***biet*** `.it` BSA
  * : ***biet***end `.it.ed` (BSA)
  * : an*er****biet*** `.an.er.it` (BSA)
@@ -222,7 +222,7 @@
  * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` * *auf*.d**ie**sem.*ge****biet*** `AU-i.it`
  * : *über****biet*** `Ü.it` (BSA)
  * ***bot*** `.ot` (BSA)
-    * : der ***bot***e `;r .ot.e` (BSA)
+    * : der ***bot***e `(r) .ot.e` (BSA)
     * : ***bot****schaft* `.ot.FT` (BSA)
     * : an*ge****bot*** `.an.ot` (BSA)
     * : *ge****bot*** `G-ot` (BSA)
@@ -231,7 +231,7 @@
 * bilanz `b.il.az` (BSA)
  * : bilanzier `b.il.az.ir` (BSA)
  * : bilanzier*ung* `b.il.az.ir-UNG` (BSA)
- * × ~~bil~~anz `:az` ~ `;az`
+ * × ~~bil~~anz `(.az)` ~ `(az)`
 * **bild** `bi` BSA
  * : **bild**end `bi.ed` (BSA)
  * : **bild**er `bi-er` ! `bi.er` BSA
@@ -255,8 +255,8 @@
  * : **bill****ig** `bi.i`
 * bin ← sein
 * **bind** `bi`
- * : *in*.*ver***bind***ung*.*mit* `I>E,bi<M` × *in*.*ver*~~bind~~~~ung~~.*mit* `I>E.M`
- * : *in*.*ver***bind***ung*.**setz**en `I>E,bi.s` × *in*.*ver*~~bind~~~~ung~~.**setz**en `I>E.s`
+ * : *in*.*ver***bind***ung*.*mit* `(I)E,bi:M` × *in*.*ver*~~bind~~~~ung~~.*mit* `(I)E.M`
+ * : *in*.*ver***bind***ung*.**setz**en `(I)E,bi.s` × *in*.*ver*~~bind~~~~ung~~.**setz**en `(I)E.s`
  * ! bind `b.id` (BSA)
     * : bindend `b.id.ed` (BSA)
     * : binder `b.id-er` (BSA)
@@ -296,7 +296,7 @@
 * **bleib** `bl.ei`
  * **blieb** `bl.i`
 * ***blick*** `.ik`  BSA
- : X `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um<ik` `.aug.ik` `.aug.ik.L`
+ : X `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik` `.aug.ik` `.aug.ik.L`
 * ***boot*** `.ot`
 * ***bloß*** `.oss`
 * **blut** `blu`
@@ -307,12 +307,12 @@
 * börse `b.ös.e` (BSA)
  * `b.ös,GT` = `b.ös.GT` `b.ös.es GT`
 * branche `br.asch.e` (BSA)
- * : *textil*branche `t.il<br.asch.e` (BSA)
+ * : *textil*branche `t.il:br.asch.e` (BSA)
 * **brau** `brau`
 * **brauch** `brau` BSA
  * X `brau-t.e` `brau.bar` `brau.bar.T` `G-brau` `G-brau.eil` `ms.brau` `ms.brau.ei` `E.brau` `E.brau.er` `E.brau.er.FT`
  * : *ge***bräuch***lich* `G-bräu.L`
- * : *ver***brauch** `E>brau` E * *ver*br**au**ch `E-au`
+ * : *ver***brauch** `(E)brau` E * *ver*br**au**ch `E-au`
 * **brech** `br`
  * **brich** `bri`
  * **brach** `bra`
@@ -331,12 +331,12 @@
  * : *un**wieder***bring***lich* `UN-W,bri.L` ~ `UN-W.ing.L`
  * : *ver***bring** `E,bri` ~ `E.ing`
  * **bracht** `bra`
-    * : an*ge***bracht** `.an>bra`
-    * : bei*ge***bracht** `b.ei>bra`
-    * : *er***bracht** `er>bra`
+    * : an*ge***bracht** `(.an)bra`
+    * : bei*ge***bracht** `(b.ei)bra`
+    * : *er***bracht** `(er)bra`
     * : *über***bracht** `Ü.bra`
     * : *un*an*ge***bracht** `UN-an.bra`
-    * : *ver***bracht** `E>bra`
+    * : *ver***bracht** `(E)bra`
  * **brächt** `brä`
 * **buch** `bu`
  * : **büch**er `bÜ-er`
@@ -354,7 +354,7 @@
  * : **hoch**burg `ho.b.ug` (BSA)
  * ~ **burg** `bu`
     * : **bürg**er `bÜ-er`
-* b***us*** `:us` ! `b.us`
+* b***us*** `(.us)` ! `b.us`
  * : autob***us*** `.aut.us` BSA
 * charakter `ch.ar.akt-er`
  * » *charakter* `ch.ar` BSA
@@ -380,7 +380,7 @@
  * : dame `d.am.e`
  * .**dam**. `da`
 * dank ← denk
-* d***ann*** `:an`
+* d***ann*** `(.an)`
 * **dar** `dar` V
 * **d**as `d` V
 * **dat** `da`
@@ -392,16 +392,16 @@
     * : **kon****dit***ion* `ko,di-o`
     * : **kon****dit***ional* `ko,di-iaL`
 * ***d****auer* `dau` BSA
- * X `dau.d` `dau-t.e` `dau.ha` `AU.I.dau` `.an.dau.d` `b.e-dau` `Z-m.ei-em<b.e-dau` `Z-U°.b.e-dau` `G-dau`
+ * X `dau.d` `dau-t.e` `dau.ha` `AU.I.dau` `.an.dau.d` `b.e-dau` `Z-m.ei-em:b.e-dau` `Z-U°.b.e-dau` `G-dau`
  * : *ge****d****auer*t `G-dau-t` » `G-dau` E
-* de***m*** `;m` V
+* de***m*** `(m)` V
  * : *außer**dem* `.auss.m` (BSA)
- * : *in*de***m*** `I>m` S
+ * : *in*de***m*** `(I)m` S
  * : *mit*.de***m*** `M.m` ~ `MM` P
 * **dem** `d` BSA
  * : demokrat ← krat
-* de***n*** `;n` V
- * : *in*.de***n*** `I>n`
+* de***n*** `(n)` V
+ * : *in*.de***n*** `(I)n`
  * : *mit*.de***n*** `M.n` ~ `MN` P (3-stufiges M)
  * : **v**on.de***n*** `v.n` ~ `VN` P (3-stufiges N)
 * denk `d.ek` (BSA)
@@ -414,14 +414,14 @@
     * : dank**bar** `d.ak.bar` (BSA)
        * : dank**bar***keit* `d.ak.bar.T` (BSA)
        * : **sehr**.dank**bar** `s.d.ak.bar` (BSA)
-       * × ~~dank~~**bar** `;bar`
+       * × ~~dank~~**bar** `(bar)`
           * : **sehr**.~~dank~~**bar** `s.bar`
 * dens `des`
  * : **kon**densier `ko.des.ir`
  * : **kon**densat `ko.des.at`
-* de***r*** `;r` V
+* de***r*** `(r)` V
  * : *aus*.de**r** `.S-er`
-* d***es*** `:es` V
+* d***es*** `(.es)` V
 * *desto* `d.est` BSA
 * **deut** `deu`
   * : **deut***lich* `deu.L`
@@ -441,7 +441,7 @@
  * **dienst** `di` BSA
     * : *außen***dienst** `.auss,di`
     * : **dienst***lich* `di.L` (BSA)
-    * : *inner***dienst***lich* `.i<di.L` ! `.in<di.L`
+    * : *inner***dienst***lich* `.i:di.L` ! `.in:di.L`
     * : *ver***dienst** `E,di` (BSA)
     * : *außer*.**dienst** `.auss,di`
 * *dies* `.iS` V
@@ -450,7 +450,7 @@
  * *dies*er `.iS-er`
  * *dies*es `.iS-es`
 * dik `d.ik`
- * : *in*dikat*ion* `I>d.ik.iO`
+ * : *in*dikat*ion* `(I)d.ik.iO`
  * *dikt* `di` ! `d.ik` BSA
     * : *dikt*at `di.at` ! `d.ik.at` (BSA)
     * : *dikt*ator `di.or` ! `di.at.or` ! `d.ik.at.or` (BSA)
@@ -458,14 +458,14 @@
     * : *dikt*ier `di.ir` ! `d.ik.ir` (BSA)
     * : *dikt**ion* `di-o` ! `d.ikt-iO`
  * diz `d.iz`
-    * : *in*diz `I>d.iz`
+    * : *in*diz `(I)d.iz`
  * ***dex*** `ex`
-    * : *in****dex*** `I>ex`
+    * : *in****dex*** `(I)ex`
 * ***ding*** `.ing`
- * : ~~aller~~di**ngs** `;ngs`
- * : be***ding*** `b.e-ing` ~ `;ng`
+ * : ~~aller~~di**ngs** `(ngs)`
+ * : be***ding*** `b.e-ing` ~ `(ng)`
  * : *un*be***ding***t `UN-b.e-ingt` × *un*be~~ding~~t `UN-b.e-t` < `UN-t`
- * : *un*be***ding***t.***not*****w**end**ig** `UN-b.e-ingt .ot.w.i` ~ `UN-t o>w.i` ~ `UN-b.e-o-w.i`
+ * : *un*be***ding***t.***not*****w**end**ig** `UN-b.e-ingt .ot.w.i` ~ `UN-t (o)w.i` ~ `UN-b.e-o-w.i`
 * *dis*- `ds` BSA
 * **di**pl***om*** `di.om`
  * **di**pl***om***at `di.om.at`
@@ -503,13 +503,13 @@
  * **wenn**.*du* `w.dU` (BSA)
 * **duk** `du`
  * **duz** `du`
-    * *in***duz**ier `I>du.ir`
-    * pr**o****duz**ier `o>du.ir`
+    * *in***duz**ier `(I)du.ir`
+    * pr**o****duz**ier `(o)du.ir`
  * **dukt** `du`
-    * *in***dukt***ion* `I>du-o`
-    * pr**o****dukt** `o>du` ~ `o>dut` E
-       * pr**o****dukt**iv `o>du.iv` E
-       * pr**o****dukt***ion* `o>du.iO` E
+    * *in***dukt***ion* `(I)du-o`
+    * pr**o****dukt** `(o)du` ~ `(o)dut` E
+       * pr**o****dukt**iv `(o)du.iv` E
+       * pr**o****dukt***ion* `(o)du.iO` E
 * duld `d.ud` (BSA)
  * X `d.ud.ed` `d.ud.et.e` `G-d.ud` `UN-G,d.ud.i` `d.ud-sa.T` `d.ud-UNG`
 * *dunkel* `d.uk` BSA
@@ -517,7 +517,7 @@
 * *durch* `dr` V
  * : **da***durch* `da.dr` ~ *da**durch* `.a-dr` * d**a***durch* `a-dr`
 * **dürf** `dÜ` BSA
- * X `dÜ-t.e` `b.e-dÜ-t-ig` `h.if<b.e-dÜ-t-ig`
+ * X `dÜ-t.e` `b.e-dÜ-t-ig` `h.if:b.e-dÜ-t-ig`
  * : be**dürf** `b.e-dÜ`
  * : be**dürf*****nis*** `b.e-dÜ.is` (BSA)
     * : **d**as be**dürf*****nis*** `d b.e-dÜ.is` « `dÜ.is`
@@ -530,13 +530,13 @@
     * : *ge***durf**t `G-du` ~ `G-du-t` BSA
 * *düsseldorf* `dÜ.o`
 * *eben* `.eb` BSA
- * : *so**eben* `.o>.eb` (BSA)
+ * : *so**eben* `.o.eb` (BSA)@
 * ego `.eg.o` (?)
  * egoist `.eg.ist` (BSA)
  * ego*ismus* `.eg.iS` (BSA)
  * ego*istisch* `.eg.iS.i` (BSA)
 * ehr `.er`
- * : *ich*.h**a**be.~~die~~.ehre `.I-a.er.e` × *ich*.h**a**be.~~die~~.~~ehr~~e `.I-a:e`
+ * : *ich*.h**a**be.~~die~~.ehre `.I-a.er.e` × *ich*.h**a**be.~~die~~.~~ehr~~e `.I-a,(.e)`
 * *eigen*, *eign* `.eig` BSA
  * : *eigen*s `.eig-s` (BSA)
  * : *eigen*t*lich* `.eig.L` (BSA) ~ `.ei-L`
@@ -570,9 +570,9 @@
     * *einzeln* `N.l` BSA
        * : *einzeln*e `N.l.e` (BSA)
        * : im.*einzeln*en `.im.N.l.en` » `.im.N.l` BSA
- * ~~ein~~z**ig** `;z.i`
+ * ~~ein~~z**ig** `(z.i)`
  * dein `d.N` V
- * *kein* `;K` ! `k.N` V
+ * *kein* `(K)` ! `k.N` V
     * **k**eines- `k` ← `k.fa-s`, `k.w-s`
  * mein `m.N` V
  * sein `s.N` V
@@ -588,15 +588,15 @@
 * end `.ed` (BSA)
  * : X `.ed.e` `b.e-ed.et` `b.e-ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
 * -end `.ed` (BSA)
- * : : X `d.uz.ed` `j.ug.ed` `l.eb.ed` `;w.ed` `Z-n.em.ed`
+ * : : X `d.uz.ed` `j.ug.ed` `l.eb.ed` `(w).ed` `Z-n.em.ed`
  * : -nd `.d` (BSA)
     * : X `F.d`
 * energ `.en.eg` (BSA)
  * : energie `.en.eg.I` (BSA)
  * : energ*isch* `.en.eg.i` (BSA)
  * : energet*isch* @?
- * ener***g*** `;g`
-    * : ener***g***ie `;g.I`
+ * ener***g*** `(g)`
+    * : ener***g***ie `(g).I`
 * *ent*- `eNT` V
 * -*ent* `eNT` V
 * *er* `er` V
@@ -610,14 +610,14 @@
  * : X `.est-es` `.est-s` `O.est` `Z-est`
 * **es** `.e` V
 * ess `.ess`
- * : *inter*esse `I>t-er.ess.e` × *inter*~~ess~~e `I>t-er.e` » `I>t-er` BSA
- * : *inter*essier `I>t-er.ess.ir` × *inter*~~ess~~ier `I>t-er.ir` BSA
-    * : X `I>t-er.ant` `UN-I>t-er.ant` `I>t-er.ent-en` `.im.I>t-er` `I>t-er.l.os.T` `S.I>t-er.en` = `S>I>t-er.en`
+ * : *inter*esse `(I)t-er.ess.e` × *inter*~~ess~~e `(I)t-er.e` » `(I)t-er` BSA
+ * : *inter*essier `(I)t-er.ess.ir` × *inter*~~ess~~ier `(I)t-er.ir` BSA
+    * : X `(I)t-er.ant` `UN-(I)t-er.ant` `(I)t-er.ent-en` `.im.(I)t-er` `(I)t-er.l.os.T` `S.(I)t-er.en` = `((S)I)t-er.en`
 * **et**- `.e` BSA
  * : **et**wa `.e-w.a` (BSA)
-    * ~~et~~w***a*** `:a`
+    * ~~et~~w***a*** `(.a)`
  * : **et****was** `.e-was` ! `.e-w.as` (BSA)
-    * ~~et~~w***as*** `:as`
+    * ~~et~~w***as*** `(.as)`
 * *europ* `.eu` BSA
  * : *europ*a `.eu.a` (BSA)
  * : *europ*as `.eu.as` (BSA)
@@ -669,7 +669,7 @@
     * : *unge****f****ähr* `UN.G-f`
        * *unge*~~fähr~~ `UN.G` E
     * : *unge****f****ähr**lich* `UN.G-f.L` E
-    * : *will****f****ähr**ig* `:l<f.i` (BSA)
+    * : *will****f****ähr**ig* `(l):f.i` (BSA)
     * : *du* *er****f****ähr*st *es* `dU er.f .e` (BSA)
     * : *er* ***f****ähr*t `er f` ! `er f-t` BSA
  * ***f****uhr* `fu` BSA
@@ -679,35 +679,35 @@
     * : ***f****uhr*e fu.e
     * : *er* ***f****uhr*t `er fu` (BSA)
 * **fall** `fa` BSA
- * : X `fa.ed` `.S.fa` `b.ei-fa` `G-fa` `rÜ.fa` `UN-fa` `zw.fa` `IN.is.fa` `.im.ad-er<fa` `AU.k.ei-en<fa` `v fa Z fa` = `v.fa.z.fa` `Z-fa.br.ing` `b.est-fa-s` `.eb.fa-s` `gl.fa-s` `n.ot.i-fa-s` `W.i-fa-s` `I f.e` `AU.al.f.e` `IN.v.il<f.en` `IN.n m.eist f.en` `f.i` `G-f.i` `UN-G,f.i` `Z-f.i` `schw.er.f.i` `G-f.T` `schw.er.f.T`
+ * : X `fa.ed` `.S.fa` `b.ei-fa` `G-fa` `rÜ.fa` `UN-fa` `zw.fa` `IN.is.fa` `.im.ad-er:fa` `AU.k.ei-en:fa` `v fa Z fa` = `v.fa.z.fa` `Z-fa.br.ing` `b.est-fa-s` `.eb.fa-s` `gl.fa-s` `n.ot.i-fa-s` `W.i-fa-s` `I f.e` `AU.al.f.e` `IN.v.il:f.en` `IN.n m.eist f.en` `f.i` `G-f.i` `UN-G,f.i` `Z-f.i` `schw.er.f.i` `G-f.T` `schw.er.f.T`
  * : **fäll****ig*****keit*** `f.T` (BSA)
  * : **fall**s `fa-s` (BSA)
  * : **k**eines**fall**s `k.fa-s`
  * : *er* **fäll**t `er f` ! `er f-t` BSA
  * : *es* *ge***fäll**t mir `.e G-f m.ir` ! `.e G-f-t m.ir` BSA
  * **fiel** `fi` ! `f.il` BSA
-    * : *auf***fiel** `AU<fi` ! `AU.f.il` BSA
+    * : *auf***fiel** `(AU)fi` ! `AU.f.il` BSA
 * falsch `f.asch` (BSA)
  * : X `f.asch.H` `f.esch` `f.esch.L` `G-f.escht`
 * falt `fat` (BSA)
- * : X `fat-et.e` `eNT.fat` `ma.i-fat-ig` `s.og.fat` `s.og.fet-ig` `E>v.il<fet-ig` `I E>v.il.fet-ig`
- * : *sorg*fält**ig** `s.o-fet-ig` * *s****o****rg*fält**ig** `o>fet-ig` ~ `o>f.i` ! `s.og.fet-ig` (E)
- * : *ver**viel*fält**ig** `E.il<fet-ig` ~ `E.il<f.i`
+ * : X `fat-et.e` `eNT.fat` `ma.i-fat-ig` `s.og.fat` `s.og.fet-ig` `(E)v.il:fet-ig` `I (E)v.il.fet-ig`
+ * : *sorg*fält**ig** `s.o-fet-ig` * *s****o****rg*fält**ig** `(o)fet-ig` ~ `(o)f.i` ! `s.og.fet-ig` (E)
+ * : *ver**viel*fält**ig** `E.il:fet-ig` ~ `E.il:f.i`
 * *famili* `f.am` BSA
  * : *famili*e `f.am.e` » `f.am` BSA
  * : *famili*är `f.am.är` (BSA)
-* f***ang*** `:ang` ! `f.ang`
+* f***ang*** `(.ang)` ! `f.ang`
  * : anf***ang*** `.an.ang` ~ `.an.fa`
  * : bef***ang*** `b.e-ang` ~ `b.e-fa`
  * : empf***ang*** `.emp.ang` * empf**a**ng `.emp-a`
  * : einf***ang*** `N.ang`
- * : umf***ang*** `.um<ang` ~ `.um.fa`
- * f***äng*** `:eng` ! `f.eng`
+ * : umf***ang*** `.um:ang` ~ `.um.fa`
+ * f***äng*** `(.eng)` ! `f.eng`
     * : anf***äng***er `.an.eng-er` ~ `.an.f-er`
     * : empf***äng*** `.emp.eng` * empf**ä**ng `.emp`
     * : *ge*f***äng******nis*** `G-eng.is` ~ `G-f.is`
     * : *ver*f***äng****lich* `E.eng.L`
- * f***ing*** `I>;ng` ! `f.ing`
+ * f***ing*** `((I)ng)` ! `f.ing`
     * : empf***ing*** `.emp.ing` * empf**i**ng `.emp-i`
 * fantas `f.at.as` (BSA)
  * : X `f.at.as.I` `f.at.as.ir` `f.at.ast` `f.at.a-st.i`
@@ -748,8 +748,8 @@
     * : befohl `b.e-f.ol`
     * : empfohl `.emp-f.ol` * empf**o**hl `.emp-o` × emp~~fohl~~ `.emp`
 * feier `f.ei-er` (BSA)
- * : `f.ei-erd` `f.ei-ert.e` `f.ei-er.L` `G-f.ei-ert` `f.ei-er.tag` `f.T-tag` `j.ub.l<f.ei-er` (BSA)
- * f***eier*** `:ei-er`
+ * : `f.ei-erd` `f.ei-ert.e` `f.ei-er.L` `G-f.ei-ert` `f.ei-er.tag` `f.T-tag` `j.ub.l:f.ei-er` (BSA)
+ * f***eier*** `(ei-er)`
 * feld `f.ed`
 * feind `f.eid` (BSA)
  * : `f.eid.L` (BSA)
@@ -772,12 +772,12 @@
 * fenster `fest-er` (BSA)
 * *ferien* `f.I.en`
 * *fern* `fer` ! fern `f.en` (BSA)
- * : `IN,o>f.en` `IN.w.i-f.en` `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent` (BSA)
+ * : `IN,(o)f.en` `IN.w.i-f.en` `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent` (BSA)
 * fert `fet` (BSA)
  * fert**ig** `fet-ig` (BSA)
     * : X `fet-ig.T` `I fet-ig` `.an.fet-ig` `.S.fet-ig` `UN-fet-ig`
-    * *fertig* `-t-ig`
-       * : *fertig**keit* `-t-ig.T`
+    * *fertig* `'t-ig`
+       * : *fertig**keit* `'t-ig.T`
 * *fest* `f°`
 * feuer `f.eu-er` (BSA)
  * : X `f.eu-ert.e` `.an.f.eu-er` `G-f.eu-ert`
@@ -788,7 +788,7 @@
 * film `f.im` (BSA)
  * : X `f.imt.e` `G-f.imt` `E.f.im` `t.on.f.im`
 * **filt**er `fit-er`
- * : X `G,fit-ert` `<fit-r.ir` `<fit-r.irt`
+ * : X `G,fit-ert` `fit-r.ir` `fit-r.irt`
 * **fin** `fi`
  * **fin**al `fi.al`
  * **fin**anz `fi.az` » `fi` BSA
@@ -806,8 +806,8 @@
  * : *auf***find** `AU,fi` = `AU.f.i`
  * : be**find** `b.e,fi` = `b.e-f.i`
  * : emp**find** `.emp,fi` = `.emp-f.i` * empf**i**nd `.emp-i`
- * : *er***find** `er>fi` = `er>f.i`
- * : *er***find**er `er>fi-er` = `er>f.i-er` ! `er>fi-er`
+ * : *er***find** `(e)fi` = `(e)f.i`
+ * : *er***find**er `(e)fi-er` = `(e)f.i-er` ! `(e)fi-er`
  * : *vor***find** `O,fi` = `O.f.i`
  * : z**u****rück****find** `u-rÜ,fi` = `u-rÜ.f.i`
  * : *zu****samm***en**find** `Z-sa,fi` = `Z-sa.f.i`
@@ -823,16 +823,16 @@
     * : z**u****rück***ge***fund** `u-rÜ.fu`
 * firm `f.im` (BSA)
  * X `f.im.en` `f.im.ir`
- * fir***m*** `;m`
-    * : fir***m***a `;m.a`
-    * : fir***m***ament `;m.a-met` ! `f.im.a-met` > `f.im-met`
-    * : **kon**fir***m***at*ion* `ko.m-o` ! `ko.f.im-o`
+ * ***firm*** `im`
+    * : ***firm***a `im.a`
+    * : ***firm***ament `im.a-met` ! `f.im.a-met` > `f.im-met`
+    * : **kon*****firm***at*ion* `ko,im-o` ! `ko.f.im-o`
 * **flach** `fla`
 * ***flieg*** `.ig`
  * ***flog*** `.og`
  * ***flug*** `.ug`
 * **flat** `fla`
- * *in***flat***ion* `I>fla-o` » `I>fla`
+ * *in***flat***ion* `(I)fla-o` » `(I)fla`
 * ***flieh*** `.ih` ~ `fli` ≠ **fließ**
  * : *ent****flieh*** `eNT.ih`
  * ***floh*** `.oh`
@@ -849,7 +849,7 @@
  * : *er***folg** `er.fo` (BSA)
     * : *er***folg**e `er.fo.e` ! `er.f.og.e` BSA
     * *er*folg `er`
- * : *in***folg** `I>fo` ~ `IN.o`
+ * : *in***folg** `(I)fo` ~ `IN.o`
 * *forder* `F` BSA
  * : X `er F-t` = `er F` `er F-t.e` `er F.e` `F-UNG` `I F` `I F.en`
  * : *auf**forder* `AU.F`
@@ -858,19 +858,19 @@
     * : X `er Fö-t` = `er Fö` `er Fö-t.e` `er Fö-e` `I Fö` `I b.e-Fö.en` `Fö.UNG,ass.n.am.en` `Fö,ass.n.am.en`
 * *fort* `fr` V
 * form `f.om` (BSA)
- * : X `G-f.omt` `IN.iS<f.om` `f.öm.L` `UN-f.öm.i` `f.om.al` `f.om.ell` `f.om.iO` `f.om.ul.ir` `f.om.ir` `r.e-f.om` `r.e-f.om.ir` `r.e-f.om.irt.e` `r.e-f.om.iO` `r.e-f.om.or.i` `.un.i-f.om`
+ * : X `G-f.omt` `(I):iS:f.om` `f.öm.L` `UN-f.öm.i` `f.om.al` `f.om.ell` `f.om.iO` `f.om.ul.ir` `f.om.ir` `r.e-f.om` `r.e-f.om.ir` `r.e-f.om.irt.e` `r.e-f.om.iO` `r.e-f.om.or.i` `.un.i-f.om`
  * : format `f.om.at` (BSA)
  * : formlos `f.om.l.os` (BSA)
  * : formulier `f.om.ul.ir` (E)
  * : formung `f.om-UNG` (BSA)
- * : *in*format*ion* `I>f.om-o` ! `I>f.om.iO` (E)
+ * : *in*format*ion* `(I)f.om-o` ! `(I)f.om.iO` (E)
  * ***form*** `.om`
     * : ***form***at `.om.at`
     * : ***form***at*ion* `.om-o`
     * : ***form***el `.om.l`
     * : ***form***ulier `.om.ul.ir`
-    * : *in****form***at*ion* `I>om-o`
-    * : *in****form***atik `I>om.ik`
+    * : *in****form***at*ion* `(I)om-o`
+    * : *in****form***atik `(I)om.ik`
     * : **kon*****form*** `ko.om`
     * : **kon*****form***ität `ko.om.ät`
     * : re***form*** `r.e-om`
@@ -885,7 +885,7 @@
  * : X `fra.ed` `sI fra` `sI fra-t.e` `sI fra.t-en` `fra.L` `fra.l.os` `.an.fra` `I b.e-fra-t-en` `G-fra` `ach.fra` `rÜ.fra`
  * : **frag**e `fra.e` » `fra` E
 * **frau** `frau`
-* fr***ei*** `:ei`
+* fr***ei*** `(.ei)`
 * **fremd** `fr` = `fr.e`
 * fr**eu** `eu`
  * fr**eu**de `eud.e`
@@ -948,7 +948,7 @@
 * füll ← voll
 * **fund** `fu`
  * : **fund**ier `fu.ir`
- * : **fund**ament `fu.a-met` > `fu.met` ~ `fu-t`
+ * : **fund**ament `fu.a-met` > `fu.met` ~ `fu't`
  * : dif**fund** `d.i,fu`
  * fus `f.us`
     * : fus*ion* `f.us.iO` » `f.us`
@@ -964,7 +964,7 @@
        * : **funkt***ion*ier `fu-o.ir`
        * : **funkt**or `fu.or` ! `f.ukt-or`
 * funk `f.uk` (BSA)
- * : X `f.uk.l` `f.uk.e` `r.ud<f.uk` `f.uk-er`
+ * : X `f.uk.l` `f.uk.e` `r.ud:f.uk` `f.uk-er`
 * **f**ür `f` V
  * : **da****f**ür `da.f` ~ *da***f**ür `.a-f`
 * furcht `f.ucht` (BSA)
@@ -992,11 +992,11 @@
  * : X `g.e-o-gra` `g.e-o-gra.I` `g.e-o-gra.i` `g.e-l.og.e` `g.e-l.og.I` `g.e-m.etr` `g.e-m.etr.I` `g.e-m.etr.i`
 * *ge*- `G` V
  * *unge*- `UN.G`
-@ `:eb` `:ab` `:äb` `:ib`
+@ `(.eb)` `(.ab)` `(.äb)` `(.ib)`
 * ***geb*** `.eb` ! `g.eb` ~ `g` BSA
- * : X `.ab.g` `b.e-g.H` `er.g` `er.g-st` `E.g-s` `E.g.L` `Z-rÜ.g` `;n .S.schl.ag.g` `ass.g.L` `k.ent-is.g` `.an.g.eb-er` `.ab.T-g.eb-er` `G.g.eb-er` `I G.g` `:ab` = `.ab` `.ab.e` `AU.ab.e` `.S.ab.e` `b.e-ab-UNG` `.ibt` `er.ibt` `ach.ib.T` `.äb.e`
+ * : X `.ab.g` `b.e-g.H` `er.g` `er.g+st` `E.g-s` `E.g.L` `Z-rÜ.g` `(n) .S.schl.ag.g` `ass.g.L` `k.ent-is.g` `.an.g.eb-er` `.ab.T-g.eb-er` `G.g.eb-er` `I G.g` `(.ab)` = `.ab` `.ab.e` `AU.ab.e` `.S.ab.e` `b.e-ab-UNG` `.ibt` `er.ibt` `ach.ib.T` `.äb.e`
  * : ***geb***er `.eb-er` ! `g.eb-er`
- * : arb***eit******geb***er `;T-eb-er` ~ `;T-g-er` » `;T-g`
+ * : arb***eit******geb***er `(T)-eb-er` ~ `(T)-g-er` » `(T)-g`
  * ***gab*** `.ab` E
     * : *auf****gab***e `AU.ab.e` × *auf*~~gab~~e `AU.e`
  * ***gäb*** `.äb` E
@@ -1035,14 +1035,14 @@
  * : *gener*al `g.en.al` » `g.en` (BSA)
  * : *gener*ell `g.en.ell` (BSA)
  * : *gener*at*ion* `g.en.iO` (BSA)
-* *genossenschaft* `;O.FT` BSA
- * : X `;O.FT.L`
+* *genossenschaft* `(O).FT` BSA
+ * : X `(O).FT.L`
 * gern `g.en` (BSA)
  * : X `s.g.en`
 * *gesellschaft* `G-FT` BSA
- * : X `G-FT.er` `G-FT.L` `E,G-FT.UNG` `;I.en,G-FT`
+ * : X `G-FT.er` `G-FT.L` `E,G-FT.UNG` `(I).en,G-FT`
 * *gesetz* `G` E
- * : X `G.e` `G.L` `gru,G` = `gru.G` `;UR,G` = `UR.G`
+ * : X `G.e` `G.L` `gru,G` = `gru.G` `(UR),G` = `UR.G`
  * : *un**gesetz**lich* `UN-G.L` (BSA)
 * gest `g.est` (BSA)
  * : X @ `.ir g.est-r.i .eib` `d g.est-r.i`
@@ -1067,8 +1067,8 @@
  * : *wir*.***glaub*** `wr.aub` * *wir*.gl**au**b `wr-au`
  * ***gläub*** `.äub` E
 * **gl**eich `gl` BSA
- * : X `gl.es` `.es>gl`
- * : X? `gl.is` `gl.a-s` `.o>gl` `.ob.gl` `.o°.gl`
+ * : X `gl.es` `(.es)gl`
+ * : X? `gl.is` `gl.a-s` `(o)gl` `.ob.gl` `.o°.gl`
  * glich `gl.ich` (BSA)
     * : X `E.gl.ich`
 * gleit `gl.T`
@@ -1079,15 +1079,15 @@
  * : X `b.e-ük.ed` `UN-ük` `E.UN.ük` `.ük.L` `UN-ük.L`
 * **gönn** `gö`
  * **gunst** `gu` BSA ! gunst `g.ust` (BSA)
-    * : X `UN-gu` `Z-gu` `Z-m.ei-en gu` = `Z-m.ei-en<gu` `Z-U°.gu` `Z-U°.en UN-gu` `gÜ.i` `er b.e-gÜ.i-t.e .in` `gÜ.i-er` `gÜ.i-st` `UN-gÜ.i` `I E.gÜ.i` `I E.gÜ.i-en`
+    * : X `UN-gu` `Z-gu` `Z-m.ei-en gu` = `Z-m.ei-en:gu` `Z-U°.gu` `Z-U°.en UN-gu` `gÜ.i` `er b.e-gÜ.i-t.e .in` `gÜ.i-er` `gÜ.i+st` `UN-gÜ.i` `I E.gÜ.i` `I E.gÜ.i-en`
     * **günst** `gÜ` E
        * : **günst**ig `gÜ.i`
 * ***grad*** `.ad`
  * **gress** `gr`
-    * : **kon****gress** `ko>gr`
-    * : pr**o****gress**iv `o>gr.iv`
-    * : pr**o****gress***ion* `o>gr.iO`
-    * : re**gress** `r.e>gr`
+    * : **kon****gress** `(ko)gr`
+    * : pr**o****gress**iv `(o)gr.iv`
+    * : pr**o****gress***ion* `(o)gr.iO`
+    * : re**gress** `(r.e)gr`
 * gramm ← graph
 * **graph** `gra` BSA
  * : **graph**ik `gra.ik` (BSA)
@@ -1101,11 +1101,11 @@
     * **pa**ra~~graph~~ `pa` E
  * : phono**graph****isch** `f.on.gra.i`
  * : steno**graph** `st.en.gra` ! `st.en.o-gra`
-    * ~~sten~~o**graph** `;gra`
+    * ~~sten~~o**graph** `(gra)`
  * : **tele****graph** `t.gra` E
  * gramm `gr.am`
     * : phonogramm `f.on.gr.am`
-    * : pr**o**gramm `o>gr.am` ~ `o>gra`
+    * : pr**o**gramm `(o)gr.am` ~ `(o)gra`
     * : **tele**gramm `t.gr.am` E
 * grav `gr.aw`
  * : gravur `gr.aw-UR`
@@ -1113,21 +1113,21 @@
 * ***greif*** `.eif`
  * ***griff*** `.if`
 * grenz `gr.ez` (BSA)
- * : X `gr.ez.en` `gr.ez.l.os` `gr.ez.er` `.an>gr.ez` `b.e>gr.ez` `UN-b.e-gr.ezt` `.at-er.gr.ez.e`
+ * : X `gr.ez.en` `gr.ez.l.os` `gr.ez.er` `(.an)gr.ez` `(b.e)gr.ez` `UN-b.e-gr.ezt` `.at-er.gr.ez.e`
 * **grob** `gro`
 * **gr**oß `gr` BSA
  * : X `gr.e` `gr.m.üt.i` `s.gr`
  * : X `gr.art-ig`
  * : **größ**e `grö.e` BSA
-    * : X `grö.er` `.am.grö-t` `grö.e` `;r grö-t.e` `E>grö.er`
+    * : X `grö.er` `.am.grö-t` `grö.e` `(r) grö-t.e` `(E)grö.er`
 * **grund** `gru` BSA
- * : X `.ab.gru` `hnt,gru` `UNTER.gru` `O.d-er.gru` `.S.iS<gru.e` `v.gru.AU` `k.üd.i-UNG.gru`
+ * : X `.ab.gru` `hnt,gru` `UNTER.gru` `O.d-er.gru` `.S.iS:gru.e` `v.gru.AU` `k.üd.i-UNG.gru`
  * : **gründ** `grÜ` (BSA)
-    * : X `h.id-er<grÜ.e` `m.id-er<grÜ.e` `grÜ.e` `grÜ.L` `grÜ.L-st` `grÜ.L.T` `b.e>grÜ` `b.e>grÜ.et.e` `UN-b.e-grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `I b.e>grÜ`
+    * : X `h.id-er:grÜ.e` `m.id-er:grÜ.e` `grÜ.e` `grÜ.L` `grÜ.L+st` `grÜ.L.T` `(b.e)grÜ` `(b.e)grÜ.et.e` `UN-b.e-grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `I (b.e)grÜ`
  * : *aus*.*dies*em.**grund**e `.s-S.gru.e` × `.s-S.e`
 * ***gruß*** `.uss`
  * ***grüß*** `.üss`
- * : *mit*.*freund**lich*~~en~~.grüßen `M.eund.L<üss.en` ~ `M,eu-Ü`
+ * : *mit*.*freund**lich*~~en~~.grüßen `M.eund.L:üss.en` ~ `M,eu-Ü`
 * gunst ← gönn
 * **gut** `gu`
  * besser `b.ess-er`
@@ -1155,31 +1155,31 @@
  * : habilitier `h.ab.ir` ! `h.ab.il.ir`
  * : habitus `h.ab.us`
 * **halb** `ha` ! `h.ab` (BSA)
- * : X `h.ab.H` `;es>ha` `m.N.h.ab` `.auss<h.ab` `.in<h.ab` `;r .od-UNG h.ab-er`
+ * : X `h.ab.H` `(.es)ha` `m.N.h.ab` `.auss:h.ab` `.in:h.ab` `(r) .od-UNG h.ab-er`
  * : **halb**er `ha-er` ! `h.ab-er` (BSA)
  * : **halb**ier `ha.ir`
- * : d***es*****halb** `:es>ha`
+ * : d***es*****halb** `(.es)ha`
  * : *inner*halb `.i-ha`
  * : *unter***halb** `UNTER.ha`
  * hälft `h.eft` (BSA)
     * : hälfte `h.eft.e` (BSA)
 * hals `h.a-s`
 * halt `hat` (BSA)
- * : X `er het` `sI het` `sI hat-en` `hat-ed` `.ir hat-et` `hat-bar` `hat-bar.T` `hat-l.os` `hat-UNG` `ach.hat-ig` `r.ei-hat-ig` `s.az.hat-ig` `b.uch<hat-UNG` `.S.hat` `N.b.e-hat` `eNT.hat-sa.T` `b.ei-b.e-hat` `er.hat` `IN.hat` `.in.hat` `UNTER.hat-UNG` `.aus<hat` `s.ach.E.hat` `AU.hat` `AU.eNT.hat` `O.eNT.hat` `ach.m.ei-em<da.f.hat` `G-hat` `G-hat-Ol` `UN-G,hat` `b.e-het-er` `G-het-er` `E.het-is` `E.het-iss.e` `l.eb.E.het.iss.e` `aCHT.E.het-iss.e` `FT.E.het-iss.e`
+ * : X `er het` `sI het` `sI hat-en` `hat-ed` `.ir hat-et` `hat-bar` `hat-bar.T` `hat-l.os` `hat-UNG` `ach.hat-ig` `r.ei-hat-ig` `s.az.hat-ig` `b.uch:hat-UNG` `.S.hat` `N.b.e-hat` `eNT.hat-sa.T` `b.ei-b.e-hat` `er.hat` `IN.hat` `.in.hat` `UNTER.hat-UNG` `.aus:hat` `s.ach.E.hat` `AU.hat` `AU.eNT.hat` `O.eNT.hat` `ach.m.ei-em:da.f.hat` `G-hat` `G-hat-Ol` `UN-G,hat` `b.e-het-er` `G-het-er` `E.het-is` `E.het-iss.e` `l.eb.E.het.iss.e` `aCHT.E.het-iss.e` `FT.E.het-iss.e`
  * : **hielt** `hit` (BSA)
     * : X `.ab,hit` `b,hit` `eNT,hit` `er,hit` `UNTER,hit` `Z-rÜ,hit`
-    * : **er****hielt** `er,hit` ~ **er*****hie****lt* `er>hi`
- * hal***t*** `;-t`
-    * : **er**hal***t*** `er-t`
-    * : *ge*hal***t*** `G-t` = `-G-t`
-    * : ***haus***hal***t*** `.aus-t`
-    * : *in*hal***t*** `I>-t`
-    * : **sach***ver*hal***t*** `sa.E-t`
-    * : *ver*häl***t******nis*** `E-t-is`
+    * : **er****hielt** `er,hit` ~ **er*****hie****lt* `(er)hi`
+ * hal***t*** `('t)`
+    * : **er**hal***t*** `er('t)`
+    * : *ge*hal***t*** `G('t)`
+    * : ***haus***hal***t*** `.aus('t)`
+    * : *in*hal***t*** `(I):('t)`
+    * : **sach***ver*hal***t*** `sa.E('t)`
+    * : *ver*häl***t******nis*** `E('t)-is`
 * **hand** `ha` BSA
- * : X `UN-ha.L` `ha.IN.ha` `O.ha` `h.e` `.S.h.i` `l.iks<h.ed-er` = `l.ik<h.ed-er` `tr.eu<h.ed-er`
+ * : X `UN-ha.L` `ha.IN.ha` `O.ha` `h.e` `.S.h.i` `l.iks:h.ed-er` = `l.ik:h.ed-er` `tr.eu:h.ed-er`
  * : **hand**el `ha.l` (BSA)
-    * : X `ha.ld` `ha.lt.e` `G-ha.lt` `ha.l-UNG` `I b.e-ha.l-UNG` `E.ha.l` `I E.ha.l-UNG.en` `ms.ha.l` `N.l.ha.l` `;N.ha.l` `ha.l.k.am` `.e ha.l.CH.um` `h.l.er`
+    * : X `ha.ld` `ha.lt.e` `G-ha.lt` `ha.l-UNG` `I b.e-ha.l-UNG` `E.ha.l` `I E.ha.l-UNG.en` `ms.ha.l` `N.l.ha.l` `(N).ha.l` `ha.l.k.am` `.e ha.l.CH.um` `h.l.er`
  * : **händ**ler `h.l-er` > `h-er`
  * : ein**hand**el `N.ha.l` » `N.ha`
  * : *miss***hand**el `ms.ha.l` » `ms.ha`
@@ -1187,23 +1187,23 @@
 * handel ← hand
 * ***harr*** `arr`
  * : be***harr****lich*k**eit** `b.e-arr.T`
-* h***äng*** `:eng` ! `h.eng`
+* h***äng*** `(.eng)` ! `h.eng`
  * : abh***äng*****ig** `ab.eng.i`
  * : anh***äng***er `.an.eng-er`
  * : anh***äng*****ig** `.an.eng.i`
  * : *un*abh***äng*****ig** `UN-ab.eng.i` × *un*ab~~häng~~**ig** `UN-ab.i`
- * h***ing*** `I>;ng` ! `h.ing`
- * h***ang*** `:ang` ! `h.ang`
+ * h***ing*** `((I)ng)` ! `h.ing`
+ * h***ang*** `(.ang)` ! `h.ang`
     * : abh***ang*** `.ab.ang`
     * : anh***ang*** `.an.ang`
     * : *vor*h***ang*** `O.ang`
     * : *zu***samm**enh***ang*** `Z-sa.ang` ~ z**u**~~samm~~enh***ang*** `u-ang`
-       * : *in*.*dies*em *zu***samm**enh***ang*** `I>iS.em Z-sa.ang`
-          * × *in*.*dies*em.~~zu~~~~samm~~enh***ang*** `I>iS.ang`
+       * : *in*.*dies*em *zu***samm**enh***ang*** `(I)iS.em Z-sa.ang`
+          * × *in*.*dies*em.~~zu~~~~samm~~enh***ang*** `(I)iS.ang`
 * **hart** `hat` BSA
  * : X `het.e` `het-est` `.ab.het` `er.het` `G-het` `E.het-et`
 * **haupt** `hau` BSA
- * : X `b.e-hau` `er b.e-hau.et.e` `I b.e-hau.en` `.ob-er.hau` `Ü.hau` `hau.s.ach.e` = `hau<s.ach.e` `hau<E.s.am.l-UNG`
+ * : X `b.e-hau` `er b.e-hau.et.e` `I b.e-hau.en` `.ob-er.hau` `Ü.hau` `hau.s.ach.e` = `hau:s.ach.e` `hau:E.s.am.l-UNG`
  * : **häupt** `häu` ! `h.äupt` BSA
     * : X `h.äupt-er` `h.äupt-l.ing`
 * ***haus*** `.aus` BSA
@@ -1215,24 +1215,24 @@
  * **hieß** `h.i` ! `h.iss`
 * -*heit* `H` V
 * helf `h.ef` (BSA)
- * : X `ach.h.ef` `I h.ef-er.in` `;r h.ef-er.h.ef-er`
+ * : X `ach.h.ef` `I h.ef-er.in` `(r) h.ef-er.h.ef-er`
  * half `h.af` (BSA)
  * hilf `h.if` (BSA) * **hilf** `hi`
     * : `h.if.e` `h.ift`
  * holf `h.of` (BSA)
     * : `G-h.of` `.S.h.of`
 * **h**er `h` V
- * : **bi**s**h**er `bi>h` V
+ * : **bi**s**h**er `(bi)h` V
  * : **da****h**er `da.h` ~ *da***h**er `.a-h`
  * *her*- `.e`
     * : *her**auf* `.e-AU`
     * : *her**unter* `.e-UNTER`
     * : *her**vor* `.e-O`
-* her***bst*** `;bst`
+* her***bst*** `(bst)`
  * ! herbst `h.ebst` (BSA)
     * : herbst*lich* `h.ebst.L` (BSA)
 * **h**err `h` BSA
- * : X `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G-ert-h.en` `h.sch` `h.scht.e` `h.sch.er` `b.e-h.sch` `I -st,b.e-h.sch` `h.sch.s.ücht.i`
+ * : X `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G-ert-h.en` `h.sch` `h.scht.e` `h.sch.er` `b.e-h.sch` `I 'st,b.e-h.sch` `h.sch.s.ücht.i`
  * : X `h.err.i`
 * herz `h.ez` (BSA)
  * : `h.ez.ha.est` `h.ez.L` `s.h.ez.L` `h.ez.l.os` `b.e-h.ez.i` `v.ga.h.ez`
@@ -1240,7 +1240,7 @@
  * : *un**ge***heuer** `UN-G,h.eu-er` (E)
 * **heut** `heu`
 * **hier** `hi` BSA
- * : X `hi>AU` `hi.S` `hi>b.ei` `hi>dr` `hi>h` `hi.IN` `hi<M` `h<v` `hi<UNTER` `hi>Z`
+ * : X `(hi)AU` `hi.S` `(hi)b.ei` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER` `(hi)Z`
  * : X `h.i-b.ei` `h.i-Z`
  * **hies** `hi` ! `h.is` BSA
     * : **hies****ig** `hi.i` ! `h.is.i` (BSA)
@@ -1248,14 +1248,14 @@
 * *hin* `hn` V
  * : *hin*t~~er~~, *hin*t~~en~~ `hnt` BSA
     * : X `hnt-h.um` `hnt-N.ad-er` `hnt-l.ass` `hnt-h` `hnt-m.i`
-    * *hinter* `I>t-er`
+    * *hinter* `(I)t-er`
  * : *darauf**hin* `dar-AU.hn` (BSA)
- * : ***nach***.*außen*.*hin* `ach.auss<hn` (BSA)
+ * : ***nach***.*außen*.*hin* `ach.auss:hn` (BSA)
  * ***hin***- `n`
-    * : ***hin****auf* `n>AU`
+    * : ***hin****auf* `(n)AU`
     * : ***hin****aus* `n.S`
     * : ***hin***ein `n.N` ~ `hi.N`
-    * : ***hin****zu* `n>Z`
+    * : ***hin****zu* `(n)Z`
  * -***hin*** `.in`
     * : *da****hin*** `da.in`
     * : ***weit***er***hin*** `T-er.in`
@@ -1276,7 +1276,7 @@
  * : **höch**stens `hö.st-s`
     * *höchstens* `hö°`
 * **hoh** `ho`
- * : X `I hö.e` `I hö.en` `hö.er` `hö.er-er` `:er>hö.er` `.um.o,hö.er` `.am.hö-st` `hö-st-es` `hö-st-s` `er.hö` `I er.hö`
+ * : X `I hö.e` `I hö.en` `hö.er` `hö.er-er` `(.er)hö.er` `.um.o,hö.er` `.am.hö+st` `hö+st-es` `hö+st-s` `er.hö` `I er.hö`
  * : **hoh***heit* `ho.H` * h**o**h*heit* `o-H`
 * **hof** `ho`
  * **bahn****hof** `ba.ho`
@@ -1288,7 +1288,7 @@
     * : *honor*ierte `h.on.irt.e` (BSA)
 * **hö**r `hö`
  * : be**hö**rde `b.e-hö.d.e` » `b.e-hö` ! behörde `b.e-h.öd.e` (BSA)
-    * : *gemein*debe**hö**rde `;Nd.e-b.e-hö.d.e` » *gemein*de~~be~~**hö**r~~d~~~~e~~ `;Nd.e-hö` ! *ge*m***ein***debehörde `G-Nd.e-b.e-h.öd.e`
+    * : *gemein*debe**hö**rde `(N)-d.e-b.e-hö.d.e` » *gemein*de~~be~~**hö**r~~d~~~~e~~ `(N)-d.e-hö` ! *ge*m***ein***debehörde `G-Nd.e-b.e-h.öd.e`
 * **hundert** `hu` BSA
  * : X `3.hu` `5,hu` `hu.FT`
  * : **jahr****hundert** `ja.hu`
@@ -1296,7 +1296,7 @@
  * -*iell* `.ieL` BSA
  * : X `g.en.iaL` `g.üm.n.as.iaL` `.of.iz.ieL` = `.of.ieL`
 * *ich* `.I` V
- * .*ich*. `I>`
+ * .*ich*. `(I)`
 * ide `.id.e` (BSA)
  * : X `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
 * -ie `I` BSA
@@ -1304,7 +1304,7 @@
 * -ifik `.if`
  * : -ifiz `.if`
 * -**ig** `.i` BSA
- * : X `N.i` `N.i.e` `N.i-er` `N.i-es` `N.i-t.e` `N-t.e` `E.N.i` `E.N.i-t.en` `E.N-t.en` `I E.N.i-UNG` `I E.N.e` `O.i` `w.en.i` `w.en.i-er` `er pr.ed.i` `I pr.ed.i-t` `pr.ed.i-t.e` `w.icht.i` `;r w.icht.i-st.e` `l.ust-ig` `h.eft-ig-st`
+ * : X `N.i` `N.i.e` `N.i-er` `N.i-es` `N.i-t.e` `N-t.e` `E.N.i` `E.N.i-t.en` `E.N-t.en` `I E.N.i-UNG` `I E.N.e` `O.i` `w.en.i` `w.en.i-er` `er pr.ed.i` `I pr.ed.i-t` `pr.ed.i-t.e` `w.icht.i` `(r) w.icht.i+st.e` `l.ust-ig` `h.eft-ig+st`
 * ihn `.in`
  * : ihnen `.in.en`
     * .**i**hnen. `i`
@@ -1319,15 +1319,15 @@
  * : *illustr*ier `.ill.ir`
  * : *illustr*at*ion* `.ill.iO`
 * im ← in
-* ~~imm~~er `:er` BSA
- * : X `:er<fr` `:er>hn`
- * n~~imm~~er `n>:er` BSA
-    * : X `n>:er-s.at` = `n>:er.s.at`
+* ~~imm~~er `(.er)` BSA
+ * : X `(.er):fr` `(.er)hn`
+ * n~~imm~~er `(n.er)` BSA
+    * : X `(n.er)-s.at` = `(n.er).s.at`
 * *in* `IN` V
  * : **dar***in* `dar.IN` * **dar****i**n `dar-i`
- * *in*- `I>`
-    * : *in*s `I>-s` S ! `IN.s`
- * .*in*. `I>`
+ * *in*- `(I)`
+    * : *in*s `(I)-s` S ! `IN.s`
+ * .*in*. `(I)`
  * inn `.in`
     * : innen `.in` E
     * : *inner* `.i`
@@ -1338,8 +1338,8 @@
  * im `.im`
 * -*inal* `.iaL`
 * -*inell* `.ieL`
-* -*inter* `I>t-er` BSA
- * : X `I>t-er.n.al` `I>t-er.pt.iO` `I>tr.ig.en`
+* -*inter* `(I)t-er` BSA
+ * : X `(I)t-er.n.al` `(I)t-er.pt.iO` `(I)tr.ig.en`
  * -*intel* `I.t` @
 * -*ion* `.iO` V
 * -*ional* `.iaL`
@@ -1352,7 +1352,7 @@
 * insel `.i-s.l`
  * : **halb**insel `ha.i-s.l`
 * *irgend* `.ig` BSA
- * : X `.ig.N` `.ig.ei` `.ig.ech.e` `.ig<w.i`
+ * : X `.ig.N` `.ig.ei` `.ig.ech.e` `.ig:w.i`
  * **irgend**- `.i`
     * : **irgend***wie* `.i-I`
     * : **irgend****wo** `.i-wo`
@@ -1372,52 +1372,52 @@
 * -*istisch* `.iS.i` BSA
  * : X `j.UR.iS.i` `st.at.iS.i` `st.at.i`
 * it `.it`
- * *in*it `I>it`
-    * : *in*itiative `I>it.iv.e`
-    * : *in*itiator `I>it.or`
+ * *in*it `(I)it`
+    * : *in*itiative `(I)it.iv.e`
+    * : *in*itiator `(I)it.or`
     * *in*~~it~~iat `IN.at` BSA
        * : X `IN.iv.e` `IN.at.or`
  * **trans**it `tra.it`
 * **jahr** `ja` BSA
- * : X `ja.z.ent` `ja.S ja.N` `ja.b.uch` `.im.ja` `IN.iS<ja` `.im.let,ja` `.im.echst,ja` `GTs<ja` `frÜ.ja` `.im.O.i ja` `.im O>ja` `j.L` `E>j`
- * : *dies***jähr****ig** `.is<j.i` × *dies*~~jähr~~**ig** `.is.i`
+ * : X `ja.z.ent` `ja.S ja.N` `ja.b.uch` `.im.ja` `IN.iS:ja` `.im.let,ja` `.im.echst,ja` `GTs:ja` `frÜ.ja` `.im.O.i ja` `.im (O)ja` `j.L` `(E)j`
+ * : *dies***jähr****ig** `.is:j.i` × *dies*~~jähr~~**ig** `.is.i`
  * : **halb****jahr** `ha.ja` ! `h.ab.ja` E ~ `h.ab.ar`
  * : **jahr**.~~für~~.**jahr** `ja.ja`
- * : *vor***jahr** `O>ja` (BSA)
+ * : *vor***jahr** `(O)ja` (BSA)
  * .***jahr***. `.ar`
-    * : *in*.~~den~~.*letzt*en.***jahr***en `I>let-ar.en`
-    * : *in*.**ein**er.reihe.~~von~~.***jahr***en `I>ei-er.r.eih.ar.en` ! `IN.ei-er-r.eih.ar.en`
+    * : *in*.~~den~~.*letzt*en.***jahr***en `(I)let-ar.en`
+    * : *in*.**ein**er.reihe.~~von~~.***jahr***en `(I)ei-er.r.eih.ar.en` ! `IN.ei-er-r.eih.ar.en`
     * : im.***jahr***e `.im.ar.e`
     * : im.*letzt*en.***jahr*** `.im.let-ar`
-    * : im.näch**st**en.***jahr*** `.im;-st-ar`
+    * : im.näch**st**en.***jahr*** `.im('st)-ar`
     * : im.*ver*~~gang~~enen***jahr*** `.im.E.ar`
     * : im.*vor****jahr*** `.im-o.ar`
-    * : im.vori*g*en.***jahr*** `.im ;g.ar`
-    * : *in*.*dies*em.***jahr*** `I>iS.ar`
-    * .im.~~jahr~~~~e~~.~~19~~.80 `.im;80`
+    * : im.vori*g*en.***jahr*** `.im (g).ar`
+    * : *in*.*dies*em.***jahr*** `(I)iS.ar`
+    * .im.~~jahr~~~~e~~.~~19~~.80 `.im,(80)`
 * **jed** `j`
  * : **jed**e `j.e` ! `j.ed.e`
  * : **jed**er `j-er`
  * : **jed**es `j.es`
 * jen `j.en`
  * -*jenig* `j`
- * : de***m****jenig* `;m<j`
+ * : de***m****jenig* `(m):j`
 * *jetz* `j°` BSA
  * : *jetz***ig** `j.i` (BSA)
  * *jetzt* `j°` BSA
-    * : X `j°.sch` `bi<j°`
+    * : X `j°.sch` `bi:j°`
 * **j**iz `j`
- * : pr**o****j**izir `o>j.ir`
+ * : pr**o****j**izir `(o)j.ir`
  * **jekt** `j`
-    * : *in***jekt***ion* `I>j.iO`
-    * : pr**o****jekt** `o>j`
-    * : pr**o****jekt**il `o>j.il` ! `o>jet-il`
-    * : pr**o****jekt***ion* `o>j.iO`
+    * : *in***jekt***ion* `(I)j.iO`
+    * : pr**o****jekt** `(o)j`
+    * : pr**o****jekt**il `(o)j.il` ! `(o)jet-il`
+    * : pr**o****jekt***ion* `(o)j.iO`
 * jug `j.ug`
- * : **kon**jugat*ion* `ko>j.ug.iO`
+ * : **kon**jugat*ion* `(ko)j.ug.iO`
  * junkt `j.ukt`
-    * : **kon**junkt*ion* `ko>j.ukt-iO`
-    * : **kon**junktur `ko>j.ukt-UR`
+    * : **kon**junkt*ion* `(ko)j.ukt-iO`
+    * : **kon**junktur `(ko)j.ukt-UR`
        * * **kon**j**u**nktur `ko,u-UR` BSA * k**o**nj**u**nktur `o-u-UR`
           * **kon**j**u**nkturell `ko,u-UR.ell` (BSA)
 * *jugend* `.ug` ! `j.ug`
@@ -1439,8 +1439,8 @@
 * ***kampf*** `ampf`
  * : **klass**en***kampf*** `kla.ampf`
  * : ***kämpf***e `empf.e`
-* kan***al*** `:al`
- * : kan***al***isat*ion* `:al.iO`
+* kan***al*** `(.al)`
+ * : kan***al***isat*ion* `(.al).iO`
 * **k**ann `k` V
  * : **k**annst `k` V
  * **k**onn `k` V
@@ -1455,7 +1455,7 @@
 * kart `k.at` (BSA)
  * : karte `kat.e` ! *kart*e `k.art.e` BSA ≠ akte `.akt.e`
  * : kartei `kat.ei` = `k.at.ei` (BSA) ~ `ka.ei`
- * : kartell `kat.ell` ~ kart***ell*** `:ell`
+ * : kartell `kat.ell` ~ kart***ell*** `(.ell)`
  * : kartoffel `kat.of.l` ~ `ka.of.l`
  * : kartothek `kat-ek` ! `k.at.o-t.ek` BSA
 * ***kass*** `ass`
@@ -1475,7 +1475,7 @@
     * : **kann**te `ka-t.e`
 * **kind** `ki`
  * : **kind***lich* `ki.L` ! kind*lich* `k.id.L` ≠ wir***k****lich*
- * : kl***ein*****kind** `;N<ki`
+ * : kl***ein*****kind** `(N):ki`
  * ! kind `k.id` (BSA)
     * : X `k.id-H` `k.id.i` `k.id.L` `k.id-er` `k.id.l.os`
 * kir***ch***
@@ -1491,7 +1491,7 @@
 * ***klar*** `.ar` BSA
  * : X `.ar-er` `.am.arst` `.ar.H`
  * ***klär*** `.är` BSA
-    * : X `G-ärt` `UN-G,.ärt` `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
+    * : X `G-ärt` `UN-G;ärt` `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
     * : *er****klär*** `er.är` (BSA) ~ `er-r`
 * **klass** `kla`
  * : **klass**e `kla`
@@ -1500,14 +1500,14 @@
  * : **klass**iz*ismus* `kla.iz.iS` > `kla.iS`
  * : **klass**ifizier `kla.if.ir`
  * : **klass**ifikat*ion* `kla.if-o`
-* kl***ein*** `;N` BSA
- * : X `;N.H` `;N.T` `;N.L.T` `;N.er` `E.N.er` `zr.N.er` `.am ;Nst` = `.am.Nst`
+* kl***ein*** `(N)` BSA
+ * : X `(N).H` `(N).T` `(N).L.T` `(N).er` `E.N.er` `zr.N.er` `.am (N)+st` = `.am.(N)+st`
 * **klin** `kli`
  * : **klin**ik `kli.ik`
 * **komm** `ko` BSA
  * : X `N.ko` `.S.ko` `ach.ko` `ach.ko.FT` `.um.ko` `Z-rÜ.ko` `.ab.ha.ko`
- * : *in*.**frag**e.**komm**en `I>fra.ko` ~ `IN.fra.ko` `IN.b.e-tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z-ed.ko` `z.ab.uss.ko` `Z-echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z-r Ü.eug.ko`
- * : *will***komm**en `:l.ko`
+ * : *in*.**frag**e.**komm**en `(I)fra.ko` ~ `IN.fra.ko` `IN.b.e-tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z-ed.ko` `z.ab.uss.ko` `Z-echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z-r Ü.eug.ko`
+ * : *will***komm**en `(l).ko`
  * **kömm** `kö` (BSA)
     * : X `b.e-kö.L` `.ab.kö.l.ing`
  * **kam** `ka` ! `k.am` BSA
@@ -1541,11 +1541,11 @@
 * **konter**- `ko-t-er`
 * **konto** `ko` E
  * **skonto** `sko` E
-* *kontroll* `ko>tr.o` BSA
- * : *kontroll*e `ko>tr.o.e` = `ko>tr.o` (BSA) !o! `ko:o`@
- * : *kontroll*en `ko>tr.o-en` (BSA)
- * : *kontroll*ier `ko>tr.o-ir` = `ko>tr.ir` (BSA)
- * : *kontroll*ör `ko>tr.o-ör` (BSA)
+* *kontroll* `(ko)tr.o` BSA
+ * : *kontroll*e `(ko)tr.o.e` = `(ko)tr.o` (BSA) !o! `ko,o`@
+ * : *kontroll*en `(ko)tr.o-en` (BSA)
+ * : *kontroll*ier `(ko)tr.o-ir` = `(ko)tr.ir` (BSA)
+ * : *kontroll*ör `(ko)tr.o-ör` (BSA)
 * körp `k.öp` BSA
  * : X `k.öp-er` `k.öp-er.L` `k.öp-er.FT` `E.k.öp-er`
 * kopf `k.opf`
@@ -1577,8 +1577,8 @@
 * **kred** `kr` BSA
  * : **kred**it `kr.it` (BSA)
  * : ak**kred**itiv `.a-kr.iv` ! `.a-kr.it.iv` BSA
-* kr***eis*** `:eis`
- * **la***nd*kr**eis** `la.eis`
+* kr***eis*** `(.eis)`
+ * **la***nd*kr**eis** `la(.eis)`
 * **kret** `kr`
  * : **kon****kret** `ko.kr`
  * : **kon****kret**isier `ko.kr.ir`
@@ -1606,7 +1606,7 @@
 * kunft ← komm
 * kunst ← könn
 * **k**ur `k` ! `k.ur`
- * : pr**o****k**urist `o>k.ist` E
+ * : pr**o****k**urist `(o)k.ist` E
 * **kurr** `ku`
  * : **kur**ier `ku.ir`
  * : **kon****kurr** `ko,ku`
@@ -1628,38 +1628,38 @@
 * lad `l.ad`
  * **last** `ast` ! `.ast`
 * **la***nd* `la` BSA
- * : X `hi>z.la` `la.UNG` `SCH.la-s` `v.at-er.la` `v.at-er.l.i` `.ab.ed.l.i` `.S.l.i` `IN.l.i`
+ * : X `(hi)z.la` `la.UNG` `SCH.la-s` `v.at-er.la` `v.at-er.l.i` `.ab.ed.l.i` `.S.l.i` `IN.l.i`
  * : X `l.ed-er` `l.ed.L` `G-l.ed.e`
  * : *aus***la**nd `.S.la` (BSA)
  * : deut***sch*****la***nd* `SCH.la` (BSA) * deut***sch***l**a**nd `SCH-a`
- * : **bund**es*republik*.deut***sch*****la***nd* `bu<r.e-ik:sch.la` × **bund**es~~republik~~.deut***sch*****la***nd* `bu:sch.la` * **bund**es~~republik~~.deut***sch***l**a**nd `bu:sch-a`
- * ~~land~~es `:es`
- * ~~län~~der `;d-er`
+ * : **bund**es*republik*.deut***sch*****la***nd* `bu:r.e-ik,SCH.la` × **bund**es~~republik~~.deut***sch*****la***nd* `bu,SCH.la` * **bund**es~~republik~~.deut***sch***l**a**nd `bu,SCH-a`
+ * ~~land~~es `(.es)`
+ * ~~län~~der `(d-er)`
  * *länd* `l` ! `l.ed` (E)
     * : *aus***lä**nd*isch* `.S.l.i`
     * : *ge**länd*e `G-l.e` ! `G-l.ed.e`
     * : *ge**länd*er `G-l-er` ! `G-l.ed-er`
 * ***lang*** `ang` BSA
- * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `:at.ang` `st.ud.ang` `w.och.ang` `s.T-ang`
- * : `eng.er` `eng.er-er` `eng-st` `eng-st-es` `eng-st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un**zu****gäng****lich* `UN-z.eng.L`
+ * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `(.at.ang)` `st.ud.ang` `w.och.ang` `s.T-ang`
+ * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un**zu****gäng****lich* `UN-z.eng.L`
  * : ***läng***er `eng-er` ~ `NGR`
 * l***ass*** `.ass`
  * : *aus*.anl***ass*** `.S.an.ass`
     * *aus*.an~~lass~~ `.S.an`
- * : *hinter*l***ass*** `I>t-er.ass`
+ * : *hinter*l***ass*** `(I)t-er.ass`
  * : *ver*anl***ass*** `E.an.ass`
     * *ver*an~~lass~~ `E.an`
- * l***äss*** `:ess` ! `l.ess`
-    * : l***äss*****ig** `:ess.i` ! `l.ess.i`
+ * l***äss*** `(.ess)` ! `l.ess`
+    * : l***äss*****ig** `(.ess.i)` ! `l.ess.i`
     * : anl***äss****lich* `.an.ess.L` × an~~läss~~*lich* `.an.L`
     * : ***f****ahr*l***äss*****ig** `fa.ess.i` ! `fa.l.ess.i`
     * : *ver****ach***l***äss*****ig** `E.ach.ess.i`
- * l***ieß*** `I>;ss` ! `l.iss`
-    * : *hinter*l***ieß*** `I>t-er.iss`
+ * l***ieß*** `((I)ss)` ! `l.iss`
+    * : *hinter*l***ieß*** `(I)t-er.iss`
 * last ← lad
 * lat l.at
  * : lateral `l.at-er.al`
-    * .~~later~~**al**. `:al`
+    * .~~later~~**al**. `(.al)`
        * **bi**~~later~~**al** `bi.al`
        * **mult**i~~later~~**al** `mut-al`
  * : relativ `r.e-l.at.iv`
@@ -1672,9 +1672,9 @@
  * ***läuf*** `.äuf`
     * : *ge****läuf*****ig** `G-äuf.i`
     * : *vor****läuf*****ig** `O.äuf.i` * *vor*l**äu**f**ig** `O,eu`
-* l***aut*** `:aut` ! `l.aut`
- * : l***aut***er `:aut-er` ! `l.aut-er`
- * l***äut*** `:äut`
+* l***aut*** `(.aut)` ! `l.aut`
+ * : l***aut***er `(.aut)-er` ! `l.aut-er`
+ * l***äut*** `(.äut)`
     * : **er**l***äut***er `er.äut-er`
     * ! läut `l.äut` (BSA)
        * : X `l.äut-er` `er.l.äut-er` `I er.l.äut-er`
@@ -1700,8 +1700,8 @@
 * lehn `l.en`
  * : ab*ge*lehnt `.ab.l.ent` !ge! `.ab.G`
 * lehr `l.er`
- * ~~leh~~rer `:r-er` ~ `r-er`
- * ~~lehr~~ling `:l.ing` ~ `l.ing`
+ * ~~leh~~rer `(r)-er` ~ `r-er`
+ * ~~lehr~~ling `(l.ing)` ~ `l.ing`
 * leih `l.eih`
  * anleih `.an.l.eih` ~ `.an.l.ei`
  * lieh `l.ih`
@@ -1733,16 +1733,16 @@
     * : *ver***leg**er `E.l-er` ! `E.l.eg-er` (E)
     * : *darauf*.**leg** `dar-AU.l` (BSA)
 * lier `l.ir`
- * : *ver*lier `E.l.ir` ~ `E>li`
+ * : *ver*lier `E.l.ir` ~ `(E)li`
  * lor `l.or`
     * : *ver*lor `E.l.or`
  * lust `l.ust`
-    * : *ver*lust `E.l.ust` ~ `E>lu`
+    * : *ver*lust `E.l.ust` ~ `(E)lu`
 * -***ling*** `.ing`
  * : **früh*****ling*** `frÜ.ing`
-* *lini* `;IN` ! `l.in` E
- * : *lini*e `;IN.e` ! `l.in` E
- * : *in*.erster.*lini*e `I>est-IN.e` × *in*.~~erster~~.*lini*e `I>IN.e`
+* *lini* `(IN)` ! `l.in` E
+ * : *lini*e `(IN).e` ! `l.in` E
+ * : *in*.erster.*lini*e `(I).est-IN.e` × *in*.~~erster~~.*lini*e `(I)IN.e`
 * *list* `l.i` ! `l.ist`
  * : *list*e `l.i`
 * **liter** `li` ! `l.it-er`
@@ -1786,13 +1786,13 @@
  * -**mal** `ma` E
     * : aber**mal**s `.ab-er.ma-s` ABS
     * : **da****mal**s `da.ma-s` × **da**~~mal~~s `da-s` ~ `da*`
-    * : *dies***mal** `.iS<ma` E
+    * : *dies***mal** `.iS:ma` E
     * : je**mal**s `j.e-ma-s`
     * : **jed**es.**mal** `j.es.ma`
     * : *manch***mal** `aCH.ma` ! `aCH.m.al`
     * : **mehr****mal**s `mer.ma-s`
     * : nie**mal**s `n.i-ma-s`
-    * : *noch***mal**s `n-ch<ma-s` E
+    * : *noch***mal**s `n-ch:ma-s` E
     * : *zu***mal** `Z-ma`
 * **man** `ma` E
  * -**mand** `ma` E
@@ -1814,11 +1814,11 @@
  * : **männ***lich* `m.L`
  * : ***kauf*****mann** `.auf.ma`
  * : ***kauf*****männ****isch** `.auf.m.i`
-* mar***kt*** `;kt` ! `m.akt` (E)
- * wel***t***mar***kt*** `;-t;kt` ~ `;-t;-t`
-* ~~masch~~in `I>;n`
- * : ~~masch~~ine `I>;n.e` ! `m.asch.in.e` » `m.asch` E
- * : ~~masch~~inell `I>;n.ell` ! `m.asch.in.ell` » `m.asch.ell` E
+* mar***kt*** `(kt)` ! `m.akt` (E)
+ * wel***t***mar***kt*** `('t),(kt)` ~ `('t),('t)`
+* ~~masch~~in `((I)n)`
+ * : ~~masch~~ine `((I)n).e` ! `m.asch.in.e` » `m.asch` E
+ * : ~~masch~~inell `((I)n).ell` ! `m.asch.in.ell` » `m.asch.ell` E
 * ***mass*** `ass` E
  * : ***mass***e `ass.e`
  * : ***mass***en**haft** `ass.en.ha` E
@@ -1842,25 +1842,25 @@
     * *mehrer* `MR`
  * : *ver***mehr***ung* `E.mer-UNG` ~ `E.m-UNG` E
  * : *desto*.**mehr** `d.est-mer` ~ `d.est-m` BSA @bessere eingliederung möglich
- * : ~~imm~~er.**mehr** `:er>mer` ~ `:er>m` E
- * : *nicht*.**mehr** `-t-mer` ~ `-t.m` E
- * : **nun****mehr** `nu<mer` ! `nu<m` E
+ * : ~~imm~~er.**mehr** `(.er)mer` ~ `(.er)m` E
+ * : *nicht*.**mehr** `'t-mer` ~ `'t.m` E
+ * : **nun****mehr** `nu:mer` ! `nu:m` E
 * meid `m.eid`
-* m***ein*** `;N`
- * : m***ein****ung* `;N.UNG`
- * : *ich*.**b**in.~~der~~.m***ein*** `I>bi.N`
+* m***ein*** `(N)`
+ * : m***ein****ung* `(N).UNG`
+ * : *ich*.**b**in.~~der~~.m***ein*** `(I)bi.N`
  * : ***nach***.*uns*erer.m***ein****ung* `ach.U.N`
  * : *wir*.*sind*.~~der~~.m***ein*** `wr-I.N`
- * : *ge*m***ein*** `G-N` BSA ~ `G-;N`
+ * : *ge*m***ein*** `G-N` BSA ~ `G-(N)`
     * : X `la.Nd.e`
     * : *ge*m***ein***de `G-Nd.e` (BSA)
     * : *ge*m***ein****sam* `G-N-sa` ! `G-N.-sa` (BSA)
     * : *ge*m***ein****schaft* `G-N-FT` (BSA)
-    * *gemein*- `;N`
-       * : *gemein***sam** `;N-sa`
-       * : *gemein*de `;Nd.e`
-       * : *gemein**schaft* `;N.FT`
-       * : arb***eit***s*gemein**schaft* `;Ts.N.FT` × `;Ts.N`
+    * *gemein*- `(N)`
+       * : *gemein***sam** `(N)-sa`
+       * : *gemein*de `(N)-d.e`
+       * : *gemein**schaft* `(N).FT`
+       * : arb***eit***s*gemein**schaft* `(T)-s.N.FT` × `(T)-s.N`
     * : *all**ge*m***ein*** `.al.G-N` = `.al.G.N`
        * × *all**ge*~~mein~~ `.all.G` BSA ~ `.a-G`
           * : *all**ge*~~mein~~*heit* `.al.G.H` (BSA)
@@ -1884,20 +1884,20 @@
  * *auf*merk**sam** `AU.m.ek-sa`
     * × *auf*~~merk~~**sam** `AU-sa` ! `AU.-sa` BSA
        * : *auf*~~merk~~**sam***keit* `AU.-sa.T` BSA
-       * : am *auf*~~merk~~**sam**st `.am AU.-sa-st` BSA
+       * : am *auf*~~merk~~**sam**st `.am AU.-sa+st` BSA
  * bemerk `b.e-m.ek` ~ `b.e-m`
 * ***mess*** `ess`
  * : ***mess***e `ess.e`
  * : ***mess***er `ess-er`
- * **höh**en~~mess~~e**r** `hö;r`
+ * **höh**en~~mess~~e**r** `hö,(r)`
  * ***miss*** `.iss` ! `m.iss`
  * ***maß*** `ass` E
     * : ***mäß*****ig** `ess.i` E
     * : ein**ig**er***maß***en `N.i-er.ass.en` E
-    * : *ver*häl***t******nis******mäß*****ig** `E-t-is.ess.i` × *ver*häl***t******nis***~~mäß~~**ig** `E-t-is.i`
+    * : *ver*häl***t******nis******mäß*****ig** `E('t)-is.ess.i` × *ver*häl***t******nis***~~mäß~~**ig** `E('t)-is.i`
 * metall `m.et.all` » `m.et` E
  * : metall**isch** `m.et.all.i` » `m.et.i` E
-* meth***od*** `:od`
+* meth***od*** `(.od)`
 * metr `m.etr`
  * : meter `m.etr`
  * : geometrie `g.e-m.etr.I` (E)
@@ -1905,17 +1905,16 @@
  * : symmetrie `s.ym-m.etr.I` × sym~~metr~~ie `s.ym.I`
 * *mich* `m.i` E
  * ***lass***en.~~sie~~.*mich* `ass.m.i`
-* *million* `;I;I` E
- * : *million*är `;I;I.är`
- * : *million*en `;I;I.en`
- * : 5.*million*en `5:I;I`
+* *million* `(I),(I)` E
+ * : *million*är `(I),(I).är`
+ * : *million*en `(I),(I).en`
 * **min** `mi`
  * : **min**orität `mi.or.ät` ~ `m.in.ät`
- * : pr**o****min***ent* `.o>mi.ent` » `.o>mi`
+ * : pr**o****min***ent* `(o)mi.ent` » `(o)mi`
  * *minist* `mi`
     * : *minist*er `mi-er` ! `mi.er` E
-    * .~~minist~~e***r*** `;r`
-       * : de**r**.~~minist~~e***r*** `;r;r`
+    * .~~minist~~e***r*** `(r)`
+       * : de**r**.~~minist~~e***r*** `(r),(r)`
     * : *minist*er*ial* `mi-er.iaL` > `mi.iaL` E
     * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
     * : *minist*erium `mi-er.I.um` > `mi.um` E
@@ -1923,8 +1922,8 @@
        * **bund**es**minist**erium `bu,mi-er.I.um` > `bu,mi.um` × `bu.um`
     * : **fin**anz*minist*er `fi.az.mi-er` » `fi.mi-er` ! `fi.mi.er` E
     * : justiz*minist*er `ju+st,mi-er` ! `ju+st,mi.er` E
- * mine***ral*** `;r.al`
- * min***ute*** `:ute` ~ `.ute`
+ * mine***ral*** `(r.al)`
+ * min***ute*** `(.ut).e` ~ `.ut.e`
 * *minder* `m.i-er`
 * *mindest* `m.i-eS`
 * mir `m.ir`
@@ -1932,12 +1931,12 @@
 * *miss*- `ms` V
 * *mit* `M` V
  * : **da***mit* `da.M` ~ *da**mit* `.a-M` * d**a***mit* `a-M`
- * : **hier***mit* `hi<M`
+ * : **hier***mit* `hi:M`
  * : *mitt* `M` V
-    * *mittel* `-t-l`
-       * : *er**mittel* `er-t-l`
-       * : nahr*ung*s*mittel* `n.ar-UNG,-t-l`
-       * : *un**mittel***bar** `UN-t-l.bar` × *un*~~mittel~~**bar** `UN-bar`
+    * *mittel* `'t-l`
+       * : *er**mittel* `er't-l`
+       * : nahr*ung*s*mittel* `n.ar-UNG,'t-l`
+       * : *un**mittel***bar** `UN't-l.bar` × *un*~~mittel~~**bar** `UN-bar`
 * *mitt* `M`
  * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
  * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
@@ -1947,7 +1946,7 @@
     * : e*miss**ion* `.e-ms-o`
     * : *kom**miss*ar `ko-ms.ar` * *kom*m**i**ssar `ko-i.ar`
     * : *kom**miss**ion* `ko-ms-o` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
-    * : *kom*pr**o***miss* `kom.o-ms` < `kom`
+    * : *kom*pr**o***miss* `kom.o-ms` : `kom`
        * ~ *kompromiss* `k.om-p.iss` BSA
     * : **trans***miss**ion* `tra.ms-o` » `tra.ms`
 * mob `m.ob`
@@ -1961,14 +1960,14 @@
  * modell `m.od.ell` ~ `m.o-ell`
  * modern `m.od-er`
 * ***mög*** `.ög` E
- * : ***mög****lich* `.ög.L` × ~~mög~~*lich* `;L` E
+ * : ***mög****lich* `.ög.L` × ~~mög~~*lich* `(L)` E
  * ***mag*** `.ag` E
  * ***mocht*** `.ocht` E
  * *macht* `aCHT`
-* mon***at*** `:at` E
- * : mon***at****lich* `:at.L` E
- * : im.vori*g*~~en~~.mon***at*** `.im ;g.at`
- * : *in*.de***n*** näch***st***.~~en~~.mon***at***.en `I>n;-st-at.en` ! `I>n ;-st :at.en`
+* mon***at*** `(.at)` E
+ * : mon***at****lich* `(.at.L)` E
+ * : im.vori*g*~~en~~.mon***at*** `.im (g).at`
+ * : *in*.de***n*** näch***st***.~~en~~.mon***at***.en `(I)n('st)-at.en` ! `(I)n ('st) (.at).en`
 * mono- `m.on` ! `m.on.o` E
 * **mo**nstr `mo`
  * : de**mo**nstrat*ion* `d.e-mo.iO` ~ `d.e-mo-o`
@@ -1998,22 +1997,22 @@
     * : *du*.***muss***t `D.uss` E
 * *muster* `.ust`
 * ***nach*** `ach` E
- * : ***nach*****bar** `ach.bar` E × ~~nach~~**bar** `;bar`
- * : *da****nach*** `.a-ach` ! **da*****nach*** `da>ach`
- * : **hier*****nach*** `hi<ach`
+ * : ***nach*****bar** `ach.bar` E × ~~nach~~**bar** `(bar)`
+ * : *da****nach*** `.a-ach` ! **da*****nach*** `(da)ach`
+ * : **hier*****nach*** `hi:ach`
  * ***näch***st `echst` E
-    * : de***m******näch***st `;m<echst`
+    * : de***m******näch***st `(m):echst`
     * : *zu****näch***st `Z-echst` ~ `Z.n` E
-    * näch***st*** `;-st`
-       * : de***m***näch***st*** `;m-st`
+    * näch***st*** `('st)`
+       * : de***m***näch***st*** `(m)('st)`
 * ***mut*** `.ut`
  * : ***müt*** `.üt`
 * ***nacht*** `acht`
 * nah `n.ah`
  * *näher* `n.äh`
-    * annähe**r** `.an;r`
-       * : annähe**r**n `.an;rn`
-       * : annähe**r**nd `.an;r.d`
+    * annähe**r** `.an,(r)`
+       * : annähe**r**n `.an,(r)n`
+       * : annähe**r**nd `.an,(r).d`
 * nahr `n.ar`
  * : nahr**haft** `n.ar.ha`
  * : nahr*ung* `n.ar-UNG` ~ `ar-UNG`
@@ -2024,13 +2023,13 @@
  * : ***nam*****haft** `.am.ha`
     * *namhaft* `n.am.ha`
  * : ***näm****lich* `.äm.L`
- * ~~nam~~en***t*** `;-t`
-* ~~nat~~*ion* `I>;O`
- * *natio****nal*** `;n.al`
-    * *inter**natio****nal*** `I>t-er.n.al` * `I>t-er-a`
-* ~~nat~~ur `;UR` E
- * ~~nat~~*ür* `;YR.L` E
-* n***aut*** `:aut` ! `n.aut`
+ * ~~nam~~en***t*** `('t)`
+* ~~nat~~*ion* `((I)O)`
+ * *natio****nal*** `(n.al)`
+    * *inter**natio****nal*** `(I)t-er.n.al` * `(I)t-er-a`
+* ~~nat~~ur `(UR)` E
+ * ~~nat~~*ür* `(YR).L` E
+* n***aut*** `(.aut)` ! `n.aut`
  * : n***aut***ik `.aut.ik` ! `n.aut.ik`
  * : aeron***aut***ik `.er.aut.ik` ! `.er.o-n.aut.ik` ~ `.er.o-n.ik`
  * : astron***aut*** `.a-str.aut`
@@ -2044,40 +2043,40 @@
  * : an*ge****nehm*** `.an.G-em`
     * × an*ge*~~nehm~~ `.an.G` BSA
        * : an*ge*~~nehm~~er `.an.G-er` = `.an.G.er` (BSA)
-       * : an*ge*~~nehm~~st `.an.G-st` (BSA)
+       * : an*ge*~~nehm~~st `.an.G+st` (BSA)
        * : *un*an*ge*~~nehm~~ `UN.an.G` (BSA)
        * : *un*an*ge*~~nehm~~er `UN.an.G-er` = `UN.an.G.er` (BSA)
  * : *unter****nehm****ung* `UNTER.em-UNG` × *unter*~~nehm~~*ung* `UNTER-UNG`
- * ~~nehm~~e `:e`
- * ~~nehm~~~~e~~n `;n`
-    * : ab~~nehm~~~~e~~n `.ab;n`
-    * : *auf*~~nehm~~~~e~~n `AU;n`
-    * : t**eil**~~nehm~~~~e~~n `:eil;n`
-    * : *über*~~nehm~~~~e~~n `Ü;n` ! `Ü.em.en` × `Ü.en`
-    * : *unter*~~nehm~~~~e~~n `UNTER;n` ! `UNTER.em.en` × `UNTER.en`
-    * : *vor***weg**~~nehm~~~~e~~n `O.w;n`
- * ~~nehm~~end `:ed`
-    * : ab~~nehm~~end `.ab:ed`
- * ~~nehm~~~~e~~r `;r`
-    * : arb***eit***~~nehm~~~~e~~r `;T;r`
-    * : t***eil***~~nehm~~~~e~~r `:eil;r`
-    * : *unter*~~nehm~~~~e~~r `UNTER;r` ! `UNTER.em-er` × `UNTER-er`
- * ~~nehm~~st `;-st`
-    * : *vor*~~nehm~~st `O;-st`
+ * ~~nehm~~e `(.e)`
+ * ~~nehm~~~~e~~n `(n)`
+    * : ab~~nehm~~~~e~~n `.ab,(n)`
+    * : *auf*~~nehm~~~~e~~n `AU,(n)`
+    * : t**eil**~~nehm~~~~e~~n `(.eil),(n)`
+    * : *über*~~nehm~~~~e~~n `Ü,(n)` ! `Ü.em.en` × `Ü.en`
+    * : *unter*~~nehm~~~~e~~n `UNTER,(n)` ! `UNTER.em.en` × `UNTER.en`
+    * : *vor***weg**~~nehm~~~~e~~n `O.w,(n)`
+ * ~~nehm~~end `(.ed)`
+    * : ab~~nehm~~end `.ab,(.ed)`
+ * ~~nehm~~~~e~~r `(r)`
+    * : arb***eit***~~nehm~~~~e~~r `(T),(r)`
+    * : t***eil***~~nehm~~~~e~~r `(.eil),(r)`
+    * : *unter*~~nehm~~~~e~~r `UNTER,(r)` ! `UNTER.em-er` × `UNTER-er`
+ * ~~nehm~~st `('st)`
+    * : *vor*~~nehm~~st `O('st)`
  * ~~nehm~~*ung* `UNG`
     * : **wa**hr~~nehm~~*ung* `wa,UNG`
  * ***nimm*** `.im`
-    * -~~nimm~~t- `;t`
-       * : ab~~nimm~~t `.ab;t`
-       * : ein~~nimm~~t `N;t`
-       * : *über*~~nimm~~t `Ü;t`
-       * : *vor*~~nimm~~t `O;t`
-       * : *zu*~~nimm~~t `Z;t`
+    * -~~nimm~~t- `('t)`
+       * : ab~~nimm~~t `.ab,('t)`
+       * : ein~~nimm~~t `N,('t)`
+       * : *über*~~nimm~~t `Ü,('t)`
+       * : *vor*~~nimm~~t `O,('t)`
+       * : *zu*~~nimm~~t `Z,('t)`
  * ***nahm*** `.am` ! `n.am`
-    * ~~nahm~~e `:e`
-       * : an~~nahm~~e `.an:e`
-    * ~~nahm~~~~e~~n `;n`
-       * : an~~nahm~~~~e~~n `.an;n`
+    * ~~nahm~~e `(.e)`
+       * : an~~nahm~~e `.an,(.e)`
+    * ~~nahm~~~~e~~n `(n)`
+       * : an~~nahm~~~~e~~n `.an,(n)`
  * ***nomm*** `.om`
     * : an*ge****nomm***en `.an.om`
     * : *auf**ge****nomm***en `AU.om`
@@ -2091,13 +2090,13 @@
 * **neu** `neu`
 * neutral `n.eutr.al` » `n.eutr`
  * : neutralisier `n.eutr.al.ir` » `n.eutr.ir` E
-* *nicht* `-t` V
- * : **gar**.*nicht* `ga-t`
+* *nicht* `'t` V
+ * : **gar**.*nicht* `ga't`
 * -***nis*** `.is` E
 * *nieder*, *niedr* `ndr` V
 * *noch* `n-ch` V
-* n***om*** `:om` ! `n.om`
- * : n***om****inal* `:om.iaL` ! `n.om.iaL`
+* n***om*** `(.om)` ! `n.om`
+ * : n***om****inal* `(.om).iaL` ! `n.om.iaL`
  * : astron***om***ie `.a-str.om.I`
  * : auto***nom*** `.aut.om` BSA
  * : gastro***nom*** `g.a-str.om`
@@ -2118,8 +2117,8 @@
        * : be~~g~~***nüg*** `b.e-üg`
 * **num** `nu`
 * **nun** `nu` E
-* n***ur*** `;UR` V
- * : aber n***ur*** `.ab-er ;UR` (BSA)
+* n***ur*** `(UR)` V
+ * : aber n***ur*** `.ab-er (UR)` (BSA)
     * . aber.n***ur*** `.ab-er-UR` ! `.ab-er.UR` (BSA)
 * **nutz** `nu`
  * : **nütz** `nÜ`
@@ -2163,7 +2162,7 @@
 * *österreich* `.ö` E
 * **pack** ! `p.ak`
  * **päck**chen `p.ch.en`
- * *ver***pack**t `E>pa-t` ~ `E>pa`
+ * *ver***pack**t `(E)pa-t` ~ `(E)pa`
 * *pakt* `pat`
  * -**pakt** `pa`
 * pand `p.ad`
@@ -2181,8 +2180,8 @@
  * : ap**pa**rat `.a-pa.at` BSA
     * : ap**pa**rate `.a-pa.at.e` (BSA)
     * : ap**pa**ratur `.a-pa-UR` ! `.a-pa.UR` (BSA)
- * : re**pa**ratur `r.e>pa-UR` ! `r.e>pa-UR` E
- * : re**pa**rier `r.e>pa.ir` E
+ * : re**pa**ratur `(r.e)pa-UR` ! `(r.e)pa-UR` E
+ * : re**pa**rier `(r.e)pa.ir` E
  * : **trans****pa**r*ent* `tra.pa.ent` ~ `tra.pa.eNT`
 * **pa**ra- `pa`
  * : **pa**rallel `pa.ll.el` ~ `p.ar.el` E
@@ -2239,41 +2238,41 @@
  * **pl**iz `pl`
     * : *kom***pl**izier `kom-pl.ir`
  * **pl**ex `pl`
-    * : *kom***pl**ex `kom-pl` ~ `ko>ex`
+    * : *kom***pl**ex `kom-pl` ~ `(ko)ex`
 * plod `p.lod`
  * : *ex*plodier `.e-pl.od.ir`
  * **pl**os `pl`
-    * : *ex***pl**os*ion* `.e-pl-iO` ~ `.e-pl.O`
+    * : *ex***pl**os*ion* `.e-plo`
     * : *ex***pl**osiv `.e-pl.iv`* po `p.o`
  * : poesie `p.o-es.I`
 * pol `p.ol`
  * : monopol `m.on.p.ol` ~ `m.o-p.ol` E
-* poli***t*** `;t`
- * : poli***t***ik `;t-ik` ! `p.ol.ik` (E)
-    * : **außen**poli***t***ik `.auss;t.ik` S
+* poli***t*** `(t)`
+ * : poli***t***ik `(t).ik` ! `p.ol.ik` (E)
+    * : **außen**poli***t***ik `.auss,(t).ik` S
  * : poli***t****isch*
-    * : **außen**poli***t****isch* `.auss;t.i` S
- * -poli***tik*** `-t-ik`
-    * : **fin**anzpoli***tik*** `fi.az-t-ik` » `fi-t-ik`
+    * : **außen**poli***t****isch* `.auss,(t).i` S
+ * -poli***tik*** `tik`
+    * : **fin**anzpoli***tik*** `fi.az.tik` » `fi.tik`
  * -poli***tisch*** `.it.i` ! `p.ol.i` E
     * : **außen**poli***tisch*** `.auss.it.i`
 * poliz `p.ol.iz` » `p.ol` E
  * polizei `p.ol.iz.ei` » `p.ol.ei` E
  * polizist `p.ol.iz.ei` » `p.ol.ei` E
 * ***pon*** `.on`
- * : de***pon***ier `d.e-on.ir` ! `d.e>p.on.ir`
+ * : de***pon***ier `d.e-on.ir` ! `(d.e)p.on.ir`
  * : *dis****pon***ier `ds.on.ir`
  * : **trans*****pon***ier `tra.on.ir`
  * **pos** `pos`
     * : **pos**it*ion* `pos.O` ! `p.os.iO` » `p.os`
     * : **pos**itiv `pos.iv` ! `p.os.iv` (E) ~ `po.iv`
-    * : *dis***pos**it*ion* `ds>pos.O` ~ `ds.os.iO` ! `ds.os`
+    * : *dis***pos**it*ion* `(ds)pos.O` ~ `ds.os.iO` ! `ds.os`
 * port `pot`
  * : portal `pot-al`
  * : import `.im-pot` (BSA)
  * : importier `.im-pot-ir` ! `.im-p.ot.ir` BSA
  * : importeur `.im-pot-ör` ! `.im-p.ot.ör` BSA
- * : pr**o**port*ion* `o>pot-iO`
+ * : pr**o**port*ion* `(o)pot-iO`
  * : **trans**port `tra.pot`
 * *porto* `p.ot` E
 * *post* `po`
@@ -2281,7 +2280,7 @@
  * : *post*ulat `po.ul.at` ! `p.o+st.ul.at` > `p.o+st.at`
  * : *post*ulier `po.ul.ir`
  * *pot* `p.o`
-    * : de*pot* `d.e>p.o`
+    * : de*pot* `(d.e)p.o`
 * präm `pr.äm`
  * prämie `pr.äm.I.e` » `pr.äm.e` E
  * prämien `pr.äm.I.en` (E)
@@ -2293,39 +2292,39 @@
     * : **prakt**iker `pra.ik-er`
  * pragm `pr.agm`
     * : pragmat**isch** `pr.agm.i`
-* pr**eis** `:eis`
+* pr**eis** `(.eis)`
 * press `pr`
 * **prinz** `pri`
-* *prinzip* `I>p` ! `pr.iz.ip` (E)
- * : *prinzip**iell* `I>p.ieL` ! `pr.iz.ip.ieL` (E)
+* *prinzip* `(I)p` ! `pr.iz.ip` (E)
+ * : *prinzip**iell* `(I)p.ieL` ! `pr.iz.ip.ieL` (E)
 * *privat* `pri`
  * *privat*isier `pri.ir`
 * *privileg* `pri.eg`
 * pr**o**- `o`
 * ***prob*** `.ob`
-* ~~pro~~b***lem*** `;l.em` ! `o>bl.em` (E)
- * ~~pro~~b***lem***atik `;l.em.ik`
-* pr**o**fessor `o>f.ess.or` (E)
- * : prof `o>f` E
-* pr**o**fit `o>f.it`
+* ~~pro~~b***lem*** `(l.em)` ! `(o)bl.em` (E)
+ * ~~pro~~b***lem***atik `(l.em).ik`
+* pr**o**fessor `(o)f.ess.or` (E)
+ * : prof `(o)f` E
+* pr**o**fit `(o)f.it`
 * *protokoll* `pr.ot.ok` E
 * **prüf** `prÜ`
- * : her***bst*****prüf***ung* `;bst,prÜ.UNG` * her***bst***pr**ü**f*ung* `;bst-Ü.UNG`
- * : *über***prüf** `Ü>prÜ` * *über*pr**ü**f `Ü-Ü`
+ * : her***bst*****prüf***ung* `(bst),prÜ.UNG` * her***bst***pr**ü**f*ung* `(bst)-Ü.UNG`
+ * : *über***prüf** `(Ü)prÜ` * *über*pr**ü**f `Ü-Ü`
 * *publik*
  * *publikum* `p.ub` E
  * *publikation* `p.ub.iO` E
  * *republik* `r.e-ik` E
     * *republikaner* `r.e-ik-er` E
     * *republikanisch* `r.e-ik.i` E
-    * : **bund**es*republik* `bu<r.e-ik` < `bu.ik`
+    * : **bund**es*republik* `bu:r.e-ik` < `bu.ik`
 * *punkt* pt. `pt` E
  * -p**u**nkt `u`
     * : *ge*s***icht***sp**u**nkt `G-icht,u` × *ge*~~sicht~~sp**u**nkt `G,u`
     * : *stand*p**u**nkt `and,u` ~ st**a**nd*punkt* `a-pt`
  * *pünkt* pt. `pt` E
 * put `p.ut` (BSA)
- * : *dis*put `ds>p.ut` (BSA) ! `d.i-sp.ut` (BSA)
+ * : *dis*put `(ds)p.ut` (BSA) ! `d.i-sp.ut` (BSA)
  * **p**ut `p`
     * : am**p**utat*ion* `.am-p-o`
  * **kont** `ko` BSA @etymologie, computer
@@ -2339,7 +2338,7 @@
 * ***rad*** `.ad` ! `r.ad`
  * : ***f****ahr****rad*** `fa.ad`
  * *gerad* `G-a` = `-G-a`
-    * : *gerad*e `G-a.e` = `-G-a.e`
+    * : *gerad*e `G-a.e`
 * rag `r.ag`
 * rahm `r.am`
  * .***rahm***. `.am`
@@ -2370,13 +2369,13 @@
  * : anreg*ung* `.an.r.eg.UNG`
 * **reg** `r`
  * : **reg**ier `r.ir` E
-    * ~~reg~~ier `I>;r`
+    * ~~reg~~ier `((I)r)`
  * : **reg**ier*ung* `r.ir-UNG` E ~ `ir-UNG`
     * : **bund**es**reg**ier*ung* `bu.r.ir-UNG` * b**u**ndes**reg**ier*ung* `u-r.ir-UNG` ~ `u-r-UNG`
  * : **reg**ulier `r.ul.ir`
- * : **reg**el `r.l` ~ `:el`
-    * : ***spiel*****reg**el `.il.r.l` ~ `.il:el`
-    * : *in*.~~der~~.**reg**el `I>r.el` × *in*.~~der~~.~~reg~~el `I>el`
+ * : **reg**el `r.l` ~ `(.el)`
+    * : ***spiel*****reg**el `.il.r.l` ~ `.il,(.el)`
+    * : *in*.~~der~~.**reg**el `(I)r.el` × *in*.~~der~~.~~reg~~el `(I)el`
  * : **reg***ion* `r.iO` ! `r.eg.iO`
  * **rekt** `r` ! `r.ekt`
     * : **rekt**or `r.or`
@@ -2386,7 +2385,7 @@
        * : *direkt* `di` ! `di.ekt` BSA ~ `di-t`
           * : *direkt*ion `di-o` ! `di.iO` BSA ~ `di-t-iO`
           * : *direkt*or `di.or` (BSA)
-          * : *in**direkt* `I>di` ! `IN<di.ekt` BSA
+          * : *in**direkt* `(I)di` ! `IN:di.ekt` BSA
           * : *in*.*direkt* `IN,di` ! `IN,di.ekt`
     * : **kon****rekt**or `ko.r.or` ! `ko.r.ekt-or`
     * : kor**rekt** `kor-r`
@@ -2396,10 +2395,10 @@
     * : kor**r**igier `k.or-r.ir` ! `k.or-r.ig.ir` BSA ≠ *korrespond*ier `k.orr.ir`
 * **reich** `r.ei` E
  * : be**reich** `b.e-r.ei` ~ `b.e-eich`
- * : *er***reich** `er>r.ei`
+ * : *er***reich** `(er)r.ei`
  * : *er***folg****reich** `er.fo.r.ei` × *er*~~folg~~**reich** `er-r.ei` ~ `er,r.ei`
  * : *über***reich** `Ü.r.ei` ~ `Ü.eich`
- * : umf***ang*****reich** `.um<ang.r.ei` × um~~fang~~**reich** `.um.r.ei` ~ `.um<eich`
+ * : umf***ang*****reich** `.um:ang.r.ei` × um~~fang~~**reich** `.um.r.ei` ~ `.um:eich`
 * reif `r.eif`
  * -***reif*** `.eif`
     * : **hoch*****schul******reif***e `ho.ul.eif.e`
@@ -2423,15 +2422,15 @@
  * : **rent**abel `ret-ab.l` ~ `r.et.ab.l` (E)
  * : **rent**e `ret.e` (E)
  * : **rent**ner `ret-er` (E)
-* *rheinländisch-westfälisch* `;sch.sch`
+* *rheinländisch-westfälisch* `SCH.SCH`
 * **richt** `ri`
  * : **richt**en `ri` ! `r.icht` E
  * : **richt****ig** `ri.i` E
  * : amts*ge****richt*** `.amt,G,ri` * amts*ge*r**i**cht `.amt,G,i` < `.amt,i`
  * : *ge***richt** `G,ri` * *ge*r**i**cht `G,i`
- * : *ge***richt***lich* `G,ri.L` * *ge*r**i**cht*lich* `G,i-L` ~ `G-I>;L`
- * : *in*.*dies*.er.**richt**ung `I>iS-er,ri` ! `IN.iS.er,ri` E
-* ***ring*** `I>;ng` ! `r.ing`
+ * : *ge***richt***lich* `G,ri.L` * *ge*r**i**cht*lich* `G,i-L` ~ `G-((I)L)`@
+ * : *in*.*dies*.er.**richt**ung `(I)iS-er,ri` ! `IN.iS.er,ri` E
+* ***ring*** `((I)ng)` ! `r.ing`
  * : *ge****ring*** `G-ing`
  * : *ver****ring*** `E.ing`
 * *risiko* `ri.ko`
@@ -2441,11 +2440,11 @@
 * **rück** `rÜ` V ! `r.ük`
  * *zu***rück** `Z-rÜ`
     * *zurück* `u-rÜ`
-* r***uf*** `:uf` ! `r.uf`
+* r***uf*** `(.uf)` ! `r.uf`
  * : *aus*r***uf*** `.S.uf`
  * : *auf*r***uf*** `AU.uf` * *auf*r**u**f `AU-u`
  * : ber***uf*** `b.e-uf`
- * r***ief*** `I>;f` ! `r.if`
+ * r***ief*** `((I)f)` ! `r.if`
     * : *aus*r***ief*** `.S.if`
 * rump `r.ump`
  * *rupt* `r.up`
@@ -2456,13 +2455,13 @@
 * **rund** `ru`
 * *russ* `russ`
 * **sach** `sa`
- * -~~sach~~e `:e`
-    * : neben~~sach~~e `n.eb:e`
-    * : *ur*~~sach~~e `UR:e`
- * -~~sach~~e***n*** `:n`
- * -~~sach~~e***n*** `:n`
-    * : **tat**~~sach~~e***n*** `ta;n`
-    * : *ver**ur*~~sach~~e***n*** `E.UR;n`
+ * -~~sach~~e `(.e)`
+    * : neben~~sach~~e `n.eb,(.e)`
+    * : *ur*~~sach~~e `UR,(.e)`
+ * -~~sach~~e***n*** `(n)`
+ * -~~sach~~e***n*** `(n)`
+    * : **tat**~~sach~~e***n*** `ta,(n)`
+    * : *ver**ur*~~sach~~e***n*** `E.UR,(n)`
 * **sachs** `sa`
  * : **sachs**en `sa.en`
     * : *nieder***sachs**en `ndr.sa.en` * `ndr-a.en` » `ndr-a`
@@ -2481,7 +2480,7 @@
  * : *ver*ein**sam**t `E.N-sa-t` (BSA)
  * -*samt* `sa`
     * : X `G-sa` `G-sa.e` `G-sa.H` G-sa.w.ol` `IN.G-sa`
-    * : *in*s*ge**samt* `I>G-sa` ! `IN.G-sa` E
+    * : *in*s*ge**samt* `(I)G-sa` ! `IN.G-sa` E
 * **samm** `sa`
  * : *zu***samm**en `Z-sa` V @ `u-sa`?
  * : **samm**el `sa.l`
@@ -2494,18 +2493,18 @@
  * : **d**ie **schaff***ung* `I scha*` = `I scha`
 * schaft `sch.aft`
  * : beschäftig `b.e-sch.eft-ig`
-    * ~ *beschäftig* `b.e-t-ig` BSA
-       * *beschäftig*te `b.e-t-igt.e` (BSA)
-       * *beschäftig*ten `b.e-t-igt-en` (BSA)
-       * *beschäftig*ungslos `b.e-t-ig.l.os` (BSA)
-       * *die* neben*beschäftig*ung `I n.eb.b.e-t-ig` (BSA)
+    * ~ *beschäftig* `b.e't-ig` BSA
+       * *beschäftig*te `b.e't-igt.e` (BSA)
+       * *beschäftig*ten `b.e't-igt-en` (BSA)
+       * *beschäftig*ungslos `b.e't-ig.l.os` (BSA)
+       * *die* neben*beschäftig*ung `I n.eb.b.e't-ig` (BSA)
  * : *ge**schäft* `G-sch.eft`
     * -*geschäft* `GT` BSA
        * : X `GT.e` = `GT.e` `GT.L` `GT-ch.en` `t.il.FT`
  * -*schaft* `FT` V
-    * **wirt***schaft* `wit-FT` ~ `;wr.FT` ≠ **wiss**en*schaft*
+    * **wirt***schaft* `wit-FT` ~ `(wr).FT` ≠ **wiss**en*schaft*
        * wirt**schaft** `FT` E
-          * **la***nd*wirt**schaft** `la.FT` ~ `a-;wr.FT`
+          * **la***nd*wirt**schaft** `la.FT` ~ `a-(wr).FT`
     * ***wiss****schaft* `.iss.FT` ~ `wi.FT`
 * **scha**tz `scha` ! `sch.az`
  * **schä**tz `sch` ! `sch.ez`
@@ -2531,13 +2530,13 @@
     * : *ver*ab***schied*** `E.ab.id`
        * : *ver*ab~~schied~~ `E.ab`
     * : *ver****schied*** `E.id`
-* sch***ein*** `;N`
- * : sch***ein*****bar** `;N.bar` ! schein**bar** `sch.N.bar` (BSA)
+* sch***ein*** `(N)`
+ * : sch***ein*****bar** `(N).bar` ! schein**bar** `sch.N.bar` (BSA)
  * : ansch***ein***end `.an.N.ed`
  * : besch***ein***ig `b.e-N.i`
- * : *er*sch***ein*** `er.N` ~ `er.;N`
+ * : *er*sch***ein*** `er.N` ~ `er.(N)`
  * : **wa**hrsch***ein****lich* `wa.N.L`
- * sch***ien*** `I>;n`
+ * sch***ien*** `((I)n)`
     * : *er*sch***ien*** `er.in`
 * schicht ← scheh
 * ***schick*** `.ik`
@@ -2548,9 +2547,9 @@
  * ***schläg*** `.äg`
  * ***schlug*** `.ug`
  * **schlacht** `schla`
-* schn***eid*** `:eid` ! `schn.eid`
- * : schn***eid***er `:eid-er` | `.eid-er`
- * schn***itt*** `I>;t` ! `schn.itt`
+* schn***eid*** `(.eid)` ! `schn.eid`
+ * : schn***eid***er `(.eid)-er` | `.eid-er`
+ * schn***itt*** `((I)t)` ! `schn.itt`
     * : abschn***itt*** `.ab.it`
 * **schnell** `schn`
 * **schlecht** `schl`
@@ -2588,7 +2587,7 @@
  * : ***schül***er `.ül-er`
  * : **hoch*****schul***e `ho.ul.e` * **hoch**sch**u**le `ho-u.e` » `ho-u`
 * **schutz** `schu` = `.uz`
- * : umwel**t****schutz** `.um-t,.uz` * umwel**t**sch**u**tz `.um-t,u`
+ * : umwel**t****schutz** `.um('t);uz` * umwel**t**sch**u**tz `.um('t),u`
  * **schütz** `schÜ`
 * schwed `schw.ed`
  * : schwede `schw.ed.e` ! `schw.e`
@@ -2601,7 +2600,7 @@
 * seh `s.eh`
  * sieh `s.ih`
  * sah `s.ah`
- * s***icht*** `I>;cht` ! `s.icht`
+ * s***icht*** `((I)cht)` ! `s.icht`
     * : abs***icht*** `.ab.icht` * abs**i**cht `.ab-i`
     * : **an**s***icht*** `.an.icht`
     * : *auf*s***icht*** `AU.icht` * *auf*s**i**cht `AU-i`
@@ -2612,23 +2611,23 @@
     * : *zu**ver*s***icht*** `Z-E.icht` * *zu**ver*s**i**cht `Z-E-i`
     * *ge*~~sicht~~ `G`
     * *hin*~~sicht~~ `hn`
-       * : *in*.**jed**er.*hin*~~sicht~~ `I>j-er.hn` » `I>j.hn`
+       * : *in*.**jed**er.*hin*~~sicht~~ `(I)j-er.hn` » `(I)j.hn`
     * **rück**~~sicht~~ `rÜ`
 * **sehr** `s` E
 * seid `s.eid`
  * : seide `s.eid.e`
-* s***ein*** `;N` E
+* s***ein*** `(N)` E
  * **bin** `bi`
  * **bist** `bi`
  * **i**st `i` V
     * .*ist*. `i°`
- * *sind* `;IN` V `;I`
+ * *sind* `(IN)` V `(I)`
     * .*sind*. `-I`
        * : *wir*.*sind* `wr-I`
- * s***ei*** `:ei` V
-    * : s***ei***d `:eid`
- * w***ar*** `:ar` E
-  * : w***är*** `:är` E
+ * s***ei*** `(.ei)` V
+    * : s***ei***d `(.eid)`
+ * w***ar*** `(.ar)` E
+  * : w***är*** `(.är)` E
  * ***wes*** `.es`
     * : ***wes***en `.es` ! `w.es`
     * : ***wes***ent*lich* `.es.L`
@@ -2645,9 +2644,9 @@
  * : *selb*er `l.er` ! `s.eb-er` (E)
  * : *selb***ig** `l.i` ! `s.eb.i`
  * : *selb*st `l.st`
-    * *selbst* `-st` V
+    * *selbst* `'st` V
  * : *die**selb*en `I.l.en` E
- * : de***r****selb*e `;r.l.e` E
+ * : de***r****selb*e `(r).l.e` E
 * selt `set`
  * : selten `set-en` (E)
 * *senat* `s.at`
@@ -2661,8 +2660,8 @@
  * sequ `s.equ`
     * : sequenz `s.equ.ez` » `s.equ`
 * **ser** `s` BSA
- * : *in*serat `I>s.at` ! `IN.s.at` (BSA)
- * : *in*serier `I>s.ir` ! `IN.s.ir` (BSA)
+ * : *in*serat `(I)s.at` ! `IN.s.at` (BSA)
+ * : *in*serier `(I)s.ir` ! `IN.s.ir` (BSA)
  * : X `IN.s.at.iO`
 * **serv** `s`
  * : **kon****serv**e `ko-s`
@@ -2694,7 +2693,7 @@
  * : silber `s.ib-er`
 * sind ← sein
 * sist `s.i+st`
- * : *in*sistier `I>s.i+st.ir`
+ * : *in*sistier `(I)s.i+st.ir`
  * : **kon**sistenz `ko-s.i+st.ez`
  * : **tran**sistor `tra.i+st.or`
  * *exist* `.ex` BSA
@@ -2715,7 +2714,7 @@
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
     * : *er***satz** `er-sa`
     * : **grund****sätz***lich* `gru.s.L`
-* semi***nar*** `;n.ar`
+* semi***nar*** `(n.ar)`
 * setz ← sitz
 * **skal** `ska` ! `sk.al`
  * : **skal**a `ska.a` ! `sk.al.a`
@@ -2725,12 +2724,12 @@
 * *so* `.o` V
  * *eben**so* `.eb.o` (BSA)
  * s**o**- `o`
- * s***onst*** `:ost` E
+ * s***onst*** `(.ost)` E
 * sol `s.ol`
  * : solid `s.ol.id`
  * : **kon**solidier `ko-s.ol.ir`
-* *solch* `s>ch` V
-* *soll* `;S`
+* *solch* `(s)ch` V
+* *soll* `(S)`
 * solv `s.ow`
  * : solvier `s.ow.ir`
  * : absolv*ent* `.ab-s.ow.ent` ~ `.ab-s.ow.eNT`
@@ -2756,7 +2755,7 @@
 * *sorg* `s.o` ! `s.og`
  * : be*sorg* `b.e-s.o` = `b-es.o`
  * : **f**ür*sorg* `f-s.o` * **f**ür*s****o****rg* `f,o`
- * : ***jug***end**f**ür*sorg* `.ug.ed<f-s.o` * ***jug***end**f**ür*s****o****rg* `.ug.ed.f,o` » `.ug.f,o` * `.ug-Ü.o`
+ * : ***jug***end**f**ür*sorg* `.ug.ed:f-s.o` * ***jug***end**f**ür*s****o****rg* `.ug.ed.f,o` » `.ug.f,o` * `.ug-Ü.o`
  * : *ver**sorg* `E-s.o`
  * : *ver**sorg*er `E-s.o-er` * *ver**s****o****rg*er `E,o-er`
  * : *vor**sorg*e `O-s.o`
@@ -2787,12 +2786,12 @@
  * : **kon**spirat*ion* `ko.sp.ir.iO`
 * ***spitz*** `.iz`
 * **sp**iz `sp`
- * : *in***sp**izier `I>sp.ir`
+ * : *in***sp**izier `(I)sp.ir`
  * **spekt** `sp`
-    * : *in***spekt***ion* `I>sp*` S ! `I>sp.iO` ! `IN.sp.iO`
-    * : pr**o****spekt** `o>sp` E
+    * : *in***spekt***ion* `(I)sp*` S ! `(I)sp.iO` ! `IN.sp.iO`
+    * : pr**o****spekt** `(o)sp` E
     * : re**spekt** `r.e-sp`
-* sp***ort*** `:ot` ! `sp.ot` (E)
+* sp***ort*** `(.ot)` ! `sp.ot` (E)
 * **sprech** `spr` E
  * : *ent***sprech**end `eNT.spr.ed` × *ent*~~sprech~~end `eNT.ed`
  * **sprich** `.ich` E
@@ -2805,34 +2804,34 @@
     * : ein**spruch** `N.uch` * ein*spr****u****ch* `N,u`
     * : *wider***spruch** `W.uch` * *wider*spr**u**ch `W-u`
  * **sprüch** `.üch` E
-* spr***ing*** `:ing` ! `spr.ing`
- * spr***ang*** `:ang` ! `spr.ang`
- * spr***eng*** `:eng` ! `spr.eng`
- * spr***ung*** `:ung` ! `spr.ung`
+* spr***ing*** `(.ing)` ! `spr.ing`
+ * spr***ang*** `(.ang)` ! `spr.ang`
+ * spr***eng*** `(.eng)` ! `spr.eng`
+ * spr***ung*** `(.ung)` ! `spr.ung`
     * : urspr***ung*** `UR.ung`
 * spür `sp.ür`
 * st `st`
  * : **kon**stant `ko.st.ant` ~ `ko.st.aNT`
  * : **kon**stanz `ko.st.az`
- * : *in*stanz `I>st.az` ! `IN.st.az` (BSA)
+ * : *in*stanz `(I)st.az` ! `IN.st.az` (BSA)
     * : X `.est.e IN.st.az`
  * ***stat*** `.at`
     * : ***staat*** `.at` E
     * : ***stat***ik `.at.ik` ! `st.at.ik`
     * : ***stat****ion* `.at.iO`
     * : ***stat***ist `.at.ist`
-       * ~~stat~~ist `I>;-st`
-          * : ~~stat~~istik `I>;-st-ik`
-          * : ~~stat~~istisch `I>;-st-isch` ~ `sta.iS.i`
+       * ~~stat~~ist `((I)'st)`
+          * : ~~stat~~istik `((I)'st)-ik`
+          * : ~~stat~~istisch `((I)'st)-isch` ~ `sta.iS.i`
     * : ***stat***ue `.at.e` ! `.at.u.e` ~ `sta.u.e`
     * : ***stat***uier `.at.ir` ! `.at.u.ir` ~ `sta.u.ir`
     * : ***stat***us `.at.us` ~ `sta.us`
     * : ***stat***ut `.at.ut` ~ `sta.ut`
     * : **kon*****stat***ier `ko.at.ir` ~ `ko.sta.ir`
  * **st**it `st` BSA
-    * : *in***st**itut `I>st.ut` ! `IN.st.ut` (BSA)
+    * : *in***st**itut `(I)st.ut` ! `IN.st.ut` (BSA)
        * : X `IN.st.ut.iO`
-    * : *in***st**itut*ion* `I>st*` S
+    * : *in***st**itut*ion* `(I)st*` S
     * : **kon****st**ituier `ko.st.ir`
     * : **kon****st**itut*ion* `ko.st*` S ! `ko.st.iO` ! `ko.st.it.iO` E
 * ***stab*** `.ab`
@@ -2843,13 +2842,13 @@
  * : an**stalt** `.an.stat`
  * : *ge***stalt** `G.stat`
  * : *ver*an**stalt** `E.an.stat`
- * *stalt* `-t`
-    * : an*stalt* `.an-t`
-    * : *ge**stalt* `G-t` = `-G-t` ~ `-G-a-t` ≠ *ge*hal***t***
-    * : *ver*an*stalt* `E.an-t`
+ * *stalt* `'t`
+    * : an*stalt* `.an't`
+    * : *ge**stalt* `G't` ~ `G-a't` ≠ *ge*hal***t***
+    * : *ver*an*stalt* `E.an't`
 * stamm `st.am`
 * stand ← steh
-* ~~stand~~ard `:ard` ~ `;ard` ! `st.ad.ad` (E)
+* ~~stand~~ard `(.ard)` ~ `(ard)` ! `st.ad.ad` (E)
 * stark `st.ak` (E)
  * : stärke `st.äk.e` (E)
 * **start** `stat`
@@ -2865,8 +2864,8 @@
     * : ein*ver**stand*en `N.E.and`
        * : ein*ver*~~stand~~en `N.E`
  * *ständ* `.end` E
-    * *selbst**ständ***ig** `-st-end.i` × *selbst*~~ständ~~**ig** `-st-ig` E
-    * *selbst**ver**ständ**lich* `-st-E.end.L` × *selbst*~~ver~~~~ständ~~*lich* `-st-L` E
+    * *selbst**ständ***ig** `'st-end.i` × *selbst*~~ständ~~**ig** `'st-ig` E
+    * *selbst**ver**ständ**lich* `'st-E.end.L` × *selbst*~~ver~~~~ständ~~*lich* `'st-L` E
  * stund `st.ud` (E)
     * : stunde `st.ud.e` * st**u**nde `u.e`
     * : stundung `st.ud-UNG` * `u-UNG`
@@ -2876,7 +2875,7 @@
     * : **städt**e `st.e`
     * : **städt****isch** `st.i` E
  * **stall** `sta`
-    * : *in***stall**at*ion* `I>sta*` S ! `IN.sta.iO`
+    * : *in***stall**at*ion* `(I)sta*` S ! `IN.sta.iO`
  * ***stell*** `.ell` E
     * : ***stell****ung* `.ell-UNG` ~ `st*` E
     * : *geschäft*s***stell***e `GT-ell.e`
@@ -2895,7 +2894,7 @@
  * : st**eu**er `eu-er` ! `st.eu-er` (E)
 * **stig** `st.i`
  * **stinkt** `st.i` BSA
- * : *in***stinkt** `I>st.i` ! `IN.st.i` (BSA)
+ * : *in***stinkt** `(I)st.i` ! `IN.st.i` (BSA)
     * : X `IN.st.i-l.os` `IN.st.i-iv`
 * stick `st.ik`
 * stil `st.il`
@@ -2907,15 +2906,15 @@
 * ***stolz*** `.oz`
 * **straf** `stra`
 * **straß** `stra`
- * -~~straß~~e `:e`
-    * : **haupt**~~straß~~e `hau:e`
-    * : milch~~straß~~e `m.ich:e`
-* str***eit*** `;T`
- * str***itt*** `I>;t`
+ * -~~straß~~e `(.e)`
+    * : **haupt**~~straß~~e `hau,(.e)`
+    * : milch~~straß~~e `m.ich,(.e)`
+* str***eit*** `(T)`
+ * str***itt*** `((I)t)`
 * string `str.ing`
  * : stringent `str.ing.ent`
  * strikt `str.ikt`
-    * : distrikt `d.i-str.ikt` (BSA) ~ `ds>tr.ikt` (BSA)
+    * : distrikt `d.i-str.ikt` (BSA) ~ `(ds)tr.ikt` (BSA)
 * stroph `str.of`
  * : *kata*stroph `k.at.str.of`
     * × *kata*~~stroph~~ `k.at` BSA
@@ -2929,7 +2928,7 @@
  * *str****u****kt* `u` BSA
     * : *str****u****kt*ur `u,UR` ! `str.ukt-UR` » `str.ukt` ~ `str.uk` E
     * : *in**str****u****kt**ion* `IN,u-O` (BSA)
-    * : *in*fra*str****u****kt*ur `I>fra,u-UR`
+    * : *in*fra*str****u****kt*ur `(I)fra,u-UR`
     * : **kon***str****u****kt**ion* `ko,u-O` (BSA)
 * ***stück*** `.ük`
  * **früh*****stück*** `frÜ.ük`
@@ -2961,17 +2960,17 @@
 * *sund* `.und`
  * : *ge**sund* `G-und`
  * : *ge**sund**heit* `G-und.H` * *ge*s**u**nd*heit* `G,u-H` « `u-H`
-* ~~sym~~bol `;b.ol`
- * ~~sym~~bolisier `;b.ol.ir`
-* syst***em*** `:em`
- * syst***em***atik `:em.ik`
- * syst***em***atisch `:em.i`
- * syst***em***atisier `:em.ir`
+* ~~sym~~bol `(b.ol)`
+ * ~~sym~~bolisier `(b.ol).ir`
+* syst***em*** `(.em)`
+ * syst***em***atik `(.em).ik`
+ * syst***em***atisch `(.em).i`
+ * syst***em***atisier `(.em).ir`
 * tabelle `t.ab.ell.e` » `tab` E
-* *tag* `-tag` E
- * *täg* `-teg` E
- * : **donn**ers*tag* `do-tag`
- * : fr***ei****tag* `.ei-tag`
+* *tag* `tag` E
+ * *täg* `teg` E
+ * : **donn**ers*tag* `do.tag`
+ * : fr***ei****tag* `.ei=tag`
  * : *tag*~~für~~*tag* `tag.tag` S
 * tang `t.ang`
  * : tangier `t.ang.ir`
@@ -2982,18 +2981,18 @@
 * tat ← tun
 * **tausch** `tau`
  * **täusch** `täu`
-* *tausend* `;I` E
- * : *tausend*e `;I.e` E
+* *tausend* `(I)` E
+ * : *tausend*e `(I).e` E
 * *techn* `t.en` E
  * : *techn*ik `t.en.ik` E
  * : *techn*iker `t.en-ik-er` E
  * : *techn***isch** `t.en.i` E
     * : *elektr*o*techn***isch** `.el.t.en.i` ! `.el.o-t.en.i` BSA
- * : ter***min***us *techn*icus `;m.in.us,t.en.ik.us` × ter***min***us ~~techn~~~~ic~~us `;m.in.us,.us`
- * tech***n*** `;n`
-    * : tech***n***ik `;n.ik`
-    * : tech***n*****isch** `;n.isch`
-* t***eil*** `:eil` ! `t.eil` (E)
+ * : ter***min***us *techn*icus `(m.in).us,t.en.ik.us` × ter***min***us ~~techn~~~~ic~~us `(m.in).us;us`
+ * tech***n*** `(n)`
+    * : tech***n***ik `(n).ik`
+    * : tech***n*****isch** `(n).isch`
+* t***eil*** `(.eil)` ! `t.eil` (E)
  * : abt**eil***ung* `.ab.eil-UNG` E
  * : ***nach***t**eil**e `ach.eil.e` E
 * **tele** `t` ! `t.el.e` (E)
@@ -3001,12 +3000,12 @@
  * : tendenz `t.ed.ez` (E)
  * : tendenziös `t.ed.ez.ös` (E)
  * **tens** `t` E
-    * *in***tens**iv `I>t.iv` ! `IN.t.iv` BSA
-    * *in***tens**ivier*ung* `I>t.iv.ir-UNG` ! `IN.t.iv.ir-UNG` BSA
-    * *in***tens**ität `I>t.ät` ! `IN.t.ät` BSA
-* ter***min*** `;m.in` ! `t.em.in` (E)
- * : ter***min***al `;m.in.al`
- * : deter***min***ier `d.e;m.in.ir` ! `d.e-t.em.ir`
+    * *in***tens**iv `(I)t.iv` ! `IN.t.iv` BSA
+    * *in***tens**ivier*ung* `(I)t.iv.ir-UNG` ! `IN.t.iv.ir-UNG` BSA
+    * *in***tens**ität `(I)t.ät` ! `IN.t.ät` BSA
+* ter***min*** `(m.in)` ! `t.em.in` (E)
+ * : ter***min***al `(m.in).al`
+ * : deter***min***ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
 * teuer `t.eu-er` (E)
  * : teurer `t.eur-er` (E)
 * ***text*** `ext`
@@ -3031,21 +3030,21 @@
 * **tit** `ti`
  * : **tit**el `ti.el` > `ti` ! `t.it.el`
 * toler `t.ol.er` » `t.ol` E
-* t**o**n `:o`
- * t**ö**n `:ö`
+* t**o**n `o`
+ * t**ö**n `ö`
 * **tot** `t.o`
  * : **tot**al `t.o-al`
     * : **tot**alitär `t.o-al.är`
     * : **tot**alität `t.o-al.ät`
 * tracht ← trag
 * **trag** `tra` E
- * : an**trag** `.an>tra` » `.an`
- * : *auf***trag** `AU>tra`
- * : ***bei*****trag** `.ei>tra`
+ * : an**trag** `(.an)tra` » `.an`
+ * : *auf***trag** `(AU)tra`
+ * : ***bei*****trag** `(.ei)tra`
  * : *ge***trag**en `G-tra`
- * : *über***trag** `Ü>tra`
- * : *ver***trag** `E>tra` * *ver*tr**a**g `E-a`
- * : ***kauf****ver***trag** `.auf,E>tra` < `.auf.tra`
+ * : *über***trag** `(Ü)tra`
+ * : *ver***trag** `(E)tra` * *ver*tr**a**g `E-a`
+ * : ***kauf****ver***trag** `.auf,(E)tra` < `.auf.tra`
  * **träg** `tr.e` E
     * : **träg**er `tr-er` ! `tr.eg-er` (E)
  * **trug** `.ug` ! `tr.ug` (E)
@@ -3055,13 +3054,13 @@
 * **trah** `tra`
  * **trakt** `tra` ! `tr.akt`
     * : at**trakt**iv `.a-tra.iv` ! `.a-tra-t-iv`
-    * : **kon****trakt** `ko>tra`
+    * : **kon****trakt** `(ko)tra`
 * **trans**- `tra`
  * **tran**- `tra`
 * **trau** `trau`
  * : **trau**er `trau-er`
  * : *miss***trau** `ms.trau` * *miss*tr**au** `ms-au`
- * : *ver***trau** `E>trau` * *ver*tr**au** `E-au`
+ * : *ver***trau** `(E)trau` * *ver*tr**au** `E-au`
 * ***treff*** `.ef` ! `tr.ef`
  * ***triff*** `.if`
  * ***traf*** `.af`
@@ -3070,12 +3069,12 @@
  * **tritt** `tri` = `tr.i` ~ `.it` ≠ **trieb**
  * **trat** `tra`
 * **treib** `trei` = `tr.ei` ! `tr.eib` (E)
- * : *auf***treib** `AU>tr.ei` ~ `AU.eib` E
+ * : *auf***treib** `(AU)tr.ei` ~ `AU.eib` E
  * **trieb** `tri` = `tr.i`
-    * : be**trieb** `b.e>tr.i` ~ `b.e-ib` E
+    * : be**trieb** `(b.e)tr.i` ~ `b.e-ib` E
 * treu `treu`
-* -*tum* `-tum` V
- * -*tüm* `-tYm` V
+* -*tum* `tum` V
+ * -*tüm* `tYm` V
 * **tun** `tu`
  * **tat** `ta` E
     * **tät** `t` E
@@ -3109,29 +3108,29 @@
        * : *unser*er `U°.er`
 * *unter* `UNTER` V
 * ur- `UR` V
-* ~~val~~id `I>;d`
- * : *in*~~val~~ide `I>id.e` ! `IN.id.e` BSA
- * : *in*~~val~~idität `I>id.ät` ! `IN.id.ät` BSA
+* ~~val~~id `((I)d)
+ * : *in*~~val~~ide `(I)id.e` ! `IN.id.e` BSA
+ * : *in*~~val~~idität `(I)id.ät` ! `IN.id.ät` BSA
 * **ven** `w`
- * : *inter***ven**ier `I>t-er.w.ir`
+ * : *inter***ven**ier `(I)t-er.w.ir`
  * *vent* `v.et`
     * : e*vent*ualität `.e-w.et.al.ät` ~ `.e-v.ät`
  * **v**ent `w` ! `w.et` E
     * : e*vent*ualität `.e-w.al.ät` ! `.e-w.et.al.ät`
     * : evtl. `.e-v-t-l`
-    * : *in****v***entar `I>w.ar` ! `IN.w.et.ar` (BSA) ~ `IN-t-ar`
+    * : *in****v***entar `(I)w.ar` ! `IN.w.et.ar` (BSA) ~ `IN't-ar`
        * : X `IN.w.et.ar.ir`
-    * : *in***v**entur `I>w-UR` ! `IN.w.et.UR` (BSA) ~ `IN-t-UR`
+    * : *in***v**entur `(I)w-UR` ! `IN.w.et.UR` (BSA) ~ `IN't-UR`
     * : **kon****v**ent*ion* `ko.w-o` ! `ko.w.et.iO` (E)
-    * : *inter***v**ent*ion* `I>t-er.w-o` ! `I>t-er.w.et.iO` E
+    * : *inter***v**ent*ion* `(I)t-er.w-o` ! `(I)t-er.w.et.iO` E
 * *ver*- `E` V
 * vert `wet`
  * : **kon**vertier `ko.wet-ir`
  * vers `v.es`
     * : divers `d.i-w.es`
     * : diversifikat*ion* `d.i-wes.if-o` ! `d.i-w.es.if-o`
-    * : *in*vers `I>wes` ! `I>w.es`
-    * : *in*vers*ion* `I>wes-o` ! `I>w.es.iO`
+    * : *in*vers `(I)wes` ! `(I)w.es`
+    * : *in*vers*ion* `(I)wes-o` ! `(I)w.es.iO`
     * : **kon**vers*ion* `ko.wes-o` ! `ko.w.es.iO`
     * *univers* `.un` E
           * : *univers*al `.un.al` E
@@ -3139,7 +3138,7 @@
           * : *univers*ität `.un.ät` E
           * : *univers*um `.un.um` E
 * **vest** `v`
- * : *in***vest**it*ion* `I>w-o`
+ * : *in***vest**it*ion* `(I)w-o`
 * **v**id `v`
  * : di**v**idier `d.i-w.ir`
  * : re**v**idier `r.e-w.ir`
@@ -3155,8 +3154,8 @@
     * : **v**isuell `v.ell` ! `v.is.ell`
     * : de**v**ise `d.e-w.e` ~ `d.e-is.e` BSA
        * : de**v**isen `d.e-w.en` ~ `d.e-is.en` (BSA)
-    * : pr**o****v**is*ion* `o>w-o` ! `o>w.iO` E
-    * : pr**o****v**isor**isch** `o>w.or.i` E
+    * : pr**o****v**is*ion* `(o)w-o` ! `(o)w.iO` E
+    * : pr**o****v**isor**isch** `(o)w.or.i` E
     * : re**v**is*ion* `r.e-w-o`
 * ***viel*** `.il`
  * : *so****viel*** `.o-il` = `.o-l`
@@ -3165,7 +3164,7 @@
 *  *völk* `V` E
 * *voll* `Ol` V
  * *völl* `Öl` V
-    * *völlig* `:ö`
+    * *völlig* `ö`
  * **füll** `fÜ` BSA
     * : X `fÜ.ed` `fÜ-er` `ach.fÜ` `Ü.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ.bar` = `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
     * **füll**e `fÜ.e`
@@ -3182,12 +3181,12 @@
  * : **da****v**on `da.v` ~ *da***v**on `.a-v` * d**a****v**on `a-v`
  * *vom* `v°` V
 * *vor* `O` V
- * *vor**ig* `O.i` ~ vori***g*** `;g`
+ * *vor**ig* `O.i` ~ vori***g*** `(g)`
  * be*vor* `b.e-O`
  * ***nach***.~~wie~~.*vor* `ach.O` * ***nach***.~~wie~~.v**o**r `ach-o`
 * *wachs* `was` E
- * : *wachs**tum* `was-tum` * *wachs*t**u**m `was-u`
- * : *wirtschaft*s*wachs**tum* `FT.was-tum` » `FT.was`
+ * : *wachs**tum* `was.tum` * *wachs*t**u**m `was-u`
+ * : *wirtschaft*s*wachs**tum* `FT.was.tum` » `FT.was`
  * *wächs* `wes` E
  * *wuchs* `wus` E
  * *wüchs* `wüs` E
@@ -3205,7 +3204,7 @@
  * : ***w****ähr*end `w.ed` E
  * : *ge****w****ähr* `G-w` ! `G-wä`
 * walt `wat` (E)
- * : anwalt `.an.wat` ~ `.an-t`
+ * : anwalt `.an.wat` ~ `.an't`
  * : *ge*walt `G-wat`
  * : ***recht***sanwalt `echt.an.wat`
     * ***recht***san~~walt~~ `echt.an` ~ `R.an`
@@ -3219,12 +3218,12 @@
 * war ← sein
 * warn `w.an`
 * wart `wat`
- * -war***t*** `;-t`
-    * : **geg**enwar***t*** `g-t`
+ * -war***t*** `('t)`
+    * : **geg**enwar***t*** `g('t)`
  * wärt `wet` (E)
-    * -wär***t*** `;-t`
-       * : *aus*wär***t*****ig** `.S-t-ig`
-       * : **geg**enwär***t*****ig** `g-t-ig`
+    * -wär***t*** `('t)`
+       * : *aus*wär***t*****ig** `.S('t)-ig`
+       * : **geg**enwär***t*****ig** `g('t)-ig`
 * **was** `was`
 * **wass**er `was-er` ! `w.ass.er` » `w.ass` E
 * wechsel ← wachs
@@ -3234,7 +3233,7 @@
     * : *vor***weg** `O.w`
  * wegen `w.eg` E
     * -**weg**en `w`
-       * : d***es*****weg**en `:es>w`
+       * : d***es*****weg**en `(.es)w`
        * : meinet**weg**en `m.N.w`
        * : *unser*t**weg**en `.U-t-w` > `.U.w`
 * weh `w.eh`
@@ -3244,27 +3243,27 @@
  * : *ge***wehr** `G-wer`
 * weich `w.eich`
  * : abweich `.ab.w.eich` ~ `.ab.w.ei`
- * : z**u****rück**weich `u-rÜ<w.eich` ~ `u-rÜ<w.ei`
+ * : z**u****rück**weich `u-rÜ:w.eich` ~ `u-rÜ:w.ei`
 * weiger `w.eig-er` (E)
 * ***weil*** `.eil`
  * ***weil***e `.eil.e` ! `w.eil.e`
-* w***eis*** `:eis` E
+* w***eis*** `(.eis)` E
  * : bew***eis*** `b.e-eis`
- * : ~~mög~~*lich*erw***eis***e `;L.eis.e`
- * w***ies*** `I>;s` ! `w.is` E
+ * : ~~mög~~*lich*erw***eis***e `(L).eis.e`
+ * w***ies*** `((I)s)` ! `w.is` E
     * : bew***ies*** `b.e-is` E
     * : *ge*w***ies***en `G-is`
 * ***weit*** `T` ! `w.T`
  * ***weit***er `T-er`
     * : *und*.*so*.~~weiter~~ `&.o` V
 * w***elch*** `.ech` E
-* wel***t*** `;-t` ! `wet` (E)
- * : umwel***t*** `.um-t`
+* wel***t*** `('t)` ! `wet` (E)
+ * : umwel***t*** `.um('t)`
 * wem ← wer
 * wen ← wer
 * wen `w.en`
  * : wenig `w.en.i` E
- * : wenigst `w.en.i-st` ~ `w.en.iS` E
+ * : wenigst `w.en.i+st` ~ `w.en.iS` E
  * : *desto*.weniger `d.est-w.en.i-er` (BSA)
 * wend ← wind
 * **wenn** `w` V
@@ -3282,15 +3281,15 @@
  * : wettbewerb `w.et.b.e-w.eb` ~ `w°`
  * warb `w.ab` (E)
  * worb `w.ob`
-* **w**~~erd~~ `;w` V
- * **w**~~i~~**r**~~d~~ `;wr` V
- * **w**~~i~~**r**~~st~~ `;wr` V
- * ~~w~~**o**~~rd~~ `;O` V
-    * *ge*~~w~~**o**~~rd~~ `G;O` ~ `G-;O` V < `;O`
- * ~~w~~**u**~~rd~~ `;U` V
-    * : ~~w~~**u**~~rd~~e `;U` V
-    * ~~w~~**ü**~~rd~~ `;Ü` V
-       * : ~~w~~**ü**~~rd~~e `;Ü` V
+* **w**~~erd~~ `(w)` V
+ * **w**~~i~~**r**~~d~~ `(wr)` V
+ * **w**~~i~~**r**~~st~~ `(wr)` V
+ * ~~w~~**o**~~rd~~ `(O)` V
+    * *ge*~~w~~**o**~~rd~~ `G,(O)` ~ `G-(O)` V < `(O)`
+ * ~~w~~**u**~~rd~~ `(U)` V
+    * : ~~w~~**u**~~rd~~e `(U)` V
+    * ~~w~~**ü**~~rd~~ `(Ü)` V
+       * : ~~w~~**ü**~~rd~~e `(Ü)` V
 * werf `w.ef` (E)
  * : werfer `w.ef-er`
  * wirf `w.if` (E)
@@ -3308,8 +3307,8 @@
  * bergwerk `b.eg.w.ek` (BSA)
 * wert `wet` (E)
  * abwert `.ab.wet`
- * -wer***t*** `;-t`
-    * : *er***streb**enswer***t*** `er>str;-t`
+ * -wer***t*** `('t)`
+    * : *er***streb**enswer***t*** `(er)str,('t)`
 * wes ← sein
 * wett `w.et`
 * **wicht** `wi` ! `w.icht`
@@ -3320,20 +3319,20 @@
 * **wick** `wi`
  * : **wick**el `wi.l` ! `w.ik.l` (E)
  * : *ent***wick**el `eNT,wi.l` * *ent*w**i**ckel `eNT-i`
- * : *ver***wick**el `E,wi.l` ~ `E>wi.l`
-* wid***m*** `;m`
+ * : *ver***wick**el `E,wi.l` ~ `(E)wi.l`
+* wid***m*** `(m)`
 * wie `w.i`
- * : *so*wie `o>w.i` ~ `o>I`
+ * : *so*wie `(o)w.i` ~ `(o)I`
 * *wieder* `W` V
  * .w**ie**der. `i`
-    * : imm**er**.w**ie**der `:er,i`
+    * : imm**er**.w**ie**der `(.er),i`
     * : auch.w**ie**der `.auch,i`
  * : *wider* `W` V
  * : *widr* `W` V
     * -*w****i****drig* `i`
        * : *gesetz**w****i****drig* `-G,i`
        * : ***pflicht****w****i****drig* `.icht,i`
-       * : *ver***trag**s*w****i****drig* `E>tra,i`
+       * : *ver***trag**s*w****i****drig* `(E)tra,i`
 * wind ← weh
 * wind `w.id`
  * wand `w.ad`
@@ -3342,7 +3341,7 @@
  * **w**end `w` = `w.ed` (E)
     * : an**w**end `.an.w`
     * : *auf***w**end `AU.w`
-    * : ***not*****w**end**ig** `.ot.w.i` ~ `o>w.i`
+    * : ***not*****w**end**ig** `.ot.w.i` ~ `(o)w.i`
     * : *ver***w**end `E.w`
     * : *ver***w**end*ung* `E.w-UNG`
     * **wa**nd `wa` = `w.ad` (E)
@@ -3359,12 +3358,12 @@
  * : **wint**er `wit-er` (E)
 * *wir* `wr` V
  * **d**as.*wir* `DR` P (3-stufiges R)
-* wir***k*** `;k` ! `w.ik` (E)
- * : wir***k****lich* `;k.L`
- * : wir***k*****sa***keit* `;k-sa.T` ! `;k-s.am.T`
- * : *ge*wir**k**t `G;kt`
+* wir***k*** `(k)` ! `w.ik` (E)
+ * : wir***k****lich* `(k).L`
+ * : wir***k*****sa***keit* `(k)-sa.T` ! `(k)-s.am.T`
+ * : *ge*wir**k**t `G,(k)t`
 * **wirt** `wit`
- * *wirt*- `;wr`
+ * *wirt*- `(wr)`
 * ***wiss*** `.iss`
  * : *ge****wiss*** `G-iss`
  * : *ver**ge****wiss***ern `E.G-iss.er`
@@ -3382,9 +3381,9 @@
  * : **wohn***ung* `wo.UNG` * **wohn****u**ng `wo-u`
  * : *ge***wöhn***lich* `G-wö.L` ~ `G-ö-L`
  * : *ver***wöhn**t `E.wö-t`
-* *woll* `:ol` V
- * *will* `:l` V
-    * : *will*st `:l` V
+* *woll* `(.ol)` V
+ * *will* `(l)` V
+    * : *will*st `(l)` V
 * wort `wot` (E)
  * : *ant*wort `aNT.wot`
     * × *ant*~~wort~~ `aNT` BSA
@@ -3418,7 +3417,7 @@
  * : **kon*****zed***ier `ko.ed.ir`
  * ***zess*** `.ess`
     * : **kon*****zess****ion* `ko.ess.iO` » `ko.ess`
-    * : pr**o*****zess*** `o>ess` ~ `o>z` E
+    * : pr**o*****zess*** `(o)ess` ~ `(o)z` E
 * ***zeich*** `.eich` ! `z.eich` (E)
  * : ***zeich***en `.eich`
  * : ***zeich***nung `.eich.UNG`
@@ -3439,24 +3438,24 @@
 * zent `zet` (E)
  * zentner `zet-er` (E)
  * akzent `.ak.zet` ! `.ak.z.ent`
- * pr**o**zent `o>zet`
+ * pr**o**zent `(o)zet`
     * .pr**o**~~zent~~. `o` E
- * pr**o**zente `o>zet.e` ! `o>z.ent.e` E
- * pr**o**zentual `o>zet-al` × pr**o**~~zent~~ual `o-al` E
+ * pr**o**zente `(o)zet.e` ! `(o)z.ent.e` E
+ * pr**o**zentual `(o)zet-al` × pr**o**~~zent~~ual `o-al` E
 * *zentr* `zr` ! `z.etr` (E)
  * : *zentr*al `zr.al` ! `z.etr.al` (E)
     * *zentral* `zr-a`
- * : **kon***zentr*at*ion* `ko>zr*` S ! `ko>zr.iO` ! `ko.z.etr.iO` (E)
+ * : **kon***zentr*at*ion* `(ko)zr*` S ! `(ko)zr.iO` ! `ko.z.etr.iO` (E)
 * **zer**- `zer` V
 * zern `z.en`
  * : **kon**zern `ko.z.en`
  * *zert* `zer`
     * : *zert*ifikat `zer.if.at`
     * : *zert*ifizier `zer.if.ir`
-    * : **kon***zert* `ko>zer` ! `ko.zet`
+    * : **kon***zert* `(ko)zer` ! `ko.zet`
 * zettel `z.et.el`
- * -~~zett~~el `:el`
-    * : merk~~zett~~el `m.ek:el`
+ * -~~zett~~el `(.el)`
+    * : merk~~zett~~el `m.ek,(.el)`
 * ***zeug*** `.eug` E
  * : ***f****ahr****zeug*** `fa.eug`
  * : **er*****zeug****niss*e `er.eug.iss.e`
@@ -3479,7 +3478,7 @@
 * **zip** `.ip`
  * : **kon****zip**ier `ko.ip.ir`
  * ***z****ept* `z`
-    * : **kon*****z****ept* `ko.z` ~ `ko-t`
+    * : **kon*****z****ept* `ko.z` ~ `ko't`
     * : re***z****ept* `r.e-z`
     * : re***z****ept**ion* `r.e-z*` S ! `r.e-z.iO`
 * **z**ipl `z` BSA
@@ -3490,25 +3489,25 @@
  * : zirkus `z.ik.us`
  * : bezirk `b.e-z.ik` (BSA)
     * : bezirk*lich* `b.e-z.ik.L` (BSA)
-    * : **reg**ier*ung*sbezirk `r.ir-UNG<b.e-z.ik` (BSA)
+    * : **reg**ier*ung*sbezirk `r.ir-UNG:b.e-z.ik` (BSA)
     * ~ `b.e-ik`
  * *zirkul* `z.ik`
     * : *zirkul*ier `z.ik.ir`
     * : *zirkul*ation `z.ik.iO`
-* ~~ziv~~il `I>;l`
+* ~~ziv~~il `((I)l)`
 * zog ← zieh
 * *zu* `Z` V
  * **da***zu* `da.Z` ~ *da**zu* `.a-Z` * d**a***zu* `a-Z`
- * nahe*zu* `n.ah.e-Z` ~ `e>Z`
+ * nahe*zu* `n.ah.e-Z` ~ `(e)Z`
  * **z**um `z` V
  * *zur* `zr*` V
 * zug ← zieh
 * ***zweif*** `.eif`
  * : ***zweif***el `.eif.l`
  * : ***zweif***el***los*** `.eif.l.os` > `.eif.os` ~ `.eif-s`
-* zw***eig*** `:eig`
+* zw***eig*** `(.eig)`
 * **zw**ischen `zw` V
- * *in***zw**ischen `I>zw`
+ * *in***zw**ischen `(I)zw`
 
 @tum, tag?
 @überalt

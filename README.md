@@ -7,13 +7,13 @@ Die Vorlaute *n*, *l*, *r* werden ausgestoßen. (Ausnahmen stehen in der BSA.) N
 * end `.ed`
 * feld `f.ed`, *alt* `.alt` BSA
 * erst `.est`, *arg* `.arg` BSA
-* hals `h.a-s`, als `.as` V
-* wort `wot`, ort `.ot`
+* hals `h.a's`, als `.as` V
+* wort `wo't`, ort `.ot`
 
 Um ein Häkchen zu vermeiden, wird in Fremdwörtern Abstrich-*st* und Abstrich-*nt* geschrieben.
 * fantast `f.at.ast`
 * fantast*isch* `f.at.a+st.i`
-* *inter*~~ess~~*ant* `I>t-er.ant`
+* *inter*~~ess~~*ant* `(I)t-er.ant`
 * romant*isch* `r.om.aNT.i`
 
 Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden kann. Hierfür wird *be* gekürzt. Nach *k* wird *s* eingeschlossen.
@@ -31,11 +31,11 @@ Lateinisches *v* wird, außer am Wortanfang und in *iv*, *w* geschrieben.
 * **kon**vers*ion* `ko.wes.iO`
 
 Die Nachsilbe *ig* wird nach Aufstrichzeichen nicht gekürzt.
-* **geg**enwär**t****ig** `g-t-ig`
+* **geg**enwär**t****ig** `g('t)-ig`
 
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
-* schifffahrt `sch.if-fa-t`
-* **richt****ig*****keit*** `ri.i-T`
+* schifffahrt `sch.if=fa-t`
+* **richt****ig*****keit*** `ri.i=T` `ri.T`
 
 Zwischen griechischen Wortbestandteilen fällt *o* aus. Treffen zwei Vokale innerhalb eines Wortbestandteils aufeinander, so werden diese miteinander verschmolzen.
 * geometrie `g.e-m.etr.I`
@@ -46,8 +46,8 @@ Die Vokale *i* und *u* am Ende eines mehrsilbigen lateinischen Wortbestandteils 
 * situier `s.it.ir`
 
 Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
-* *in***dukt***ion* `I>du-o`
-* *in***spekt***ion* `I>sp*`
+* *in***dukt***ion* `(I)du-o`
+* *in***spekt***ion* `(I)sp*`
 * **zahl** `za`
  * **zahl***ung* `za*`
 
@@ -58,7 +58,7 @@ Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * ***form***at*ion* `.om-o`
 * phonetik `f.on.ik`
 * **kon*****form***ität `ko.om.ät`
-* *in***st**itut*ion* `I>st*`
+* *in***st**itut*ion* `(I)st*`
 
 Die Silben *id*, *il*, *in*, *is* sowie *ik* und *iz* fallen, außer am Wortende, aus. (*ik* und *iz* fallen nur in *ifik* und *ifiz* aus.)
 * **kon**solidier `ko-s.ol.ir`
@@ -73,7 +73,7 @@ Die Silbe *an* fällt, außer am Wortende, aus.
 * organisation `.og.iO`
 
 Vorsilben werden angestellt.
-* *auf***trag** `AU>tra`
+* *auf***trag** `(AU)tra`
 * an**fass** `.an.fass`
 
 In der Wortmitte werden Anlautkürzungen mit Durchstreichungs-*u* durch Durchstreichung ersetzt.
@@ -83,12 +83,12 @@ In der Wortmitte werden Anlautkürzungen mit Durchstreichungs-*u* durch Durchstr
 
 ### Formkürzung
 Formkürzungen auf die Nachsilbe werden auf die Oberlinie gestellt. Die Endung *ung* bleibt auf der Grundlinie.
-* ~~dank~~**bar** `;bar`
-* ~~ab~~end `:ed`
+* ~~dank~~**bar** `(bar)`
+* ~~ab~~end `(.ed)`
 * ~~verwalt~~*ung* `UNG`
 
-Beginnt die Nachsilbe mit *i*, so wird `I>;` statt `:i` geschrieben.
-* ~~reg~~ier `I>;r`
+Beginnt die Nachsilbe mit *i*, so wird `(I)` statt `(.i)` geschrieben.
+* ~~reg~~ier `((I)r)`
 
 ### Anlautkürzung
 Eine Anlautkürzung besteht in der Regel aus dem Ausstoßen des Auslauts und der Andeutung des Inlauts durch den Anlaut.
@@ -155,9 +155,9 @@ Anlautkürzel von alleinstehenden Verbstämmen werden ausgeschrieben.
 
 ### Auslautkürzel
 Auslautkürzel werden alleinstehend auf die Oberlinie gestellt. Alleinstehende Auslautkürzel von Verbstämmen werden ausgeschrieben.
-* arb***eit*** `;T`
-* f***ang*** `:ang` ! `f.ang`
- * : f***ang*** an! `:ang .an!` ! `f.ang .an!`
+* arb***eit*** `(T)`
+* f***ang*** `(.ang)` ! `f.ang`
+ * : f***ang*** an! `(.ang) .an!` ! `f.ang .an!`
  * : ein anf***ang*** `N .an.ang`
 
 ### Inlautkürzel
@@ -169,8 +169,8 @@ Ist eine Verschmelzung bei Inlautkürzeln nicht möglich (oder wird eine solche 
  * : **kurz**schr**i**ft `ku,i`
  * : *unter**schr****i****ft* `UNTER,i`
  * : *vor*schr**i**ft `O-i`
-* t**o**n `:o`
- * t**ö**n `:ö`
+* t**o**n `o`
+ * t**ö**n `ö`
 
 Ein Inlautkürzel auf *ü*, d.h. durch Überkreuzung, ist nach Aufstrichzeichen und nach *s* nicht möglich. Außerdem ist es insbesondere nicht immer möglich, ein *ü* mithilfe eines *r*s anzudeuten. Dann wird stattdessen auf den Auslaut gekürzt.
 * *ver*f**ü**g `E-Ü`
@@ -185,7 +185,7 @@ Unregelmäßige Kürzungen werden wie Kürzel behandelt. Daher wird **la**nd (An
  * länd `l.ed` (E)
     * : *ge*lände `G-l.ed.e`
     * : *ge*länder `G-l.ed-er`
-    * ~~länd~~er `;d-er`
+    * ~~länd~~er `(d-er)`
 
 ## Didaktik
 
@@ -200,8 +200,8 @@ Kurzformen, die nur in Verbindung mit feststehenden Vor- oder Nachsilben angewen
     * *länger* `NGR` :)
 
 In- und Auslautkürzel gelten wie eigenständige Kürzel als erlernenswert.
-* arb***eit***s**los** `;Ts.os`
- * ~~arbeit~~~~s~~los `;l.os` :)
+* arb***eit***s**los** `(T)-s.os`
+ * ~~arbeit~~~~s~~los `(l.os)` :)
 
 Bereits angewendete Kurzformen sollten zunächst nicht weiter abgeändert oder aufgehoben werden.
 * ***haus*** `.aus`
@@ -214,7 +214,7 @@ Ein Stenograph sollte eine Kurzform der Schnellschrift erst dann auslassen, wenn
 * *ant*wort `aNT.wot`
  * *ant*~~wort~~ `aNT` :)
 * dank**bar** `d.ak.bar`
- * ~~dank~~**bar** `;bar` :)
+ * ~~dank~~**bar** `(bar)` :)
 * automobil `.aut.m.ob.il`
  * auto~~mob~~il `.aut.il` :)
 * *auf****gab***e `AU.ab.e`
@@ -230,7 +230,7 @@ Um Unsicherheiten zu vermeiden, sollten hierbei zunächst lediglich Wortstämme 
  * : **trans***miss**ion* `tra.ms-o` :)
     * **trans***miss*~~ion~~ `tra.ms` :/
 * *ver***trag** `E.tra`
- * : ***kauf****ver***trag** `.auf,E>tra` :)
+ * : ***kauf****ver***trag** `.auf,(E)tra` :)
     * ***kauf***~~ver~~**trag** `.auf.tra` :/
 * **hind**er `hi-er`
  * : **hind**er*lich* `hi-er.L` :)
@@ -264,16 +264,16 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 ### Kurzschrift
 * `.` Anstrich
  * ab `.ab`
-* `:` Anstrich (Oberlinie)
- * d***es*** `:es`
+* `(.)` Anstrich (Oberlinie)
+ * d***es*** `(.es)`
 * `,` Absetzen
  * *un**ge***heuer** `UN-G,h.eu-er`
-* `;` Absetzen (Oberlinie)
- * de***r*** `;r`
-* `>` Ansetzen
- * **bi**s**her** `bi>h`
-* `<` Ausrichten (Grundlinie)
- * *ver**viel*fält**ig** `E.il<fet-ig`
+* `()` Absetzen (Oberlinie)
+ * de***r*** `(r)`
+* `()` Ansetzen
+ * **bi**s**her** `(bi)h`
+* `:` Ausrichten (Grundlinie)
+ * *ver**viel*fält**ig** `E.il:fet-ig`
 * `-` Wortbestandteil ohne Anstrich
  * befehl `b.e-f.el`
 * `-` Verschmelzen
@@ -282,8 +282,8 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
  * fenster `fest-er`
 * `-` Anlautschreibung (Auslaut)
  * astro***naut*** `.a-str.aut`
-* `-` Auslaut (Wortanfang)
- * selbst `-st`
+* `'` Auslaut (Wortanfang)
+ * selbst `'st`
 * `-` Selbstlautandeutung
  * d**a****v**on `a-v`
 * `Ü` Durchkreuzung
@@ -296,7 +296,7 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 
 ### Kurzformalternativen
 * ~ Extrakürzel oder Extrakürzung
- * anwalt `.an.wat` ~ `.an-t`
+ * anwalt `.an.wat` ~ `.an't`
 * ! Aufhebung des Kürzels oder der Kürzung
  * ***seit*** `T` ! `s.T`
 * * Selbstlautandeutung
@@ -316,10 +316,9 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 
 * `y` = `i`
 * `Y` = `u`
-* `FT` = `<FT`
-* `H` = `<H`
+* `.FT` = `:FT`
 
-* S (sts)
+* S = Schnellschrift (sts)
 
 @UR wird in BSA nicht verschmolzen
 @Neue Kürzel ("länger")
@@ -337,11 +336,11 @@ Nach Artikeln (bzw. Pronomen) nur ausfallen lassen, wenn z. B.:
  * `I .ab.fet-ig`
 * in "erung":
 * in "ungen":
- * `;N.e E.b.ess.en`
+ * `(N).e E.b.ess.en`
  * `s.ei er.l.äut-er.en`
  * `I E.an.stat-en`
 * nach unbetontem Stamm
- * `I N>tra`
+ * `I (N)tra`
  * @ `k.ei .S.sp.err` ! `k.ei .S.sp.err-UNG`
  * @ `I .ab.im.en` ! `I .ab.im-UNG.en`
 
