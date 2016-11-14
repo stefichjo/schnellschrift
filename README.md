@@ -31,11 +31,11 @@ Lateinisches *v* wird, außer am Wortanfang und in *iv*, *w* geschrieben.
 * **kon**vers*ion* `ko.wes.iO`
 
 Die Nachsilbe *ig* wird nach Aufstrichzeichen nicht gekürzt.
-* **geg**enwär**t****ig** `g-t-ig`
+* **geg**enwär**t****ig** `g('t)-ig`
 
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
-* schifffahrt `sch.if-fa-t`
-* **richt****ig*****keit*** `ri.i-T`
+* schifffahrt `sch.if=fa-t`
+* **richt****ig*****keit*** `ri.i=T` `ri.T`
 
 Zwischen griechischen Wortbestandteilen fällt *o* aus. Treffen zwei Vokale innerhalb eines Wortbestandteils aufeinander, so werden diese miteinander verschmolzen.
 * geometrie `g.e-m.etr.I`
@@ -282,8 +282,8 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
  * fenster `fest-er`
 * `-` Anlautschreibung (Auslaut)
  * astro***naut*** `.a-str.aut`
-* `-` Auslaut (Wortanfang)
- * selbst `-st`
+* `'` Auslaut (Wortanfang)
+ * selbst `'st`
 * `-` Selbstlautandeutung
  * d**a****v**on `a-v`
 * `Ü` Durchkreuzung
@@ -296,7 +296,7 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 
 ### Kurzformalternativen
 * ~ Extrakürzel oder Extrakürzung
- * anwalt `.an.wat` ~ `.an-t`
+ * anwalt `.an.wat` ~ `.an't`
 * ! Aufhebung des Kürzels oder der Kürzung
  * ***seit*** `T` ! `s.T`
 * * Selbstlautandeutung
