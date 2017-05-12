@@ -3,39 +3,39 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-Die Vorlaute *n*, *l*, *r* werden ausgestoßen. (Ausnahmen stehen in der BSA.) Nach ausgestoßenem Vorlaut behält *s* seine Wendigkeit, und *t* behält seinen Aufstrich, wenn der Stamm einen Anlaut hat. Dieser Anlaut ist es nämlich, der anstelle des ausgestoßen Vorlauts vor Aufstrich-*t* den Inlaut andeutet.
+Die Vorlaute *n*, *l*, *r* werden ausgestoßen. (Ausnahmen stehen in der BS A.) Nach ausgestoßenem Vorlaut behält *s* seine Wendigkeit, und *t* behält seinen Aufstrich, wenn der Stamm einen Anlaut hat. (Dieser Anlaut ist es nämlich, der anstelle des ausgestoßen Vorlauts vor Aufstrich-*t* den Inlaut andeutet.)
 * end `.ed`
-* feld `f.ed`, *alt* `.alt` BSA
-* erst `.est`, *arg* `.arg` BSA
-* hals `h.a's`, als `.as` V
-* wort `wo't`, ort `.ot`
+* feld `f.ed`, *alt* `.alt` BS A
+* erst `.est`, *arg* `.arg` BS A
+* hals `h.a's`, als `.a's` V
+* wort `w.o't`, ort `.o't`
 
-Um ein Häkchen zu vermeiden, wird in Fremdwörtern Abstrich-*st* und Abstrich-*nt* geschrieben.
-* fantast `f.at.ast`
+Um ein Häkchen zu vermeiden, wird in Fremdwörtern Abstrich-*st* und Abstrich-*nt* geschrieben. (Am Wortende werden Aufstrich-*st* und Aufstrich-*nt* geschrieben.)
+* fantast `f.a't.ast`
 * fantast*isch* `f.at.a+st.i`
 * *inter*~~ess~~*ant* `(I)t-er.ant`
 * romant*isch* `r.om.aNT.i`
 
 Anlaut-*s* wird im Wortinneren linkswendig geschrieben, wenn es mit dem Auslaut des vorhergehenden Wortbestandteils verschmolzen werden kann. Hierfür wird *be* gekürzt. Nach *k* wird *s* eingeschlossen.
-* absolv*ent* `.ab.s.ow.ent` = `.ab-s.ow.ent`
+* absolv*ent* `.ab.s.o'w.ent` = `.ab-s.o'w.ent`
 * be**such** `b.e-su` = `be-su`
-* **kon****sequ**enz `ko-s.ez`
+* **konsequ**enz `ko-s.ez`
 
-Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen. Anlaut-*s* wird nach *tran* ausgestoßen.
+Die Vorsilbe **kon** wird vor *l* zu **kol** assimiliert. Der Anlaut *l* des folgenden Wortbestandteils wird dann ausgestoßen. Vor *p* (sowie *b* und *m*) wird die Vorsilbe **kon** zu *kom* assimiliert. Der Anlaut *p* des folgenden Wortbestandteils wird dann mit *kom* verschmolzen. Die Vorsilbe **trans** wird vor *s* zu **tran** assimiliert. Der Anlaut *s*  des folgenden Wortbestandteils wird dann ausgestoßen.
 * **kol**lekt*ion* `ko.ekt-iO`
 * *kom***p**atibel `kom-p.ib.l`
-* **tran**(sist)or `tra.i+st.or`
+* **tran**sistor `tra.i+st.or`
 
-Lateinisches *v* wird, außer am Wortanfang und in *iv*, *w* geschrieben.
-* vers `v.es`
-* **kon**vers*ion* `ko.wes.iO`
+Lateinisches *v* wird, außer am Wortanfang und in der Nachsilbe *iv*, *w* geschrieben.
+* vers `v.e's`
+* **kon**vers*ion* `ko.w.e's.iO`
 
 Die Nachsilbe *ig* wird nach Aufstrichzeichen nicht gekürzt.
-* **geg**enwär**t****ig** `g('t)-ig`
+* **geg**enwär**tig** `g('t)-ig`
 
 Gleiche Mitlautzeichen sowie Aufstriche werden überdeckt.
 * schifffahrt `sch.if=fa-t`
-* **richt****ig*****keit*** `ri.i=T` `ri.T`
+* **richtig*****keit*** `ri.i=T` = `ri.T`
 
 Zwischen griechischen Wortbestandteilen fällt *o* aus. Treffen zwei Vokale innerhalb eines Wortbestandteils aufeinander, so werden diese miteinander verschmolzen.
 * geometrie `g.e-m.etr.I`
@@ -45,14 +45,13 @@ Die Vokale *i* und *u* am Ende eines mehrsilbigen lateinischen Wortbestandteils 
 * **kon**sortium `ko-s.ot.um`
 * situier `s.it.ir`
 
-Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen.
-* *in***dukt***ion* `(I)du-o`
-* *in***spekt***ion* `(I)sp*`
+Die Endungen *ion* und *ung* werden durch Auslassen der Fußschleife angedeutet. Nach rechtrsundem Zeichen wird die Endung *ion* verschmolzen. (*sch* darf seine Fußschleife nicht verlieren, da es sonst mit *heit* verwechselt werden könnte.
+)
+* *in* **dukt** *ion* `(I)du-o`
+* *in* **spekt** *ion* `(I)sp*`
 * **zahl** `za`
  * **zahl***ung* `za*`
-
-*sch* darf seine Fußschleife nicht verlieren, da es sonst mit *heit* verwechselt werden könnte.
-* **die schaff***ung* `I scha*` = `I scha`
+* **die** **schaff***ung* `I scha*` = `I scha`
 
 Die Silben *at*, *et*, *it*, *ut* fallen, außer am Wortende, aus.
 * ***form***at*ion* `.om-o`
@@ -320,7 +319,7 @@ Schnellschriftliche Kurzformen sollten nur zur Geschwindigkeitsoptimierung varii
 
 * S = Schnellschrift (sts)
 
-@UR wird in BSA nicht verschmolzen
+@UR wird in BS A nicht verschmolzen
 @Neue Kürzel ("länger")
 @Formkürzungen ("Antwort", "Nachbar")
 @Vokalandeutungen ("-schrift")
