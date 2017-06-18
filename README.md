@@ -141,7 +141,7 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *
 
 ### An- und Auslautkürzung
 In einigen Einzelfällen (meist bei Fremdwörtern) wird sowohl auf den An- als auch auf den Auslaut gekürzt.
-* **di** pl ***om*** `di.om`
+* **di**pl<b>*om*</b> `di.om`
 
 ## Kürzel
 
