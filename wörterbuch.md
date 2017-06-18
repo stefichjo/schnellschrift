@@ -27,8 +27,8 @@
        * : *akt*ivier `'t-iv.ir`
        * : *akt*ualität `'t-al.ät`
        * : *akt*uell `'t-ell`
-       * : *in**akt*ivität `(I)'t-iv.ät`
-       * : re*akt**ion*är `r.e't-iO.är`
+       * : *inakt*ivität `(I)'t-iv.ät`
+       * : re*aktion*är `r.e't-iO.är`
        * : re*akt*or `r.e't-or` ! `r.e-akt-or`
        * : **trans***aktion* `tra't-iO`
     * ~~akt~~**i** `(.I)` E
