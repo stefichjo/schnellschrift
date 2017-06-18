@@ -23,14 +23,14 @@
     * : aktuell `.akt-ell` = `.ak.t.ell` (BSA)
     * : aktualität `.akt-al.ät` = `.ak.t.al.ät` (BSA)
     * -*akt*- `'t`
-       * : *akt**ion* `'t-iO`
+       * : *aktion* `'t-iO`
        * : *akt*ivier `'t-iv.ir`
        * : *akt*ualität `'t-al.ät`
        * : *akt*uell `'t-ell`
        * : *in**akt*ivität `(I)'t-iv.ät`
        * : re*akt**ion*är `r.e't-iO.är`
        * : re*akt*or `r.e't-or` ! `r.e-akt-or`
-       * : **trans***akt**ion* `tra't-iO`
+       * : **trans***aktion* `tra't-iO`
     * ~~akt~~**i** `(.I)` E
        * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är` E
 * -*age* `.asch.e`
@@ -52,8 +52,8 @@
  * : älter `.ät-er` (BSA)
  * : ältest `.ät.est` (BSA)
  * ! *alt* `.alt` BSA
-    * : *ver**alt*et `E.alt.et` (BSA)
-    * : *ur**alt* `UR.alt` (BSA)
+    * : *veralt*et `E.alt.et` (BSA)
+    * : *uralt* `UR.alt` (BSA)
 * *amerik* `.am` BSA
  * : *amerik*a `.am.a` (BSA)
     * : *die* *ver*ein*ig*ten ***staat***en *von* *amerik*a `I E.N.i .at.en v .am.a` (BSA)
