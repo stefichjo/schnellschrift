@@ -141,7 +141,7 @@ Der Auslaut *s* (und *ss* bzw. *ß*) wird mit rechtsrundem Anlautzeichen sowie *
 
 ### An- und Auslautkürzung
 In einigen Einzelfällen (meist bei Fremdwörtern) wird sowohl auf den An- als auch auf den Auslaut gekürzt.
-* **di**pl***om*** `di.om`
+* **di** pl ***om*** `di.om`
 
 ## Kürzel
 
@@ -199,8 +199,8 @@ Kurzformen, die nur in Verbindung mit feststehenden Vor- oder Nachsilben angewen
     * *länger* `NGR` :)
 
 In- und Auslautkürzel gelten wie eigenständige Kürzel als erlernenswert.
-* arb***eit*** s**los** `(T)-s.os`
- * ~~arbeit~~~~s~~los `(l.os)` :)
+* arb ***eit*** s **los** `(T)-s.os`
+ * ~~arbeits~~los `(l.os)` :)
 
 Bereits angewendete Kurzformen sollten zunächst nicht weiter abgeändert oder aufgehoben werden.
 * ***haus*** `.aus`
