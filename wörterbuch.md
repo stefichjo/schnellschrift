@@ -56,7 +56,7 @@
     * : *uralt* `UR.alt` (BSA)
 * *amerik* `.am` BSA
  * : *amerik*a `.am.a` (BSA)
-    * : *die* *ver*ein*ig*ten ***staat*** en *von* *amerik*a `I E.N.i .at.en v .am.a` (BSA)
+    * : *die* *ver*ein*ig*ten <b>*staat*</b> en *von* *amerik*a `I E.N.i .at.en v .am.a` (BSA)
  * : *amerik*an**isch** `.am.i` (BSA)
  * : *amerik*aner `.am.er` (BSA)
 * amt `.amt`
