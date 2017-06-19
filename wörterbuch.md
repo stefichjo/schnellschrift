@@ -494,8 +494,8 @@
  * : *aus***druck** `.S.dru` * *aus*dr**u**ck `.S-u`
  * : *aus***drück** `.S.drÜ` * *aus*dr**ü**ck `.S-Y`
  * : ein**drück**e `N.drÜ.e` ! `N-Ük.e`
- * : ***nach*****druck** `ach.dru`
- * : ***nach*****drück** `ach.drÜ` * ***nach***dr**ü**ck  `ach-Ü`
+ * : <b>*nach*</b>**druck** `ach.dru`
+ * : <b>*nach*</b>**drück** `ach.drÜ` * <b>*nach*</b>dr**ü**ck  `ach-Ü`
 * **droh** `dr.o`
 * *du* `dU` BSA
  * bist.*du* `b.ist-dU` (BSA)
@@ -1250,7 +1250,7 @@
     * : X `hnt-h.um` `hnt-N.ad-er` `hnt-l.ass` `hnt-h` `hnt-m.i`
     * *hinter* `(I)t-er`
  * : *darauf**hin* `dar-AU.hn` (BSA)
- * : ***nach***.*außen*.*hin* `ach.auss:hn` (BSA)
+ * : <b>*nach*</b>.*außen*.*hin* `ach.auss:hn` (BSA)
  * <b>*hin*</b>- `n`
     * : <b>*hin*</b>*auf* `(n)AU`
     * : <b>*hin*</b>*aus* `n.S`
@@ -1763,8 +1763,8 @@
  * lokalisier `l.ok.al.ir` » `l.ok.ir`
  * lokalität `l.ok.al.ät` » `l.ok.ät`
  * lokativ `l.ok.iv`
-* ***los*** `.os`
- * ***lös*** `.ös`
+* <b>*los*</b> `.os`
+ * <b>*lös*</b> `.ös`
 * lux `l.ux`
  * luxus `l.ux.us` » `l.ux` E
  * luxuriös `l.ux.UR.ös` > `l.ux.ös` E
@@ -1849,7 +1849,7 @@
 * m<b>*ein*</b> `(N)`
  * : m<b>*ein*</b>*ung* `(N).UNG`
  * : *ich*.**b**in.~~der~~.m<b>*ein*</b> `(I)bi.N`
- * : ***nach***.*uns*erer.m<b>*ein*</b>*ung* `ach.U.N`
+ * : <b>*nach*</b>.*uns*erer.m<b>*ein*</b>*ung* `ach.U.N`
  * : *wir*.*sind*.~~der~~.m<b>*ein*</b> `wr-I.N`
  * : *ge*m<b>*ein*</b> `G-N` BSA ~ `G-(N)`
     * : X `la.Nd.e`
@@ -1996,10 +1996,10 @@
  * <b>*muss*</b> `.uss` E
     * : *du*.<b>*muss*</b>t `D.uss` E
 * *muster* `.ust`
-* ***nach*** `ach` E
- * : ***nach*****bar** `ach.bar` E × ~~nach~~**bar** `(bar)`
- * : *da****nach*** `.a-ach` ! **da*****nach*** `(da)ach`
- * : **hier*****nach*** `hi:ach`
+* <b>*nach*</b> `ach` E
+ * : <b>*nach*</b>**bar** `ach.bar` E × ~~nach~~**bar** `(bar)`
+ * : *da*<b>*nach*</b> `.a-ach` ! **da**<b>*nach*</b> `(da)ach`
+ * : **hier**<b>*nach*</b> `hi:ach`
  * ***näch***st `echst` E
     * : de<b>*m*</b>***näch***st `(m):echst`
     * : *zu****näch***st `Z-echst` ~ `Z.n` E
@@ -2471,8 +2471,8 @@
  * be**sag** `be-sa` ! `b.e-sa`
  * *ent***sag** `eNT.sa`
  * *ge***sag**t `G-sa`
- * ***los*****sag** `.os.sa`
- * ***nach*****sag** `ach.sa`
+ * <b>*los*</b>**sag** `.os.sa`
+ * <b>*nach*</b>**sag** `ach.sa`
  * *zu***sag** `Z-sa`
 * *saison* `s.es` E
 * -**sam** `sa` E
@@ -2994,7 +2994,7 @@
     * : tech<b>*n*</b>**isch** `(n).isch`
 * t<b>*eil*</b> `(.eil)` ! `t.eil` (E)
  * : abt**eil***ung* `.ab.eil-UNG` E
- * : ***nach***t**eil**e `ach.eil.e` E
+ * : <b>*nach*</b>t**eil**e `ach.eil.e` E
 * **tele** `t` ! `t.el.e` (E)
 * tend `t.ed`
  * : tendenz `t.ed.ez` (E)
@@ -3183,7 +3183,7 @@
 * *vor* `O` V
  * *vor**ig* `O.i` ~ vori<b>*g*</b> `(g)`
  * be*vor* `b.e-O`
- * ***nach***.~~wie~~.*vor* `ach.O` * ***nach***.~~wie~~.v**o**r `ach-o`
+ * <b>*nach*</b>.~~wie~~.*vor* `ach.O` * <b>*nach*</b>.~~wie~~.v**o**r `ach-o`
 * *wachs* `was` E
  * : *wachs**tum* `was.tum` * *wachs*t**u**m `was-u`
  * : *wirtschaft*s*wachs**tum* `FT.was.tum` » `FT.was`
@@ -3460,8 +3460,8 @@
  * : ***f****ahr*<b>*zeug*</b> `fa.eug`
  * : **er**<b>*zeug*</b>*niss*e `er.eug.iss.e`
  * : *über*<b>*zeug*</b> `Ü.eug`
- * : ***nach***.m**ein**er.*über*<b>*zeug*</b>*ung* `ach.m.ei-er-Ü.eug`
-    * ***nach***.m**ein**er.*über*~~zeug~~*ung* `ach.m.ei-er-Ü`
+ * : <b>*nach*</b>.m**ein**er.*über*<b>*zeug*</b>*ung* `ach.m.ei-er-Ü.eug`
+    * <b>*nach*</b>.m**ein**er.*über*~~zeug~~*ung* `ach.m.ei-er-Ü`
 * <b>*zieh*</b> `.ih` E
  * be<b>*zieh*</b> `b.e-ih`
  * <b>*zog*</b> `.og`
@@ -3504,8 +3504,8 @@
 * zug ← zieh
 * <b>*zweif*</b> `.eif`
  * : <b>*zweif*</b>el `.eif.l`
- * : <b>*zweif*</b>el***los*** `.eif.l.os` > `.eif.os` ~ `.eif-s`
-* zw***eig*** `(.eig)`
+ * : <b>*zweif*</b>el<b>*los*</b> `.eif.l.os` > `.eif.os` ~ `.eif-s`
+* zw<b>*eig*</b> `(.eig)`
 * **zw**ischen `zw` V
  * *in***zw**ischen `(I)zw`
 
