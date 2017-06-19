@@ -1438,7 +1438,7 @@
  * : `.eis.kat` `ket.e` `ket-er` `er.ket-et` `I er.ket`
 * <b>*kampf*</b> `ampf`
  * : **klass**en<b>*kampf*</b> `kla.ampf`
- * : ***kämpf***e `empf.e`
+ * : <b>*kämpf*</b>e `empf.e`
 * kan<b>*al*</b> `(.al)`
  * : kan<b>*al*</b>isat*ion* `(.al).iO`
 * **k**ann `k` V
@@ -1674,8 +1674,8 @@
     * : *vor*<b>*läuf*</b>**ig** `O.äuf.i` * *vor*l**äu**f**ig** `O,eu`
 * l<b>*aut*</b> `(.aut)` ! `l.aut`
  * : l<b>*aut*</b>er `(.aut)-er` ! `l.aut-er`
- * l***äut*** `(.äut)`
-    * : **er**l***äut***er `er.äut-er`
+ * l<b>*äut*</b> `(.äut)`
+    * : **er**l<b>*äut*</b>er `er.äut-er`
     * ! läut `l.äut` (BSA)
        * : X `l.äut-er` `er.l.äut-er` `I er.l.äut-er`
 * läuter ← laut
@@ -1904,7 +1904,7 @@
  * : **pa**rameter `pa.m.etr` ! `p.ar.a-m.etr`
  * : symmetrie `s.ym-m.etr.I` × sym~~metr~~ie `s.ym.I`
 * *mich* `m.i` E
- * l<b>*ass*</b>en.~~sie~~.*mich* `(.ass).m.i` ! ***lass***en.~~sie~~.*mich* `ass.m.i`
+ * l<b>*ass*</b>en.~~sie~~.*mich* `(.ass).m.i` ! <b>*lass*</b>en.~~sie~~.*mich* `ass.m.i`
 * *million* `(I),(I)` E
  * : *million*är `(I),(I).är`
  * : *million*en `(I),(I).en`
@@ -2254,8 +2254,8 @@
     * : **außen**poli<b>*t*</b>*isch* `.auss,(t).i` S
  * -poli<b>*tik*</b> `(tik)`
     * : **fin**anzpoli<b>*tik*</b> `fi.az.tik` » `fi.tik`
- * -poli***tisch*** `.it.i` ! `p.ol.i` E
-    * : **außen**poli***tisch*** `.auss.it.i`
+ * -poli<b>*t*</b>**isch** `.it.i` ! `p.ol.i` E
+    * : **außen**poli<b>*t*</b>**isch** `.auss.it.i`
 * poliz `p.ol.iz` » `p.ol` E
  * polizei `p.ol.iz.ei` » `p.ol.ei` E
  * polizist `p.ol.iz.ei` » `p.ol.ei` E
