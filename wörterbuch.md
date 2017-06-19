@@ -1474,7 +1474,7 @@
  * **kann** `ka`
     * : **kann**te `ka-t.e`
 * **kind** `ki`
- * : **kind***lich* `ki.L` ! kind*lich* `k.id.L` ≠ wir***k****lich*
+ * : **kind***lich* `ki.L` ! kind*lich* `k.id.L` ≠ wir<b>*k*</b>*lich*
  * : kl<b>*ein*</b>**kind** `(N):ki`
  * ! kind `k.id` (BSA)
     * : X `k.id-H` `k.id.i` `k.id.L` `k.id-er` `k.id.l.os`
@@ -2505,7 +2505,7 @@
     * **wirt***schaft* `wit-FT` ~ `(wr).FT` ≠ **wiss**en*schaft*
        * wirt**schaft** `FT` E
           * **la***nd*wirt**schaft** `la.FT` ~ `a-(wr).FT`
-    * ***wiss****schaft* `.iss.FT` ~ `wi.FT`
+    * <b>*wiss*</b>*schaft* `.iss.FT` ~ `wi.FT`
 * **scha**tz `scha` ! `sch.az`
  * **schä**tz `sch` ! `sch.ez`
     * : ab**schä**tz `.ab.sch`
@@ -3245,18 +3245,18 @@
  * : abweich `.ab.w.eich` ~ `.ab.w.ei`
  * : z**u****rück**weich `u-rÜ:w.eich` ~ `u-rÜ:w.ei`
 * weiger `w.eig-er` (E)
-* ***weil*** `.eil`
- * ***weil***e `.eil.e` ! `w.eil.e`
+* <b>*weil*</b> `.eil`
+ * <b>*weil*</b>e `.eil.e` ! `w.eil.e`
 * w<b>*eis*</b> `(.eis)` E
  * : bew<b>*eis*</b> `b.e-eis`
  * : ~~mög~~*lich*erw<b>*eis*</b>e `(L).eis.e`
- * w***ies*** `((I)s)` ! `w.is` E
-    * : bew***ies*** `b.e-is` E
-    * : *ge*w***ies***en `G-is`
+ * w<b>*ies*</b> `((I)s)` ! `w.is` E
+    * : bew<b>*ies*</b> `b.e-is` E
+    * : *ge*w<b>*ies*</b>en `G-is`
 * <b>*weit*</b> `T` ! `w.T`
  * <b>*weit*</b>er `T-er`
     * : *und*.*so*.~~weiter~~ `&.o` V
-* w***elch*** `.ech` E
+* *welch* `.ech` E
 * wel<b>*t*</b> `('t)` ! `wet` (E)
  * : umwel<b>*t*</b> `.um('t)`
 * wem ← wer
@@ -3358,19 +3358,19 @@
  * : **wint**er `wit-er` (E)
 * *wir* `wr` V
  * **d**as.*wir* `DR` P (3-stufiges R)
-* wir***k*** `(k)` ! `w.ik` (E)
- * : wir***k****lich* `(k).L`
- * : wir***k*****sa***keit* `(k)-sa.T` ! `(k)-s.am.T`
+* wir<b>*k*</b> `(k)` ! `w.ik` (E)
+ * : wir<b>*k*</b>*lich* `(k).L`
+ * : wir<b>*k*</b>**sa***keit* `(k)-sa.T` ! `(k)-s.am.T`
  * : *ge*wir**k**t `G,(k)t`
 * **wirt** `wit`
  * *wirt*- `(wr)`
-* ***wiss*** `.iss`
- * : *ge****wiss*** `G-iss`
- * : *ver**ge****wiss***ern `E.G-iss.er`
+* <b>*wiss*</b> `.iss`
+ * : *ge*<b>*wiss*</b> `G-iss`
+ * : *ver**ge*<b>*wiss*</b>ern `E.G-iss.er`
     * *ver**ge*~~wiss~~ern `E.G`
- * ***weiß*** `.eiss`
- * ***wuss*** `.uss` ! `w.uss` ≠ <b>*muss*</b>
-    * : be***wuss***t `b.e-usst`
+ * <b>*weiß*</b> `.eiss`
+ * <b>*wuss*</b> `.uss` ! `w.uss` ≠ <b>*muss*</b>
+    * : be<b>*wuss*</b>t `b.e-usst`
 * **wo** `wo`
  * *wor*- `wo` E
 * **woch** `wo`
