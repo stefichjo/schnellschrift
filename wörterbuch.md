@@ -1478,16 +1478,16 @@
  * : kl<b>*ein*</b>**kind** `(N):ki`
  * ! kind `k.id` (BSA)
     * : X `k.id-H` `k.id.i` `k.id.L` `k.id-er` `k.id.l.os`
-* kir***ch***
+* kir<b>*ch*</b>
  * ! kich `k.ich` (BSA)
     * : X `k.ich.e` `k.ich.en` `k.ich.L` `k.ich.en.T-UNG`
 * ***klag*** `.ag` BSA
  * : X `.ag.e` `.ag.bar` `.an.ag` `.an.agt-er` `b.e-ag`
  * ***kläg*** `.eg` (BSA)
     * : X `.eg-er` `.eg-er.in` `.an.eg-er` `n.eb.eg-er`
-* ***klam*** `kl.am`
- * re***klam***at*ion* `r.e-am-o` ! `r.e-am.iO` E
- * re***klam***e `r.e-am.e` E
+* <b>*klam*</b> `.am`
+ * re<b>*klam*</b>at*ion* `r.e-am-o` ! `r.e-am.iO` E
+ * re<b>*klam*</b>e `r.e-am.e` E
 * ***klar*** `.ar` BSA
  * : X `.ar-er` `.am.arst` `.ar.H`
  * ***klär*** `.är` BSA
@@ -1568,16 +1568,16 @@
 * **krank** `kra`
  * ! krank `kr.ak` (BSA)
     * : X `kr.ak.H` `kr.ak.w.ag` `er.kr.ak` `kr.ek.L` `I kr.ek`
-* ***krat*** `.at` BSA
- * *bür*o***krat*** `bÜ.at`
- * **dem**o***krat*** `d.at` (BSA)
+* <b>*krat*</b> `.at` BSA
+ * *bür*o<b>*krat*</b> `bÜ.at`
+ * **dem**o<b>*krat*</b> `d.at` (BSA)
     * X `d.at.I` `d.at.i` `d.at.I-n` `SS.d.at`
 * **kreb** `kr`
  * : **kreb**s `kr-s`
 * **kred** `kr` BSA
  * : **kred**it `kr.it` (BSA)
  * : ak**kred**itiv `.a-kr.iv` ! `.a-kr.it.iv` BSA
-* kr***eis*** `(.eis)`
+* kr<b>*eis*</b> `(.eis)`
  * **la***nd*kr**eis** `la(.eis)`
 * **kret** `kr`
  * : **kon****kret** `ko.kr`
@@ -3247,9 +3247,9 @@
 * weiger `w.eig-er` (E)
 * ***weil*** `.eil`
  * ***weil***e `.eil.e` ! `w.eil.e`
-* w***eis*** `(.eis)` E
- * : bew***eis*** `b.e-eis`
- * : ~~mög~~*lich*erw***eis***e `(L).eis.e`
+* w<b>*eis*</b> `(.eis)` E
+ * : bew<b>*eis*</b> `b.e-eis`
+ * : ~~mög~~*lich*erw<b>*eis*</b>e `(L).eis.e`
  * w***ies*** `((I)s)` ! `w.is` E
     * : bew***ies*** `b.e-is` E
     * : *ge*w***ies***en `G-is`
