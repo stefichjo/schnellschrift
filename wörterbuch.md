@@ -1169,13 +1169,13 @@
  * : **hielt** `hit` (BSA)
     * : X `.ab,hit` `b,hit` `eNT,hit` `er,hit` `UNTER,hit` `Z-rÜ,hit`
     * : **er****hielt** `er,hit` ~ **er*****hie****lt* `(er)hi`
- * hal***t*** `('t)`
-    * : **er**hal***t*** `er('t)`
-    * : *ge*hal***t*** `G('t)`
-    * : ***haus***hal***t*** `.aus('t)`
-    * : *in*hal***t*** `(I):('t)`
-    * : **sach***ver*hal***t*** `sa.E('t)`
-    * : *ver*häl***t***<b>*nis*</b> `E('t)-is`
+ * hal<b>*t*</b> `('t)`
+    * : **er**hal<b>*t*</b> `er('t)`
+    * : *ge*hal<b>*t*</b> `G('t)`
+    * : ***haus***hal<b>*t*</b> `.aus('t)`
+    * : *in*hal<b>*t*</b> `(I):('t)`
+    * : **sach***ver*hal<b>*t*</b> `sa.E('t)`
+    * : *ver*häl<b>*t*</b><b>*nis*</b> `E('t)-is`
 * **hand** `ha` BSA
  * : X `UN-ha.L` `ha.IN.ha` `O.ha` `h.e` `.S.h.i` `l.iks:h.ed-er` = `l.ik:h.ed-er` `tr.eu:h.ed-er`
  * : **hand**el `ha.l` (BSA)
@@ -1815,7 +1815,7 @@
  * : ***kauf*****mann** `.auf.ma`
  * : ***kauf*****männ****isch** `.auf.m.i`
 * mar***kt*** `(kt)` ! `m.akt` (E)
- * wel***t***mar***kt*** `('t),(kt)` ~ `('t),('t)`
+ * wel<b>*t*</b>mar***kt*** `('t),(kt)` ~ `('t),('t)`
 * ~~masch~~in `((I)n)`
  * : ~~masch~~ine `((I)n).e` ! `m.asch.in.e` » `m.asch` E
  * : ~~masch~~inell `((I)n).ell` ! `m.asch.in.ell` » `m.asch.ell` E
@@ -1894,7 +1894,7 @@
  * ***maß*** `ass` E
     * : ***mäß*****ig** `ess.i` E
     * : ein**ig**er***maß***en `N.i-er.ass.en` E
-    * : *ver*häl***t***<b>*nis*</b>***mäß*****ig** `E('t)-is.ess.i` × *ver*häl***t***<b>*nis*</b>~~mäß~~**ig** `E('t)-is.i`
+    * : *ver*häl<b>*t*</b><b>*nis*</b>***mäß*****ig** `E('t)-is.ess.i` × *ver*häl<b>*t*</b><b>*nis*</b>~~mäß~~**ig** `E('t)-is.i`
 * metall `m.et.all` » `m.et` E
  * : metall**isch** `m.et.all.i` » `m.et.i` E
 * meth***od*** `(.od)`
@@ -2023,7 +2023,7 @@
  * : ***nam*****haft** `.am.ha`
     * *namhaft* `n.am.ha`
  * : ***näm****lich* `.äm.L`
- * ~~nam~~en***t*** `('t)`
+ * ~~nam~~en<b>*t*</b> `('t)`
 * ~~nat~~*ion* `((I)O)`
  * *natio****nal*** `(n.al)`
     * *inter**natio****nal*** `(I)t-er.n.al` * `(I)t-er-a`
@@ -2247,11 +2247,11 @@
  * : poesie `p.o-es.I`
 * pol `p.ol`
  * : monopol `m.on.p.ol` ~ `m.o-p.ol` E
-* poli***t*** `(t)`
- * : poli***t***ik `(t).ik` ! `p.ol.ik` (E)
-    * : **außen**poli***t***ik `.auss,(t).ik` S
- * : poli***t****isch*
-    * : **außen**poli***t****isch* `.auss,(t).i` S
+* poli<b>*t*</b> `(t)`
+ * : poli<b>*t*</b>ik `(t).ik` ! `p.ol.ik` (E)
+    * : **außen**poli<b>*t*</b>ik `.auss,(t).ik` S
+ * : poli<b>*t*</b>*isch*
+    * : **außen**poli<b>*t*</b>*isch* `.auss,(t).i` S
  * -poli***tik*** `tik`
     * : **fin**anzpoli***tik*** `fi.az.tik` » `fi.tik`
  * -poli***tisch*** `.it.i` ! `p.ol.i` E
@@ -2844,7 +2844,7 @@
  * : *ver*an**stalt** `E.an.stat`
  * *stalt* `'t`
     * : an*stalt* `.an't`
-    * : *ge**stalt* `G't` ~ `G-a't` ≠ *ge*hal***t***
+    * : *ge**stalt* `G't` ~ `G-a't` ≠ *ge*hal<b>*t*</b>
     * : *ver*an*stalt* `E.an't`
 * stamm `st.am`
 * stand ← steh
@@ -3218,12 +3218,12 @@
 * war ← sein
 * warn `w.an`
 * wart `wat`
- * -war***t*** `('t)`
-    * : **geg**enwar***t*** `g('t)`
+ * -war<b>*t*</b> `('t)`
+    * : **geg**enwar<b>*t*</b> `g('t)`
  * wärt `wet` (E)
-    * -wär***t*** `('t)`
-       * : *aus*wär***t*****ig** `.S('t)-ig`
-       * : **geg**enwär***t*****ig** `g('t)-ig`
+    * -wär<b>*t*</b> `('t)`
+       * : *aus*wär<b>*t*</b>**ig** `.S('t)-ig`
+       * : **geg**enwär<b>*t*</b>**ig** `g('t)-ig`
 * **was** `was`
 * **wass**er `was-er` ! `w.ass.er` » `w.ass` E
 * wechsel ← wachs
@@ -3257,8 +3257,8 @@
  * <b>*weit*</b>er `T-er`
     * : *und*.*so*.~~weiter~~ `&.o` V
 * w***elch*** `.ech` E
-* wel***t*** `('t)` ! `wet` (E)
- * : umwel***t*** `.um('t)`
+* wel<b>*t*</b> `('t)` ! `wet` (E)
+ * : umwel<b>*t*</b> `.um('t)`
 * wem ← wer
 * wen ← wer
 * wen `w.en`
@@ -3307,8 +3307,8 @@
  * bergwerk `b.eg.w.ek` (BSA)
 * wert `wet` (E)
  * abwert `.ab.wet`
- * -wer***t*** `('t)`
-    * : *er***streb**enswer***t*** `(er)str,('t)`
+ * -wer<b>*t*</b> `('t)`
+    * : *er***streb**enswer<b>*t*</b> `(er)str,('t)`
 * wes ← sein
 * wett `w.et`
 * **wicht** `wi` ! `w.icht`
