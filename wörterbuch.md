@@ -944,7 +944,7 @@
  * : *ver**führ* `E.ür`
  * : *vor**führ* `O.ür`
  * : <b>*weit*</b>er*führ* `T-er.ür`
- * : z**u****rück***führ* `u-rÜ.ür`
+ * : z**u**<i></i>**rück***führ* `u-rÜ.ür`
 * füll ← voll
 * **fund** `fu`
  * : **fund**ier `fu.ir`
@@ -1185,8 +1185,8 @@
  * : *miss***hand**el `ms.ha.l` » `ms.ha`
  * : *ver***hand**el `E.ha.l` » `E.ha`
 * handel ← hand
-* ***harr*** `arr`
- * : be***harr****lich*k**eit** `b.e-arr.T`
+* <b>*harr*</b> `arr`
+ * : be<b>*harr*</b>*lich*k**eit** `b.e-arr.T`
 * h<b>*äng*</b> `(.eng)` ! `h.eng`
  * : abh<b>*äng*</b>**ig** `ab.eng.i`
  * : anh<b>*äng*</b>er `.an.eng-er`
@@ -1488,11 +1488,11 @@
 * <b>*klam*</b> `.am`
  * re<b>*klam*</b>at*ion* `r.e-am-o` ! `r.e-am.iO` E
  * re<b>*klam*</b>e `r.e-am.e` E
-* ***klar*** `.ar` BSA
+* <b>*klar*</b> `.ar` BSA
  * : X `.ar-er` `.am.arst` `.ar.H`
- * ***klär*** `.är` BSA
+ * <b>*klär*</b> `.är` BSA
     * : X `G-ärt` `UN-G;ärt` `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
-    * : *er****klär*** `er.är` (BSA) ~ `er-r`
+    * : *er*<b>*klär*</b> `er.är` (BSA) ~ `er-r`
 * **klass** `kla`
  * : **klass**e `kla`
  * : **klass**iker `kla.ik-er`
@@ -3087,7 +3087,7 @@
     * : **dar***über* `dar-Ü` E
     * : *er**übr***ig** `er-Ü.i` ! `er-Ü.ig` E
     * : **h**er*über* `h-Ü` E
-    * : ***hie****r**über* `hi-Ü` E
+    * : <b>*hie*</b>*r**über* `hi-Ü` E
     * : *vor**über* `O-Ü` E
 * um `.um`
  * : **war**um `war.um` * **war**<i></i>**u**m `war-u`
