@@ -2887,8 +2887,8 @@
     * **stät** `st`
        * : be**stät**ig `b.e+st`
 * stell ← steh
-* ***steig*** `.eig`
- * ***stieg*** `.ig`
+* <b>*steig*</b> `.eig`
+ * <b>*stieg*</b> `.ig`
 * stet ← steh
 * st**eu** `eu`
  * : st**eu**er `eu-er` ! `st.eu-er` (E)
@@ -2898,10 +2898,10 @@
     * : X `IN.st.i-l.os` `IN.st.i-iv`
 * stick `st.ik`
 * stil `st.il`
-* ***still*** `.ill`
-* ***stimm*** `.im` E
- * be***stimm*** `b.e-im` ! `b°-i`
- * *mit*be***stimm*** `M.b.e-im` ! `M,b°-i` ~ `M°`
+* <b>*still*</b> `.ill`
+* <b>*stimm*</b> `.im` E
+ * be<b>*stimm*</b> `b.e-im` ! `b°-i`
+ * *mit*be<b>*stimm*</b> `M.b.e-im` ! `M,b°-i` ~ `M°`
 * **stoff** `.of`
 * ***stolz*** `.oz`
 * **straf** `stra`
@@ -2909,7 +2909,7 @@
  * -~~straß~~e `(.e)`
     * : **haupt**~~straß~~e `hau,(.e)`
     * : milch~~straß~~e `m.ich,(.e)`
-* str***eit*** `(T)`
+* str<b>*eit*</b> `(T)`
  * str<b>*itt*</b> `((I)t)`
 * string `str.ing`
  * : stringent `str.ing.ent`
