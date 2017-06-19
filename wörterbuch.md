@@ -1643,7 +1643,7 @@
  * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `(.at.ang)` `st.ud.ang` `w.och.ang` `s.T-ang`
  * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un**zu****gäng****lich* `UN-z.eng.L`
  * : <b>*läng*</b>er `eng-er` ~ `NGR`
-* l<b>*ass*</b> `(.ass)`
+* l<b>*ass*</b> `(.ass)` ! <b>*lass*</b> `ass`
  * : *aus*.anl<b>*ass*</b> `.S.an.ass`
     * *aus*.an~~lass~~ `.S.an`
  * : *hinter*l<b>*ass*</b> `(I)t-er.ass`
@@ -1710,9 +1710,9 @@
  * : **schrift**leit*ung* `.ift,l.T-UNG` ~ `i,l.T-UNG`
 * lern `l.en`
 * *letzt* `let` E
-* ***leut*** `.eut`
- * : ***leut***e `.eut.e`
- * : **fach*****leut***e `fa.eut.e`
+* <b>*leut*</b> `.eut`
+ * : <b>*leut*</b>e `.eut.e`
+ * : **fach**<b>*leut*</b>e `fa.eut.e`
 * -*lich* `L` V
 * liefer `l.if-er` (E)
  * *liefer* `l.i-er`
@@ -1807,27 +1807,27 @@
 * **mand** `ma`
  * : **mand***ant* `ma.ant` ~ `ma.aNT`
  * : **mand***ant*in `ma.aNT.in`
-* ***mang*** `ang`
- * : ***mang***el `ang.l`
+* <b>*mang*</b> `ang`
+ * : <b>*mang*</b>el `ang.l`
 * **mann** `ma` E
  * : **männ**er `m-er` ! `m.er` E
  * : **männ***lich* `m.L`
  * : ***kauf*****mann** `.auf.ma`
  * : ***kauf*****männ****isch** `.auf.m.i`
-* mar***kt*** `(kt)` ! `m.akt` (E)
- * wel<b>*t*</b>mar***kt*** `('t),(kt)` ~ `('t),('t)`
+* mar<b>*kt*</b> `(kt)` ! `m.akt` (E)
+ * wel<b>*t*</b>mar<b>*kt*</b> `('t),(kt)` ~ `('t),('t)`
 * ~~masch~~in `((I)n)`
  * : ~~masch~~ine `((I)n).e` ! `m.asch.in.e` » `m.asch` E
  * : ~~masch~~inell `((I)n).ell` ! `m.asch.in.ell` » `m.asch.ell` E
-* ***mass*** `ass` E
- * : ***mass***e `ass.e`
- * : ***mass***en**haft** `ass.en.ha` E
+* <b>*mass*</b> `ass` E
+ * : <b>*mass*</b>e `ass.e`
+ * : <b>*mass*</b>en**haft** `ass.en.ha` E
 * maß ← mess
-* ***mat*** `.at` BSA
- * : auto***mat*** `.aut.at` (BSA)
- * : auto***mat****isch* `.aut.at.i` (BSA)
- * : auto***mat***isier*ung* `.aut.at.ir-UNG` (BSA)
- * : auto***mat****ion* `.aut.at.iO` (BSA)
+* <b>*mat*</b> `.at` BSA
+ * : auto<b>*mat*</b> `.aut.at` (BSA)
+ * : auto<b>*mat*</b>*isch* `.aut.at.i` (BSA)
+ * : auto<b>*mat*</b>isier*ung* `.aut.at.ir-UNG` (BSA)
+ * : auto<b>*mat*</b>*ion* `.aut.at.iO` (BSA)
 * **mater** `ma` ! `m.at-er` » `m.at` E
  * : **mater**ie `ma.I.e` ! `m.at-er.I.e` » `m.at.I.e` E
  * : **mater***ial* `ma.iaL` ! `m.at-er.iaL` » `m.at.iaL` E
@@ -1886,25 +1886,25 @@
        * : *auf*~~merk~~**sam***keit* `AU.-sa.T` BSA
        * : am *auf*~~merk~~**sam**st `.am AU.-sa+st` BSA
  * bemerk `b.e-m.ek` ~ `b.e-m`
-* ***mess*** `ess`
- * : ***mess***e `ess.e`
- * : ***mess***er `ess-er`
+* <b>*mess*</b> `ess`
+ * : <b>*mess*</b>e `ess.e`
+ * : <b>*mess*</b>er `ess-er`
  * **höh**en~~mess~~e**r** `hö,(r)`
  * ***miss*** `.iss` ! `m.iss`
- * ***maß*** `ass` E
-    * : ***mäß*****ig** `ess.i` E
-    * : ein**ig**er***maß***en `N.i-er.ass.en` E
-    * : *ver*häl<b>*t*</b><b>*nis*</b>***mäß*****ig** `E('t)-is.ess.i` × *ver*häl<b>*t*</b><b>*nis*</b>~~mäß~~**ig** `E('t)-is.i`
+ * <b>*maß*</b> `ass` E
+    * : <b>*mäß*</b>**ig** `ess.i` E
+    * : ein**ig**er<b>*maß*</b>en `N.i-er.ass.en` E
+    * : *ver*häl<b>*t*</b><b>*nis*</b><b>*mäß*</b>**ig** `E('t)-is.ess.i` × *ver*häl<b>*t*</b><b>*nis*</b>~~mäß~~**ig** `E('t)-is.i`
 * metall `m.et.all` » `m.et` E
  * : metall**isch** `m.et.all.i` » `m.et.i` E
-* meth***od*** `(.od)`
+* meth<b>*od*</b> `(.od)`
 * metr `m.etr`
  * : meter `m.etr`
  * : geometrie `g.e-m.etr.I` (E)
  * : **pa**rameter `pa.m.etr` ! `p.ar.a-m.etr`
  * : symmetrie `s.ym-m.etr.I` × sym~~metr~~ie `s.ym.I`
 * *mich* `m.i` E
- * ***lass***en.~~sie~~.*mich* `ass.m.i`
+ * l<b>*ass*</b>en.~~sie~~.*mich* `(.ass).m.i` ! ***lass***en.~~sie~~.*mich* `ass.m.i`
 * *million* `(I),(I)` E
  * : *million*är `(I),(I).är`
  * : *million*en `(I),(I).en`
@@ -1922,7 +1922,7 @@
        * **bund**es**minist**erium `bu,mi-er.I.um` > `bu,mi.um` × `bu.um`
     * : **fin**anz*minist*er `fi.az.mi-er` » `fi.mi-er` ! `fi.mi.er` E
     * : justiz*minist*er `ju+st,mi-er` ! `ju+st,mi.er` E
- * mine***ral*** `(r.al)`
+ * mine<b>*ral*</b> `(r.al)`
  * min***ute*** `(.ut).e` ~ `.ut.e`
 * *minder* `m.i-er`
 * *mindest* `m.i-eS`
