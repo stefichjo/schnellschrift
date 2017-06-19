@@ -2363,8 +2363,8 @@
  * : real `r.e-al`
     * : realisier `r.e-al.ir`
     * : realität `.r.e-al.ät`
-* ***rech*** `ech` E
-* ***recht*** `echt` E ~ `R`
+* <b>*rech*</b> `ech` E
+* <b>*recht*</b> `echt` E ~ `R`
 * reg `r.eg`
  * : anreg*ung* `.an.r.eg.UNG`
 * **reg** `r`
@@ -2930,11 +2930,11 @@
     * : *in**str*<b>*u*</b>*kt**ion* `IN,u-O` (BSA)
     * : *in*fra*str*<b>*u*</b>*kt*ur `(I)fra,u-UR`
     * : **kon***str*<b>*u*</b>*kt**ion* `ko,u-O` (BSA)
-* ***stück*** `.ük`
- * **früh*****stück*** `frÜ.ük`
-* ***stud*** `.ud`
- * : ***stud***ier `.ud.ir`
- * : ***stud***ium `.ud.um`
+* <b>*stück*</b> `.ük`
+ * **früh**<b>*stück*</b> `frÜ.ük`
+* <b>*stud*</b> `.ud`
+ * : <b>*stud*</b>ier `.ud.ir`
+ * : <b>*stud*</b>ium `.ud.um`
 * stund ← steh
 * sturz `st.uz` (E)
  * : (stürz) `st.ürz` E
@@ -2962,10 +2962,10 @@
  * : *ge**sund**heit* `G-und.H` * *ge*s**u**nd*heit* `G,u-H` « `u-H`
 * ~~sym~~bol `(b.ol)`
  * ~~sym~~bolisier `(b.ol).ir`
-* syst***em*** `(.em)`
- * syst***em***atik `(.em).ik`
- * syst***em***atisch `(.em).i`
- * syst***em***atisier `(.em).ir`
+* syst<b>*em*</b> `(.em)`
+ * syst<b>*em*</b>atik `(.em).ik`
+ * syst<b>*em*</b>atisch `(.em).i`
+ * syst<b>*em*</b>atisier `(.em).ir`
 * tabelle `t.ab.ell.e` » `tab` E
 * *tag* `tag` E
  * *täg* `teg` E
@@ -2988,7 +2988,7 @@
  * : *techn*iker `t.en-ik-er` E
  * : *techn***isch** `t.en.i` E
     * : *elektr*o*techn***isch** `.el.t.en.i` ! `.el.o-t.en.i` BSA
- * : ter***min***us *techn*icus `(m.in).us,t.en.ik.us` × ter***min***us ~~techn~~~~ic~~us `(m.in).us;us`
+ * : ter<b>*min*</b>us *techn*icus `(m.in).us,t.en.ik.us` × ter<b>*min*</b>us ~~techn~~~~ic~~us `(m.in).us;us`
  * tech<b>*n*</b> `(n)`
     * : tech<b>*n*</b>ik `(n).ik`
     * : tech<b>*n*</b>**isch** `(n).isch`
@@ -3003,13 +3003,13 @@
     * *in***tens**iv `(I)t.iv` ! `IN.t.iv` BSA
     * *in***tens**ivier*ung* `(I)t.iv.ir-UNG` ! `IN.t.iv.ir-UNG` BSA
     * *in***tens**ität `(I)t.ät` ! `IN.t.ät` BSA
-* ter***min*** `(m.in)` ! `t.em.in` (E)
- * : ter***min***al `(m.in).al`
- * : deter***min***ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
+* ter<b>*min*</b> `(m.in)` ! `t.em.in` (E)
+ * : ter<b>*min*</b>al `(m.in).al`
+ * : deter<b>*min*</b>ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
 * teuer `t.eu-er` (E)
  * : teurer `t.eur-er` (E)
-* ***text*** `ext`
- * ***text***il `ext-il` ~ `t.il` BSA
+* <b>*text*</b> `ext`
+ * <b>*text*</b>il `ext-il` ~ `t.il` BSA
 * theater `t.e-at-er`
  * : theatr*alisch* `t.e-atr.i`
 * **them** `t`
@@ -3206,8 +3206,8 @@
 * walt `wat` (E)
  * : anwalt `.an.wat` ~ `.an't`
  * : *ge*walt `G-wat`
- * : ***recht***sanwalt `echt.an.wat`
-    * ***recht***san~~walt~~ `echt.an` ~ `R.an`
+ * : <b>*recht*</b>sanwalt `echt.an.wat`
+    * <b>*recht*</b>san~~walt~~ `echt.an` ~ `R.an`
  * : *über*wältigend `Ü.wet-ig.ed` (E)
  * : *ver*walt `E.wat` × ~~verwalt~~*ung* `UNG`
 * wand ← wind
