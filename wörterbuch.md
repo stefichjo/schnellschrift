@@ -190,9 +190,9 @@
 * behörde ← hör
 * bei `b.ei`
  * : **da**bei `da.b.ei` ~ *da*bei `.a-b.ei` * d**a**bei `a-b.ei`
- * ***bei***- `.ei`
- * -***bei*** `.ei`
-    * : **h**er***bei*** `h.ei`
+ * <b>*bei*</b>- `.ei`
+ * -<b>*bei*</b> `.ei`
+    * : **h**er<b>*bei*</b> `h.ei`
 * ***beid*** `.eid` ! beid `b.eid` (BSA)
  * X `b.eid.e` `b.eid-er.s.Ts` `b.eid-er.l.ei` `v.b.eid.s.T-en`
 * berg `b.eg` (BSA)
@@ -938,7 +938,7 @@
  * : *ge**führ*t `G-ürt`
  * : *geschäft*s*führ*er `GT.ür-er` ~ `GT-Ür-er` E
  * : *geschäft*s*führ**ung* `GT.ür-UNG`
- * : **h**er***bei****führ* `h.ei-ür`
+ * : **h**er<b>*bei*</b>*führ* `h.ei-ür`
  * : *über**führ* `Ü.ür` (BSA)
  * : *unter**führ* `UNTER.ür`
  * : *ver**führ* `E.ür`
@@ -3040,7 +3040,7 @@
 * **trag** `tra` E
  * : an**trag** `(.an)tra` » `.an`
  * : *auf***trag** `(AU)tra`
- * : ***bei*****trag** `(.ei)tra`
+ * : <b>*bei*</b>**trag** `(.ei)tra`
  * : *ge***trag**en `G-tra`
  * : *über***trag** `(Ü)tra`
  * : *ver***trag** `(E)tra` * *ver*tr**a**g `E-a`
