@@ -2683,7 +2683,7 @@
 * *sie* `sI` V
 * siech `s.ich`
  * **sucht** su
-    * : bleich**sucht** `bl.eich,su` * bleich*s****u****cht* `bl.eich,u`
+    * : bleich**sucht** `bl.eich,su` * bleich*s*<b>*u*</b>*cht* `bl.eich,u`
     * **sücht** `sÜ` = `s.ücht`
        * bleich**sücht****ig** `bl.eich.sÜ.i` = `bl.eich.sücht.i` * bleichs**ü**cht**ig** `bl.eich-Ü.i`
        * *eigen***sücht****ig** `.eig.sÜ.i` = `.eig.sücht.i` * *eigen*s**ü**cht**ig** `.eig-Ü.i` ! `.eig.ücht.i` ≠ *eigen***nütz****ig**
@@ -2800,8 +2800,8 @@
  * **spräch** `spr` E
  * **sproch** `.och` E
  * **spruch** `.uch` E
-    * : an**spruch** `.an.uch` * an*spr****u****ch* `.an,u`
-    * : ein**spruch** `N.uch` * ein*spr****u****ch* `N,u`
+    * : an**spruch** `.an.uch` * an*spr*<b>*u*</b>*ch* `.an,u`
+    * : ein**spruch** `N.uch` * ein*spr*<b>*u*</b>*ch* `N,u`
     * : *wider***spruch** `W.uch` * *wider*spr**u**ch `W-u`
  * **sprüch** `.üch` E
 * spr<b>*ing*</b> `(.ing)` ! `spr.ing`
@@ -2925,11 +2925,11 @@
  * : *in*str**u**ment `IN,u-met` ~ `IN.u-met`
  * : **kon**str**u**ier `ko,u.ir` (BSA)
     * : X `r.e-ko,u.irt.e` `ko,u.ör` `ko,u.iv`
- * *str****u****kt* `u` BSA
-    * : *str****u****kt*ur `u,UR` ! `str.ukt-UR` » `str.ukt` ~ `str.uk` E
-    * : *in**str****u****kt**ion* `IN,u-O` (BSA)
-    * : *in*fra*str****u****kt*ur `(I)fra,u-UR`
-    * : **kon***str****u****kt**ion* `ko,u-O` (BSA)
+ * *str*<b>*u*</b>*kt* `u` BSA
+    * : *str*<b>*u*</b>*kt*ur `u,UR` ! `str.ukt-UR` » `str.ukt` ~ `str.uk` E
+    * : *in**str*<b>*u*</b>*kt**ion* `IN,u-O` (BSA)
+    * : *in*fra*str*<b>*u*</b>*kt*ur `(I)fra,u-UR`
+    * : **kon***str*<b>*u*</b>*kt**ion* `ko,u-O` (BSA)
 * ***stück*** `.ük`
  * **früh*****stück*** `frÜ.ük`
 * ***stud*** `.ud`
@@ -3173,10 +3173,10 @@
  * : revolver `r.e-w.ow-er`
  * volt `v.ot`
     * : revolte `r.e-wot.e`
- * *vol***u***t* `u`
-    * : e*vol***u***t*ion `.e,u-O`
-    * : re*vol***u***t*ion `r.e-u-O`
-    * : **konter**re*vol***u***t*ion `ko-t-er,r.e-u-O`
+ * *vol<b>*u*</b>t* `u`
+    * : e*vol<b>*u*</b>t*ion `.e,u-O`
+    * : re*vol<b>*u*</b>t*ion `r.e-u-O`
+    * : **konter**re*vol<b>*u*</b>t*ion `ko-t-er,r.e-u-O`
 * **v**on `v` V
  * : **da****v**on `da.v` ~ *da***v**on `.a-v` * d**a****v**on `a-v`
  * *vom* `v°` V
