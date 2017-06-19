@@ -943,7 +943,7 @@
  * : *unter**führ* `UNTER.ür`
  * : *ver**führ* `E.ür`
  * : *vor**führ* `O.ür`
- * : ***weit***er*führ* `T-er.ür`
+ * : <b>*weit*</b>er*führ* `T-er.ür`
  * : z**u****rück***führ* `u-rÜ.ür`
 * füll ← voll
 * **fund** `fu`
@@ -1258,7 +1258,7 @@
     * : ***hin****zu* `(n)Z`
  * -***hin*** `.in`
     * : *da****hin*** `da.in`
-    * : ***weit***er***hin*** `T-er.in`
+    * : <b>*weit*</b>er***hin*** `T-er.in`
  * : **da***hin* `da.hn` ~ `.a-hn` S
 * hinder `h.id-er` (BSA)
  * : X `h.id-er.d` `h.id-ert.e` `h.id-er.is` `h.id-er.iss.e` `I b.e-h.id-er` `E.h.id-ert` `I E.h.id-er`
@@ -3253,8 +3253,8 @@
  * w***ies*** `((I)s)` ! `w.is` E
     * : bew***ies*** `b.e-is` E
     * : *ge*w***ies***en `G-is`
-* ***weit*** `T` ! `w.T`
- * ***weit***er `T-er`
+* <b>*weit*</b> `T` ! `w.T`
+ * <b>*weit*</b>er `T-er`
     * : *und*.*so*.~~weiter~~ `&.o` V
 * w***elch*** `.ech` E
 * wel***t*** `('t)` ! `wet` (E)
