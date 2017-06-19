@@ -421,13 +421,13 @@
  * : **kon**densat `ko.des.at`
 * de<b>*r*</b> `(r)` V
  * : *aus*.de<b>*r*</b> `.S-er`
-* d***es*** `(.es)` V
+* d<b>*es*</b> `(.es)` V
 * *desto* `d.est` BSA
 * **deut** `deu`
   * : **deut***lich* `deu.L`
   * : an**deut** `.an.deu`
   * : be**deut** `b.e-deu` ~ `b-eu` ~ `b-eu-T`
-* deut***sch*** `SCH`
+* deut<b>*sch*</b> `SCH`
 * *die* `I` V
  * **d**ass.*die* `d.I` ! `d I` ≠ **d**ass.*ich*
  * *für*.*die* `f.I` ~ `fI` P
@@ -461,11 +461,11 @@
     * : *in*diz `(I)d.iz`
  * ***dex*** `ex`
     * : *in****dex*** `(I)ex`
-* ***ding*** `.ing`
+* <b>*ding*</b> `.ing`
  * : ~~aller~~di**ngs** `(ngs)`
- * : be***ding*** `b.e-ing` ~ `(ng)`
- * : *un*be***ding***t `UN-b.e-ingt` × *un*be~~ding~~t `UN-b.e-t` < `UN-t`
- * : *un*be***ding***t.***not*****w**end**ig** `UN-b.e-ingt .ot.w.i` ~ `UN-t (o)w.i` ~ `UN-b.e-o-w.i`
+ * : be<b>*ding*</b> `b.e-ing` ~ `(ng)`
+ * : *un*be<b>*ding*</b>t `UN-b.e-ingt` × *un*be~~ding~~t `UN-b.e-t` < `UN-t`
+ * : *un*be<b>*ding*</b>t.***not*****w**end**ig** `UN-b.e-ingt .ot.w.i` ~ `UN-t (o)w.i` ~ `UN-b.e-o-w.i`
 * *dis*- `ds` BSA
 * **di**pl***om*** `di.om`
  * **di**pl***om***at `di.om.at`
@@ -1158,7 +1158,7 @@
  * : X `h.ab.H` `(.es)ha` `m.N.h.ab` `.auss:h.ab` `.in:h.ab` `(r) .od-UNG h.ab-er`
  * : **halb**er `ha-er` ! `h.ab-er` (BSA)
  * : **halb**ier `ha.ir`
- * : d***es*****halb** `(.es)ha`
+ * : d<b>*es*</b>**halb** `(.es)ha`
  * : *inner*halb `.i-ha`
  * : *unter***halb** `UNTER.ha`
  * hälft `h.eft` (BSA)
@@ -1631,8 +1631,8 @@
  * : X `(hi)z.la` `la.UNG` `SCH.la-s` `v.at-er.la` `v.at-er.l.i` `.ab.ed.l.i` `.S.l.i` `IN.l.i`
  * : X `l.ed-er` `l.ed.L` `G-l.ed.e`
  * : *aus***la**nd `.S.la` (BSA)
- * : deut***sch*****la***nd* `SCH.la` (BSA) * deut***sch***l**a**nd `SCH-a`
- * : **bund**es*republik*.deut***sch*****la***nd* `bu:r.e-ik,SCH.la` × **bund**es~~republik~~.deut***sch*****la***nd* `bu,SCH.la` * **bund**es~~republik~~.deut***sch***l**a**nd `bu,SCH-a`
+ * : deut<b>*sch*</b>**la***nd* `SCH.la` (BSA) * deut<b>*sch*</b>l**a**nd `SCH-a`
+ * : **bund**es*republik*.deut<b>*sch*</b>**la***nd* `bu:r.e-ik,SCH.la` × **bund**es~~republik~~.deut<b>*sch*</b>**la***nd* `bu,SCH.la` * **bund**es~~republik~~.deut<b>*sch*</b>l**a**nd `bu,SCH-a`
  * ~~land~~es `(.es)`
  * ~~län~~der `(d-er)`
  * *länd* `l` ! `l.ed` (E)
@@ -3233,7 +3233,7 @@
     * : *vor***weg** `O.w`
  * wegen `w.eg` E
     * -**weg**en `w`
-       * : d***es*****weg**en `(.es)w`
+       * : d<b>*es*</b>**weg**en `(.es)w`
        * : meinet**weg**en `m.N.w`
        * : *unser*t**weg**en `.U-t-w` > `.U.w`
 * weh `w.eh`
