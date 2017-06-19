@@ -885,7 +885,7 @@
  * : X `fra.ed` `sI fra` `sI fra-t.e` `sI fra.t-en` `fra.L` `fra.l.os` `.an.fra` `I b.e-fra-t-en` `G-fra` `ach.fra` `rÜ.fra`
  * : **frag**e `fra.e` » `fra` E
 * **frau** `frau`
-* fr***ei*** `(.ei)`
+* fr<b>*ei*</b> `(.ei)`
 * **fremd** `fr` = `fr.e`
 * fr**eu** `eu`
  * fr**eu**de `eud.e`
@@ -2624,8 +2624,8 @@
  * *sind* `(IN)` V `(I)`
     * .*sind*. `-I`
        * : *wir*.*sind* `wr-I`
- * s***ei*** `(.ei)` V
-    * : s***ei***d `(.eid)`
+ * s<b>*ei*</b> `(.ei)` V
+    * : s<b>*ei*</b>d `(.eid)`
  * w***ar*** `(.ar)` E
   * : w***är*** `(.är)` E
  * ***wes*** `.es`
@@ -2970,7 +2970,7 @@
 * *tag* `tag` E
  * *täg* `teg` E
  * : **donn**ers*tag* `do.tag`
- * : fr***ei****tag* `.ei=tag`
+ * : fr<b>*ei*</b>*tag* `.ei=tag`
  * : *tag*~~für~~*tag* `tag.tag` S
 * tang `t.ang`
  * : tangier `t.ang.ir`
