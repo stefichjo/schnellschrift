@@ -2400,8 +2400,8 @@
  * : *über***reich** `Ü.r.ei` ~ `Ü.eich`
  * : umf<b>*ang*</b>**reich** `.um:ang.r.ei` × um~~fang~~**reich** `.um.r.ei` ~ `.um:eich`
 * reif `r.eif`
- * -***reif*** `.eif`
-    * : **hoch*****schul******reif***e `ho.ul.eif.e`
+ * -<b>*reif*</b> `.eif`
+    * : **hoch*****schul***<b>*reif*</b>e `ho.ul.eif.e`
 * reih r.eih
  * **ein**e.~~reih~~~~e~~.**v**on `.ei-v`
 * reit `r.T`
@@ -2440,12 +2440,12 @@
 * **rück** `rÜ` V ! `r.ük`
  * *zu***rück** `Z-rÜ`
     * *zurück* `u-rÜ`
-* r***uf*** `(.uf)` ! `r.uf`
- * : *aus*r***uf*** `.S.uf`
- * : *auf*r***uf*** `AU.uf` * *auf*r**u**f `AU-u`
- * : ber***uf*** `b.e-uf`
- * r***ief*** `((I)f)` ! `r.if`
-    * : *aus*r***ief*** `.S.if`
+* r<b>*uf*</b> `(.uf)` ! `r.uf`
+ * : *aus*r<b>*uf*</b> `.S.uf`
+ * : *auf*r<b>*uf*</b> `AU.uf` * *auf*r**u**f `AU-u`
+ * : ber<b>*uf*</b> `b.e-uf`
+ * r<b>*ief*</b> `((I)f)` ! `r.if`
+    * : *aus*r<b>*ief*</b> `.S.if`
 * rump `r.ump`
  * *rupt* `r.up`
     * : e*rupt**ion* `.e-r.up-o`
@@ -2517,19 +2517,19 @@
  * ***schäh*** `.äh`
  * ***schicht*** `.icht`
     * : *ge****schicht***e `G-icht.e`
-* ***scheid*** `.eid`
- * : be***scheid*** `b.e-eid`
- * : *ent****scheid*** `eNT.eid` ~ `eNT.ei`
- * ***schied*** `.id` ! `sch.id`
-    * : ab***schied*** `.ab.id`
-    * : be***schied*** `b.e-id`
-    * : *ent****schied*** `eNT.id`
-    * : *mit*.*all*er.*ent****schied***en*heit* `M.al.eNT.id.H`
+* <b>*scheid*</b> `.eid`
+ * : be<b>*scheid*</b> `b.e-eid`
+ * : *ent*<b>*scheid*</b> `eNT.eid` ~ `eNT.ei`
+ * <b>*schied*</b> `.id` ! `sch.id`
+    * : ab<b>*schied*</b> `.ab.id`
+    * : be<b>*schied*</b> `b.e-id`
+    * : *ent*<b>*schied*</b> `eNT.id`
+    * : *mit*.*all*er.*ent*<b>*schied*</b>en*heit* `M.al.eNT.id.H`
        * : *mit*.*all*er.*ent*~~schiedenheit~~ `M.al.eNT`
-    * : *unter****schied*** `UNTER.id` * *unter*sch**ie**d `UNTER-i`
-    * : *ver*ab***schied*** `E.ab.id`
+    * : *unter*<b>*schied*</b> `UNTER.id` * *unter*sch**ie**d `UNTER-i`
+    * : *ver*ab<b>*schied*</b> `E.ab.id`
        * : *ver*ab~~schied~~ `E.ab`
-    * : *ver****schied*** `E.id`
+    * : *ver*<b>*schied*</b> `E.id`
 * sch<b>*ein*</b> `(N)`
  * : sch<b>*ein*</b>**bar** `(N).bar` ! schein**bar** `sch.N.bar` (BSA)
  * : ansch<b>*ein*</b>end `.an.N.ed`
@@ -2547,8 +2547,8 @@
  * ***schläg*** `.äg`
  * ***schlug*** `.ug`
  * **schlacht** `schla`
-* schn***eid*** `(.eid)` ! `schn.eid`
- * : schn***eid***er `(.eid)-er` | `.eid-er`
+* schn<b>*eid*</b> `(.eid)` ! `schn.eid`
+ * : schn<b>*eid*</b>er `(.eid)-er` | `.eid-er`
  * schn***itt*** `((I)t)` ! `schn.itt`
     * : abschn***itt*** `.ab.it`
 * **schnell** `schn`
