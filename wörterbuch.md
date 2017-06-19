@@ -2259,10 +2259,10 @@
 * poliz `p.ol.iz` » `p.ol` E
  * polizei `p.ol.iz.ei` » `p.ol.ei` E
  * polizist `p.ol.iz.ei` » `p.ol.ei` E
-* ***pon*** `.on`
- * : de***pon***ier `d.e-on.ir` ! `(d.e)p.on.ir`
- * : *dis****pon***ier `ds.on.ir`
- * : **trans*****pon***ier `tra.on.ir`
+* <b>*pon*</b> `.on`
+ * : de<b>*pon*</b>ier `d.e-on.ir` ! `(d.e)p.on.ir`
+ * : *dis*<b>*pon*</b>ier `ds.on.ir`
+ * : **trans**<b>*pon*</b>ier `tra.on.ir`
  * **pos** `pos`
     * : **pos**it*ion* `pos.O` ! `p.os.iO` » `p.os`
     * : **pos**itiv `pos.iv` ! `p.os.iv` (E) ~ `po.iv`
@@ -2302,8 +2302,8 @@
 * *privileg* `pri.eg`
 * pr**o**- `o`
 * ***prob*** `.ob`
-* ~~pro~~b***lem*** `(l.em)` ! `(o)bl.em` (E)
- * ~~pro~~b***lem***atik `(l.em).ik`
+* ~~pro~~b<b>*lem*</b> `(l.em)` ! `(o)bl.em` (E)
+ * ~~pro~~b<b>*lem*</b>atik `(l.em).ik`
 * pr**o**fessor `(o)f.ess.or` (E)
  * : prof `(o)f` E
 * pr**o**fit `(o)f.it`
@@ -2341,10 +2341,10 @@
     * : *gerad*e `G-a.e`
 * rag `r.ag`
 * rahm `r.am`
- * .***rahm***. `.am`
-    * : im.***rahm***en `.im.am`
-* ***rang*** `ang` ! `r.ang`
- * : *vor****rang*** `O.ang`
+ * .<b>*rahm*</b>. `.am`
+    * : im.<b>*rahm*</b>en `.im.am`
+* <b>*rang*</b> `ang` ! `r.ang`
+ * : *vor*<b>*rang*</b> `O.ang`
 * **rat** `ra`
  * : **rat**e `ra.e`
  * : **rat***ion* `ra.iO`
@@ -2357,8 +2357,8 @@
     * *berat* `Ra`
  * : **bund**es**rat** `bu.ra`
  * **rät** `r` ! `.ät` @
-* ***raum*** `.aum`
- * : ***räum***e `.äum.e`
+* <b>*raum*</b> `.aum`
+ * : <b>*räum*</b>e `.äum.e`
 * re `r.e`
  * : real `r.e-al`
     * : realisier `r.e-al.ir`
