@@ -1923,7 +1923,7 @@
     * : **fin**anz*minist*er `fi.az.mi-er` » `fi.mi-er` ! `fi.mi.er` E
     * : justiz*minist*er `ju+st,mi-er` ! `ju+st,mi.er` E
  * mine<b>*ral*</b> `(r.al)`
- * min***ute*** `(.ut).e` ~ `.ut.e`
+ * min<b>*ut*</b>e `(.ut).e` ~ `.ut.e`
 * *minder* `m.i-er`
 * *mindest* `m.i-eS`
 * mir `m.ir`
@@ -1964,10 +1964,10 @@
  * ***mag*** `.ag` E
  * ***mocht*** `.ocht` E
  * *macht* `aCHT`
-* mon***at*** `(.at)` E
- * : mon***at****lich* `(.at.L)` E
- * : im.vori*g*~~en~~.mon***at*** `.im (g).at`
- * : *in*.de<b>*n*</b> näch***st***.~~en~~.mon***at***.en `(I)n('st)-at.en` ! `(I)n ('st) (.at).en`
+* mon<b>*at*</b> `(.at)` E
+ * : mon<b>*at*</b>*lich* `(.at.L)` E
+ * : im.vori*g*~~en~~.mon<b>*at*</b> `.im (g).at`
+ * : *in*.de<b>*n*</b> näch<b>*st*</b>.~~en~~.mon<b>*at*</b>.en `(I)n('st)-at.en` ! `(I)n ('st) (.at).en`
 * mono- `m.on` ! `m.on.o` E
 * **mo**nstr `mo`
  * : de**mo**nstrat*ion* `d.e-mo.iO` ~ `d.e-mo-o`
@@ -1993,8 +1993,8 @@
     * : *ihr*.***müss*** `.ir yss` E
     * : *sie*.***müss*** `sI.Yss` E
     * : *wir*.***müss*** `wr.Yss` E
- * ***muss*** `.uss` E
-    * : *du*.***muss***t `D.uss` E
+ * <b>*muss*</b> `.uss` E
+    * : *du*.<b>*muss*</b>t `D.uss` E
 * *muster* `.ust`
 * ***nach*** `ach` E
  * : ***nach*****bar** `ach.bar` E × ~~nach~~**bar** `(bar)`
@@ -2003,8 +2003,8 @@
  * ***näch***st `echst` E
     * : de<b>*m*</b>***näch***st `(m):echst`
     * : *zu****näch***st `Z-echst` ~ `Z.n` E
-    * näch***st*** `('st)`
-       * : de<b>*m*</b>näch***st*** `(m)('st)`
+    * näch<b>*st*</b> `('st)`
+       * : de<b>*m*</b>näch<b>*st*</b> `(m)('st)`
 * ***mut*** `.ut`
  * : ***müt*** `.üt`
 * ***nacht*** `acht`
@@ -2059,7 +2059,7 @@
     * : ab~~nehm~~end `.ab,(.ed)`
  * ~~nehm~~~~e~~r `(r)`
     * : arb<b>*eit*</b>~~nehm~~~~e~~r `(T),(r)`
-    * : t***eil***~~nehm~~~~e~~r `(.eil),(r)`
+    * : t<b>*eil*</b>~~nehm~~~~e~~r `(.eil),(r)`
     * : *unter*~~nehm~~~~e~~r `UNTER,(r)` ! `UNTER.em-er` × `UNTER-er`
  * ~~nehm~~st `('st)`
     * : *vor*~~nehm~~st `O('st)`
@@ -2117,9 +2117,9 @@
        * : be~~g~~***nüg*** `b.e-üg`
 * **num** `nu`
 * **nun** `nu` E
-* n***ur*** `(UR)` V
- * : aber n***ur*** `.ab-er (UR)` (BSA)
-    * . aber.n***ur*** `.ab-er-UR` ! `.ab-er.UR` (BSA)
+* n<b>*ur*</b> `(UR)` V
+ * : aber n<b>*ur*</b> `.ab-er (UR)` (BSA)
+    * . aber.n<b>*ur*</b> `.ab-er-UR` ! `.ab-er.UR` (BSA)
 * **nutz** `nu`
  * : **nütz** `nÜ`
  * : *eigen***nütz****ig** `.eig.nÜ.i` * *eigen*n**ü**tz**ig** `.eig-Ü.i`
@@ -2228,8 +2228,8 @@
 * **plant** `pla`
  * : **plant***age* `pla.asch.e`
  * : **trans****plant**at*ion* `tra.pla.O`
-* ***platz*** `.az`
- * : ***plätz***e `.ez.e`
+* <b>*platz*</b> `.az`
+ * : <b>*plätz*</b>e `.ez.e`
 * plett `pl.et`
  * : *kom*plett `kom-pl.et` ~ `kom-pl`
  * : *kom*plettier `kom-pl.et.ir`
@@ -2252,8 +2252,8 @@
     * : **außen**poli<b>*t*</b>ik `.auss,(t).ik` S
  * : poli<b>*t*</b>*isch*
     * : **außen**poli<b>*t*</b>*isch* `.auss,(t).i` S
- * -poli***tik*** `tik`
-    * : **fin**anzpoli***tik*** `fi.az.tik` » `fi.tik`
+ * -poli<b>*tik*</b> `(tik)`
+    * : **fin**anzpoli<b>*tik*</b> `fi.az.tik` » `fi.tik`
  * -poli***tisch*** `.it.i` ! `p.ol.i` E
     * : **außen**poli***tisch*** `.auss.it.i`
 * poliz `p.ol.iz` » `p.ol` E
@@ -2992,7 +2992,7 @@
  * tech<b>*n*</b> `(n)`
     * : tech<b>*n*</b>ik `(n).ik`
     * : tech<b>*n*</b>**isch** `(n).isch`
-* t***eil*** `(.eil)` ! `t.eil` (E)
+* t<b>*eil*</b> `(.eil)` ! `t.eil` (E)
  * : abt**eil***ung* `.ab.eil-UNG` E
  * : ***nach***t**eil**e `ach.eil.e` E
 * **tele** `t` ! `t.el.e` (E)
@@ -3369,7 +3369,7 @@
  * : *ver**ge****wiss***ern `E.G-iss.er`
     * *ver**ge*~~wiss~~ern `E.G`
  * ***weiß*** `.eiss`
- * ***wuss*** `.uss` ! `w.uss` ≠ ***muss***
+ * ***wuss*** `.uss` ! `w.uss` ≠ <b>*muss*</b>
     * : be***wuss***t `b.e-usst`
 * **wo** `wo`
  * *wor*- `wo` E
