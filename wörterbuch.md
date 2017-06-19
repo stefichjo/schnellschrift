@@ -103,7 +103,7 @@
 * arg `.ag` ! *arg* `.arg` BSA
  * : ärger `.äg-er` (BSA)
  * : ärger*lich* `.äg-er.L` (BSA)
- * : ärger***nis*** `.äg-er.is` (BSA)
+ * : ärger<b>*nis*</b> `.äg-er.is` (BSA)
  * : *ge*ärgert `E.äg-er` ! `E.äg-ert` BSA
  * : *ver*ärger `E.äg-er` (BSA)
  * : am.ärgsten `.am.ägst` (BSA)
@@ -519,9 +519,9 @@
 * **dürf** `dÜ` BSA
  * X `dÜ-t.e` `b.e-dÜ-t-ig` `h.if:b.e-dÜ-t-ig`
  * : be**dürf** `b.e-dÜ`
- * : be**dürf*****nis*** `b.e-dÜ.is` (BSA)
-    * : **d**as be**dürf*****nis*** `d b.e-dÜ.is` « `dÜ.is`
-    * * bed**ü**rf***nis*** `b.e-Ü.is` ~ `b-Ü.is`
+ * : be**dürf**<b>*nis*</b> `b.e-dÜ.is` (BSA)
+    * : **d**as be**dürf**<b>*nis*</b> `d b.e-dÜ.is` « `dÜ.is`
+    * * bed**ü**rf<b>*nis*</b> `b.e-Ü.is` ~ `b-Ü.is`
  * **darf** `da` BSA
     * : be**darf** `b.e-da` (BSA)
  * **durf** `du` BSA
@@ -705,7 +705,7 @@
  * f***äng*** `(.eng)` ! `f.eng`
     * : anf***äng***er `.an.eng-er` ~ `.an.f-er`
     * : empf***äng*** `.emp.eng` * empf**ä**ng `.emp`
-    * : *ge*f***äng******nis*** `G-eng.is` ~ `G-f.is`
+    * : *ge*f***äng***<b>*nis*</b> `G-eng.is` ~ `G-f.is`
     * : *ver*f***äng****lich* `E.eng.L`
  * f***ing*** `((I)ng)` ! `f.ing`
     * : empf***ing*** `.emp.ing` * empf**i**ng `.emp-i`
@@ -916,7 +916,7 @@
     * **morg**en.fr**ü**h `mo-Ü`
     * **sch**on.fr**ü**her `sch-Ü-er`
 * -f**u**g- `-u` ! `f.ug`
- * : bef**u**g***nis*** `b.e-u-is`
+ * : bef**u**g<b>*nis*</b> `b.e-u-is`
  * f**ü**g `-Ü` = `.üg` ! f.üg`
     * : anf**ü**g `.an-Ü`
     * : bei*ge*f**ü**gt `b.ei-Ü` ~ `b.ei-Ü-G`
@@ -1175,7 +1175,7 @@
     * : ***haus***hal***t*** `.aus('t)`
     * : *in*hal***t*** `(I):('t)`
     * : **sach***ver*hal***t*** `sa.E('t)`
-    * : *ver*häl***t******nis*** `E('t)-is`
+    * : *ver*häl***t***<b>*nis*</b> `E('t)-is`
 * **hand** `ha` BSA
  * : X `UN-ha.L` `ha.IN.ha` `O.ha` `h.e` `.S.h.i` `l.iks:h.ed-er` = `l.ik:h.ed-er` `tr.eu:h.ed-er`
  * : **hand**el `ha.l` (BSA)
@@ -1894,7 +1894,7 @@
  * ***maß*** `ass` E
     * : ***mäß*****ig** `ess.i` E
     * : ein**ig**er***maß***en `N.i-er.ass.en` E
-    * : *ver*häl***t******nis******mäß*****ig** `E('t)-is.ess.i` × *ver*häl***t******nis***~~mäß~~**ig** `E('t)-is.i`
+    * : *ver*häl***t***<b>*nis*</b>***mäß*****ig** `E('t)-is.ess.i` × *ver*häl***t***<b>*nis*</b>~~mäß~~**ig** `E('t)-is.i`
 * metall `m.et.all` » `m.et` E
  * : metall**isch** `m.et.all.i` » `m.et.i` E
 * meth***od*** `(.od)`
@@ -2092,7 +2092,7 @@
  * : neutralisier `n.eutr.al.ir` » `n.eutr.ir` E
 * *nicht* `'t` V
  * : **gar**.*nicht* `ga't`
-* -***nis*** `.is` E
+* -<b>*nis*</b> `.is` E
 * *nieder*, *niedr* `ndr` V
 * *noch* `n-ch` V
 * n***om*** `(.om)` ! `n.om`
@@ -3301,7 +3301,7 @@
        * : *ent***würf**e `eNT.wÜ.e` * *ent*w**ü**rfe `eNT-Ü.e`
        * : *vor***wurf** `O.wu`
        * : *vor***würf**e `O.wÜ.e`
-       * : *zer***würf*****nis*** `zer.wÜ.is` * *zer*w**ü**rf***nis*** `zer-Ü.is`
+       * : *zer***würf**<b>*nis*</b> `zer.wÜ.is` * *zer*w**ü**rf<b>*nis*</b> `zer-Ü.is`
  * würf `w.üf` (E)
 * werk `w.ek` (BSA)
  * bergwerk `b.eg.w.ek` (BSA)
