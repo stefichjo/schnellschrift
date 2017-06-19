@@ -354,8 +354,8 @@
  * : **hoch**burg `ho.b.ug` (BSA)
  * ~ **burg** `bu`
     * : **bürg**er `bÜ-er`
-* b***us*** `(.us)` ! `b.us`
- * : autob***us*** `.aut.us` BSA
+* b<b>*us*</b> `(.us)` ! `b.us`
+ * : autob<b>*us*</b> `.aut.us` BSA
 * charakter `ch.ar.akt-er`
  * » *charakter* `ch.ar` BSA
     * : *charakter**istisch* `ch.ar.iS.i` (BSA)
@@ -380,7 +380,7 @@
  * : dame `d.am.e`
  * .**dam**. `da`
 * dank ← denk
-* d***ann*** `(.an)`
+* d<b>*ann*</b> `(.an)`
 * **dar** `dar` V
 * **d**as `d` V
 * **dat** `da`
@@ -394,10 +394,10 @@
 * ***d****auer* `dau` BSA
  * X `dau.d` `dau-t.e` `dau.ha` `AU.I.dau` `.an.dau.d` `b.e-dau` `Z-m.ei-em:b.e-dau` `Z-U°.b.e-dau` `G-dau`
  * : *ge****d****auer*t `G-dau-t` » `G-dau` E
-* de***m*** `(m)` V
- * : *außer**dem* `.auss.m` (BSA)
- * : *in*de***m*** `(I)m` S
- * : *mit*.de***m*** `M.m` ~ `MM` P
+* de<b>*m*</b> `(m)` V
+ * : *außer*de<b>*m*</b> `.auss.m` (BSA)
+ * : *in*de<b>*m*</b> `(I)m` S
+ * : *mit*.de<b>*m*</b> `M.m` ~ `MM` P
 * **dem** `d` BSA
  * : demokrat ← krat
 * de***n*** `(n)` V
@@ -1401,7 +1401,7 @@
  * : **jed**es `j.es`
 * jen `j.en`
  * -*jenig* `j`
- * : de***m****jenig* `(m):j`
+ * : de<b>*m*</b>*jenig* `(m):j`
 * *jetz* `j°` BSA
  * : *jetz***ig** `j.i` (BSA)
  * *jetzt* `j°` BSA
@@ -2001,10 +2001,10 @@
  * : *da****nach*** `.a-ach` ! **da*****nach*** `(da)ach`
  * : **hier*****nach*** `hi:ach`
  * ***näch***st `echst` E
-    * : de***m******näch***st `(m):echst`
+    * : de<b>*m*</b>***näch***st `(m):echst`
     * : *zu****näch***st `Z-echst` ~ `Z.n` E
     * näch***st*** `('st)`
-       * : de***m***näch***st*** `(m)('st)`
+       * : de<b>*m*</b>näch***st*** `(m)('st)`
 * ***mut*** `.ut`
  * : ***müt*** `.üt`
 * ***nacht*** `acht`
@@ -3320,7 +3320,7 @@
  * : **wick**el `wi.l` ! `w.ik.l` (E)
  * : *ent***wick**el `eNT,wi.l` * *ent*w**i**ckel `eNT-i`
  * : *ver***wick**el `E,wi.l` ~ `(E)wi.l`
-* wid***m*** `(m)`
+* wid<b>*m*</b> `(m)`
 * wie `w.i`
  * : *so*wie `(o)w.i` ~ `(o)I`
 * *wieder* `W` V
