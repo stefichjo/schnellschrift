@@ -467,10 +467,10 @@
  * : *un*be<b>*ding*</b>t `UN-b.e-ingt` × *un*be~~ding~~t `UN-b.e-t` < `UN-t`
  * : *un*be<b>*ding*</b>t.***not*****w**end**ig** `UN-b.e-ingt .ot.w.i` ~ `UN-t (o)w.i` ~ `UN-b.e-o-w.i`
 * *dis*- `ds` BSA
-* **di**pl***om*** `di.om`
- * **di**pl***om***at `di.om.at`
- * **di**pl***om***atie `di.om.I`
- * **di**pl***om***atisch `di.om.isch`
+* **di**pl<b>*om*</b> `di.om`
+ * **di**pl<b>*om*</b>at `di.om.at`
+ * **di**pl<b>*om*</b>atie `di.om.I`
+ * **di**pl<b>*om*</b>atisch `di.om.isch`
 * *doch* `d-ch` V
  * je*doch* `j.e-d-ch`
     * *jedoch* `j-ch`
@@ -2095,13 +2095,13 @@
 * -<b>*nis*</b> `.is` E
 * *nieder*, *niedr* `ndr` V
 * *noch* `n-ch` V
-* n***om*** `(.om)` ! `n.om`
- * : n***om****inal* `(.om).iaL` ! `n.om.iaL`
- * : astron***om***ie `.a-str.om.I`
- * : auto***nom*** `.aut.om` BSA
- * : gastro***nom*** `g.a-str.om`
- * : metro***nom*** `m.etr.om`
- * : ökon***om*** `.ök.om`
+* n<b>*om*</b> `(.om)` ! `n.om`
+ * : n<b>*om*</b>*inal* `(.om).iaL` ! `n.om.iaL`
+ * : astron<b>*om*</b>ie `.a-str.om.I`
+ * : auton<b>*om*</b> `.aut.om` BSA
+ * : gastron<b>*om*</b> `g.a-str.om`
+ * : metron<b>*om*</b> `m.etr.om`
+ * : ökon<b>*om*</b> `.ök.om`
 * nord `n.od`
  * **nord**- `n.o`
     * : **nord**~~rhein~~-~~west~~**fal**~~en~~ `n.o-fa` @falen
