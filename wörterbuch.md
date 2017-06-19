@@ -714,9 +714,9 @@
 * farb `f.ab` (BSA)
  * : X `f.ab.i` `f.ab.l.os` `G-f.ebt` `E.f.eb` `f.eb-UNG`
 * farm `f.am` ! `f.arm` BSA
-* f***ass*** `.ass` ! `fass`
- * **nach**.m**ein**er.*auf*f***ass****ung* `ach.m.ei-er AU.ass` × `ach.m.ei-ass`
- * umf***ass*** `.um.ass`
+* f<b>*ass*</b> `.ass` ! `fass`
+ * **nach**.m**ein**er.*auf*f<b>*ass*</b>*ung* `ach.m.ei-er AU.ass` × `ach.m.ei-ass`
+ * umf<b>*ass*</b> `.um.ass`
 * *fast* `Fa`
 * fat
  * **f**ess `f`
@@ -1643,11 +1643,11 @@
  * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `(.at.ang)` `st.ud.ang` `w.och.ang` `s.T-ang`
  * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un**zu****gäng****lich* `UN-z.eng.L`
  * : ***läng***er `eng-er` ~ `NGR`
-* l***ass*** `.ass`
- * : *aus*.anl***ass*** `.S.an.ass`
+* l<b>*ass*</b> `.ass`
+ * : *aus*.anl<b>*ass*</b> `.S.an.ass`
     * *aus*.an~~lass~~ `.S.an`
- * : *hinter*l***ass*** `(I)t-er.ass`
- * : *ver*anl***ass*** `E.an.ass`
+ * : *hinter*l<b>*ass*</b> `(I)t-er.ass`
+ * : *ver*anl<b>*ass*</b> `E.an.ass`
     * *ver*an~~lass~~ `E.an`
  * l***äss*** `(.ess)` ! `l.ess`
     * : l***äss*****ig** `(.ess.i)` ! `l.ess.i`
