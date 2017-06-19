@@ -400,10 +400,10 @@
  * : *mit*.de<b>*m*</b> `M.m` ~ `MM` P
 * **dem** `d` BSA
  * : demokrat ← krat
-* den<b>*n*</b> `(n)` V
- * : *in*.den<b>*n*</b> `(I)n`
- * : *mit*.den<b>*n*</b> `M.n` ~ `MN` P (3-stufiges M)
- * : **v**on.den<b>*n*</b> `v.n` ~ `VN` P (3-stufiges N)
+* de<b>*n*</b> `(n)` V
+ * : *in*.de<b>*n*</b> `(I)n`
+ * : *mit*.de<b>*n*</b> `M.n` ~ `MN` P (3-stufiges M)
+ * : **v**on.de<b>*n*</b> `v.n` ~ `VN` P (3-stufiges N)
 * denk `d.ek` (BSA)
  * X `d.ek.ed` `d.ek-er` `UN-d.ek.bar` `ach.d.ek.L`
  * dacht `d.acht` (BSA)
@@ -595,8 +595,8 @@
  * : energie `.en.eg.I` (BSA)
  * : energ*isch* `.en.eg.i` (BSA)
  * : energet*isch* @?
- * enern<b>*g*</b> `(g)`
-    * : enern<b>*g*</b>ie `(g).I`
+ * ener<b>*g*</b> `(g)`
+    * : ener<b>*g*</b>ie `(g).I`
 * *ent*- `eNT` V
 * -*ent* `eNT` V
 * *er* `er` V
@@ -1967,7 +1967,7 @@
 * mon***at*** `(.at)` E
  * : mon***at****lich* `(.at.L)` E
  * : im.vori*g*~~en~~.mon***at*** `.im (g).at`
- * : *in*.den<b>*n*</b> näch***st***.~~en~~.mon***at***.en `(I)n('st)-at.en` ! `(I)n ('st) (.at).en`
+ * : *in*.de<b>*n*</b> näch***st***.~~en~~.mon***at***.en `(I)n('st)-at.en` ! `(I)n ('st) (.at).en`
 * mono- `m.on` ! `m.on.o` E
 * **mo**nstr `mo`
  * : de**mo**nstrat*ion* `d.e-mo.iO` ~ `d.e-mo-o`
@@ -2458,10 +2458,10 @@
  * -~~sach~~e `(.e)`
     * : neben~~sach~~e `n.eb,(.e)`
     * : *ur*~~sach~~e `UR,(.e)`
- * -~~sach~~en<b>*n*</b> `(n)`
- * -~~sach~~en<b>*n*</b> `(n)`
-    * : **tat**~~sach~~en<b>*n*</b> `ta,(n)`
-    * : *ver**ur*~~sach~~en<b>*n*</b> `E.UR,(n)`
+ * -~~sach~~e<b>*n*</b> `(n)`
+ * -~~sach~~e<b>*n*</b> `(n)`
+    * : **tat**~~sach~~e<b>*n*</b> `ta,(n)`
+    * : *ver**ur*~~sach~~e<b>*n*</b> `E.UR,(n)`
 * **sachs** `sa`
  * : **sachs**en `sa.en`
     * : *nieder***sachs**en `ndr.sa.en` * `ndr-a.en` » `ndr-a`
@@ -2989,9 +2989,9 @@
  * : *techn***isch** `t.en.i` E
     * : *elektr*o*techn***isch** `.el.t.en.i` ! `.el.o-t.en.i` BSA
  * : ter***min***us *techn*icus `(m.in).us,t.en.ik.us` × ter***min***us ~~techn~~~~ic~~us `(m.in).us;us`
- * techn<b>*n*</b> `(n)`
-    * : techn<b>*n*</b>ik `(n).ik`
-    * : techn<b>*n*</b>**isch** `(n).isch`
+ * tech<b>*n*</b> `(n)`
+    * : tech<b>*n*</b>ik `(n).ik`
+    * : tech<b>*n*</b>**isch** `(n).isch`
 * t***eil*** `(.eil)` ! `t.eil` (E)
  * : abt**eil***ung* `.ab.eil-UNG` E
  * : ***nach***t**eil**e `ach.eil.e` E
@@ -3181,7 +3181,7 @@
  * : **da****v**on `da.v` ~ *da***v**on `.a-v` * d**a****v**on `a-v`
  * *vom* `v°` V
 * *vor* `O` V
- * *vor**ig* `O.i` ~ vorin<b>*g*</b> `(g)`
+ * *vor**ig* `O.i` ~ vori<b>*g*</b> `(g)`
  * be*vor* `b.e-O`
  * ***nach***.~~wie~~.*vor* `ach.O` * ***nach***.~~wie~~.v**o**r `ach-o`
 * *wachs* `was` E
