@@ -350,7 +350,7 @@
 * burg `b.ug` (BSA)
  * : **bürg** `b.üg` (BSA)
     * : **bürg**te `b.ügt.e` (BSA)
-    * X `E.b.üg` `b.üg-er` `b.üg-er.L` `b.üg.FT` `b.üg-er.FT` `N.b.üg-er` `m.b.üg-er` ***staat***sbürger `.at.b.üg-er`
+    * X `E.b.üg` `b.üg-er` `b.üg-er.L` `b.üg.FT` `b.üg-er.FT` `N.b.üg-er` `m.b.üg-er` <b>*staat*</b>sbürger `.at.b.üg-er`
  * : **hoch**burg `ho.b.ug` (BSA)
  * ~ **burg** `bu`
     * : **bürg**er `bÜ-er`
@@ -1557,7 +1557,7 @@
     * : *die* be**köst**ig~~ung~~ `I b.e-köst.ig`
  * -*kosten* `ko`
     * : **p**er**s**onal*kosten* `p-s.al.ko` × **p**er~~son~~al*kosten* `p.al.ko`
-    * : ***staat***s*kosten* `.at.ko`
+    * : <b>*staat*</b>s*kosten* `.at.ko`
     * : *ver***sorg**ungs*kosten* `E-s.o,ko`
     * : *ver*walt*ung*s*kosten* `E.wat-UNG.ko` × `UNG.ko`
 * **kraft** `kra` BSA
@@ -2815,19 +2815,19 @@
  * : **kon**stanz `ko.st.az`
  * : *in*stanz `(I)st.az` ! `IN.st.az` (BSA)
     * : X `.est.e IN.st.az`
- * ***stat*** `.at`
-    * : ***staat*** `.at` E
-    * : ***stat***ik `.at.ik` ! `st.at.ik`
-    * : ***stat****ion* `.at.iO`
-    * : ***stat***ist `.at.ist`
+ * <b>*stat*</b> `.at`
+    * : <b>*staat*</b> `.at` E
+    * : <b>*stat*</b>ik `.at.ik` ! `st.at.ik`
+    * : <b>*stat*</b>*ion* `.at.iO`
+    * : <b>*stat*</b>ist `.at.ist`
        * ~~stat~~ist `((I)'st)`
           * : ~~stat~~istik `((I)'st)-ik`
           * : ~~stat~~istisch `((I)'st)-isch` ~ `sta.iS.i`
-    * : ***stat***ue `.at.e` ! `.at.u.e` ~ `sta.u.e`
-    * : ***stat***uier `.at.ir` ! `.at.u.ir` ~ `sta.u.ir`
-    * : ***stat***us `.at.us` ~ `sta.us`
-    * : ***stat***ut `.at.ut` ~ `sta.ut`
-    * : **kon*****stat***ier `ko.at.ir` ~ `ko.sta.ir`
+    * : <b>*stat*</b>ue `.at.e` ! `.at.u.e` ~ `sta.u.e`
+    * : <b>*stat*</b>uier `.at.ir` ! `.at.u.ir` ~ `sta.u.ir`
+    * : <b>*stat*</b>us `.at.us` ~ `sta.us`
+    * : <b>*stat*</b>ut `.at.ut` ~ `sta.ut`
+    * : **kon**<b>*stat*</b>ier `ko.at.ir` ~ `ko.sta.ir`
  * **st**it `st` BSA
     * : *in***st**itut `(I)st.ut` ! `IN.st.ut` (BSA)
        * : X `IN.st.ut.iO`
