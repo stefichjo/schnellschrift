@@ -615,7 +615,7 @@
     * : X `(I)t-er.ant` `UN-(I)t-er.ant` `(I)t-er.ent-en` `.im.(I)t-er` `(I)t-er.l.os.T` `S.(I)t-er.en` = `((S)I)t-er.en`
 * **et**- `.e` BSA
  * : **et**wa `.e-w.a` (BSA)
-    * ~~et~~w***a*** `(.a)`
+    * ~~et~~w<b>*a*</b> `(.a)`
  * : **et****was** `.e-was` ! `.e-w.as` (BSA)
     * ~~et~~w***as*** `(.as)`
 * *europ* `.eu` BSA
@@ -657,7 +657,7 @@
  * : *aus****f****ahr* `.S.fa`
  * : *er****f****ahr* `er.fa` (BSA)
  * : *ge****f****ahr* `G-fa` (BSA)
- * : ***schiff******f****ahrt* `.if-fa-t`
+ * : <b>*schiff*</b>***f****ahrt* `.if-fa-t`
  * : *un**er****f****ahr*en*heit* `UN-er.fa.H` (BSA)
  * : *ver****f****ahr* `E.fa` (BSA)
  * : *zu****f****ahr*t `Z-fa-t`
