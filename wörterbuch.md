@@ -595,8 +595,8 @@
  * : energie `.en.eg.I` (BSA)
  * : energ*isch* `.en.eg.i` (BSA)
  * : energet*isch* @?
- * ener***g*** `(g)`
-    * : ener***g***ie `(g).I`
+ * enern<b>*g*</b> `(g)`
+    * : enern<b>*g*</b>ie `(g).I`
 * *ent*- `eNT` V
 * -*ent* `eNT` V
 * *er* `er` V
@@ -3181,7 +3181,7 @@
  * : **da****v**on `da.v` ~ *da***v**on `.a-v` * d**a****v**on `a-v`
  * *vom* `v°` V
 * *vor* `O` V
- * *vor**ig* `O.i` ~ vori***g*** `(g)`
+ * *vor**ig* `O.i` ~ vorin<b>*g*</b> `(g)`
  * be*vor* `b.e-O`
  * ***nach***.~~wie~~.*vor* `ach.O` * ***nach***.~~wie~~.v**o**r `ach-o`
 * *wachs* `was` E
