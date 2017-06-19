@@ -3477,12 +3477,12 @@
  * : **kon****zil** `ko.il`
 * **zip** `.ip`
  * : **kon****zip**ier `ko.ip.ir`
- * ***z****ept* `z`
-    * : **kon*****z****ept* `ko.z` ~ `ko't`
-    * : re***z****ept* `r.e-z`
-    * : re***z****ept**ion* `r.e-z*` S ! `r.e-z.iO`
+ * <b>*z*</b>*ept* `z`
+    * : **kon**<b>*z*</b>*ept* `ko.z` ~ `ko't`
+    * : re<b>*z*</b>*ept* `r.e-z`
+    * : re<b>*z*</b>*ept**ion* `r.e-z*` S ! `r.e-z.iO`
 * **z**ipl `z` BSA
- * *dis****z****ipl*in `ds.z.in` (BSA) × *dis*~~zipl~~in `ds.in` » `ds`
+ * *dis*<b>*z*</b>*ipl*in `ds.z.in` (BSA) × *dis*~~zipl~~in `ds.in` » `ds`
 * zirk `z.ik`
  * : zirka `z.ik.a`
  * : zirkel `z.ik.l`
@@ -3502,9 +3502,9 @@
  * **z**um `z` V
  * *zur* `zr*` V
 * zug ← zieh
-* ***zweif*** `.eif`
- * : ***zweif***el `.eif.l`
- * : ***zweif***el***los*** `.eif.l.os` > `.eif.os` ~ `.eif-s`
+* <b>*zweif*</b> `.eif`
+ * : <b>*zweif*</b>el `.eif.l`
+ * : <b>*zweif*</b>el***los*** `.eif.l.os` > `.eif.os` ~ `.eif-s`
 * zw***eig*** `(.eig)`
 * **zw**ischen `zw` V
  * *in***zw**ischen `(I)zw`
