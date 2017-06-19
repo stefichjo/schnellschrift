@@ -3346,7 +3346,7 @@
     * : *ver***w**end*ung* `E.w-UNG`
     * **wa**nd `wa` = `w.ad` (E)
        * : wandte `wa-t.e` ! `w.adt.e` (E)
-       * : be**wa**ndt**nis** `b.e-wa-t-is`
+       * : be**wa**ndt<b>*nis*</b> `b.e-wa-t-is`
        * : ein**wa**nd `N.wa`
        * : *ge***wa**ndt `G-wa-t` » `G-wa`
        * : *ver***wa**ndt `E.wa-t` » `E.wa`
@@ -3413,15 +3413,15 @@
  * : **zähl** `z` ! `z.el` (E)
  * : *er***zähl** `er.z` E
 * zahn `za`
-* ***zed*** `.ed`
- * : **kon*****zed***ier `ko.ed.ir`
- * ***zess*** `.ess`
-    * : **kon*****zess****ion* `ko.ess.iO` » `ko.ess`
-    * : pr**o*****zess*** `(o)ess` ~ `(o)z` E
-* ***zeich*** `.eich` ! `z.eich` (E)
- * : ***zeich***en `.eich`
- * : ***zeich***nung `.eich.UNG`
- * : *ver****zeich*****nis** `E.eich.is`
+* <b>*zed*</b> `.ed`
+ * : **kon**<b>*zed*</b>ier `ko.ed.ir`
+ * <b>*zess*</b> `.ess`
+    * : **kon**<b>*zess*</b>*ion* `ko.ess.iO` » `ko.ess`
+    * : pr**o**<b>*zess*</b> `(o)ess` ~ `(o)z` E
+* <b>*zeich*</b> `.eich` ! `z.eich` (E)
+ * : <b>*zeich*</b>en `.eich`
+ * : <b>*zeich*</b>nung `.eich.UNG`
+ * : *ver*<b>*zeich*</b><b>*nis*</b> `E.eich.is`
 * ***zeig*** `.eig`
 * **zeih** `z.ei`
  * : *ver***zeih** `E.z.ei`
@@ -3456,20 +3456,20 @@
 * zettel `z.et.el`
  * -~~zett~~el `(.el)`
     * : merk~~zett~~el `m.ek,(.el)`
-* ***zeug*** `.eug` E
- * : ***f****ahr****zeug*** `fa.eug`
- * : **er*****zeug****niss*e `er.eug.iss.e`
- * : *über****zeug*** `Ü.eug`
- * : ***nach***.m**ein**er.*über****zeug****ung* `ach.m.ei-er-Ü.eug`
+* <b>*zeug*</b> `.eug` E
+ * : ***f****ahr*<b>*zeug*</b> `fa.eug`
+ * : **er**<b>*zeug*</b>*niss*e `er.eug.iss.e`
+ * : *über*<b>*zeug*</b> `Ü.eug`
+ * : ***nach***.m**ein**er.*über*<b>*zeug*</b>*ung* `ach.m.ei-er-Ü.eug`
     * ***nach***.m**ein**er.*über*~~zeug~~*ung* `ach.m.ei-er-Ü`
-* ***zieh*** `.ih` E
- * be***zieh*** `b.e-ih`
- * ***zog*** `.og`
- * ***zög*** `.ög`
-    * : ***zög***er `.ög-er` ! `z.ög-er` (E)
- * ***zug*** `.ug`
-    * : **gr**oß***züg*****ig** `gr.üg.i` * **gr**oßz**ü**g**ig** `gr-Ü.i`
-    * : *vor****züg****lich* `O.üg.L` * *vor*z**ü**g*lich* `O-Ü.L`
+* <b>*zieh*</b> `.ih` E
+ * be<b>*zieh*</b> `b.e-ih`
+ * <b>*zog*</b> `.og`
+ * <b>*zög*</b> `.ög`
+    * : <b>*zög*</b>er `.ög-er` ! `z.ög-er` (E)
+ * <b>*zug*</b> `.ug`
+    * : **gr**oß<b>*züg*</b>**ig** `gr.üg.i` * **gr**oßz**ü**g**ig** `gr-Ü.i`
+    * : *vor*<b>*züg*</b>*lich* `O.üg.L` * *vor*z**ü**g*lich* `O-Ü.L`
 * ***ziel*** `.il`
 * **ziem** `z.i`
  * : **ziem***lich* `z.i-L`
