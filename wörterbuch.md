@@ -62,7 +62,7 @@
 * amt `.amt`
  * : amtier `.amt-ir`
  * -**amt** `.a`
-    * : **haupt****amt***lich* `hau.a.L`
+    * : **haupt**<i></i>**amt** *lich* `hau.a.L`
     * : *patent***amt** `pa°.a`
  * *beamt* `b.e-a`
 * an `.an`
