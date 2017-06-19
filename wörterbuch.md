@@ -680,7 +680,7 @@
     * : *er* ***f****uhr*t `er fu` (BSA)
 * **fall** `fa` BSA
  * : X `fa.ed` `.S.fa` `b.ei-fa` `G-fa` `rÜ.fa` `UN-fa` `zw.fa` `IN.is.fa` `.im.ad-er:fa` `AU.k.ei-en:fa` `v fa Z fa` = `v.fa.z.fa` `Z-fa.br.ing` `b.est-fa-s` `.eb.fa-s` `gl.fa-s` `n.ot.i-fa-s` `W.i-fa-s` `I f.e` `AU.al.f.e` `IN.v.il:f.en` `IN.n m.eist f.en` `f.i` `G-f.i` `UN-G,f.i` `Z-f.i` `schw.er.f.i` `G-f.T` `schw.er.f.T`
- * : **fäll****ig*****keit*** `f.T` (BSA)
+ * : **fäll****ig**<b>*keit*</b> `f.T` (BSA)
  * : **fall**s `fa-s` (BSA)
  * : **k**eines**fall**s `k.fa-s`
  * : *er* **fäll**t `er f` ! `er f-t` BSA
@@ -749,7 +749,7 @@
     * : empfohl `.emp-f.ol` * empf**o**hl `.emp-o` × emp~~fohl~~ `.emp`
 * feier `f.ei-er` (BSA)
  * : `f.ei-erd` `f.ei-ert.e` `f.ei-er.L` `G-f.ei-ert` `f.ei-er.tag` `f.T-tag` `j.ub.l:f.ei-er` (BSA)
- * f***eier*** `(ei-er)`
+ * f<b>*eier*</b> `(ei-er)`
 * feld `f.ed`
 * feind `f.eid` (BSA)
  * : `f.eid.L` (BSA)
@@ -800,7 +800,7 @@
     * : X `.emp-f.id` `.emp-f.id.ed` `.emp-f.ad` `.emp-f.ud` `.empf-f.id.L` `.emp-f.id-sa` `.emp-f.id-UNG.l.os` `.emp-f.id.L.T` `.emp-f.id-sa.T`
  * : **find**er `fi-er`
  * : **find**ig `fi.i`
- * : **find**ig***keit*** `fi.T`
+ * : **find**ig<b>*keit*</b> `fi.T`
  * : **find*****ling*** `fi.ing`
  * : ab**find** `.ab,fi` = `.ab.f.i`
  * : *auf***find** `AU,fi` = `AU.f.i`
@@ -823,10 +823,10 @@
     * : z**u****rück***ge***fund** `u-rÜ.fu`
 * firm `f.im` (BSA)
  * X `f.im.en` `f.im.ir`
- * ***firm*** `im`
-    * : ***firm***a `im.a`
-    * : ***firm***ament `im.a-met` ! `f.im.a-met` > `f.im-met`
-    * : **kon*****firm***at*ion* `ko,im-o` ! `ko.f.im-o`
+ * <b>*firm*</b> `im`
+    * : <b>*firm*</b>a `im.a`
+    * : <b>*firm*</b>ament `im.a-met` ! `f.im.a-met` > `f.im-met`
+    * : **kon**<b>*firm*</b>at*ion* `ko,im-o` ! `ko.f.im-o`
 * **flach** `fla`
 * ***flieg*** `.ig`
  * ***flog*** `.og`
@@ -864,21 +864,21 @@
  * : formulier `f.om.ul.ir` (E)
  * : formung `f.om-UNG` (BSA)
  * : *in*format*ion* `(I)f.om-o` ! `(I)f.om.iO` (E)
- * ***form*** `.om`
-    * : ***form***at `.om.at`
-    * : ***form***at*ion* `.om-o`
-    * : ***form***el `.om.l`
-    * : ***form***ulier `.om.ul.ir`
-    * : *in****form***at*ion* `(I)om-o`
-    * : *in****form***atik `(I)om.ik`
-    * : **kon*****form*** `ko.om`
-    * : **kon*****form***ität `ko.om.ät`
-    * : re***form*** `r.e-om`
-    * : re***form***ier `r.e-om.ir`
-    * : re***form***at*ion* `r.e-om-o`
-    * : re***form***ator**isch** `r.e-om.or.i`
-    * : **trans*****form***ator `tra.om.or`
-    * : uni***form*** `.un.om`
+ * <b>*form*</b> `.om`
+    * : <b>*form*</b>at `.om.at`
+    * : <b>*form*</b>at*ion* `.om-o`
+    * : <b>*form*</b>el `.om.l`
+    * : <b>*form*</b>ulier `.om.ul.ir`
+    * : *in*<b>*form*</b>at*ion* `(I)om-o`
+    * : *in*<b>*form*</b>atik `(I)om.ik`
+    * : **kon**<b>*form*</b> `ko.om`
+    * : **kon**<b>*form*</b>ität `ko.om.ät`
+    * : re<b>*form*</b> `r.e-om`
+    * : re<b>*form*</b>ier `r.e-om.ir`
+    * : re<b>*form*</b>at*ion* `r.e-om-o`
+    * : re<b>*form*</b>ator**isch** `r.e-om.or.i`
+    * : **trans**<b>*form*</b>ator `tra.om.or`
+    * : uni<b>*form*</b> `.un.om`
 * forsch `f.osch` (BSA)
  * : X `f.osch.er` `er.f.osch` `I ach.f.osch.en`
 * **frag** `fra` BSA
@@ -1467,7 +1467,7 @@
     * : X `.äuf.e` `.äuf-er` `E.äuf-er` `UN-E.äuf.L`
     * : *ver****käuf***erin `E.äuf-er.in` (BSA)
 * **kaum** `kau`
-* -***keit*** `T` V
+* -<b>*keit*</b> `T` V
 * **kenn** `k` = `k.e`
  * : an*er***kenn** `.an.er.k` × an*er*~~kenn~~ `.an.er`
  * : **er****kenn**t*nis* `er.k.is`
