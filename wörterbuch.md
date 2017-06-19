@@ -419,8 +419,8 @@
 * dens `des`
  * : **kon**densier `ko.des.ir`
  * : **kon**densat `ko.des.at`
-* de***r*** `(r)` V
- * : *aus*.de**r** `.S-er`
+* de<b>*r*</b> `(r)` V
+ * : *aus*.de<b>*r*</b> `.S-er`
 * d***es*** `(.es)` V
 * *desto* `d.est` BSA
 * **deut** `deu`
@@ -1913,8 +1913,8 @@
  * : pr**o****min***ent* `(o)mi.ent` » `(o)mi`
  * *minist* `mi`
     * : *minist*er `mi-er` ! `mi.er` E
-    * .~~minist~~e***r*** `(r)`
-       * : de**r**.~~minist~~e***r*** `(r),(r)`
+    * .~~minist~~e<b>*r*</b> `(r)`
+       * : de**r**.~~minist~~e<b>*r*</b> `(r),(r)`
     * : *minist*er*ial* `mi-er.iaL` > `mi.iaL` E
     * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
     * : *minist*erium `mi-er.I.um` > `mi.um` E
@@ -2646,7 +2646,7 @@
  * : *selb*st `l.st`
     * *selbst* `'st` V
  * : *die**selb*en `I.l.en` E
- * : de***r****selb*e `(r).l.e` E
+ * : de<b>*r*</b>*selb*e `(r).l.e` E
 * selt `set`
  * : selten `set-en` (E)
 * *senat* `s.at`
