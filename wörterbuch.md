@@ -1641,7 +1641,7 @@
     * : *ge**länd*er `G-l-er` ! `G-l.ed-er`
 * <b>*lang*</b> `ang` BSA
  * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `(.at.ang)` `st.ud.ang` `w.och.ang` `s.T-ang`
- * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un**zu****gäng****lich* `UN-z.eng.L`
+ * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un*<i></i>*zu*<b>*gäng*</b>*lich* `UN-z.eng.L`
  * : <b>*läng*</b>er `eng-er` ~ `NGR`
 * l<b>*ass*</b> `(.ass)` ! <b>*lass*</b> `ass`
  * : *aus*.anl<b>*ass*</b> `.S.an.ass`
@@ -1653,7 +1653,7 @@
     * : l<b>*äss*</b>**ig** `(.ess.i)` ! `l.ess.i`
     * : anl<b>*äss*</b>*lich* `.an.ess.L` × an~~läss~~*lich* `.an.L`
     * : <b>*f*</b>*ahr*l<b>*äss*</b>**ig** `fa.ess.i` ! `fa.l.ess.i`
-    * : *ver****ach***l<b>*äss*</b>**ig** `E.ach.ess.i`
+    * : *ver*<b>*nach*</b>l<b>*äss*</b>**ig** `E.ach.ess.i`
  * l<b>*ieß*</b> `((I)ss)` ! `l.iss`
     * : *hinter*l<b>*ieß*</b> `(I)t-er.iss`
 * last ← lad
@@ -1667,7 +1667,7 @@
        * : *relativ* `ret-iv`
 * laub `l.aub`
  * : *er*laub `er.l.aub` * *er*l**au**b `er-au`
- * : urlaub `UR.l.aub` * ur*l****au****b* `UR-au` = `UR,au`
+ * : urlaub `UR.l.aub` * ur*l*<b>*au*</b>*b* `UR-au` = `UR,au`
 * <b>*lauf*</b> `.auf`
  * <b>*läuf*</b> `.äuf`
     * : *ge*<b>*läuf*</b>**ig** `G-äuf.i`
@@ -1959,10 +1959,10 @@
 * mod `m.od`
  * modell `m.od.ell` ~ `m.o-ell`
  * modern `m.od-er`
-* ***mög*** `.ög` E
- * : ***mög****lich* `.ög.L` × ~~mög~~*lich* `(L)` E
- * ***mag*** `.ag` E
- * ***mocht*** `.ocht` E
+* <b>*mög*</b> `.ög` E
+ * : <b>*mög*</b>*lich* `.ög.L` × ~~mög~~*lich* `(L)` E
+ * <b>*mag*</b> `.ag` E
+ * <b>*mocht*</b> `.ocht` E
  * *macht* `aCHT`
 * mon<b>*at*</b> `(.at)` E
  * : mon<b>*at*</b>*lich* `(.at.L)` E
@@ -2025,8 +2025,8 @@
  * : <b>*näm*</b>*lich* `.äm.L`
  * ~~nam~~en<b>*t*</b> `('t)`
 * ~~nat~~*ion* `((I)O)`
- * *natio****nal*** `(n.al)`
-    * *inter**natio****nal*** `(I)t-er.n.al` * `(I)t-er-a`
+ * natio<b>*nal*</b> `(n.al)`
+    * *inter*natio<b>*nal*</b> `(I)t-er.n.al` * `(I)t-er-a`
 * ~~nat~~ur `(UR)` E
  * ~~nat~~*ür* `(YR).L` E
 * n<b>*aut*</b> `(.aut)` ! `n.aut`
@@ -2426,7 +2426,7 @@
 * **richt** `ri`
  * : **richt**en `ri` ! `r.icht` E
  * : **richt**<i></i>**ig** `ri.i` E
- * : amts*ge****richt*** `.amt,G,ri` * amts*ge*r**i**cht `.amt,G,i` < `.amt,i`
+ * : amts*ge***richt** `.amt,G,ri` * amts*ge*r**i**cht `.amt,G,i` < `.amt,i`
  * : *ge***richt** `G,ri` * *ge*r**i**cht `G,i`
  * : *ge***richt***lich* `G,ri.L` * *ge*r**i**cht*lich* `G,i-L` ~ `G-((I)L)`@
  * : *in*.*dies*.er.**richt**ung `(I)iS-er,ri` ! `IN.iS.er,ri` E
