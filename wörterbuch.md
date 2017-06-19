@@ -400,10 +400,10 @@
  * : *mit*.de<b>*m*</b> `M.m` ~ `MM` P
 * **dem** `d` BSA
  * : demokrat ← krat
-* de***n*** `(n)` V
- * : *in*.de***n*** `(I)n`
- * : *mit*.de***n*** `M.n` ~ `MN` P (3-stufiges M)
- * : **v**on.de***n*** `v.n` ~ `VN` P (3-stufiges N)
+* den<b>*n*</b> `(n)` V
+ * : *in*.den<b>*n*</b> `(I)n`
+ * : *mit*.den<b>*n*</b> `M.n` ~ `MN` P (3-stufiges M)
+ * : **v**on.den<b>*n*</b> `v.n` ~ `VN` P (3-stufiges N)
 * denk `d.ek` (BSA)
  * X `d.ek.ed` `d.ek-er` `UN-d.ek.bar` `ach.d.ek.L`
  * dacht `d.acht` (BSA)
@@ -1967,7 +1967,7 @@
 * mon***at*** `(.at)` E
  * : mon***at****lich* `(.at.L)` E
  * : im.vori*g*~~en~~.mon***at*** `.im (g).at`
- * : *in*.de***n*** näch***st***.~~en~~.mon***at***.en `(I)n('st)-at.en` ! `(I)n ('st) (.at).en`
+ * : *in*.den<b>*n*</b> näch***st***.~~en~~.mon***at***.en `(I)n('st)-at.en` ! `(I)n ('st) (.at).en`
 * mono- `m.on` ! `m.on.o` E
 * **mo**nstr `mo`
  * : de**mo**nstrat*ion* `d.e-mo.iO` ~ `d.e-mo-o`
@@ -2458,10 +2458,10 @@
  * -~~sach~~e `(.e)`
     * : neben~~sach~~e `n.eb,(.e)`
     * : *ur*~~sach~~e `UR,(.e)`
- * -~~sach~~e***n*** `(n)`
- * -~~sach~~e***n*** `(n)`
-    * : **tat**~~sach~~e***n*** `ta,(n)`
-    * : *ver**ur*~~sach~~e***n*** `E.UR,(n)`
+ * -~~sach~~en<b>*n*</b> `(n)`
+ * -~~sach~~en<b>*n*</b> `(n)`
+    * : **tat**~~sach~~en<b>*n*</b> `ta,(n)`
+    * : *ver**ur*~~sach~~en<b>*n*</b> `E.UR,(n)`
 * **sachs** `sa`
  * : **sachs**en `sa.en`
     * : *nieder***sachs**en `ndr.sa.en` * `ndr-a.en` » `ndr-a`
@@ -2989,9 +2989,9 @@
  * : *techn***isch** `t.en.i` E
     * : *elektr*o*techn***isch** `.el.t.en.i` ! `.el.o-t.en.i` BSA
  * : ter***min***us *techn*icus `(m.in).us,t.en.ik.us` × ter***min***us ~~techn~~~~ic~~us `(m.in).us;us`
- * tech***n*** `(n)`
-    * : tech***n***ik `(n).ik`
-    * : tech***n*****isch** `(n).isch`
+ * techn<b>*n*</b> `(n)`
+    * : techn<b>*n*</b>ik `(n).ik`
+    * : techn<b>*n*</b>**isch** `(n).isch`
 * t***eil*** `(.eil)` ! `t.eil` (E)
  * : abt**eil***ung* `.ab.eil-UNG` E
  * : ***nach***t**eil**e `ach.eil.e` E
