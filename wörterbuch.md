@@ -617,7 +617,7 @@
  * : **et**wa `.e-w.a` (BSA)
     * ~~et~~w<b>*a*</b> `(.a)`
  * : **et****was** `.e-was` ! `.e-w.as` (BSA)
-    * ~~et~~w***as*** `(.as)`
+    * ~~et~~w<b>*a*</b>s `(.a)s`
 * *europ* `.eu` BSA
  * : *europ*a `.eu.a` (BSA)
  * : *europ*as `.eu.as` (BSA)
@@ -702,11 +702,11 @@
  * : empf<b>*ang*</b> `.emp.ang` * empf**a**ng `.emp-a`
  * : einf<b>*ang*</b> `N.ang`
  * : umf<b>*ang*</b> `.um:ang` ~ `.um.fa`
- * f***äng*** `(.eng)` ! `f.eng`
-    * : anf***äng***er `.an.eng-er` ~ `.an.f-er`
-    * : empf***äng*** `.emp.eng` * empf**ä**ng `.emp`
-    * : *ge*f***äng***<b>*nis*</b> `G-eng.is` ~ `G-f.is`
-    * : *ver*f***äng****lich* `E.eng.L`
+ * f<b>*äng*</b> `(.eng)` ! `f.eng`
+    * : anf<b>*äng*</b>er `.an.eng-er` ~ `.an.f-er`
+    * : empf<b>*äng*</b> `.emp.eng` * empf**ä**ng `.emp`
+    * : *ge*f<b>*äng*</b><b>*nis*</b> `G-eng.is` ~ `G-f.is`
+    * : *ver*f<b>*äng*</b>*lich* `E.eng.L`
  * f<b>*ing*</b> `((I)ng)` ! `f.ing`
     * : empf<b>*ing*</b> `.emp.ing` * empf**i**ng `.emp-i`
 * fantas `f.at.as` (BSA)
@@ -1187,11 +1187,11 @@
 * handel ← hand
 * ***harr*** `arr`
  * : be***harr****lich*k**eit** `b.e-arr.T`
-* h***äng*** `(.eng)` ! `h.eng`
- * : abh***äng*****ig** `ab.eng.i`
- * : anh***äng***er `.an.eng-er`
- * : anh***äng*****ig** `.an.eng.i`
- * : *un*abh***äng*****ig** `UN-ab.eng.i` × *un*ab~~häng~~**ig** `UN-ab.i`
+* h<b>*äng*</b> `(.eng)` ! `h.eng`
+ * : abh<b>*äng*</b>**ig** `ab.eng.i`
+ * : anh<b>*äng*</b>er `.an.eng-er`
+ * : anh<b>*äng*</b>**ig** `.an.eng.i`
+ * : *un*abh<b>*äng*</b>**ig** `UN-ab.eng.i` × *un*ab~~häng~~**ig** `UN-ab.i`
  * h<b>*ing*</b> `((I)ng)` ! `h.ing`
  * h<b>*ang*</b> `(.ang)` ! `h.ang`
     * : abh<b>*ang*</b> `.ab.ang`
