@@ -279,14 +279,14 @@
 * **bi**s `bi` V
 * bist ← sein
 * bitt `b.it` S
- * ~ ***bitt*** `.it` BSA
-    * : ***bitt***end `.it.ed` (BSA)
-    * : *für****bitt***e `f.it.e` (BSA)
-    * : *un**er****bitt****lich* `UN.er.it.L` (BSA)
-    * : *die* ***bitt***e `I .it.e` (BSA)
+ * ~ <b>*bitt*</b> `.it` BSA
+    * : <b>*bitt*</b>end `.it.ed` (BSA)
+    * : *für*<b>*bitt*</b>e `f.it.e` (BSA)
+    * : *un**er*<b>*bitt*</b>*lich* `UN.er.it.L` (BSA)
+    * : *die* <b>*bitt*</b>e `I .it.e` (BSA)
     * : *ich* ***bitte***.sie `I .it.sI` (BSA)
     * : *mit*.*der*.***bitte*** `M-r.it.e` (BSA)
-    * .***bitt***. `.it` S (BSA)
+    * .<b>*bitt*</b>. `.it` S (BSA)
        * : *ich*.bitte.sie `I.it.sI` (BSA)
  * bat `b.at` (BSA)
  * bet `b.et` (BSA)
