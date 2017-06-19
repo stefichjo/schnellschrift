@@ -193,7 +193,7 @@
  * <b>*bei*</b>- `.ei`
  * -<b>*bei*</b> `.ei`
     * : **h**er<b>*bei*</b> `h.ei`
-* ***beid*** `.eid` ! beid `b.eid` (BSA)
+* <b>*beid*</b> `.eid` ! beid `b.eid` (BSA)
  * X `b.eid.e` `b.eid-er.s.Ts` `b.eid-er.l.ei` `v.b.eid.s.T-en`
 * berg `b.eg` (BSA)
  * berge `b.eg.e` (BSA)
@@ -236,27 +236,27 @@
  * : **bild**end `bi.ed` (BSA)
  * : **bild**er `bi-er` ! `bi.er` BSA
  * : **bild**et `bi.et` BSA
- * : **bild***lich* `bi.L` (BSA)
-    * : *vor***bild***lich* `O,bi.L` (BSA)
+ * : **bild**<i></i>*lich* `bi.L` (BSA)
+    * : *vor*<i></i>**bild**<i></i>*lich* `O,bi.L` (BSA)
  * : **bild**ner `bi-er` ! `bi.n.er` BSA ≠ **bild**er `bi-er` ! `bi.er`
- * : **bild***nis* `bi.is` (BSA)
- * : **bild***ung* `bi-UNG`
+ * : **bild**<i></i>*nis* `bi.is` (BSA)
+ * : **bild**<i></i>*ung* `bi-UNG`
     * ! *bildung* `bi.UNG` BSA
        * : *vor**bildung* `O,bi.UNG` (BSA)
- * : *aus***bild** `.S,bi` (BSA)
- * : *aus**ge***bild**et `.S,bi.et` (BSA)
- * : *ge***bild**e `G,bi.e` (BSA)
- * : *ge***bild**et `G,bi.et` (BSA)
- * : *un**ge***bild**et `UN.G,bi.et` (BSA)
- * : *vor***bild** `O,bi` (BSA)
- * : *die* *fort***bild***ung* `I fr,bi` (BSA)
- * : *die* neu**bild***ung* `I n.eu,bi` (BSA)
+ * : *aus*<i></i>**bild** `.S,bi` (BSA)
+ * : *aus**ge*<i></i>**bild**et `.S,bi.et` (BSA)
+ * : *ge*<i></i>**bild**e `G,bi.e` (BSA)
+ * : *ge*<i></i>**bild**et `G,bi.et` (BSA)
+ * : *un*<i></i>*ge*<i></i>**bild**et `UN.G,bi.et` (BSA)
+ * : *vor*<i></i>**bild** `O,bi` (BSA)
+ * : *die* *fort*<i></i>**bild**<i></i>*ung* `I fr,bi` (BSA)
+ * : *die* neu**bild**<i></i>*ung* `I n.eu,bi` (BSA)
 * **bill** `bi`
  * : **bill**<i></i>**ig** `bi.i`
 * bin ← sein
 * **bind** `bi`
- * : *in*.*ver***bind***ung*.*mit* `(I)E,bi:M` × *in*.*ver*~~bind~~<i></i>~~ung~~.*mit* `(I)E.M`
- * : *in*.*ver***bind***ung*.**setz**en `(I)E,bi.s` × *in*.*ver*~~bind~~<i></i>~~ung~~.**setz**en `(I)E.s`
+ * : *in*.*ver*<i></i>**bind**<i></i>*ung*.*mit* `(I)E,bi:M` × *in*.*ver*~~bind~~<i></i>~~ung~~.*mit* `(I)E.M`
+ * : *in*.*ver*<i></i>**bind*<i></i>**ung*.**setz**en `(I)E,bi.s` × *in*.*ver*~~bind~~<i></i>~~ung~~.**setz**en `(I)E.s`
  * ! bind `b.id` (BSA)
     * : bindend `b.id.ed` (BSA)
     * : binder `b.id-er` (BSA)
@@ -284,7 +284,7 @@
     * : *für*<b>*bitt*</b>e `f.it.e` (BSA)
     * : *un**er*<b>*bitt*</b>*lich* `UN.er.it.L` (BSA)
     * : *die* <b>*bitt*</b>e `I .it.e` (BSA)
-    * : *ich* ***bitte***.sie `I .it.sI` (BSA)
+    * : *ich* <b>*bitte*</b>.sie `I .it.sI` (BSA)
     * : *mit*.*der*.***bitte*** `M-r.it.e` (BSA)
     * .<b>*bitt*</b>. `.it` S (BSA)
        * : *ich*.bitte.sie `I.it.sI` (BSA)
@@ -295,10 +295,10 @@
 * **blatt** `bla`
 * **bleib** `bl.ei`
  * **blieb** `bl.i`
-* ***blick*** `.ik`  BSA
+* <b>*blick*</b> `.ik`  BSA
  : X `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik` `.aug.ik` `.aug.ik.L`
-* ***boot*** `.ot`
-* ***bloß*** `.oss`
+* <b>*boot*</b> `.ot`
+* <b>*bloß*</b> `.oss`
 * **blut** `blu`
  * **blüt** `blü`
     * : **heiß**<i></i>**blüt**<i></i>**ig** `h.ei,blü.i` * **heiß**bl**ü**t**ig** `h.ei-Ü.i` ! `h.eiss-Ü.i`
@@ -311,8 +311,8 @@
 * **brau** `brau`
 * **brauch** `brau` BSA
  * X `brau-t.e` `brau.bar` `brau.bar.T` `G-brau` `G-brau.eil` `ms.brau` `ms.brau.ei` `E.brau` `E.brau.er` `E.brau.er.FT`
- * : *ge***bräuch***lich* `G-bräu.L`
- * : *ver***brauch** `(E)brau` E * *ver*br**au**ch `E-au`
+ * : *ge*<i></i>**bräuch**<i></i>*lich* `G-bräu.L`
+ * : *ver*<i></i>**brauch** `(E)brau` E * *ver*br**au**ch `E-au`
 * **brech** `br`
  * **brich** `bri`
  * **brach** `bra`
@@ -324,19 +324,19 @@
 * **brief** `bri`
 * **bring** `bri`
  * : an**bring** `.an,bri` ~ `.an.ing`
- * : *aus***bring** `.S,bri` ~ `.S.ing`
+ * : *aus*<i></i>**bring** `.S,bri` ~ `.S.ing`
  * : bei**bring** `b.ei,bri` ~ `b.ei-ing`
- * : *er***bring** `er,bri`
- * : *über***bring** `Ü,bri` ~ `Ü.ing`
- * : *un**wieder***bring***lich* `UN-W,bri.L` ~ `UN-W.ing.L`
- * : *ver***bring** `E,bri` ~ `E.ing`
+ * : *er*<i></i>**bring** `er,bri`
+ * : *über*<i></i>**bring** `Ü,bri` ~ `Ü.ing`
+ * : *un*<i></i>*wieder*<i></i>**bring**<i></i>*lich* `UN-W,bri.L` ~ `UN-W.ing.L`
+ * : *ver*<i></i>**bring** `E,bri` ~ `E.ing`
  * **bracht** `bra`
-    * : an*ge***bracht** `(.an)bra`
-    * : bei*ge***bracht** `(b.ei)bra`
-    * : *er***bracht** `(er)bra`
-    * : *über***bracht** `Ü.bra`
-    * : *un*an*ge***bracht** `UN-an.bra`
-    * : *ver***bracht** `(E)bra`
+    * : an*ge*<i></i>**bracht** `(.an)bra`
+    * : bei*ge*<i></i>**bracht** `(b.ei)bra`
+    * : *er*<i></i>**bracht** `(er)bra`
+    * : *über*<i></i>**bracht** `Ü.bra`
+    * : *un*an*ge*<i></i>**bracht** `UN-an.bra`
+    * : *ver*<i></i>**bracht** `(E)bra`
  * **brächt** `brä`
 * **buch** `bu`
  * : **büch**er `bÜ-er`
@@ -389,8 +389,8 @@
  * : **dat**ier `da.ir`
  * : **dat**ei `da.ei`
  * **dit** `di`
-    * : **kon**<i></i>**dit***ion* `ko,di-o`
-    * : **kon**<i></i>**dit***ional* `ko,di-iaL`
+    * : **kon**<i></i>**dit**<i></i>*ion* `ko,di-o`
+    * : **kon**<i></i>**dit**<i></i>*ional* `ko,di-iaL`
 * <b>*d*</b>*auer* `dau` BSA
  * X `dau.d` `dau-t.e` `dau.ha` `AU.I.dau` `.an.dau.d` `b.e-dau` `Z-m.ei-em:b.e-dau` `Z-U°.b.e-dau` `G-dau`
  * : *ge*<b>*d*</b>*auer*t `G-dau-t` » `G-dau` E
@@ -412,7 +412,7 @@
  * dank `d.ak` BSA
     * X `d.ak.ed` `UN-d.ak` `M.b.est-d.ak` `G-d.ak.e` `G-d.ak.l.os` `gru.G-d.ak.e`
     * : dank**bar** `d.ak.bar` (BSA)
-       * : dank**bar***keit* `d.ak.bar.T` (BSA)
+       * : dank**bar**<i></i>*keit* `d.ak.bar.T` (BSA)
        * : **sehr**.dank**bar** `s.d.ak.bar` (BSA)
        * × ~~dank~~**bar** `(bar)`
           * : **sehr**.~~dank~~**bar** `s.bar`
@@ -434,15 +434,15 @@
 * **dien** `di` BSA
  * X `di.ed` `di-t.e` `di.bar.T`
  * : **dien**er `di-er` ! `di.er` BSA
- * : **dien***lich* `di.L` ! `d.in.L` BSA ≠ **dienst***lich*
+ * : **dien**<i></i>*lich* `di.L` ! `d.in.L` BSA ≠ **dienst**<i></i>*lich*
  * : be**dien** `b.e,di` ! `b,di` BSA
- * : *ver***dien** `E,di` (BSA) @: `b,di.et`
- * : zweck**dien***lich* `zw.ek,di.L` (BSA)
+ * : *ver*<i></i>**dien** `E,di` (BSA) @: `b,di.et`
+ * : zweck**dien**<i></i>*lich* `zw.ek,di.L` (BSA)
  * **dienst** `di` BSA
-    * : *außen***dienst** `.auss,di`
-    * : **dienst***lich* `di.L` (BSA)
-    * : *inner***dienst***lich* `.i:di.L` ! `.in:di.L`
-    * : *ver***dienst** `E,di` (BSA)
+    * : *außen*<i></i>**dienst** `.auss,di`
+    * : **dienst**<i></i>*lich* `di.L` (BSA)
+    * : *inner*<i></i>**dienst**<i></i>*lich* `.i:di.L` ! `.in:di.L`
+    * : *ver*<i></i>**dienst** `E,di` (BSA)
     * : *außer*.**dienst** `.auss,di`
 * *dies* `.iS` V
  * *dies*em `.iS.em`
