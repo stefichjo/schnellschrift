@@ -2536,8 +2536,8 @@
  * : besch<b>*ein*</b>ig `b.e-N.i`
  * : *er*sch<b>*ein*</b> `er.N` ~ `er.(N)`
  * : **wa**hrsch<b>*ein*</b>*lich* `wa.N.L`
- * sch***ien*** `((I)n)`
-    * : *er*sch***ien*** `er.in`
+ * sch<b>*ien*</b> `((I)n)`
+    * : *er*sch<b>*ien*</b> `er.in`
 * schicht ← scheh
 * ***schick*** `.ik`
 * schirm `sch.im`
@@ -2549,8 +2549,8 @@
  * **schlacht** `schla`
 * schn<b>*eid*</b> `(.eid)` ! `schn.eid`
  * : schn<b>*eid*</b>er `(.eid)-er` | `.eid-er`
- * schn***itt*** `((I)t)` ! `schn.itt`
-    * : abschn***itt*** `.ab.it`
+ * schn<b>*itt*</b> `((I)t)` ! `schn.itt`
+    * : abschn<b>*itt*</b> `.ab.it`
 * **schnell** `schn`
 * **schlecht** `schl`
 * ***schließ*** `.iss` E
@@ -2910,7 +2910,7 @@
     * : **haupt**~~straß~~e `hau,(.e)`
     * : milch~~straß~~e `m.ich,(.e)`
 * str***eit*** `(T)`
- * str***itt*** `((I)t)`
+ * str<b>*itt*</b> `((I)t)`
 * string `str.ing`
  * : stringent `str.ing.ent`
  * strikt `str.ikt`
