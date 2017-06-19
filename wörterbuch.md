@@ -897,7 +897,7 @@
 * ***fried*** `.id`
  * : *un**zu****fried***en `UN-z.id.en` » `UN-z.id`
 * ***frist*** `.ist`
- * : ***lang******frist*****ig** `ang.ist-ig` × ***lang***~~frist~~**ig** `.ang.i`
+ * : <b>*lang*</b>***frist*****ig** `ang.ist-ig` × <b>*lang*</b>~~frist~~**ig** `.ang.i`
 * **froh** `fro`
  * : **fröh** `frö`
     * : **fröh***lich* `frö.L`
@@ -1639,23 +1639,23 @@
     * : *aus***lä**nd*isch* `.S.l.i`
     * : *ge**länd*e `G-l.e` ! `G-l.ed.e`
     * : *ge**länd*er `G-l-er` ! `G-l.ed-er`
-* ***lang*** `ang` BSA
+* <b>*lang*</b> `ang` BSA
  * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `(.at.ang)` `st.ud.ang` `w.och.ang` `s.T-ang`
  * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un**zu****gäng****lich* `UN-z.eng.L`
- * : ***läng***er `eng-er` ~ `NGR`
-* l<b>*ass*</b> `.ass`
+ * : <b>*läng*</b>er `eng-er` ~ `NGR`
+* l<b>*ass*</b> `(.ass)`
  * : *aus*.anl<b>*ass*</b> `.S.an.ass`
     * *aus*.an~~lass~~ `.S.an`
  * : *hinter*l<b>*ass*</b> `(I)t-er.ass`
  * : *ver*anl<b>*ass*</b> `E.an.ass`
     * *ver*an~~lass~~ `E.an`
- * l***äss*** `(.ess)` ! `l.ess`
-    * : l***äss*****ig** `(.ess.i)` ! `l.ess.i`
-    * : anl***äss****lich* `.an.ess.L` × an~~läss~~*lich* `.an.L`
-    * : ***f****ahr*l***äss*****ig** `fa.ess.i` ! `fa.l.ess.i`
-    * : *ver****ach***l***äss*****ig** `E.ach.ess.i`
- * l***ieß*** `((I)ss)` ! `l.iss`
-    * : *hinter*l***ieß*** `(I)t-er.iss`
+ * l<b>*äss*</b> `(.ess)` ! `l.ess`
+    * : l<b>*äss*</b>**ig** `(.ess.i)` ! `l.ess.i`
+    * : anl<b>*äss*</b>*lich* `.an.ess.L` × an~~läss~~*lich* `.an.L`
+    * : ***f****ahr*l<b>*äss*</b>**ig** `fa.ess.i` ! `fa.l.ess.i`
+    * : *ver****ach***l<b>*äss*</b>**ig** `E.ach.ess.i`
+ * l<b>*ieß*</b> `((I)ss)` ! `l.iss`
+    * : *hinter*l<b>*ieß*</b> `(I)t-er.iss`
 * last ← lad
 * lat l.at
  * : lateral `l.at-er.al`
@@ -1668,12 +1668,12 @@
 * laub `l.aub`
  * : *er*laub `er.l.aub` * *er*l**au**b `er-au`
  * : urlaub `UR.l.aub` * ur*l****au****b* `UR-au` = `UR,au`
-* ***lauf*** `.auf`
- * ***läuf*** `.äuf`
-    * : *ge****läuf*****ig** `G-äuf.i`
-    * : *vor****läuf*****ig** `O.äuf.i` * *vor*l**äu**f**ig** `O,eu`
-* l***aut*** `(.aut)` ! `l.aut`
- * : l***aut***er `(.aut)-er` ! `l.aut-er`
+* <b>*lauf*</b> `.auf`
+ * <b>*läuf*</b> `.äuf`
+    * : *ge*<b>*läuf*</b>**ig** `G-äuf.i`
+    * : *vor*<b>*läuf*</b>**ig** `O.äuf.i` * *vor*l**äu**f**ig** `O,eu`
+* l<b>*aut*</b> `(.aut)` ! `l.aut`
+ * : l<b>*aut*</b>er `(.aut)-er` ! `l.aut-er`
  * l***äut*** `(.äut)`
     * : **er**l***äut***er `er.äut-er`
     * ! läut `l.äut` (BSA)
@@ -2029,11 +2029,11 @@
     * *inter**natio****nal*** `(I)t-er.n.al` * `(I)t-er-a`
 * ~~nat~~ur `(UR)` E
  * ~~nat~~*ür* `(YR).L` E
-* n***aut*** `(.aut)` ! `n.aut`
- * : n***aut***ik `.aut.ik` ! `n.aut.ik`
- * : aeron***aut***ik `.er.aut.ik` ! `.er.o-n.aut.ik` ~ `.er.o-n.ik`
- * : astron***aut*** `.a-str.aut`
- * : kosmon***aut*** `k.osm.aut`
+* n<b>*aut*</b> `(.aut)` ! `n.aut`
+ * : n<b>*aut*</b>ik `.aut.ik` ! `n.aut.ik`
+ * : aeron<b>*aut*</b>ik `.er.aut.ik` ! `.er.o-n.aut.ik` ~ `.er.o-n.ik`
+ * : astron<b>*aut*</b> `.a-str.aut`
+ * : kosmon<b>*aut*</b> `k.osm.aut`
 * neg `n.eg`
  * : negier `n.eg.ir`
  * : negat*ion* `n.eg.iO`
