@@ -993,14 +993,14 @@
 * *ge*- `G` V
  * *unge*- `UN.G`
 @ `(.eb)` `(.ab)` `(.äb)` `(.ib)`
-* ***geb*** `.eb` ! `g.eb` ~ `g` BSA
+* <b>*geb*</b> `.eb` ! `g.eb` ~ `g` BSA
  * : X `.ab.g` `b.e-g.H` `er.g` `er.g+st` `E.g-s` `E.g.L` `Z-rÜ.g` `(n) .S.schl.ag.g` `ass.g.L` `k.ent-is.g` `.an.g.eb-er` `.ab.T-g.eb-er` `G.g.eb-er` `I G.g` `(.ab)` = `.ab` `.ab.e` `AU.ab.e` `.S.ab.e` `b.e-ab-UNG` `.ibt` `er.ibt` `ach.ib.T` `.äb.e`
- * : ***geb***er `.eb-er` ! `g.eb-er`
- * : arb<b>*eit*</b>***geb***er `(T)-eb-er` ~ `(T)-g-er` » `(T)-g`
+ * : <b>*geb*</b>er `.eb-er` ! `g.eb-er`
+ * : arb<b>*eit*</b><b>*geb*</b>er `(T)-eb-er` ~ `(T)-g-er` » `(T)-g`
  * ***gab*** `.ab` E
     * : *auf****gab***e `AU.ab.e` × *auf*~~gab~~e `AU.e`
- * ***gäb*** `.äb` E
-    * ***gang***.~~und~~.***gäb***e `ang.äb.e`
+ * <b>*gäb*</b> `.äb` E
+    * ***gang***.~~und~~.<b>*gäb*</b>e `ang.äb.e`
  * ***gib*** `.ib` E
 * gefahr ← fahr
 * geg `g.eg`
