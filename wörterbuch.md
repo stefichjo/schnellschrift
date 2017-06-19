@@ -1384,16 +1384,16 @@
  * : **halb****jahr** `ha.ja` ! `h.ab.ja` E ~ `h.ab.ar`
  * : **jahr**.~~für~~.**jahr** `ja.ja`
  * : *vor***jahr** `(O)ja` (BSA)
- * .***jahr***. `.ar`
-    * : *in*.~~den~~.*letzt*en.***jahr***en `(I)let-ar.en`
-    * : *in*.**ein**er.reihe.~~von~~.***jahr***en `(I)ei-er.r.eih.ar.en` ! `IN.ei-er-r.eih.ar.en`
-    * : im.***jahr***e `.im.ar.e`
-    * : im.*letzt*en.***jahr*** `.im.let-ar`
-    * : im.näch**st**en.***jahr*** `.im('st)-ar`
-    * : im.*ver*~~gang~~enen***jahr*** `.im.E.ar`
-    * : im.*vor****jahr*** `.im-o.ar`
-    * : im.vori*g*en.***jahr*** `.im (g).ar`
-    * : *in*.*dies*em.***jahr*** `(I)iS.ar`
+ * .<b>*jahr*</b>. `.ar`
+    * : *in*.~~den~~.*letzt*en.<b>*jahr*</b>en `(I)let-ar.en`
+    * : *in*.**ein**er.reihe.~~von~~.<b>*jahr*</b>en `(I)ei-er.r.eih.ar.en` ! `IN.ei-er-r.eih.ar.en`
+    * : im.<b>*jahr*</b>e `.im.ar.e`
+    * : im.*letzt*en.<b>*jahr*</b> `.im.let-ar`
+    * : im.näch**st**en.<b>*jahr*</b> `.im('st)-ar`
+    * : im.*ver*~~gang~~enen<b>*jahr*</b> `.im.E.ar`
+    * : im.*vor*<b>*jahr*</b> `.im-o.ar`
+    * : im.vori*g*en.<b>*jahr*</b> `.im (g).ar`
+    * : *in*.*dies*em.<b>*jahr*</b> `(I)iS.ar`
     * .im.~~jahr~~~~e~~.~~19~~.80 `.im,(80)`
 * **jed** `j`
  * : **jed**e `j.e` ! `j.ed.e`
@@ -1436,11 +1436,11 @@
        * : *kalkul*ier `k.ak.ir` (BSA)
 * kalt `kat` (BSA)
  * : `.eis.kat` `ket.e` `ket-er` `er.ket-et` `I er.ket`
-* ***kampf*** `ampf`
- * : **klass**en***kampf*** `kla.ampf`
+* <b>*kampf*</b> `ampf`
+ * : **klass**en<b>*kampf*</b> `kla.ampf`
  * : ***kämpf***e `empf.e`
-* kan***al*** `(.al)`
- * : kan***al***isat*ion* `(.al).iO`
+* kan<b>*al*</b> `(.al)`
+ * : kan<b>*al*</b>isat*ion* `(.al).iO`
 * **k**ann `k` V
  * : **k**annst `k` V
  * **k**onn `k` V
@@ -1455,11 +1455,11 @@
 * kart `k.at` (BSA)
  * : karte `kat.e` ! *kart*e `k.art.e` BSA ≠ akte `.akt.e`
  * : kartei `kat.ei` = `k.at.ei` (BSA) ~ `ka.ei`
- * : kartell `kat.ell` ~ kart***ell*** `(.ell)`
+ * : kartell `kat.ell` ~ kart<b>*ell*</b> `(.ell)`
  * : kartoffel `kat.of.l` ~ `ka.of.l`
  * : kartothek `kat-ek` ! `k.at.o-t.ek` BSA
-* ***kass*** `ass`
- * : **krank**en***kass***e `kra.ass.e`
+* <b>*kass*</b> `ass`
+ * : **krank**en<b>*kass*</b>e `kra.ass.e`
 * *kata*- `k.at` BSA
 * ***kauf*** `.auf` BSA
  * : X `.auf.ed` `.auft.e` `wr.auf` `.an.auf` `N.auf` `E.auf` `UN-E.auft` `.S.E.auf`
