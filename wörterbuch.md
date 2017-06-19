@@ -696,19 +696,19 @@
 * *famili* `f.am` BSA
  * : *famili*e `f.am.e` » `f.am` BSA
  * : *famili*är `f.am.är` (BSA)
-* f***ang*** `(.ang)` ! `f.ang`
- * : anf***ang*** `.an.ang` ~ `.an.fa`
- * : bef***ang*** `b.e-ang` ~ `b.e-fa`
- * : empf***ang*** `.emp.ang` * empf**a**ng `.emp-a`
- * : einf***ang*** `N.ang`
- * : umf***ang*** `.um:ang` ~ `.um.fa`
+* f<b>*ang*</b> `(.ang)` ! `f.ang`
+ * : anf<b>*ang*</b> `.an.ang` ~ `.an.fa`
+ * : bef<b>*ang*</b> `b.e-ang` ~ `b.e-fa`
+ * : empf<b>*ang*</b> `.emp.ang` * empf**a**ng `.emp-a`
+ * : einf<b>*ang*</b> `N.ang`
+ * : umf<b>*ang*</b> `.um:ang` ~ `.um.fa`
  * f***äng*** `(.eng)` ! `f.eng`
     * : anf***äng***er `.an.eng-er` ~ `.an.f-er`
     * : empf***äng*** `.emp.eng` * empf**ä**ng `.emp`
     * : *ge*f***äng***<b>*nis*</b> `G-eng.is` ~ `G-f.is`
     * : *ver*f***äng****lich* `E.eng.L`
- * f***ing*** `((I)ng)` ! `f.ing`
-    * : empf***ing*** `.emp.ing` * empf**i**ng `.emp-i`
+ * f<b>*ing*</b> `((I)ng)` ! `f.ing`
+    * : empf<b>*ing*</b> `.emp.ing` * empf**i**ng `.emp-i`
 * fantas `f.at.as` (BSA)
  * : X `f.at.as.I` `f.at.as.ir` `f.at.ast` `f.at.a-st.i`
 * farb `f.ab` (BSA)
@@ -1192,14 +1192,14 @@
  * : anh***äng***er `.an.eng-er`
  * : anh***äng*****ig** `.an.eng.i`
  * : *un*abh***äng*****ig** `UN-ab.eng.i` × *un*ab~~häng~~**ig** `UN-ab.i`
- * h***ing*** `((I)ng)` ! `h.ing`
- * h***ang*** `(.ang)` ! `h.ang`
-    * : abh***ang*** `.ab.ang`
-    * : anh***ang*** `.an.ang`
-    * : *vor*h***ang*** `O.ang`
-    * : *zu***samm**enh***ang*** `Z-sa.ang` ~ z**u**~~samm~~enh***ang*** `u-ang`
-       * : *in*.*dies*em *zu***samm**enh***ang*** `(I)iS.em Z-sa.ang`
-          * × *in*.*dies*em.~~zu~~~~samm~~enh***ang*** `(I)iS.ang`
+ * h<b>*ing*</b> `((I)ng)` ! `h.ing`
+ * h<b>*ang*</b> `(.ang)` ! `h.ang`
+    * : abh<b>*ang*</b> `.ab.ang`
+    * : anh<b>*ang*</b> `.an.ang`
+    * : *vor*h<b>*ang*</b> `O.ang`
+    * : *zu***samm**enh<b>*ang*</b> `Z-sa.ang` ~ z**u**~~samm~~enh<b>*ang*</b> `u-ang`
+       * : *in*.*dies*em *zu***samm**enh<b>*ang*</b> `(I)iS.em Z-sa.ang`
+          * × *in*.*dies*em.~~zu~~~~samm~~enh<b>*ang*</b> `(I)iS.ang`
 * **hart** `hat` BSA
  * : X `het.e` `het-est` `.ab.het` `er.het` `G-het` `E.het-et`
 * **haupt** `hau` BSA
@@ -2398,7 +2398,7 @@
  * : *er***reich** `(er)r.ei`
  * : *er***folg****reich** `er.fo.r.ei` × *er*~~folg~~**reich** `er-r.ei` ~ `er,r.ei`
  * : *über***reich** `Ü.r.ei` ~ `Ü.eich`
- * : umf***ang*****reich** `.um:ang.r.ei` × um~~fang~~**reich** `.um.r.ei` ~ `.um:eich`
+ * : umf<b>*ang*</b>**reich** `.um:ang.r.ei` × um~~fang~~**reich** `.um.r.ei` ~ `.um:eich`
 * reif `r.eif`
  * -***reif*** `.eif`
     * : **hoch*****schul******reif***e `ho.ul.eif.e`
@@ -2804,8 +2804,8 @@
     * : ein**spruch** `N.uch` * ein*spr****u****ch* `N,u`
     * : *wider***spruch** `W.uch` * *wider*spr**u**ch `W-u`
  * **sprüch** `.üch` E
-* spr***ing*** `(.ing)` ! `spr.ing`
- * spr***ang*** `(.ang)` ! `spr.ang`
+* spr<b>*ing*</b> `(.ing)` ! `spr.ing`
+ * spr<b>*ang*</b> `(.ang)` ! `spr.ang`
  * spr***eng*** `(.eng)` ! `spr.eng`
  * spr***ung*** `(.ung)` ! `spr.ung`
     * : urspr***ung*** `UR.ung`
