@@ -2320,7 +2320,7 @@
     * : **bund**es*republik* `bu:r.e-ik` < `bu.ik`
 * *punkt* pt. `pt` E
  * -p**u**nkt `u`
-    * : *ge*s***icht***sp**u**nkt `G-icht,u` × *ge*~~sicht~~sp**u**nkt `G,u`
+    * : *ge*s<b>*icht*</b>sp**u**nkt `G-icht,u` × *ge*~~sicht~~sp**u**nkt `G,u`
     * : *stand*p**u**nkt `and,u` ~ st**a**nd*punkt* `a-pt`
  * *pünkt* pt. `pt` E
 * put `p.ut` (BSA)
@@ -2401,7 +2401,7 @@
  * : umf<b>*ang*</b>**reich** `.um:ang.r.ei` × um~~fang~~**reich** `.um.r.ei` ~ `.um:eich`
 * reif `r.eif`
  * -<b>*reif*</b> `.eif`
-    * : **hoch*****schul***<b>*reif*</b>e `ho.ul.eif.e`
+    * : **hoch**<b>*schul*</b><b>*reif*</b>e `ho.ul.eif.e`
 * reih r.eih
  * **ein**e.~~reih~~~~e~~.**v**on `.ei-v`
 * reit `r.T`
@@ -2581,11 +2581,11 @@
 * ***schreit*** `T` ! `schr.T`
  * ***schritt*** `.it` ! `schr.it`
 * schrift ← schreib
-* ***schul*** `.ul`
- * : ***schul***e `.ul.e`
-    * : ***f****ahr****schul***e `fa.ul.e` ! `fa.sch.ul.e` (BSA)
- * : ***schül***er `.ül-er`
- * : **hoch*****schul***e `ho.ul.e` * **hoch**sch**u**le `ho-u.e` » `ho-u`
+* <b>*schul*</b> `.ul`
+ * : <b>*schul*</b>e `.ul.e`
+    * : ***f****ahr*<b>*schul*</b>e `fa.ul.e` ! `fa.sch.ul.e` (BSA)
+ * : <b>*schül*</b>er `.ül-er`
+ * : **hoch**<b>*schul*</b>e `ho.ul.e` * **hoch**sch**u**le `ho-u.e` » `ho-u`
 * **schutz** `schu` = `.uz`
  * : umwel**t****schutz** `.um('t);uz` * umwel**t**sch**u**tz `.um('t),u`
  * **schütz** `schÜ`
@@ -2600,15 +2600,15 @@
 * seh `s.eh`
  * sieh `s.ih`
  * sah `s.ah`
- * s***icht*** `((I)cht)` ! `s.icht`
-    * : abs***icht*** `.ab.icht` * abs**i**cht `.ab-i`
-    * : **an**s***icht*** `.an.icht`
-    * : *auf*s***icht*** `AU.icht` * *auf*s**i**cht `AU-i`
-    * : *ge*s***icht*** `G-icht`
-    * : *hin*s***icht*** `hn.icht` * *hin*s**i**cht `hn-i`
-    * : **rück**s***icht*** `rÜ.icht` * **rück**s**i**cht `rÜ-i`
-    * : *vor*s***icht*** `O.icht` * *vor*s**i**cht `O-i`
-    * : *zu**ver*s***icht*** `Z-E.icht` * *zu**ver*s**i**cht `Z-E-i`
+ * s<b>*icht*</b> `((I)cht)` ! `s.icht`
+    * : abs<b>*icht*</b> `.ab.icht` * abs**i**cht `.ab-i`
+    * : **an**s<b>*icht*</b> `.an.icht`
+    * : *auf*s<b>*icht*</b> `AU.icht` * *auf*s**i**cht `AU-i`
+    * : *ge*s<b>*icht*</b> `G-icht`
+    * : *hin*s<b>*icht*</b> `hn.icht` * *hin*s**i**cht `hn-i`
+    * : **rück**s<b>*icht*</b> `rÜ.icht` * **rück**s**i**cht `rÜ-i`
+    * : *vor*s<b>*icht*</b> `O.icht` * *vor*s**i**cht `O-i`
+    * : *zu**ver*s<b>*icht*</b> `Z-E.icht` * *zu**ver*s**i**cht `Z-E-i`
     * *ge*~~sicht~~ `G`
     * *hin*~~sicht~~ `hn`
        * : *in*.**jed**er.*hin*~~sicht~~ `(I)j-er.hn` » `(I)j.hn`
@@ -2626,18 +2626,18 @@
        * : *wir*.*sind* `wr-I`
  * s<b>*ei*</b> `(.ei)` V
     * : s<b>*ei*</b>d `(.eid)`
- * w***ar*** `(.ar)` E
-  * : w***är*** `(.är)` E
- * ***wes*** `.es`
-    * : ***wes***en `.es` ! `w.es`
-    * : ***wes***ent*lich* `.es.L`
-    * : *ge****wes*** `G-es`
+ * w<b>*ar*</b> `(.ar)` E
+  * : w<b>*är*</b> `(.är)` E
+ * <b>*wes*</b> `.es`
+    * : <b>*wes*</b>en `.es` ! `w.es`
+    * : <b>*wes*</b>ent*lich* `.es.L`
+    * : *ge*<b>*wes*</b> `G-es`
     * : *ge*~~wes~~ `-G`
        * : X `-G.en` = `G.en` `d G-en.e` `da.G.en`
-* ***seit*** `T` ! `s.T`
- * : ***seit***e `T.e`
- * : ***seit****lich* `T.L`
- * : be***seit*** `b.e-T`
+* <b>*seit*</b> `T` ! `s.T`
+ * : <b>*seit*</b>e `T.e`
+ * : <b>*seit*</b>*lich* `T.L`
+ * : be<b>*seit*</b> `b.e-T`
 * *sekretär* `s.ekr` E
  * *sekretariat* `s.ekr.at` E
 * *selb* `l` ! `s.eb`
@@ -2714,7 +2714,7 @@
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
     * : *er***satz** `er-sa`
     * : **grund****sätz***lich* `gru.s.L`
-* semi***nar*** `(n.ar)`
+* semi<b>*nar*</b> `(n.ar)`
 * setz ← sitz
 * **skal** `ska` ! `sk.al`
  * : **skal**a `ska.a` ! `sk.al.a`
