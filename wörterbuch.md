@@ -23,14 +23,14 @@
     * : aktuell `.akt-ell` = `.ak.t.ell` (BSA)
     * : aktualität `.akt-al.ät` = `.ak.t.al.ät` (BSA)
     * -*akt*- `'t`
-       * : *akt*<b></b>*ion* `'t-iO`
+       * : *akt*<i></i>*ion* `'t-iO`
        * : *akt*ivier `'t-iv.ir`
        * : *akt*ualität `'t-al.ät`
        * : *akt*uell `'t-ell`
-       * : *in*<b></b>*akt*ivität `(I)'t-iv.ät`
+       * : *in*<i></i>*akt*ivität `(I)'t-iv.ät`
        * : re*aktion*är `r.e't-iO.är`
        * : re*akt*or `r.e't-or` ! `r.e-akt-or`
-       * : **trans***akt*<b></b>*ion* `tra't-iO`
+       * : **trans***akt*<i></i>*ion* `tra't-iO`
     * ~~akt~~**i** `(.I)` E
        * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är` E
 * -*age* `.asch.e`
@@ -52,8 +52,8 @@
  * : älter `.ät-er` (BSA)
  * : ältest `.ät.est` (BSA)
  * ! *alt* `.alt` BSA
-    * : *ver*<b></b>*alt*et `E.alt.et` (BSA)
-    * : *ur*<b></b>*alt* `UR.alt` (BSA)
+    * : *ver*<i></i>*alt*et `E.alt.et` (BSA)
+    * : *ur*<i></i>*alt* `UR.alt` (BSA)
 * *amerik* `.am` BSA
  * : *amerik*a `.am.a` (BSA)
     * : *die* *ver*ein*ig*ten <b>*staat*</b>en *von* *amerik*a `I E.N.i .at.en v .am.a` (BSA)
@@ -88,11 +88,11 @@
  * *mit*arbeiter `M-ab.T-er` (BSA)
  * um*ge*arbeitet `.um.ab.T` ! `.um.ab.T-et` BSA
  * *zu***samm**arbeit `Z-sa.ab.T` (BSA)
- * arb***eit*** `(T)`
-    * : **fach**arb***eit***er `fa.T-er`
-    * : *mit*arb***eit***er `M.T-er`
-    * : *zu***samm**enarb***eit*** `Z-sa.T`
-    * arb***eit***slos `(T)-l.os`
+ * arb<b>*eit*</b> `(T)`
+    * : **fach**arb<b>*eit*</b>er `fa.T-er`
+    * : *mit*arb<b>*eit*</b>er `M.T-er`
+    * : *zu***samm**enarb<b>*eit*</b> `Z-sa.T`
+    * arb<b>*eit*</b>slos `(T)-l.os`
        * ~~arbeit~~slos `(l.os)`
           * : ~~arbeit~~slos**ig***keit* `(l.os).T`
 * arch `.ach`
@@ -996,7 +996,7 @@
 * ***geb*** `.eb` ! `g.eb` ~ `g` BSA
  * : X `.ab.g` `b.e-g.H` `er.g` `er.g+st` `E.g-s` `E.g.L` `Z-rÜ.g` `(n) .S.schl.ag.g` `ass.g.L` `k.ent-is.g` `.an.g.eb-er` `.ab.T-g.eb-er` `G.g.eb-er` `I G.g` `(.ab)` = `.ab` `.ab.e` `AU.ab.e` `.S.ab.e` `b.e-ab-UNG` `.ibt` `er.ibt` `ach.ib.T` `.äb.e`
  * : ***geb***er `.eb-er` ! `g.eb-er`
- * : arb***eit******geb***er `(T)-eb-er` ~ `(T)-g-er` » `(T)-g`
+ * : arb<b>*eit*</b>***geb***er `(T)-eb-er` ~ `(T)-g-er` » `(T)-g`
  * ***gab*** `.ab` E
     * : *auf****gab***e `AU.ab.e` × *auf*~~gab~~e `AU.e`
  * ***gäb*** `.äb` E
@@ -1860,7 +1860,7 @@
        * : *gemein***sam** `(N)-sa`
        * : *gemein*de `(N)-d.e`
        * : *gemein**schaft* `(N).FT`
-       * : arb***eit***s*gemein**schaft* `(T)-s.N.FT` × `(T)-s.N`
+       * : arb<b>*eit*</b>s*gemein**schaft* `(T)-s.N.FT` × `(T)-s.N`
     * : *all**ge*m***ein*** `.al.G-N` = `.al.G.N`
        * × *all**ge*~~mein~~ `.all.G` BSA ~ `.a-G`
           * : *all**ge*~~mein~~*heit* `.al.G.H` (BSA)
@@ -2058,7 +2058,7 @@
  * ~~nehm~~end `(.ed)`
     * : ab~~nehm~~end `.ab,(.ed)`
  * ~~nehm~~~~e~~r `(r)`
-    * : arb***eit***~~nehm~~~~e~~r `(T),(r)`
+    * : arb<b>*eit*</b>~~nehm~~~~e~~r `(T),(r)`
     * : t***eil***~~nehm~~~~e~~r `(.eil),(r)`
     * : *unter*~~nehm~~~~e~~r `UNTER,(r)` ! `UNTER.em-er` × `UNTER-er`
  * ~~nehm~~st `('st)`
