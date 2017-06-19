@@ -2543,9 +2543,9 @@
 * schirm `sch.im`
 * schlacht ← schlag
 * schlaf `schl.af`
-* ***schlag*** `.ag`
- * ***schläg*** `.äg`
- * ***schlug*** `.ug`
+* <b>*schlag*</b> `.ag`
+ * <b>*schläg*</b> `.äg`
+ * <b>*schlug*</b> `.ug`
  * **schlacht** `schla`
 * schn<b>*eid*</b> `(.eid)` ! `schn.eid`
  * : schn<b>*eid*</b>er `(.eid)-er` | `.eid-er`
@@ -3396,7 +3396,7 @@
  * : **bind**ewort `bi.wot` * **bind**ew**o**rt `bi-o`
  * : **haupt**wort `hau.wot` * **haupt**w**o**rt `hau-o`
  * : *macht*wort `aCHT.wot` * *macht*w**o**rt `aCHT-o`
- * : ***schlag***wort `.ag.wot` * ***schlag***w**o**rt `.ag-o`
+ * : <b>*schlag*</b>wort `.ag.wot` * <b>*schlag*</b>w**o**rt `.ag-o`
  * : **sprich**wort `.ich.wot` * **sprich**w**o**rt `.ich-o`
  * : **sprich**wört*lich* `.ich.wöt.L` * **sprich**w**ö**rt*lich* `.ich-ö.L`
 * wund ← wind
