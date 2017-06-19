@@ -213,21 +213,21 @@
  * : bibliothek `b.ibl.i-t.ek` ! `b.ibl.i-o-t.ek`
     * ~~bibli~~othek `(t.ek)`
        * : ~~bibli~~othekar**isch** `(t.ek).ar.i` > `(t.ek).i`
-* ***biet*** `.it` BSA
- * : ***biet***end `.it.ed` (BSA)
- * : an*er****biet*** `.an.er.it` (BSA)
- * : *ge****biet*** `G-it` (BSA)
-    * : ruhr*ge****biet*** `r.UR.it` (BSA)
- * : *auf*.~~dem~~.*ge****biet*** `AU.it`
- * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` * *auf*.d**ie**sem.*ge****biet*** `AU-i.it`
- * : *über****biet*** `Ü.it` (BSA)
- * ***bot*** `.ot` (BSA)
-    * : der ***bot***e `(r) .ot.e` (BSA)
-    * : ***bot****schaft* `.ot.FT` (BSA)
-    * : an*ge****bot*** `.an.ot` (BSA)
-    * : *ge****bot*** `G-ot` (BSA)
-    * : *über****bot*** `Ü.ot` (BSA)
-    * : *ver****bot*** `E.ot` (BSA)
+* <b>*biet*</b> `.it` BSA
+ * : <b>*biet*</b>end `.it.ed` (BSA)
+ * : an*er*<b>*biet*</b> `.an.er.it` (BSA)
+ * : *ge*<b>*biet*</b> `G-it` (BSA)
+    * : ruhr*ge*<b>*biet*</b> `r.UR.it` (BSA)
+ * : *auf*.~~dem~~.*ge*<b>*biet*</b> `AU.it`
+ * : *auf*.*dies*em.*ge*<b>*biet*</b> `AU.iS.it` * *auf*.d**ie**sem.*ge*<b>*biet*</b> `AU-i.it`
+ * : *über*<b>*biet*</b> `Ü.it` (BSA)
+ * <b>*bot*</b> `.ot` (BSA)
+    * : der <b>*bot*</b>e `(r) .ot.e` (BSA)
+    * : <b>*bot*</b>*schaft* `.ot.FT` (BSA)
+    * : an*ge*<b>*bot*</b> `.an.ot` (BSA)
+    * : *ge*<b>*bot*</b> `G-ot` (BSA)
+    * : *über*<b>*bot*</b> `Ü.ot` (BSA)
+    * : *ver*<b>*bot*</b> `E.ot` (BSA)
 * bilanz `b.il.az` (BSA)
  * : bilanzier `b.il.az.ir` (BSA)
  * : bilanzier*ung* `b.il.az.ir-UNG` (BSA)
