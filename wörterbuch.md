@@ -2374,7 +2374,7 @@
     * : **bund**es**reg**ier*ung* `bu.r.ir-UNG` * b**u**ndes**reg**ier*ung* `u-r.ir-UNG` ~ `u-r-UNG`
  * : **reg**ulier `r.ul.ir`
  * : **reg**el `r.l` ~ `(.el)`
-    * : ***spiel*****reg**el `.il.r.l` ~ `.il,(.el)`
+    * : <b>*spiel*</b>**reg**el `.il.r.l` ~ `.il,(.el)`
     * : *in*.~~der~~.**reg**el `(I)r.el` × *in*.~~der~~.~~reg~~el `(I)el`
  * : **reg***ion* `r.iO` ! `r.eg.iO`
  * **rekt** `r` ! `r.ekt`
@@ -2724,7 +2724,7 @@
 * *so* `.o` V
  * *eben**so* `.eb.o` (BSA)
  * s**o**- `o`
- * s***onst*** `(.ost)` E
+ * s<b>*onst*</b> `(.ost)` E
 * sol `s.ol`
  * : solid `s.ol.id`
  * : **kon**solidier `ko-s.ol.ir`
@@ -2777,10 +2777,10 @@
  * : **spez***ial*isier `sp.iaL.ir` E
  * : **spez***iell* `sp.ieL` E
  * : **spez**ifizier `sp.if.ir` ~ `sp.ez.ir`
-* ***spiel*** `.il`
- * : ***spiel***er `.il-er`
- * : bei***spiel*** `b.ei-il`
- * : **trau**er***spiel*** `trau-er.il`
+* <b>*spiel*</b> `.il`
+ * : <b>*spiel*</b>er `.il-er`
+ * : bei<b>*spiel*</b> `b.ei-il`
+ * : **trau**er<b>*spiel*</b> `trau-er.il`
 * spir `sp.ir`
  * : spiral `sp.ir.al`
  * : **kon**spirat*ion* `ko.sp.ir.iO`
@@ -2791,7 +2791,7 @@
     * : *in***spekt***ion* `(I)sp*` S ! `(I)sp.iO` ! `IN.sp.iO`
     * : pr**o****spekt** `(o)sp` E
     * : re**spekt** `r.e-sp`
-* sp***ort*** `(.ot)` ! `sp.ot` (E)
+* sp<b>*ort*</b> `(.ot)` ! `sp.ot` (E)
 * **sprech** `spr` E
  * : *ent***sprech**end `eNT.spr.ed` × *ent*~~sprech~~end `eNT.ed`
  * **sprich** `.ich` E
@@ -2806,9 +2806,9 @@
  * **sprüch** `.üch` E
 * spr<b>*ing*</b> `(.ing)` ! `spr.ing`
  * spr<b>*ang*</b> `(.ang)` ! `spr.ang`
- * spr***eng*** `(.eng)` ! `spr.eng`
- * spr***ung*** `(.ung)` ! `spr.ung`
-    * : urspr***ung*** `UR.ung`
+ * spr<b>*eng*</b> `(.eng)` ! `spr.eng`
+ * spr<b>*ung*</b> `(.ung)` ! `spr.ung`
+    * : urspr<b>*ung*</b> `UR.ung`
 * spür `sp.ür`
 * st `st`
  * : **kon**stant `ko.st.ant` ~ `ko.st.aNT`
@@ -2834,8 +2834,8 @@
     * : *in***st**itut*ion* `(I)st*` S
     * : **kon****st**ituier `ko.st.ir`
     * : **kon****st**itut*ion* `ko.st*` S ! `ko.st.iO` ! `ko.st.it.iO` E
-* ***stab*** `.ab`
- * ***stab***ilität `.ab.ät`
+* <b>*stab*</b> `.ab`
+ * <b>*stab*</b>ilität `.ab.ät`
 * stadt ← steh
 * stall ← steh
 * **stalt** `stat` E
@@ -2876,10 +2876,10 @@
     * : **städt****isch** `st.i` E
  * **stall** `sta`
     * : *in***stall**at*ion* `(I)sta*` S ! `IN.sta.iO`
- * ***stell*** `.ell` E
-    * : ***stell****ung* `.ell-UNG` ~ `st*` E
-    * : *geschäft*s***stell***e `GT-ell.e`
-    * : **kon*****stell***at*ion* `ko.ell.iO`
+ * <b>*stell*</b> `.ell` E
+    * : <b>*stell*</b>*ung* `.ell-UNG` ~ `st*` E
+    * : *geschäft*s<b>*stell*</b>e `GT-ell.e`
+    * : **kon**<b>*stell*</b>at*ion* `ko.ell.iO`
  * **statt** `sta` E
     * : **stätt** `st` ~ `.ät` E
     * : *ge***statt** `G-sta` * *ge*st**a**tt `G-a` = `-G-a`
