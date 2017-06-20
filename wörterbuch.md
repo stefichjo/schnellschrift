@@ -138,21 +138,21 @@
     * : oder.**au**ch `.od-er-au`
     * : *sondern*.**au**ch `S-au`
 * *auf* `AU` V
- * *dar**auf* `dar.AU`
+ * *dar*<i></i>*auf* `dar.AU`
     * ~ *darauf* `dar-AU` BSA
 * *aus* `.S` V
  * **h**er*aus* `h.S` ~ `er.S` ~ `er-s`
- * *vor**aus* `O-S``
+ * *vor*<i></i>*aus* `O-S``
  * auss `.auss`
   * : *außen* `.auss` BSA
   * : *außer* `.auss` BSA
      * : *äußer* `.äuss` BSA
-        * : *äußer**lich* `.äuss.L` (BSA)
+        * : *äußer*<i></i>*lich* `.äuss.L` (BSA)
         * : *äußer*st `äuss+st` (BSA)
            * : *auf*s.*äußer*ste `AU.äuss+st.e` ~ `AU-s.äuss+st` BSA
            * : **bi**s.*zum*.*äußer*sten `(bi)z.äuss+st-en` » `(bi)z.äuss+st` BSA
-        * : *ge**äußer*t `G-äuss` ! `G-äuss-t` BSA
-        * : *ver**äußer* `E.äuss` (BSA)
+        * : *ge*<i></i>*äußer*t `G-äuss` ! `G-äuss-t` BSA
+        * : *ver*<i></i>*äußer* `E.äuss` (BSA)
 * aut `.aut` (E)
  * : auto `.aut.o`
 * **bahn** `ba` BSA
@@ -242,9 +242,9 @@
  * : **bild**<i></i>*nis* `bi.is` (BSA)
  * : **bild**<i></i>*ung* `bi-UNG`
     * ! *bildung* `bi.UNG` BSA
-       * : *vor**bildung* `O,bi.UNG` (BSA)
+       * : *vor*<i></i>*bildung* `O,bi.UNG` (BSA)
  * : *aus*<i></i>**bild** `.S,bi` (BSA)
- * : *aus**ge*<i></i>**bild**et `.S,bi.et` (BSA)
+ * : *aus*<i></i>*ge*<i></i>**bild**et `.S,bi.et` (BSA)
  * : *ge*<i></i>**bild**e `G,bi.e` (BSA)
  * : *ge*<i></i>**bild**et `G,bi.et` (BSA)
  * : *un*<i></i>*ge*<i></i>**bild**et `UN.G,bi.et` (BSA)
@@ -282,7 +282,7 @@
  * ~ <b>*bitt*</b> `.it` BSA
     * : <b>*bitt*</b>end `.it.ed` (BSA)
     * : *für*<b>*bitt*</b>e `f.it.e` (BSA)
-    * : *un**er*<b>*bitt*</b>*lich* `UN.er.it.L` (BSA)
+    * : *un*<i></i>*er*<b>*bitt*</b>*lich* `UN.er.it.L` (BSA)
     * : *die* <b>*bitt*</b>e `I .it.e` (BSA)
     * : *ich* <b>*bitte*</b>.sie `I .it.sI` (BSA)
     * : *mit*.*der*.***bitte*** `M-r.it.e` (BSA)
@@ -291,7 +291,7 @@
  * bat `b.at` (BSA)
  * bet `b.et` (BSA)
     * : *ge*bet `G-b.et` (BSA)
-       * : *un**ge*bet `UN-G,b.et` (BSA)
+       * : *un*<i></i>*ge*bet `UN-G,b.et` (BSA)
 * **blatt** `bla`
 * **bleib** `bl.ei`
  * **blieb** `bl.i`
@@ -342,11 +342,11 @@
  * : **büch**er `bÜ-er`
  * : *geschäft*s**büch**er `GT.bÜ-er` * *geschäft*sb**ü**cher `GT-Ü-er`
 * *bühr* `.ür` ~ `-Ür`
- * : *ge**bühr* `G.ür`
+ * : *ge*<i></i>*bühr* `G.ür`
 * bunt `but` (BSA)
  * X `but-er` `but-est` `bu.H`
 * *bür* `bÜ`
- * : *makler**bür*o `m.ak-er.bÜ.o` ~ `m.ak-er-Ü.o`
+ * : *makler*<i></i>*bür*o `m.ak-er.bÜ.o` ~ `m.ak-er-Ü.o`
 * burg `b.ug` (BSA)
  * : **bürg** `b.üg` (BSA)
     * : **bürg**te `b.ügt.e` (BSA)
@@ -358,8 +358,8 @@
  * : autob<b>*us*</b> `.aut.us` BSA
 * charakter `ch.ar.akt-er`
  * » *charakter* `ch.ar` BSA
-    * : *charakter**istisch* `ch.ar.iS.i` (BSA)
-    * : *charakter**voll* `ch.ar.Ol` (BSA)
+    * : *charakter*<i></i>*istisch* `ch.ar.iS.i` (BSA)
+    * : *charakter*<i></i>*voll* `ch.ar.Ol` (BSA)
 * chemie `ch.em.I` (BSA)
  * : chemiker `ch.em.ik-er` (BSA)
  * : chem*isch* `ch.em.i` (BSA)
