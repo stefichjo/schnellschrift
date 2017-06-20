@@ -1522,11 +1522,11 @@
 * **kol**loquium `ko.oqu.um` » `ko.oqu`
 * *kommun* `ko-u` BSA
  * : *kommun*al `ko-u.al` (BSA)
- * : *kommun**ismus* `ko-u.iS` (BSA)
- * : *kommun**istisch* `ko-u.iS.i` (BSA)
- * : *kommun**ion* `ko-u.iO`
+ * : *kommun*<i></i>*ismus* `ko-u.iS` (BSA)
+ * : *kommun*<i></i>*istisch* `ko-u.iS.i` (BSA)
+ * : *kommun*<i></i>*ion* `ko-u.iO`
  * : *kommun*izier `ko-u.iz.ir`
- * : *kommun*ikat*ion* `ko-u.ik.iO` !ik! `ko-u.iO` * `ko-u-o` ≠ *kommun**ion*
+ * : *kommun*ikat*ion* `ko-u.ik.iO` !ik! `ko-u.iO` * `ko-u-o` ≠ *kommun*<i></i>*ion*
 * **kon**- `ko` V
  * : **kol**- `ko`
  * : *kom*- `kom`
@@ -1637,8 +1637,8 @@
  * ~~län~~der `(d-er)`
  * *länd* `l` ! `l.ed` (E)
     * : *aus***lä**nd*isch* `.S.l.i`
-    * : *ge**länd*e `G-l.e` ! `G-l.ed.e`
-    * : *ge**länd*er `G-l-er` ! `G-l.ed-er`
+    * : *ge*<i></i>*länd*e `G-l.e` ! `G-l.ed.e`
+    * : *ge*<i></i>*länd*er `G-l-er` ! `G-l.ed-er`
 * <b>*lang*</b> `ang` BSA
  * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `(.at.ang)` `st.ud.ang` `w.och.ang` `s.T-ang`
  * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un*<i></i>*zu*<b>*gäng*</b>*lich* `UN-z.eng.L`
@@ -1840,7 +1840,7 @@
     * -~~mehr~~*heit*- `H`
  * : **mehr**er `mer-er` ! `m.er-er` (E)
     * *mehrer* `MR`
- * : *ver***mehr***ung* `E.mer-UNG` ~ `E.m-UNG` E
+ * : *ver*<i></i>**mehr**<i></i>*ung* `E.mer-UNG` ~ `E.m-UNG` E
  * : *desto*.**mehr** `d.est-mer` ~ `d.est-m` BSA @bessere eingliederung möglich
  * : ~~imm~~er.**mehr** `(.er)mer` ~ `(.er)m` E
  * : *nicht*.**mehr** `'t-mer` ~ `'t.m` E
@@ -1859,21 +1859,21 @@
     * *gemein*- `(N)`
        * : *gemein***sam** `(N)-sa`
        * : *gemein*de `(N)-d.e`
-       * : *gemein**schaft* `(N).FT`
-       * : arb<b>*eit*</b>s*gemein**schaft* `(T)-s.N.FT` × `(T)-s.N`
-    * : *all**ge*m<b>*ein*</b> `.al.G-N` = `.al.G.N`
-       * × *all**ge*~~mein~~ `.all.G` BSA ~ `.a-G`
-          * : *all**ge*~~mein~~*heit* `.al.G.H` (BSA)
+       * : *gemein*<i></i>*schaft* `(N).FT`
+       * : arb<b>*eit*</b>s*gemein*<i></i>*schaft* `(T)-s.N.FT` × `(T)-s.N`
+    * : *all*<i></i>*ge*m<b>*ein*</b> `.al.G-N` = `.al.G.N`
+       * × *all*<i></i>*ge*~~mein~~ `.all.G` BSA ~ `.a-G`
+          * : *all*<i></i>*ge*~~mein~~*heit* `.al.G.H` (BSA)
           * : *ver**all**ge*~~mein~~ern `E.al.G` (BSA)
           * : *ver**all**ge*~~mein~~erte `E.al.G-t.e` (BSA)
-          * : im.*all**ge*~~mein~~en `.im.al.G` (BSA) * im.**a**ll*ge*~~mein~~en `.im.a-G`
+          * : im.*all*<i></i>*ge*~~mein~~en `.im.al.G` (BSA) * im.**a**ll*ge*~~mein~~en `.im.a-G`
 * **meist** `m.ei`
  * : **meist**er `m.ei-er`
 * meld `m.ed`
 * ***meng*** `eng` ! `m.eng`
 * *mensch* `NSCH`
- * *mensch**heit* `NSCH*`
- * *mensch**lich* `NSCH.L`
+ * *mensch*<i></i>*heit* `NSCH*`
+ * *mensch*<i></i>*lich* `NSCH.L`
  * *ver**mensch**lich*t `E.NSCH.L-t`
 * ment `met`
  * : mentalität `met-al.ät`
@@ -1930,22 +1930,22 @@
  * .***mir***. `.ir`
 * *miss*- `ms` V
 * *mit* `M` V
- * : **da***mit* `da.M` ~ *da**mit* `.a-M` * d**a***mit* `a-M`
+ * : **da***mit* `da.M` ~ *da*<i></i>*mit* `.a-M` * d**a***mit* `a-M`
  * : **hier***mit* `hi:M`
  * : *mitt* `M` V
     * *mittel* `'t-l`
-       * : *er**mittel* `er't-l`
+       * : *er*<i></i>*mittel* `er't-l`
        * : nahr*ung*s*mittel* `n.ar-UNG,'t-l`
-       * : *un**mittel***bar** `UN't-l.bar` × *un*~~mittel~~**bar** `UN-bar`
+       * : *un*<i></i>*mittel***bar** `UN't-l.bar` × *un*~~mittel~~**bar** `UN-bar`
 * *mitt* `M`
  * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
  * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
     * *kompromitt* `k.om-p.it.ir` E
  * *miss* `ms`
-    * : *miss**ion* `ms-o`
-    * : e*miss**ion* `.e-ms-o`
-    * : *kom**miss*ar `ko-ms.ar` * *kom*m**i**ssar `ko-i.ar`
-    * : *kom**miss**ion* `ko-ms-o` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
+    * : *miss*<i></i>*ion* `ms-o`
+    * : e*miss*<i></i>*ion* `.e-ms-o`
+    * : *kom*<i></i>*miss*ar `ko-ms.ar` * *kom*m**i**ssar `ko-i.ar`
+    * : *kom*<i></i>*miss*<i></i>*ion* `ko-ms-o` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
     * : *kom*pr**o***miss* `kom.o-ms` : `kom`
        * ~ *kompromiss* `k.om-p.iss` BSA
     * : **trans***miss**ion* `tra.ms-o` » `tra.ms`
@@ -2131,7 +2131,7 @@
  * : öffent*lich* `.öf.L` ~ `.ö-L`
  * : *er*öffn `er.öf` ~ `er.ö`
 * oft `.oft`
- * : *eben**so*.oft `.eb.o.oft` (BSA) × *eben*~~so~~.oft `.eb.oft` BSA
+ * : *eben*<i></i>*so*.oft `.eb.o.oft` (BSA) × *eben*~~so~~.oft `.eb.oft` BSA
 * *ohn* `.o°` V
  * *ohne* `.o°` V
 * opt `.opt`
@@ -2140,9 +2140,9 @@
  * : optier `.opt-ir`
  * *optim* `.op`
     * : *optim*al `.op.al` ~ `.opt-im-a`
-    * : *optim**ismus* `.op.iS`
+    * : *optim*<i></i>*ismus* `.op.iS`
     * : *optim*ist `.op.ist`
-    * : *optim**istisch* `.op.iS.i`
+    * : *optim*<i></i>*istisch* `.op.iS.i`
 * ord `.od`
  * : ordent*lich* `.od.L`
  * : ordinär `.od.är` ! `.od.in.är`
@@ -2296,7 +2296,7 @@
 * press `pr`
 * **prinz** `pri`
 * *prinzip* `(I)p` ! `pr.iz.ip` (E)
- * : *prinzip**iell* `(I)p.ieL` ! `pr.iz.ip.ieL` (E)
+ * : *prinzip*<i></i>*iell* `(I)p.ieL` ! `pr.iz.ip.ieL` (E)
 * *privat* `pri`
  * *privat*isier `pri.ir`
 * *privileg* `pri.eg`
@@ -2385,7 +2385,7 @@
        * : *direkt* `di` ! `di.ekt` BSA ~ `di-t`
           * : *direkt*ion `di-o` ! `di.iO` BSA ~ `di-t-iO`
           * : *direkt*or `di.or` (BSA)
-          * : *in**direkt* `(I)di` ! `IN:di.ekt` BSA
+          * : *in*<i></i>*direkt* `(I)di` ! `IN:di.ekt` BSA
           * : *in*.*direkt* `IN,di` ! `IN,di.ekt`
     * : **kon**<i></i>**rekt**or `ko.r.or` ! `ko.r.ekt-or`
     * : kor**rekt** `kor-r`
@@ -2408,7 +2408,7 @@
  * : bereit `b.e-r.T`
     * *bereit* `b.e-T`
        * *bereit*s `b.e-Ts` « `Ts`
-       * *vor**bereit* `O.b.e-T`
+       * *vor*<i></i>*bereit* `O.b.e-T`
           * *vor*be~~reit~~ `O.b.e`
  * ritt `r.it`
 * renn `r.en`
@@ -2448,7 +2448,7 @@
     * : *aus*r<b>*ief*</b> `.S.if`
 * rump `r.ump`
  * *rupt* `r.up`
-    * : e*rupt**ion* `.e-r.up-o`
+    * : e*rupt*<i></i>*ion* `.e-r.up-o`
     * : e*rupt*iv `.e-r.up.iv` ! `.e-r.upt-iv`
     * *rott* `-r.ot`
        * : bank*rott* `b.ak-r.ot` E
