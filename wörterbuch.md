@@ -2461,7 +2461,7 @@
  * -~~sach~~e<b>*n*</b> `(n)`
  * -~~sach~~e<b>*n*</b> `(n)`
     * : **tat**~~sach~~e<b>*n*</b> `ta,(n)`
-    * : *ver**ur*~~sach~~e<b>*n*</b> `E.UR,(n)`
+    * : *ver*<i></i>*ur*~~sach~~e<b>*n*</b> `E.UR,(n)`
 * **sachs** `sa`
  * : **sachs**en `sa.en`
     * : *nieder***sachs**en `ndr.sa.en` * `ndr-a.en` » `ndr-a`
@@ -2480,7 +2480,7 @@
  * : *ver*ein**sam**t `E.N-sa-t` (BSA)
  * -*samt* `sa`
     * : X `G-sa` `G-sa.e` `G-sa.H` G-sa.w.ol` `IN.G-sa`
-    * : *in*s*ge**samt* `(I)G-sa` ! `IN.G-sa` E
+    * : *in*s*ge*<i></i>*samt* `(I)G-sa` ! `IN.G-sa` E
 * **samm** `sa`
  * : *zu***samm**en `Z-sa` V @ `u-sa`?
  * : **samm**el `sa.l`
@@ -2498,7 +2498,7 @@
        * *beschäftig*ten `b.e't-igt-en` (BSA)
        * *beschäftig*ungslos `b.e't-ig.l.os` (BSA)
        * *die* neben*beschäftig*ung `I n.eb.b.e't-ig` (BSA)
- * : *ge**schäft* `G-sch.eft`
+ * : *ge*<i></i>*schäft* `G-sch.eft`
     * -*geschäft* `GT` BSA
        * : X `GT.e` = `GT.e` `GT.L` `GT-ch.en` `t.il.FT`
  * -*schaft* `FT` V
@@ -2575,9 +2575,9 @@
  * **schrift** `.ift` E
     * : ab**schrift** `.ab.ift` * ab*schr*<b>*i*</b>*ft* `.ab,i`
     * : **kurz**<i></i>**schrift** `ku.ift` * **kurz**schr**i**ft `ku,i`
-    * : *unter***schrift** `UNTER.ift` * *unter**schr*<b>*i*</b>*ft* `UNTER,i`
+    * : *unter***schrift** `UNTER.ift` * *unter*<i></i>*schr*<b>*i*</b>*ft* `UNTER,i`
     * : *vor***schrift** `O.ift` * *vor*schr**i**ft `O-i`
-    * : *zu***schrift** `Z-ift` * *zu**schr*<b>*i*</b>*ft* `Z,i`
+    * : *zu***schrift** `Z-ift` * *zu*<i></i>*schr*<b>*i*</b>*ft* `Z,i`
 * ***schreit*** `T` ! `schr.T`
  * ***schritt*** `.it` ! `schr.it`
 * schrift ← schreib
@@ -2608,7 +2608,7 @@
     * : *hin*s<b>*icht*</b> `hn.icht` * *hin*s**i**cht `hn-i`
     * : **rück**s<b>*icht*</b> `rÜ.icht` * **rück**s**i**cht `rÜ-i`
     * : *vor*s<b>*icht*</b> `O.icht` * *vor*s**i**cht `O-i`
-    * : *zu**ver*s<b>*icht*</b> `Z-E.icht` * *zu**ver*s**i**cht `Z-E-i`
+    * : *zu*<i></i>*ver*s<b>*icht*</b> `Z-E.icht` * *zu*<i></i>*ver*s**i**cht `Z-E-i`
     * *ge*~~sicht~~ `G`
     * *hin*~~sicht~~ `hn`
        * : *in*.**jed**er.*hin*~~sicht~~ `(I)j-er.hn` » `(I)j.hn`
@@ -2645,7 +2645,7 @@
  * : *selb***ig** `l.i` ! `s.eb.i`
  * : *selb*st `l.st`
     * *selbst* `'st` V
- * : *die**selb*en `I.l.en` E
+ * : *die*<i></i>*selb*en `I.l.en` E
  * : de<b>*r*</b>*selb*e `(r).l.e` E
 * selt `set`
  * : selten `set-en` (E)
@@ -2671,8 +2671,8 @@
 * *sich* `CH` V
 * *sicher* `s.i-er` ! `s.ich-er` » `s.ich` E
  * : *sicher*er `s.i-er-er` ! `s.ich-er-er` ! `s.ich.er-er` (E)
- * : *ver**sicher* `E.s.i-er` * *ver**sicher* `E-i-er` » `E-i` E
- * : *ver**sicher**ung* `E.s.i-er-UNG`
+ * : *ver*<i></i>*sicher* `E.s.i-er` * *ver*<i></i>*sicher* `E-i-er` » `E-i` E
+ * : *ver*<i></i>*sicher*<i></i>*ung* `E.s.i-er-UNG`
     * *ver*~~sicherung~~ `E`
 * sicht ← seh
 * sid `s.id`
@@ -2708,7 +2708,7 @@
  * saß `s.ass`
  * **setz** `s` ! `s.ez` (E)
     * : *aus***setz** `.S-s` ~ `.S.s` E
-    * : *vor**aus***setz** `O.S-s`
+    * : *vor*<i></i>*aus***setz** `O.S-s`
  * **satz** `sa` ! `s.az` (E)
     * : **satz***ung* `.az*`
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
@@ -2722,7 +2722,7 @@
  * : e**skal**ier `.e-ska-ir`
 * sinn `s.in`
 * *so* `.o` V
- * *eben**so* `.eb.o` (BSA)
+ * *eben*<i></i>*so* `.eb.o` (BSA)
  * s**o**- `o`
  * s<b>*onst*</b> `(.ost)` E
 * sol `s.ol`
@@ -2756,9 +2756,9 @@
  * : be*sorg* `b.e-s.o` = `b-es.o`
  * : **f**ür*sorg* `f-s.o` * **f**ür*s*<b>*o*</b>*rg* `f,o`
  * : ***jug***end**f**ür*sorg* `.ug.ed:f-s.o` * ***jug***end**f**ür*s*<b>*o*</b>*rg* `.ug.ed.f,o` » `.ug.f,o` * `.ug-Ü.o`
- * : *ver**sorg* `E-s.o`
- * : *ver**sorg*er `E-s.o-er` * *ver**s*<b>*o*</b>*rg*er `E,o-er`
- * : *vor**sorg*e `O-s.o`
+ * : *ver*<i></i>*sorg* `E-s.o`
+ * : *ver*<i></i>*sorg*er `E-s.o-er` * *ver*<i></i>*s*<b>*o*</b>*rg*er `E,o-er`
+ * : *vor*<i></i>*sorg*e `O-s.o`
 * sort `s.ot`
  * : sorte `s.ot.e` (E)
  * : sortier `s.ot.ir` (E)
@@ -2788,7 +2788,7 @@
 * **sp**iz `sp`
  * : *in***sp**izier `(I)sp.ir`
  * **spekt** `sp`
-    * : *in***spekt***ion* `(I)sp*` S ! `(I)sp.iO` ! `IN.sp.iO`
+    * : *in*<i></i>**spekt**<i></i>*ion* `(I)sp*` S ! `(I)sp.iO` ! `IN.sp.iO`
     * : pr**o**<i></i>**spekt** `(o)sp` E
     * : re**spekt** `r.e-sp`
 * sp<b>*ort*</b> `(.ot)` ! `sp.ot` (E)
@@ -2840,7 +2840,7 @@
 * stall ← steh
 * **stalt** `stat` E
  * : an**stalt** `.an.stat`
- * : *ge***stalt** `G.stat`
+ * : *ge*<i></i>**stalt** `G.stat`
  * : *ver*an**stalt** `E.an.stat`
  * *stalt* `'t`
     * : an*stalt* `.an't`
@@ -2861,11 +2861,11 @@
 * steck `st.ek`
 * **steh** `st` E
  * *stand* `and` E
-    * : ein*ver**stand*en `N.E.and`
+    * : ein*ver*<i></i>*stand*en `N.E.and`
        * : ein*ver*~~stand~~en `N.E`
  * *ständ* `.end` E
-    * *selbst**ständ***ig** `'st-end.i` × *selbst*~~ständ~~**ig** `'st-ig` E
-    * *selbst**ver**ständ**lich* `'st-E.end.L` × *selbst*~~ver~~<i></i>~~ständ~~*lich* `'st-L` E
+    * *selbst*<i></i>*ständ***ig** `'st-end.i` × *selbst*~~ständ~~**ig** `'st-ig` E
+    * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `'st-E.end.L` × *selbst*~~ver~~<i></i>~~ständ~~*lich* `'st-L` E
  * stund `st.ud` (E)
     * : stunde `st.ud.e` * st**u**nde `u.e`
     * : stundung `st.ud-UNG` * `u-UNG`
@@ -2927,9 +2927,9 @@
     * : X `r.e-ko,u.irt.e` `ko,u.ör` `ko,u.iv`
  * *str*<b>*u*</b>*kt* `u` BSA
     * : *str*<b>*u*</b>*kt*ur `u,UR` ! `str.ukt-UR` » `str.ukt` ~ `str.uk` E
-    * : *in**str*<b>*u*</b>*kt**ion* `IN,u-O` (BSA)
+    * : *in*<i></i>*str*<b>*u*</b>*kt*<i></i>*ion* `IN,u-O` (BSA)
     * : *in*fra*str*<b>*u*</b>*kt*ur `(I)fra,u-UR`
-    * : **kon***str*<b>*u*</b>*kt**ion* `ko,u-O` (BSA)
+    * : **kon***str*<b>*u*</b>*kt*<i></i>*ion* `ko,u-O` (BSA)
 * <b>*stück*</b> `.ük`
  * **früh**<b>*stück*</b> `frÜ.ük`
 * <b>*stud*</b> `.ud`
@@ -2958,8 +2958,8 @@
  * : **kon**<i></i>**sum***ent* `ko-su.ent` ~ `ko-su.eNT`
 * **summ** `su`
 * *sund* `.und`
- * : *ge**sund* `G-und`
- * : *ge**sund**heit* `G-und.H` * *ge*s**u**nd*heit* `G,u-H` « `u-H`
+ * : *ge*<i></i>*sund* `G-und`
+ * : *ge*<i></i>*sund*<i></i>*heit* `G-und.H` * *ge*s**u**nd*heit* `G,u-H` « `u-H`
 * ~~sym~~bol `(b.ol)`
  * ~~sym~~bolisier `(b.ol).ir`
 * syst<b>*em*</b> `(.em)`
