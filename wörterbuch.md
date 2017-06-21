@@ -3324,7 +3324,7 @@
   * : *so*wie `(o)w.i` ~ `(o)I`
 * *wieder* `W` V
   * .w**ie**der. `i`
-    * : imm***er***.w**ie**der `(.er),i`
+    * : imm<b>*er*</b>.w**ie**der `(.er),i`
     * : auch.w**ie**der `.auch,i`
   * : *wider* `W` V
   * : *widr* `W` V
