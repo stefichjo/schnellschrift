@@ -2478,7 +2478,7 @@
   * : acht**sam** `.acht-sa`
   * : *ver*ein**sam**t `E.N-sa-t` (BSA)
   * -*samt* `sa`
-    * : X `G-sa` `G-sa.e` `G-sa.H` G-sa.w.ol` `IN.G-sa`
+    * : X `G-sa` `G-sa.e` `G-sa.H` `G-sa.w.ol` `IN.G-sa`
     * : *in*s*ge*<i></i>*samt* `(I)G-sa` ! `IN.G-sa` E
 * **samm** `sa`
   * : *zu***samm**en `Z-sa` V @ `u-sa`?
@@ -3107,7 +3107,7 @@
       * : *unser*er `U°.er`
 * *unter* `UNTER` V
 * ur- `UR` V
-* ~~val~~id `((I)d)
+* ~~val~~id `((I)d)`
   * : *in*~~val~~ide `(I)id.e` ! `IN.id.e` BSA
   * : *in*~~val~~idität `(I)id.ät` ! `IN.id.ät` BSA
 * **ven** `w`
