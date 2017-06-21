@@ -732,7 +732,7 @@
     * : ef**fekt** `.e-f`
     * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
     * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
-    * : **p***er***fekt** `p.f` ! `p.fet` ! `p.f.ekt` (E)
+    * : **p**er**fekt** `p.f` ! `p.fet` ! `p.f.ekt` (E)
 * fehl `f.el`
   * : fehler `f.el.er`
     * *fehler* `f-er`
@@ -1675,7 +1675,7 @@
 * l<b>*aut*</b> `(.aut)` ! `l.aut`
   * : l<b>*aut*</b>er `(.aut)-er` ! `l.aut-er`
   * l<b>*äut*</b> `(.äut)`
-    * : ***er***l<b>*äut*</b>er `er.äut-er`
+    * : **er**l<b>*äut*</b>er `er.äut-er`
     * ! läut `l.äut` (BSA)
       * : X `l.äut-er` `er.l.äut-er` `I er.l.äut-er`
 * läuter ← laut
@@ -1799,7 +1799,7 @@
     * : nie**mand** `n.i-ma`
 * **man** `ma`
   * : **man**uell `ma.ell`
-  * : **p***er***man***ent* `p.ma.ent` !~ `p.m.an.eNT`
+  * : **p**er**man***ent* `p.ma.ent` !~ `p.m.an.eNT`
 * *manch* `aCH` E
   * : *manch*er `aCH-er` ! `aCH.er` E
   * : *manch*erlei `aCH-er.l.ei` > `aCH.l.ei` E
@@ -2741,9 +2741,9 @@
   * **s**on `s`
     * : sonate `s.at.e` ! `s.on.at.e`
     * : **kon**<i></i>**s**onant `ko-s.ant` ~ `ko-s.aNT`
-    * : **p***er***s**on `p-s` × **p**er~~son~~ `p` E
-    * : **p***er***s**onal `p-s.al` × **p**er~~son~~al `p.al`
-    * : **p***er***s**ön*lich* `p-s.L` × **p**er~~sön~~*lich* `p.L` E
+    * : **p**er**s**on `p-s` × **p**er~~son~~ `p` E
+    * : **p**er**s**onal `p-s.al` × **p**er~~son~~al `p.al`
+    * : **p**er**s**ön*lich* `p-s.L` × **p**er~~sön~~*lich* `p.L` E
 * *sonder* `S` V
   * : *sonder***bar** `S.bar` (BSA)
     * : *sonder***bar**ste `S.barst.e` (BSA)
