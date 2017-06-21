@@ -142,7 +142,7 @@
     * ~ *darauf* `dar-AU` BSA
 * *aus* `.S` V
   * **h***er**aus* `h.S` ~ `er.S` ~ `er-s`
-  * *vor*<i></i>*aus* `O-S``
+  * *vor*<i></i>*aus* `O-S`
   * auss `.auss`
     * : *außen* `.auss` BSA
     * : *außer* `.auss` BSA
@@ -364,7 +364,7 @@
   * : chemiker `ch.em.ik-er` (BSA)
   * : chem*isch* `ch.em.i` (BSA)
   * *chemikal* `ch.em.ik` BSA
-    * : *chemikal*ien `ch.em.ik.I.en (BSA)
+    * : *chemikal*ien `ch.em.ik.I.en` (BSA)
   * **chem** `ch`
     * : **chem**ie `ch.I`
     * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
@@ -917,7 +917,7 @@
     * **sch**on.fr**ü**her `sch-Ü-er`
 * -f**u**g- `-u` ! `f.ug`
   * : bef**u**g<b>*nis*</b> `b.e-u-is`
-  * f**ü**g `-Ü` = `.üg` ! f.üg`
+  * f**ü**g `-Ü` = `.üg` ! `f.üg`
     * : anf**ü**g `.an-Ü`
     * : bei*ge*f**ü**gt `b.ei-Ü` ~ `b.ei-Ü-G`
     * : einf**ü**g `N-Ü`
@@ -1619,7 +1619,7 @@
       * : X `kus.es` `ko.k.us`
     * : **kon**<b>*kurs*</b> `ko,kus` ~ `ko.us`
 * **kurz** `ku` BSA
-  * : X `ku.um` `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` .ab.kÜ` `E.kÜ`
+  * : X `ku.um` `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E.kÜ`
 * k**u**t `u`
   * : *dis*k**u**tier `ds-u.ir`
   * k**u**ss `u`
