@@ -1170,7 +1170,7 @@
     * : X `.ab,hit` `b,hit` `eNT,hit` `er,hit` `UNTER,hit` `Z-rÜ,hit`
     * : **er**<i></i>**hielt** `er,hit` ~ **er***hielt* `(er).h`
   * hal<b>*t*</b> `('t)`
-    * : ***er***hal<b>*t*</b> `er('t)`
+    * : **er**hal<b>*t*</b> `er('t)`
     * : *ge*hal<b>*t*</b> `G('t)`
     * : <b>*haus*</b>hal<b>*t*</b> `.aus('t)`
     * : *in*hal<b>*t*</b> `(I):('t)`
