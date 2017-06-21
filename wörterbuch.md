@@ -806,8 +806,8 @@
   * : *auf***find** `AU,fi` = `AU.f.i`
   * : be**find** `b.e,fi` = `b.e-f.i`
   * : emp**find** `.emp,fi` = `.emp-f.i` * empf**i**nd `.emp-i`
-  * : **er****find** `(e)fi` = `(e)f.i`
-  * : **er****find**er `(e)fi-er` = `(e)f.i-er` ! `(e)fi-er`
+  * : **er**<i></i>**find** `(e)fi` = `(e)f.i`
+  * : **er**<i></i>**find**er `(e)fi-er` = `(e)f.i-er` ! `(e)fi-er`
   * : *vor***find** `O,fi` = `O.f.i`
   * : z**u**<i></i>**rück**<i></i>**find** `u-rÜ,fi` = `u-rÜ.f.i`
   * : *zu**<i></i>**samm***en**find** `Z-sa,fi` = `Z-sa.f.i`
@@ -846,8 +846,8 @@
 * flucht ← flieh
 * **folg** `fo` BSA
   * : X `er fo` `er fo-t.e` `wr fo-t` `fo.L` `fo-sa` `G-fo` `zr.fo.ha` `IN.fo` `IN.fo.es.en` `fo.er` `ach.fo.er` `ach.fo.FT` `fo.er-UNG` `ms.er.fo`
-  * : **er****folg** `er.fo` (BSA)
-    * : **er****folg**e `er.fo.e` ! `er.f.og.e` BSA
+  * : **er**<i></i>**folg** `er.fo` (BSA)
+    * : **er**<i></i>**folg**e `er.fo.e` ! `er.f.og.e` BSA
     * **er**folg `er`
   * : *in***folg** `(I)fo` ~ `IN.o`
 * *forder* `F` BSA
@@ -975,7 +975,7 @@
   * : X `ga.H`
   * **gänz** `g` ! `gä`
     * : **gänz***lich* `g.L`
-    * : **er****gänz** `er.g` ! `er.gä`
+    * : **er**<i></i>**gänz** `er.g` ! `er.gä`
     * ! gänz `g.ez` BSA
       * : gänzlich `g.ez.L` (BSA)
       * : **er**gänz `er.g.ez` (BSA)
@@ -1168,7 +1168,7 @@
   * : X `er het` `sI het` `sI hat-en` `hat-ed` `.ir hat-et` `hat-bar` `hat-bar.T` `hat-l.os` `hat-UNG` `ach.hat-ig` `r.ei-hat-ig` `s.az.hat-ig` `b.uch:hat-UNG` `.S.hat` `N.b.e-hat` `eNT.hat-sa.T` `b.ei-b.e-hat` `er.hat` `IN.hat` `.in.hat` `UNTER.hat-UNG` `.aus:hat` `s.ach.E.hat` `AU.hat` `AU.eNT.hat` `O.eNT.hat` `ach.m.ei-em:da.f.hat` `G-hat` `G-hat-Ol` `UN-G,hat` `b.e-het-er` `G-het-er` `E.het-is` `E.het-iss.e` `l.eb.E.het.iss.e` `aCHT.E.het-iss.e` `FT.E.het-iss.e`
   * : **hielt** `hit` (BSA)
     * : X `.ab,hit` `b,hit` `eNT,hit` `er,hit` `UNTER,hit` `Z-rÜ,hit`
-    * : ***er***<i></i>**hielt** `er,hit` ~ ***er****hielt* `(er).h`
+    * : **er**<i></i>**hielt** `er,hit` ~ **er***hielt* `(er).h`
   * hal<b>*t*</b> `('t)`
     * : ***er***hal<b>*t*</b> `er('t)`
     * : *ge*hal<b>*t*</b> `G('t)`
@@ -1469,7 +1469,7 @@
 * **kaum** `kau`
 * -<b>*keit*</b> `T` V
 * **kenn** `k` = `k.e`
-  * : an**er****kenn** `.an.er.k` × an**er**~~kenn~~ `.an.er`
+  * : an**er**<i></i>**kenn** `.an.er.k` × an**er**~~kenn~~ `.an.er`
   * : ***er***<i></i>**kenn**t*nis* `er.k.is`
   * **kann** `ka`
     * : **kann**te `ka-t.e`
@@ -1779,7 +1779,7 @@
 * **mahn** `ma` ! `m.an`
   * : **mahn***ung* `ma-UNG`
   * : an**mahn** `.an.ma`
-  * : **er****mahn** `er.ma`
+  * : **er**<i></i>**mahn** `er.ma`
 * makel ← mach
 * mal `m.al` (E)
   * -**mal** `ma` E
@@ -2394,8 +2394,8 @@
     * : kor**r**igier `k.or-r.ir` ! `k.or-r.ig.ir` BSA ≠ *korrespond*ier `k.orr.ir`
 * **reich** `r.ei` E
   * : be**reich** `b.e-r.ei` ~ `b.e-eich`
-  * : **er****reich** `(er)r.ei`
-  * : **er****folg**<i></i>**reich** `er.fo.r.ei` × **er**~~folg~~**reich** `er-r.ei` ~ `er,r.ei`
+  * : **er**<i></i>**reich** `(er)r.ei`
+  * : **er**<i></i>**folg**<i></i>**reich** `er.fo.r.ei` × **er**~~folg~~**reich** `er-r.ei` ~ `er,r.ei`
   * : *über***reich** `Ü.r.ei` ~ `Ü.eich`
   * : umf<b>*ang*</b>**reich** `.um:ang.r.ei` × um~~fang~~**reich** `.um.r.ei` ~ `.um:eich`
 * reif `r.eif`
@@ -2711,7 +2711,7 @@
   * **satz** `sa` ! `s.az` (E)
     * : **satz***ung* `.az*`
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
-    * : **er****satz** `er-sa`
+    * : **er**<i></i>**satz** `er-sa`
     * : **grund**<i></i>**sätz***lich* `gru.s.L`
 * semi<b>*nar*</b> `(n.ar)`
 * setz ← sitz
@@ -3167,7 +3167,7 @@
   * **füll** `fÜ` BSA
     * : X `fÜ.ed` `fÜ-er` `ach.fÜ` `Ü.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ.bar` = `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
     * **füll**e `fÜ.e`
-    * **er****füll** `er.fÜ` * **er**f**ü**ll `er-Ü`
+    * **er**<i></i>**füll** `er.fÜ` * **er**f**ü**ll `er-Ü`
 * volv `v.ow`
   * : revolver `r.e-w.ow-er`
   * volt `v.ot`
@@ -3307,7 +3307,7 @@
 * wert `wet` (E)
   * abwert `.ab.wet`
   * -wer<b>*t*</b> `('t)`
-    * : **er****streb**enswer<b>*t*</b> `(er)str,('t)`
+    * : **er**<i></i>**streb**enswer<b>*t*</b> `(er)str,('t)`
 * wes ← sein
 * wett `w.et`
 * **wicht** `wi` ! `w.icht`
@@ -3410,7 +3410,7 @@
 * **zahl** `za` E
   * : **zahl***ung* `za*`
   * : **zähl** `z` ! `z.el` (E)
-  * : **er****zähl** `er.z` E
+  * : **er**<i></i>**zähl** `er.z` E
 * zahn `za`
 * <b>*zed*</b> `.ed`
   * : **kon**<b>*zed*</b>ier `ko.ed.ir`
