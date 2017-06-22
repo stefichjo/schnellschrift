@@ -2970,7 +2970,7 @@
   * *täg* `teg` E
   * : **donn**ers*tag* `do.tag`
   * : fr<b>*ei*</b>*tag* `.ei=tag`
-  * : *tag*~~für~~*tag* `tag.tag` S
+  * : *tag*.~~für~~.*tag* `tag.tag` S
 * tang `t.ang`
   * : tangier `t.ang.ir`
   * : tang*ent*e `t.ang.eNT.e` ! `t.ang.ent.e`
