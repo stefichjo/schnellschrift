@@ -1,48 +1,81 @@
 # Wörterbuch
 
-* ab `.ab`
-* abend `.ab.ed` (BSA)
-  * : abend*lich* `.ab.ed.L` (BSA)
-  * : abends `.ab.eds` (BSA)
-  * : *vor*abend `O.ab.ed` (BSA)
-  * ~~ab~~end `(.ed)`
-* aber `.ab-er` (BSA)
-  * *aber* `ber`
-* acht `.acht`
-  * : beobacht `b.e-ob.acht`
-  * *achten* `.a`
-    * : **gut***achten* `gu.a` * g**u**t*achten* `u.a`
-* *adress* `.adr`
-* *afrik* `.afr`
-  * : *afrik* `.afr.a` » `.afr`
-  * : *afrik*an*isch* `.afr.i`
-* ag `.ag`
-  * : agier `.ag.ir`
-  * akt `.akt`
-    * : akt*ion*är `.akt-iO.är` = `.ak.t.iO.är` BSA ~ *aktionär* `.I.är` BSA
-    * : aktuell `.akt-ell` = `.ak.t.ell` (BSA)
-    * : aktualität `.akt-al.ät` = `.ak.t.al.ät` (BSA)
+## Kürzungen
+
+### Anlautkürzung
+
+* kurz `ku`
+
+### Auslautkürzung
+
+* *viel* `.il`
+
+## Kürzel
+
+* **auf** `AU`
+* **aus** `.S`
+* **so** `.o`
+* **tag** `tag`
+* **unter** `UNTER`
+* **volk** `V`
+* **vom** `v°`
+
+### Anlautkürzel
+
+* **bi**s `bi`
+* **f**ür `f`
+* **v**on `v`
+
+### Auslautkürzel
+
+* ab**end** `(.ed)`
+* de**n** `(n)`
+* mon**at** `(.at)`
+
+#### Formkürzung (sts) ?
+
+* ~~dank~~bar `(bar)`
+
+### Inlautkürzel (sts)
+
+* **i**st `i`
+* t**o**n `o`
+
+## Ausschreibungen
+
+* (stark) `st.ak`
+* !(art) `.art`
+
+
+---
+
+* (ab) `.ab`
+* ~~ab~~**end** `(.ed)`
+* **aber** `ber`
+* (acht) `.acht`
+  * **a**cht~~en~~ `.a`
+    * : gut**a**cht~~en~~ `gu.a` * g**u**t**a**cht~~en~~ `u.a`
+* **adr**ess `.adr`
+* **afr**ik `.afr`
+  * : **afr**ika `.afr.a` » `.afr`
+  * : **afr**ikanisch* `.afr.i` @-an-
+* (ag) `.ag`
+  * (akt) `.akt` = `.ak.t` BSA @sts
     * -*akt*- `'t`
-      * : *akt*<i></i>*ion* `'t-iO`
-      * : *akt*ivier `'t-iv.ir`
-      * : *akt*ualität `'t-al.ät`
-      * : *akt*uell `'t-ell`
-      * : *in*<i></i>*akt*ivität `(I)'t-iv.ät`
-      * : re*aktion*är `r.e't-iO.är`
-      * : re*akt*or `r.e't-or` ! `r.e-akt-or`
-      * : **trans***akt*<i></i>*ion* `tra't-iO`
+      * : (re)*akt*(or) `r.e't-or`
+	    * ! (reaktor) `r.e-akt-or`
     * ~~akt~~**i** `(.I)` E
       * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är` E
-* -*age* `.asch.e`
-* *akadem* `.ak.ad` BSA
-  * : *akadem*ie `.ak.ad.I` (BSA)
-  * : *akadem*ien `.ak.ad.I.n` (BSA)
-  * : *akadem*iker `.ak.ad.ik-er` (BSA)
-  * : *akadem*isch `.ak.ad.i` (BSA)
+* -(age) `.asch.e`
+* **akad**em `.ak.ad` BSA @ist -em- Ausfall normal?
 * *all* `.al` V
-  * : *vor*.*all*em `O .al.em` ~ `O.a` * `O-a`
+  * : *vor*.*all*(em) `O .al.em` ~ `O.a` * `O-a`
 * als `.as` V
 * also `.as.o` V
+
+
+---
+
 * alt `.at` ! *alt* `.alt` BSA
   * : alter `.at-er` (BSA)
   * : alter*tum* `.at-er.tum` (BSA)
