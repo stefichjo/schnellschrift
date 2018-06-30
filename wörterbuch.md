@@ -36,6 +36,10 @@
 
 * ~~dank~~bar `(bar)`
 
+##### ?
+
+* gut `gu`
+
 ### Inlautkürzel (sts)
 
 * **i**st `i`
@@ -53,8 +57,10 @@
 * ~~ab~~**end** `(.ed)`
 * **aber** `ber`
 * (acht) `.acht`
-  * **a**cht~~en~~ `.a`
-    * : gut**a**cht~~en~~ `gu.a` * g**u**t**a**cht~~en~~ `u.a`
+  * : gut**a**chten `gu.a.en`
+    * * g**u**t**a**cht~~en~~ `u.a`
+  * : gut**a**chter `gu.a.er`
+    * * gut~~acht~~er `gu,er`
 * **adr**ess `.adr`
 * **afr**ik `.afr`
   * : **afr**ika `.afr.a` » `.afr`
