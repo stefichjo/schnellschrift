@@ -66,27 +66,24 @@
   * : **afr**ika `.afr.a` » `.afr`
   * : **afr**ikanisch* `.afr.i` @-an-
 * (ag) `.ag`
-  * (akt) `.akt` = `.ak.t` BSA @sts
+  * (akt) `.akt` = `.ak.t`
     * -*akt*- `'t`
       * : (re)*akt*(or) `r.e't-or`
 	    * ! (reaktor) `r.e-akt-or`
     * ~~akt~~**i** `(.I)` E
       * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är` E
 * -(age) `.asch.e`
-* **akad**em `.ak.ad` BSA @ist -em- Ausfall normal?
+* **akad**em `.ak.ad` @-em-?
 * *all* `.al` V
   * : *vor*.*all*(em) `O .al.em` ~ `O.a` * `O-a`
 * als `.as` V
 * also `.as.o` V
-
+* (alt) `.at` ! !(alt) `.alt`
+  * : (alter) `.at-er`
+    * : (*ge*altert) `G-at-er` ! `G-at-ert` ≠ *ge*tragen
 
 ---
 
-* alt `.at` ! *alt* `.alt` BSA
-  * : alter `.at-er` (BSA)
-  * : alter*tum* `.at-er.tum` (BSA)
-  * : *ge*altert `G-at-er` ! `G-at-ert` BSA ≠ *ge***trag**en
-  * : *über*alt `Ü.at-er` (BSA)
   * : *von*.alters.*her* `v.at-er.h` (BSA)
   * : älter `.ät-er` (BSA)
   * : ältest `.ät.est` (BSA)
