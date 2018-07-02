@@ -4,11 +4,17 @@
 
 ### Anlautkürzung
 
+* dar `dar`
 * gut `gu`
 * kurz `ku`
 
+#### keine Anlautkürzung
+
+* ab `.ab`
+
 ### Auslautkürzung
 
+* *schreib* `.eib`
 * *viel* `.il`
 
 ## Kürzel
@@ -45,38 +51,39 @@
 
 ## Ausschreibungen
 
+
 * (stark) `st.ak`
 * {art} `.art`
 
 
+
 ---
 
-* (ab) `.ab`
+* ab `.ab`
 * ~~ab~~**end** `(.ed)`
 * **aber** `ber`
-* (acht) `.acht`
+* acht `.acht`
   * -**a**cht- `.a`
+    * : be**a**chten `be.a` ! `be.acht`
     * : gut**a**chten `gu.a.en` » `gu.a` ~ u.a` 
     * : gut**a**chter `gu.a.er` × `gu,er`
-* **adr**ess `.adr`
-* **afr**ik `.afr`
-  * : **afr**ika `.afr.a` » `.afr`
-  * : **afr**ikanisch* `.afr.i`
-* (ag) `.ag`
-  * (akt) `.akt` = `.ak.t`
-    * -*akt*- `'t`
-      * : (re)*akt*(or) `r.e't-or`
-	    * ! (reaktor) `r.e-akt-or`
-    * ~~akt~~**i** `(.I)`
+* adr~~ess~~ `.adr`
+* afr~~ik~~ `.afr` : `.afr.i`
+  * : afr~~ik~~a `.afr.a` » `.afr`
+* ag `.ag`
+  * akt `.akt` = `.ak.t`
+    * -**akt**- `'t`
+      * : re*akt*or `re't-or` ! `re.akt-or`
+    * ~~akt~~**i** `(.I)` : `(.I).e`
       * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är`
-* -(age) `.asch.e`
-* **akad**em `.ak.ad` @-em-?
+* -age `.asch.e`
+* akad~~em~~ `.ak.ad`
 * *all* `.al`
-  * : *vor*.*all*(em) `O .al.em` ~ `O.a` * `O-a`
+  * : *vor*.*all*em `O .al.em` ~ `O.a` * `O-a`
 * als `.as`
 * *also* `.as.o`
-* (alt) `.at` : `.at-er`
-  * ! !(alt) `.alt`
+* alt `.at` : `.at-er`
+  * ! {alt} `.alt`
 
 ---
 
@@ -1732,6 +1739,13 @@
 * lehr `l.er`
   * ~~leh~~rer `(r)-er` ~ `r-er`
   * ~~lehr~~ling `(l.ing)` ~ `l.ing`
+
+---
+
+* **lei**cht `lei`
+
+---
+
 * leih `l.eih`
   * anleih `.an.l.eih` ~ `.an.l.ei`
   * lieh `l.ih`
@@ -1827,8 +1841,13 @@
   * -**mand** `ma` E
     * : je**mand** `j.e-ma`
     * : nie**mand** `n.i-ma`
-* **man** `ma`
-  * : **man**uell `ma.ell`
+
+---
+
+* man `ma` : manuell `ma.ell`
+
+---
+
   * : **p<b>*er*</b>man***ent* `p.ma.ent` !~ `p.m.an.eNT`
 * *manch* `aCH` E
   * : *manch*er `aCH-er` ! `aCH.er` E
@@ -3287,8 +3306,14 @@
   * : abweich `.ab.w.eich` ~ `.ab.w.ei`
   * : z**u**<i></i>**rück**weich `u-rÜ:w.eich` ~ `u-rÜ:w.ei`
 * weiger `w.eig-er` (E)
-* <b>*weil*</b> `.eil`
-  * <b>*weil*</b>e `.eil.e` ! `w.eil.e`
+
+---
+
+* (weil) `w.eil` : `w.eil.e`
+  * ! *weil* `.eil` : `.eil.I`
+
+---
+
 * w<b>*eis*</b> `(.eis)` E
   * : bew<b>*eis*</b> `b.e-eis`
   * : ~~mög~~*lich*erw<b>*eis*</b>e `(L).eis.e`
