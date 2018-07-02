@@ -30,24 +30,21 @@
 
 ### Anlautkürzel
 
-* **bi**s `bi`
-* **f**ür `f`
-* **v**on `v`
+* bi~~s~~ `bi`
+* f~~ür~~ `f`
+* v~~on~~ `v`
 
 ### Auslautkürzel
 
-* ab**end** `(.ed)`
-* de**n** `(n)`
-* mon**at** `(.at)`
-
-#### Formkürzung (sts) ?
-
+* ~~ab~~end `(.ed)`
+* ~~de~~n `(n)`
+* ~~mon~~at `(.at)`
 * ~~dank~~bar `(bar)`
 
-### Inlautkürzel (sts)
+### Inlautkürzel (sts: ?)
 
-* **i**st `i`
-* t**o**n `o`
+* i~~st~~ `i`
+* ~~t~~o~~n~~ `o`
 
 ## Ausschreibungen
 
@@ -60,28 +57,28 @@
 ---
 
 * ab `.ab`
-* ~~ab~~**end** `(.ed)`
+* ~~ab~~end `(.ed)`
 * **aber** `ber`
 * acht `.acht`
-  * -**a**cht- `.a`
-    * : be**a**chten `be.a` ! `be.acht`
-    * : gut**a**chten `gu.a.en` » `gu.a` ~ u.a` 
-    * : gut**a**chter `gu.a.er` × `gu,er`
+  * -a~~cht~~- `.a`
+    * : bea~~cht~~en `be.a` ! `be.acht`
+    * : guta~~cht~~en `gu.a.en` » `gu.a` ~ u.a` 
+    * : guta~~cht~~er `gu.a.er` × `gu,er`
 * adr~~ess~~ `.adr`
 * afr~~ik~~ `.afr` : `.afr.i`
   * : afr~~ik~~a `.afr.a` » `.afr`
 * ag `.ag`
   * akt `.akt` = `.ak.t`
-    * -**akt**- `'t`
-      * : re*akt*or `re't-or` ! `re.akt-or`
-    * ~~akt~~**i** `(.I)` : `(.I).e`
-      * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är`
+    * -**akt**- `'t` : `re't-iO`
+      * : re**akt**or `re't-or` ! `re.akt-or`
+    * ~~akt~~i `(.I)` : `(.I).e`
+      * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
 * akad~~em~~ `.ak.ad`
-* *all* `.al`
-  * : *vor*.*all*em `O .al.em` ~ `O.a` * `O-a`
+* **all** `.al`
+  * : **vor**.**all**em `O .al.em` ~ `O.a` * `O-a`
 * als `.as`
-* *also* `.as.o`
+* **also** `.as.o`
 * alt `.at` : `.at-er`
   * ! {alt} `.alt`
 
@@ -301,11 +298,11 @@
   * ! ~~bind~~ : `(I)E.M` `(I)E.s`
   * band `ba`
     * bänd `b` : `E.b.e`
-      * ! !(bänd) `b.änd` : `b.änd.i`
-      * ! **bä**nd `bä` : `bä-e`
+      * ! {bänd} `b.änd` : `b.änd.i`
+      * ! bä~~nd~~ `bä` : `bä-e`
   * bund `bu`
     * bünd `bÜ` :
-      * ! **bü**nd `bü` : `bü.el`
+      * ! bü~~nd~~ `bü` : `bü.el`
 
 ---
 
@@ -1742,7 +1739,7 @@
 
 ---
 
-* **lei**cht `lei`
+* lei~~cht~~ `lei`
 
 ---
 
@@ -3456,10 +3453,10 @@
 
 * wort `wot` (E)
   * ~~wort~~ : `aNT`
-  * -w**o**rt- `o` : `bi-o` `hau-o`
-    * : **macht**w**o**rt `aCHT-o`
-    * : *schlag*w**o**rt `.ag-o`
-    * : *sprich*w**o**rt `.ich-o`
+  * -~~w~~o~~rt~~- `o` : `bi-o` `hau-o`
+    * : **macht**~~w~~o~~rt~~ `aCHT-o`
+    * : *schlag*~~w~~o~~rt~~ `.ag-o`
+    * : *sprich*~~w~~o~~rt~~ `.ich-o`
 
 ---
 
@@ -3503,7 +3500,7 @@
 
 ---
 
-* *zeit* `T` E
+* *zeit* `T`
 
 ---
 
