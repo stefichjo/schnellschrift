@@ -20,6 +20,7 @@
 * **unter** `UNTER`
 * **volk** `V`
 * **vom** `v°`
+* **vor** `O`
 
 ### Anlautkürzel
 
@@ -45,7 +46,7 @@
 ## Ausschreibungen
 
 * (stark) `st.ak`
-* !(art) `.art`
+* {art} `.art`
 
 
 ---
@@ -54,30 +55,28 @@
 * ~~ab~~**end** `(.ed)`
 * **aber** `ber`
 * (acht) `.acht`
-  * : gut**a**chten `gu.a.en`
-    * * g**u**t**a**cht~~en~~ `u.a`
-  * : gut**a**chter `gu.a.er`
-    * * gut~~acht~~er `gu,er`
+  * -**a**cht- `.a`
+    * : gut**a**chten `gu.a.en` » `gu.a` ~ u.a` 
+    * : gut**a**chter `gu.a.er` × `gu,er`
 * **adr**ess `.adr`
 * **afr**ik `.afr`
   * : **afr**ika `.afr.a` » `.afr`
-  * : **afr**ikanisch* `.afr.i` @-an-
+  * : **afr**ikanisch* `.afr.i`
 * (ag) `.ag`
   * (akt) `.akt` = `.ak.t`
     * -*akt*- `'t`
       * : (re)*akt*(or) `r.e't-or`
 	    * ! (reaktor) `r.e-akt-or`
-    * ~~akt~~**i** `(.I)` E
-      * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är` E
+    * ~~akt~~**i** `(.I)`
+      * : ~~akt~~**i**onär `(.I).on.är` ~ `(.I).är`
 * -(age) `.asch.e`
 * **akad**em `.ak.ad` @-em-?
-* *all* `.al` V
+* *all* `.al`
   * : *vor*.*all*(em) `O .al.em` ~ `O.a` * `O-a`
-* als `.as` V
-* also `.as.o` V
-* (alt) `.at` ! !(alt) `.alt`
-  * : (alter) `.at-er`
-    * : (*ge*altert) `G-at-er` ! `G-at-ert` ≠ *ge*tragen
+* als `.as`
+* *also* `.as.o`
+* (alt) `.at` : `.at-er`
+  * ! !(alt) `.alt`
 
 ---
 
@@ -3001,6 +3000,14 @@
   * syst<b>*em*</b>atik `(.em).ik`
   * syst<b>*em*</b>atisch `(.em).i`
   * syst<b>*em*</b>atisier `(.em).ir`
+
+---
+
+* -t
+  * ! (-t) `G-at-ert`
+
+---
+
 * tabelle `t.ab.ell.e` » `tab` E
 * *tag* `tag` E
   * *täg* `teg` E
