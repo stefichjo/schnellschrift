@@ -323,8 +323,14 @@
     * : *ge*bet `G-b.et` (BSA)
       * : *un*<i></i>*ge*bet `UN-G,b.et` (BSA)
 * **blatt** `bla`
-* **bleib** `bl.ei`
-  * **blieb** `bl.i`
+
+---
+
+* bleib `blei`
+  * (blie~~b~~) `bl.i`
+
+---
+
 * <b>*blick*</b> `.ik` BSA
   : X `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik` `.aug.ik` `.aug.ik.L`
 * <b>*boot*</b> `.ot`
@@ -867,6 +873,14 @@
   * : *ent*<b>*flieh*</b> `eNT.ih`
   * <b>*floh*</b> `.oh`
   * **flucht** `.ucht`
+
+---
+
+* flekt `fl` ! `fl.ekt`
+  * flex `fl` : `fl.ib.el` `fl.iO`
+
+---
+
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
@@ -1237,16 +1251,14 @@
 
 * haupt `hau` : `er b.e-hau.et.e` `hau.s.ach.e` = `hau:s.ach.e` `hau:E.s.am.l-UNG`
   * häupt `häu` : `häu-er` `häu-ing`
+* *haus* `.aus` : `.im.aus.e` `v.aus.S` `kr.ak.aus` `sta.aus`
+  * *häus* `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
+    * : **ge***häus*e `G-äus.e` ! `G-h.äus.e`
+* heiß `hei`
+  * (hie~~ß~~) `h.i` ! `h.iss`
 
 ---
 
-* <b>*haus*</b> `.aus` BSA
-  * : X `.im.aus.e` `v.aus.S` `kr.ak.aus` `sta.aus`
-  * <b>*häus*</b> `.äus` (BSA)
-    * : X `.äus.er` `.äus.L` `.äus.ch.en`
-    * : *ge*<b>*häus*</b>e `G-äus.e` ! `G-h.äus.e` (BSA)
-* **heiß** `h.ei`
-  * **hieß** `h.i` ! `h.iss`
 * -*heit* `H` V
 * helf `h.ef` (BSA)
   * : X `ach.h.ef` `I h.ef-er.in` `(r) h.ef-er.h.ef-er`
@@ -1326,6 +1338,13 @@
 * **hundert** `hu` BSA
   * : X `3.hu` `5,hu` `hu.FT`
   * : **jahr**<i></i>**hundert** `ja.hu`
+
+---
+
+* (hut) `h.ut`
+
+---
+
 * -*ial* `.iaL` BSA
   * -*iell* `.ieL` BSA
   * : X `g.en.iaL` `g.üm.n.as.iaL` `.of.iz.ieL` = `.of.ieL`
@@ -1502,6 +1521,14 @@
     * : *ver*<b>*käuf*</b>erin `E.äuf-er.in` (BSA)
 * **kaum** `kau`
 * -<b>*keit*</b> `T` V
+
+---
+
+* *kehr* `.er` : `E.er`
+  * ! (kehr) `k.ehr`
+
+---
+
 * **kenn** `k` = `k.e`
   * : an<b>*er*</b><i></i>**kenn** `.an.er.k` × an<b>*er*</b>~~kenn~~ `.an.er`
   * : *<b>*er*</b>*<i></i>**kenn**t*nis* `er.k.is`
@@ -1673,10 +1700,16 @@
     * : *aus***lä**nd*isch* `.S.l.i`
     * : *ge*<i></i>*länd*e `G-l.e` ! `G-l.ed.e`
     * : *ge*<i></i>*länd*er `G-l-er` ! `G-l.ed-er`
-* <b>*lang*</b> `ang` BSA
+
+---
+
+* *lang* `ang` BSA
   * : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang` `(.at.ang)` `st.ud.ang` `w.och.ang` `s.T-ang`
   * : `eng.er` `eng.er-er` `eng+st` `eng+st-es` `eng+st-s` `E.eng-er` `E.eng.er-UNG` `UN-z.l.eng.L` ≠ *un*<i></i>*zu*<b>*gäng*</b>*lich* `UN-z.eng.L`
   * : <b>*läng*</b>er `eng-er` ~ `NGR`
+
+---
+
 * l<b>*ass*</b> `(.ass)` ! <b>*lass*</b> `ass`
   * : *aus*.anl<b>*ass*</b> `.S.an.ass`
     * *aus*.an~~lass~~ `.S.an`
@@ -2162,9 +2195,13 @@
       * : be~~g~~<b>*nüg*</b> `b.e-üg`
 * **num** `nu`
 * **nun** `nu` E
-* n<b>*ur*</b> `(UR)` V
-  * : aber n<b>*ur*</b> `.ab-er (UR)` (BSA)
-    * . aber.n<b>*ur*</b> `.ab-er-UR` ! `.ab-er.UR` (BSA)
+
+---
+
+* ~~n~~ur `(UR)`
+
+---
+
 * **nutz** `nu`
   * : **nütz** `nÜ`
   * : *eigen***nütz**<i></i>**ig** `.eig.nÜ.i` * *eigen*n**ü**tz**ig** `.eig-Ü.i`
@@ -2944,9 +2981,15 @@
 * stick `st.ik`
 * stil `st.il`
 * <b>*still*</b> `.ill`
-* <b>*stimm*</b> `.im` E
-  * be<b>*stimm*</b> `b.e-im` ! `b°-i`
-  * *mit*be<b>*stimm*</b> `M.b.e-im` ! `M,b°-i` ~ `M°`
+
+---
+
+* *stimm* `.im` : `b.e-im`
+  * ! **bestimm** `b°-i`
+    * : **mit****bestimm** `M,b°-i` ~ `M°`
+
+---
+
 * **stoff** `.of`
 * ***stolz*** `.oz`
 * **straf** `stra`
@@ -3126,10 +3169,16 @@
 * **tret** `tr.e` ! `tr.et`
   * **tritt** `tri` = `tr.i` ~ `.it` ≠ **trieb**
   * **trat** `tra`
-* **treib** `trei` = `tr.ei` ! `tr.eib` (E)
-  * : *auf***treib** `(AU)tr.ei` ~ `AU.eib` E
-  * **trieb** `tri` = `tr.i`
-    * : be**trieb** `(b.e)tr.i` ~ `b.e-ib` E
+
+---
+
+* treib `trei` ! `tr.eib`
+  * : *auf*treib `(AU)trei` ~ `AU.eib`
+  * (trie~~b~~) `tr.i`
+    * : be(trie~~b~~) `(b.e)tr.i` ~ `b.e-ib`
+
+---
+
 * treu `treu`
 * -*tum* `tum` V
   * -*tüm* `tYm` V
@@ -3248,10 +3297,14 @@
   * *wächs* `wes` E
   * *wuchs* `wus` E
   * *wüchs* `wüs` E
-  * *wechs*el `wes.l` E
-    * *wechsel* `s.l`
-      * : *aus*<i></i>*wechsel* `.S-s.l` ~ `.S.S.l`
-      * : *ver*<i></i>*wechsel* `E-s.l`
+
+---
+
+  * **wechs**el `wes.el`
+    * **wechsel** `S.el` : `.ab.S.el` `.S.S.el` `.um.S.el` `E-S.el`
+
+---
+
 * **wag** `wa` ! `w.ag`
   * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa`
   * : **kraft**<i></i>**wag**en `kra.wa`
