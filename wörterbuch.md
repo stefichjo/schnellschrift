@@ -3,7 +3,6 @@
 ## Ausstoß von l, n, r
 
 * ***stark*** `st.ak`
-* <i>**stark**</i> `st.ak`
 
 ## Redeschrift
 
@@ -2996,8 +2995,14 @@
 * stamm `st.am`
 * stand ← steh
 * ~~stand~~ard `(.ard)` ~ `(ard)` ! `st.ad.ad` (E)
-* stark `st.ak` (E)
-  * : stärke `st.äk.e` (E)
+
+---
+
+* ***stark*** `st.ak`
+  * : ***stärk***e `st.äk.e`
+
+---
+
 * **start** `stat`
 * statt ← steh
 * stech `st.ech`
