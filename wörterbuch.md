@@ -81,7 +81,7 @@
 * ag `.ag`
   * akt `.akt` = `.ak.t`
     * -**akt**- `'t` : `re't-iO`
-      * : **re****akt**or `re't-or` ! `re.akt-or`
+      * : **re**<i></i>**akt**or `re't-or` ! `re.akt-or`
     * ~~akt~~i `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
@@ -1283,7 +1283,7 @@
   * **häupt** `häu` : `häu-er` `häu-ing`
 * ***haus*** `.aus` : `.im.aus.e` `v.aus.S` `kr.ak.aus` `sta.aus`
   * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
-    * : *ge****häus***e `G-äus.e` ! `G-h.äus.e`
+    * : *ge**<i></i>**häus***e `G-äus.e` ! `G-h.äus.e`
 * **heiß** `hei`
   * hie~~ß~~ `h.i` ! `h.iss`
 
@@ -1735,7 +1735,7 @@
 
 * ***lang*** `ang` : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * ***läng*** `eng` : `eng+st` `eng+st-es` `eng+st-s`
-    * : *un**zu****läng****lich* `UN-z.eng.L` ! `UN-z.l.eng.L` ≠ `UN-z.eng.L`
+    * : *un**zu**<i></i>**läng**<i></i>**lich* `UN-z.eng.L` ! `UN-z.l.eng.L` ≠ `UN-z.eng.L`
     * * *länger* `NGR` : `E.NGR`
 
 ---
@@ -2672,7 +2672,7 @@
 ---
 
 * ***scheid*** `.eid` : `be-eid`
-  * : *ent****scheid*** `eNT.eid` ~ `eNT.ei`
+  * : *ent**<i></i>**scheid*** `eNT.eid` ~ `eNT.ei`
   * ***schied*** `.id` : `.ab.id` `b.e-id` `eNT.id` `E.id`
     : schied ! `sch.id`
     * : *mit*.*all*er.*ent***schied***en*heit* `M.al.eNT.id.H` × `M.al.eNT`
@@ -2808,8 +2808,8 @@
 * **sequ** `s`
   * ! sequ `s.equ`
     * : sequenz `s.equ.ez` » `s.equ`
-  * : **kon****sequ**ent `ko-s.ent` » `ko-s` ! `ko.s`
-  * : **kon****sequ**enz `ko-s.ez` ! `ko.s.ez`
+  * : **kon**<i></i>**sequ**ent `ko-s.ent` » `ko-s` ! `ko.s`
+  * : **kon**<i></i>**sequ**enz `ko-s.ez` ! `ko.s.ez`
 
 ---
 
@@ -3094,7 +3094,7 @@
   * ~~str~~u~~kt~~ `u` : `ko,u-O` `IN,u-O` `(I)fra,u-UR`
     * : ~~str~~u~~kt~~ur `u,UR` * `str.uk`
 * ***stück*** `.ük`
-  * **früh*****stück*** `frÜ.ük`
+  * **früh**<i></i>***stück*** `frÜ.ük`
 
 ---
 
