@@ -80,8 +80,8 @@
   * : afr~~ik~~a `.afr.a` » `.afr`
 * ag `.ag`
   * akt `.akt` = `.ak.t`
-    * -**akt**- `'t` : `re't-iO`
-      * : **re**<i></i>**akt**or `re't-or` ! `re.akt-or`
+    * -*akt*- `'t` : `re't-iO`
+      * : **re***akt*or `re't-or` ! `re.akt-or`
     * ~~akt~~i `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
