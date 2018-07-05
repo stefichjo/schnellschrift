@@ -1,6 +1,11 @@
 # Wörterbuch
 
-## Kürzungen
+## Ausstoß von l, n, r
+
+* ***stark*** `st.ak`
+* <i>**stark**</i> `st.ak`
+
+## Redeschrift
 
 ### Anlautkürzung
 
@@ -49,7 +54,6 @@
 ## Ausschreibungen
 
 
-* (stark) `st.ak`
 * {art} `.art`
 
 
@@ -940,10 +944,15 @@
     * : uni<b>*form*</b> `.un.om`
 * forsch `f.osch` (BSA)
   * : X `f.osch.er` `er.f.osch` `I ach.f.osch.en`
-* **frag** `fra` BSA
-  * : X `fra.ed` `sI fra` `sI fra-t.e` `sI fra.t-en` `fra.L` `fra.l.os` `.an.fra` `I b.e-fra-t-en` `G-fra` `ach.fra` `rÜ.fra`
-  * : **frag**e `fra.e` » `fra` E
-* **frau** `frau`
+
+---
+
+* frag `fra` : `fra.ed` `sI fra` `sI fra-t.e` `sI fra.t-en` `fra.L` `fra.l.os` `.an.fra` `I b.e-fra-t-en` `G-fra` `ach.fra` `rÜ.fra`
+  * : frage `fra.e` » `fra`
+* frau `frau`
+
+---
+
 * fr<b>*ei*</b> `(.ei)`
 * **fremd** `fr` = `fr.e`
 * fr**eu** `eu`
@@ -1981,10 +1990,10 @@
 
 ---
 
-* (merk) `m.ek`
-  * : **auf**(merk)**sam** `AU.m.ek-sa`
+* me~~r~~k `m.ek`
+  * : **auf**me~~r~~k**sam** `AU.m.ek-sa`
     * × **auf**~~merk~~**sam** `AU-sa` : `AU-sa.EIT` × `AU.EIT`
-  * : be(merk) `b.e-m.ek` ~ `b.e-m`
+  * : beme~~r~~k `b.e-m.ek` ~ `b.e-m`
 
 ---
 
@@ -2732,22 +2741,19 @@
   * **schwier** `.ir`
     * : **schwier**<i></i>**ig** `.ir.i`
 * schwier ← schwer
+
+---
+
 * seh `s.eh`
   * sieh `s.ih`
   * sah `s.ah`
-  * s<b>*icht*</b> `((I)cht)` ! `s.icht`
-    * : abs<b>*icht*</b> `.ab.icht` * abs**i**cht `.ab-i`
-    * : **an**s<b>*icht*</b> `.an.icht`
-    * : *auf*s<b>*icht*</b> `AU.icht` * *auf*s**i**cht `AU-i`
-    * : *ge*s<b>*icht*</b> `G-icht`
-    * : *hin*s<b>*icht*</b> `hn.icht` * *hin*s**i**cht `hn-i`
-    * : **rück**s<b>*icht*</b> `rÜ.icht` * **rück**s**i**cht `rÜ-i`
-    * : *vor*s<b>*icht*</b> `O.icht` * *vor*s**i**cht `O-i`
-    * : *zu*<i></i>*ver*s<b>*icht*</b> `Z-E.icht` * *zu*<i></i>*ver*s**i**cht `Z-E-i`
-    * *ge*~~sicht~~ `G`
-    * *hin*~~sicht~~ `hn`
-      * : *in*.**jed**er.*hin*~~sicht~~ `(I)j-er.hn` » `(I)j.hn`
-    * **rück**~~sicht~~ `rÜ`
+  * ~~s~~icht `((I)cht)` : `.an.icht` `G-icht`
+    * ! (sicht) `s.icht`
+    * * ~~s~~i~~cht~~ : `.ab-i` `AU-i` `hn-i` `Z-E-i` `O-i`
+    * × ~~sicht~~ : `G` `hn` `rÜ`
+
+---
+
 * **sehr** `s` E
 * seid `s.eid`
   * : seide `s.eid.e`
@@ -3087,6 +3093,13 @@
   * : (stürz) `st.ürz` E
 * **stütz** `stÜ` E
   * *unter***stütz** `UNTER.stÜ` * *unter*st**ü**tz `UNTER-Ü`
+
+---
+
+* sub `su`
+
+---
+
 * **such** `su`
   * : be**such** `b.e-su` = `be-su`
   * : *unter***such** `UNTER.su` * `UNTER-u`
@@ -3107,6 +3120,13 @@
 * *sund* `.und`
   * : *ge*<i></i>*sund* `G-und`
   * : *ge*<i></i>*sund*<i></i>*heit* `G-und.H` * *ge*s**u**nd*heit* `G,u-H` « `u-H`
+
+---
+
+* (sup)er `s.upr`
+
+---
+
 * ~~sym~~bol `(b.ol)`
   * ~~sym~~bolisier `(b.ol).ir`
 * syst<b>*em*</b> `(.em)`
@@ -3429,7 +3449,7 @@
 
 * (weil) `w.eil` : `w.eil.e`
   * * *weil* `.eil` : `.eil.I`
-* (wein) `w.EIN`
+* (wein) `w.N`
   * (wen) `w.en` : `w.en.i`
 
 ---
@@ -3526,10 +3546,10 @@
       * : *gesetz*<i></i>*w*<b>*i*</b>*drig* `-G,i`
       * : <b>*pflicht*</b>*w*<b>*i*</b>*drig* `.icht,i`
       * : *ver***trag**s*w*<b>*i*</b>*drig* `(E)tra,i`
-* wind ← weh
 
 ---
 
+* wind ← weh
 * (wind) `w.id`
   * (wand) `w.ad`
     * (wandel) `w.ad.l` ~ `wa.l`
@@ -3540,13 +3560,13 @@
     * wand `wa` : `b.e-wa-t-is` `N.wa` `G-wa` `E.wa`
       * ! `w.ad`
       * : wandte `wa.t.e` ! `w.adt.e`
+* (winn) `w.in`
+  * : **ge**(winn) `G-w.in` ~ `G-in`
+  * (wann) `w.an` : `G-w.an`
+  * (wonn) `w.on` : `G-w.on`
 
 ---
 
-* winn `w.in`
-  * : *ge*winn `G-w.in` ~ *ge*<b>*winn*</b> `G-in`
-  * : *ge*wann `G-w.an`
-  * : *ge*wonn `G-w.on`
 * **wint** `wit`
   * : **wint**er `wit-er` (E)
 * *wir* `wr` V
@@ -3564,10 +3584,16 @@
   * <b>*weiß*</b> `.eiss`
   * <b>*wuss*</b> `.uss` ! `w.uss` ≠ <b>*muss*</b>
     * : be<b>*wuss*</b>t `b.e-usst`
-* **wo** `wo`
-  * *wor*- `wo` E
-* **woch** `wo`
-  * : **woch**e `wo.e` » `wo`
+
+---
+
+* wo `wo`
+  * **wor** `wo` : `wo.an`
+* woch `wo`
+  * : woche `wo.e` » `wo`
+
+---
+
 * wohl `w.ol`
   * : obwohl `.ob.w.ol`
 * **wohn** `wo`
