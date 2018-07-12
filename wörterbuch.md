@@ -572,7 +572,7 @@
 
 * ***ding*** `.ing`
   * : **be**<i></i>***ding*** `be-ing` ~ `(ng)`
-    * : *un***be**<i></i>***ding***t `UN-be-ing` ~ `UN-t`
+    * : *un*<i></i>**be**<i></i>***ding***t `UN-be-ing` ~ `UN-t`
       * : *un***be**<i></i>***ding***t ***not***<i></i>**wend***ig* `UN-be-ing .ot.w.i` ~ `UN-b.e-o-w.i`
   * : ~~allerdi~~ng `(ng)` : `(ngs)`
 
