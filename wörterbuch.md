@@ -846,7 +846,7 @@
     * : bene**f**iz `b.en.e-f`
     * : de**f**izit `d.e-f.it` × de~~fiz~~it `d.e-it`
     * : e**f**izi*ent* `.e-f.ent` !~ `.e-f.iz.eNT`
-    * : of**f**iziell* `.of-f.ieL` E
+    * : of**f**iz*iell* `.of-f.ieL` E
   * **fekt** `f`
     * : ef**fekt** `.e-f`
     * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
@@ -934,7 +934,7 @@
   * : <b>*er*</b><i></i>**find**er `(e)fi-er` = `(e)f.i-er` ! `(e)fi-er`
   * : *vor***find** `O,fi` = `O.f.i`
   * : z**u**<i></i>**rück**<i></i>**find** `u-rÜ,fi` = `u-rÜ.f.i`
-  * : *zu**<i></i>**samm***en**find** `Z-sa,fi` = `Z-sa.f.i`
+  * : *zu*<i></i>***samm***en**find** `Z-sa,fi` = `Z-sa.f.i`
   * : *zu*.**find** `Z,fi` = `Z-f.i` ~ `Z-fi`
   * **fand** `fa` ! `f.ad`
     * be**fand** `b.e-fa`
@@ -944,7 +944,7 @@
     * : abge**fund** `.ab.fu`
     * : *auf*ge**fund** `AU.fu`
     * : emp**fund** `.emp-fu` = `.emp-f.u` * empf**u**nd `.emp-u`
-    * : z**u**<i></i>**rück***ge***fund** `u-rÜ.fu`
+    * : z**u**<i></i>**rück**<i></i>*ge*<i></i>**fund** `u-rÜ.fu`
 * firm `f.im` (BSA)
   * X `f.im.en` `f.im.ir`
   * <b>*firm*</b> `im`
@@ -1211,7 +1211,7 @@
 * *gestern* `g.est` BSA
   * : X @ `O.g.est` `d g.est`
 * *gift* `git`
-  * **blut***ver**gift* `blu.E,git` * **blut***ver*g**i**ft `blu,E-i`
+  * **blut**<i></i>*ver*<i></i>*gift* `blu.E,git` * `blu,E-i`
 * **ginn** `gi` ~ `.in`
   * : be**ginn** `b.e,gi` = `b.e-g.i` ~ `b.e-in`
   * **gann** `ga`
@@ -1757,7 +1757,7 @@
 
 ---
 
-* **kred** `kr` : `kr.it` `.a-kr.ir` `.a-kr.iv`
+* **kred** `kr` : `kr.it` `.ak-kr.ir` `.ak-kr.iv`
 
 ---
 
