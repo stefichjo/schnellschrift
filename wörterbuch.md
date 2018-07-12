@@ -985,7 +985,7 @@
 * *forder* `F` BSA
   * : X `er F-t` = `er F` `er F-t.e` `er F.e` `F-UNG` `I F` `I F.en`
   * : *auf*<i></i>*forder* `AU.F`
-  * : <b>*er*</b>*forder**lich* `er.F.L` ~ `er.o-L`
+  * : <b>*er*</b>*forder*<i></i>*lich* `er.F.L` ~ `er.o-L`
   * *förder* `Fö` BSA
     * : X `er Fö-t` = `er Fö` `er Fö-t.e` `er Fö-e` `I Fö` `I b.e-Fö.en` `Fö.UNG,ass.n.am.en` `Fö,ass.n.am.en`
 * *fort* `fr` V
@@ -1259,7 +1259,7 @@
   * : biblio**graph**ie `b.ibl.i-gra.I` ! `b.ibl.i-o-gra.I`
   * : **dem**o**graph**ie `d.gra.I` ! `d.o-gra.I`
   * : **ge**o**graph** `ge-gra` ! `g.e-o-gra`
-  * : *para*graph** `par.gra`
+  * : *para***graph** `par.gra`
     * * *paragraph* `pa`
   * : steno**graph** `st.en.gra` ! `st.en.o-gra`
     * ~~sten~~o**graph** `(gra)`
@@ -2784,8 +2784,8 @@
 * schatz `sch.az`
   * schätz `sch.ez`
     * : ab**schä**tz `.ab.sch`
-* ***schau** `.au` `G-au`
-* ***scheh** `.eh`
+* ***schau*** `.au` `G-au`
+* ***scheh*** `.eh`
   * ***schieh*** `.ih`
   * ***schah*** `.ah`
   * ***schäh*** `.äh`
@@ -2794,7 +2794,7 @@
   * : *ent**<i></i>**scheid*** `eNT.eid` ~ `eNT.ei`
   * ***schied*** `.id` : `.ab.id` `b.e-id` `eNT.id` `E.id`
     : schied ! `sch.id`
-    * : *mit*.*all*er.*ent***schied***en*heit* `M.al.eNT.id.H` × `M.al.eNT`
+    * : *mit*.*all*er.*ent***schied**en*heit* `M.al.eNT.id.H` × `M.al.eNT`
     * : *unter*<i></i>***schied*** `UNTER.id` * `UNTER-i`
     * : *ver*ab***schied*** `E.ab.id` × `E.ab`
 * ~~sch~~ein `(N)` : `(N).bar` `.an.N.ed` `be-N.i` `wa.N.L`
@@ -2802,11 +2802,11 @@
   * ~~sch~~ien `(.in)` : `er.in`
     * *ge*~~sch~~ien : `G-in` ~ `G-(.in)`
     * (schien) `sch.in`
+* schicht ← scheh
+* ***schick*** `.ik`
 
 ---
 
-* schicht ← scheh
-* ***schick*** `.ik`
 * schirm `sch.im`
 * schlacht ← schlag
 * schlaf `schl.af`
