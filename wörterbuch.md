@@ -132,7 +132,7 @@
 * also `.as.o`
 * alt `.at` : `.at-er` `.ät-er` `.ät.est` `ki.at-er` `v.at-er.h`
   * ! (alt) `.alt` : `UR.alt`
-* am~~erik` `.am` : `.am.a` `.am.er` `.am.i` `I E.N.i .at.en v .am.a`
+* am~~erik~~ `.am` : `.am.a` `.am.er` `.am.i` `I E.N.i .at.en v .am.a`
 
 ---
 
@@ -1661,50 +1661,27 @@
 
 ---
 
-* ***kehr*** `.er` : `E.er`
+* ~~k~~ehr `(.er)` : `E.er`
   * ! kehr `k.ehr`
-
----
-
-* **kenn** `k` = `k.e`
-  * : an<b>*er*</b><i></i>**kenn** `.an.er.k` × an<b>*er*</b>~~kenn~~ `.an.er`
-  * : *<b>*er*</b>*<i></i>**kenn**t*nis* `er.k.is`
-  * **kann** `ka`
-    * : **kann**te `ka-t.e`
-
----
-
+* k~~enn~~ `k.e` : `be.k` `er.k` `er.k.is`
+  * ~~kenn~~ : `.an.er`
+  * k~~ann~~ `k.a` : `ka-t.e`
 * **kind** `ki` : `ki.H` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
   * ! kind `k.id` : `k.id.i` `k.id.L`
 * ~~kir~~ch `(ch)` : `(ch)L` `(ch)T-UNG`
-
----
-
-* ***klag*** `.ag` BSA
-  * : X `.ag.e` `.ag.bar` `.an.ag` `.an.agt-er` `b.e-ag`
-  * ***kläg*** `.eg` (BSA)
-    * : X `.eg-er` `.eg-er.in` `.an.eg-er` `n.eb.eg-er`
-* <b>*klam*</b> `.am`
-  * re<b>*klam*</b>at*ion* `r.e-am-o` ! `r.e-am.iO` E
-  * re<b>*klam*</b>e `r.e-am.e` E
-
----
-
+* ***klag*** `.ag` : `.ag.e` `.ag.bar` `.an.ag` `.an.agt-er` `be-ag`
+  * ***kläg*** `.äg`
+    * ! *kläg* `.eg` : `.eg-er` `.eg-er.in` `.an.eg-er` `n.eb.eg-er`
+* ***klam*** `.am` : `r.e-am-o` `r.e-am.e`
 * ***klar*** `.ar` : `.ar-er` `.am.arst` `.ar.H`
   * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
     * : *er*<i></i>***klär*** `er.är` ~ `er-r`
+* **klass** `kla` : `kla-e` `kla.ik-er` `kla.i` `kla.if.ir` `kla.if-o`
+  * : **klass**iz*ismus* `kla.iz.iS` > `kla.iS`
+* ~~kl~~ein `(N)` : `(N).er` `(N).H` `(N).T` `(N).L.T` `E.N.er` `zr.N.er` `.am (N)+st`
 
 ---
 
-* **klass** `kla`
-  * : **klass**e `kla`
-  * : **klass**iker `kla.ik-er`
-  * : **klass**<i></i>**isch** `kla.i`
-  * : **klass**iz*ismus* `kla.iz.iS` > `kla.iS`
-  * : **klass**ifizier `kla.if.ir`
-  * : **klass**ifikat*ion* `kla.if-o`
-* kl<b>*ein*</b> `(N)` BSA
-  * : X `(N).H` `(N).T` `(N).L.T` `(N).er` `E.N.er` `zr.N.er` `.am (N)+st` = `.am.(N)+st`
 * **klin** `kli`
   * : **klin**ik `kli.ik`
 * **komm** `ko` BSA
@@ -1853,10 +1830,7 @@
   * ***läng*** `eng` : `eng+st` `eng+st-es` `eng+st-s`
     * : *un**zu**<i></i>**läng**<i></i>**lich* `UN-z.eng.L` ! `UN-z.l.eng.L` ≠ `UN-z.eng.L`
     * * *länger* `NGR` : `E.NGR`
-
----
-
-* l<b>*ass*</b> `(.ass)` ! <b>*lass*</b> `ass`
+* l<b>*ass*</b> `(ass)` ! <b>*lass*</b> `ass`
   * : *aus*.anl<b>*ass*</b> `.S.an.ass`
     * *aus*.an~~lass~~ `.S.an`
   * : *hinter*l<b>*ass*</b> `(I)t-er.ass`
@@ -1869,6 +1843,8 @@
     * : *ver*<b>*nach*</b>l<b>*äss*</b>**ig** `E.ach.ess.i`
   * l<b>*ieß*</b> `(.iss)` ! `l.iss`
     * : *hinter*l<b>*ieß*</b> `(I)t-er.iss`
+---
+
 * last ← lad
 * lat l.at
   * : lateral `l.at-er.al`
@@ -2788,12 +2764,26 @@
       * wirt**schaft** `FT` E
         * **la***nd*wirt**schaft** `la.FT` ~ `a-(wr).FT`
     * <b>*wiss*</b>*schaft* `.iss.FT` ~ `wi.FT`
-* **scha**tz `scha` ! `sch.az`
-  * **schä**tz `sch` ! `sch.ez`
-    * : ab**schä**tz `.ab.sch`
 
 ---
 
+* 
+
+
+`sch.az`
+`sch.ez.e`
+`sch.ez.ch.en`
+`sch.ez*`
+`scha,(er)`
+`scha.S.el`
+
+`sch.ez`
+`G-sch`
+
+
+* schatz `sch.az`
+  * schätz `sch.ez`
+    * : ab**schä**tz `.ab.sch`
 * ***schau** `.au` `G-au`
 * ***scheh** `.eh`
   * ***schieh*** `.ih`
