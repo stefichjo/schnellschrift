@@ -572,15 +572,13 @@
 
 * ***ding*** `.ing`
   * : **be**<i></i>***ding*** `be-ing` ~ `(ng)`
-
     * : *un***be**<i></i>***ding***<i></i>t `UN-be-ing` ~ `UN-t`
-
-      * : *un***be**<i></i>***ding***t ***not***<i></i>**wend***ig* `UN-be-ing .ot.w.i` ~ `UN-b.e-o-w.i`
+      * : *un***be**<i></i>***ding***<i></i>t ***not***<i></i>**wend***ig* `UN-be-ing .ot.w.i` ~ `UN-b.e-o-w.i`
   * : ~~allerdi~~ng `(ng)` : `(ngs)`
+* *dis*- `ds`
 
 ---
 
-* *dis*- `ds` BSA
 * **di**pl<b>*om*</b> `di.om`
   * **di**pl<b>*om*</b>at `di.om.at`
   * **di**pl<b>*om*</b>atie `di.om.I`
@@ -979,7 +977,7 @@
 * **folg** `fo` : `er fo` `er fo-t.e` `wr fo-t` `fo.L` `fo-sa` `er.fo` `G-fo` `zr.fo.ha` `IN.fo` `IN.fo.es.en` `ach.fo.er` `ach.fo.FT` `fo.er-UNG` `ms.er.fo`
     * : *er***folg**e `er.fo-e` ! `er.f.og.e`
     * × ~~folg~~ : `er`
-      * : *er*~~folg~~***reich*** `er.eich` ~ `er,r.ei`
+      * : *er*~~folg~~<i></i>***reich*** `er.eich` ~ `er,r.ei`
   * : *in***folg** `(I)fo` ~ `IN.o`
 
 ---
