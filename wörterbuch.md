@@ -35,6 +35,15 @@
 * kommunikation
 * kommunion
 
+### Anstellen von Vorsilben
+
+* angrenzen `(.an)gr.ez`
+* umlaut `.um:l.aut`
+
+### Anstellen von Wörtern
+
+* in.diesem `(I).iS.em`
+
 ### Ausschreibung
 
 * (alt) `.alt`
@@ -1358,8 +1367,8 @@
     * : anh<b>*ang*</b> `.an.ang`
     * : *vor*h<b>*ang*</b> `O.ang`
     * : *zu***samm**enh<b>*ang*</b> `Z-sa.ang` ~ z**u**~~samm~~enh<b>*ang*</b> `u-ang`
-      * : *in*.*dies*em *zu***samm**enh<b>*ang*</b> `(I)iS.em Z-sa.ang`
-        * × *in*.*dies*em.~~zu~~<i></i>~~samm~~enh<b>*ang*</b> `(I)iS.ang`
+      * : *in*.*dies*em *zu***samm**enh<b>*ang*</b> `(I).iS.em Z-sa.ang`
+        * × *in*.*dies*em.~~zu~~<i></i>~~samm~~enh<b>*ang*</b> `(I).iS.ang`
 * **hart** `hat` BSA
   * : X `het.e` `het-est` `.ab.het` `er.het` `G-het` `E.het-et`
 
@@ -1579,7 +1588,7 @@
     * : im.*ver*~~gang~~enen<b>*jahr*</b> `.im.E.ar`
     * : im.*vor*<b>*jahr*</b> `.im-o.ar`
     * : im.vori*g*en.<b>*jahr*</b> `.im (g).ar`
-    * : *in*.*dies*em.<b>*jahr*</b> `(I)iS.ar`
+    * : *in*.*dies*em.<b>*jahr*</b> `(I).iS.ar`
     * .im.~~jahr~~<i></i>~~e~~.~~19~~.80 `.im,(80)`
 
 ---
@@ -2702,7 +2711,7 @@
   * : amts*ge***richt** `.amt,G,ri` * amts*ge*r**i**cht `.amt,G,i` < `.amt,i`
   * : *ge***richt** `G,ri` * *ge*r**i**cht `G,i`
   * : *ge***richt***lich* `G,ri.L` * *ge*r**i**cht*lich* `G,i-L` ~ `G-(.iL)`@
-  * : *in*.*dies*.er.**richt**ung `(I)iS-er,ri` ! `IN.iS.er,ri` E
+  * : *in*.*dies*.er.**richt**ung `(I).iS-er,ri` ! `IN.iS.er,ri` E
 * <b>*ring*</b> `(.ing)` ! `r.ing`
   * : *ge*<b>*ring*</b> `G-ing`
   * : *ver*<b>*ring*</b> `E.ing`
