@@ -92,7 +92,7 @@
 ### Inlautkürzel
 
 * i~~st~~ `i`
-* ~~t~~o~~n~~ `o`
+* ~~t~~**o**~~n~~ `o`
 
 ## Kürzung
 
@@ -102,7 +102,12 @@
 * **gut** `gu`
 * **kurz** `ku`
 
-#### Ausstoß von Endungen
+#### ohne Auslaut
+
+* **da** `d.a`
+* **ke**~~nn~~ `k.e`
+
+#### Assimilation von Endungen
 
 * **klass**e `kla-e`
 
@@ -620,7 +625,7 @@
   * **drang** `dra`
   * **drung** `dru` : `G-dru` `N.dru`
 * **druck** `dru` : `ach.dru` `N.dru`
-  * ~~dr~~u~~ck~~ `u` : `.S-u`
+  * ~~dr~~**u**~~ck~~ `u` : `.S-u`
   * **drück** `drÜ`
     * *drück* `Y` : `.S-Y.L`
     * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
@@ -635,8 +640,8 @@
 * *durch* `dr`
   * : *da*<i></i>*durch* `.a-dr` * `a-dr`
 * **dürf** `dÜ` : `dÜ-t.e` `h.if:b.e-dÜ-t-ig`
-  * ~~d~~ü~~rf~~ `Ü` : `be-Ü.is` `be-Ü-t-ig`
-    * -~~bed~~ü~~rf~~- `Ü` : `d-Ü.is` `I-Ü.iss.e` `dr.ed-Ü.is` `N-Ü.is` `er.ho-Ü.is` `hi-Ü.ig` `kr.it-Ü-t-ig.T` `E-bes-Ü-t-ig.T`
+  * ~~d~~**ü**~~rf~~ `Ü` : `be-Ü.is` `be-Ü-t-ig`
+    * -~~bed~~**ü**~~rf~~- `Ü` : `d-Ü.is` `I-Ü.iss.e` `dr.ed-Ü.is` `N-Ü.is` `er.ho-Ü.is` `hi-Ü.ig` `kr.it-Ü-t-ig.T` `E-bes-Ü-t-ig.T`
   * **darf** `da` : `be-da`
   * **durf** `du` : `du-t.e` 
 * *düsseldorf* `dÜ.o`
@@ -824,7 +829,7 @@
 * ~~f~~ang `(ang)` : `N.ang`
   * ! fang `f.ang`
   * ~ -**fang**- `fa` : `.an.fa` `be-fa` `.um:fa`
-  * * -~~f~~a~~ng~~- `a` : `.emp-a`
+  * * -~~f~~**a**~~ng~~- `a` : `.emp-a`
   * × ~~fang~~ : `.um:eich`
   * ~~f~~äng `(.eng)` `E.eng.L`
     * ! (fäng) `f.eng`
@@ -832,7 +837,7 @@
     * × ~~fäng~~ : `.emp`
   * ~~f~~ing `(.ing)`
     * ! (fing) `f.ing`
-    * * ~~f~~i~~ng~~ `.emp-i`
+    * * ~~f~~**i**~~ng~~ `.emp-i`
 
 ---
 
@@ -1036,7 +1041,7 @@
 * **frau** `frau`
 * ~~fr~~ei `(.ei)`
 * fre~~md~~ `(fr.e)`
-* ~~fr~~eu `eu` : `eud.e` `er,eu-L` @vs. frei
+* ~~fr~~**eu** `eu` : `eud.e` `er,eu-L`
 
 ---
 
@@ -1473,7 +1478,7 @@
     * : *honor*ierte `h.on.irt.e` (BSA)
 * **hö**r `hö`
   * : be**hö**rde `b.e-hö.d.e` » `b.e-hö` ! behörde `b.e-h.öd.e` (BSA)
-    * : *gemein*debe**hö**rde `(N)-d.e-b.e-hö.d.e` » *gemein*de~~be~~**hö**r~~d~~<i></i>~~e~~ `(N)-d.e-hö` ! *ge*m<b>*ein*</b>debehörde `G-Nd.e-b.e-h.öd.e`
+    * : *gemein*debe**hö**rde `(N)-d.e-b.e-hö.d.e` » *gemein*de~~be~~**hö**r~~d~~<i></i>e `(N)-d.e-hö-e` ! *ge*m<b>*ein*</b>debehörde `G-Nd.e-b.e-h.öd.e`
 * **hundert** `hu` BSA
   * : X `3.hu` `5,hu` `hu.FT`
   * : **jahr**<i></i>**hundert** `ja.hu`
@@ -1679,9 +1684,9 @@
 
 * ~~k~~ehr `(.er)` : `E.er`
   * ! kehr `k.ehr`
-* k~~enn~~ `k.e` : `be.k` `er.k` `er.k.is`
+* **ke**~~nn~~ `k.e` : `be.k` `er.k` `er.k.is`
   * ~~kenn~~ : `.an.er`
-  * k~~ann~~ `k.a` : `ka-t.e`
+  * **ka**~~nn~~ `k.a` : `ka-t.e`
 * **kind** `ki` : `ki.H` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
   * ! kind `k.id` : `k.id.i` `k.id.L`
 * ~~kir~~ch `(ch)` : `(ch)L` `(ch)T-UNG`
@@ -2874,7 +2879,7 @@
 ---
 
 * ***schutz*** `.uz`
-  * ~~sch~~u~~tz~~ `u` : `.um-'t,u`
+  * ~~sch~~**u**~~tz~~ `u` : `.um-'t,u`
   * ***schütz*** `.üz` ~ `schÜ`
 
 ---
@@ -2901,7 +2906,7 @@
   * sah `s.ah`
   * ~~s~~icht `(.icht)` : `.an.icht`
     * ! sicht `s.icht`
-    * * ~~s~~i~~cht~~ : `.ab-i` `AU-i` `.o,i-L` `Z-E-i` `O-i`
+    * * ~~s~~**i**~~cht~~ : `.ab-i` `AU-i` `.o,i-L` `Z-E-i` `O-i`
     * × ~~sicht~~ : `G` `hn` `rÜ`
 
 ---
@@ -3244,8 +3249,8 @@
 
 * ~~str~~u `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.e-ko,u.irt.e`
   * : *in*~~str~~ument `IN,u-met` ~ `IN.u-met`
-  * ~~str~~u~~kt~~ `u` : `ko,u-O` `IN,u-O` `(I)fra,u-UR`
-    * : ~~str~~u~~kt~~ur `u,UR` * `str.uk`
+  * ~~str~~**u**~~kt~~ `u` : `ko,u-O` `IN,u-O` `(I)fra,u-UR`
+    * : ~~str~~**u**~~kt~~ur `u,UR` * `str.uk`
 * ***stück*** `.ük`
   * **früh**<i></i>***stück*** `frÜ.ük`
 
@@ -3600,16 +3605,17 @@
       * : **geg**enwär<b>*t*</b>**ig** `g('t)-ig`
 * **was** `was`
 * **wass**er `was-er` ! `w.ass.er` » `w.ass` E
+
+---
+
 * wechsel ← wachs
-* weg `w.eg`
-  * -**weg** `w`
-    * : **k**eines**weg**s `k.w-s` » `k.w`
-    * : *vor***weg** `O.w`
-  * wegen `w.eg` E
-    * -**weg**en `w`
-      * : d<b>*es*</b>**weg**en `(.es)w`
-      * : meinet**weg**en `m.N.w`
-      * : *unser*t**weg**en `.U-t-w` > `.U.w`
+* **we**~~g~~ `w.e` : `(.es)w` `m.N.w` `.U-t-w` `O.w`
+  * ! (weg) `w.eg` : `w.eg`
+  * : *kein*es**we**~~g~~s `K.w-s` ~ `k.w`
+
+
+---
+
 * weh `w.eh`
   * wind `w.id`
 * **wehr** `wer`
@@ -3790,10 +3796,10 @@
 
 * wort `wot`
   * × ~~wort~~ : `aNT`
-  * ~ -~~w~~o~~rt~~- `o` : `bi-o` `hau-o`
-    * : *macht*~~w~~o~~rt~~ `aCHT-o`
-    * : ***schlag***~~w~~o~~rt~~ `.ag-o`
-    * : ***sprich***~~w~~o~~rt~~ `.ich-o`
+  * ~ -~~w~~**o**~~rt~~- `o` : `bi-o` `hau-o`
+    * : *macht*~~w~~**o**~~rt~~ `aCHT-o`
+    * : ***schlag***~~w~~**o**~~rt~~ `.ag-o`
+    * : ***sprich***~~w~~**o**~~rt~~ `.ich-o`
 
 ---
 
