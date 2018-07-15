@@ -2277,9 +2277,9 @@
 
 * ~~nehm~~ : `(.e)` `.ab,(en)` `.ab,(.ed)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `.an.G.er` `.an.G+st` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `Ü.en` `UN.an.G` `UN.an.G.er` `UNTER.en` `E,(en)` `E-L` `O('st)` `O-L` `O-w,(en)` `wa,UNG` `AU.CH.n` `O-l.ib,(en)`
   * (nehm) `n.em` : `O-n.em`
-  * : ein*ver*~~nehm~~en `N.E,(en)` » `N.E`
   * : *unter*~~nehm~~*ung* `UNTER.UNG` ~ `UNTER-UNG`
   * : *unter*~~nehm~~er `UNTER.er` ~ `UNTER-er`
+  * ein*ver*~~nehmen~~ `N.E`
   * *genehm* `G-n` : `G-n.i`
   * ***nimm*** `.im` : `dU .im`
     * ~~nimm~~t `('t)` : `.ab,('t)` `N,('t)` `Ü,('t)` `O,('t)` `Z,('t)`
@@ -2287,8 +2287,8 @@
   * ~~nahm~~ : `.an,(.e)` `.an,(en)` `AU,(.e)` `.S,(.e)` `.S,(en)` `.S.eis.e` `N,(.e)` `N,(en)` `ach,(.e)` `ass,(.e)` `Z,(.e)`
     * ! (nahm) `n.am`
   * ***nomm*** `.om` : `.an.om` `AU.om` `Ü.om` `E-om` `O-om`
-    * : *vor*ein*ge*<i></i>***nomm***en `O-N.om` ~ `O-N.G`
-    * : *un*<i></i>*vor*ein*ge*<i></i>***nomm***en `UN-O-N.om` × `UN-O-N`
+    * *vor*ein*ge*~~nommen~~ `O-N.G`
+    * *un*<i></i>*vor*ein~~genommen~~ `UN-O-N`
 
 ---
 
