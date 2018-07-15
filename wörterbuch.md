@@ -2275,7 +2275,7 @@
 
 ---
 
-* ~~nehm~~ `(en)` : `(.e)` `.ab,(en)` `.ab,(.ed)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `.an.G.er` `.an.G+st` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `Ü.en` `UN.an.G` `UN.an.G.er` `UNTER.en` `E,(en)` `E-L` `O('st)` `O-L` `O-w,(en)` `wa,UNG` `AU.CH.n` `O-l.ib,(en)`
+* ~~nehm~~ : `(.e)` `.ab,(en)` `.ab,(.ed)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `.an.G.er` `.an.G+st` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `Ü.en` `UN.an.G` `UN.an.G.er` `UNTER.en` `E,(en)` `E-L` `O('st)` `O-L` `O-w,(en)` `wa,UNG` `AU.CH.n` `O-l.ib,(en)`
   * (nehm) `n.em` : `O-n.em`
   * : ein*ver*~~nehm~~en `N.E,(en)` » `N.E`
   * : *unter*~~nehm~~*ung* `UNTER.UNG` ~ `UNTER-UNG`
