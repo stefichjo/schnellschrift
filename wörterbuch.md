@@ -2283,7 +2283,7 @@
   * *genehm* `G-n` : `G-n.i`
   * ***nimm*** `.im` : `dU .im`
     * ~~nimm~~t `('t)` : `.ab,('t)` `N,('t)` `Ü,('t)` `O,('t)` `Z,('t)`
-      * ! ***nimm***t : `.im` ! `.imt`
+      * ! ***nimm***<i></i>t : `.im` ! `.imt`
   * ~~nahm~~ : `.an,(.e)` `.an,(en)` `AU,(.e)` `.S,(.e)` `.S,(en)` `.S.eis.e` `N,(.e)` `N,(en)` `ach,(.e)` `ass,(.e)` `Z,(.e)`
     * ! (nahm) `n.am`
   * ***nomm*** `.om` : `.an.om` `AU.om` `Ü.om` `E-om` `O-om`
