@@ -957,32 +957,30 @@
     * : *auf*ge**fund** `AU.fu`
     * : emp**fund** `.emp-fu` = `.emp-f.u` * empf**u**nd `.emp-u`
     * : z**u**<i></i>**rück**<i></i>*ge*<i></i>**fund** `u-rÜ.fu`
-* firm `f.im` (BSA)
-  * X `f.im.en` `f.im.ir`
-  * <b>*firm*</b> `im`
-    * : <b>*firm*</b>a `im.a`
-    * : <b>*firm*</b>ament `im.a-met` ! `f.im.a-met` > `f.im-met`
-    * : **kon**<b>*firm*</b>at*ion* `ko,im-o` ! `ko.f.im-o`
+
+---
+
+* ~~f~~**irm** `im` : `im.a` `im.en` `im.ir`
+  * : ~~f~~**irm**ament `im-me't` ! `f.im-met`
+  * : **kon**~~f~~**irm**at*ion* `ko,im-o` ! `ko.f.im-o`
 * **flach** `fla`
 * ***flieg*** `.ig`
   * ***flog*** `.og`
   * ***flug*** `.ug`
 * **flat** `fla`
   * *in*<i></i>**flat**<i></i>*ion* `IN.fla-o` » `IN.fla`
-* <b>*flieh*</b> `.ih` ~ `fli` ≠ **fließ**
-  * : *ent*<b>*flieh*</b> `eNT.ih`
-  * <b>*floh*</b> `.oh`
-  * **flucht** `.ucht`
-
----
-
-* **flekt** `fl` ! `fl.ekt`
+* ~~fl~~ieh `(.ih)` `eNT.ih`
+  * (flieh) `fl.ih` ~ `fli`
+  * ~~fl~~oh `(.oh)` ! `.oh`
+  * ***flucht*** `.ucht`
+    * ***flücht*** `.ücht` : `.S.üchte`
+* **flekt** `fl`
+  : ! (flekt) `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.iO`
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
   * **flüss** `flÜ`
-    * ~ ***flüss*** `.üss`
     * : **flüss**<i></i>**ig** `flÜ.i` ~ `.üss.i`
     * : ein**flüss** `N.flÜ` ~ `N,flü`
 * flucht ← flieh
@@ -1302,11 +1300,10 @@
 * **gut** `gu`
   * *besser* `bes` : `bes-UNG` `G-bes` `.S.bes` `E-bes`
   * best `b.est`
+* **hab** `ha` : `G-ha` `im.IN.ha-er`
 
 ---
 
-* **hab** `ha` V
-  * : X `G-ha` (BSA)
   * .h**a**b. `a`
     * : *ich*.h**a**b `.I-a`
     * : *wir*.h**a**b `wr-a`
@@ -3361,9 +3358,14 @@
   * <b>*text*</b>il `ext-il` ~ `t.il` BSA
 * theater `t.e-at-er`
   * : theatr*alisch* `t.e-atr.i`
-* **them** `t`
-  * : **them**a `t.a`
-  * : **them**at**isch** `t.i` ! `t.em.i` ≠ **tät***ig*
+
+---
+
+* **them** `t` : `t.a` 
+  * : **them**at**isch** `t.i` ! `t.em.i`
+
+---
+
 * theor `t.e-or`
   * : theorie `t.e-or.I` (E) ~ `t.e-o.I`
   * : theoret**isch** `t.e-or.i` (E)
