@@ -12,7 +12,7 @@
 
 #### vor Auslaut-s
 
-* hals `h.a's` @`h.aS`
+* hals `h.a's` = `h.aS`
 * als `.as`
 
 #### vor Auslaut-t
@@ -2295,7 +2295,7 @@
     * ~~nimm~~t `('t)` : `.ab,('t)` `N,('t)` `Ü,('t)` `O,('t)` `Z,('t)`
   * ~~nahm~~ : `.an,(.e)` `.an,(en)` `AU,(.e)` `.S,(.e)` `.S,(en)` `.S.eis.e` `N,(.e)` `N,(en)` `ach,(.e)` `ass,(.e)` `Z,(.e)`
     * ! nahm `n.am`
-  * ***nomm*** `.om` : `.an.om` `AU.om` `Ü.om` `E-om` `O-om`
+  * ~~n~~omm `(.om)` : `.an.om` `AU.om` `Ü.om` `E-om` `O-om`
     * *vor*ein*ge*~~nommen~~ `O-N.G`
     * *un*<i></i>*vor*ein~~genommen~~ `UN-O-N`
 
