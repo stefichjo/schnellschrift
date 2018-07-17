@@ -162,18 +162,18 @@
 
 #### Ausweichen auf Anlautkürzel
 
-* **bleib** = blei~~b~~ `bl.ei`
+* blei~~b~~ `bl.ei`
   * blie~~b~~ `bl.i`
 
 #### Ausweichen auf Auslautkürzung
 
 * **sprech** `spr`
-  * **sprich** = ***sprich*** `.ich`
+  * **sprich** `.ich` = ***sprich***
   * **sprach** `spra`
     * **spräch** `spr`
-  * **sproch** = ***sproch*** `.och`
-  * **spruch** = ***spruch*** `.uch`
-    * **sprüch** = ***sprüch*** `.üch`
+  * **sproch** `.och` = ***sproch***
+  * **spruch** `.uch` = ***spruch***
+    * **sprüch** `.üch` = ***sprüch***
 
 ### Auslautkürzung
 
@@ -459,7 +459,7 @@
 ---
 
 * **blatt** `bla` : `.om.bla`
-* **bleib** `blei`
+* blei~~b~~ `bl.ei`
   * blie~~b~~ `bl.i`
 * ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik` `.aug.ik` `.aug.ik.L`
 
@@ -2878,9 +2878,9 @@
 
 ---
 
-* ***schutz*** `.uz`
+* **schutz** `.uz`
   * ~~sch~~**u**~~tz~~ `u` : `.um't,u`
-  * ***schütz*** `.üz` ~ `schÜ`
+  * **schütz** `.üz` ~ `schÜ`
 
 ---
 
@@ -3101,19 +3101,22 @@
     * : *in*<i></i>**spekt**<i></i>*ion* `IN.sp*` S ! `IN.sp.iO` ! `IN.sp.iO`
     * : pr**o**<i></i>**spekt** `(o)sp` E
     * : re**spekt** `r.e-sp`
-* sp<b>*ort*</b> `(.ot)` ! `sp.ot` (E)
-* **sprech** `spr` E
-  * : *ent***sprech**end `eNT.spr.ed` × *ent*~~sprech~~end `eNT.ed`
-  * **sprich** `.ich` E
-  * **sprach** `spra` E
-    * : **sprach**e `spra.e` » `spra`
-  * **spräch** `spr` E
-  * **sproch** `.och` E
-  * **spruch** `.uch` E
-    * : an**spruch** `.an.uch` * an*spr*<b>*u*</b>*ch* `.an,u`
-    * : ein**spruch** `N.uch` * ein*spr*<b>*u*</b>*ch* `N,u`
-    * : *wider***spruch** `W.uch` * *wider*spr**u**ch `W-u`
-  * **sprüch** `.üch` E
+
+---
+
+* ~~sp~~ort `(.ot)`
+* **sprech** `spr` : `eNt.spr`
+  * : ~~sprech~~ : `eNT.ed`
+  * **sprich** `.ich`
+  * **sprach** `spra` : `spra-e`
+    * **spräch** `spr` : `G-spr`
+  * **sproch** `.och`
+  * **spruch** `.uch`
+    * ~~spr~~**u**~~ch~~ `u` : `.an,u` `N,u` `W-u`
+    * **sprüch** `.üch`
+
+---
+
 * spr<b>*ing*</b> `(.ing)` ! `spr.ing`
   * spr<b>*ang*</b> `(.ang)` ! `spr.ang`
   * spr<b>*eng*</b> `(.eng)` ! `spr.eng`
@@ -3435,7 +3438,7 @@
 
 ---
 
-* **treib** `trei` : `trei-ed` `trei-er` `(.an)trei` `(AU)trei` `(.ei)trei`
+* trei~~b~~ `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(.ei)tr.ei`
   * ! (treib) `tr.eib`
   * trie~~b~~ `tr.i` : `G-tr.i`
     * ~ ***trieb*** `.ib` : `be.ib`
