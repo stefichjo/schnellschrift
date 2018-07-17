@@ -7,8 +7,6 @@
 ### Ausstoß der Vorlaute l, n, r
 
 * stark `st.ak`
-* als `.as`
-* wort `wot`
 
 #### vor Auslaut-s
 
@@ -17,10 +15,41 @@
 
 #### vor Auslaut-t
 
-* start `stat`
-* ort `.ot`
+##### nach -e-, -ä- oder -a-
 
-##### 3. Person Einzahl / Vergangenheit
+* wert `wet`
+* wärt `wet`
+* wart `wat`
+* gelt `get`
+* galt `gat`
+* tant `tat`
+* start `stat`
+
+##### nach -u-
+
+* gurt `gut`
+* turt `tut` @?
+
+* spurt `sp.ut`
+
+##### nach -i- oder -ü-
+
+* wirt `wit`
+* würt `wüt`
+* gürt `güt`
+* tint `tit`
+
+* spint `sp.it` @?
+
+##### nach -o- oder -ö-
+
+* wort `wot`
+* wört `wöt`
+
+* tort `t.ot`
+* sport `sp.ot`
+
+##### mit pseudo-assimilierter Endung der 3. Person Einzahl / Vergangenheit
 
 * fällt `fet`
 * fährt `fet`
@@ -131,14 +160,29 @@
 
 * **klass**e `kla-e`
 
+#### Ausweichen auf Anlautkürzel
+
+* **bleib** = blei~~b~~ `bl.ei`
+  * blie~~b~~ `bl.i`
+
+#### Ausweichen auf Auslautkürzung
+
+* **sprech** `spr`
+  * **sprich** = ***sprich*** `.ich`
+  * **sprach** `spra`
+    * **spräch** `spr`
+  * **sproch** = ***sproch*** `.och`
+  * **spruch** = ***spruch*** `.uch`
+    * **sprüch** = ***sprüch*** `.üch`
+
 ### Auslautkürzung
 
-* ***schreib*** `.eib`
 * ***viel*** `.il`
 
 #### ohne Anstrich
 
 * ***lang*** `ang`
+* ***mess*** `ess`
 
 #### auf der Oberlinie
 
