@@ -77,7 +77,7 @@
 
 #### bei-
 
-* ~~b~~ei.**trag** `(.ei)tra`
+* (b.ei)**trag** `(b.ei)tra` → `(.ei)tra`
 
 #### er-
 
@@ -485,14 +485,14 @@
   * `b.ös,GT` = `b.ös.GT` `b.ös.es GT`
 * branche `br.asch.e` (BSA)
   * : *textil*branche `t.il:br.asch.e` (BSA)
-* **brau** `brau`
-* **brauch** `brau` BSA
-  * X `brau-t.e` `brau.bar` `brau.bar.T` `G-brau` `G-brau.eil` `ms.brau` `ms.brau.ei` `E.brau` `E.brau.er` `E.brau.er.FT`
-  * : *ge*<i></i>**bräuch**<i></i>*lich* `G-bräu.L`
-  * : *ver*<i></i>**brauch** `(E)brau` E * *ver*br**au**ch `E-au`
 
 ---
 
+* **brau** `brau`
+* **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `G-brau` `G-brau.eil` `ms.brau`
+  * : *ver***brauch** `(E)brau` * `E-au`
+  * : *ver***brauch**er `(E)brau-er` ! `(E)brau.er`
+  * **bräuch** `bräu` : `G-bräu.L`
 * **brech** `br`
   * **brich** `bri`
   * **brach** `bra`
