@@ -165,11 +165,6 @@
 * blei~~b~~ `bl.ei`
   * blie~~b~~ `bl.i`
 
-#### Ausweichen auf -ng oder -ss
-
-* **lang** `ang`
-* **mess** `ess`
-
 #### Ausweichen auf Auslautkürzung
 
 ##### wegen Fußschleife
@@ -188,6 +183,11 @@
   * **sproch** `.och` = ***sproch***
   * **spruch** `.uch` = ***spruch***
     * **sprüch** `.üch` = ***sprüch***
+
+#### auf -ng oder -ss
+
+* **lang** `ang`
+* **mess** `ess`
 
 ### Auslautkürzung
 
