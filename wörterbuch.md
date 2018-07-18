@@ -391,21 +391,15 @@
   * : bibliothek `b.ibl.i-t.ek` ! `b.ibl.i-o-t.ek`
     * ~~bibli~~othek `(t.ek)`
       * : ~~bibli~~othekar**isch** `(t.ek).ar.i` > `(t.ek).i`
-* <b>*biet*</b> `.it` BSA
-  * : <b>*biet*</b>end `.it.ed` (BSA)
-  * : an<b>*er*</b><b>*biet*</b> `.an.er.it` (BSA)
-  * : *ge*<b>*biet*</b> `G-it` (BSA)
-    * : ruhr*ge*<b>*biet*</b> `r.UR.it` (BSA)
-  * : *auf*.~~dem~~.*ge*<b>*biet*</b> `AU.it`
-  * : *auf*.*dies*em.*ge*<b>*biet*</b> `AU.iS.it` * *auf*.d**ie**sem.*ge*<b>*biet*</b> `AU-i.it`
-  * : *über*<b>*biet*</b> `Ü.it` (BSA)
-  * <b>*bot*</b> `.ot` (BSA)
-    * : der <b>*bot*</b>e `(r) .ot.e` (BSA)
-    * : <b>*bot*</b>*schaft* `.ot.FT` (BSA)
-    * : an*ge*<b>*bot*</b> `.an.ot` (BSA)
-    * : *ge*<b>*bot*</b> `G-ot` (BSA)
-    * : *über*<b>*bot*</b> `Ü.ot` (BSA)
-    * : *ver*<b>*bot*</b> `E.ot` (BSA)
+
+---
+
+* ***biet*** `.it` : `.it.ed` `G-it` `.an.er.it` `AU.it` `r.UR.it` `Ü.it`
+  * : *auf*.*dies*em.*ge*<i></i>***biet*** `AU.iS.it` * `AU-i.it`
+  * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G-ot` `.an.ot` `Ü.ot` `E-ot`
+
+---
+
 * bilanz `b.il.az` (BSA)
   * : bilanzier `b.il.az.ir` (BSA)
   * : bilanzier*ung* `b.il.az.ir-UNG` (BSA)
@@ -447,26 +441,9 @@
       * ! *bünd* `bü` : `bü.e` `bü.el`
 * **bi**s `bi`
 * bist ← sein
-
----
-
-* bitt `b.it` S
-  * ~ <b>*bitt*</b> `.it` BSA
-    * : <b>*bitt*</b>end `.it.ed` (BSA)
-    * : *für*<b>*bitt*</b>e `f.it.e` (BSA)
-    * : *un*<i></i><b>*er*</b><b>*bitt*</b>*lich* `UN.er.it.L` (BSA)
-    * : *die* <b>*bitt*</b>e `I .it.e` (BSA)
-    * : *ich* <b>*bitte*</b>.sie `I .it.sI` (BSA)
-    * : *mit*.*der*.***bitt***e `M-r.it.e` (BSA)
-    * .<b>*bitt*</b>. `.it` S (BSA)
-      * : *ich*.bitte.sie `I.it.sI` (BSA)
-  * bat `b.at` (BSA)
-  * bet `b.et` (BSA)
-    * : *ge*bet `G-b.et` (BSA)
-      * : *un*<i></i>*ge*bet `UN-G,b.et` (BSA)
-
----
-
+* ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `I .it.e` `I .it.sI` `I.it.sI` `M-r.it.e`
+  * bat `b.at`
+  * bet `b.et` : `G-b.et` `UN-G,b.et`
 * **blatt** `bla` : `.om.bla`
 * blei~~b~~ `bl.ei`
   * blie~~b~~ `bl.i`
