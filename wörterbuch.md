@@ -661,29 +661,19 @@
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
 * *doch* `d-ch`
   * : je*doch* `j.e-d-ch` ~ `j-ch`
-
----
-
 * doktor ← doz
 * dorf `d.of`
-* dort `dot` (BSA)
-  * : dort*ig* `dot-ig` (BSA)
+* dort `dot` : `dot-ig`
 * doz `d.oz`
   * : doz*ent* `doz.ent` » `doz`
-  * dok
-    * : dokument `d.ok.met`
-      * » doku~~ment~~ `d.ok` BSA
-        * : doku~~ment~~e `d.ok.e` (BSA)
-        * : doku~~ment~~ar*isch* `d.ok.ar.i` (BSA) » doku~~ment~~<i></i>~~ar~~*isch* BSA
-        * : doku~~ment~~ier `d.ok.ir` (BSA)
-        * : doku~~ment~~ierte `d.ok.irt.e` (BSA)
-  * *doktor* `d-er` V
-
----
-
-* **dring** `dri` : `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z-dri.L`
-  * **drang** `dra`
-  * **drung** `dru` : `G-dru` `N.dru`
+  * dok `d.ok`
+    * *dokument* `d.ok` : `d.ok.ir` `d.ok.irt.e`
+      * : *dokument*ar*isch* `d.ok.ar.i` » `d.ok.i`
+  * *doktor* `d-er`
+* **dri**~~ng~~ `dri` : `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z-dri.L`
+  * **dra**~~ng~~ `dra`
+    * **drä**~~ng~~ `drä` @?
+  * **dru**~~ng~~ `dru` : `G-dru` `N.dru`
 * **druck** `dru` : `ach.dru` `N.dru`
   * ~~dr~~**u**~~ck~~ `u` : `.S-u`
   * **drück** `drÜ`
@@ -1867,23 +1857,20 @@
 
 ---
 
-* ***lang*** `ang` : X `ang-sa` `ang.fr.ist-ig` `E.ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
-  * ***läng*** `eng` : `eng+st` `eng+st-es` `eng+st-s`
-    * : *un**zu**<i></i>**läng**<i></i>**lich* `UN-z.eng.L` ! `UN-z.l.eng.L` ≠ `UN-z.eng.L`
+* **lang** `ang` : `ang-sa` `ang.fr.ist-ig` `E-ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
+  * **läng** `eng` : `eng+st` `eng+st-es` `eng+st-s`
+    * : *un**zu*<i></i>**läng**<i></i>*lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
     * * *länger* `NGR` : `E.NGR`
-* l<b>*ass*</b> `(ass)` ! <b>*lass*</b> `ass`
-  * : *aus*.anl<b>*ass*</b> `.S.an.ass`
-    * *aus*.an~~lass~~ `.S.an`
-  * : *hinter*l<b>*ass*</b> `(I)t-er.ass`
-  * : *ver*anl<b>*ass*</b> `E.an.ass`
-    * *ver*an~~lass~~ `E.an`
-  * l<b>*äss*</b> `(.ess)` ! `l.ess`
-    * : l<b>*äss*</b>**ig** `(.ess.i)` ! `l.ess.i`
-    * : anl<b>*äss*</b>*lich* `.an.ess.L` × an~~läss~~*lich* `.an.L`
-    * : <b>*f*</b>*ahr*l<b>*äss*</b>**ig** `fa.ess.i` ! `fa.l.ess.i`
-    * : *ver*<b>*nach*</b>l<b>*äss*</b>**ig** `E.ach.ess.i`
-  * l<b>*ieß*</b> `(.iss)` ! `l.iss`
-    * : *hinter*l<b>*ieß*</b> `(I)t-er.iss`
+* ~~l~~ass `(ass)` : `(I)t-er.ass`
+  * ! lass `l.ass` ~ `ass`
+  * *aus*.an~~lass~~ `.S.an`
+  * *ver*an~~lass~~ `E.an`
+  * ~~l~~äss `(ess)` : `E-ach.ess.i`
+    * ! läss `l.ess` : `l.ess.i` `fa.l.ess.i`
+	* × ~~läss~~ : `.an.L`
+  * ~~l~~ieß `(.iss)` : `(I)t-er.iss`
+    * ! ließ `l.iss`
+
 ---
 
 * last ← lad
@@ -2558,11 +2545,11 @@
 * *prior* `pri` : `pri.ät`
 * *privat* `pri` : `pri.ir`
 * *privileg* `pri.eg`
+* ~~pr~~**o**- `o`
+* **prob** `.ob`
 
 ---
 
-* pr**o**- `o`
-* ***prob*** `.ob`
 * ~~pro~~b<b>*lem*</b> `(l.em)` ! `(o)bl.em` (E)
   * ~~pro~~b<b>*lem*</b>atik `(l.em).ik`
 * pr**o**fessor `(o)f.ess.or` (E)
@@ -3570,7 +3557,7 @@
 
 ---
 
-* wann `w.ann`
+* wann `w.an`
 
 ---
 
