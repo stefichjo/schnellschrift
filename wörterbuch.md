@@ -1,5 +1,8 @@
 # Wörterbuch
 
+@`O-a` `O.a`
+@`G-` `G.`
+
 ## Kurzschreibung
 
 * ab `.ab`
@@ -158,9 +161,11 @@
 
 #### Assimilation von Endungen
 
-* **klass**e `kla-e`
+* **kla**~~ss~~e `kla-e`
 
 #### Ausweichen auf Anlautkürzel
+
+* **leicht** `l.ei` = lei~~cht~~
 
 * blei~~b~~ `bl.ei`
   * blie~~b~~ `bl.i`
@@ -397,38 +402,13 @@
 * ***biet*** `.it` : `.it.ed` `G-it` `.an.er.it` `AU.it` `r.UR.it` `Ü.it`
   * : *auf*.*dies*em.*ge*<i></i>***biet*** `AU.iS.it` * `AU-i.it`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G-ot` `.an.ot` `Ü.ot` `E-ot`
-
----
-
-* bilanz `b.il.az` (BSA)
-  * : bilanzier `b.il.az.ir` (BSA)
-  * : bilanzier*ung* `b.il.az.ir-UNG` (BSA)
-  * × ~~bil~~anz `(.az)` ~ `(az)`
-* **bild** `bi` BSA
-  * : **bild**end `bi.ed` (BSA)
-  * : **bild**er `bi-er` ! `bi.er` BSA
-  * : **bild**et `bi.et` BSA
-  * : **bild**<i></i>*lich* `bi.L` (BSA)
-    * : *vor*<i></i>**bild**<i></i>*lich* `O,bi.L` (BSA)
-  * : **bild**ner `bi-er` ! `bi.n.er` BSA ≠ **bild**er `bi-er` ! `bi.er`
-  * : **bild**<i></i>*nis* `bi.is` (BSA)
-  * : **bild**<i></i>*ung* `bi-UNG`
-    * ! *bildung* `bi.UNG` BSA
-      * : *vor*<i></i>*bildung* `O,bi.UNG` (BSA)
-  * : *aus*<i></i>**bild** `.S,bi` (BSA)
-  * : *aus*<i></i>*ge*<i></i>**bild**et `.S,bi.et` (BSA)
-  * : *ge*<i></i>**bild**e `G,bi.e` (BSA)
-  * : *ge*<i></i>**bild**et `G,bi.et` (BSA)
-  * : *un*<i></i>*ge*<i></i>**bild**et `UN.G,bi.et` (BSA)
-  * : *vor*<i></i>**bild** `O,bi` (BSA)
-  * : *die* *fort*<i></i>**bild**<i></i>*ung* `I fr,bi` (BSA)
-  * : *die* neu**bild**<i></i>*ung* `I n.eu,bi` (BSA)
+* *bilanz* `(az)` `(az.ir-UNG)`
+* **bild** `bi` : `bi.ed` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
+  * : **bild**er `bi-er` ! `bi.er`
+  * : **bild**ner `bi-er` ! `bi.n.er`
 * **bill** `bi`
-  * : **bill**<i></i>**ig** `bi.i`
+  * : **bill***ig* `bi.i`
 * bin ← sein
-
----
-
 * **bind** `bi` : `UNTER,bi` `E,bi`
   * ! bind `b.id`
   * ! ~~bind~~ : `(I)E.M` `(I)E.s`
@@ -448,23 +428,15 @@
 * blei~~b~~ `bl.ei`
   * blie~~b~~ `bl.i`
 * ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik` `.aug.ik` `.aug.ik.L`
-
----
-
-* <b>*boot*</b> `.ot`
-* <b>*bloß*</b> `.oss`
+* ***boot*** `.ot`
+* **bloß** `.oss`
 * **blut** `blu`
   * **blüt** `blü`
-    * : **heiß**<i></i>**blüt**<i></i>**ig** `h.ei,blü.i` * **heiß**bl**ü**t**ig** `h.ei-Ü.i` ! `h.eiss-Ü.i`
-    * : kalt**blüt**<i></i>**ig** `kat,blü.i` * kaltbl**ü**t**ig** `kat-Ü.i`
+    * : **heiß**<i></i>**blüt**<i></i>**ig** `h.ei,blü.i` * `h.ei-Ü.i` ! `h.eiss-Ü.i`
+    * : kalt**blüt**<i></i>*ig* `kat,blü.i` * `kat-Ü.i`
 * **bod** `bo`
-* börse `b.ös.e` (BSA)
-  * `b.ös,GT` = `b.ös.GT` `b.ös.es GT`
-* branche `br.asch.e` (BSA)
-  * : *textil*branche `t.il:br.asch.e` (BSA)
-
----
-
+* börs `b.ös` : `b.ös.e`
+* branch `br.asch` : `br.asch.e` `t.il:br.asch.e`
 * **brau** `brau`
 * **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `G-brau` `G-brau.eil` `ms.brau`
   * : *ver***brauch** `(E)brau` * `E-au`
@@ -796,9 +768,14 @@
   * : **fäch**er `f-er` ! `f.ech-er`
   * : *ent***fach** `eNT.fa`
   * : X `ma.i-f.ach` `m.f.ach`
-* **fäh** `f`
-  * : **fäh**<i></i>**ig** `f.i`
-  * : **fäh**<i></i>**ig***keit* `f.T` ! `f.eh.T` (BSA)
+
+---
+
+* **fäh** `f` : `f.i`
+  * : **fäh***ig*<i></i>*keit* `f.T` ! `f.eh.T`
+
+---
+
 * <b>*f*</b>*ahr* `fa` BSA
   * : X `G-fa.Ol` `G-f.L` `UN-G,f.L` `G-f.L.T` `G-f.ed` `G-f.ed-UNG`
   * : X `UN-G.L`
@@ -1166,17 +1143,14 @@
     * : *da*<i></i>*gegen* `.a-g` ! `da.g`
     * gegn `g.eg` ! `g.egn`
       * : gegner `g.egn-er` V ~ `g-er` ! `g.eg-er`
-* **geh** `g.e` ~ `g` BSA
-  * : X `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O.Ü.g` = `O-Ü.g` `Z-gru.g` `w.T-g.ed`
-  * <b>*ging*</b> `.ing`
-    * : X `.ing` `O-Ü.ing` `Z-rÜ.ing`
-  * <b>*gang*</b> `ang` BSA
-    * : X `ang.bar` `.S.ang` `N.ang` `G-ang` `E.l.or.ang` `E.ang` `gr.ez-Ü.ang` `.an.eng.i` `rÜ.eng.i` `UN-E.eng.L` `O.eng.er` `UN.z.eng.L`
-    * : X `UN-z.l.eng.L`
-* geist `g.ei`
 
 ---
 
+* **geh** `g` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E-g` `O-Ü.g` `Z-gru.g`
+  * ~~w~~eit**geh**end `(T)-g.ed` ! `w.T-g.ed`
+  * **ging** `.ing` : `O-Ü.ing` `Z-rÜ.ing`
+  * **gang** `ang` : `ang.bar` `.S.ang` `N.ang` `G-ang` `E-ang` `E-l.or.ang` `gr.ez-Ü.ang` `rÜ.eng.i` `UN-E-eng.L` `O-eng.er` `UN-z.eng.L`
+* **geist** `g.ei`
 * geld `g.ed` : `g.ed-er` `b.ar.g.ed`
   * **geld** `g` : `ki.g`
 * gelt `get` : `get-ed` `eNT.get` `UN-eNT.get-L`
@@ -1862,26 +1836,23 @@
 * laub `l.aub`
   * : <b>*er*</b>laub `er.l.aub` * <b>*er*</b>l**au**b `er-au`
   * : urlaub `UR.l.aub` * ur*l*<b>*au*</b>*b* `UR-au` = `UR,au`
-* <b>*lauf*</b> `.auf`
-  * <b>*läuf*</b> `.äuf`
-    * : *ge*<b>*läuf*</b>**ig** `G-äuf.i`
-    * : *vor*<b>*läuf*</b>**ig** `O.äuf.i` * *vor*l**äu**f**ig** `O,eu`
-* l<b>*aut*</b> `(.aut)` ! `l.aut`
-  * : l<b>*aut*</b>er `(.aut)-er` ! `l.aut-er`
-  * l<b>*äut*</b> `(.äut)`
-    * : <b>*er*</b>l<b>*äut*</b>er `er.äut-er`
-    * ! läut `l.äut` (BSA)
-      * : X `l.äut-er` `er.l.äut-er` `I er.l.äut-er`
-* läuter ← laut
+
+---
+
+* ***lauf*** `.auf`
+  * ***lief*** `.if` : `be.if`
+    * ! lief `l.if`
+  * ***läuf*** `.äuf` : `G-äuf.i`
+    * : *vor*<i></i>*läuf*<i></i>*ig* `O-äuf.i` * `O,eu`
+* laut `l.aut` : `l.aut-er`
+  * läut `l.äut`
+    * *läuter* `.äut-er`
 * leb `l.eb`
-
----
-
 * led `l.ed` : `l.ed.i-L`
+* leg ← lieg
 
 ---
 
-* leg ← lieg
 * leg `l.eg`
   * : legende `l.eg.ed.e`
   * : **kol**lege `ko.eg.e`
@@ -1905,7 +1876,7 @@
 
 ---
 
-* **leicht** `lei`
+* **leicht** `l.ei`
 * leih `l.eih`
   * : anleih `.an.l.eih` ~ `.an.l.ei`
   * : lieh `l.ih`
@@ -3242,8 +3213,10 @@
 ---
 
 * -t
+  * : **bild**et `bi` ! `bi.et`
   * : **filt**riert `fit-r.ir` ! `fit-r.irt`
   * : *ge*altert `G-at-er` ! `G-at-ert`
+  * : *ge***bild**et `G,bi` ! `G,bi.et`
   * : *ge***durf**t `G-du` ! `G-du-t`
   * : *ge*erdet `G-ed` ! `G-ed.et`
   * : *ge*<i></i>***klär***t `G-är` ! `G-ärt`
@@ -3859,4 +3832,3 @@
   * : **zweif**el*los* `.eif.el.os` ~ `.eif-s`
 * ~~zw~~eig `(.eig)`
 * zw~~ischen~~ `zw` : `(I)zw`
-
