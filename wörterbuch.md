@@ -808,6 +808,13 @@
     * : *zu*<b>*f*</b>*uhr* `Z-fu` (BSA)
     * : <b>*f*</b>*uhr*e fu.e
     * : <b>*er*</b> <b>*f*</b>*uhr*t `er fu` (BSA)
+
+---
+
+`G-g.fa-s`
+
+---
+
 * **fall** `fa` BSA
   * : X `fa.ed` `G-fa` `.S.fa` `b.ei-fa` `rÜ.fa` `UN-fa` `zw.fa` `IN.is.fa` `.im.ad-er:fa` `AU.k.ei-en:fa` `v fa Z fa` = `v.fa.z.fa` `Z-fa.br.ing` `b.est-fa-s` `.eb.fa-s` `gl.fa-s` `n.ot.i-fa-s` `W.i-fa-s` `I f.e` `AU.al.f.e` `IN.v.il:f.en` `IN.n m.eist f.en` `f.i` `G-f.i` `UN-G,f.i` `Z-f.i` `schw.er.f.i` `G-f.T` `schw.er.f.T`
   * : **fäll**<i></i>**ig**<b>*keit*</b> `f.T` (BSA)
@@ -1113,29 +1120,33 @@
   * : X `g.ar.In` `g.ar.irt`
   * : *garant*ie `g.ar.I` (BSA)
   * : *garant*ier `g.ar.ir`
-* **gast** `ga`
 
 ---
 
 * garten `gat` : `ki.gat`
+* **gast** `ga`
+  * **gäst** `gä`
 
 ---
 
 * ge `g.e` (BSA)
   * : X `g.e-o-gra` `g.e-o-gra.I` `g.e-o-gra.i` `g.e-l.og.e` `g.e-l.og.I` `g.e-m.etr` `g.e-m.etr.I` `g.e-m.etr.i`
-* *ge*- `G` V
+
+---
+
+* *ge*- `G`
   * *unge*- `UN.G`
-@ `(.eb)` `(.ab)` `(.äb)` `(.ib)`
-* <b>*geb*</b> `.eb` ! `g.eb` ~ `g` BSA
-  * : X `.ab.g` `b.e-g.H` `er.g` `er.g+st` `E.g-s` `E.g.L` `Z-rÜ.g` `(n) .S.schl.ag.g` `ass.g.L` `k.ent-is.g` `.an.g.eb-er` `.ab.T-g.eb-er` `G.g.eb-er` `I G.g` `(.ab)` = `.ab` `.ab.e` `AU.ab.e` `.S.ab.e` `b.e-ab-UNG` `.ibt` `er.ibt` `ach.ib.T` `.äb.e`
-  * : <b>*geb*</b>er `.eb-er` ! `g.eb-er`
-  * : arb<b>*eit*</b><b>*geb*</b>er `(T)-eb-er` ~ `(T)-g-er` » `(T)-g`
-  * <b>*gab*</b> `.ab` E
-    * : *auf*<b>*gab*</b>e `AU.ab.e` × *auf*~~gab~~e `AU.e`
-  * <b>*gäb*</b> `.äb` E
-    * <b>*gang*</b>.~~und~~.<b>*gäb*</b>e `ang.äb.e`
-  * ***gib*** `.ib` E
+* geb `g.eb` : `g.eb-er` `.an.g.eb-er`
+  * ~ **geb** `g` : `G-g` `G-g.H` `.ab.g` `be-g.H` `er.g` `ach.g` `Ü.g` `E-g-s` `E-g.L` `u-rÜ:g`
+  * × ~~geb~~ : `er.is` `er.is.os`
+  * ***gib*** `.ib` : `ach.ib.T` `er.ib.i`
+  * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `be-ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `er.g-st` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O-ab.e` `Z-ab.e`
+    * × ~~gab~~ : `AU.e` `AU.en.it` `.S.e`
+    * ***gäb*** `.äb` : `ang.äb.e`
 * gefahr ← fahr
+
+---
+
 * geg `g.eg`
   * : X `g.eg-er` `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
   * : gegen `g.eg` V
@@ -3213,6 +3224,7 @@
 ---
 
 * -t
+  * : *be*<i></i>***gab***t `be-ab` ! `be-abt`
   * : **bild**et `bi` ! `bi.et`
   * : **filt**riert `fit-r.ir` ! `fit-r.irt`
   * : *ge*altert `G-at-er` ! `G-at-ert`
@@ -3222,6 +3234,7 @@
   * : *ge*<i></i>***klär***t `G-är` ! `G-ärt`
     * : *un**ge*<i></i>***klär***t `UN-G-är` ! `UN-G-ärt`
   * : *ge***filt**ert `G,fit-er` ! `G,fit-ert`
+  * : ***gib***t `.ib` ! `.ibt`
   * : ~~n~~immt : `(.im)` ~ `.imt`
   * : *ver*(alt)et `E.alt` ! `E.alt-et`
   * : *ver***härt**et `E.het` ! `E.het-et`
