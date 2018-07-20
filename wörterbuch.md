@@ -1144,19 +1144,10 @@
     * × ~~gab~~ : `AU.e` `AU.en.it` `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
 * gefahr ← fahr
-
----
-
-* geg `g.eg`
-  * : X `g.eg-er` `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
-  * : gegen `g.eg` V
-  * *gegen* `g`
-    * : *da*<i></i>*gegen* `.a-g` ! `da.g`
-    * gegn `g.eg` ! `g.egn`
-      * : gegner `g.egn-er` V ~ `g-er` ! `g.eg-er`
-
----
-
+* *gegen* `g` : `be.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
+  * : *da*<i></i>*gegen* `.a-g` ! `da.g`
+  * ~~geg~~end `(.ed)` : `.um.ed`
+  * *gegn*er `g-er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
 * **geh** `g` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E-g` `O-Ü.g` `Z-gru.g`
   * ~~w~~eit**geh**end `(T)-g.ed` ! `w.T-g.ed`
   * **ging** `.ing` : `O-Ü.ing` `Z-rÜ.ing`
@@ -1891,7 +1882,7 @@
 * leih `l.eih`
   * : anleih `.an.l.eih` ~ `.an.l.ei`
   * : lieh `l.ih`
-* **leist** `l.ei` BSA@
+* **leist** `l.ei` : `I g.l.ei`
 * leit `l.T`
   * : **schrift**leit*ung* `.ift,l.T-UNG` ~ `i,l.T-UNG`
 * lern `l.en`
@@ -2257,18 +2248,28 @@
 
 ---
 
-* ~~nehm~~ : `(.e)` `.ab,(en)` `.ab,(.ed)` `AU,(en)` `.an.bar` `.an.L.T` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `Ü.en` `UNTER.en` `E,(en)` `E-L` `O('st)` `O-L` `O-w,(en)` `wa,UNG` `AU.CH.n` `O-l.ib,(en)`
+**wahr**
+(UNG)
+
+
+* ~~nehm~~ : `(.e)` `.an.bar` `.an.L.T` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `Ü.en` `UNTER.en` `E-L` `O-L` `O-w,(en)` `O-l.ib,(en)`
   * ! nehm `n.em` : `O-n.em`
-  * : *unter*~~nehm~~*ung* `UNTER.UNG` ~ `UNTER-UNG`
-  * : *unter*~~nehm~~er `UNTER.er` ~ `UNTER-er`
   * an*ge*~~nehm~~ `.an.G` : `UN.an.G`
-  * ein*ver*~~nehmen~~ `N.E`
+  * : *auf*~~nehm~~en : `.ab.en` ! `.ab,(en)`
+  * : ab~~nehm~~en : `AU.en` ! `AU,(en)`
+  * : ein*ver*~~nehm~~en `N.E-en` ~ `N.E`
+  * : *unter*~~nehm~~er `UNTER.er` ~ `UNTER-er`
+  * : *unter*~~nehm~~*ung* `UNTER.UNG` ~ `UNTER-UNG`
+  * : *ver*~~nehm~~en : `E-en` ! `E,(en)`
+  * : *vor*~~nehm~~st : `O-st` ! `O,(-st)`
+  * : **wahr**~~nehm~~*UNG* `wa,(UNG)`
+  * : *auf*.*sich* ~~nehm~~en : `AU.CH,(en)` . `AU.CH.en`
   * *genehm* `G-n` : `G-n.i`
   * ~~n~~imm `(.im)` STS
     * ! nimm `n.im`
       * : *du* nimmst `dU n.im` ~ `dU .im`
     * ~~nimm~~t `('t)` : `.ab,('t)` `N,('t)` `Ü,('t)` `O,('t)` `Z,('t)`
-  * ~~nahm~~ : `.an,(.e)` `.an,(en)` `AU,(.e)` `.S,(.e)` `.S,(en)` `.S.eis.e` `N,(.e)` `N,(en)` `ach,(.e)` `ass,(.e)` `Z,(.e)`
+  * ~~nahm~~ : `.an,(.e)` `.an,(en)` `AU,(.e)` `.S,(.e)` `.S,(en)` `.S.eis.e` `N,(.e)` `N,(en)` `ach,(.e)` `ass,(.e)` `(.eil),(.e)` `Z,(.e)`
     * ! nahm `n.am`
   * ~~n~~omm `(.om)` : `.an.om` `AU.om` `Ü.om` `E-om` `O-om`
     * *vor*ein*ge*~~nommen~~ `O-N.G`
@@ -3234,14 +3235,17 @@
   * : *ge*<i></i>***klär***t `G-är` ! `G-ärt`
     * : *un**ge*<i></i>***klär***t `UN-G-är` ! `UN-G-ärt`
   * : *ge***filt**ert `G,fit-er` ! `G,fit-ert`
+  * : *ge***leist**et `G-l.ei` ! `G-l.ei-et`
+  * : *ge*~~t~~eilt `G-eil` ! `G-eilt`
   * : ***gib***t `.ib` ! `.ibt`
   * : ~~n~~immt : `(.im)` ~ `.imt`
   * : *ver*(alt)et `E.alt` ! `E.alt-et`
   * : *ver***härt**et `E.het` ! `E.het-et`
+* tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
+  * tab~~ell~~e `t.ab.e` » `t.ab`
 
 ---
 
-* tabelle `t.ab.ell.e` » `tab` E
 * *tag* `tag` E
   * *täg* `teg` E
   * : **donn**ers*tag* `do.tag`
@@ -3274,11 +3278,9 @@
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
     * : archi**tekt** `.ach.i-t` ! ~ `.ach.ekt`
     * : archi**tekt**ur `.ach.i-t.UR` × `.ach.UR`
+* ~~t~~eil `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `ach.eil.e`
 
 ---
-* t<b>*eil*</b> `(.eil)` ! `t.eil` (E)
-  * : abt**eil***ung* `.ab.eil-UNG` E
-  * : <b>*nach*</b>t**eil**e `ach.eil.e` E
 * **tele** `t` ! `t.el.e` (E)
 * tend `t.ed`
   * : tendenz `t.ed.ez` (E)
