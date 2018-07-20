@@ -3225,19 +3225,19 @@
 ---
 
 * -t
-  * : *be*<i></i>***gab***t `be-ab` ! `be-abt`
+  * : *be*<i></i>***gab***<i></i>t `be-ab` ! `be-abt`
   * : **bild**et `bi` ! `bi.et`
   * : **filt**riert `fit-r.ir` ! `fit-r.irt`
   * : *ge*altert `G-at-er` ! `G-at-ert`
   * : *ge***bild**et `G,bi` ! `G,bi.et`
   * : *ge***durf**t `G-du` ! `G-du-t`
   * : *ge*erdet `G-ed` ! `G-ed.et`
-  * : *ge*<i></i>***klär***t `G-är` ! `G-ärt`
-    * : *un**ge*<i></i>***klär***t `UN-G-är` ! `UN-G-ärt`
+  * : *ge*<i></i>***klär***<i></i>t `G-är` ! `G-ärt`
+    * : *un**ge*<i></i>***klär***<i></i>t `UN-G-är` ! `UN-G-ärt`
   * : *ge***filt**ert `G,fit-er` ! `G,fit-ert`
   * : *ge***leist**et `G-l.ei` ! `G-l.ei-et`
   * : *ge*~~t~~eilt `G-eil` ! `G-eilt`
-  * : ***gib***t `.ib` ! `.ibt`
+  * : ***gib***<i></i>t `.ib` ! `.ibt`
   * : ~~n~~immt : `(.im)` ~ `.imt`
   * : *ver*(alt)et `E.alt` ! `E.alt-et`
   * : *ver***härt**et `E.het` ! `E.het-et`
