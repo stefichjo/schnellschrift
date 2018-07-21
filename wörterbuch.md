@@ -1786,7 +1786,7 @@
 
 * **lang** `ang` : `ang-sa` `ang.fr.ist-ig` `E-ang` `E.ang-sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * **läng** `eng` : `eng+st` `eng+st-es` `eng+st-s`
-    * : *un**zu*<i></i>**läng**<i></i>*lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
+    * : *un*<i></i>*zu*<i></i>**läng**<i></i>*lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
     * * *länger* `NGR` : `E.NGR`
 * ~~l~~ass `(ass)` : `(I)t-er.ass`
   * ! lass `l.ass` ~ `ass`
@@ -2790,7 +2790,7 @@
   * schwend `schw.ed`
     * : *ver*schwend `E-schw.ed` ~ `E-schw`
 * seh `s.eh`
-  * × ~~seh~~ : *un**ver*~~seh~~ens `UN-E-s`
+  * × ~~seh~~ : *un*<i></i>*ver*~~seh~~ens `UN-E-s`
   * sieh `s.ih`
   * sah `s.ah`
   * ~~s~~icht `(.icht)` : `.an.icht`
