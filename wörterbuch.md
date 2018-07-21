@@ -2797,12 +2797,12 @@
     * ! sicht `s.icht`
     * * ~~s~~**i**~~cht~~ : `.ab-i` `AU-i` `.o,i-L` `Z-E-i` `O-i`
     * × ~~sicht~~ : `G` `hn` `rÜ`
+* **sehr** `s`
+* sei ← sein
+* seid `s.eid` : `s.eid.e`
 
 ---
 
-* **sehr** `s` E
-* seid `s.eid`
-  * : seide `s.eid.e`
 * s<b>*ein*</b> `(N)` E
   * **bin** `bi`
   * **bist** `bi`
