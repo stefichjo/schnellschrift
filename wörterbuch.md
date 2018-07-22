@@ -71,16 +71,32 @@
 
 * oder `.od-er`
 
-### Ausstoß von Lateinischen Suffixen
+### Lateinische Suffixen
 
 * *ion* `.iO` : *kommun*<i></i>*ion* `ko-u.iO`
+
+#### -at-, -it-
+
 * at*ion* = *ion* `.iO` : **kon**spirat*ion* `ko.sp.ir.iO`
+* it*ion* = *ion* `.iO` : *in***vest**it*ion* `IN.w-o`
+
+#### -ik- und -iz-
 
 * ikat*ion* = *ion* `.iO` : *kommun*ikat*ion* `ko-u.iO` * `ko-u-o`
-* izier = ier `.ir` : **fabr**izieren `fa.ir`
-
 * ifikat*ion* = *ion* `.iO` : unifikat*ion* `un.if-o`
+
+* izier = ier `.ir` : **fabr**izieren `fa.ir`
 * ifizieren = ifier `.if.ir` : **rat**ifizieren `ra.if.ir`
+
+#### -is-
+
+* isat*ion* `.iO` : ~~kan~~alisat*ion* `(.al).iO`
+* isier `.ir` : **kon**<i></i>**kret**isieren `ko.kr.ir`
+
+#### -iv-
+
+* ivat*ion* = iw*ion* `.iw-o` : motivat*ion* `m.ot.iw-o`
+* ivier = `.iv.ir`
 
 ### Anstellen von Vorsilben
 
@@ -1955,7 +1971,7 @@
   * : auto<b>*mat*</b> `.aut.at` (BSA)
   * : auto<b>*mat*</b>*isch* `.aut.at.i` (BSA)
   * : auto<b>*mat*</b>isier*ung* `.aut.at.ir-UNG` (BSA)
-  * : auto<b>*mat*</b>*ion* `.aut.at.iO` (BSA)
+  * : auto<b>*mat*</b>*ion* `.aut.iO` ! `.aut.at.iO` (BSA)
 * **mater** `ma` ! `m.at-er` » `m.at` E
   * : **mater**ie `ma.I.e` ! `m.at-er.I.e` » `m.at.I.e` E
   * : **mater***ial* `ma.iaL` ! `m.at-er.iaL` » `m.at.iaL` E
@@ -2116,7 +2132,7 @@
   * : monteur `m.ot.ör` (E)
 * **morg** `mo` ! `m.og` (E)
 * mot `m.ot`
-  * : motivat*ion* `m.ot.iv.iO` (E) ~ `m.ot.iw-o`
+  * : motivat*ion* `m.ot.iw-o`
   * : motor `m.ot.or` » `m.ot` E
 
 ---
