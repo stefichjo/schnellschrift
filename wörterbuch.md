@@ -2,6 +2,8 @@
 
 @`O-a` `O.a`
 @`G-` `G.`
+@`b.e` `be`
+@`m.ek,(.el)` `hau.L` `ach,(.e)` `ta,(.e)` `ta,(en)`
 
 ## Kurzschreibung
 
@@ -69,10 +71,16 @@
 
 * oder `.od-er`
 
-### Ausstoß von Suffixen
+### Ausstoß von Lateinischen Suffixen
 
-* kommunikation
-* kommunion
+* *ion* `.iO` : *kommun*<i></i>*ion* `ko-u.iO`
+* at*ion* = *ion* `.iO` : **kon**spirat*ion* `ko.sp.ir.iO`
+
+* ikat*ion* = *ion* `.iO` : *kommun*ikat*ion* `ko-u.iO` * `ko-u-o`
+* izier = ier `.ir` : **fabr**izieren `fa.ir`
+
+* ifikat*ion* = *ion* `.iO` : unifikat*ion* `un.if-o`
+* ifizieren = ifier `.if.ir` : **rat**ifizieren `ra.if.ir`
 
 ### Anstellen von Vorsilben
 
@@ -749,11 +757,11 @@
     * *exempl* `.ex.ar` BSA
     * : *exempl*ar*isch* `.ex.ar.i` (BSA)
 * **fabr** `fa` BSA
-  * : **fabr**izier `fa.iz.ir` » `fa.ir` BSA
+  * : **fabr**izier `fa.ir` BSA
   * *fabrik* `fa` ! `fa.ik` BSA
     * : *fabrik*<i></i>*ant* `fa.ant` (BSA)
     * : *fabrik*at `fa.at` (BSA)
-    * : *fabrik*at*ion* `fa.iO` (BSA)
+    * : *fabrik*at*ion* `fa-o` ! `fa.iO` (BSA)
 * **fach** `fa`
   * : ein**fach** `N.fa`
   * : **fäch**er `f-er` ! `f.ech-er`
@@ -823,7 +831,7 @@
 
 * fat
   * **f**ess `f`
-    * **kon**<i></i>**f**ess*ion* `ko.f-o` ! `ko.f`
+    * **kon**<i></i>**f**ess*ion* `ko.f-o` » `ko.f`
 * faz
   * *fakt* `fat`
     * : *fakt*ura `fat.UR.a`
@@ -1413,8 +1421,7 @@
   * : X `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
 * -ie `I` BSA
   * : X `ch.em.I` `d.at.I.en` `sp.an.I.er` `I sp.an.I.en.r.eis.ed.en` `st.ud.I.e`
-* -ifik `.if`
-  * : -ifiz `.if`
+* -if- `.if`
 * -**ig** `.i` BSA
   * : X `N.i` `N.i.e` `N.i-er` `N.i-es` `N.i-t.e` `N-t.e` `E.N.i` `E.N.i-t.en` `E.N-t.en` `I E.N.i-UNG` `I E.N.e` `O.i` `w.en.i` `w.en.i-er` `er pr.ed.i` `I pr.ed.i-t` `pr.ed.i-t.e` `w.icht.i` `(er) w.icht.i+st.e` `l.ust-ig` `h.eft-ig+st`
 * ihn `.in`
@@ -1634,9 +1641,9 @@
   * : *kommun*al `ko-u.al` (BSA)
   * : *kommun*<i></i>*ismus* `ko-u.iS` (BSA)
   * : *kommun*<i></i>*istisch* `ko-u.iS.i` (BSA)
-  * : *kommun*<i></i>*ion* `ko-u.iO`
-  * : *kommun*izier `ko-u.iz.ir`
-  * : *kommun*ikat*ion* `ko-u.ik.iO` !ik! `ko-u.iO` * `ko-u-o` ≠ *kommun*<i></i>*ion*
+  * : *kommun*<i></i>*ion* `ko-u.iO` * `o-u-O` STS ≠ *kommun*ikat*ion*
+  * : *kommun*izier `ko-u.ir` STS ! `ko-u.iz.ir`
+  * : *kommun*ikat*ion* `ko-u.iO` * `ko-u-o` ≠ *kommun*<i></i>*ion*
 * **kon**- `ko` V
   * : **koll**- `ko`
   * : *kom*- `kom`
@@ -2123,8 +2130,8 @@
   * : *mus*e `mu.e` ! `m.us.e`
   * : *mus*eum `mu.um` ! `m.us.um` » `m.us`
   * : *mus*ik `mu.ik`
-  * : *mus*izier `mu.iz.ir`
-  * : *mus*ik*ant* `mu.ik.ant` !ik! `mu.ant` ~ `mu.aNT`
+  * : *mus*izier `mu.ir` STS ! `mu.iz.ir`
+  * : *mus*ik*ant* `mu.aNT`
 * ***müss*** `yss` E
   * .***müss***. `.Yss` E
     * : *ihr*.***müss*** `.ir yss` E
@@ -2438,7 +2445,7 @@
 * **prax** `pra`
   * : **prax**is `pra.is` E
   * **prakt** `pra`
-    * : **prakt**izier `pra.iz.ir`
+    * : **prakt**izier `pra.ir` STS ! `pra.iz.ir`
     * : **prakt**<i></i>**isch** `pra.i` E
     * : **prakt**iker `pra.ik-er`
   * pragm `pr.agm`
@@ -2619,7 +2626,7 @@
 
 ---
 
-* ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G-schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(en)` `UR,(.e)`
+* ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G-schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(.e)` `UR,(.e)`
   * ~ **sach** `sa` : `E-UR-sa`
   * säch `s.ech` : `s.ech.L`
     * : *ur*säch*lich* `UR-s.ech.L` ~ `UR-s.L`
@@ -3136,7 +3143,7 @@
 * ~~str~~u `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.e-ko,u.irt.e`
   * : *in*~~str~~ument `IN,u-met` ~ `IN.u-met`
   * ~~str~~**u**~~kt~~ `u` : `ko,u-O` `IN,u-O` `IN.fra,u-UR`
-    * : ~~str~~**u**~~kt~~ur `u,UR` * `str.uk`
+    * : ~~str~~**u**~~kt~~ur `u-UR` ~ `str.uk`
 * ***stück*** `.ük`
   * **früh**<i></i>***stück*** `frÜ.ük`
 
@@ -3350,8 +3357,8 @@
 * um `.um`
   * : **war**um `war.um` * **war**<i></i>**u**m `war-u`
 * un `.un` V
-  * unikat `.un.ik.at` !ik! `un.at`
-  * unikum `.un.ik.um` !ik! `un.um`
+  * unikat `un.at`
+  * unikum `un.um`
   * unifikat*ion* `.un.if-o`
   * un*ion* `.un.iO`
     * *union* `u-O`
@@ -3740,18 +3747,15 @@
     * *zentral* `zr-a`
   * : **kon***zentr*at*ion* `(ko)zr*` S ! `(ko)zr.iO` ! `ko.z.etr.iO` (E)
 * **zer**- `zer` V
-* zern `z.en`
-  * : **kon**zern `ko.z.en`
-  * *zert* `zer`
-    * : *zert*ifikat `zer.if.at`
-    * : *zert*ifizier `zer.if.ir`
-    * : **kon***zert* `(ko)zer` ! `ko.zet`
-* zettel `z.et.el`
-  * -~~zett~~el `(.el)`
-    * : merk~~zett~~el `m.ek,(.el)`
 
 ---
 
+* zern `z.en` : `ko.z.en`
+  * *zert* `zer` : `zer.if.at` `zer.if.ir`
+    * : **kon***zert* `(ko)zer` ! `ko.zet`
+* ~~zett~~el `(.el)`
+  * ! zettel `z.et.el`
+  * : merk~~zett~~el `m.ek,(.el)`
 * **zeug** `.eug` : `fa.eug` `er.eug.iss.e` `Ü.eug`
   * : <b>*nach*</b>.m**ein**er.*über*<b>*zeug*</b>*ung* `ach.m.ei-er-Ü.eug` × `ach.m.ei-er-Ü`
 * **zieh** `.ih` : `be-ih`
@@ -3769,25 +3773,14 @@
     * : *re*z~~ept~~*ion* `re.z*` ! `re.z.iO`
     * *prinzip* `(.ip)` : `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
       * **prinz** `pri`
-
----
-
-* **z**ipl `z` BSA
-  * *dis*<b>*z*</b>*ipl*in `ds.z.in` (BSA) × *dis*~~zipl~~in `ds.in` » `ds`
-* zirk `z.ik`
-  * : zirka `z.ik.a`
-  * : zirkel `z.ik.l`
-  * : zirkus `z.ik.us`
-  * : bezirk `b.e-z.ik` (BSA)
-    * : bezirk*lich* `b.e-z.ik.L` (BSA)
-    * : **reg**ier*ung*sbezirk `r.ir-UNG:b.e-z.ik` (BSA)
-    * ~ `b.e-ik`
+* z~~ipl~~ `z`
+  * *dis*~~ziplin~~ `ds`
+* zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.us`
   * *zirkul* `z.ik`
     * : *zirkul*ier `z.ik.ir`
     * : *zirkul*ation `z.ik.iO`
-
----
-
+  * ~~bez~~irk `(.ik)`
+    * ! *be*zirk `be-z.ik` ~ `be-ik`
 * ~~ziv~~il `(.il)`
 * zog ← zieh
 * *zu* `Z` : `(.e)Z`
