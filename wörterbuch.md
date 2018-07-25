@@ -65,20 +65,27 @@
 
 * *ion* `.iO` : *kommun*<i></i>*ion* `ko-u.iO`
 
-* at*ion* = *ion* `.iO` : **kon**spirat*ion* `ko.sp.ir.iO` = **kon**spir*ion*
-* it*ion* = *ion* `.iO` : *in***vest**it*ion* `IN.w-o` = *in***vest**<i></i>*ion*
+* at*ion* = ~~at~~*ion* `.iO` : **kon**spirat*ion* = **kon**spir~~at~~*ion* `ko.sp.ir.iO`
+* it*ion* = ~~it~~*ion* `.iO` : *in***vest**it*ion* = *in***vest**~~it~~*ion* `IN.w-o`
 
-* ikat*ion* = *ion* `.iO` : *kommun*ikat*ion* `ko-u.iO` * `ko-u-o`
-* ifikat*ion* = *ion* `.iO` : unifikat*ion* `un.if-o`
+* ikat*ion* = ~~ikat~~*ion* `.iO` : *kommun*ikat*ion* = *kommun*~~ikat~~*ion* `ko-u.iO` * `ko-u-o`
+* ifikat*ion* = if~~ikat~~*ion* `.if-o` : unifikat*ion* = unif~~ikat~~*ion* `un.if-o`
 
-* izier = ier `.ir` : **fabr**izieren `fa.ir`
-* ifizieren = ifier `.if.ir` : **rat**ifizieren `ra.if.ir`
+* izieren = ~~iz~~ier `.ir` : **fabr**izieren = **fabr**~~iz~~ier `fa.ir`
+* ifizieren = if~~iz~~ier `.if.ir` : **rat**ifizieren = **rat**if~~iz~~ier `ra.if.ir`
 
-* isat*ion* = *ion* `.iO` : ~~kan~~alisat*ion* `(.al).iO`
-* isieren = ier `.ir` : **kon**<i></i>**kret**isieren `ko.kr.ir`
+* isat*ion* = ~~isat~~*ion* `.iO` : ~~kan~~alisat*ion* `(.al).iO`
+* isieren = ~~is~~ier `.ir` : **kon**<i></i>**kret**isieren = **kon**<i></i>**kret**~~is~~ier `ko.kr.ir`
 
-* ivat*ion* = iw*ion* `.iw-o` : motivat*ion* `m.ot.iw-o`
-* ivier = `.iv.ir`
+* ivat*ion* = iv~~at~~*ion* `.iw-o` : motivat*ion* = motiv~~at~~*ion* `m.ot.iw-o`
+* ivieren = ivier `.iv.ir` : motivieren = motivier `m.ot.iv.ir`
+
+* ulat*ion* = ~~ulat~~*ion* `.iO` : spekulat*ion* = spek~~ulat~~*ion* `sp.ek.iO`
+  * **reg***ion* `r.iO` ~ `(.iO)` @nation :(
+  * **reg**ulat*ion* `r.iO` ! `r.ul.iO`
+* ulieren = ier `.ir` : spekulieren = spekier `sp.ek.ir`
+  * **reg**ieren `r.ir` ~ `(.ir)`
+  * **reg**ulieren `r.ir` ! `r.ul.ir`
 
 ### Anstellen
 
@@ -136,18 +143,32 @@
 
 ### Anlautkürzung
 
+* **fehl** `fe` = **fe**~~hl~~ → `f` = f~~ehl~~
+* **bald** `ba` = **ba**~~ld~~
+
 * **bis** `bi` = **bi**~~s~~
-* **gut** `gu` = **gu**~~t~~
+* **bünd**el `bü.el` = **bü**~~nd~~el
+
 * **kurz** `ku` = **ku**~~rz~~
+* **tausch** `tau` = **tau**~~sch~~
+
+* **kon**- `ko` = **ko**~~n~~-
+* **schön** `schö` = **schö**~~n~~
 
 * **frag**e `fra-e` = **fra**~~ge~~
-* **fehl**er `f-er`
+* **fehl**er `f-er` = **fe**~~hl~~er = f~~ehl~~er = ***fer***
+
+#### Ausweichen (statt Anstellen und Wölben)
+
+* **leicht** `lei` → `l.ei`
+* **gäst**e `gä-e` = `ga.ei`
+* **neu** `neu` = `nu.ei` 
+* **täusch**en `täu` = `tau.ei`
+
 
 #### Ausweichen auf Anlautkürzel
 
-* **leicht** `l.ei` = lei~~cht~~
-
-* blei~~b~~ `bl.ei`
+* **bleib** `bl.ei` = blei~~b~~
   * blie~~b~~ `bl.i`
 
 #### Ausweichen auf Auslautkürzung
@@ -186,6 +207,7 @@
 * ***pass*** `pass`
 * ***wass***er `was-er`
 * ***was*** `was`
+* ***fer***~~n~~ `fer`
 
 ---
 
@@ -867,7 +889,7 @@
 
 ---
 
-* ***fer***n `fer` @: `IN,(o)f.en` `IN.w.i-f.en` `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent` (BSA)
+* ***fer***~~n~~ `fer` @: `IN,(o)f.en` `IN.w.i-f.en` `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent` (BSA)
 
 ---
 
@@ -959,8 +981,7 @@
   * : *er*<i></i>*forder*<i></i>*lich* `er.F.L` ~ `er.o-L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `er Fö-e` `I Fö` `I be-Fö.en`
 * *fort* `fr`
-* ***form*** `.om` : `.om.al` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.al.iS.i` `.om.os` `.om.ul.ir` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `re-om` `re-om-o` `re-om.or.i` `re-om.ir` `tra.om.or` `.um.om` `.un.om`
-  * ***form***<i></i>ular `.om.ul.ar` » `.om.ar`
+* ***form*** `.om` : `.om.al` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.al.iS.i` `.om.os` `.om.ar` `.om.ul.ir` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `re-om` `re-om-o` `re-om.or.i` `re-om.ir` `tra.om.or` `.um.om` `.un.om`
   * -*reform*- `.om`
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
@@ -1526,23 +1547,10 @@
 ---
 
 * kalender `k.al.ed-er`
-
----
-
 * kalk `k.ak`
-  * **kalk** `ka`
-    * *kalkul* `ka,u`
-      * : *kalkul*at*ion* `ka,u-O`
-      * : *kalkul*ier `ka,u.ir`
-  * : kalkul `k.ak.ul`
-    * » *kalkul* `k.ak` BSA
-      * : *kalkul*at*ion* `k.ak.iO` (BSA)
-      * : *kalkul*ier `k.ak.ir` (BSA)
-* kalt `kat` (BSA)
-  * : `.eis.kat` `ket.e` `ket-er` `er.ket-et` `I er.ket`
-
----
-
+* *kalkul* `ka,u` : `ka,u-O` `ka,u.ir` `ka,u.or.i` 
+* kalt `kat` : `er.kat`
+  * kält `ket` : `ket.e` `ket-er`
 * *kammer* `ka` : `ha.ka` `ka.ek.ka`
 
 ---
@@ -1898,7 +1906,7 @@
 * **mahn** `ma` : `ma-UNG` `.an.ma` `er.ma`
   * ! mahn `m.an`
 * **mak** `ma` : `ma.el`
-  * : **mak**ulatur `ma.ul.UR` ~ `m.ak.UR`
+  * : **mak**ulatur `ma.UR` ! `m.ak.UR`
 * makel ← mach
 * mal `m.al` : `aCH.m.al`
   * -**mal**- `ma` : `ber.ma-s` `.iS:ma` `j.e-ma-s` `j.es.ma` `mer.ma-s` `n.i-ma-s` `n-ch:ma-s` `Z-ma`
@@ -2100,12 +2108,11 @@
   * : montier `m.ot.ir` (E)
   * : monteur `m.ot.ör` (E)
 * **morg** `mo` ! `m.og` (E)
-* mot `m.ot`
-  * : motivat*ion* `m.ot.iw-o`
-  * : motor `m.ot.or` » `m.ot` E
 
 ---
 
+* mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir`
+  * : motor `m.ot.or` » `m.ot`
 * **müh** `mÜ` : `be-mÜ.en`
 * *münchen* `mÜ.en`
 
@@ -2330,10 +2337,16 @@
   * *parlamentar* `PAR`
     * : *parlamentar*ier `PAR.er` ! `PAR.ar-er`
     * : *parlamentar***isch** `PAR.i`
-* part `pat`
-  * : partner `pat-er`
-  * : *partei* `pa-ei` E
-* **pass** `pass`
+
+---
+
+* part `pat` : `pat-I` `pat-ik.el` `pat-er`
+  * : partikulär `pat-ik.är`
+  * *partei* `pa-ei`
+* pass ← pand
+
+---
+
 * **p**at `p`
   * : *kom***p**atibel `kom-p.ib.l`
   * : *kom***p**atibilität `kom-p.ib.ät`
@@ -2420,8 +2433,8 @@
 * *porto* `p.ot` E
 * *post* `po`
   * : *post*ier `po.ir`
-  * : *post*ulat `po.ul.at` ! `p.o+st.ul.at` > `p.o+st.at`
-  * : *post*ulier `po.ul.ir`
+  * : *post*ulat `po.at` ! `p.o+st.at`
+  * : *post*ulier `po.ir` ! `po.ul.ir`
   * *pot* `p.o`
     * : de*pot* `(d.e)p.o`
 * präm `pr.äm`
@@ -2526,7 +2539,7 @@
     * ~~reg~~ier `(.ir)`
   * : **reg**ier*ung* `r.ir-UNG` E ~ `ir-UNG`
     * : **bund**es**reg**ier*ung* `bu.r.ir-UNG` * b**u**ndes**reg**ier*ung* `u-r.ir-UNG` ~ `u-r-UNG`
-  * : **reg**ulier `r.ul.ir`
+  * : **reg**ulier `r.ir` ! `r.ul.ir`
   * : **reg**el `r.l` ~ `(.el)`
     * : <b>*spiel*</b>**reg**el `.il.r.l` ~ `.il,(.el)`
     * : *in*.~~der~~.**reg**el `(I)r.el` × *in*.~~der~~.~~reg~~el `(I)el`
@@ -3784,10 +3797,7 @@
       * **prinz** `pri`
 * z~~ipl~~ `z`
   * *dis*~~ziplin~~ `ds`
-* zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.us`
-  * *zirkul* `z.ik`
-    * : *zirkul*ier `z.ik.ir`
-    * : *zirkul*ation `z.ik.iO`
+* zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.iO` `z.ik.ir` `z.ik.us`
   * ~~bez~~irk `(.ik)`
     * ! *be*zirk `be-z.ik` ~ `be-ik`
 * ~~ziv~~il `(.il)`
