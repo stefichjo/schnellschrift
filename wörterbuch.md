@@ -87,6 +87,10 @@
   * **reg**ieren `r.ir` ~ `(.ir)`
   * **reg**ulieren `r.ir` ! `r.ul.ir`
 
+#### Lateinische Selbstlautcluster
+
+* ***stud***ium `.ud.um`
+
 ### Anstellen
 
 * an*grenz*en `(.an)GR`
@@ -1317,6 +1321,7 @@
 * ***haus*** `.aus` : `.im.aus.e` `v.aus.S` `kra.aus` `sta.aus`
   * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
     * : *ge*<i></i>***häus***<i></i>e `G-äus.e` ! `G-h.äus.e`
+* heb `h.eb` : `schat-h.eb.el`
 * hei~~ß~~ `h.ei`
   * hie~~ß~~ `h.i` ! `h.iss`
 * -*heit* `H`
@@ -2173,14 +2178,13 @@
 * ~~nam~~ : `(.e)` `('t-L)`
   * ! (nam) : `n.am.ha`
   * ***näm*** `.äm` : `.äm.L`
+* ~~nat~~ : `(UR)` `(YR).L`
+  * : ~~natio~~n `(n)` : `(n.al)`
+    * : ~~natio~~n `(n)` ~ `(.iO)`
+    * : *inter*~~natio~~nal `(I)t-er.n.al` * `(I)t-er-a`
 
 ---
 
-* ~~nat~~*ion* `(.iO)`
-  * natio<b>*nal*</b> `(n.al)`
-    * *inter*natio<b>*nal*</b> `(I)t-er.n.al` * `(I)t-er-a`
-* ~~nat~~ur `(UR)` E
-  * ~~nat~~*ür* `(YR).L` E
 * n<b>*aut*</b> `(.aut)` ! `n.aut`
   * : n<b>*aut*</b>ik `.aut.ik` ! `n.aut.ik`
   * : aeron<b>*aut*</b>ik `.er.aut.ik` ! `.er.o-n.aut.ik` ~ `.er.o-n.ik`
@@ -2409,20 +2413,22 @@
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `ha.tik` `eu-er.tik` `FT.tik`
     * **fin**anz*politik* `fi.az.tik` » `fi.tik`
   * -poli<b>*t*</b>**isch** `.it.i` ! `p.ol.i` E
+* *polizei* `li` : `li.ei` `li.ist`
+* ***pon*** `.on` : `ds.on.ir` `kom.on.ir` `tra.on.ir`
+  * : de***pon***ieren `d.e-on.ir` ! `(d.e)p.on.ir`
+  * : *komp*<i></i>***on***<i></i>*ent*e `kom.on.ent.e` ~ `kom.o-nt.e`
+  * ***pos*** `.os`
+    * : ***pos***it*ion* `.os.iO` ~ `p.os`
+    * : ***pos***itiv `.os.iv` ~ `po.iv`
+    * : *dis*<i></i>***pos***it*ion* `ds.os.iO` » `ds.os`
+    * **po**~~st~~ `po` : `po.ir` `kom.ost` `k.om.o+st.ir`
+      * : **po**~~st~~ulat `po.at` ! `p.o+st.at`
+      * : **po**~~st~~ulier `po.ir` ! `po.ul.ir`
+    * pot `p.o`
+      * : depot `(d.e)p.o`
 
 ---
 
-* poliz `p.ol.iz` » `p.ol` E
-  * polizei `p.ol.iz.ei` » `p.ol.ei` E
-  * polizist `p.ol.iz.ei` » `p.ol.ei` E
-* <b>*pon*</b> `.on`
-  * : de<b>*pon*</b>ier `d.e-on.ir` ! `(d.e)p.on.ir`
-  * : *dis*<b>*pon*</b>ier `ds.on.ir`
-  * : *trans*<b>*pon*</b>ier `tra.on.ir`
-  * **pos** `pos`
-    * : **pos**it*ion* `pos.O` ! `p.os.iO` » `p.os`
-    * : **pos**itiv `pos.iv` ! `p.os.iv` (E) ~ `po.iv`
-    * : *dis***pos**it*ion* `(ds)pos.O` ~ `ds.os.iO` ! `ds.os`
 * port `pot`
   * : portal `pot-al`
   * : import `.im-pot` (BSA)
@@ -2431,12 +2437,7 @@
   * : pr**o**port*ion* `(o)pot-iO`
   * : *trans*port `tra.pot`
 * *porto* `p.ot` E
-* *post* `po`
-  * : *post*ier `po.ir`
-  * : *post*ulat `po.at` ! `p.o+st.at`
-  * : *post*ulier `po.ir` ! `po.ul.ir`
-  * *pot* `p.o`
-    * : de*pot* `(d.e)p.o`
+* post ← pon
 * präm `pr.äm`
   * prämie `pr.äm.I.e` » `pr.äm.e` E
   * prämien `pr.äm.I.en` (E)
@@ -2589,6 +2590,13 @@
   * : **rent**abel `ret-ab.l` ~ `r.et.ab.l` (E)
   * : **rent**e `ret.e` (E)
   * : **rent**ner `ret-er` (E)
+
+---
+
+* *revier* `r.ir` : `li.ei-r.ir`
+
+---
+
 * *rheinländisch-westfälisch* `SCH.SCH`
 * **richt** `ri`
   * : **richt**en `ri` ! `r.icht` E
@@ -2687,6 +2695,7 @@
 
 ---
 
+* schalt `schat`
 * scha~~tz~~ `sch.a` : `scha,(er)` `scha.S.el`
   * ! schatz `sch.atz`
   * sche~~tz~~ `sch.e` : `G-sch` `.ab.sch`
@@ -3161,12 +3170,11 @@
     * : ~~str~~**u**~~kt~~ur `u-UR` ~ `str.uk`
 * ***stück*** `.ük`
   * **früh**<i></i>***stück*** `frÜ.ük`
+* ***stud*** `.ud` : `.ud.ir` `.ud.um`
+* ***stuf*** `.uf` : `.uf.e`
 
 ---
 
-* <b>*stud*</b> `.ud`
-  * : <b>*stud*</b>ier `.ud.ir`
-  * : <b>*stud*</b>ium `.ud.um`
 * stund ← steh
 * sturz `st.uz` (E)
   * : (stürz) `st.ürz` E
