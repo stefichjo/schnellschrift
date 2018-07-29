@@ -3581,38 +3581,22 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 * weil `w.eil` : `w.eil.e`
   * * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
-  * wen `w.en` : `w.en.i`
-
----
-
-* w<b>*eis*</b> `(.eis)` E
-  * : bew<b>*eis*</b> `b.e-eis`
-  * : ~~mög~~*lich*erw<b>*eis*</b>e `(L).eis.e`
-  * w<b>*ies*</b> `(.is)` ! `w.is` E
-    * : bew<b>*ies*</b> `b.e-is` E
-    * : *ge*w<b>*ies*</b>en `G-is`
-
----
-
+  * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
+* ~~w~~eis `(.eis)` : `be-eis` `be-eis.bar` `er.eis` `hn.eis` `Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
+  * *darauf* *hin*~~w~~eisen `dar-AU hn.eis` ~ `dar-AU-n`
+  * *ich* ***muss*** *darauf* *hin*~~w~~eisen `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
+  * ~~w~~ies `(.is)` : `G-is` `.ab.is` `be-is` `er.is` `er.is.ass` `Ü.is` `.I-Ü.is` `.U.e-Ü.eis`
+    * ! wies `w.is`
 * ~~w~~eit `(T)`
   * ! (weit) `w.T`
   * : ~~w~~eiter `(T)-er` ! `T-er`
   * × ~~weit~~er : `&.o,(er)` » `&.o`
-* *welch* `.ech`
+* ***welch*** `.ech`
 * welt `wet` : `E-wet-L`
   * ~ ~~wel~~t `(-t)` : `um-t`
 * wem ← wer
 * wen ← wer
-
----
-
-* wen `w.en`
-  * : wenig `w.en.i` E
-  * : wenigst `w.en.i+st` ~ `w.en.iS` E
-  * : *desto*.weniger `d.est-w.en.i-er` (BSA)
-
----
-
+* wen ← wein
 * wend ← wind
 
 ---
