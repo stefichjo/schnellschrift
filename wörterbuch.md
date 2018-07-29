@@ -87,9 +87,16 @@
   * **reg**ieren `r.ir` ~ `(.ir)`
   * **reg**ulieren `r.ir` ! `r.ul.ir`
 
-#### Lateinische Selbstlautcluster
+#### Lateinische Selbstlaut-Nachsilben
 
-* ***stud***ium `.ud.um`
+* ***stud***<i></i>ium `.ud.um`
+
+### Griechischer Fugen-Selbstlaut
+
+* **kat**a**log** `ka.og`
+* auto `.aut.o`
+* auto**bahn** `.aut.o-ba`
+* auto**graph** `.aut.gra`
 
 ### Anstellen
 
@@ -209,9 +216,9 @@
 * ***wer*** `wer`
 * -***bar*** `bar`
 * ***pass*** `pass`
-* ***wass***er `was-er`
+* ***wass***<i></i>er `was-er`
 * ***was*** `was`
-* ***fer***~~n~~ `fer`
+* ***fer***<i></i>~~n~~ `fer`
 
 ## Verhältnismäßigkeit
 
@@ -558,7 +565,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
     * **dächt** `d` : `G-d.is` `E-d.i`
       * ! (dächt) `d.ächt`
   * dank `d.ak` : `d.ak.ed` `gru.G-d.ak.e` `UN-d.ak` `M.b.est-d.ak`
-    * ~~dank~~***bar*** `(bar)` : `(bar).T` `s.bar`
+    * ~~dank~~<i></i>***bar*** `(bar)` : `(bar).T` `s.bar`
     * *gedank* `G-da` : `G-da.e` `G-da.os`
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
@@ -683,7 +690,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
     * : **ein**er `.ei-er` V
     * : **ein**es `.ei-es` V
   * : ein**ig** `N.i`
-    * : *ver*ein***bar***<i></i>*ung* `E.N.bar-UNG` (BSA) × `E.bar-UNG`
+    * : *ver*ein<i></i>***bar***<i></i>*ung* `E.N.bar-UNG` (BSA) × `E.bar-UNG`
     * : *ver*ein**ig** `E.N.i` × *ver*~~ein~~**ig** `E.i` ! `E.ig`
       * -*vereinigung*- `ig`
         * : *wirtschaftlich*e *vereinigung* `FT.L.e ig`
@@ -900,13 +907,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
     * : of**f**ensiv `.of.iv`
 * fenster `fest-er` (BSA)
 * *ferien* `f.I.en`
-
----
-
-* ***fer***~~n~~ `fer` @: `IN,(o)f.en` `IN.w.i-f.en` `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent` (BSA)
-
----
-
+* ***fer***<i></i>~~n~~ `fer` @: `IN,(o)f.en` `IN.w.i-f.en` `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent` (BSA)
 * fert `fet` (BSA)
   * fert**ig** `fet-ig` (BSA)
     * : X `fet-ig.T` `I fet-ig` `.an.fet-ig` `.S.fet-ig` `UN-fet-ig`
@@ -974,7 +975,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 ---
 
 * ***fleisch*** : `.eisch`
-  * : rind***fleisc*** `r.id.eisch` ~ `ri.eisch`
+  * : rind<i></i>***fleisch*** `r.id.eisch` ~ `ri.eisch`
 
 ---
 
@@ -1266,8 +1267,8 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 
 * gunst ← gönn
 * **gut** `gu`
-  * ***bess***er `bes-er`
-    * » ***bess***~~er~~ : `bes-UNG` `G-bes` `.S.bes` `E-bes`
+  * ***bess***<i></i>er `bes-er`
+    * » ***bess***<i></i>~~er~~ : `bes-UNG` `G-bes` `.S.bes` `E-bes`
   * best `b.est`
 * **hab** `ha` : `G-ha` `im.IN.ha-er`
 
@@ -2426,7 +2427,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * -poli<b>*t*</b>**isch** `.it.i` ! `p.ol.i` E
 * *polizei* `li` : `li.ei` `li.ist`
 * ***pon*** `.on` : `ds.on.ir` `kom.on.ir` `tra.on.ir`
-  * : de<i></i>***pon***ieren `d.e-on.ir` ! `(d.e)p.on.ir`
+  * : de<i></i>***pon***<i></i>ieren `d.e-on.ir` ! `(d.e)p.on.ir`
   * : *komp*<i></i>***on***<i></i>*ent*e `kom.on.ent.e` ~ `kom.o-nt.e`
   * ***pos*** `.os`
     * : ***pos***<i></i>it*ion* `.os.iO` ~ `pos`
@@ -3556,7 +3557,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 ---
 
 * ***was*** `was`
-* ***wass***er `was-er`
+* ***wass***<i></i>er `was-er`
 * wechsel ← wachs
 * **weg** `w` : `(.es)w` `m.N.w` `.U-t-w` `O.w`
   * ! weg `w.eg`
@@ -3651,7 +3652,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
       * : *ent***würf**e `eNT.wÜ.e` * *ent*w**ü**rfe `eNT-Ü.e`
       * : *vor***wurf** `O.wu`
       * : *vor***würf**e `O.wÜ.e`
-      * : *zer***würf**<i></i>***nis*** `zer.wÜ.is` * *zer*w**ü**rf***nis*** `zer-Ü.is`
+      * : *zer*<i></i>**würf**<i></i>***nis*** `zer.wÜ.is` * *zer*w**ü**rf***nis*** `zer-Ü.is`
   * würf `w.üf` (E)
 
 ---
@@ -3846,7 +3847,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 * ~~ziv~~il `(.il)`
 * zog ← zieh
 * *zu* `Z` : `(.e)Z`
-  * *da**zu* `.a-Z` * `a-Z`
+  * *da*<i></i>*zu* `.a-Z` * `a-Z`
   * z~~um~~ `z`
   * *zur* `zr*`
 * zucht ← zieh
