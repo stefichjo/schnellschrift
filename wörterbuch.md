@@ -2,7 +2,7 @@
 
 @`O-a` `O.a`
 @`G-` `G.`
-@`b.e` `be`
+@`b.e` `be` → **be** `b`
 @`r.e` `re`
 @`m.ek,(.el)` `hau.L` `ach,(.e)` `ta,(.e)` `ta,(en)`
 @anlautkurz: h-r (gerade abstriche koennen das r nicht aufnehmen)
@@ -230,6 +230,19 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 
 * *er*<i></i>**rat**en `er-ra`
 
+### ...
+
+Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
+
+* innen `.in.en`
+* in `IN`
+
+* ***seit***e `T.e`
+* seit `s.T`
+
+* weile `w.eil.e`
+* weil `.eil`
+
 ---
 
 * ab `.ab`
@@ -258,15 +271,14 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 * alt `.at` : `.at-er` `.ät-er` `.ät.est` `ki.at-er` `v.at-er.h`
   * ! (alt) `.alt` : `UR.alt`
 * am~~erik~~ `.am` : `.am.a` `.am.er` `.am.i` `I E.N.i .at.en v .am.a`
+* amt `.amt` : `.amt-ir`
+  * ~ -**amt**- `.a` : `b.a` `hau.a.L` `pa°.a`
+    * : **be**<i></i>**amt**er `b.a.er`
+    * : *aus*wertiges amt `.S.wet.ig.es .a` ~ `.S.a`
+  * × -~~amt~~- : `b.FT`
 
 ---
 
-* amt `.amt`
-  * : amtier `.amt-ir`
-  * -**amt** `.a`
-    * : **haupt**<i></i>**amt***lich* `hau.a.L`
-    * : *patent***amt** `pa°.a`
-  * *beamt* `b.e-a`
 * an `.an`
   * : *wor*an `wo.an` E
 * and `.ad` V
@@ -398,8 +410,13 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * <b>*bei*</b>- `.ei`
   * -<b>*bei*</b> `.ei`
     * : **h**er<b>*bei*</b> `h.ei`
-* <b>*beid*</b> `.eid` ! beid `b.eid` (BSA)
-  * X `b.eid.e` `b.eid-er.s.Ts` `b.eid-er.l.ei` `v.b.eid.s.T-en`
+
+---
+
+* ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
+
+---
+
 * berg `b.eg` (BSA)
   * berge `b.eg.e` (BSA)
   * : *ver*berg `E.b.eg` (BSA)
@@ -1859,9 +1876,9 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
     * : **lag**er `la-er`
       * ! lager `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G-l.ag-ert` `E.l.ag-er`
   * **leg** `l` : `l-t.e` `.ab.l` `b.e-l` `b.ei-G.l` `dar-AU.l` `Ü.l` `E.l` `E.l.H` `O-G.l` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `G-l.H` `.an.l.H`
-    * : **leg**er `l-er`
-      * ! leger `l.eg-er` : `E.l.eg-er`
+    * : *ver***leg**er `E.l-er` ! `E.l.eg-er`
     * ~~leg~~ : `.an.H` `G-H`
+      * : *aus*wertige an*ge*<i></i>**leg**en*heit*en `.S.wet-ig.e .an.H.en` ~ `.S.H.en`
 
 ---
 
@@ -2630,7 +2647,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * *risiken* `ri.k.en`
 * roll `r.oll`
   * : **ein**e.r**o**lle.sp**ie**len `.ei,o,i`
-* **rück** `rÜ` V ! `r.ük`
+* *rück* `rÜ` V ! `r.ük`
   * *zu***rück** `Z-rÜ`
     * *zurück* `u-rÜ`
 * r<b>*uf*</b> `(.uf)` ! `r.uf`
@@ -2678,7 +2695,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
     * : X `G-sa` `G-sa.e` `G-sa.H` `G-sa.w.ol` `IN.G-sa`
     * : *in*s*ge*<i></i>*samt* `(I)G-sa` ! `IN.G-sa` E
 * **samm** `sa`
-  * : *zu***samm**en `Z-sa` V @ `u-sa`?
+  * : *zu***samm**en `Z-sa` V @ `u-sa`?@macht man nicht
   * : **samm**el `sa.l`
   * : *ver***samm**el `E-sa.l` » `E-sa`
   * : *ver***samm**l*ung* `E-sa.l-UNG` » `E-sa-UNG`
@@ -2808,7 +2825,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * : **hoch**<i></i>**schul**e `ho.ul.e` * `ho-u-e`
   * **schül** `.ül` : `.ül-er`
 * **schutz** `.uz`
-  * ~~sch~~**u**~~tz~~ `u` : `.um't,u`
+  * ~~sch~~**u**~~tz~~ `u` : `.um't,u` `str.al,u`
   * **schütz** `.üz` ~ `schÜ`
 
 ---
@@ -2867,10 +2884,25 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
     * : *ge*<b>*wes*</b> `G-es`
     * : *ge*~~wes~~ `-G`
       * : X `-G.en` = `G.en` `d G-en.e` `da.G.en`
-* <b>*seit*</b> `T` ! `s.T`
-  * : <b>*seit*</b>e `T.e`
-  * : <b>*seit*</b>*lich* `T.L`
-  * : be<b>*seit*</b> `b.e-T`
+
+---
+
+* ***seit*** `T` : `T.e` `T-en` `T.L` `.ad-er.Ts` `b.T-ig` `.eid-er.Ts` `g.T-ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T-en`
+  * ***seit***ens `T-s` `s.T-s`
+  * ***seit***wärts `T-wets` ! `s.T-wets`
+  * ***seit***<i></i>en<i></i>**lang** `T-ang` ! `s.T-ang`
+  * bei***seit***e `b.ei-T.e` ! `b.ei-s.T.e`
+  * *auf*.***beid***en.***seit***en `AU .eid T-en` ~ `AU.eid.T-en`
+  * *auf* *dies*er ***seit***e `AU.iS-er T.e` ~ `AU-i.T.e`
+  * *auf* ~~d~~**er** *ein*en ***seit***e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
+  * *auf* ~~d~~**er** anderen ***seit***e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
+  * v~~on~~ ***beid***en ***seit***en `v .eid T-en` ~ `v.eid.T-en`
+  * v~~on~~ *mehrer*en ***seit***en `v MR T-en` ~ `v.MR.T-en`
+  * v~~on~~ *unserer* ***seit***e `v u-er-er T.e` ~ `v,u-er-er.T.e`
+  * seit `s.T`
+
+---
+
 * *sekretär* `s.ekr` E
   * *sekretariat* `s.ekr.at` E
 * *selb* `l` ! `s.eb`
@@ -3046,7 +3078,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 * **sprech** `spr` : `eNt.spr`
   * : ~~sprech~~ : `eNT.ed`
   * **sprich** `.ich`
-  * **sprach** `spra` : `spra-e`
+  * **sprach** `spra` : `spra-e` `g.wat,spra-e`
     * **spräch** `spr` : `G-spr`
   * **sproch** `.och`
   * **spruch** `.uch`
@@ -3163,13 +3195,19 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 * **stimm** `.im`
   * *bestimm* `b°-i`
     * : *mit*<i></i>*bestimm* `M,b°-i` ~ `M°`
-* **stoff** `.of`
+
+---
+
+* **stoff** `.of` : `(k).of`
 * **stolz** `.oz`
-* **straf** `stra`
-* strahl `str.al` : `str.al.ed` `str.al,u`
+* **straf** `stra` : `stra-e`
+* strahl `str.al` : `str.al.ed`
   * : *aus*strahlen `(.S)str.al` ~ `(.S)stra`
 * **straß** `stra` : `stra-e`
   * -~~straß~~- : `(.e)` `hau,(.e)` `m.ich,(.e)`
+    * ***seit***en~~straß~~e : `T,(.e)` ~ `s.T.en,(e)`
+
+---
 * ~~str~~eit `(T)`
   * ~~str~~itt `(.it)`
 * string `str.ing`
@@ -3177,10 +3215,10 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * strikt `str.ikt`
     * : distrikt `d.i-str.ikt` (BSA) ~ `(ds)tr.ikt` (BSA)
 * stroph `str.of`
-  * : *kata*stroph `k.at.str.of`
-    * × *kata*~~stroph~~ `k.at` BSA
-      * : *kata*~~stroph~~e `k.at.e` (BSA)
-      * : *kata*~~stroph~~al `k.at.al` (BSA)
+  * : **kat**astroph `k.at.str.of`
+    * × **kat**a~~stroph~~ `k.at` BSA
+      * : **kat**a~~stroph~~e `k.at.e` (BSA)
+      * : **kat**a~~stroph~~al `k.at.al` (BSA)
 
 ---
 
@@ -3218,8 +3256,10 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 * ~~sym~~bol `(b.ol)` : `(b.ol).ir`
 * ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
 * -t
+  * : ab*ge*wartet `.ab.wat` ! `.ab.wat-et`
   * : *be*<i></i>***gab***<i></i>t `be-ab` ! `be-abt`
   * : **bild**et `bi` ! `bi.et`
+  * : *er*~~wir~~kt `er,(w)` ! `er,(w)t`
   * : **filt**riert `fit-r.ir` ! `fit-r.irt`
   * : gar~~ant~~iert `gar.ir` ! `gar.irt`
   * : *ge*altert `G-at-er` ! `G-at-ert`
@@ -3235,12 +3275,17 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * : *ge***leist**et `G-l.ei` ! `G-l.ei-et`
   * : *ge*<i></i>*rätsel*t `G-ts.el` ! `G-ts.elt`
   * : *ge*~~t~~eilt `G-eil` ! `G-eilt`
+  * : *ge*wartet `G-wat` ! `G-wat-et`
+  * : *ge*~~wir~~kt `G,(w)` ! `G,(w)t`
   * : ***gib***<i></i>t `.ib` ! `.ibt`
   * : ~~n~~immt : `(.im)` ~ `.imt`
   * : ***triff***<i></i>t `.if` ! `.ift`
   * : *ver*(alt)et `E-alt` ! `E-alt-et`
   * : *ver*<i></i>**dächt**<i></i>*ig*t `E-d.i` ! `E-d.i-t`
   * : *ver***härt**et `E.het` ! `E.het-et`
+  * : *ver***wöhn**t `E.wö` ! `E.wö-t`
+  * : ~~wir~~kt `(k)` ! `(k)t`
+  * : *zu*<i></i>**samm**en*ge*~~wir~~kt `Z-sa,(k)` ! `Z-sa,(k)`
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
   * tab~~ell~~e `t.ab.e` » `t.ab`
 * *tag* `tag` : `f.ei-er.tag` `do.tag`
@@ -3532,27 +3577,23 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
     * <b>*recht*</b>san~~walt~~ `echt.an` ~ `R.an`
   * : *über*wältigend `Ü.wet-ig.ed` (E)
   * : *ver*walt `E.wat` × ~~verwalt~~*ung* `UNG`
-* wand ← wind
-* wand `w.ad`
-* wandel ← wind
 
 ---
 
+* wand `w.ad`
+* wand ← wind
+* wandel ← wind
 * wann `w.an`
 * **war** `wa`
   * : **war**e `wa-e` ! `wa.e`
 * war ← sein
 * warn `w.an`
-
----
-
-* wart `wat`
-  * -war<b>*t*</b> `('t)`
-    * : **geg**enwar<b>*t*</b> `g('t)`
-  * wärt `wet` (E)
-    * -wär<b>*t*</b> `('t)`
-      * : *aus*wär<b>*t*</b>**ig** `.S('t)-ig`
-      * : **geg**enwär<b>*t*</b>**ig** `g('t)-ig`
+* wart `wat` : `wat-et.e` `er.wat` `er.wat-Ol`
+  * ~ -~~war~~t : `g-t`
+  * wärt `wet` : `wet-er`
+    * ~ -~~wär~~ter `(-t-er)` : `.an-t-er`
+    * ~ -~~wär~~tig `(-t-ig)` : `.S-t-ig` `g-t-ig` `rÜ-t-ig`
+    * ~ -~~wär~~ts `(-ts)` : `.S-ts` `O-ts`
 
 ---
 
@@ -3579,7 +3620,7 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 ---
 
 * weil `w.eil` : `w.eil.e`
-  * * ***weil*** `.eil` : `.eil.I`
+  * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
   * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
 * ~~w~~eis `(.eis)` : `be-eis` `be-eis.bar` `er.eis` `hn.eis` `Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
@@ -3696,17 +3737,14 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * : *ge*winn `G-w.in` ~ `G-in`
   * wann `w.an` : `G-w.an`
   * wonn `w.on` : `G-w.on`
-
----
-
-* **wint** `wit`
-  * : **wint**er `wit-er` (E)
-* *wir* `wr` V
-  * d~~as~~.*wir* `DR` P (3-stufiges R)
-* wir<b>*k*</b> `(k)` ! `w.ik` (E)
-  * : wir<b>*k*</b>*lich* `(k).L`
-  * : wir<b>*k*</b>**sa***keit* `(k)-sa.T` ! `(k)-s.am.T`
-  * : *ge*wir**k**t `G,(k)t`
+* winter `wit-er`
+* *wir* `wr`
+  * d~~ass~~.*wir* `d.wr` ~ `DR` (3-stufiges R)
+* ~~wir~~k `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(w).L`
+  * : ~~wir~~k**sam**<i></i>*keit* `(k)-sa.T` ! `(k)-s.am.T`
+  * : *ent*<i></i>*gegen*~~wir~~ken `eNT.g,(k)` « `eNT.k`
+  * : *darauf* *hin*~~wir~~ken `dar-AU` `hn,(k)` « `dar-AU.k`
+  * ! wirk `w.ik`
 * **wirt** `wit`
   * *wirt*- `(wr)`
 * <b>*wiss*</b> `.iss`
@@ -3725,19 +3763,12 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
   * : **woch**e `wo-e`
 * wohl `w.ol`
   * : obwohl `.ob.w.ol`
-
----
-
 * **wohn** `wo`
-  * : **wohn***ung* `wo.UNG` * **wohn**<i></i>**u**ng `wo-u`
+  * : **wohn***ung* `wo.UNG` * `wo-u`
+  * **wöhn** `wö` : `G-wö`
   * : *ge*<i></i>**wöhn**<i></i>*lich* `G-wö.L` ~ `G-ö-L`
-  * : *ver***wöhn**t `E.wö-t`
-* *woll* `(.ol)` V
-  * *will* `(l)` V
-    * : *will*st `(l)` V
-
----
-
+* *woll* `(.ol)`
+  * *will* `(l)`
 * wort `wo't`
   * × ~~wort~~ : `aNT`
   * ~ -~~w~~**o**~~rt~~- `o` : `bi-o` `hau-o` `aCHT-o` `.ag-o` `.ich-o`
