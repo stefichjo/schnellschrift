@@ -1,5 +1,17 @@
 # Wörterbuch
 
+`(.an)tra,(er)`
+`(.an)tra.G`
+`(AU)tra.g`
+`(AU)tra.G`
+`(b.ei)tra.za*`
+`(E)tra-Ü.i`
+`(E)tra.ha.en`
+`(E)tra,i`
+tracht
+
+@`pass`
+@`(-t)` halt walt wart
 @`O-a` `O.a`
 @`G-` `G.`
 @`b.e` `be` → **be** `b`
@@ -104,7 +116,6 @@
 * bei**trag** `(b.ei)tra` → `(.ei)tra`
 * *er*forschen `er.f.osch` → `(e)f.osch`
 * umlaut `.um:l.aut`
-* um**fass**end `.um.ass.ed`
 * in.diesem `(I).iS.em`
 
 ### Ausschreibung
@@ -855,11 +866,12 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
 * farm `f.am`
-* **fass** `ass` : `AU.ass` `be-ass` `er.ass` `.um.ass.ed` `E-ass-er` `Z-sa-ass.ed` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
-  * ! fass `f.ass` : `f.ass.ade` `f.ass.ong`
-  * ~ ***fass*** `fass` : `G-fass` `G-fass.H` `.an.fass`
-  * **fäss** `ess`
+* ***fass*** `fass` : `G-fass` `G-fass.H` `.an.fass`
+  * ~ **fass** `.ass` : `AU.ass` `be-ass` `er.ass` `.um.ass.ed` `E-ass-er` `Z-sa-ass.ed` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
+  * ***fäss*** `fess`
     * ! fäss `f.ess` : `f.ess.er` `f.ess.ch.en`
+* fassade `f.ass.ade` @
+* fasson `f.ass.ong` @
 * *fast* `Fa`
 
 ---
@@ -1808,8 +1820,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * * *länger* `NGR` : `E.NGR`
 * ~~l~~ass `(ass)` : `(I)t-er.ass`
   * ! lass `l.ass` ~ `ass`
-  * *aus*.an~~lass~~ `.S.an`
-  * *ver*an~~lass~~ `E.an`
+  * × ~~lass~~ : `E.an` `.S.an`
   * ~~l~~äss `(ess)` : `E-ach.ess.i`
     * ! läss `l.ess` : `l.ess.i` `fa.l.ess.i`
     * × ~~läss~~ : `.an.L`
@@ -2045,7 +2056,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * merk `m.ek`
   * : *auf*merk*sam* `AU.m.ek-sa`
     * × *auf*~~merk~~*sam* `AU-sa` : `AU-sa.EIT` × `AU.EIT`
-  * : **be**me~~r~~k `be-m.ek` ~ `be-m`
+  * : **be**merk `be-m.ek` ~ `be-m`
 * **mess** `ess` : `ess.e` `ess-er`
   * : **höh**en~~mess~~er `hö.ess-er` × `hö,(er)`
   * **miss** `.iss`
@@ -2129,6 +2140,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
+* ~~mom~~ent `(met)` : `tr.eg.H,(met)`
 
 ---
 
@@ -2377,6 +2389,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : partikulär `pat-ik.är`
   * *partei* `pa-ei`
 * pass ← pand
+* pass ← pati
 
 ---
 
@@ -2535,6 +2548,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * rag `r.ag`
 * rahm `r.am`
   * : im.rahmen `.im.r.am` ~ `.im.am`
+* rakete `(.et).e`
 * rang `r.ang` : `r.ang.ir` `O-r.ang`
 * **rat** `ra` : `ra.os` `G-ra` `O-ra` `bu.ra`
   * *berat* `Ra`
@@ -2662,12 +2676,11 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : e*rupt*iv `.e-r.up.iv` ! `.e-r.upt-iv`
     * *rott* `-r.ot`
       * : bank*rott* `b.ak-r.ot` E
-* **rund** `ru`
-* *russ* `russ`
 
 ---
 
-* ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G-schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(.e)` `UR,(.e)`
+* **rund** `ru`
+* *russ* `russ`* ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G-schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(.e)` `UR,(.e)`
   * ~ **sach** `sa` : `E-UR-sa`
   * säch `s.ech` : `s.ech.L`
     * : *ur*säch*lich* `UR-s.ech.L` ~ `UR-s.L`
@@ -2733,7 +2746,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * schalt `schat`
 * scha~~tz~~ `sch.a` : `scha,(er)` `scha.S.el`
   * ! schatz `sch.atz`
-  * sche~~tz~~ `sch.e` : `G-sch` `.ab.sch`
+  * schä~~tz~~ `sch.e` : `G-sch` `.ab.sch`
     * ! schätz `sch.ez` : `sch.ez.e` `sch.ez.ch.en` `sch.ez*`
 * **schau** `.au` : `G-au`
 * ***scheh*** `.eh`
@@ -2775,22 +2788,16 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * **schlecht** `schl`
 * **schließ** `.iss`
   * **schloss** `.oss`
-  * **schluss** `.uss` : `ra.uss`
+  * **schluss** `.uss` : `ra.uss` `tr.ug.uss`
   * **schlüss** `.üss`
 * **schmack** : `schma` : `schma.ha` `G-schma` `G-schma.os.T`
   * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
 * schmeck ← schmack
 * **schnell** `schn`
-
----
-
-* schn<b>*eid*</b> `(.eid)` ! `schn.eid`
-  * : schn<b>*eid*</b>er `(.eid)-er` | `.eid-er`
-  * schn<b>*itt*</b> `(.it)` ! `schn.itt`
-    * : abschn<b>*itt*</b> `.ab.it`
-
----
-
+* ~~schn~~eid `(.eid)` : `(.eid)-er`
+  * ! (schneid) `schn.eid`
+  * ~~schn~~itt `(.it)` : `.ab.it`
+    * ! (schnitt) `schn.it`
 * sch~~on~~ `sch`
 * **schön** `schö`
   * : **schön***heit* `schö.H` * `ö-H`
@@ -3372,24 +3379,28 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : **tot**al `t.o-al`
     * : **tot**alitär `t.o-al.är`
     * : **tot**alität `t.o-al.ät`
-* tracht ← trag
-* **trag** `tra` E
-  * : an**trag** `(.an)tra` » `.an`
-  * : *auf***trag** `(AU)tra`
-  * : <b>*bei*</b>**trag** `(b.ei)tra`
-  * : *ge***trag**en `G-tra`
-  * : *über***trag** `(Ü)tra`
-  * : *ver***trag** `(E)tra` * *ver*tr**a**g `E-a`
-  * : <b>*kauf*</b>*ver***trag** `.auf,(E)tra` < `.auf.tra`
-  * **träg** `tr.e` E
-    * : **träg**er `tr-er` ! `tr.eg-er` (E)
-  * **trug** `.ug` ! `tr.ug` (E)
-    * **trüg** `.üg` ! `tr.üg` (E)
-  * **tracht** `tra` E
-    * : **trächt** `tr.e` E
 
 ---
 
+* **trag** `tra` : `G-tra` `(.an)tra` `(AU)tra` `(b.ei)tra` `(er)tra` `(er)tra.eich` `hn.S.tra` `ach.tra` `(Ü)tra`
+  * : *ver***trag** `(E)tra` * `E-a`
+  * : ***kauf***<i></i>*ver***trag** `.auf,(E)tra` « `.auf.tra`
+  * : *liefer*<i></i>*ung*s*ver***trag** `l.i-er-UNG:E.tra` « `l.i-er-UNG:tra`
+  * × ~~trag~~ : `b.an` `b.AU` `(er) .an` `.im:b.v`
+  * **träg** `tr` : `(.an)tr.e` `(AU)tr.e` `(b)tr` `(b.ei)tr.e` `UN-er.tr.L` `UN-E.tr.L.T` `(E)tr.L` `(E)tr.L.T`
+    * : *nach***träg**t `ach.tr`
+    * ! träg `tr.eg` : `tr.eg-er` `ach.tr.eg-er.i`
+    * × ~~träg~~ : `ach.L` `ach.L.T` `E,(.e)`
+    * ~ trä~~g~~t `tr.e` : `(E)tr.e`
+  * **trug** `tru` : `b.tru` `E.tru` `ach.tru`
+    * ! trug `tr.ug`
+    * **trüg** `trü`
+      * ! trüg `trüg` : `trüg.e`
+
+  * **tracht** `tra` E
+    * : **trächt** `tr.e` E
+
+* träg `tr.eg` : `tr.eg.H`
 * **trah** `tra` : `(ko)tra`
   * **trakt** `tra`
     * ! trakt `tr.akt`
@@ -3423,6 +3434,12 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * ~~betr~~ieb `(.ib)` : `gr.ib` `ha.ek.ib`
       * ! *be*trie~~b~~ `(be)tr.i` ~ `be.ib`
 * **treu** `treu`
+* **tru**~~g~~ `tru` : `b.tru`
+  * ! trug `tr.ug`
+  * **trü**~~g~~ `trÜ` : `(b)trÜ` `(b)trÜ-er` `(b)trÜ.ei-en` `(b)trÜ.i`
+    * ! trüg `tr.üg` : `tr.üg-er.i` `UN-tr.üg.L`
+  * **tro**~~g~~ `tro` : `(b)tro`
+    * ! trog `tr.og` : `G-tr.og`
 * -*tum* `tum`
   * -*tüm* `tYm`
 * **tu**n `tu` : `wi.i,tu.er` `wi.i,tu.er.ei`
