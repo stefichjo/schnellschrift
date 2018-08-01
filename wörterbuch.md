@@ -1,15 +1,5 @@
 # Wörterbuch
 
-`(.an)tra,(er)`
-`(.an)tra.G`
-`(AU)tra.g`
-`(AU)tra.G`
-`(b.ei)tra.za*`
-`(E)tra-Ü.i`
-`(E)tra.ha.en`
-`(E)tra,i`
-tracht
-
 @`pass`
 @`(-t)` halt walt wart
 @`O-a` `O.a`
@@ -21,6 +11,7 @@ tracht
 @los Aufstrich
 @bUE bue
 @Regel zum Anstellen von Vorsilben (ab welcher Höhe etc.)
+@)t → ).t
 
 ## Kurzschreibung
 
@@ -439,6 +430,13 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * borg `b.og`
     * : *ge*borg `G-b.og`
     * : *ver*borg `E.b.og`
+
+---
+
+* ~~ber~~lin `(l.in)` : `(l.in).er.i`
+
+---
+
 * besser ← gut
 * best ← gut
 * **bi** `bi`
@@ -499,6 +497,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * **broch** `bro`
   * **bruch** `bru`
     * **brüch** `brü` ~ `brÜ`
+      * *ver*<i></i>**trag**s**brüch**<i></i>*ig* `(E)tra.brÜ.i` * `(E)tra-Ü.i`
 * breit `br.T`
 * **brief** `bri`
 * **bring** `.ing`
@@ -1157,6 +1156,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * *unge*- `UN.G`
 * geb `g.eb` : `g.eb-er` `.an.g.eb-er` `ra.g.eb-er`
   * ~ **geb** `g` : `G-g` `G-g.H` `.ab.g` `be-g.H` `er.g` `ach.g` `Ü.g` `E-g-s` `E-g.L` `u-rÜ:g` `n.S.ag.g`
+    * : *auf*<i></i>**trag**<i></i>**geb**er `(AU)tra.g-er` » `(AU)tra.g`
   * × ~~geb~~ : `.S.ag.ed` `er.is` `er.is.os`
   * ***gib*** `.ib` : `ach.ib.T` `er.ib.i`
   * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `be-ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `er.g-st` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O-ab.e` `Z-ab.e`
@@ -1340,6 +1340,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * **handel** `ha` : `bu.ha` `gr.ha` `N.ha` `ms.ha` `wet-ha` `.e ha.um`
   * ! **hand**el `ha.el` : `ha.el.d` `ha.elt.e`
   * : *handlung* `ha*` : `bu:ha*` @OK?
+  * : *ver*<i></i>**trag**s*ver*<i></i>*handlung*en `(E)tra.ha*.en`
   * **händel** `h` : `h-er` `gr.h-er` `vi:h-er`
 
 ---
@@ -2064,8 +2065,8 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * **maß** `ass` : `N.i-er.ass.en`
     * **mäß** `ess` : `ess.i`
       * : *er*<i></i>**fahr**<i></i>*ung*s*ge***mäß** `er.fa.ess` × `er.fa.G`
-      * : **sach**<i></i>*ge***mäß** `sa.ess` × `sa.G`
       * : *ver*~~häl~~t<i></i>***nis***<i></i>**mäß**<i></i>*ig* `E('t)-is.ess.i` × `E('t)-is.i`
+      * -*ge*~~mäß~~ `.G` : `(.an)tra.G` `(AU)tra.G` `sa.G`
 
 ---
 
@@ -3178,6 +3179,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : *in***stall**at*ion* `IN.sta*` S ! `IN.sta.iO`
   * <b>*stell*</b> `.ell` E
     * : <b>*stell*</b>*ung* `.ell-UNG` ~ `st*` E
+    * : an**trag**<i></i>***stell***er `(.an)tra.ell-er` × `(.an)tra,(er)`
     * : *geschäft*s<b>*stell*</b>e `GT-ell.e`
     * : **kon**<b>*stell*</b>at*ion* `ko.ell.iO`
   * **statt** `sta` E
@@ -3282,6 +3284,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : *ge***leist**et `G-l.ei` ! `G-l.ei-et`
   * : *ge*<i></i>*rätsel*t `G-ts.el` ! `G-ts.elt`
   * : *ge*~~t~~eilt `G-eil` ! `G-eilt`
+  * : *ge*<i></i>**tracht**et `G-tra` ! `G-tra.et`
   * : *ge*wartet `G-wat` ! `G-wat-et`
   * : *ge*~~wir~~kt `G,(w)` ! `G,(w)t`
   * : ***gib***<i></i>t `.ib` ! `.ibt`
@@ -3382,6 +3385,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 ---
 
+* tracht ← trakt
 * **trag** `tra` : `G-tra` `(.an)tra` `(AU)tra` `(b.ei)tra` `(er)tra` `(er)tra.eich` `hn.S.tra` `ach.tra` `(Ü)tra`
   * : *ver***trag** `(E)tra` * `E-a`
   * : ***kauf***<i></i>*ver***trag** `.auf,(E)tra` « `.auf.tra`
@@ -3395,16 +3399,16 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * **trug** `tru` : `b.tru` `E.tru` `ach.tru`
     * ! trug `tr.ug`
     * **trüg** `trü`
-      * ! trüg `trüg` : `trüg.e`
-
-  * **tracht** `tra` E
-    * : **trächt** `tr.e` E
-
+      * ! trüg `tr.üg` : `tr.üg.e`
+  * **tracht** `tra` : `(N)tra`
+    * **trächt** `tr` : `tr.i` `b.N.tr.i` `b.N.tr.i-t.e` `(N)tr.i` `(ndr)tr.T`
 * träg `tr.eg` : `tr.eg.H`
 * **trah** `tra` : `(ko)tra`
   * **trakt** `tra`
     * ! trakt `tr.akt`
     * : at**trakt**iv `.a-tra.iv` ~ `.a-tra-t-iv`
+    * **tracht** `tra` : `(b)tra` `(b)tra.et.e`
+* trakt ← trah
 * *trans*- `tra`
   * **tran**- `tra`
 * **trau** `trau` : `trau.er`
@@ -3796,7 +3800,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : *die* besten **wünsch**e `I b.est wÜ.e` * *die* besten.w**ü**nsche `I b.est-Ü.e`
 * würd `w.üd` (E)
   * : würde `w.üd.e` (E)
-* **zahl** `za` : `za*` `ra.za*`
+* **zahl** `za` : `za*` `ra.za*` `(b.ei)tra.za*`
   * : **zähl** `z` : `er.z`
     * ! zähl `z.el`
 * **zahn** `za`
