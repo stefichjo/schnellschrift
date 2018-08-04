@@ -236,7 +236,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * innen `.in.en`
 * in `IN`
 
-* ***seit***e `T.e`
+* ***seit***<i></i>e `T.e`
 * seit `s.T`
 
 * weile `w.eil.e`
@@ -2893,17 +2893,17 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 ---
 
 * ***seit*** `T` : `T.e` `T-en` `T.L` `.ad-er.Ts` `b.T-ig` `.eid-er.Ts` `g.T-ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T-en`
-  * ***seit***ens `T-s` `s.T-s`
-  * ***seit***wärts `T-wets` ! `s.T-wets`
+  * ***seit***<i></i>ens `T-s` `s.T-s`
+  * ***seit***<i></i>wärts `T-wets` ! `s.T-wets`
   * ***seit***<i></i>en<i></i>**lang** `T-ang` ! `s.T-ang`
-  * bei***seit***e `b.ei-T.e` ! `b.ei-s.T.e`
-  * *auf*.***beid***en.***seit***en `AU .eid T-en` ~ `AU.eid.T-en`
-  * *auf* *dies*er ***seit***e `AU.iS-er T.e` ~ `AU-i.T.e`
-  * *auf* ~~d~~**er** *ein*en ***seit***e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
-  * *auf* ~~d~~**er** anderen ***seit***e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
-  * v~~on~~ ***beid***en ***seit***en `v .eid T-en` ~ `v.eid.T-en`
-  * v~~on~~ *mehrer*en ***seit***en `v MR T-en` ~ `v.MR.T-en`
-  * v~~on~~ *unserer* ***seit***e `v u-er-er T.e` ~ `v,u-er-er.T.e`
+  * bei<i></i>***seit***<i></i>e `b.ei-T.e` ! `b.ei-s.T.e`
+  * *auf*.<i></i>***beid***<i></i>en.<i></i>***seit***<i></i>en `AU .eid T-en` ~ `AU.eid.T-en`
+  * *auf* *dies*er ***seit***<i></i>e `AU.iS-er T.e` ~ `AU-i.T.e`
+  * *auf* ~~d~~**er** *ein*en ***seit***<i></i>e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
+  * *auf* ~~d~~**er** anderen ***seit***<i></i>e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
+  * v~~on~~ ***beid***<i></i>en ***seit***<i></i>en `v .eid T-en` ~ `v.eid.T-en`
+  * v~~on~~ *mehrer*en ***seit***<i></i>en `v MR T-en` ~ `v.MR.T-en`
+  * v~~on~~ *unserer* ***seit***<i></i>e `v u-er-er T.e` ~ `v,u-er-er.T.e`
   * seit `s.T`
 
 ---
@@ -3177,7 +3177,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : *in***stall**at*ion* `IN.sta*` S ! `IN.sta.iO`
   * <b>*stell*</b> `.ell` E
     * : <b>*stell*</b>*ung* `.ell-UNG` ~ `st*` E
-    * : an**trag**<i></i>***stell***er `(.an)tra.ell-er` × `(.an)tra,(er)`
+    * : an**trag**<i></i>***stell***<i></i>er `(.an)tra.ell-er` × `(.an)tra,(er)`
     * : *geschäft*s<b>*stell*</b>e `GT-ell.e`
     * : **kon**<b>*stell*</b>at*ion* `ko.ell.iO`
   * **statt** `sta` E
@@ -3212,7 +3212,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : *aus*strahlen `(.S)str.al` ~ `(.S)stra`
 * **straß** `stra` : `stra-e`
   * -~~straß~~- : `(.e)` `hau,(.e)` `m.ich,(.e)`
-    * ***seit***en~~straß~~e : `T,(.e)` ~ `s.T.en,(e)`
+    * ***seit***<i></i>en~~straß~~e : `T,(.e)` ~ `s.T.en,(e)`
 
 ---
 * ~~str~~eit `(T)`
@@ -3699,7 +3699,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
       * : *ent***würf**e `eNT.wÜ.e` * *ent*w**ü**rfe `eNT-Ü.e`
       * : *vor***wurf** `O-wu`
       * : *vor***würf**e `O-wÜ.e`
-      * : *zer*<i></i>**würf**<i></i>***nis*** `zer.wÜ.is` * *zer*w**ü**rf***nis*** `zer-Ü.is`
+      * : *zer*<i></i>**würf**<i></i>***nis*** `zer.wÜ.is` * *zer*w**ü**rf<i></i>***nis*** `zer-Ü.is`
   * würf `w.üf` (E)
 
 ---
@@ -3775,7 +3775,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * *ver*<i></i>*ge*~~wiss~~ern `E-G`
   * <b>*weiß*</b> `.eiss`
   * <b>*wuss*</b> `.uss` ! `w.uss` ≠ <b>*muss*</b>
-    * : **be**<i></i>***wuss***t `b.usst`
+    * : **be**<i></i>***wuss***<i></i>t `b.usst`
 
 ---
 
