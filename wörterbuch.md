@@ -1,6 +1,5 @@
 # Wörterbuch
 
-@`r.e` `re`
 @`m.ek,(.el)` `hau.L` `ach,(.e)` `ta,(.e)` `ta,(en)`
 @anlautkurz: h-r (gerade abstriche koennen das r nicht aufnehmen)
 @los Aufstrich
@@ -258,8 +257,8 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : afr~~ik~~a `.afr.a` » `.afr`
 * ag `.ag`
   * akt `.akt` = `.ak.t`
-    * -*akt*- `-t` : `re-t-iO`
-      * : *re*<i></i>*akt*or `re-t-or` ! `re-akt-or`
+    * -*akt*- `-t` : `r-t-iO`
+      * : **re**<i></i>*akt*or `r-t-or` ! `r.akt-or`
     * ~~akt~~i `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
@@ -569,7 +568,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : **kon**<i></i>**dit**<i></i>*ion* `ko,di-o`
     * : **kon**<i></i>**dit**<i></i>*ional* `ko,di-iaL`
 * <b>*d*</b>*auer* `dau` BSA
-  * X `dau.d` `dau-t.e` `dau.ha` `AU.I.dau` `.an.dau.d` `b.e-dau` `Z-m.ei-em:b.e-dau` `Z-U°.b.e-dau` `G-dau`
+  * X `dau.d` `dau-t.e` `dau.ha` `AU.I.dau` `.an.dau.d` `b.dau` `Z-m.ei-em:b.dau` `Z-U°.b.dau` `G-dau`
   * : *ge*<b>*d*</b>*auer*t `G-dau-t` » `G-dau` E
 * de<b>*m*</b> `(m)` V
   * : *außer*de<b>*m*</b> `.auss.m` (BSA)
@@ -679,7 +678,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * *dunkel* `d.uk` : `d.uk.H` `E-d.uk` `E-d.uk-t.e`
 * *durch* `dr`
   * : *da*<i></i>*durch* `.a-dr` * `a-dr`
-* **dürf** `dÜ` : `dÜ-t.e` `h.if:b.e-dÜ-t-ig`
+* **dürf** `dÜ` : `dÜ-t.e` `h.if:b.dÜ-t-ig`
   * ~~d~~**ü**~~rf~~ `Ü` : `b-Ü.is` `b-Ü-t-ig`
     * -~~bed~~**ü**~~rf~~- `Ü` : `d-Ü.is` `I-Ü.iss.e` `dr.ed-Ü.is` `N-Ü.is` `er.ho-Ü.is` `hi-Ü.ig` `kr.it-Ü-t-ig.T` `E-bes-Ü-t-ig.T`
   * **darf** `da` : `b.da`
@@ -746,7 +745,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * eltern `.et-ern` (BSA)
   * : X `.et-ern.l.os` `.et-ern.FT` `O-et-ern`
 * end `.ed` (BSA)
-  * : X `.ed.e` `b.e-ed.et` `b.e-ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
+  * : X `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
 * -end `.ed` (BSA)
   * : : X `d.uz.ed` `j.ug.ed` `l.eb.ed` `(w).ed` `Z-n.em.ed`
   * : -nd `.d` (BSA)
@@ -924,7 +923,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : **kon**<i></i>**f**erenz `ko.f.ez`
     * : konf. `ko.f` BSA
   * : **kon**<i></i>**f**erier `ko.f.ir` (BSA)
-  * : *re***f**erat `re-f.at`
+  * : **re**<i></i>**f**erat `r-f.at`
   * : *trans*<i></i>**f**er `tra.f`
 * **f**end `f`
   * **f**ens `f`
@@ -958,7 +957,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * de**fin**ier `d.e.fi.ir` ! `d.e-f.in.ir` ~ `d.e-f.ir`
 * **find** `fi`
   * ! find `f.id` (BSA)
-    * : X `.ab.f.id` `b.e-f-id` `b.e-f.id.L` `er.f.id` `sta.f.id` `Z-sa.f.id` `CH Z-echt.f.id` `f.id-er` `f.ad` `.ab.f.ad` `b.e-f.ad` `f.äd.e` `b.e-f.äd.e` `O-f.äd.e` `f.ud` `G-f.ud` `sta.f.ud` `Z-sa.f.ud`
+    * : X `.ab.f.id` `b.e-f-id` `b.e-f.id.L` `er.f.id` `sta.f.id` `Z-sa.f.id` `CH Z-echt.f.id` `f.id-er` `f.ad` `.ab.f.ad` `b.f.ad` `f.äd.e` `b.f.äd.e` `O-f.äd.e` `f.ud` `G-f.ud` `sta.f.ud` `Z-sa.f.ud`
     * : X `.emp-f.id` `.emp-f.id.ed` `.emp-f.ad` `.emp-f.ud` `.empf-f.id.L` `.emp-f.id-sa` `.emp-f.id-UNG.l.os` `.emp-f.id.L.T` `.emp-f.id-sa.T`
   * : **find**er `fi-er`
   * : **find**ig `fi.i`
@@ -1029,11 +1028,11 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : *er*<i></i>*forder*<i></i>*lich* `er.F.L` ~ `er.o-L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `er Fö-e` `I Fö` `I b.Fö.en`
 * *fort* `fr`
-* ***form*** `.om` : `.om.al` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.al.iS.i` `.om.os` `.om.ar` `.om.ul.ir` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `re-om` `re-om-o` `re-om.or.i` `re-om.ir` `tra.om.or` `.um.om` `.un.om`
+* ***form*** `.om` : `.om.al` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.al.iS.i` `.om.os` `.om.ar` `.om.ul.ir` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
   * -*reform*- `.om`
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
-* **frag** `fra` : `fra-e` `fra.ed` `fra.L` `fra.l.os` `G-fra` `.an.fra` `ach.fra` `rÜ.fra` `I b.e-fra-t-en` `sI fra` `sI fra-t.e` `sI fra.t-en`
+* **frag** `fra` : `fra-e` `fra.ed` `fra.L` `fra.l.os` `G-fra` `.an.fra` `ach.fra` `rÜ.fra` `I b.fra-t-en` `sI fra` `sI fra-t.e` `sI fra.t-en`
 * **frau** `frau`
 * ~~fr~~ei `(.ei)`
 * fre~~md~~ `(fr.e)`
@@ -1042,7 +1041,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 ---
 
 * *freund* `.eund` BSA
-  * X `b.e-eund` `b.e-eund.et` `.eund.L` `UN-eund.L` `.eund.L.T` `.eund.in` `.eund.FT`
+  * X `b.eund` `b.eund.et` `.eund.L` `UN-eund.L` `.eund.L.T` `.eund.in` `.eund.FT`
   * *freund*<i></i>*lich* `.eund.L` * fr**eu**nd*lich* `eu-L`
   * *geschäft*s*freund* `GT.eund` * *geschäft*sfr**eu**nd `GT,eu`
 * <b>*fried*</b> `.id`
@@ -1120,7 +1119,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * **f**ür `f` V
   * : **da**<i></i>**f**ür `da.f` ~ *da***f**ür `.a-f`
 * furcht `f.ucht` (BSA)
-  * : X `f.ucht.bar` `f.ucht.l.os` `f.ucht-sa` `f.ücht` `f.ücht.et.e` `f.ücht.L` `b.e-f.ücht-UNG` `I b.e-f.ücht-UNG.en`
+  * : X `f.ucht.bar` `f.ucht.l.os` `f.ucht-sa` `f.ücht` `f.ücht.et.e` `f.ücht.L` `b.f.ücht-UNG` `I b.f.ücht-UNG.en`
 
 ---
 
@@ -1225,7 +1224,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 ---
 
 * ***glaub*** `.aub` BSA
-  * : X `.aub` `.aub.e` `.aubt.e` `wr.aub` `.aub.ha` `I b.e-aub.i` `G-aubt` `UN-äub.i` `.äub.i-er` `.ab-er.aub.e`
+  * : X `.aub` `.aub.e` `.aubt.e` `wr.aub` `.aub.ha` `I b.aub.i` `G-aubt` `UN-äub.i` `.äub.i-er` `.ab-er.aub.e`
   * : *ich*.***glaub*** `.I.aub` * *ich*.gl**au**b `.I-au`
   * : *wir*.***glaub*** `wr.aub` * *wir*.gl**au**b `wr-au`
   * ***gläub*** `.äub` E
@@ -1239,10 +1238,10 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * <b>*glied*</b> `.id`
   * : *mit*<b>*glied*</b> `M.id` * *mit*gl**ie**d `M-i`
 * <b>*glück*</b> `.ük` BSA
-  * : X `b.e-ük.ed` `UN-ük` `E-UN.ük` `.ük.L` `UN-ük.L`
+  * : X `b.ük.ed` `UN-ük` `E-UN.ük` `.ük.L` `UN-ük.L`
 * **gönn** `gö`
   * **gunst** `gu` BSA ! gunst `g.ust` (BSA)
-    * : X `UN-gu` `Z-gu` `Z-m.ei-en gu` = `Z-m.ei-en:gu` `Z-U°.gu` `Z-U°.en UN-gu` `gÜ.i` `er b.e-gÜ.i-t.e .in` `gÜ.i-er` `gÜ.i+st` `UN-gÜ.i` `I E-gÜ.i` `I E-gÜ.i-en`
+    * : X `UN-gu` `Z-gu` `Z-m.ei-en gu` = `Z-m.ei-en:gu` `Z-U°.gu` `Z-U°.en UN-gu` `gÜ.i` `er b.gÜ.i-t.e .in` `gÜ.i-er` `gÜ.i+st` `UN-gÜ.i` `I E-gÜ.i` `I E-gÜ.i-en`
     * **günst** `gÜ` E
       * : **günst**ig `gÜ.i`
 * <b>*grad*</b> `.ad`
@@ -1250,7 +1249,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : **kon**<i></i>**gress** `(ko)gr`
     * : pr**o**<i></i>**gress**iv `(o)gr.iv`
     * : pr**o**<i></i>**gress***ion* `(o)gr.iO`
-    * : *re***gress** `(re)gr`
+    * : **re**<i></i>**gress** `(r)gr`
 
 ---
 
@@ -1281,7 +1280,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * **grund** `gru` BSA
   * : X `.ab.gru` `hnt,gru` `UNTER.gru` `O-d-er.gru` `.S.iS:gru.e` `v.gru.AU` `k.üd.i-UNG.gru`
   * : **gründ** `grÜ` (BSA)
-    * : X `h.id-er:grÜ.e` `m.id-er:grÜ.e` `grÜ.e` `grÜ.L` `grÜ.L+st` `grÜ.L.T` `(b.e)grÜ` `(b.e)grÜ.et.e` `UN-b.e-grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `I (b.e)grÜ`
+    * : X `h.id-er:grÜ.e` `m.id-er:grÜ.e` `grÜ.e` `grÜ.L` `grÜ.L+st` `grÜ.L.T` `(b.e)grÜ` `(b.e)grÜ.et.e` `UN-b.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `I (b.e)grÜ`
   * : *aus*.*dies*em.**grund**e `.s-S.gru.e` × `.s-S.e`
 * <b>*gruß*</b> `.uss`
   * <b>*grüß*</b> `.üss`
@@ -1360,7 +1359,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 * **hart** `hat`
   * **härt** `het` : `het.e` `het-est` `G-het` `.ab.het` `er.het`
-* **haupt** `hau` : `er b.e-hau.et.e`
+* **haupt** `hau` : `er b.hau.et.e`
   * **häupt** `häu` : `häu-er` `häu-ing`
 * ***haus*** `.aus` : `ra.aus` `.im.aus.e` `v.aus.S` `kra.aus` `sta.aus`
   * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
@@ -1384,10 +1383,10 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * ! herbst `h.ebst` (BSA)
     * : herbst*lich* `h.ebst.L` (BSA)
 * **h**err `h` BSA
-  * : X `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G-ert-h.en` `h.sch` `h.scht.e` `h.sch.er` `b.e-h.sch` `I 'st,b.e-h.sch` `h.sch.s.ücht.i`
+  * : X `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G-ert-h.en` `h.sch` `h.scht.e` `h.sch.er` `b.h.sch` `I 'st,b.h.sch` `h.sch.s.ücht.i`
   * : X `h.err.i`
 * herz `h.ez` (BSA)
-  * : `h.ez.ha.est` `h.ez.L` `s.h.ez.L` `h.ez.l.os` `b.e-h.ez.i` `v.ga.h.ez`
+  * : `h.ez.ha.est` `h.ez.L` `s.h.ez.L` `h.ez.l.os` `b.h.ez.i` `v.ga.h.ez`
 * **heuer** `h.eu-er`
   * : *un*<i></i>*ge***heuer** `UN-G,h.eu-er` (E)
 
@@ -1419,7 +1418,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : <b>*weit*</b>er<b>*hin*</b> `T-er.in`
   * : **da***hin* `da.hn` ~ `.a-hn` S
 * hinder `h.id-er` (BSA)
-  * : X `h.id-er.d` `h.id-ert.e` `h.id-er.is` `h.id-er.iss.e` `I b.e-h.id-er` `E-h.id-ert` `I E-h.id-er`
+  * : X `h.id-er.d` `h.id-ert.e` `h.id-er.is` `h.id-er.iss.e` `I b.h.id-er` `E-h.id-ert` `I E-h.id-er`
   * : hinder*lich* `h.id-er.L` (BSA)
   * **hind**er `hi-er`
   * : **hind*<b>*er*</b>lich* `hi-er.L` > `hi.L`
@@ -1648,7 +1647,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * ***klag*** `.ag` : `.ag.e` `.ag.bar` `.an.ag` `.an.agt-er` `b.ag`
   * ***kläg*** `.äg`
     * ~ *kläg* `.eg` : `.eg-er` `.eg-er.in` `.an.eg-er` `n.eb.eg-er`
-* ***klam*** `.am` : `r.e-am-o` `r.e-am.e`
+* ***klam*** `.am` : `r.am-o` `r.am.e`
 * ***klar*** `.ar` : `.ar-er` `.am.arst` `.ar.H`
   * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
     * : *er*<i></i>***klär*** `er.är` ~ `er-r`
@@ -1663,10 +1662,10 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 @`.ab.ha.ko`
 * **komm** `ko` BSA
   * : X `N.ko` `.S.ko` `ach.ko` `ach.ko.FT` `.um.ko` `Z-rÜ.ko` `.ab.ha.ko`
-  * : *in*.**frag**e.**komm**en `(I)fra.ko` ~ `IN.fra.ko` `IN.b.e-tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z-ed.ko` `z.ab.uss.ko` `Z-echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z-r Ü.eug.ko`
+  * : *in*.**frag**e.**komm**en `(I)fra.ko` ~ `IN.fra.ko` `IN.b.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z-ed.ko` `z.ab.uss.ko` `Z-echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z-r Ü.eug.ko`
   * : *will***komm**en `(l).ko`
   * **kömm** `kö` (BSA)
-    * : X `b.e-kö.L` `.ab.kö.l.ing`
+    * : X `b.kö.L` `.ab.kö.l.ing`
   * **kam** `ka` ! `k.am` BSA
     * **käm** `k` ! `k.äm` BSA
       * : X `k.äm.e`
@@ -1720,7 +1719,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * **kraft** `kra` BSA
   * : X `kra.w.ag` `M.al.kra`
   * **kräft** `kr` (BSA)
-    * : X `kr.i` `b.e-kr.i` `b.e-kr.i+t.e` `M.al.kr.en` `eNT.kr.et`
+    * : X `kr.i` `b.kr.i` `b.kr.i+t.e` `M.al.kr.en` `eNT.kr.et`
     * : **kräft**e `kr.e`
 
 ---
@@ -1800,7 +1799,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : X `l.ed-er` `l.ed.L` `G-l.ed.e`
   * : *aus***la**nd `.S.la` (BSA)
   * : deut<b>*sch*</b>**la***nd* `SCH.la` (BSA) * deut<b>*sch*</b>l**a**nd `SCH-a`
-  * : **bund**es*republik*.deut<b>*sch*</b>**la***nd* `bu:r.e-ik,SCH.la` × **bund**es~~republik~~.deut<b>*sch*</b>**la***nd* `bu,SCH.la` * **bund**es~~republik~~.deut<b>*sch*</b>l**a**nd `bu,SCH-a`
+  * : **bund**es*republik*.deut<b>*sch*</b>**la***nd* `bu:r.ik,SCH.la` × **bund**es~~republik~~.deut<b>*sch*</b>**la***nd* `bu,SCH.la` * **bund**es~~republik~~.deut<b>*sch*</b>l**a**nd `bu,SCH-a`
   * ~~land~~es `(.es)`
   * ~~län~~der `(d-er)`
   * *länd* `l` ! `l.ed` (E)
@@ -1831,9 +1830,9 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * .~~later~~**al**. `(.al)`
       * **bi**~~later~~**al** `bi.al`
       * **mult**i~~later~~**al** `mut-al`
-  * : *re*lativ `re-l.at.iv`
-    * *relat* `re-t`
-      * : *relativ* `re-t-iv`
+  * : *re*lativ `r.l.at.iv`
+    * *relat* `r-t`
+      * : *relativ* `r-t-iv`
 * laub `l.aub`
   * : <b>*er*</b>laub `er.l.aub` * <b>*er*</b>l**au**b `er-au`
   * : urlaub `UR.l.aub` * ur*l*<b>*au*</b>*b* `UR-au` = `UR,au`
@@ -1882,7 +1881,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * **lag** `la` : `E-la` `.an.la-e` `gru.la-e` `ndr.la-e` `O-la-e`
     * : **lag**er `la-er`
       * ! lager `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G-l.ag-ert` `E-l.ag-er`
-  * **leg** `l` : `l-t.e` `.ab.l` `b.e-l` `dar-AU.l` `Ü.l` `E-l` `E-l.H` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `G-l.H` `.an.l.H`
+  * **leg** `l` : `l-t.e` `.ab.l` `b.l` `dar-AU.l` `Ü.l` `E-l` `E-l.H` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `G-l.H` `.an.l.H`
     * : *ver***leg**er `E-l-er` ! `E-l.eg-er`
     * ~~leg~~ : `.an.H` `G-H`
       * : *aus*wertige an*ge*<i></i>**leg**en*heit*en `.S.wet-ig.e .an.H.en` ~ `.S.H.en`
@@ -2369,8 +2368,8 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : ap**pa**rat `.a-pa.at` BSA
     * : ap**pa**rate `.a-pa.at.e` (BSA)
     * : ap**pa**ratur `.a-pa-UR` ! `.a-pa.UR` (BSA)
-  * : *re***pa**ratur `(re)pa-UR` ! `(re)pa-UR` E
-  * : *re***pa**rier `(r.e)pa.ir` E
+  * : **re**<i></i>**pa**ratur `(r)pa-UR` ! `(r)pa-UR` E
+  * : **re**<i></i>**pa**rier `(r)pa.ir` E
   * : *trans*<i></i>**pa**r*ent* `tra.pa.ent` ~ `tra.pa.eNT`
 * **pa**ra- `pa`
   * : **pa**rallel `pa.ll.el` ~ `p.ar.el` E
@@ -2513,10 +2512,10 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * *publik*
   * *publikum* `p.ub` E
   * *publikation* `p.ub.iO` E
-  * *republik* `r.e-ik` E
-    * *republikaner* `r.e-ik-er` E
-    * *republikanisch* `r.e-ik.i` E
-    * : **bund**es*republik* `bu:r.e-ik` < `bu.ik`
+  * *republik* `r.ik` E
+    * *republikaner* `r.ik-er` E
+    * *republikanisch* `r.ik.i` E
+    * : **bund**es*republik* `bu:r.ik` < `bu.ik`
 * *punkt* pt. `pt` E
   * -p**u**nkt `u`
     * : *ge*s<b>*icht*</b>sp**u**nkt `G-icht,u` × *ge*~~sicht~~sp**u**nkt `G,u`
@@ -2565,10 +2564,10 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 ---
 
-* *re* `re`
-  * : *re*al `re-al`
-    * : *re*alisier `re-al.ir`
-    * : *re*alität `.re-al.ät`
+* **re** `r`
+  * : **re**al `r.al`
+    * : **re**alisier `r.al.ir`
+    * : **re**alität `r.al.ät`
 * <b>*rech*</b> `ech` E
 * <b>*recht*</b> `echt` E ~ `R`
 * reg `r.eg`
@@ -2753,7 +2752,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * welt*ge*<i></i>***schicht***<i></i>e `wet-icht.e` ~ `w.icht.e`
 * **scheid** `.eid` : `b.eid`
   * : *ent*<i></i>**scheid** `eNT.eid` ~ `eNT.ei`
-  * **schied** `.id` : `.ab.id` `b.e-id` `eNT.id` `E-id`
+  * **schied** `.id` : `.ab.id` `b.id` `eNT.id` `E-id`
     * ! schied `sch.id`
     * : *mit*.*all*er.*ent***schied**en*heit* `M.al.eNT.id.H` × `M.al.eNT`
     * : *unter*<i></i>**schied** `UNTER.id` * `UNTER-i`
@@ -3074,7 +3073,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * **spekt** `sp`
     * : *in*<i></i>**spekt**<i></i>*ion* `IN.sp*` S ! `IN.sp.iO` ! `IN.sp.iO`
     * : pr**o**<i></i>**spekt** `(o)sp` E
-    * : *re***spekt** `re-sp`
+    * : **re**<i></i>**spekt** `r.sp`
 
 ---
 
@@ -3227,7 +3226,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 ---
 
-* ~~str~~u `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.e-ko,u.irt.e`
+* ~~str~~u `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * : *in*~~str~~ument `IN,u-met` ~ `IN.u-met`
   * ~~str~~**u**~~kt~~ `u` : `ko,u-O` `IN,u-O` `IN.fra,u-UR`
     * : ~~str~~**u**~~kt~~ur `u-UR` ~ `str.uk`
@@ -3251,7 +3250,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : *unter***such** `UNTER,su` * `UNTER-u`
 * sucht ← siech
 * **sul** `su` : `ko-su`
-  * sult `sut` : `ko-sut-ir` `ko-sut-iO` `re-su.ir` `re-su.at`
+  * sult `sut` : `ko-sut-ir` `ko-sut-iO` `r-su.ir` `r-su.at`
 * **sum** `su` : `ko-su` `ko-su.ir`
   * : **kon**<i></i>**sum***ent* `ko-su.eNT`
 * **summ** `su`
@@ -3511,7 +3510,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : *in***vest**it*ion* `IN.w-o`
 * **v**id `v`
   * : di**v**idier `d.i-w.ir`
-  * : *re***v**idier `re-w.ir`
+  * : **re**<i></i>**v**idier `r.w.ir`
   * *individ* `IN.d` BSA
     * : *individ*uum `IN.d.um` (BSA)
     * : *individ*uell `IN.d.ell` (BSA)
@@ -3526,7 +3525,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
       * : de**v**isen `d.e-w.en` ~ `d.e-is.en` (BSA)
     * : pr**o**<i></i>**v**is*ion* `(o)w-o` ! `(o)w.iO` E
     * : pr**o**<i></i>**v**isor**isch** `(o)w.or.i` E
-    * : *re***v**is*ion* `re-w-o`
+    * : **re**<i></i>**v**is*ion* `r.w-o`
 
 ---
 
@@ -3548,13 +3547,13 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * **füll**e `fÜ.e`
     * <b>*er*</b><i></i>**füll** `er.fÜ` * <b>*er*</b>f**ü**ll `er-Ü`
 * volv `v.ow`
-  * : *re*volver `re-w.ow-er`
+  * : **re**<i></i>volver `r.w.ow-er`
   * volt `v.ot`
-    * : *re*volte `re-wot.e`
-  * *vol<b>*u*</b>t* `u`
-    * : e*vol<b>*u*</b>t*ion `.e,u-O`
-    * : *re*<i></i>*vol<b>*u*</b>t*ion `r.e-u-O`
-    * : **konter***re**vol<b>*u*</b>t*ion `ko-t-er,re-u-O`
+    * : **re**<i></i>volte `r.wot.e`
+  * ~~vol~~**u**~~t~~ `u`
+    * : e~~vol~~**u**~~t~~*ion* `.e,u-O`
+    * : **re**~~vol~~**u**~~t~~*ion* `r.u-O`
+    * : **konter**<i></i>**re**~~vol~~**u**~~t~~*ion* `ko-t-er,r.u-O`
 * **v**on `v` V
   * : **da**<i></i>**v**on `da.v` ~ *da***v**on `.a-v` * d**a**<i></i>**v**on `a-v`
   * *vom* `v°` V
@@ -3640,10 +3639,10 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
   * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
-* ~~w~~eis `(.eis)` : `b.eis` `b.eis.bar` `er.eis` `hn.eis` `Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
+* ~~w~~eis `(.eis)` : `b.eis` `b.eis.bar` `er.eis` `hn.eis` `Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis` `.U.e-Ü.eis`
   * *darauf* *hin*~~w~~eisen `dar-AU hn.eis` ~ `dar-AU-n`
   * *ich* ***muss*** *darauf* *hin*~~w~~eisen `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
-  * ~~w~~ies `(.is)` : `G-is` `.ab.is` `b.is` `er.is` `er.is.ass` `Ü.is` `.I-Ü.is` `.U.e-Ü.eis`
+  * ~~w~~ies `(.is)` : `G-is` `.ab.is` `b.is` `er.is` `er.is.ass` `Ü.is` `.I-Ü.is`
     * ! wies `w.is`
 * ~~w~~eit `(T)`
   * ! (weit) `w.T`
@@ -3747,7 +3746,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * **wend** `w` : `.an.w` `AU.w` `E-w` `E-w-UNG`
     * ! wend `w.ed`
     * : *not*<i></i>**wend**<i></i>*ig* `.ot.w.i` ~ `(o)w.i`
-    * **wand** `wa` : `b.e-wa-t-is` `N.wa` `G-wa` `E-wa`
+    * **wand** `wa` : `b.wa-t-is` `N.wa` `G-wa` `E-wa`
       * ! `w.ad`
       * : **wand**te `wa.t.e` ! `w.adt.e`
 * winn `w.in`
@@ -3790,7 +3789,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * × ~~wort~~ : `aNT`
   * ~ -~~w~~**o**~~rt~~- `o` : `bi-o` `hau-o` `aCHT-o` `.ag-o` `.ich-o`
 * wund ← wind
-* **wund** `wu` : `wu-er` `b.e-wu-er`
+* **wund** `wu` : `wu-er` `b.wu-er`
 * **wunsch** `wu` E
   * **wünsch** `wÜ` E
     * : *die* besten **wünsch**e `I b.est wÜ.e` * *die* besten.w**ü**nsche `I b.est-Ü.e`
@@ -3866,9 +3865,9 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * zi~~em~~ `z.i` : `z.i-L`
 * **zil** `.il` : `ko.il`
 * **zip** `.ip` : `ko.ip.ir`
-  * z~~ept~~ `z` : `re-z`
+  * z~~ept~~ `z` : `r.z`
     * : **kon**z~~ept~~ `ko.z` ~ `ko-t`
-    * : *re*z~~ept~~*ion* `re.z*` ! `re.z.iO`
+    * : **re**<i></i>z~~ept~~*ion* `r.z*` ! `r.z.iO`
     * *prinzip* `(.ip)` : `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
       * **prinz** `pri`
 * z~~ipl~~ `z`
