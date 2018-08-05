@@ -1,6 +1,5 @@
 # Wörterbuch
 
-@bÜ bü
 @fassade
 @etymologie, computer, kont
 @turt spint
@@ -170,7 +169,6 @@ Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
 * **bald** `ba` = **ba**~~ld~~
 
 * **bis** `bi` = **bi**~~s~~
-* **bünd**el `bü.el` = **bü**~~nd~~el
 
 * **kurz** `ku` = **ku**~~rz~~
 * **tausch** `tau` = **tau**~~sch~~
@@ -392,7 +390,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * **bahn**te `ba-t.e` (BSA)
   * an**bahn** `.an.ba` (BSA)
   * auto**bahn** `.aut.ba` ! `.aut.o-ba` BSA
-  * **bund**es**bahn** `bu:ba` (BSA)
+  * **bu**~~nd~~es**bahn** `bu:ba` (BSA)
   * eis**bahn** `.eis.ba` (BSA)
   * eisen**bahn** `.eis.en.ba` (BSA)
 * **bald** `ba` BSA
@@ -476,18 +474,18 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * **bill** `bi`
   * : **bill***ig* `bi.i`
 * bin ← sein
-* **bind** `bi` : `UNTER,bi`
-  * : *ver***bind**en `(E)bi` ! `E,bi`
-  * : *ver*<i></i>**bind**<i></i>*lich* `(E)bi.L` ! `E,bi.L`
+* **bi**~~nd~~ `bi` : `UNTER,bi`
+  * : *ver***bi**~~nd~~en `(E)bi` ! `E,bi`
+  * : *ver*<i></i>**bi**~~nd~~*lich* `(E)bi.L` ! `E,bi.L`
   * ! bind `b.id`
   * ! ~~bind~~ : `(I)E-M` `(I)E-s`
-  * **band** `ba`
-    * **bänd** `b` : `E-b.e`
-      * : **bänd**e `b.e` ~ `bä-e`
+  * **ba**~~nd~~ `ba`
+    * **bä**~~nd~~ `bä`
+      * : **bä**~~nd~~e `bä.e` ~ `bä-e`
+      * : *ver***bä**~~nd~~e `E-bä.e` ~ `E-b.e`
       * ! (bänd) `b.änd` : `b.änd.i`
-  * **bund** `bu`
-    * **bünd** `bÜ`
-      * ! *bünd* `bü` : `bü.e` `bü.el`
+  * **bu**~~nd~~ `bu`
+    * **bü**~~nd~~ `bü` : `bü.e` `bü.el`
 * **bis** `bi`
 * bist ← sein
 * ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `I .it.e` `I .it.sI` `I.it.sI` `M-r.it.e`
@@ -1817,7 +1815,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : X `l.ed-er` `l.ed.L` `G-l.ed.e`
   * : *aus***la**nd `.S.la` (BSA)
   * : deut<b>*sch*</b>**la***nd* `SCH.la` (BSA) * deut<b>*sch*</b>l**a**nd `SCH-a`
-  * : **bund**es*republik*.deut<b>*sch*</b>**la***nd* `bu:r.ik,SCH.la` × **bund**es~~republik~~.deut<b>*sch*</b>**la***nd* `bu,SCH.la` * **bund**es~~republik~~.deut<b>*sch*</b>l**a**nd `bu,SCH-a`
+  * : **bu**~~nd~~es*republik*.deut<b>*sch*</b>**la***nd* `bu:r.ik,SCH.la` × **bu**~~nd~~es~~republik~~.deut<b>*sch*</b>**la***nd* `bu,SCH.la` * **bu**~~nd~~es~~republik~~.deut<b>*sch*</b>l**a**nd `bu,SCH-a`
   * ~~land~~es `(.es)`
   * ~~län~~der `(d-er)`
   * *länd* `l` ! `l.ed` (E)
@@ -2109,7 +2107,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
     * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
     * : *minist*erium `mi-er.I.um` > `mi.um` E
       * *außen***minist**erium `.auss,mi-er.I.um` > `.auss,mi.um` × `.auss.um`
-      * **bund**es**minist**erium `bu,mi-er.I.um` > `bu,mi.um` × `bu.um`
+      * **bu**~~nd~~es**minist**erium `bu,mi-er.I.um` > `bu,mi.um` × `bu.um`
     * : **fin**anz*minist*er `fi.az.mi-er` » `fi.mi-er` ! `fi.mi.er` E
     * : justiz*minist*er `ju+st,mi-er` ! `ju+st,mi.er` E
   * mine<b>*ral*</b> `(r.al)`
@@ -2440,7 +2438,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : **phys**ik*alisch* `fy.ik.i`
 * **plan** `pla`
   * -<b>*plan*</b> `.an`
-    * : **bund**es*jugend*<b>*plan*</b> `bu.ug.ed.an` » `bu.ug.an`
+    * : **bu**~~nd~~es*jugend*<b>*plan*</b> `bu.ug.ed.an` » `bu.ug.an`
 * **plant** `pla`
   * : **plant***age* `pla.asch.e`
   * : *trans*<i></i>**plant**at*ion* `tra.pla.O`
@@ -2536,7 +2534,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * *republik* `r.ik` E
     * *republikaner* `r.ik-er` E
     * *republikanisch* `r.ik.i` E
-    * : **bund**es*republik* `bu:r.ik` < `bu.ik`
+    * : **bu**~~nd~~es*republik* `bu:r.ik` < `bu.ik`
 * *punkt* pt. `pt` E
   * -p**u**nkt `u`
     * : *ge*s<b>*icht*</b>sp**u**nkt `G-icht,u` × *ge*~~sicht~~sp**u**nkt `G,u`
@@ -2597,7 +2595,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
   * : **reg**ier `r.ir` E
     * ~~reg~~ier `(.ir)`
   * : **reg**ier*ung* `r.ir-UNG` E ~ `ir-UNG`
-    * : **bund**es**reg**ier*ung* `bu.r.ir-UNG` * b**u**ndes**reg**ier*ung* `u-r.ir-UNG` ~ `u-r-UNG`
+    * : **bu**~~nd~~es**reg**ier*ung* `bu.r.ir-UNG` * b**u**ndes**reg**ier*ung* `u-r.ir-UNG` ~ `u-r-UNG`
   * : **reg**ulier `r.ir` ! `r.ul.ir`
   * : **reg**el `r.l` ~ `(.el)`
     * : <b>*spiel*</b>**reg**el `.il.r.l` ~ `.il,(.el)`
@@ -3639,7 +3637,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * weh `w.eh`
   * wind `w.id`
 * **wehr** `wer`
-  * : **bund**es**wehr** `bu.wer` * b**u**ndes**wehr** `u-wer`
+  * : **bu**~~nd~~es**wehr** `bu.wer` * b**u**ndes**wehr** `u-wer`
   * : *ge***wehr** `G-wer`
 * weich `w.eich`
   * : abweich `.ab.w.eich` ~ `.ab.w.ei`
