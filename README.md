@@ -252,6 +252,11 @@ Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet we
 
 * *er*<i></i>**rat**en `er-ra`
 
+Schreibungen sollten nicht erst in Verbindung mit bestimmten Vor- oder Nachsilben angewendet werden, es sei denn, sie gelten als eigene Kürzel.
+
+* rad `r.ad`
+* *gerad*e `-G-a.e`
+
 ### ...
 
 Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
