@@ -572,7 +572,7 @@
     * : **fähr**e `fe` ! `f.är.e`
     * : *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` × `UN.G`
 * fug `f.ug`
-  * : zentrifugal `z.etr.f.ug.al` ~ `z.etr.ug.al`
+  * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu`
   * : **fuhr**e `fu-e` ! `fu.e`
 
@@ -3592,8 +3592,9 @@
 
 ---
 
-* zentr `z.etr` : `z.etr.ir` `z.etr.ir-UNG` `.e-z.etr.ik-er`
-  * *zentr* `zr` : `zr.um` `(ko)zr.iO` `(ko)zr.ir`
+* *zentr* `zr` : `zr.um` `(ko)zr.iO` `(ko)zr.ir`
+  * : *zentr*ieren `zr.ir` ! `z.etr.ir`
+  * : *ex*<i></i>*zentr*iker `.e-zr-ik-er` ! `.e-z.etr.ik-er`
   * *zentral* `zr-a` : `zr-a.e` `zr-a.ir` `zr-a.ir-UNG` `zr-a.iO` `zr-a.iS` `zr-a.iS.i` `(d.e)zr-a.ir` `(d.e)zr-a.iO`
 * *zer*- `zer`
 * zern `z.en` : `ko.z.en`
