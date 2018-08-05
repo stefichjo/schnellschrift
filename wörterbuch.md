@@ -136,7 +136,7 @@
   * : **sehr**.**bald** `s.ba` (BSA)
 * **ball** `ba` ! ball `b.all`
 * band ← bind
-* bank `b.ak` (BSA)
+* bank `b.ak` (BSA) : `zr-a.b.ak`
   * bänke `b.ek.e` (BSA)
   * *bankrott* `b.akr.ot` BSA
   * *bankrotteur* `b.akr.ör` BSA
@@ -216,6 +216,7 @@
   * ! bind `b.id`
   * ! ~~bind~~ : `(I)E-M` `(I)E-s`
   * **ba**~~nd~~ `ba`
+    * *zentral*<i></i>*ver*<i></i>**ba**~~nd~~ `zr-a.E-ba` « `zr-a.ba`
     * **bä**~~nd~~ `bä`
       * : **bä**~~nd~~e `bä.e` ~ `bä-e`
       * : *ver***bä**~~nd~~e `E-bä.e` ~ `E-b.e`
@@ -570,6 +571,8 @@
   * **fähr** `f` : `ft` `er.f` `G-fd` `G-f.L` `G-f.L.T` `G-ft.e` `G-ft.in` `UN-G,f.L` `(l):f.i` `dU er.f .e`
     * : **fähr**e `fe` ! `f.är.e`
     * : *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` × `UN.G`
+* fug `f.ug`
+  * : zentrifugal `z.etr.f.ug.al` ~ `z.etr.ug.al`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu`
   * : **fuhr**e `fu-e` ! `fu.e`
 
@@ -1118,8 +1121,12 @@
   * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
     * : *ge*<i></i>***häus***<i></i>e `G-äus.e` ! `G-h.äus.e`
 * heb `h.eb` : `schat-h.eb.el`
+* heiß ← heiz
 * hei~~ß~~ `h.ei`
   * hie~~ß~~ `h.i` ! `h.iss`
+* heiz `h.eiz`
+  * : *zentral*heiz*ung* `zr-a.h.eiz*` ~ `zr-a.eiz*`
+  * **heiß** `h.ei`
 * -*heit* `H`
 * heiter `h.T-er`
 * helf `h.ef` : `h.ef-er.in` `h.ef-er.h.ef-er` `ach.h.ef`
@@ -2287,14 +2294,14 @@
       * : *dis***kont**ierte `ds.ko.irt.e` (BSA)
 * qualität `qu.al.ät`
 * qualifizier `qu.al.if.ir` > `qu.al.ir` E
-* quantität `qu.aNT.ät` ~ `qu.an.ät` E
 
 ---
 
+* quant `quat` : `quat-en` `quat-um`
+  * *quantit* `(.an)` : `(.an).ät` `(.an).iv`
 * rad `r.ad`
-  * : **fa**~~hr~~rad `fa.r.ad` * `fa.ad`
-  * *gerad* `G-a` = `-G-a`
-    * : *gerad*e `G-a.e` = `-G-a.e`
+  * : **fa**~~hr~~rad `fa.r.ad` ~ `fa.ad`
+  * *gerad* `-G-a` : `-G-a.e`
 * rag `r.ag`
 * rahm `r.am`
   * : im.rahmen `.im.r.am` ~ `.im.am`
@@ -3102,6 +3109,7 @@
   * : **them**at**isch** `t.i` ! `t.em.i`
 * theor `t.e-or` : `t.e-or.ik-er` `t.e-or.i`
   * : theorie `t.e-or.I` ~ `t.e-o.I`
+  * : quantentheorie `quat,t.e-or.I` ~ `quat,t.e-o.I`
 * therm `t.em` : `t.em.al`
 * **tief** `ti`
   * : *ver***tief**en `(E)ti`
@@ -3581,13 +3589,12 @@
     * .pr**o**~~zent~~. `o` E
   * pr**o**zente `(o)zet.e` ! `(o)z.ent.e` E
   * pr**o**zentual `(o)zet-al` × pr**o**~~zent~~ual `o-al` E
-* *zentr* `zr` ! `z.etr` (E)
-  * : *zentr*al `zr.al` ! `z.etr.al` (E)
-    * *zentral* `zr-a`
-  * : **kon***zentr*at*ion* `(ko)zr*` S ! `(ko)zr.iO` ! `ko.z.etr.iO` (E)
 
 ---
 
+* zentr `z.etr` : `z.etr.ir` `z.etr.ir-UNG` `.e-z.etr.ik-er`
+  * *zentr* `zr` : `zr.um` `(ko)zr.iO` `(ko)zr.ir`
+  * *zentral* `zr-a` : `zr-a.e` `zr-a.ir` `zr-a.ir-UNG` `zr-a.iO` `zr-a.iS` `zr-a.iS.i` `(d.e)zr-a.ir` `(d.e)zr-a.iO`
 * *zer*- `zer`
 * zern `z.en` : `ko.z.en`
   * *zert* `zer` : `zer.if.at` `zer.if.ir`
