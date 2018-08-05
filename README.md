@@ -239,23 +239,18 @@ Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit `-er`.
 
 ## Verhältnismäßigkeit
 
-Anfangs sollten nicht mehr als eine Kürzung oder ein Kürzel pro Stamm gelernt werden. Auf die Anwendung des Kürzels *berat* `Ra` sollte daher zunächst verzichtet werden, da diese die Anlautkürzung **rat** `ra` verschleiern würde.
+Anfangs sollten nicht mehr als eine Kürzung oder ein Kürzel pro Stamm gelernt werden. Auf die Anwendung des Kürzels *berat* `Ra` sollte daher zunächst verzichtet werden, da diese die Anlautkürzung **rat** `ra` verschatten würde. Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet werden, da sich diese dem Anfänger nicht erschließt. Auf die vorsichtige Ausschreibung der Anlautkürzung **rat** in "erraten" (`er-r.at`) sollte daher verzichtet werden.
 
-* *be*<i></i>**rat**en `b.ra`
+* **rat** `ra`
+  * *be*<i></i>**rat**en `b.ra`
+  * *er*<i></i>**rat**en `er-ra`
 
-(Ausgenommen sind Kurzformen der Verkehrsschrift, die als bekannt vorausgesetzt werden können.)
+Eine Verschattung einer Kurzform der Verkehrsschrift ist hingegen zumutbar. Ebenso ist eine Verschattung einer Ausschreibung der Schnellschrift durch ein eigenes Kürzel zumutbar.
 
 * *mit* `M`
-* *mittel* `-t-el`
-
-Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet werden, da sich diese dem Anfänger nicht erschließt. Auf die vorsichtige Ausschreibung der Anlautkürzung **rat** in "erraten" (`er-r.at`) sollte daher verzichtet werden.
-
-* *er*<i></i>**rat**en `er-ra`
-
-Schreibungen sollten nicht erst in Verbindung mit bestimmten Vor- oder Nachsilben angewendet werden, es sei denn, sie gelten als eigene Kürzel.
-
+  * *mittel* `-t-el`
 * rad `r.ad`
-* *gerad*e `-G-a.e`
+  * *gerad*e `-G-a.e`
 
 ### ...
 
