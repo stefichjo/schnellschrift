@@ -3543,7 +3543,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 * **vieh** `vi` : `vi.i`
   * -***vieh*** `.ih` : `schla.ih`
-    * : rind***vieh*** `r.id.ih` ~ `ri.ih` * `(i),(i)`
+    * : rind<i></i>***vieh*** `r.id.ih` ~ `ri.ih` * `(i),(i)`
 
 ---
 
