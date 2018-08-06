@@ -9,6 +9,11 @@
 @region, nation :(
 @Die Silben id, il, in, is sowie ik und iz fallen, außer am Wortende, aus. (ik und iz fallen nur in ifik und ifiz aus.)
 @Die Silbe an fällt, außer am Wortende, aus.
+statt stätte
+kan kant  * akzent `.ak.zet` ! `.ak.z.ent`
+ist jedes bla-Ü in wortverbindung als Ü kürzbar?
+⋄ `m.ei-H`
+≠ allein
 
 ## Kurzschreibung
 
