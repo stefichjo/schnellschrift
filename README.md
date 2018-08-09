@@ -107,7 +107,7 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 
 ### Anstellen
 
-Eine Vorsilbe kann an das obere Ende des folgenden Zeichens angeschlossen werden, wenn das Vorsilbenzeichen sich hierbei ausschließlich innerhalb der Oberstufe befindet.
+Eine Vorsilbe kann an das obere Ende des folgenden Zeichens angeschlossen werden, wenn das Vorsilbenzeichen nicht höher als eine Stufe ist und es den Schreibraum nicht verlässt.
 
 * an*grenz*en `(.an)GR`
 * **be**<i></i>**tracht** `(b)tra`
@@ -256,6 +256,8 @@ Eine Verschattung einer Kurzform der Verkehrsschrift ist hingegen zumutbar. Eben
   * *mittel* `-t-el`
 * rad `r.ad`
   * *gerad*e `-G-a.e`
+
+Weicht die Kurzform eines abgeleiteten Wortes von der Kurzform des ursprünglichen Wortes ab, so gilt sie als Kürzel.
 
 ### ...
 
