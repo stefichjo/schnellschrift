@@ -72,7 +72,7 @@
 * arch `.ach` : `.ach.iv`
   * : archivar `.ach.iv.ar` » `.ach.ar`
 * arch `.ach` : `.ach.og.e`
-  * : archäo***log***ie `.ach.og.I` ~ `.ach.o-I`
+  * : archäo<i></i>***log***<i></i>ie `.ach.og.I` ~ `.ach.o-I`
 * arg `.ag` : `.arg.os` `E-ag`
   * ! (arg) `.arg`
   * : ärg `.äg` : `.äg-er` `.äg-er.L` `.äg-er.is` `E-äg-er` `.am.äg-st`
@@ -102,7 +102,7 @@
   * : asiat `.as.i-at` = `.as.at`
   * : asiat*isch* `.as.i` ! `.as.i-at.i` = `.as.at.i`
 * astr `.a-str`
-  * : astro***log***ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
+  * : astro<i></i>***log***<i></i>ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
 
 ---
 
@@ -225,7 +225,7 @@
 * **bis** `bi`
 * bist ← sein
 * **bi** `bi` STS
-  * : **bi**o***log***ie `bi.og.I` ! `b.i-l.og.I`
+  * : **bi**o<i></i>***log***<i></i>ie `bi.og.I` ! `b.i-l.og.I`
 * ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `I .it.e` `I .it.sI` `I.it.sI` `M-r.it.e`
   * bat `b.at`
   * bet `b.et` : `G-b.et` `UN-G,b.et`
@@ -904,8 +904,8 @@
   * *unge*- `UN.G`
 * ge `g.e` : `g.e-m.etr.I` `g.e-m.etr.i`
   * : geo**graph** : `g.e-gra` ! `g.e-o-gra`
-  * : geo***log***e `g.e-og.e` ! `g.e-l.og.e`
-  * : geo***log***ie `g.e-og.I` ! `g.e-l.og.I`
+  * : geo<i></i>***log***<i></i>e `g.e-og.e` ! `g.e-l.og.e`
+  * : geo<i></i>***log***<i></i>ie `g.e-og.I` ! `g.e-l.og.I`
 * geb `g.eb` : `g.eb-er` `.an.g.eb-er` `ra.g.eb-er`
   * ~ **geb** `g` : `G-g` `G-g.H` `.ab.g` `(T)-g` `b.g.H` `er.g` `ach.g` `Ü.g` `E-g-s` `E-g.L` `u-rÜ:g` `n.S.ag.g`
     * : *auf*<i></i>**trag**<i></i>**geb**er `(AU)tra.g-er` » `(AU)tra.g`
@@ -1767,7 +1767,7 @@
 * meid `m.eid`
 * ~~m~~ein `(N)` : `(N).UNG` `I (N)` STS `I .ö.L.N` `(I)bi.N` `ach.m.ei-er.N` `m.ein-er.N:ach` `wr-I.N`
 * ***mein*** `N` : `G-N` `G-N.H`
-  * : *ge*<i></i>***mein***de `G-N-d.e` « `(N)-d.e`
+  * : *ge*<i></i>***mein***<i></i>de `G-N-d.e` « `(N)-d.e`
   * : *ge*<i></i>***mein***<i></i>*sam* `G-N-Sa` « `(N)-Sa`
   * : *ge*<i></i>***mein***<i></i>*schaft* `G-N.FT` « `(N).FT`
     * : ~~arb~~eits*ge*<i></i>***mein***<i></i>*schaft* `(T)-s.N.FT` » `(T)-s.N` ~ `Ts.N`
@@ -2152,7 +2152,7 @@
   * : phonet**isch** `f.on.i`
   * -ph~~on~~ `f` → grammo tele
 * phras `fr.as`
-  * : phraso***log***ie `fr.as.og.I` ~ `fr.as.o-I`
+  * : phraso<i></i>***log***<i></i>ie `fr.as.og.I` ~ `fr.as.o-I`
 * **phys** `fy`
   * : **phys**<i></i>**isch** `fy.i` ! `f.ys.i`
   * : **phys**ik `fy.ik`
@@ -3009,7 +3009,7 @@
   * : ab*ge*wartet `.ab.wat` ! `.ab.wat-et`
   * : *aus*<i></i>*ge***sag**t `.S.sa` ! `.S.s.agt`
   * : *be*<i></i>***gab***<i></i>t `b.ab` ! `b.abt`
-  * : *be*<i></i>***wuss***t `b.uss` ! `b.usst`
+  * : *be*<i></i>***wuss***<i></i>t `b.uss` ! `b.usst`
   * : **bild**et `bi` ! `bi.et`
   * : *er*~~wir~~kt `er,(w)` ! `er,(w)t`
   * : **filt**riert `fit-r.ir` ! `fit-r.irt`
@@ -3346,7 +3346,7 @@
   * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa`
   * : **kraft**<i></i>**wag**en `kra.wa`
 * **wa**~~hl~~ `wa` : `l.i=wa`
-  : * *ge*<i></i>***mein***de**wa**~~hl~~en `G-N-d.e-wa.en` ~ `(N)-d.e:wa.en`
+  : * *ge*<i></i>***mein***<i></i>de**wa**~~hl~~en `G-N-d.e-wa.en` ~ `(N)-d.e:wa.en`
   * **wä**~~hl~~ `wä` ! `w.el`
 * **wa**~~hr~~ `wa` : `wa.e`
   * **wä**~~hr~~ `wä` : `b.wä` `G-wä`
@@ -3538,7 +3538,7 @@
     * *wirtschaft* `FT` : `FT.L.e,ig`
 * ***wiss*** `.iss` : `.iss-t-L` `.iss,(-t)` `G-.iss` `G-.iss.H` `s.ig.iss` `UN-.iss.ed` `UN-.iss.H` `UN-G-.iss` `UN-G-.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
   * : *wissenschaft* `wi.FT`
-  * : *ver*<i></i>*ge*<i></i>***wiss***ern `E-iss-er` ~ `E-G` : `E-G.-t.e`
+  * : *ver*<i></i>*ge*<i></i>***wiss***<i></i>ern `E-iss-er` ~ `E-G` : `E-G.-t.e`
   * ***weiß*** `.eiss` : `.I.eiss`
   * ***wuss*** `.uss`
     * ! wuss `w.uss` : `w.usst.e`
@@ -3578,7 +3578,7 @@
     * ! zähl `z.el`
 * **zahn** `za`
 * ***zed*** `.ed` : `ko.ed.ir`
-  * : *pro*<i></i>***zed***ur `(o).ed.UR` ~ `(o)z.UR`
+  * : *pro*<i></i>***zed***<i></i>ur `(o).ed.UR` ~ `(o)z.UR`
   * ***zess*** `.ess` : `(o).ess` `(o).ess.ir` `(o).ess.iO` `(T),(o).ess`
     * : **kon**<i></i>***zess***<i></i>*ion* `ko.ess.iO` » `ko.ess`
 
