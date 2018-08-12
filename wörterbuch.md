@@ -219,7 +219,7 @@
 * breit `br.T`
 * **brief** `bri`
 * **bring** `bri` : `er,bri`
-  * ***bring*** `.ing` : `.an.ing` `.S.ing` `b.ei-.ing` `Ü.ing` `UN-W.ing.L` `E-.ing` `Z-Sa.ing`
+  * *bring* `.ing` : `.an.ing` `.S.ing` `b.ei-.ing` `Ü.ing` `UN-W.ing.L` `E-.ing` `Z-Sa.ing` `Z-fa.ing`
   * **bracht** `bra` : `(.an)bra` `(b.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z-Sa.bra`
     * **brächt** `br`
       * : **brächt**e `br.e` ~ `brä-e`
@@ -399,8 +399,14 @@
   * **darf** `da` : `b.da`
   * **durf** `du` : `du-t.e` 
 * *düsseldorf* `dÜ.o`
-* eben `.eb`
-  * : *so*<i></i>eben `(o).eb`
+
+---
+
+* eben `.eb` : `(o).eb`
+  * *eben*- `.e` ← `.e-fa-s`
+
+---
+
 * echt `.echt`
 * ego `.eg.o` STS : `.eg.iS` `.eg.iS.i`
   * : ego*ist* : `.eg.i-st` ~ `.eg.ist`
@@ -443,8 +449,9 @@
       * : im.*einzeln*en `.im.N.l.en` » `.im.N.l` BSA
   * ~~ein~~z**ig** `(z.i)`
   * dein `d.N` V
-  * *kein* `(K)` ! `k.N` V
-    * **k**eines- `k` ← `k.fa-s`, `k.w-s`
+  * *kein* `(K)`
+    * *keinen*- `k` ← `AU.k.fa`
+    * *keines*- `k` ← `k.fa-s`, `k.w-s`
   * mein `m.N` V
   * sein `s.N` V
 * *elektr* `.el.ek` BSA ~ `.el` BSA
@@ -534,22 +541,15 @@
   * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu`
   * : **fuhr**e `fu-e` ! `fu.e`
-* **fall** `fa` : `fa.ed` `G-fa` `.S.fa` `b.ei-fa` `rÜ.fa` `UN-fa` `zw.fa`
-
-`IN.is.fa` `.im.ad-er:fa` `AU.k.ei-en:fa` `v fa Z fa` = `v.fa.z.fa` `Z-fa.br.ing` `b.est-fa-s` `.eb.fa-s` `gl.fa-s` `n.ot.i-fa-s` `W.i-fa-s` `I f.e` `AU.al.f.e` `IN.v.il:f.en` `IN.n m.eist f.en` `f.i` `G-f.i` `UN-G,f.i` `Z-f.i` `schw.er.f.i` `G-f.T` `schw.er.f.T`
-  * : **fäll**<i></i>**ig**<i></i>***keit*** `f.T` (BSA)
-  * : **fall**s `fa-s` (BSA)
-  * : **k**eines**fall**s `k.fa-s`
-  * : <b>*er*</b> **fäll**t `er f` ! `er f-t` BSA
-  * : *es* *ge***fäll**t mir `.e G-f m.ir` ! `.e G-f-t m.ir` BSA
-  * **fiel** `fi` ! `f.il` BSA
-    * : *auf***fiel** `(AU)fi` ! `AU.f.il` BSA
-`G-g.fa-s`
+* **fall** `fa` : `fa.ed` `fa-s` `G-fa` `.al.fa-s` `.S.fa` `b.ei-fa` `.e-fa-s` `G-g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z-fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `(I).iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
+  * **fäll** `f` : `f.e` `f.i` `f.T` `G-f.i` `G-f.T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G-f.i` `UN-G-f.T` `Z-f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
+  * **fiel** `fi` STS
+    * ! fiel `f.il` : `AU.f.il`
+* falsch `f.asch` : `f.asch.H`
+  * fälsch `f.esch` : `f.esch.L`
 
 ---
 
-* falsch `f.asch` (BSA)
-  * : X `f.asch.H` `f.esch` `f.esch.L` `G-f.escht`
 * falt `fat` (BSA)
   * : X `fat-et.e` `eNT.fat` `ma.i-fat-ig` `s.og.fat` `s.og.fet-ig` `(E)v.il:fet-ig` `I (E)v.il.fet-ig`
   * : *sorg*fält**ig** `s.o-fet-ig` * *s*<b>*o*</b>*rg*fält**ig** `(o)fet-ig` ~ `(o)f.i` ! `s.og.fet-ig` (E)
@@ -2199,9 +2199,13 @@
   * : prof `(o)f` E
 * pr**o**fit `(o)f.it`
 * *protokoll* `pr.ot.ok` E
-* **prüf** `prÜ`
-  * : her<b>*bst*</b>**prüf***ung* `(bst),prÜ.UNG` * her<b>*bst*</b>pr**ü**f*ung* `(bst)-Ü.UNG`
-  * : *über***prüf** `(Ü)prÜ` * *über*pr**ü**f `Ü-Ü`
+
+---
+
+* **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
+
+---
+
 * *publik*
   * *publikum* `p.ub` E
   * *publikation* `p.ub.iO` E
@@ -2691,7 +2695,14 @@
 * sol `s.ol`
   * : solid `s.ol.id`
   * : **kon**solidier `ko-s.ol.ir`
-* *solch* `(s)ch` V
+
+---
+
+* *solch* `(s)ch`
+  * *solch*- `o` ← `IN.ei-em,o,fa` `IN,o,f.en`
+
+---
+
 * *soll* `(S)`
 * solv `s.ow`
   * : solvier `s.ow.ir`
@@ -2996,7 +3007,7 @@
   * : *zu*<i></i>*samm*en*ge*~~wir~~kt `Z-Sa,(k)` ! `Z-Sa,(k)t`
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
   * tab~~ell~~e `t.ab.e` » `t.ab`
-* *tag* `tag` : `f.ei-er.tag` `do.tag`
+* *tag* `tag` : `f.ei-er.tag` `do.tag` `f.T-tag`
   * : ~~arb~~eits*tag* `(T)-tag` ~ `T-tag`
   * : ~~fr~~ei*tag* `(.ei)-tag` ! `.ei-tag`
   * : *tag*.~~für~~.*tag* `tag.tag` STS
