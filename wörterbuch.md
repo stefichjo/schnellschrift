@@ -794,8 +794,23 @@
   * : tuch*fühl*<i></i>*ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
   * : *fühl*en `.ül` STS ! `f.ül`
 * führ ← fahr
-* *führ* `Ür` STS
-  * *führ*en `.ül` STS ! `f.ür`
+* *führ* `Ür` STS : `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `h.b.ei-Ür` `Ü-Ür` ⇒ `Ü.ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `u-rÜ-Ür` ⇒ `u-rÜ.ür` `Z-Sa-Ür` ⇒ `Z-Sa.ür`
+  * : *führ*en `Ür` ⇒ `.ür` STS ! `f.ür`
+  * : *führ*er `Ür-er` ⇒ `.ür-er` STS ! `f.ür-er`
+  * : *führ*<i></i>*ung* `Ür-UNG` ⇒ `.ür-UNG` STS ! `f.ür-UNG`
+`AU.icht-Ür.ed` * `AU-i-Ür.ed`
+`dar-AU Z-rÜ-Ür` ⇒ `dar-AU Z-rÜ.ür` « `dar-AU-Ür`
+`.a-Z Ür` ⇒ `.a-Z .ür` ~ `a-Z-Ür`
+
+`G-Ürt`
+`f.ür-er.N`
+`f.ür-UNG.eug.is`
+`h.b.ei` → `h.ei`
+
+ausfuhr
+ausfuehren
+durchfuehren
+einfuhr
 
 ---
 
