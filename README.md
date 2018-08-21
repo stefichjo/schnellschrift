@@ -58,7 +58,6 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 
 * fällt `fet`
 * fährt `fet`
-* hielt `hit`
 * wohnte `wot.e`
 
 ### Endungen
@@ -107,12 +106,16 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 
 ### Anstellen
 
-Eine Vorsilbe kann an das obere Ende des folgenden Zeichens angeschlossen werden, wenn das Vorsilbenzeichen nicht höher als eine Stufe ist und es den Schreibraum nicht verlässt.
+Eine Vorsilbe kann an das obere Ende des folgenden Zeichens angeschlossen werden, wenn das Vorsilbenzeichen die Oberstufe nicht verlässt.
 
 * an*grenz*en `(.an)GR`
 * **be**<i></i>**tracht** `(b)tra`
 * *ver***tief**en `(E)ti`
 * *ver***trug** `E-tru`
+
+Andere Anstellungen werden als Kürzel notiert.
+
+* *ver*<i></i>*ant*worten `E-aNT.wot` ~ *verantwort*en `(E)aNT`
 
 Ein Anstellen an Zeichen mit Kopfschleife ist nicht möglich, sodass die Vorsilbe gegebenenfalls getrennt geschrieben werden muss.
 
