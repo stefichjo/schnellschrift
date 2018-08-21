@@ -27,10 +27,11 @@
   * ält `.ät` : `.ät-er` `.ät.est`
   * ! (alt) `.alt` : `UR.alt`
 * *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E-N.i .at.en v .am.a`
-* **amt** `.a` : `T-s.a` `b.a` `b.a.er` `hau.a.L` `pa°.a`
-  * : *aus*wertiges **amt** `.S.wet.ig.es .a` ~ `.S.a`
+* *amt* `.a` : `T-s.a` `b.a` `b.a.er` `fi.a` `hau.a.L` `pa°.a`
+  * : *aus*wertiges *amt* `.S.wet.ig.es .a` ~ `.S.a`
   * ! amt `.amt` : `.amt-ir`
   * × ~~amt~~ : `b.FT`
+  * *ämter* `.ä` : `fi.ä`
 * an `.an` : `wo.an`
 * and `.ad` : `.ad-er`
   * änd `.äd` : `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN-.ab.äd-er.L` `E-.äd-er` `E-.äd-er.L`
@@ -656,14 +657,13 @@
 * fi~~l~~ `f.i` : `f.i-iaL.e`
 * film `f.im` : `f.imt.e` `G-f.imt` `E-f.im`
 * **filt**er `fit-er` : `fit-r.ir`
+* **fin** `fi`: `fi.al` `fi.al.e` `fi.al.ist`
+  * : **fin**al*ist*in `fi.al.i-st.in` » `fi.al.in`
+  * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi-er` `fi.um` `fi.om` `O,fi.ir`
+  * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
 
 ---
 
-* **fin** `fi`
-  * **fin**al `fi.al`
-  * **fin**anz `fi.az` » `fi` BSA
-    * : X `fi.ieL` `fi.ir` `fi.ir-UNG`
-  * de**fin**ier `d.e.fi.ir` ! `d.e-f.in.ir` ~ `d.e-f.ir`
 * **find** `fi`
   * ! find `f.id` (BSA)
     * : X `.ab.f.id` `b.e-f.id` `b.e-f.id.L` `er.f.id` `sta.f.id` `Z-Sa.f.id` `CH Z-echt.f.id` `f.id-er` `f.ad` `.ab.f.ad` `b.f.ad` `f.äd.e` `b.f.äd.e` `O-f.äd.e` `f.ud` `G-f.ud` `sta.f.ud` `Z-Sa.f.ud`
@@ -837,10 +837,10 @@
 ---
 
 * **fuß** `fu` : `ha.fu`
+* gang ← geh
 
 ---
 
-* gang ← geh
 * **ganz** `ga` BSA
   * : X `ga.H`
   * **gänz** `g` ~ `gä`
@@ -2136,9 +2136,9 @@
 
 ---
 
-* ~~pol~~**it** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `.in.it.i`
+* ~~pol~~**it** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
   * : ~~pol~~**it**isieren `it.ir` ! `it.is.ir`
-  * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `ha.tik` `eu-er.tik` `FT.tik`
+  * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `FT.tik`
     * **fin**anz*politik* `fi.az.tik` » `fi.tik`
 * *polizei* `li` : `li.ei` `li.ist`
 * ***pon*** `.on` : `ds.on.ir` `kom.on.ir` `tra.on.ir`
