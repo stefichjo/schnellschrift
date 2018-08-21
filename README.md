@@ -14,6 +14,7 @@ kan kant  * akzent `.ak.zet` ! `.ak.z.ent`
 ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 ⋄ `m.ei-H`
 ≠ allein
+@ä in "fänd"
 
 ## Kurzschreibung
 
@@ -124,12 +125,12 @@ Ein Anstellen an Zeichen mit Kopfschleife ist nicht möglich, sodass die Vorsilb
 
 Aus einer Anlautkürzung darf ein Anlautkürzel werden, um die Getrenntschreibung zu vermeiden. Vorsilben mit Aufstrich dürfen mit Anlautkürzungen auf der Oberlinie verbunden werden.
 
-* **be**<i></i>**find**en `b,fi` → `b.f.i`
-* *zu*.**find**en `Z,fi` → `Z-fi`
+* **be**<i></i>**find**en `b,fi` ⇒ `b.f.i`
+* *zu*.**find**en `Z,fi` ⇒ `Z-fi`
 
 Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
 
-* bei**trag** `(b.ei)tra` → `(.ei)tra`
+* bei**trag** `(b.ei)tra` ⇒ `(.ei)tra`
 
 ### Ausschreibung
 
@@ -205,7 +206,7 @@ Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit `-er`.
 #### Ausweichen auf Anlautkürzel
 
 * **bleib** `bl.ei` = blei~~b~~
-  * blie~~b~~ `bl.i`
+  * **blieb** `bli` ⇒ `bl.i` = blie~~b~~
 
 #### Ausweichen auf Auslautkürzung
 

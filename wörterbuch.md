@@ -187,8 +187,8 @@
   * bat `b.at`
   * bet `b.et` : `G-b.et` `UN-G,b.et`
 * **blatt** `bla` : `.om.bla`
-* blei~~b~~ `bl.ei`
-  * blie~~b~~ `bl.i`
+* **bleib** `bl.ei`
+  * **blieb** `bli` ⇒ `bl.i`
 * ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik` `.aug.ik` `.aug.ik.L`
 * ***boot*** `.ot`
 * **bloß** `.oss`
@@ -965,9 +965,9 @@
 * *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(b)GR` `UN-b.GR`
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
-* gr~~oß~~ `gr` : `s.gr`
-  * **grö**~~ß~~ `grö` : `grö.e`
-    * : *ver*<i></i>**grö**~~ß~~ern `(E)grö.er` » `(E)grö`
+* gr~~oß~~ `gr` : `s.gr` `gr.ib`
+  * *größ* `grö` : `grö.e`
+    * : *ver*<i></i>*größ*ern `(E)grö.er` » `(E)grö`
 
 ---
 
@@ -1063,8 +1063,8 @@
     * : *ge*<i></i>***häus***<i></i>e `G-äus.e` ! `G-h.äus.e`
 * heb `h.eb` : `schat-h.eb.el`
 * heiß ← heiz
-* hei~~ß~~ `h.ei`
-  * hie~~ß~~ `h.i` ! `h.iss`
+* **heiß** `h.ei`
+  * **hieß** `hi` ⇒ `h.i` ! `h.iss`
 * heiz `h.eiz`
   * : *zentral*heiz*ung* `zr-a.h.eiz*` ~ `zr-a.eiz*`
   * **heiß** `h.ei`
@@ -3130,11 +3130,11 @@
   * ***tritt*** `.it` : `.S.it` `b.ei-it` `N.it` `rÜ.it` `Ü.it` `E-it` `Z-it` `AU.it.it` `b.eim-Ü.it`
   * ***trat*** `.at` STS
     * ! trat `tr.at` : `(E)tr.at`
-* trei~~b~~ `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(b.ei)tr.ei`
-  * ! (treib) `tr.eib`
-  * trie~~b~~ `tr.i` : `G-tr.i`
-    * ~~betr~~ieb `(.ib)` : `gr.ib` `ha.ek.ib`
-      * ! *be*trie~~b~~ `(b)tr.i` ~ `b.ib`
+* **treib** `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(b.ei)tr.ei`
+  * ! treib `tr.eib`
+  * **trieb** `tri` ⇒ `tr.i` : `G-tr.i`
+    * : **be**<i></i>**trieb** `b,tri` ⇒ `(b)tr.i`
+    * -*betrieb* `.ib` → groß handwerk
 * **treu** `treu`
 * **tru**~~g~~ `tru` : `b.tru`
   * ! trug `tr.ug`
@@ -3405,7 +3405,7 @@
 ---
 
 * werk `w.ek` : `b.eg.w.ek`
-  * *handwerk* `ha.ek` : `ha.ek-er`
+  * *handwerk* `ha.ek` : `ha.ek.ib` `ha.ek-er`
 
 ---
 
@@ -3601,5 +3601,3 @@
 * zünd `z.üd` : `IN.it.iaL,z.üd-UNG`
 * ~~zw~~eig `(.eig)`
 * zw~~ischen~~ `zw` : `(I)zw`
-
-@ä in "fänd"
