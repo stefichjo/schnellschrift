@@ -661,39 +661,17 @@
   * : **fin**al*ist*in `fi.al.i-st.in` » `fi.al.in`
   * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi-er` `fi.um` `fi.om` `O,fi.ir`
   * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
-
----
-
-* **find** `fi`
-  * ! find `f.id` (BSA)
-    * : X `.ab.f.id` `b.e-f.id` `b.e-f.id.L` `er.f.id` `sta.f.id` `Z-Sa.f.id` `CH Z-echt.f.id` `f.id-er` `f.ad` `.ab.f.ad` `b.f.ad` `f.äd.e` `b.f.äd.e` `O-f.äd.e` `f.ud` `G-f.ud` `sta.f.ud` `Z-Sa.f.ud`
-    * : X `.emp-f.id` `.emp-f.id.ed` `.emp-f.ad` `.emp-f.ud` `.empf-f.id.L` `.emp-f.id-Sa` `.emp-f.id-UNG.l.os` `.emp-f.id.L.T` `.emp-f.id-Sa.T`
-  * : **find**er `fi-er`
-  * : **find**ig `fi.i`
-  * : **find**<i></i>*ig*<i></i>***keit*** `fi.T`
-  * : **find**<b>*ling*</b> `fi.ing`
-  * : ab**find** `.ab,fi`
-  * : *auf***find** `AU,fi`
-  * : **be**<i></i>**find** `b,fi`
-  * : emp**find** `.emp,fi` * empf**i**nd `.emp-i`
-  * : <b>*er*</b><i></i>**find** `(e)fi`
-  * : <b>*er*</b><i></i>**find**er `(e)fi-er` ! `(e)fi-er`
-  * : *vor***find** `O,fi`
-  * : z**u**<i></i>**rück**<i></i>**find** `u-rÜ,fi`
-  * : *zu*<i></i>*samm*en**find** `Z-Sa,fi`
-  * : *zu*.**find** `Z,fi` ~ `Z-fi`
-  * **fand** `fa` ! `f.ad`
-    * **be**<i></i>**fand** `b.fa`
-    * emp**fand** `.emp-fa` * empf**a**nd `.emp-a`
-  * **fänd** `f` ! `f.äd`
-  * **fund** `fu`
-    * : abge**fund** `.ab.fu`
-    * : *auf*ge**fund** `AU.fu`
-    * : emp**fund** `.emp-fu` = `.emp-f.u` * empf**u**nd `.emp-u`
-    * : z**u**<i></i>**rück**<i></i>*ge*<i></i>**fund** `u-rÜ.fu`
-
----
-
+* **find** `fi` : `fi-er` `fi.i` `fi.T` `fi.ing` `Z-fi`
+  * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `er.f.i` `O-f.i` `u-rÜ:f.i` `Z-Sa.f.i`
+    * : *emp***find**en `.emp-f.i` * `.emp-i`
+    * : *er***find**er `er.f.i-er` ! `er,fi-er`
+  * **fand** `fa` : `b.fa`
+    * ! fand `f.ad`
+    * : *emp***fand** `.emp-fa` * `.emp-a`
+	* **fänd** `f`
+	  * ! fänd `f.ed` ! `f.äd`
+  * **fund** `fu` : `G-fu` `.ab.fu` `AU.fu`
+    * : *emp***fund**en `.emp-fu` * `.emp-u`
 * ~~f~~**irm** `im` : `im.a` `im.en` `im.ir`
   * : ~~f~~**irm**ament `im-met` ! `f.im-met`
   * : **kon**~~f~~**irm**at*ion* `ko,im-o` ! `ko.f.im-o`
@@ -3623,3 +3601,5 @@
 * zünd `z.üd` : `IN.it.iaL,z.üd-UNG`
 * ~~zw~~eig `(.eig)`
 * zw~~ischen~~ `zw` : `(I)zw`
+
+@ä in "fänd"
