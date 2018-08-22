@@ -2218,13 +2218,12 @@
 * rakete `(.et).e`
 * rang `r.ang` : `r.ang.ir` `O-r.ang`
 * **rat** `ra` : `ra.os` `G-ra` `O-ra` `bu.ra`
-  * *berat* `Ra`
-  * **rät** `r`
-    * ~ ***rät*** `.ät` : `.ät.e`
-    * *rätsel* `ts.el` : `ts.el.ha`
   * : **rat**<i></i>*sam* `ra-Sa` ! `ra-s.am`
   * : *er*<i></i>**rat**en `er-ra` ! `er-r.at`
   * : *da*<i></i>*von*.ab**rat**en `.a-v.ab.ra` ~ `a-v.ab.ra`
+  * *berat* `Ra`
+  * *rät* `.ät` : `.ät.e` `o=ba.ät`
+    * *rätsel* `ts.el` : `ts.el.ha`
   * **riet** `ri` ! `r.iet`
 * **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.iaL.ir` `ra.ieL` `IN 4 ra.en`
   * : **rat**e `ra-e` ! `ra.e`
@@ -2681,10 +2680,10 @@
 
 * *solch* `(s)ch`
   * *solch*- `o` ← `IN.ei-em,o,fa` `IN,o,f.en`
+* *soll* `(S)`
 
 ---
 
-* *soll* `(S)`
 * solv `s.ow`
   * : solvier `s.ow.ir`
   * : absolv*ent* `.ab-s.ow.ent` ~ `.ab-s.ow.eNT`
@@ -2769,15 +2768,17 @@
   * **spruch** `.uch`
     * ~~spr~~**u**~~ch~~ `u` : `.an,u` `N,u` `W-u`
     * **sprüch** `.üch`
+* ~~spr~~ing `(.ing)` : `.ab.ing`
+  * ! spring `spr.ing`
+  * ~~spr~~ang `(.ang)` STS
+    * ! sprang `spr.ang`
+  * ~~spr~~ung `(.ung)` : `eNT.ung` `UR.ung` `O-ung` `zr.ung`
+    * ~~spr~~üng `(.üng)` STS
+	  * : *ur*~~spr~~üng*lich* `UR.üng.L` * `UR-Ü.L`
+* spür `sp.ür`
 
 ---
 
-* spr<b>*ing*</b> `(.ing)` ! `spr.ing`
-  * spr<b>*ang*</b> `(.ang)` ! `spr.ang`
-  * spr<b>*eng*</b> `(.eng)` ! `spr.eng`
-  * spr<b>*ung*</b> `(.ung)` ! `spr.ung`
-    * : urspr<b>*ung*</b> `UR.ung`
-* spür `sp.ür`
 * st `st`
   * : **kon**stant `ko.st.ant` ~ `ko.st.aNT`
   * : **kon**stanz `ko.st.az`
@@ -3018,6 +3019,7 @@
     * : tech<b>*n*</b>ik `(n).ik`
     * : tech<b>*n*</b>**isch** `(n).isch`
 ---
+
   * tekt 
     * : archi**tekt** `.ach.t` ~ `.ach.ekt`
     * : archi**tekt**ur `.ach.t.UR` × `.ach.UR`
@@ -3068,21 +3070,17 @@
 * **ti**~~ng~~ `ti`
   * : **kon**<i></i>**ti**~~ng~~*ent* `ko,ti.eNT` » `ko,ti`
 * tisch `t.isch`
-
----
-
-* **tit** `ti`
-  * : **tit**el `ti.el` » `ti` ! `t.it.el`
-* toler `t.ol.er` » `t.ol` E
-* t**o**n `o`
-  * t**ö**n `ö`
-* **tot** `t.o`
-  * : **tot**al `t.o-al`
-    * : **tot**alitär `t.o-al.är`
-    * : **tot**alität `t.o-al.ät`
-
----
-
+* tit `t.it` : `t.it.UR` `t.it.ir-UNG`
+  * : titel `t.it.el` » `t.it`
+  * *titel*- `ti` : `ti,18`
+* *toler* `t.ol` : `t.ol.az` `t.ol.aNT` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
+* ~~t~~o~~n~~ `(.o)` : `b,(.o)` `er b,(.o)-t.e` `er b,(.o).e`
+  * : ~~t~~o~~n~~*los* `(.o)-l.o` ! `(.o)-l.os`
+  * : de~~t~~o~~n~~ieren `d.e,(.o).ir` ~ `d.e-t.o`
+  * : *in*~~t~~o~~n~~ieren `IN,(.o).ir` ! `IN.t.on.ir`
+  * ~~t~~ö~~n~~ `(.ö)`
+    * ein~~t~~ö~~n~~*ig* `N,(.ö).i` » `N,(.ö)`
+* to~~t~~ `t.o` : `t.o-al` `t.o-al.är` `t.o-al.ät`
 * tracht ← trakt
 * **trag** `tra` : `G-tra` `(.an)tra` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(b.ei)tra` `(er)tra` `(er)tra.eich` `hn.S.tra` `ach.tra` `(Ü)tra`
   * : *ver***trag** `(E)tra` * `E-a`
@@ -3133,7 +3131,7 @@
 * **treib** `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(b.ei)tr.ei`
   * ! treib `tr.eib`
   * **trieb** `tri` ⇒ `tr.i` : `G-tr.i`
-    * : **be**<i></i>**trieb** `b,tri` ⇒ `(b)tr.i`
+    * : **be**<i></i>**trieb** `b,tri` ⇒ `(b)tr.i` ~ `b.ib`
     * -*betrieb* `.ib` → groß handwerk
 * **treu** `treu`
 * **tru**~~g~~ `tru` : `b.tru`
