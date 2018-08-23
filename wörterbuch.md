@@ -2292,6 +2292,7 @@
     * : *korrespond*ent `k.or-r.ent` BSA
     * : *korrespond*enz `k.or-r.ez` (BSA) × *kor*~~respond~~enz `k.o-ez`
     * : *korrespond*ier `k.or-r.ir` (BSA)
+
 ---
 
 * rent `ret` : `ret.ab.ät` `ret.e` `ret.ir` `ret-er`
@@ -2312,14 +2313,13 @@
 ---
 
 * rind `r.id` : `r.id-er`
+* ~~r~~ing `(.ing)` STS : `G-.ing` `E-.ing`
+  * ! ring `r.ing`
+* *risik* `ri.k` : `ri.k.en`
+  * : *risik*o `ri.k.o` * `ri.ko`
 
 ---
 
-* <b>*ring*</b> `(.ing)` ! `r.ing`
-  * : *ge*<b>*ring*</b> `G-ing`
-  * : *ver*<b>*ring*</b> `E-ing`
-* *risiko* `ri.ko`
-  * *risiken* `ri.k.en`
 * roll `r.oll`
   * : **ein**e.r**o**lle.sp**ie**len `.ei,o,i`
 
@@ -2336,12 +2336,17 @@
 * *rück* `rÜ` V ! `r.ük`
   * *zu***rück** `Z-rÜ`
     * *zurück* `u-rÜ`
-* r<b>*uf*</b> `(.uf)` ! `r.uf`
-  * : *aus*r<b>*uf*</b> `.S.uf`
-  * : *auf*r<b>*uf*</b> `AU.uf` * *auf*r**u**f `AU-u`
-  * : **be**<i></i>r<b>*uf*</b> `b.uf`
-  * r<b>*ief*</b> `(.if)` ! `r.if`
-    * : *aus*r<b>*ief*</b> `.S.if`
+	
+---
+
+* ~~r~~uf `(.uf)` STS : `.S.uf` `b.uf`
+  * : *auf*~~r~~uf `AU.uf` * `AU-u`
+  * ! ruf `r.uf`
+  * ~~r~~ief `(.if)` STS: `.S.if`
+    * ! rief `r.if`
+	
+---
+
 * rump `r.ump`
   * *rupt* `r.up`
     * : e*rupt*<i></i>*ion* `.e-r.up-o`
@@ -2768,7 +2773,7 @@
   * **spruch** `.uch`
     * ~~spr~~**u**~~ch~~ `u` : `.an,u` `N,u` `W-u`
     * **sprüch** `.üch`
-* ~~spr~~ing `(.ing)` : `.ab.ing`
+* ~~spr~~ing `(.ing)` STS : `.ab.ing`
   * ! spring `spr.ing`
   * ~~spr~~ang `(.ang)` STS
     * ! sprang `spr.ang`
