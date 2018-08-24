@@ -32,7 +32,7 @@
   * ! amt `.amt` : `.amt-ir`
   * × ~~amt~~ : `b.FT`
   * *ämter* `.ä` : `fi.ä`
-* an `.an` : `wo.an`
+* an `.an` : `dar.an` `wo.an`
 * and `.ad` : `.ad-er`
   * änd `.äd` : `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN-.ab.äd-er.L` `E-.äd-er` `E-.äd-er.L`
 * *ant*- `aNT`
@@ -74,12 +74,11 @@
 * atlas `.atl.as`
 * auch `.auch`
   * -*auch* → aber oder sondern
+* *auf* `AU`
+  * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
 
 ---
 
-* *auf* `AU` V
-  * *dar*<i></i>*auf* `dar.AU`
-    * ~ *darauf* `dar-AU` BSA
 * *aus* `.S` V
   * **h*<b>*er*</b>aus* `h.S` ~ `er.S` ~ `er-s`
   * *vor*<i></i>*aus* `O-S`
@@ -183,7 +182,8 @@
 * bist ← sein
 * **bi** `bi` STS
   * : **bi**o<i></i>***log***<i></i>ie `bi.og.I` ! `b.i-l.og.I`
-* ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `I .it.e` `I .it.sI` `I.it.sI` `M-r.it.e`
+* bitt `b.it` STS
+  * ~ ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `I .it.e` `I .it.sI` `I.it.sI` `M-r.it.e`
   * bat `b.at`
   * bet `b.et` : `G-b.et` `UN-G,b.et`
 * **blatt** `bla` : `.om.bla`
@@ -224,11 +224,10 @@
   * : *geschäft*s**bü**~~ch~~er `GT.bÜ-er` * `GT-Ü-er`
 * *bühr* `Ür` : `G-Ür`
 * bunt `but` : `but-er` `but-est` `bu.H`
+* **bü**~~r~~ `bÜ` : `m.ak-er-Ü.o`
 
 ---
 
-* *bür* `bÜ`
-  * : *makler*<i></i>*bür*o `m.ak-er.bÜ.o` ~ `m.ak-er-Ü.o`
 * burg `b.ug` (BSA)
   * : **bürg** `b.üg` (BSA)
     * : **bürg**te `b.ügt.e` (BSA)
@@ -265,6 +264,7 @@
 * ~~d~~ann `(.an)`
   * (denn) `d.en`
 * ***dar*** `dar`
+  * ***dar***- `dar`
 * d~~as~~ `d`
 
 ---
@@ -1427,18 +1427,8 @@
 * kranz `kr.az`
 * krass `kr.ass`
 * krat `kr.at` : `kr.at-er`
-
----
-
-* <b>*krat*</b> `.at` BSA
-  * *bür*o<b>*krat*</b> `bÜ.at`
-  * **dem**o<b>*krat*</b> `d.at` (BSA)
-    * X `d.at.I` `d.at.i` `d.at.I-n` `SS.d.at`
-* **kreb** `kr`
-  * : **kreb**s `kr-s`
-
----
-
+* ***krat*** `.at` : `bÜ.at` `d.at` `d.at.I` `d.at.i` `SS.d.at`
+* **kreb** `kr` : `kr-s`
 * **kred** `kr` : `kr.it` `.ak-kr.ir` `.ak-kr.iv`
 * ~~kr~~eis `(.eis)` : `la.eis`
   * ~~arb~~eits~~kr~~eis `(T)-s.eis` ~ `Ts.eis`
@@ -1520,10 +1510,10 @@
     * × ~~läss~~ : `.an.L`
   * ~~l~~ieß `(.iss)` : `(I)t-er.iss`
     * ! ließ `l.iss`
+* last ← lad
 
 ---
 
-* last ← lad
 * lat l.at
   * : lateral `l.at-er.al`
     * .~~later~~**al**. `(.al)`
@@ -3490,7 +3480,9 @@
     * -*bewusst* `,u` : `,u-N`
   * **wüss** `.üss`
     * ! wüss `w.üss` : `w.üsst.e`
-* **wo** `wo` : `wo.an`
+* **wo** `wo`
+  * **wo**- `wo`
+  * **wor**- `wo`
 * **woch** `wo`
   * : **woch**e `wo-e`
 * wohl `w.ol` : `G-Sa.w.ol` `.ob.w.ol`
