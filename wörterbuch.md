@@ -392,14 +392,8 @@
   * **darf** `da` : `b.da`
   * **durf** `du` : `du-t.e` 
 * *düsseldorf* `dÜ.o`
-
----
-
-* eben `.eb` : `(o).eb`
-  * *eben*- `.e` ← `.e-fa-s`
-
----
-
+* eben `.eb`
+  * : *so*eben `.o.eb` ~ `(o).eb`
 * echt `.echt`
 * ego `.eg.o` STS : `.eg.iS` `.eg.iS.i`
   * : ego*ist* : `.eg.i-st` ~ `.eg.ist`
@@ -536,22 +530,17 @@
   * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu`
   * : **fuhr**e `fu-e` ! `fu.e`
-* **fall** `fa` : `fa.ed` `fa-s` `G-fa` `.al.fa-s` `.S.fa` `b.ei-fa` `.e-fa-s` `G-g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z-fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `(I).iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
+* **fall** `fa` : `fa.ed` `fa-s` `G-fa` `.al.fa-s` `.S.fa` `b.ei-fa` `G-g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z-fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `(I).iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
+  * eben**fall**s `.eb.fa-s` ~ `.e-fa-s`
   * **fäll** `f` : `f.e` `f.i` `f.T` `G-f.i` `G-f.T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G-f.i` `UN-G-f.T` `Z-f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
   * **fiel** `fi` STS
     * ! fiel `f.il` : `AU.f.il`
 * falsch `f.asch` : `f.asch.H`
   * fälsch `f.esch` : `f.esch.L`
-
----
-
-* falt `fat` (BSA)
-  * : X `fat-et.e` `eNT.fat` `ma.i-fat-ig` `s.og.fat` `s.og.fet-ig` `(E)v.il:fet-ig` `I (E)v.il.fet-ig`
-  * : *sorg*fält**ig** `s.o-fet-ig` * *s*<b>*o*</b>*rg*fält**ig** `(o)fet-ig` ~ `(o)f.i` ! `s.og.fet-ig` (E)
-  * : *ver*<i></i>*viel*fält**ig** `E-il:fet-ig` ~ `E-.il:f.i`
-
----
-
+* falt `fat` : `fat.e` `fat.et.e` `N.fat` `eNT.fat` `eNT.fat-UNG`
+  * fält `fet` : `N.fet-ig` `hu:fet-ig`
+    * : *sorg*fält*ig* `S.o-fet-ig` ~ `(.o):fet-ig`
+    * : *ver*<i></i>***viel***fält*ig*en `E-.il.fet-ig` ~ `E-.il.f.i`
 * *famili* `f.am` : `f.am.är`
   * : *famili*e `f.am.e` » `f.am`
 * ~~f~~ang `(ang)` : `N.ang`
@@ -692,10 +681,11 @@
   : ! (flekt) `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.iO`
 * ~~fl~~ieh `(.ih)` `eNT.ih`
-  * (flieh) `fl.ih` ~ `fli`
+  * *flieh* `fli`
   * ~~fl~~oh `(.oh)` ! `.oh`
   * ***flucht*** `.ucht`
     * ***flücht*** `.ücht` : `.S.ücht-e`
+      * *flüchtling* `(NG)` : `(NG)-Ü.o`
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
@@ -2229,11 +2219,10 @@
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G-ech` `(.S)ech` `(b)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
 * *recht* `R` : `T-s.R`
+* reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 
 ---
 
-* reg `r.eg`
-  * : anreg*ung* `.an.r.eg.UNG`
 * **reg** `r`
   * : **reg**ier `r.ir` E
     * ~~reg~~ier `(.ir)`
@@ -2660,8 +2649,7 @@
 * sinn `s.in`
 * *so* `.o` V
   * *eben*<i></i>*so* `.eb.o` (BSA)
-  * s**o**- `o`
-  * s<b>*onst*</b> `(.ost)` E
+  * → sonst
 * sol `s.ol`
   * : solid `s.ol.id`
   * : **kon**solidier `ko-s.ol.ir`
@@ -2694,29 +2682,27 @@
   * *besonder* `b°`
     * × : `ga-s`
 * sonst ← so
+* ~~s~~onst `(.ost)`
+* *sorg* `S.o` `b.S.o` : `b.S.o-is` `UN-b.S.o` `E-S.o` `O-S.o` `O-S.o-L`
+  * : **da**f~~ür~~.*sorg*en `.a-f.S.o` ~ `.a-f.o`
+  * : *für**sorg*e `f.S.o-e` ~ `f,(.o)-e` : `f,(.o)-L`
+    * -*fürsorge* `-Ü.o` : `I-Ü.o` ← `(NG)-Ü.o` `SS-Ü.o`
+  * : seelen*sorg*e `s.el.S.o` ~ `s.el,(.o)`
+  * ! sorg `s.og` : `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `E-s.ogt.e`
+  * : *ver*<i></i>*sorg*er `E-S.o-er` ~ `E,(.o)-er`
 
 ---
 
-* *sorg* `s.o` ! `s.og`
-  * : **be**<i></i>*sorg* `b-s.o`
-  * : **f**ür*sorg* `f-s.o` * **f**ür*s*<b>*o*</b>*rg* `f,o`
-  * : ***jug***end**f**ür*sorg* `.ug.ed:f-s.o` * ***jug***end**f**ür*s*<b>*o*</b>*rg* `.ug.ed.f,o` » `.ug.f,o` * `.ug-Ü.o`
-  * : *ver*<i></i>*sorg* `E-s.o`
-  * : *ver*<i></i>*sorg*er `E-s.o-er` * *ver*<i></i>*s*<b>*o*</b>*rg*er `E,o-er`
-  * : *ver***sorg**ungs*kosten* `E-s.o,ko`
-  * : *vor*<i></i>*sorg*e `O-s.o`
-`s.el,o`
-`s.el,o-er`
 * sort `s.ot`
   * : sorte `s.ot.e` (E)
   * : sortier `s.ot.ir` (E)
   * : sortiment `s.ot.met` ! `s.ot.i-met` (E) ~ `s.ot.eNT`
   * : **kon**sortium `ko-s.ot.um`
-* *sozi* `SS`
-  * *sozial* `SS`
 
 ---
 
+* *sozi* `SS`
+  * *sozial* `SS` : `SS-Ü.o`
 * **spann** `spa`
 * spaß `sp.ass`
 
@@ -2923,7 +2909,7 @@
     * : ~~arb~~eits*los*en*unter*<i></i>**stütz**<i></i>*ung* `(T)-s.os,UNTER-Ü.UNG` « `(T)-s.os-Ü.UNG` ~ `(.los)-Ü.UNG`
 * **sub** `su:`
 * **such** `su` : `b-su` `E-su`
-  * : *unter***such** `UNTER,su` * `UNTER-u`
+  * : *unter***such** `UNTER,su` * `UNTER-u` : `O-S.o=UNTER-u`
 * sucht ← siech
 * **sul** `su` : `ko-su`
   * sult `sut` : `ko-sut-ir` `ko-sut-iO` `r-su.ir` `r-su.at`
