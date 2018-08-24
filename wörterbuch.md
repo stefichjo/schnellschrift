@@ -106,15 +106,13 @@
   * : als**bald** `.as.ba` (BSA)
   * : <b>*so*</b>**bald** `(o)ba` (BSA)
   * : **sehr**.**bald** `s.ba` (BSA)
-* **ball** `ba` ! ball `b.all`
-* band ← bind
-* bank `b.ak` (BSA) : `zr-a.b.ak`
-  * bänke `b.ek.e` (BSA)
-  * *bankrott* `b.akr.ot` BSA
-  * *bankrotteur* `b.akr.ör` BSA
 
 ---
 
+* ball `b.all`
+* band ← bind
+* bank `b.ak` : `b.ak.en` `zr-a.b.ak`
+  * bänk `b.ek` : `b.ek.e`
 * bar `b.ar` : `b.ar.FT`
   * -***bar*** `bar`
 * **bas** `ba` : `ba.is`
@@ -1395,8 +1393,13 @@
     * *künst* `kYst` BSA
       * : X `kYst.e` `kYst.L` `kYst-l.er` = `kYst-er` `kYst-er.i` `G-kYst-elt`
 * **konter**- `ko-t-er`
-* **konto** `ko` E
-  * **skonto** `sko` E
+
+---
+
+* **kon**~~to~~ `ko` : `b.ak.ko` `s.ko`
+
+---
+
 * *kontroll* `(ko)tr.o` BSA
   * : *kontroll*e `(ko)tr.o.e` = `(ko)tr.o` (BSA) !o! `ko,o`
   * : *kontroll*en `(ko)tr.o-en` (BSA)
@@ -2334,18 +2337,10 @@
   * ! ruf `r.uf`
   * ~~r~~ief `(.if)` STS: `.S.if`
     * ! rief `r.if`
-	
----
-
-* rump `r.ump`
-  * *rupt* `r.up`
-    * : e*rupt*<i></i>*ion* `.e-r.up-o`
-    * : e*rupt*iv `.e-r.up.iv` ! `.e-r.upt-iv`
-    * *rott* `-r.ot`
-      * : bank*rott* `b.ak-r.ot` E
-
----
-
+* rump ← rupt
+* *rupt* `r.up` : `.e-r.up-o`
+  * : e*rupt*iv `.e-r.up.iv` ! `.e-r.upt-iv`
+  * *rott* `-r.ot` : `b.ak-r.ot`
 * **rund** `ru`
 * *russ* `russ`
 * ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G-schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(.e)` `ta,(en)` `UR,(.e)`
@@ -3335,7 +3330,7 @@
 * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
   * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
-* ~~w~~eis `(.eis)` : `b.eis` `b.eis.bar` `er.eis` `hn.eis` `Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis` `.U.e-Ü.eis`
+* ~~w~~eis `(.eis)` : `b.eis` `b.eis.bar` `er.eis` `hn.eis` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis` `.U.e-Ü.eis`
   * : ~~arb~~eits~~w~~eise `(T)-s.eis.e` ~ `Ts.eis.e`
   * : *darauf* *hin*~~w~~eisen `dar-AU hn.eis` ~ `dar-AU-n`
   * : *ich* ~~m~~uss *darauf* *hin*~~w~~eisen `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
