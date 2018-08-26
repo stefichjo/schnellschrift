@@ -397,12 +397,12 @@
 * echt `.echt`
 * ego `.eg.o` STS : `.eg.iS` `.eg.iS.i`
   * : ego*ist* : `.eg.i-st` ~ `.eg.ist`
+* ehr `.er`
+  * : *ich*.~~h~~**a**~~be~~.~~die~~.ehr.e `.I-a.er.e` ~ `.I-a,(.e)`
+* eid `.eid` : `N.eid` STS
 
 ---
 
-* ehr `.er`
-  * : *ich*.h**a**be.~~die~~.ehr.e `.I-a.er.e` × *ich*.h**a**be.~~die~~.~~ehr~~e `.I-a,(.e)`
-* eid `.eid` : `N.eid` STS
 * *eigen*, *eign* `.eig` BSA
   * : *eigen*s `.eig-s` (BSA)
   * : *eigen*t*lich* `.eig.L` (BSA) ~ `.ei-L`
@@ -412,6 +412,7 @@
   * : <b>*er*</b><i></i>*eign*<i></i>***nis*** `er.eig.is` (BSA)
   * : *ge*<i></i>*eign*et `G-eig` (BSA) ! `G-eig.et` (BSA)
   * : *un*<i></i>*ge*<i></i>*eign*et `UN.G,eig` (BSA)
+
 ---
 
 * ein `N` : `N.i` `N.i-t.e` `N-t.e` `E-N.i` `E-N-Sa.UNG` `E-N-Sa`
@@ -669,14 +670,8 @@
   * ***flug*** `.ug`
 * **flat** `fla`
   * *in*<i></i>**flat**<i></i>*ion* `IN.fla-o` » `IN.fla`
-
----
-
-* ***fleisch*** : `.eisch`
+* ***fleisch*** `.eisch` : `.eisch.i`
   * : rind<i></i>***fleisch*** `r.id.eisch` ~ `ri.eisch`
-
----
-
 * **flekt** `fl`
   : ! (flekt) `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.iO`
@@ -804,22 +799,10 @@
 
 * **fuß** `fu` : `ha.fu`
 * gang ← geh
-
----
-
-* **ganz** `ga` BSA
-  * : X `ga.H`
-  * **gänz** `g` ~ `gä`
-    * : **gänz***lich* `g.L`
-    * : <b>*er*</b><i></i>**gänz** `er.g` ~ `er.gä`
-    * ! gänz `g.ez` BSA
-      * : gänzlich `g.ez.L` (BSA)
-      * : <b>*er*</b>gänz `er.g.ez` (BSA)
-      * : <b>*er*</b>gänz*ung* `er.g.ez*` (BSA)
-
----
-
-* **gar** `ga` : `gat` `o-ga`
+* **ganz** `ga` : `ga.H`
+  * **gänz** `g` : `g.L`
+    * : *er***gänz**en `er.g` ~ `er.gä`
+* **gar** `ga` : `gat` `o-ga` `ga.ga`
   * ! gar `g.ar`
 * gar~~ant~~ `g.ar` : `g.ar.I` `g.ar.ir`
 * garten `gat` : `ki.gat`
@@ -1021,11 +1004,10 @@
   * : *ver*<i></i>**trag**s*ver*<i></i>*handlung*en `(E)tra.ha*.en`
   * **händel** `h` : `h-er` `gr.h-er` `vi:h-er`
 * harm `h.am` : `h.am.os`
+* ***harr*** `arr` : `b.arr.T`
 
 ---
 
-* <b>*harr*</b> `arr`
-  * : **be**<i></i><b>*harr*</b>*lich*k**eit** `b.arr.T`
 * h<b>*äng*</b> `(.eng)` ! `h.eng`
   * : abh<b>*äng*</b>**ig** `ab.eng.i`
   * : anh<b>*äng*</b>er `.an.eng-er`
@@ -1076,11 +1058,10 @@
   * : X `h.err.i`
 * herz `h.ez` (BSA)
   * : `h.ez.ha.est` `h.ez.L` `s.h.ez.L` `h.ez.l.os` `b.h.ez.i` `v.ga.h.ez`
-* **heuer** `h.eu-er`
-  * : *un*<i></i>*ge***heuer** `UN-G,h.eu-er` (E)
 
 ---
 
+* heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu`
 
 ---
@@ -1150,15 +1131,8 @@
     * : *gemein*de**be**<i></i>**hö**rde `G-N-d.e-b.hö.d.e` ⋄ `G-N-d.e-hö-e` ~ `(N)-d.e-hö-e`
 * horch ← hor
 * hort `hot`
-
----
-
-* **hundert** `hu` BSA
-  * : X `3.hu` `5,hu` `hu.FT`
+* *hundert* `hu` : `3.hu` `5,hu` `hu.FT`
   * : **jahr**<i></i>**hundert** `ja.hu`
-
----
-
 * hut `h.ut`
 * -*ial* `.iaL`
   * -*iell* `.ieL`
@@ -2680,7 +2654,7 @@
 
 * *sonder* `S` : `S.bar` `S-au` `S.barst.e`
   * *besonder* `b°`
-    * × : `ga-s`
+    * **ganz**.*besonders* : `ga b°` ~ `ga-s`
 * sonst ← so
 * ~~s~~onst `(.ost)`
 * *sorg* `S.o` `b.S.o` : `b.S.o-is` `UN-b.S.o` `E-S.o` `O-S.o` `O-S.o-L`

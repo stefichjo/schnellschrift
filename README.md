@@ -15,6 +15,7 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 ⋄ `m.ei-H`
 ≠ allein
 @ä in "fänd"
+mater, toler
 
 ## Kurzschreibung
 
