@@ -300,21 +300,18 @@
     * *gedank* `G-da` : `G-da.e` `G-da.os`
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
+* ~~d~~**er** `(er)` : `.S-er`
+* ~~d~~es `(.es)`
+* *desto* `d.est`
+* **deut** `deu` : `deu.L` `.an.deu`
+  * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
+* ~~deut~~sch `SCH`
+* *die* `I` V
+  * d~~ass~~.*die* `d.I` ! `d I` ≠ d~~ass~~.*ich*
+  * *für*.*die* `f.I` ~ `fI`
 
 ---
 
-* de<b>*r*</b> `(er)` V
-  * : *aus*.de<b>*r*</b> `.S-er`
-* d<b>*es*</b> `(.es)` V
-* *desto* `d.est` BSA
-* **deut** `deu`
-  * : **deut***lich* `deu.L`
-  * : an**deut** `.an.deu`
-  * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
-* deut<b>*sch*</b> `SCH`
-* *die* `I` V
-  * d~~ass~~.*die* `d.I` ! `d I` ≠ d~~ass~~.*ich*
-  * *für*.*die* `f.I` ~ `fI` P
 * **dien** `di` BSA
   * X `di.ed` `di-t.e` `di.bar.T`
   * : **dien**er `di-er` ! `di.er` BSA
@@ -541,7 +538,7 @@
 * falt `fat` : `fat.e` `fat.et.e` `N.fat` `eNT.fat` `eNT.fat-UNG`
   * fält `fet` : `N.fet-ig` `hu:fet-ig`
     * : *sorg*fält*ig* `S.o-fet-ig` ~ `(.o):fet-ig`
-    * : *ver*<i></i>***viel***fält*ig*en `E-.il.fet-ig` ~ `E-.il.f.i`
+    * : *ver*<i></i>***viel***<i></i>fält*ig*en `E-.il.fet-ig` ~ `E-.il.f.i`
 * *famili* `f.am` : `f.am.är`
   * : *famili*e `f.am.e` » `f.am`
 * ~~f~~ang `(ang)` : `N.ang`
@@ -2660,7 +2657,7 @@
 * *sorg* `S.o` `b.S.o` : `b.S.o-is` `UN-b.S.o` `E-S.o` `O-S.o` `O-S.o-L`
   * : **da**f~~ür~~.*sorg*en `.a-f.S.o` ~ `.a-f.o`
   * : *für**sorg*e `f.S.o-e` ~ `f,(.o)-e` : `f,(.o)-L`
-    * -*fürsorge* `-Ü.o` : `I-Ü.o` ← `(NG)-Ü.o` `SS-Ü.o`
+    * -<i></i>*fürsorge* `-Ü.o` : `I-Ü.o` ← `(NG)-Ü.o` `SS-Ü.o`
   * : seelen*sorg*e `s.el.S.o` ~ `s.el,(.o)`
   * ! sorg `s.og` : `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `E-s.ogt.e`
   * : *ver*<i></i>*sorg*er `E-S.o-er` ~ `E,(.o)-er`
@@ -2901,7 +2898,7 @@
   * : *be*<i></i>***gab***<i></i>t `b.ab` ! `b.abt`
   * : *be*<i></i>***wuss***<i></i>t `b.uss` ! `b.usst`
   * : **bild**et `bi` ! `bi.et`
-  * : *durch**ge*<i></i>*führ*t `dr-ü` ! `dr-ü-t`
+  * : *durch*<i></i>*ge*<i></i>*führ*t `dr-ü` ! `dr-ü-t`
   * : ein*ge*<i></i>*führ*t `N-Ür` ! `N-Ürt`
   * : *er*~~wir~~kt `er,(w)` ! `er,(w)t`
   * : **filt**riert `fit-r.ir` ! `fit-r.irt`
