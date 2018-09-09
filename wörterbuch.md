@@ -127,16 +127,14 @@
   * **bau** `bau`
     * : **bau**er `bau-er` ! `bau.er`
 * *bayer*, *bayern* `b.ay`
-* **be**- `b`
-* behörde ← hör
-* bei `b.ei`
-  * : **da**bei `da.b.ei` ~ *da*bei `.a-b.ei` * d**a**bei `a-b.ei`
-  * <b>*bei*</b>- `.ei`
-  * -<b>*bei*</b> `.ei`
-    * : *herbei* `h.ei`
 
 ---
 
+* **be**- `b`
+* behörde ← hör
+* bei `b.ei`
+  * *da*bei `.a-b.ei` * `a-b.ei`
+  * *her*bei `h.b.ei` ~ `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
 * berg `b.eg` : `b.eg.e` `E-b.eg`
   * *baden würtemberg* `b.ad-Ü`
@@ -253,7 +251,7 @@
 * *d. h.* `d.h°`
 * da `d.a`
   * -**da**- `da`
-    * -*da*- `.a`
+    * -*da*- `.a-`
 * dach `d.ach`
   * däch `d.ech` : `d.ech-er`
 * dacht ← denk
