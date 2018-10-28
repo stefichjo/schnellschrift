@@ -261,7 +261,7 @@
   * (denn) `d.en`
 * ***dar*** `dar`
   * ***dar***- `dar`
-* d~~as~~ `d`
+* d~~as~~ `d`: `d.i°`
 
 ---
 
@@ -470,13 +470,13 @@
   * ird `.id` : `.id.i` `UNTER.id.i`
 * ernst `.enst` : `.enst-est` `.enst-ha` `.enst-ha.T` `.enst.L`
 * erst `.est` : `.est-es` `.est-s` `O-est` `Z-est`
-* e~~s~~ `.e`
+* e~~s~~ `.e` : `.e-i°`
 * ess `.ess`
   * aß `.ass`
   * *ge*gess `G-g.ess`
 * ess `.ess`
-  * × ~~ess~~ : `(I)t-er.ant` `(I)t-er.ent-en` `(I)t-er.ir` `(I)t-er.os.T` `UN-(I)t-er.ant`
-    * : *inter*~~ess~~e `(I)t-er.e` » `(I)t-er`
+  * *interess* `(I)t-er`: `(I)t-er.ant` `(I)t-er.ent-en` `(I)t-er.ir` `(I)t-er.os.T` `UN-(I)t-er.ant`
+    * : *interess*e `(I)t-er.e` » `(I)t-er`
 
 ---
 
@@ -1149,9 +1149,13 @@
       * : bei.**i**hnen `b.ei,i`
       * : um.**i**hnen `.um,i`
       * : *wir*.danken.**i**hnen `wr.d.ak,i`
-* ihr `.ir`
-  * : ihrer `.ir-er` (BSA)
-    * : X `.ir-er.s.Ts`
+
+---
+
+* ihr `.ir`: `.ir-er`
+
+---
+
 * *illustr* `.ill`
   * : *illustr*ier `.ill.ir`
   * : *illustr*at*ion* `.ill.iO`
@@ -2476,22 +2480,15 @@
 * **sehr** `s`
 * sei ← sein
 * seid `s.eid` : `s.eid.e`
-
----
-
-* s<b>*ein*</b> `(N)` E
+* ~~s~~ein `(N)`
   * **bin** `bi`
   * **bist** `bi`
-  * **i**st `i` V
-    * .*ist*. `i°`
-  * *sind* `(IN)` V `(I)`
-    * .*sind*. `-I`
-      * : *wir*.*sind* `wr-I`
-  * s<b>*ei*</b> `(.ei)` V
-    * : s<b>*ei*</b>d `(.eid)`
-
----
-
+  * **i**st `i`
+    * -*ist*- `i°` → das es
+  * *sind* `(I)`
+    * -*sind*- `-I` → wir
+  * ~~s~~ei `(.ei)`
+    * : ~~s~~eid `(.ei)-d`
   * ~~w~~ar `(.ar)`
     * : ~~w~~är `(.är)` : `(.är).e`
 
@@ -2925,6 +2922,7 @@
   * : *ge*~~wir~~kt `G,(w)` ! `G,(w)t`
   * : *ge*wusst `G-w.uss` ! `G-w.usst`
   * : ***gib***<i></i>t `.ib` ! `.ibt`
+  * : *interess*iert `(I)t-er.ir` ! `(I)t-er.irt`
   * : ~~n~~immt : `(.im)` ~ `.imt`
   * : ***triff***<i></i>t `.if` ! `.ift`
   * : um*ge*~~arb~~eitet `.um.T` ! `.um.ab.T` ! `.um.ab.T-et`
@@ -3331,22 +3329,19 @@
     * : ~~w~~**u**~~rd~~e `(U)` V
     * ~~w~~**ü**~~rd~~ `(Ü)` V
       * : ~~w~~**ü**~~rd~~e `(Ü)` V
-* werf `w.ef` (E)
-  * : werfer `w.ef-er`
-  * wirf `w.if` (E)
-  * warf `w.af` (E)
-  * worf `w.of` 
-  * wurf `w.uf` (E)
-    * -**wurf**- `wu`
-      * : *ent***wurf** `eNT.wu` * *ent*w**u**rf `eNT-u`
-      * : *ent***würf**e `eNT.wÜ.e` * *ent*w**ü**rfe `eNT-Ü.e`
-      * : *vor***wurf** `O-wu`
-      * : *vor***würf**e `O-wÜ.e`
-      * : *zer*<i></i>**würf**<i></i>***nis*** `zer.wÜ.is` * *zer*w**ü**rf<i></i>***nis*** `zer-Ü.is`
-  * würf `w.üf` (E)
 
 ---
 
+* werf `w.ef`: `w.ef-er` `eNT.w.ef` `aCH.w.ef` `E-w.ef.L`
+  * wirf `w.if`
+  * warf `w.af`
+  * worf `w.of`: `O-w.of`
+  * *wurf* `u` : `eNT-u`
+    * ! wurf `w.uf`
+    * * *vorwurf* `wu`: `O-wu`
+  * *würf* `Ü` : `eNT-Ü.e` `zer-Ü.is`
+    * ! würf `w.üf`
+    * * *vorwürf* `wÜ`: `O-wÜ.e`
 * werk `w.ek` : `b.eg.w.ek`
   * *handwerk* `ha.ek` : `ha.ek.ib` `ha.ek-er`
 
@@ -3410,7 +3405,7 @@
   * wann `w.an` : `G-w.an`
   * wonn `w.on` : `G-w.on`
 * winter `wit-er`
-* *wir* `wr`
+* *wir* `wr`: `wr-I`
   * d~~ass~~.*wir* `d.wr` ~ `DR` (3-stufiges R)
 * ~~wir~~k `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(w).L`
   * : ~~wir~~k*sam*<i></i>*keit* `(k)-Sa.T` ! `(k)-s.am.T`
