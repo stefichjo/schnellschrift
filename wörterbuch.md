@@ -3329,10 +3329,10 @@
   * worf `w.of`: `O-w.of`
   * *wurf* `u` : `eNT-u`
     * ! wurf `w.uf`
-    * * *vorwurf* `wu`: `O-wu`
+    * : * *vor*<i></i>*wurf* `O-u` * `O-:wu`
   * *würf* `Ü` : `eNT-Ü.e` `zer-Ü.is`
     * ! würf `w.üf`
-    * * *vorwürf* `wÜ`: `O-wÜ.e`
+    * : *vor*<i></i>*würf* `O-Ü.e` * `O-wÜ.e`
 * werk `w.ek` : `b.eg.w.ek`
   * *handwerk* `ha.ek` : `ha.ek.ib` `ha.ek-er`
 * wert `wet` : `.ab.wet`
