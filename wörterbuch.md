@@ -32,7 +32,7 @@
   * ! amt `.amt` : `.amt-ir`
   * × ~~amt~~ : `b.FT`
   * *ämter* `.ä` : `fi.ä`
-* an `.an` : `dar.an` `wo.an`
+* an `.an` : `.an-t-er` `dar.an` `wo.an`
 * and `.ad` : `.ad-er`
   * änd `.äd` : `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN-.ab.äd-er.L` `E-.äd-er` `E-.äd-er.L`
 * *ant*- `aNT`
@@ -79,7 +79,7 @@
 
 ---
 
-* *aus* `.S` V
+* *aus* `.S` : `.S-t-ig` `.S-ts`
   * **h*<b>*er*</b>aus* `h.S` ~ `er.S` ~ `er-s`
   * *vor*<i></i>*aus* `O-S`
   * auss `.auss`
@@ -581,20 +581,21 @@
     * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
     * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
     * : **p<b>*er*</b>fekt** `p.f` ! `p.fet` ! `p.f.ekt` (E)
-* fehl `f.el`
-  * : fehler `f.el.er`
-    * **fehl** `f` : `f-er`
-  * : **be**<i></i>fehl `b.f.el`
-  * : empfehl `.emp-f.el` * empf**e**hl `.emp`
-  * fiehl `f.il`
-    * : **be**<i></i>fiehl `b.f.il`
-    * : empfiehl `.emp-f.il` * empf**ie**hl `.emp-i`
-  * fahl `f.al`
-    * : **be**<i></i>fahl `b.f.al`
-    * : empfahl `.emp-f.al` * empf**a**hl `.emp-a`
-  * fohl `f.ol`
-    * : **be**<i></i>fohl `b.f.ol`
-    * : empfohl `.emp-f.ol` * empf**o**hl `.emp-o` × emp~~fohl~~ `.emp`
+
+---
+
+* fehl `f.el` : `b.f.el`
+  * : fehler `f.el-er` * `f-er`
+  * : empfehl `.emp-f.el` * `.emp`
+  * fiehl `f.il` : `b.f.il`
+    * : empfiehl `.emp-f.il` * `.emp-i`
+  * fahl `f.al` : `b.f.al`
+    * : empfahl `.emp-f.al` * `.emp-a`
+  * fohl `f.ol` : `b.f.ol`
+    * : empfohl `.emp-f.ol` × `.emp`
+
+---
+
 * feier `f.ei-er` : `f.ei-erd` `f.ei-ert.e` `f.ei-er.L` `j.ub.l:f.ei-er`
   * f<b>*eier*</b> `(ei-er)`
 
@@ -818,7 +819,7 @@
     * × ~~gab~~ : `AU.e` `AU.en.it` `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
 * gefahr ← fahr
-* *gegen* `g` : `b.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
+* *gegen* `g` : `g-t` `g-t-ig` `b.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
   * : *da*<i></i>*gegen* `.a-g` ! `da.g`
   * ~~geg~~end `(.ed)` : `.um.ed`
   * *gegn*er `g-er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
@@ -1661,10 +1662,10 @@
 * meid `m.eid`
 * ~~m~~ein `(N)` : `(N).UNG` `I (N)` STS `I .ö.L.N` `(I)bi.N` `ach.m.ei-er.N` `m.ein-er.N:ach` `wr-I.N`
 * ***mein*** `N` : `G-N` `G-N.H`
-  * : *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N).FT` `(N)-d.e.UNG`
-    * -*gemeinschaft* `N`
-  * *allgemein* ≠ allein `a-N` ~ `.a-G` : `.a-G.H` `.im.a-G`
-    * : *ver*<i></i>*allgemein*ern `E-a-G` ~ `E-al.G`
+  * *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG`
+    * -*gemeinschaft* `N` → arbeit
+  * : allgemein ≠ allein `.al.N` ~ `.al.G` : `E-al.G`
+    * *allgemein* `.a-G` : `.a-G.H` `.im.a-G`
 * **meist** `m.ei`
   * : **meist**er `m.ei-er`
 * meld `m.ed`
@@ -2291,6 +2292,7 @@
 * *rück* `rÜ` V ! `r.ük`
   * *zu***rück** `Z-rÜ`
     * *zurück* `u-rÜ`
+* … `rÜ-t-ig`
 	
 ---
 
@@ -3203,7 +3205,7 @@
 
 ---
 
-* *vor* `O`
+* *vor* `O` : `O-ts`
   * : *vor*<i></i>*ig* `O-.i` ~ `(g)`
 
 ---
@@ -3246,24 +3248,20 @@
 * wann `w.an` : `.i-w.an`
 * **war** `wa`
   * : **war**e `wa-e` ! `wa.e`
-* war ← sein
-* warn `w.an`
-* wart `wat` : `wat-et.e` `er.wat` `er.wat-Ol`
-  * ~ -~~war~~t : `g-t`
-  * wärt `wet` : `wet-er`
-    * ~ -~~wär~~ter `(-t-er)` : `.an-t-er`
-    * ~ -~~wär~~tig `(-t-ig)` : `.S-t-ig` `g-t-ig` `rÜ-t-ig`
-    * ~ -~~wär~~ts `(-ts)` : `.S-ts` `O-ts`
 
 ---
 
+* war ← sein
+* warn `w.an`
+* wart `wat` : `wat-et.e` `er.wat` `er.wat-Ol`
+  * -**wart** `-t` : `-t-er` `-t-ig` `-ts` → an aus gegen rück vor
+  * wärt `wet` : `wet-er`
 * ***was*** `was`
 * ***wass***<i></i>er `was-er`
 * wechsel ← wachs
 * **weg** `w` : `(.es)w` `m.N.w` `.U-t-w` `O-w`
   * ! weg `w.eg`
   * : *kein*es**we**~~g~~s `(K).w-s` ~ `k.w`
-
 
 ---
 
@@ -3359,17 +3357,9 @@
 * **wicht** `wi` : `wi.i` `wi.T` `bru-o,wi` `G,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
   * bösewicht `b.ös.e-w.icht` ~ `b.ös.e,wi`
-
----
-
-* **wick** `wi`
-  * : **wick**el `wi.l` ! `w.ik.l` (E)
-  * : *ent***wick**el `eNT,wi.l` * *ent*w**i**ckel `eNT-i`
-  * : *ver***wick**el `(E)wi.l`
-* wid<b>*m*</b> `(m)`
-
----
-
+* **wick** `wi` : `wi.el` `(E)wi.el`
+  * : *ent***wick**el `eNT,wi.el` * `eNT-i`
+* ~~wid~~m `(m)`
 * wie `w.i`
   * : *irgend*wie `.i-w.i` ~ `.i-I`
   * : *so*wie `(o)w.i` ~ `(o)I`
