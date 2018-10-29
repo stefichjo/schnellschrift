@@ -2777,23 +2777,14 @@
   * stoch `st.och`
   * steck `st.ek`
 * steck ← stech
-* **steh** `st` E
-
----
-
-  * *stand* `and` E
-    * : ein*ver*<i></i>*stand*en `N.E-and`
-      * : ein*ver*~~stand~~en `N.E`
-  * *ständ* `.end` E
-    * *selbst*<i></i>*ständ***ig** `-st-end.i` × *selbst*~~ständ~~**ig** `-st-ig` E
-    * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × *selbst*~~ver~~<i></i>~~ständ~~*lich* `-st-L` E
-  * stund `st.ud` (E)
-    * : stunde `st.ud.e` * st**u**nde `u.e`
-    * : stundung `st.ud-UNG` * `u-UNG`
-    * : stünd `st.üd` (E)
-    * : stündchen `st.üd.ch.en` ~ `stÜ.ch.en`
----
-
+* **steh** `st` : `b.st` `b.ei-st` `E-st` `UN-.S.st.L`
+  * *stand* `and` : `N.E-and` × `N.E`
+    * *ständ* `end` : `end.e`
+      * : *selbst*<i></i>*ständ*<i></i>*ig* `-st-end.i` × `-st-ig`
+      * : *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.i` × `-st-L`
+    * *stund* `u` : `u.e` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en`
+      * ~~f~~eier*stund*e `(ei-er),u.e` ! `fei-er,u.e`
+      * *stünd* `stÜ` : `stÜ.ch.en`
   * **stadt** `sta` : `GR,sta` `gr.sta`
     * **städt** `st` : `st.e` `st.i`
 
