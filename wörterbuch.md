@@ -2769,6 +2769,7 @@
   * : stärke `st.äk.e`
 * start `stat`
 * statt ← steh
+* staun `st.aun` : `st.aun,(-t)`
 * stech `st.ech`
   * : **be**stech*lich* `b.st.ech.L` ~ `b.st.L`
   * stich `st.ich`
@@ -2776,10 +2777,10 @@
   * stoch `st.och`
   * steck `st.ek`
 * steck ← stech
+* **steh** `st` E
 
 ---
 
-* **steh** `st` E
   * *stand* `and` E
     * : ein*ver*<i></i>*stand*en `N.E-and`
       * : ein*ver*~~stand~~en `N.E`
@@ -2845,6 +2846,7 @@
 * **straß** `stra` : `stra-e`
   * -~~straß~~- : `(.e)` `hau,(.e)` `m.ich,(.e)`
     * ***seit***<i></i>en~~straß~~e : `T,(.e)` ~ `s.T.en,(e)`
+* **streb** `str` : (er)str,(-t)`
 
 ---
 * ~~str~~eit `(T)`
@@ -3342,16 +3344,8 @@
     * * *vorwürf* `wÜ`: `O-wÜ.e`
 * werk `w.ek` : `b.eg.w.ek`
   * *handwerk* `ha.ek` : `ha.ek.ib` `ha.ek-er`
-
----
-
-* wert `wet` (E)
-  * abwert `.ab.wet`
-  * -wer<b>*t*</b> `(-t)`
-    * : <b>*er*</b><i></i>**streb**enswer<b>*t*</b> `(er)str,(-t)`
-
----
-
+* wert `wet` : `.ab.wet`
+  * -*wert* `(-t)` → staun streb
 * wes ← sein
 * wett `w.et`
 * **wicht** `wi` : `wi.i` `wi.T` `bru-o,wi` `G,wi` `schla,wi` `UN,wi.i`
