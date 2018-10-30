@@ -66,7 +66,7 @@
   * : *ärz* `.ez` : `.ezt.e` `.ezt-L` `.ezt.e-FT`
 * asi `.as.i` : `.as.i-en` `.as.at`
   * : asiat*isch* `.as.i` ! `.as.at.i`
-* astr `.a-str`
+* astr `.a-str` : `.a-str.om.I`
   * : astro<i></i>***log***<i></i>ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` : `.atl.i`
@@ -92,8 +92,13 @@
           * : **bis**.*zum*.*äußer*sten `(bi)z.äuss.-st-en` » `(bi)z.äuss.-st` BSA
         * : *ge*<i></i>*äußer*t `G-äuss` ! `G-äuss-t` BSA
         * : *ver*<i></i>*äußer* `E-äuss` (BSA)
-* aut `.aut` (E)
-  * : auto `.aut.o`
+
+---
+
+* aut `.aut` : `.aut.o` `.aut.om`
+
+---
+
 * **bahn** `ba` BSA
   * **bahn**te `ba-t.e` (BSA)
   * an**bahn** `.an.ba` (BSA)
@@ -810,6 +815,7 @@
 * garten `gat` : `ki.gat`
 * **ga**~~st~~ `ga`
   * **gä**~~st~~ `gä`
+* gastr `g.a-str` : `g.a-str.om`
 * *ge*- `G`
   * *unge*- `UN.G`
 * ge `g.e` : `g.e-m.etr.I` `g.e-m.etr.i`
@@ -1277,12 +1283,19 @@
   * **k**onn `k` V
     * *ge***k**onnt `G-k-t`
   * **könn** `kö` V
-* *kap* `aP` BSA
-  * : X `aP.ell.e` `aP.it.ell.e` `aP k.en.ed.y` `aP.l.an` `aP.z.ät` = `aP.ät`
-  * *kapit* `aP` BSA
-    * : X `aP.l 7` `aP.än` `aP.ul.ir`
-    * *kapital* `aP` BSA
-      * : X `aP.I.en` `aP.iS`
+
+---
+
+* *kap* `aP` : `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
+  * *kapaz* `aP` : `aP.ät`
+  * *kapit* `aP` : `aP.el 7` `aP.än` `aP.ul.ir`
+    * *kapit*al `aP.al` × `aP`
+      * : *kapit*alien `aP.al.I.en` × `aP.I.en`
+      * : *kapit*al*ismus* `aP.al.iS` × `aP.iS`
+    * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
+
+---
+
 * kart `k.at` (BSA)
   * : karte `kat.e` ! *kart*e `k.art.e` BSA ≠ akte `.akt.e`
   * : kartei `kat.ei` = `k.at.ei` (BSA) ~ `ka.ei`
@@ -1709,9 +1722,9 @@
 * metall `m.et.all` » `m.et` E
   * : metall**isch** `m.et.all.i` » `m.et.i` E
 * meth<b>*od*</b> `(.od)`
-* metr `m.etr`
+* metr `m.etr` : `m.etr.om`
   * : meter `m.etr`
-  * : geometrie `g.e-m.etr.I` (E)
+  * : geometrie `g.e-m.etr.I`
   * : **pa**rameter `pa.m.etr` ! `p.ar.a-m.etr`
   * : symmetrie `s.ym-m.etr.I` × sym~~metr~~ie `s.ym.I`
 
@@ -1911,17 +1924,12 @@
   * ***nuss*** `.uss` : `G-.uss`
     * ***nüss*** `.üss` : `G-.üss`
   * → nutz
+* *noch* `n-ch`
+* nom `n.om` : `n.om.iaL`
+  * -***nom*** `.om` → astr aut gastr metr ök
 
 ---
 
-* *noch* `n-ch` V
-* n<b>*om*</b> `(.om)` ! `n.om`
-  * : n<b>*om*</b>*inal* `(.om).iaL` ! `n.om.iaL`
-  * : astron<b>*om*</b>ie `.a-str.om.I`
-  * : auton<b>*om*</b> `.aut.om` BSA
-  * : gastron<b>*om*</b> `g.a-str.om`
-  * : metron<b>*om*</b> `m.etr.om`
-  * : ökon<b>*om*</b> `.ök.om`
 * nord `n.od`
   * **nord**- `n.o`
     * : **nord**~~rhein~~-~~west~~**fal**~~en~~ `n.o-fa`
@@ -1958,6 +1966,13 @@
 
 * *ohn* `.o°` V
   * *ohne* `.o°` V
+
+---
+
+* ök `.ök` : `.ök.om`
+
+---
+
 * opt `.opt`
   * : opt*ion* `.opt.iO`
   * : opt*ional* `.opt.iaL`
