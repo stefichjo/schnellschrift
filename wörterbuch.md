@@ -136,6 +136,7 @@
 ---
 
 * **be**- `b`
+* **behr** `b` : `UN-eNT.b.L`
 * behörde ← hör
 * bei `b.ei`
   * *da*bei `.a-b.ei` * `a-b.ei`
@@ -2140,7 +2141,8 @@
   * pragm `pr.agm`
     * : pragmat**isch** `pr.agm.i`
 * pr**eis** `(.eis)`
-* press `pr`
+* prim
+  * press `pr`
 
 ---
 
@@ -2194,6 +2196,8 @@
 
 * quant `quat` : `quat-en` `quat-um`
   * *quantit* `(.an)` : `(.an).ät` `(.an).iv`
+* **quell** `qu`
+  * **quoll** `quo`
 * rad `r.ad`
   * : **fa**~~hr~~rad `fa.r.ad` ~ `fa.ad`
   * *gerad* `-G-a` : `-G-a.e`
@@ -2836,7 +2840,7 @@
   * **statt** `sta` : `sta.ha` `sta.L` `er.sta`
     * *stätt* `.ät`
       * : ~~arb~~eits*stätt*e `(T)-s.ät.e` ~ `Ts.ät.e`
-    * : *gestatt* `-G-a` : `-G-a.sI-ir` `.I -G-a.ir` `wr -G-a.U`
+    * : *gestatt* `-G-a` : `-G-a.sI.ir` `.I -G-a.ir` `wr -G-a.U`
 
 ---
 
