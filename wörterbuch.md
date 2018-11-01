@@ -211,6 +211,7 @@
   * **brach** `bra`
     * **bräch** `br`
   * **broch** `bro`
+    * : *un*<i></i>*unter*<i></i>**broch**en `UN-UNTER.bro` × `UN-UNTER`
   * **bruch** `bru`
     * **brüch** `brü` ~ `brÜ`
       * *ver*<i></i>**trag**s**brüch**<i></i>*ig* `(E)tra.brÜ.i` * `(E)tra-Ü.i`
@@ -972,7 +973,7 @@
   * .h**a**b. `a`
     * : *ich*.h**a**b `.I-a`
     * : *wir*.h**a**b `wr-a`
-  * *hat* `ha` V
+  * **hat** `ha` V
   * *hast* `ha` V
   * *hatt* `t` V
     * ***hätt*** `.ät` V
@@ -1547,6 +1548,7 @@
 * leit `l.T`
   * : **schrift**leit*ung* `.ift,l.T-UNG` ~ `i,l.T-UNG`
 * lern `l.en`
+* letz `l.ez` : `E-l.ez` `E-l.ez°`
 * *letzt* `let`
 * ***leut*** `.eut` : `.eut.e` `fa.eut.e`
 * -*lich* `L`
@@ -1688,14 +1690,12 @@
 * **meist** `m.ei`
   * : **meist**er `m.ei-er`
 * meld `m.ed`
+* meng `m.eng`
+* *mensch* `MSCH` : `MSCH.L` `E-MSCH.L`
+  * *mensch*<i></i>*heit* `MSCH.H` * `MSCH°`
 
 ---
 
-* ***meng*** `eng` ! `m.eng`
-* *mensch* `NSCH`
-  * *mensch*<i></i>*heit* `NSCH*`
-  * *mensch*<i></i>*lich* `NSCH.L`
-  * *ver**mensch**lich*t `E-NSCH.L-t`
 * ment `met`
   * : mentalität `met-al.ät`
   * -ment `met` (E)
@@ -1706,7 +1706,7 @@
 
 * merk `m.ek`
   * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa`
-    * : *auf*merk*sam*<i></i>*keit* `AU.mek-Sa.T` × `AU.EIT`
+    * : *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.EIT`
   * : **be**merk `b.m.ek` * `b.m`
 * **mess** `ess` : `ess.e` `ess-er`
   * : -*messer* `(er)`
@@ -2442,6 +2442,7 @@
 * **schmack** : `schma` : `schma.ha` `G-schma` `G-schma.os.T`
   * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
 * schmeck ← schmack
+* **schmerz** `schm` : `schm.ha`
 * **schnell** `schn`
 * ~~schn~~eid `(.eid)` : `(.eid)-er`
   * ! (schneid) `schn.eid`
@@ -2592,7 +2593,14 @@
   * : **kon**<i></i>**serv**ier `ko-s.ir`
   * : **kon**<i></i>**serv**ativ `ko-s.iv`
   * serv `s.ew`
-* *sich* `CH` V
+
+---
+
+* *sich* `CH`
+  * : **hat**.*sich* `ha.CH` * `ha°`
+
+---
+
 * *sicher* `s.i-er` ! `s.ich-er` » `s.ich` E
   * : *sicher*er `s.i-er-er` ! `s.ich-er-er` ! `s.ich.er-er` (E)
   * : *ver*<i></i>*sicher* `E-s.i-er` * *ver*<i></i>*sicher* `E-i-er` » `E-i` E
@@ -2840,7 +2848,7 @@
   * **statt** `sta` : `sta.ha` `sta.L` `er.sta`
     * *stätt* `.ät`
       * : ~~arb~~eits*stätt*e `(T)-s.ät.e` ~ `Ts.ät.e`
-    * : *gestatt* `-G-a` : `-G-a.sI.ir` `.I -G-a.ir` `wr -G-a.U`
+    * : *gestatt* `-G-a` : `-G-a.sI-ir` `.I -G-a.ir` `wr -G-a.U`
 
 ---
 
