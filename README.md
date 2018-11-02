@@ -16,6 +16,7 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 ≠ allein
 @ä in "fänd"
 mater, toler
+haben diszipliniert diskutiert: adverb mit "t", partizip ohne "t"
 
 ## Kurzschreibung
 
@@ -262,7 +263,17 @@ Eine Verschattung einer Kurzform der Verkehrsschrift ist hingegen zumutbar. Eben
 * rad `r.ad`
   * *gerad*e `-G-a.e`
 
-Weicht die Kurzform eines abgeleiteten Wortes von der Kurzform des ursprünglichen Wortes ab, so gilt sie als Kürzel.
+Die Verwendung einer Kurzform der Verkehrsschrift in der Schnellschrift darf verschattet werden.
+
+* *miss*<i></i>*ion* `ms-o`
+  * **ko**<i></i>*miss*<i></i>*ion* `ko-ms-o`
+    * *komiss*<i></i>*ion* `ko-i.iO`
+
+Eine Kurzform sollte durch ein Kürzel verschattet werden, um eine falsche Lesung zu vermeiden.
+
+* ***mein*** `N`
+  * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
+    * ⇒ *allgemein* `.a-G`
 
 ### ...
 

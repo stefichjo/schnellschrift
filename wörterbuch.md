@@ -303,7 +303,7 @@
     * *gedank* `G-da` : `G-da.e` `G-da.os`
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
-* ~~d~~**er** `(er)` : `.S-er`
+* ~~d~~**er** `(er)` : `.S-er` `(I)-er`
 * ~~d~~es `(.es)`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
@@ -1680,10 +1680,13 @@
 * meid `m.eid`
 * ~~m~~ein `(N)` : `(N).UNG` `I (N)` STS `I .ö.L.N` `(I)bi.N` `ach.m.ei-er.N` `m.ein-er.N:ach` `wr-I.N`
 * ***mein*** `N` : `G-N` `G-N.H`
+  * : ***mein***en `N` * `(N)`
+  * : ***mein***<i></i>*ung* `N.UNG` * `(N).UNG`
+  * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
+    * ⇒ *allgemein* `.a-G` : `.a-G.H` `.im.a-G`
+      * : *ver*<i></i>*allgemein* `E-.a-G` ! `E-al.G`
   * *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG`
     * -*gemeinschaft* `N` → arbeit
-  * : allgemein ≠ allein `.al.N` ~ `.al.G` : `E-al.G`
-    * *allgemein* `.a-G` : `.a-G.H` `.im.a-G`
 * **meist** `m.ei`
   * : **meist**er `m.ei-er`
 * meld `m.ed`
@@ -1778,14 +1781,19 @@
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
   * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
     * *kompromitt* `k.om-p.it.ir` E
-  * *miss* `ms`
-    * : *miss*<i></i>*ion* `ms-o`
-    * : e*miss*<i></i>*ion* `.e-ms-o`
-    * : *kom*<i></i>*miss*ar `ko-ms.ar` * *kom*m**i**ssar `ko-i.ar`
-    * : *kom*<i></i>*miss*<i></i>*ion* `ko-ms-o` * *kom*m**i**ss*ion* `ko-i.iO` » `ko-i`
+
+---
+
+  * *miss* `ms` : `ms-o` `.e-ms-o`
+    * : *kom*<i></i>*miss*ar `ko-ms.ar` * `ko-i.ar`
+    * : *kom*<i></i>*miss*<i></i>*ion* `ko-ms-o` * `ko-i.iO` × `ko-i`
+
+---
+
     * : *kom*pr**o***miss* `kom.o-ms` : `kom`
       * ~ *kompromiss* `k.om-p.iss` BSA
     * : *trans*<i></i>*miss*<i></i>*ion* `tra.ms-o` » `tra.ms`
+
 * mob `m.ob`
   * : mobil `m.ob.il`
     * : automobil `.aut.m.ob.il` × auto~~mob~~il `.aut.il` BSA
@@ -2814,7 +2822,7 @@
   * *stand* `and` : `N.E-and` × `N.E`
     * *ständ* `end` : `end.e`
       * : *selbst*<i></i>*ständ*<i></i>*ig* `-st-end.i` × `-st-ig`
-      * : *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.i` × `-st-L`
+      * : *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
     * *stund* `u` : `u.e` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en`
       * ~~f~~eier*stund*e `(ei-er),u.e` ! `fei-er,u.e`
       * *stünd* `stÜ` : `stÜ.ch.en`
@@ -3526,13 +3534,13 @@
 * zi~~em~~ `z.i` : `z.i-L`
 * **zil** `.il` : `ko.il`
 * **zip** `.ip` : `ko.ip.ir`
+  * *prinzip* `(.ip)` : `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
+    * **prinz** `pri`
   * z~~ept~~ `z` : `r.z`
     * : **kon**z~~ept~~ `ko.z` ~ `ko-t`
     * : **re**<i></i>z~~ept~~*ion* `r.z*` ! `r.z.iO`
-    * *prinzip* `(.ip)` : `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
-      * **prinz** `pri`
-* z~~ipl~~ `z`
-  * *dis*~~ziplin~~ `ds`
+* zipl `z.ipl`
+  * *disziplin* `ds`
 * zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.iO` `z.ik.ir` `z.ik.us`
   * ~~bez~~irk `(.ik)`
     * ! **be**zirk `b.z.ik` ~ `b.ik`
