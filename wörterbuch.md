@@ -1709,7 +1709,7 @@
 
 * merk `m.ek`
   * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa`
-    * : *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.EIT`
+    * : *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
   * : **be**merk `b.m.ek` * `b.m`
 * **mess** `ess` : `ess.e` `ess-er`
   * : -*messer* `(er)`
@@ -1778,13 +1778,12 @@
       * : <b>*er*</b><i></i>*mittel* `er-t-el`
       * : nahr*ung*s*mittel* `n.ar-UNG,-t-el`
       * : *un*<i></i>*mittel*<i></i>***bar*** `UN-t-el.bar` × `UN-bar`
-* *mitt* `M`
-  * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
-  * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
-    * *kompromitt* `k.om-p.it.ir` E
 
 ---
 
+* *mitt* `M`
+  * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
+  * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
   * *miss* `ms` : `ms-o` `.e-ms-o`
     * : *kom*<i></i>*miss*ar `ko-ms.ar` * `ko-i.ar`
     * : *kom*<i></i>*miss*<i></i>*ion* `ko-ms-o` * `ko-i.iO` × `ko-i`
@@ -2992,7 +2991,8 @@
   * : *tag*.~~für~~.*tag* `tag.tag` STS
   * *täg* `teg` : `teg.L`
 * tang `t.ang` : `t.ang.ir` `t.ang.ent.e`
-  * takt `t.akt` : `ko.t.akt`
+  * takt `t.akt`
+    * **kon**takt: `ko.t.akt` * `ko.ta`
 * *tarif* `ta.if`
 * tat ← tun
 * **tausch** `tau` : `tau-t.e` `.S.tau` `.um.tau` `E.tau`
@@ -3017,7 +3017,7 @@
     * : archi**tekt**ur `.ach.t.UR` × `.ach.UR`
 * **teg** `t` : `(o)t.ir`
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
-* ~~t~~eil `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `ach.eil.e`
+* ~~t~~eil `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e`
 
 ---
 * **tele** `t` ! `t.el.e` (E)

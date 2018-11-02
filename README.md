@@ -265,6 +265,7 @@ Eine Verschattung einer Kurzform der Verkehrsschrift ist hingegen zumutbar. Eben
 
 Die Verwendung einer Kurzform der Verkehrsschrift in der Schnellschrift darf verschattet werden.
 
+* 
 * *miss*<i></i>*ion* `ms-o`
   * **ko**<i></i>*miss*<i></i>*ion* `ko-ms-o`
     * *komiss*<i></i>*ion* `ko-i.iO`
@@ -274,6 +275,10 @@ Eine Kurzform sollte durch ein Kürzel verschattet werden, um eine falsche Lesun
 * ***mein*** `N`
   * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
     * ⇒ *allgemein* `.a-G`
+
+Das Auslassen von Wortbestandteilen im Innern eines Wortes ist zulässig, solange keine Kurzformen verschattet wird.
+
+* *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
 
 ### ...
 
