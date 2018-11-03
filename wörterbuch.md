@@ -1,5 +1,7 @@
 # Wörterbuch
 
+## A
+
 * ab `.ab`
 * ~~ab~~end `(.ed)`
 * *aber* `ber` : `ber-au`
@@ -84,6 +86,9 @@
       * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G-äuss` `E-äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auss → aus
 * aut `.aut` : `.aut.o` `.aut.om`
+
+## B
+
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
   * : auto**bahn** `.aut.ba` ! `.aut.o-ba`
 * **bald** `ba` : `ba.i` `.as.ba` `(o)ba` `s.ba`
@@ -2906,54 +2911,9 @@ r.es.ez
 * super `s.upr`
 * ~~sym~~bol `(b.ol)` : `(b.ol).ir`
 * ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
-* -t
-  * : ab*ge*wartet `.ab.wat` ! `.ab.wat-et`
-  * : *aus*<i></i>*ge***sag**t `.S.sa` ! `.S.s.agt`
-  * : *be*<i></i>***gab***<i></i>t `b.ab` ! `b.abt`
-  * : *be*<i></i>***wuss***<i></i>t `b.uss` ! `b.usst`
-  * : **bild**et `bi` ! `bi.et`
-  * : *durch*<i></i>*ge*<i></i>*führ*t `dr-ü` ! `dr-ü-t`
-  * : ein*ge*<i></i>*führ*t `N-Ür` ! `N-Ürt`
-  * : *er*~~wir~~kt `er,(w)` ! `er,(w)t`
-  * : **filt**riert `fit-r.ir` ! `fit-r.irt`
-  * : gar~~ant~~iert `gar.ir` ! `gar.irt`
-  * : *ge*altert `G-at-er` ! `G-at-ert`
-  * : *ge*ändert `G-.äd-er` ! `G-.äd-ert`
-  * : *ge*ärgert `E-äg-er` ! `E-äg-ert`
-  * : *ge***bild**et `G,bi` ! `G,bi.et`
-  * : *ge***durf**t `G-du` ! `G-du-t`
-  * : *ge*erdet `G-ed` ! `G-ed.et`
-  * : *ge*feiert `G-f.ei-er` ! `G-f.ei-ert`
-  * : *ge*<i></i>*führ*t `G-Ür` ! `G-Ürt`
-  * : *ge*<i></i>***klär***<i></i>t `G-är` ! `G-ärt`
-    * : *un*<i></i>*ge*<i></i>***klär***<i></i>t `UN-G-är` ! `UN-G-ärt`
-  * : *ge***filt**ert `G,fit-er` ! `G,fit-ert`
-  * : *ge***hand**elt `G-ha.el` ! `G-ha.elt`
-  * : *ge***leist**et `G-l.ei` ! `G-l.ei-et`
-  * : *ge***lös**t `G-ös` ! `G-öst`
-  * : *ge*<i></i>***mein***<i></i>t `G-(N)` ! `G-(N)t`
-  * : *ge*<i></i>*rätsel*t `G-ts.el` ! `G-ts.elt`
-  * : *ge*<i></i>*sammel*t `G-Sa.el` ! `G-Sa.elt`
-  * : *ge*stürzt `G-st.üz` ! `G-st.üzt`
-  * : *ge*~~t~~eilt `G-eil` ! `G-eilt`
-  * : *ge*<i></i>**tracht**et `G-tra` ! `G-tra.et`
-  * : *ge*wartet `G-wat` ! `G-wat-et`
-  * : *ge*~~wir~~kt `G,(w)` ! `G,(w)t`
-  * : *ge*wusst `G-w.uss` ! `G-w.usst`
-  * : ***gib***<i></i>t `.ib` ! `.ibt`
-  * : *interess*iert `(I)t-er.ir` ! `(I)t-er.irt`
-  * : ~~n~~immt : `(.im)` ~ `.imt`
-  * : ***triff***<i></i>t `.if` ! `.ift`
-  * : um*ge*~~arb~~eitet `.um.T` ! `.um.ab.T` ! `.um.ab.T-et`
-  * : *ver*(alt)et `E-alt` ! `E-alt-et`
-  * : *ver*<i></i>**dächt**<i></i>*ig*t `E-d.i` ! `E-d.i-t`
-  * : *ver***härt**et `E-het` ! `E-het-et`
-  * : *ver*<i></i>*sammel*t `E-Sa` ! `E-Sa-t`
-  * : *ver***wöhn**t `E-wö` ! `E-wö-t`
-  * : *vor*<i></i>*aus*<i></i>*ge***sag**t `O-.S.sa` ! `O-.S.s.agt`
-  * : ~~wir~~kt `(k)` ! `(k)t`
-  * : *zu*<i></i>*samm*en*ge*~~arb~~eitet `Z-Sa.T` ! `Z-Sa.T-et`
-  * : *zu*<i></i>*samm*en*ge*~~wir~~kt `Z-Sa,(k)` ! `Z-Sa,(k)t`
+
+## T
+
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
   * tab~~ell~~e `t.ab.e` » `t.ab`
 * *tag* `tag` : `f.ei-er.tag` `do.tag` `f.T-tag`
