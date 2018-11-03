@@ -76,44 +76,17 @@
   * -*auch* → aber oder sondern
 * *auf* `AU`
   * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
-
----
-
-* *aus* `.S` : `.S-t-ig` `.S-ts`
-  * **h*<b>*er*</b>aus* `h.S` ~ `er.S` ~ `er-s`
-  * *vor*<i></i>*aus* `O-S`
+* *aus* `.S` : `.S-t-ig` `.S-ts` `O.-S`
+  * : **her**<i></i>*aus* `h.S` ~ `er.S` ~ `er-s`
   * auss `.auss`
-    * : *außen* `.auss` BSA
-    * : *außer* `.auss` BSA
-      * : *äußer* `.äuss` BSA
-        * : *äußer*<i></i>*lich* `.äuss.L` (BSA)
-        * : *äußer*st `äuss.-st` (BSA)
-          * : *auf*s.*äußer*ste `AU.äuss.-st.e` ~ `AU-s.äuss.-st` BSA
-          * : **bis**.*zum*.*äußer*sten `(bi)z.äuss.-st-en` » `(bi)z.äuss.-st` BSA
-        * : *ge*<i></i>*äußer*t `G-äuss` ! `G-äuss-t` BSA
-        * : *ver*<i></i>*äußer* `E-äuss` (BSA)
-
----
-
+    * : *außen* `.auss`
+    * : *außer* `.auss`
+      * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G-äuss` `E-äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
+* auss → aus
 * aut `.aut` : `.aut.o` `.aut.om`
-
----
-
-* **bahn** `ba` BSA
-  * **bahn**te `ba-t.e` (BSA)
-  * an**bahn** `.an.ba` (BSA)
-  * auto**bahn** `.aut.ba` ! `.aut.o-ba` BSA
-  * **bu**~~nd~~es**bahn** `bu:ba` (BSA)
-  * eis**bahn** `.eis.ba` (BSA)
-  * eisen**bahn** `.eis.en.ba` (BSA)
-* **bald** `ba` BSA
-  * : **bald***ig* `ba.i` (BSA)
-  * : als**bald** `.as.ba` (BSA)
-  * : <b>*so*</b>**bald** `(o)ba` (BSA)
-  * : **sehr**.**bald** `s.ba` (BSA)
-
----
-
+* **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
+  * : auto**bahn** `.aut.ba` ! `.aut.o-ba`
+* **bald** `ba` : `ba.i` `.as.ba` `(o)ba` `s.ba`
 * ball `b.all`
 * band ← bind
 * bank `b.ak` : `b.ak.en` `zr-a.b.ak`
@@ -156,6 +129,8 @@
   * : bibliograph `b.ibl.gra.I` ! `b.ibl.o-gra.I`
   * *bibliothek* `(t.ek)`
     * : *bibliothek*ar*isch* `(t.ek).ar.i` » `(t.ek).i`
+* bieg `b.ig`
+  * bog `b.og`
 * ***biet*** `.it` : `.it.ed` `G-.it` `.an.er.it` `AU.it` `fa.it` `r.UR.it` `Ü.it`
   * : *auf*.*dies*em.*ge*<i></i>***biet*** `AU.iS.it` * `AU-i.it`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G-ot` `.an.ot` `Ü.ot` `E-ot`
@@ -448,6 +423,14 @@
     * *keines*- `k` ← `k.fa-s`, `k.w-s`
   * mein `m.N` V
   * sein `s.N` V
+
+---
+
+* eis `.eis`
+* (eisen) ≠ eis `.eis.en`
+
+---
+
 * *elektr* `.el.ek` BSA ~ `.el` BSA
   * : *elektr***isch** `.el.i` (BSA)
   * : *elektr*isier `.el.ir` (BSA)
@@ -2334,7 +2317,7 @@
     * ~~säch~~ : `hau.L` `n.eb.L`
 * **sachs** `sa` : `sa.en`
     * : *nieder***sachs**en `ndr.sa.en` ~ `ndr-a`
-* **sag** `sa` : `G-sa` `.ab-sa` `.an.sa` `.S.sa` `b.sa` `eNT.sa.Ol` `.os.sa` `ach.sa` `UN.sa.bar` `UNTER.sa` `E-sa` `O-S.sa` `O-h.sa` `Z-sa`
+* **sag** `sa` : `G-sa` `.ab-sa` `.an.sa` `.S.sa` `b.sa` `eNT.sa.Ol` `.os.sa` `ach.sa` `UN.sa.bar` `UNTER.sa` `E-sa` `O-.S.sa` `O-h.sa` `Z-sa`
   * : **sag**en `sa` ! `s.ag`
   * : **sag**te `sa-t.e` ! `s.agt.e`
   * : an**sag**er `.an.sa-er` ! `.an.s.ag-er`
@@ -2527,7 +2510,7 @@
 ---
 
 * ***seit*** `T` : `T.e` `T-en` `T.L` `.ad-er.Ts` `b.T-ig` `.eid-er.Ts` `g.T-ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T-en`
-  * ***seit***<i></i>ens `T-s` `s.T-s`
+  * ***seit***<i></i>ens `T-s` `s.T-s`@
   * ***seit***<i></i>wärts `T-wets` ! `s.T-wets`
   * ***seit***<i></i>en<i></i>**lang** `T-ang` ! `s.T-ang`
   * bei<i></i>***seit***<i></i>e `b.ei-T.e` ! `b.ei-s.T.e`
@@ -2634,7 +2617,7 @@ r.es.ez
   * saß `s.ass`
   * **setz** `s` ! `s.ez` (E)
     * : *aus***setz** `.S-s` ~ `.S.s` E
-    * : *vor*<i></i>*aus***setz** `O-S-s`
+    * : *vor*<i></i>*aus***setz** `O-.S-s`
     * *gesetz* `-G` : `-G.e` `-G.L` `UN-G.L`
   * **satz** `sa` : `(o)sa`
     * ! `s.az`
@@ -2967,7 +2950,7 @@ r.es.ez
   * : *ver***härt**et `E-het` ! `E-het-et`
   * : *ver*<i></i>*sammel*t `E-Sa` ! `E-Sa-t`
   * : *ver***wöhn**t `E-wö` ! `E-wö-t`
-  * : *vor*<i></i>*aus*<i></i>*ge***sag**t `O-S.sa` ! `O-S.s.agt`
+  * : *vor*<i></i>*aus*<i></i>*ge***sag**t `O-.S.sa` ! `O-.S.s.agt`
   * : ~~wir~~kt `(k)` ! `(k)t`
   * : *zu*<i></i>*samm*en*ge*~~arb~~eitet `Z-Sa.T` ! `Z-Sa.T-et`
   * : *zu*<i></i>*samm*en*ge*~~wir~~kt `Z-Sa,(k)` ! `Z-Sa,(k)t`
@@ -3289,7 +3272,7 @@ r.es.ez
 * war ← sein
 * warn `w.an`
 * wart `wat` : `wat-et.e` `er.wat` `er.wat-Ol`
-  * -**wart** `-t` : `-t-er` `-t-ig` `-ts` → an aus gegen rück vor
+  * -**wart**, --**wärt** `-t` : `-t-er` `-t-ig` `-ts` → an aus gegen rück seit vor
   * wärt `wet` : `wet-er`
 * ***was*** `was`
 * ***wass***<i></i>er `was-er`
