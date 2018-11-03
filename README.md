@@ -3,6 +3,7 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
+@~~at~~iv
 @fassade
 @etymologie, computer, kont
 @turt spint

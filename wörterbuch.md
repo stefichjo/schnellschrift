@@ -1990,13 +1990,12 @@
   * : *außer*ordent*lich* `.auss.od.L` × `.auss.L`
   * : -*ordnung* `.o` : `G-N-d.e-o` ~ `(N)-d.e-o`
 * org `.org` : `.og.an` `.og.iO` `.og.ir` `.og.iS.en`
-  * organ*isc* `.og.i` ! `.og.an.i`
+  * organ*isc*h `.og.i` ! `.og.an.i`
+* *orient* `.or` : `.or.ir` `.or.ir-UNG`
+* *orig* `.og` : `.og.i-aL`
 
 ---
 
-* *orient* `.or`
-  * *orient*ier `.or.ir` E
-  * *orient*ier*ung* `.or.ir-UNG` E
 * ort `.ot` (E)
   * ört*lich* `.öt.L` (E)
   * <b>*er*</b>örter `er.öt-er` (E)
@@ -2567,8 +2566,8 @@
 
 * **sequ** `s`
   * ! sequ `s.equ`
-    * : sequenz `s.equ.ez` » `s.equ`
-  * : **kon**<i></i>**sequ**ent `ko-s.ent` » `ko-s` ! `ko.s`
+    * : sequenz `s.equ.ez` × `s.equ`
+  * : **kon**<i></i>**sequ**ent `ko-s.ent` × `ko-s` ! `ko.s`
   * : **kon**<i></i>**sequ**enz `ko-s.ez` ! `ko.s.ez`
 
 ---
@@ -2577,14 +2576,12 @@
   * : *in*serat `IN.s.at` (BSA)
   * : *in*serier `IN.s.ir` (BSA)
   * : X `IN.s.at.iO`
-* **serv** `s`
-  * : **kon**<i></i>**serv**e `ko-s`
-  * : **kon**<i></i>**serv**ier `ko-s.ir`
-  * : **kon**<i></i>**serv**ativ `ko-s.iv`
-  * serv `s.ew`
 
 ---
 
+* **serv** `s` : `ko-s.iv` `ko-s.ir`
+  * : **kon**<i></i>**serv**e `ko-s.e` × `ko-s`
+  * ! serv `s.ew` : `s.ew.ir`
 * *sich* `CH`
   * : **hat**.*sich* `ha.CH` * `ha°`
 
