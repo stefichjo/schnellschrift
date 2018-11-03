@@ -68,6 +68,19 @@ haben diszipliniert diskutiert: adverb mit "t", partizip ohne "t"
 * sehen `s.eh` = seh
 * oder `.od-er` = odr
 
+#### Partizipien
+
+Die Partizip-Endung "-t" wird in der Regel weggelassen. Sie wird nur geschrieben, wenn das Partizip als Adverb verwendet wird, oder wenn das Partizip über Aufstrich-t mit einem Hilfsverb verschmolzen wird.
+
+* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir`
+* *dis*<i></i>*kut*iert *wird* `ds-u.irt-wr`
+
+#### Adjektive
+
+Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgelassen.
+
+…
+
 ### Lateinische Suffixe und Endungen
 
 * *ion* `.iO` : *kommun*<i></i>*ion* `ko-u.iO`
@@ -262,10 +275,6 @@ Eine Verschattung einer Kurzform der Verkehrsschrift ist hingegen zumutbar. Eben
   * *mittel* `-t-el`
 * rad `r.ad`
   * *gerad*e `-G-a.e`
-
-Die Verwendung einer Kurzform der Verkehrsschrift in der Schnellschrift darf verschattet werden.
-
-* 
 * *miss*<i></i>*ion* `ms-o`
   * **ko**<i></i>*miss*<i></i>*ion* `ko-ms-o`
     * *komiss*<i></i>*ion* `ko-i.iO`
@@ -276,9 +285,16 @@ Eine Kurzform sollte durch ein Kürzel verschattet werden, um eine falsche Lesun
   * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
     * ⇒ *allgemein* `.a-G`
 
-Das Auslassen von Wortbestandteilen im Innern eines Wortes ist zulässig, solange keine Kurzformen verschattet wird.
+Das Auslassen von Wortbestandteilen im Innern eines Wortes ist zulässig, auch wenn dabei Kurzformen der Schnellschrift verschattet werden.
 
 * *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
+* *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
+
+
+Das Auslassen des Stamms — oder die Andeutung des Stammvokals — bei starken Verben ist zulässig, solange keine Kurzformen verschattet werden.
+
+* fehl `f.el`
+  * empfehl `.emp-f.el` * `.emp`
 
 ### ...
 
