@@ -583,6 +583,7 @@
 
 ---
 
+  * fit `f.it` : `(o)f.it`
 * fehl `f.el` : `b.f.el`
   * : fehler `f.el-er` * `f-er`
   * : empfehl `.emp-f.el` * `.emp`
@@ -659,6 +660,11 @@
 * ~~f~~**irm** `im` : `im.a` `im.en` `im.ir`
   * : ~~f~~**irm**ament `im-met` ! `f.im-met`
   * : **kon**~~f~~**irm**at*ion* `ko,im-o` ! `ko.f.im-o`
+* fit
+  * **fess** `f`
+    * : **kon**<i></i>**fess**<i></i>*ion* `ko.f-o` × `ko.f`
+    * : *pro*<i></i>**fess**<i></i>*ion* `(o)f-o` ! `(o)f.ess.iO`
+    * : *pro*<i></i>**fess**or `(o)f.or` × `(o)f`
 * **flach** `fla`
   * **fläch** `fl`
 * ***flieg*** `.ig`
@@ -837,7 +843,12 @@
   * golt `got` : `G-got`
   * gült `güt` : `güt-ig` `güt-ig.T` `UN,güt-ig` `.ed,güt-ig` `gl,güt-ig` `echt,güt-ig.T`
     * *allgemein*gültig `.a-G,güt-ig` * `.a-G-Ü`
-* gemein ← mein
+* *ge*<i></i>***mein*** `G-N` : `G-N.H`
+  * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
+    * ⇒ *allgemein* `.a-G` : `.a-G.H` `.im.a-G`
+      * : *ver*<i></i>*allgemein* `E-.a-G` ! `E-al.G`
+  * *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG`
+  * -*gemeinschaft* `N` → arbeit
 * *ge*<i></i>***nau*** `G-au`
 * gen `g.en` : `g.en.iaL`
 
@@ -1340,7 +1351,8 @@
     * : *zu***künft**<i></i>**ig** `Z-kÜ.i`
     * ! kunft `k.uft` (BSA)
       * : X `.S.k.uft` `Z-k.uft` `Z-Sa.k.uft` `k.üft-ig` `k.üft-ig.hn` `Z-k.üft-ig` `N.k.üft.e` `Z-Sa.k.üft.e`
-* **koll**oquium `ko.oqu.um` » `ko.oqu`
+* koll
+  * *protokoll* `pr.ot.ok`
 * *kommun* `ko-u` BSA
   * : *kommun*al `ko-u.al` (BSA)
   * : *kommun*<i></i>*ismus* `ko-u.iS` (BSA)
@@ -1580,6 +1592,8 @@
   * lokalisier `l.ok.al.ir` » `l.ok.ir`
   * lokalität `l.ok.al.ät` » `l.ok.ät`
   * lokativ `l.ok.iv`
+* loqu
+  * **koll**oquium `ko.oqu.um` × `ko.oqu`
 
 ---
 
@@ -1665,15 +1679,8 @@
     * : m~~ehr~~*heit* `mer.H` × `H`
   * : *nicht*.**mehr** `-t-mer` ~ `-t.m`
 * meid `m.eid`
-* ~~m~~ein `(N)` : `(N).UNG` `I (N)` STS `I .ö.L.N` `(I)bi.N` `ach.m.ei-er.N` `m.ein-er.N:ach` `wr-I.N`
-* ***mein*** `N` : `G-N` `G-N.H`
-  * : ***mein***en `N` * `(N)`
-  * : ***mein***<i></i>*ung* `N.UNG` * `(N).UNG`
-  * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
-    * ⇒ *allgemein* `.a-G` : `.a-G.H` `.im.a-G`
-      * : *ver*<i></i>*allgemein* `E-.a-G` ! `E-al.G`
-  * *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG`
-    * -*gemeinschaft* `N` → arbeit
+* ~~m~~ein `(N)` : `(N).UNG` `I .ö.L.N` `(I)bi.N` `ach.m.ei-er.N` `m.ein-er.N:ach` `wr-I.N`
+* mein → gemein
 * **meist** `m.ei`
   * : **meist**er `m.ei-er`
 * meld `m.ed`
@@ -2145,16 +2152,6 @@
 * ~~pr~~**o**- `o`
 * **prob** `.ob`
 * ~~prob~~lem `(l.em)` : `(l.em).ik`
-
----
-
-* pr**o**fessor `(o)f.ess.or` (E)
-  * : prof `(o)f` E
-* pr**o**fit `(o)f.it`
-* *protokoll* `pr.ot.ok` E
-
----
-
 * **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
 
 ---
@@ -3059,7 +3056,7 @@ r.es.ez
 * tit `t.it` : `t.it.UR` `t.it.ir-UNG`
   * : titel `t.it.el` » `t.it`
   * *titel*- `ti` : `ti,18`
-* *toler* `t.ol` : `t.ol.az` `t.ol.aNT` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
+* *toler* `t.ol` : `t.ol.aNT` `t.ol.az` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
 * ~~t~~o~~n~~ `(.o)` : `b,(.o)` `er b,(.o)-t.e` `er b,(.o).e`
   * : ~~t~~o~~n~~*los* `(.o)-l.o` ! `(.o)-l.os`
   * : de~~t~~o~~n~~ieren `d.e,(.o).ir` ~ `d.e-t.o`
