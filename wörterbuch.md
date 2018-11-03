@@ -764,7 +764,7 @@
 * fung `f.ung`
   * : fungier `f.ung.ir`
   * funkt `f.ukt` = `f.uk.t` BSA
-    * : X `f.uk.t.iO` `f.uk.t.iO-ir` `f.uk.t.iO-är`
+    * : X `f.uk.t.iO` `f.uk.t.iO-.ir` `f.uk.t.iO-.är`
     * **funkt** `fu`
       * : **funkt***ion* `fu-o`
       * : **funkt***ion*ier `fu-o.ir`
@@ -2182,7 +2182,7 @@
   * **riet** `ri` ! `r.iet`
 * **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.i-aL.ir` `ra.i-eL` `IN 4 ra.en`
   * : **rat**e `ra-e` ! `ra.e`
-  * : **rat***ion*ier `ra.iO-.ir` ~ `r.at.ir`
+  * : **rat***ion*ier `ra.iO-.ir` × `ra.ir`
 * rätsel ← rat
 * rauch `r.auch`
 * ***raum*** `.aum`
@@ -2655,7 +2655,8 @@ r.es.ez
 
 * *sonder* `S` : `S.bar` `S-au` `S.barst.e`
   * *besonder* `b°`
-    * **ganz**.*besonders* : `ga b°` ~ `ga-s`
+    * : **ganz**.*besonders* `ga b°` ~ `ga-s`
+    * : *in*s*besonder*e `(I)b°.e` ~ `(I)-s.e`
 * sonst ← so
 * ~~s~~onst `(.ost)`
 * *sorg* `S.o` `b.S.o` : `b.S.o-is` `UN-b.S.o` `E-S.o` `O-S.o` `O-S.o-L`
@@ -2952,6 +2953,7 @@ r.es.ez
 
 * **them** `t` : `t.a` 
   * : **them**at**isch** `t.i` ! `t.em.i`
+  * : **them**en `t.en` ! `t.em.en`
 * the `t.e` : `t.e-d.or` `t.e-d.ol.it`
   * : theologe `t.e-og.e` ! `t.e-l.og.e`
   * : theologie `t.e-og.I` ~ `t.e-l.o-I`
