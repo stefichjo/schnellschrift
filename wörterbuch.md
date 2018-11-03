@@ -80,11 +80,11 @@
   * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
 * *aus* `.S` : `.S-t-ig` `.S-ts` `O.-S`
   * : **her**<i></i>*aus* `h.S` ~ `er.S` ~ `er-s`
-  * auss `.auss`
+  * auß `.auss`
     * : *außen* `.auss`
     * : *außer* `.auss`
       * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G-äuss` `E-äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
-* auss → aus
+* auß → aus
 * aut `.aut` : `.aut.o` `.aut.om`
 
 ## B
