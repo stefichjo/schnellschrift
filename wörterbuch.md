@@ -249,20 +249,11 @@
 * ***dar*** `dar`
   * ***dar***- `dar`
 * d~~as~~ `d`: `d.i°`
-
----
-
-* **dat** `da`
-  * : **dat**en `da.en`
-  * : **dat**um `da.um`
-  * : **dat**ier `da.ir`
-  * : **dat**ei `da.ei`
-  * **dit** `di`
-    * : **kon**<i></i>**dit**<i></i>*ion* `ko,di-o`
-    * : **kon**<i></i>**dit**<i></i>*ional* `ko,di.iaL`
-
----
-
+* **dat** `da` : `da.ei` `da.en` `da.ir` `da.um`
+  * **dit** `di` : `ko,di-o` `ko,di.i-aL`
+    * : **tra**<i></i>**dit** `tra,di`
+      * : **tra**<i></i>**dit**<i></i>*ion* `tra,di-o` ~ `tr.ad-o`
+        * : **tra**<i></i>**dit**<i></i>*ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `G-dau` `AU.I.dau` `Z-m.ei-em:b.dau` `Z-U°.b.dau`
 
 ---
@@ -1173,14 +1164,14 @@
       * ! *inner* `.in` BSA
         * : X `er.in.L` `er.in-t.e` `.in.L` `.im.in`
   * im `.im`
-* -*inal* `.iaL`
-* -*inell* `.ieL`
+* -*inal* `.i-aL`
+* -*inell* `.i-eL`
 * *inter*- `(I)t-er` BSA
   * : X `(I)t-er.n.al` `(I)t-er.pt.iO` `(I)tr.ig.en`
   * *intell*- `IN.t`
 * -*ion* `.iO` V
-* -*ional* `.iaL`
-* -*ionell* `.ieL`
+* -*ional* `.i-aL`
+* -*ionell* `.i-eL`
 * *industr* `IN` BSA
   * : X `m.et.IN.u-I`
   * : *industr*<i></i>*iell* `IN.ieL` (BSA)
@@ -1405,8 +1396,8 @@
 * **kret** `kr` : `ds.kr.iO` `ko.kr` `ko.kr.ir`
 * ***kreuz*** `.euz`
 * **krieg** `kri` : `wet-kri`
-* **krim** `kri` : `kri.I` `kri.iaL` `kri.ieL`
-  * : **krim***inal*ität `kri.iaL.ät` × `kri.ät`
+* **krim** `kri` : `kri.I` `kri.i-aL` `kri.i-eL`
+  * : **krim***inal*ität `kri.i-aL.ät` × `kri.ät`
   * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
 
 ---
@@ -1807,7 +1798,7 @@
 
 ---
 
-* mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir`
+* mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir` `.e-m.ot.iO` `.e-m.ot.i-aL`
   * : motor `m.ot.or` » `m.ot`
 * **müh** `mÜ` : `b.mÜ.en`
 * *münchen* `mÜ.en`
@@ -1912,7 +1903,7 @@
     * ***nüss*** `.üss` : `G-.üss`
   * → nutz
 * *noch* `n-ch`
-* nom `n.om` : `n.om.iaL`
+* nom `n.om` : `n.om.i-aL`
   * -***nom*** `.om` → astr aut gastr metr ök
 
 ---
@@ -1962,7 +1953,7 @@
 
 * opt `.opt`
   * : opt*ion* `.opt.iO`
-  * : opt*ional* `.opt.iaL`
+  * : opt*ional* `.opt.i-aL`
   * : optier `.opt-ir`
   * *optim* `.op`
     * : *optim*al `.op.al` ~ `.opt-im-a`
@@ -2189,9 +2180,9 @@
   * *rät* `.ät` : `.ät.e` `o=ba.ät`
     * *rätsel* `ts.el` : `ts.el.ha`
   * **riet** `ri` ! `r.iet`
-* **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.iaL.ir` `ra.ieL` `IN 4 ra.en`
+* **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.i-aL.ir` `ra.i-eL` `IN 4 ra.en`
   * : **rat**e `ra-e` ! `ra.e`
-  * : **rat***ion*ier `ra.iO-ir` ~ `r.at.ir`
+  * : **rat***ion*ier `ra.iO-.ir` ~ `r.at.ir`
 * rätsel ← rat
 * rauch `r.auch`
 * ***raum*** `.aum`
@@ -2215,6 +2206,7 @@
     * : <b>*spiel*</b>**reg**el `.il.r.l` ~ `.il,(.el)`
     * : *in*.~~der~~.**reg**el `(I)r.el` × *in*.~~der~~.~~reg~~el `(I)el`
   * : **reg***ion* `r.iO` ! `r.eg.iO`
+    * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
   * **rekt** `r` ! `r.ekt`
     * : **rekt**or `r.or`
     * : di**rekt** `d.i-r`
@@ -2348,22 +2340,10 @@
     * **sach**<i></i>**be**~~schädigung~~ `sa.b`
 * **schaff** `scha`
   * : *die* **schaff***ung* `I scha*` = `I scha`
-
----
-
 * schaft `sch.aft`
-  * : **be**schäftig `b.sch.eft-ig`
-    * ~ *beschäftig* `b-t-ig` BSA
-      * *beschäftig*te `b-t-igt.e` (BSA)
-      * *beschäftig*ten `b-t-igt-en` (BSA)
-      * *beschäftig*ungslos `b-t-ig.l.os` (BSA)
-      * *die* neben*beschäftig*ung `I n.eb.b-t-ig` (BSA)
-  * : *ge*<i></i>*schäft* `G-FT` : `GT.e` = `GT.e` `GT.L` `GT-ch.en` `t.il.FT`
-    * *geschäft* `GT` BSA :
-  * -*schaft* `FT` V
-
----
-
+  * -*schaft* `FT`
+  * *beschäftig* `b-t-ig` : `b-t-igt.e` `b-t-igt-en` `b-t-ig.l.os` `I n.eb.b-t-ig`
+  * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en`
 * schalt `schat`
 * schatt `sch.at`
 * scha~~tz~~ `sch.a` : `scha,(er)` `scha.S.el`
@@ -2700,22 +2680,17 @@ r.es.ez
   * *sozial* `SS` : `SS-Ü.o`
 * **spann** `spa`
 * spaß `sp.ass`
+* **sp**ät `sp` : `sp.est.e`
+  * : **sp**äter `sp-er` ! `sp.et-er`
+  * : **sp**ätestens `sp.est-ens` × `sp.ens`
+* spend `sp.ed` : `sp.ed.e`
+* **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.ieL`
+  * : **spez**ifizier `sp.if.ir` ~ `sp.ez.ir`
+* ***spiel*** `.il` : `b.ei-il` `trau-er.il`
+  * : ***spiel***er `.il-er` ! `.il.er`
 
 ---
 
-* **sp**ät `sp`
-  * : **sp**äter `sp-er` ! `sp.et-er`
-  * : **sp**äteste `sp.est.e` 
-  * : **sp**ätestens `sp.est-ens` > `sp.ens`
-* **spez** `sp` E
-  * : **spez***ial* `sp.iaL` E
-  * : **spez***ial*isier `sp.iaL.ir` E
-  * : **spez***iell* `sp.ieL` E
-  * : **spez**ifizier `sp.if.ir` ~ `sp.ez.ir`
-* <b>*spiel*</b> `.il`
-  * : <b>*spiel*</b>er `.il-er`
-  * : bei<b>*spiel*</b> `b.ei-il`
-  * : **trau**er<b>*spiel*</b> `trau-er.il`
 * spir `sp.ir`
   * : spiral `sp.ir.al`
   * : **kon**spirat*ion* `ko.sp.ir.iO`
