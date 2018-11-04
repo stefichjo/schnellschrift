@@ -205,23 +205,11 @@
 
 ## C
 
-
----
-
-* charakter `ch.ar.akt-er`
-  * » *charakter* `ch.ar` BSA
-    * : *charakter*<i></i>*istisch* `ch.ar.iS.i` (BSA)
-    * : *charakter*<i></i>*voll* `ch.ar.Ol` (BSA)
-* chemie `ch.em.I` (BSA)
-  * : chemiker `ch.em.ik-er` (BSA)
-  * : chem*isch* `ch.em.i` (BSA)
-  * *chemikal* `ch.em.ik` BSA
-    * : *chemikal*ien `ch.em.ik.I.en` (BSA)
-  * **chem** `ch`
-    * : **chem**ie `ch.I`
-    * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
-
----
+* *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
+* **chem** `ch` : `ch.I` `ch.ik-er`
+  * : **chem**<i></i>*isch* `ch.i` ! `ch.em.i`
+  * : **chem**ikalien `ch.ik.al.I.en` ~ `ch.em.ik.I.en`
+  * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
 
 ## D
 

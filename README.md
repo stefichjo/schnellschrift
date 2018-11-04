@@ -89,6 +89,8 @@ Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgel
 * at*ion* = ~~at~~*ion* `.iO` : **kon**spirat*ion* = **kon**spir~~at~~*ion* `ko.sp.ir.iO`
 * it*ion* = ~~it~~*ion* `.iO` : *in***vest**it*ion* = *in***vest**~~it~~*ion* `IN.w-o`
 
+* ikal?
+
 * ikat*ion* = ~~ikat~~*ion* `.iO` : *kommun*ikat*ion* = *kommun*~~ikat~~*ion* `ko-u.iO` * `ko-u-o`
 * ifikat*ion* = if~~ikat~~*ion* `.if-o` : unifikat*ion* = unif~~ikat~~*ion* `un.if-o`
 
