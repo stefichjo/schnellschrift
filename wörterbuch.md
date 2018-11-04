@@ -99,20 +99,9 @@
 * bar `b.ar` : `b.ar.FT`
   * -***bar*** `bar`
 * **bas** `ba` : `ba.is`
-
----
-
-* bau `b.au`
-  * : bauer `b.au-er` (BSA)
-  * : bäuerin `b.äu-er.in` (BSA)
-  * : bäuer*lich* `b.äu-er.L` (BSA)
-  * : bauer*schaft* `b.au-er.FT` (BSA)
-  * **bau** `bau`
-    * : **bau**er `bau-er` ! `bau.er`
+* **bau** `bau` : `bau.er` `bäu.er.in` `b.au.er.FT`
+  * : **bäu**er*lich* `bäu.er.L` × `bäu.L`
 * *bayer*, *bayern* `b.ay`
-
----
-
 * **be**- `b`
 * **behr** `b` : `UN-eNT.b.L`
 * behörde ← hör
@@ -182,9 +171,8 @@
 * börs `b.ös` : `b.ös.e`
 * branch `br.asch` : `br.asch.e` `t.il:br.asch.e`
 * **brau** `brau`
-* **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `G-brau` `G-brau.eil` `ms.brau`
+* **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T``(E)brau.er` `G-brau` `G-brau.eil` `ms.brau`
   * : *ver***brauch** `(E)brau` * `E-au`
-  * : *ver***brauch**er `(E)brau-er` ! `(E)brau.er`
   * **bräuch** `bräu` : `G-bräu.L`
 * **brech** `br`
   * **brich** `bri`
@@ -2687,8 +2675,7 @@ r.es.ez
 * spend `sp.ed` : `sp.ed.e`
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.ieL`
   * : **spez**ifizier `sp.if.ir` ~ `sp.ez.ir`
-* ***spiel*** `.il` : `b.ei-il` `trau-er.il`
-  * : ***spiel***er `.il-er` ! `.il.er`
+* ***spiel*** `.il` : `.il.er` `b.ei-il` `trau.er.il`
 
 ---
 
