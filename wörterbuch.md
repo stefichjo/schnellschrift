@@ -196,18 +196,18 @@
 * *bühr* `Ür` : `G-Ür`
 * bunt `but` : `but-er` `but-est` `bu.H`
 * **bü**~~r~~ `bÜ` : `m.ak-er-Ü.o`
+* **burg** `bu` : `ho.bu`
+  * ! burg `b.ug` : `b.ug.en` `b.ug.id.e`
+  * **bürg** `bÜ` : `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E-bÜ`
+    * : *mit*<i></i>**bürg**er `M.bÜ-er` * `M-Ü-er`
+* ~~b~~us `(.us)` STS : `.aut.us`
+  * ! bus `b.us`
+
+## C
+
 
 ---
 
-* burg `b.ug` (BSA)
-  * : **bürg** `b.üg` (BSA)
-    * : **bürg**te `b.ügt.e` (BSA)
-    * X `E-b.üg` `b.üg-er` `b.üg-er.L` `b.üg.FT` `b.üg-er.FT` `N.b.üg-er` `m.b.üg-er` <b>*staat*</b>sbürger `.at.b.üg-er`
-  * : **hoch**burg `ho.b.ug` (BSA)
-  * ~ **burg** `bu`
-    * : **bürg**er `bÜ-er`
-* b<b>*us*</b> `(.us)` ! `b.us`
-  * : autob<b>*us*</b> `.aut.us` BSA
 * charakter `ch.ar.akt-er`
   * » *charakter* `ch.ar` BSA
     * : *charakter*<i></i>*istisch* `ch.ar.iS.i` (BSA)
@@ -700,7 +700,7 @@
   * : **frucht**<i></i>***bar*** `fru.bar`
 * **früh** `frÜ` BSA
   * X : `frÜ.er-er` `frÜ.est.es` `frÜ.est-s` `frÜ.l.ing`
-  * : **früh**er `frÜ-er` (BSA)
+  * : **früh**er `frÜ.er` (BSA)
   * .fr**ü**h. `Ü`
     * **heut**e.fr**ü**h `heu-Ü`
     * **morg**en.fr**ü**h `mo-Ü`
