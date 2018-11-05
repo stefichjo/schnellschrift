@@ -4,7 +4,7 @@
 
 * ab `.ab`
 * ~~ab~~end `(.ed)`
-* *aber* `ber` : `ber-au`
+* *aber* `ber` : `ber.ma-s` `ber-au`
 * acht `.acht` : `.acht-Sa`
   * -a~~cht~~- `.a`
     * : **be**a~~cht~~en `b.a` ! `b.acht`
@@ -216,6 +216,7 @@
 * *d. h.* `d.h°`
 * da `d.a`
   * -**da**- `da`
+    * : **da**<i></i>**mal**s `da.ma-s` ! `da°`
     * -*da*- `.a-`
 * dach `d.ach`
   * däch `d.ech` : `d.ech-er`
@@ -240,7 +241,7 @@
 * ~~de~~n `(n)` `(I)n`
   * : *mit*.~~de~~n `M.n` ~ `MN` P (3-stufiges M)
   * : **von**.~~de~~n `v.n` ~ `VN` P (3-stufiges N)
-* denk `d.ek`: `d.ek.ed` `d.ek-er` `UN-d.ek.bar` `ach.d.ek.L`
+* denk `d.ek`: `d.ek.ed` `d.ek-er` `d.ek.ma` `UN-d.ek.bar` `ach.d.ek.L`
   * **dacht** `da` : `E-da`
     * **dächt** `d` : `G-d.is` `E-d.i`
       * ! `d.ächt`
@@ -263,7 +264,7 @@
   * : **dien**<i></i>*lich* `di.L` ! `d.in.L` ≠ **dienst**<i></i>*lich*
   * **dienst** `di` : `di.L` `.in:di.L` `E,di`
     * : *außen*<i></i>**dienst**, *außer*.**dienst** `.auss,di`
-* *dies* `.iS` : `.iS.em` `.iS-er` `.iS-es`
+* *dies* `.iS` : `.iS.em` `.iS-er` `.iS-es` `.iS:ma`
     * : *aus*.*dies*em `.s.iS.em` * `.s-S` STS
 * dik `d.ik` : `IN.d.ik.iO`
   * diz `d.iz` : `IN.d.iz`
@@ -329,6 +330,7 @@
 * eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G-.eig.et` `UN-G-.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
 * ein `N` : `N.i` `N.i-t.e` `N-t.e` `E-N-Sa`
+  * : ein*heit* `N.H` × `H` : `UN-H.L`
   * : *irgend*ein `.i-N` ! `.ig.N`
   * : *ver*ein `E-N`
     * : *ver*ein***bar*** `E-N.bar` × `E-bar`
@@ -336,12 +338,9 @@
       * -*vereinigung* `ig`
     * -*verein* `N` → sport
   * **ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
+  * *einst* `.ei-st` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
 
 ---
-  * : *einst* `.eist` BSA
-    * : *einst*<i></i>*ig* `.eist-ig` (BSA)
-    * : *einst***mal**s `.eist-ma-s` (BSA)
-    * : *einst*weil `.eist-w.eil` (BSA)
   * *einzel* `N.el` BSA
     * : *einzel*<i></i>*heit*en `N.l.H.en` (BSA)
     * : *ver*<i></i>*einzel*t `E-N.lt` (BSA)
@@ -1156,7 +1155,7 @@
 
 * *japan* `j.ap` : `j.ap.i` `j.ap.er`
 * je `j.e` : `j.e-ma` `j.e-ma-s` `n.i-ma` `n.i-ma-s`
-* **jed** `j` : `j-er` `j.es`
+* **jed** `j` : `j-er` `j.es` `j.es.ma`
   * : **jed**e `j.e` ! `j.ed.e`
 * jen `j.en`
   * *jenige*, *jenigem*, *jenigen* `j` : `(m):j` `(er):j`
@@ -1533,16 +1532,16 @@
 * **mak** `ma` : `ma.el`
   * : **mak**ulatur `ma.UR` ! `m.ak.UR`
 * makel ← mach
-* **mal** `ma` : `ber.ma-s` `.iS:ma` `j.e-ma-s` `j.es.ma` `mer.ma-s` `n.i-ma-s` `n-ch:ma-s` `Z-ma`
-  * : **da**<i></i>**mal**s `da.ma-s` ! `da*`
-  * : *manch*<i></i>**mal** `aCH.ma` ! `aCH.m.al`
-  * ! `m.al`
+* mal `m.al`
+  * -*mal* `ma` → denk jed manch
+  * -*mals* `mas` → aber je mehr nie noch
 * **man** `ma`
   * -**mand** `ma`
 * **man** `ma` : `ma.ell`
   * : p~~er~~**man***ent* `p.ma.eNT` ~ `p.m.an.eNT`
-* *manch* `aCH` `aCH.l.ei`
+* *manch* `aCH` `aCH.l.ei` `.aCH.es.ma`
   * : *manch*er `aCH-er` ! `aCH.er`
+  * : *manch*<i></i>**mal** `aCH.ma` ! `aCH.m.al`
 
 ---
 
@@ -1586,7 +1585,7 @@
 ---
 
 * mech `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
-* **mehr** `mer`
+* **mehr** `mer` STS : `mer.ma-s`
   * ~ m~~ehr~~ `m` : `m.H` `E-m-UNG` `(.er)m` `nu:m`
     * : m~~ehr~~er `mer-er` ~ `MR`
     * : m~~ehr~~*heit* `mer.H` × `H`
@@ -1825,10 +1824,11 @@
 * *nicht* `-t` V
   * : **gar**.*nicht* `ga-t`
 * -***nis*** `.is` E
-* *nieder*, *niedr* `ndr` V
 
 ---
 
+* nie `n.i` : `n.i-ma-s`
+* *nieder*, *niedr* `ndr`
 * ***nieß*** `.iss` : `G-.iss` `nu:iss.er`
   * ***noss*** `.oss` : `G-.oss`
     * : *ge*<i></i>***noss***en*schaft* `G-.oss.FT` * `(O).FT`
@@ -1836,7 +1836,7 @@
   * ***nuss*** `.uss` : `G-.uss`
     * ***nüss*** `.üss` : `G-.üss`
   * → nutz
-* *noch* `n-ch`
+* *noch* `n-ch` : `n-ch:ma-s`
 * nom `n.om` : `n.om.i-aL`
   * -***nom*** `.om` → astr aut gastr metr ök
 
@@ -3397,7 +3397,7 @@ r.es.ez
     * ! `b.z.ik` ~ `b.ik`
 * ~~ziv~~il `(.il)`
 * zog ← zieh
-* *zu* `Z` : `(.e)Z`
+* *zu* `Z` : `(.e)Z` `Z-ma`
   * *da*<i></i>*zu* `.a-Z` * `a-Z`
   * z~~um~~ `z`
   * *zur* `zr*`
