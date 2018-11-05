@@ -330,6 +330,13 @@
 * eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G-.eig.et` `UN-G-.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
 * ein `N` : `N.i` `N.i-t.e` `N-t.e` `E-N-Sa`
+  * -ein `N` : `d.N` `m.N` `s.N`
+    * : kein `k.N` * `(K)` → fall weg
+    * -**ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
+      * : d**ein**- `d.ei`
+      * : k**ein**- `k.ei`
+      * : m**ein**- `m.ei`
+      * : s**ein**- `s.ei`
   * : ein*heit* `N.H` × `H` : `UN-H.L`
   * : *irgend*ein `.i-N` ! `.ig.N`
   * : *ver*ein `E-N`
@@ -337,28 +344,9 @@
     * : *ver*ein**ig** `E-N.i` × `E-.ig`
       * -*vereinigung* `ig`
     * -*verein* `N` → sport
-  * **ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
   * *einst* `.ei-st` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
-
----
-  * *einzel* `N.el` BSA
-    * : *einzel*<i></i>*heit*en `N.l.H.en` (BSA)
-    * : *ver*<i></i>*einzel*t `E-N.lt` (BSA)
-    * : *ver**einzel**ung* `E-N.l-UNG` (BSA)
-    * **einzel**- `.ei` ← `.ei-ha`
-    * *einzeln* `N.el` BSA
-      * : *einzeln*e `N.l.e` (BSA)
-      * : im.*einzeln*en `.im.N.l.en` » `.im.N.l` BSA
+  * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E-N.el` `.im.N.el`
   * ~~ein~~z**ig** `(z.i)`
-  * dein `d.N` V
-  * *kein* `(K)`
-    * *keinen*- `k` ← `AU.k.fa`
-    * *keines*- `k` ← `k.fa-s`, `k.w-s`
-  * mein `m.N` V
-  * sein `s.N` V
-
----
-
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
 
@@ -442,7 +430,9 @@
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu`
   * : **fuhr**e `fu-e` ! `fu.e`
 * **fall** `fa` : `fa.ed` `fa-s` `G-fa` `.al.fa-s` `.S.fa` `b.ei-fa` `G-g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z-fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `(I).iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
-  * eben**fall**s `.eb.fa-s` ~ `.e-fa-s`
+  * : eben**fall**s `.eb.fa-s` * `.e-fa-s`
+  * : keinesfalls `(K):fa-s` ~ `k.fa-s`
+  * : *auf*.keinen.fall `AU.K.fa` ~ `AU.k.fa`
   * **fäll** `f` : `f.e` `f.i` `f.T` `G-f.i` `G-f.T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G-f.i` `UN-G-f.T` `Z-f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
   * **fiel** `fi` STS
     * ! `f.il` : `AU.f.il`
@@ -885,7 +875,7 @@
   * *hatt* `t` V
     * ***hätt*** `.ät` V
   * **haft** `ha` : `ha,i`
-    * : **einzel**<i></i>**haft** `.ei-ha`
+    * : *einzel*<i></i>**haft** `N.el.ha` ~ `.ei-ha`
     * -**haft** `ha` V
 * hab `h.ab`
   * : habilitier `h.ab.ir` ! `h.ab.il.ir`
@@ -3149,7 +3139,7 @@ r.es.ez
 * wechsel ← wachs
 * **weg** `w` : `(.es)w` `m.N.w` `.U-t-w` `O-w`
   * ! `w.eg`
-  * : *kein*es**we**~~g~~s `(K).w-s` ~ `k.w`
+  * : *kein*es**weg**s `(K).w-s` ~ `k.ws` × `k.w`
 
 ---
 
