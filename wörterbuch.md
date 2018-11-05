@@ -353,6 +353,9 @@
 * *elektr* `.el` : `.el.i` `.el.ir` `.el.if.ir` `.el.ät` `.el.od.e` `.el.on.i`
 * eltern ← alt
 * eltern `.et-ern` : `.et-ern.os` `.et-ern.FT` `O-et-ern`
+* em
+  * emp
+    * *exemp*, *exempl* `.ex` : `.ex.el` `.ex.ar` `.ex.ar.i`
 * end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
@@ -377,8 +380,7 @@
   * : **et**<i></i>**was** `.e-was` ! `.e-w.as` * `(.a)s`
 * *europa*, *europä* `.eu-p` : `.eu-p-er` `.eu-p.i`
 * **ex**- `.e`
-* exemp ← emp ← em
-* *exemp*, *exempl* `.ex` : `.ex.el` `.ex.ar` `.ex.ar.i`
+* exemp ← em
 
 ## F
 
@@ -441,29 +443,19 @@
 * fassade `f.ass.ade`
 * fasson `f.ass.ong`
 * *fast* `Fa`
-
----
-
 * fat
   * **f**ess `f`
-    * **kon**<i></i>**f**ess*ion* `ko.f-o` » `ko.f`
-* faz
-  * *fakt* `fat`
-    * : *fakt*ura `fat.UR.a`
-  * **f**iz `f`
-    * : bene**f**iz `b.en.e-f`
-    * : de**f**izit `d.e-f.it` × de~~fiz~~it `d.e-it`
-    * : e**f**izi*ent* `.e-f.iz.eNT`
-    * : of**f**iz*iell* `.of-f.ieL` E
-  * **fekt** `f`
-    * : ef**fekt** `.e-f`
-    * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
-    * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
-    * : **p<b>*er*</b>fekt** `p.f` ! `p.fet` ! `p.f.ekt` (E)
-
----
-
-  * fit `f.it` : `(o)f.it`
+    * **kon**<i></i>**f**ess*ion* `ko.f-o` × `ko.f`
+* **faz** `fa` : `fa.it`
+  * **f**iz `f` : `b.en.e-f` `.o-f.ieL`
+    * : de**f**izit `d.e-f.it` × `d.e-it`
+    * : e**f**izi*ent* `.e-f.eNT` ! `.e-f.iz.eNT`
+  * *fakt* `fat` : `fat-UR.a`
+    * **fekt** `f` : `.a-f` `.e-f` `.e-f-Ol`
+      * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
+      * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
+      * : **per**<i></i>**fekt** `p.f` ~ `p.fet`
+      * fit `f.it` : `(o)f.it`
 * fehl `f.el` : `b.f.el`
   * : fehler `f.el-er` * `f-er`
   * : empfehl `.emp-f.el` * `.emp`
@@ -494,6 +486,7 @@
     * : X `fet-ig.T` `I fet-ig` `.an.fet-ig` `.S.fet-ig` `UN-fet-ig`
     * *fertig* `-t-ig`
       * : *fertig*<i></i>***keit*** `-t-ig.T`
+* fess ← fat
 * *fest* `f°`
 * feuer `f.eu-er` (BSA)
   * : X `f.eu-ert.e` `.an.f.eu-er` `G-f.eu-ert`
@@ -662,6 +655,9 @@
 ---
 
 * **fuß** `fu` : `ha.fu`
+
+## G
+
 * gang ← geh
 * **ganz** `ga` : `ga.H`
   * **gänz** `g` : `g.L`
@@ -1916,10 +1912,10 @@
   * ***pass*** `pass`
     * : ***pass***<i></i>*ion* `pass.O`
 * pension `p.eS.iO` (E)
-* **p**er- `p` E
 
 ---
 
+* **per**- `p`
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
 * **pfleg** `pfl`
   * **pflog** `pflo`
