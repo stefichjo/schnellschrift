@@ -258,41 +258,18 @@
 * *die* `I` V
   * d~~ass~~.*die* `d.I` ! `d I` ≠ d~~ass~~.*ich*
   * *für*.*die* `f.I` ~ `fI`
-
----
-
-* **dien** `di` BSA
-  * X `di.ed` `di-t.e` `di.bar.T`
-  * : **dien**er `di-er` ! `di.er` BSA
-  * : **dien**<i></i>*lich* `di.L` ! `d.in.L` BSA ≠ **dienst**<i></i>*lich*
-  * : **be**<i></i>**dien** `b,di` BSA
-  * : *ver*<i></i>**dien** `E,di` (BSA) : `b,di.et`
-  * : zweck**dien**<i></i>*lich* `zw.ek,di.L` (BSA)
-  * **dienst** `di` BSA
-    * : *außen*<i></i>**dienst** `.auss,di`
-    * : **dienst**<i></i>*lich* `di.L` (BSA)
-    * : *inner*<i></i>**dienst**<i></i>*lich* `.i:di.L` ! `.in:di.L`
-    * : *ver*<i></i>**dienst** `E,di` (BSA)
-    * : *außer*.**dienst** `.auss,di`
-* *dies* `.iS` V
-  * *dies*em `.iS.em`
-    * : *aus*.*dies*em `.s.iS.em` ~ `.s-S` S
-  * *dies*er `.iS-er`
-  * *dies*es `.iS-es`
+* **dien** `di` : `di.ed` `di-t.e` `di.bar.T` `b.e,di` `E,di`
+  * : **dien**er `di-er` ! `di.er`
+  * : **dien**<i></i>*lich* `di.L` ! `d.in.L` ≠ **dienst**<i></i>*lich*
+  * **dienst** `di` : `di.L` `.in:di.L` `E,di`
+    * : *außen*<i></i>**dienst**, *außer*.**dienst** `.auss,di`
+* *dies* `.iS` : `.iS.em` `.iS-er` `.iS-es`
+    * : *aus*.*dies*em `.s.iS.em` * `.s-S` STS
 * dik `d.ik` : `IN.d.ik.iO`
-  * *dikt* `di` ! `d.ik` BSA
-    * : *dikt*at `di.at` ! `d.ik.at` (BSA)
-    * : *dikt*ator `di.or` ! `di.at.or` ! `d.ik.at.or` (BSA)
-    * : *dikt*atur `di-UR` ! `d.ik.at.UR` (BSA)
-    * : *dikt*ier `di.ir` ! `d.ik.ir` (BSA)
-    * : *dikt*<i></i>*ion* `di-o` ! `d.ikt-iO`
-  * diz `d.iz`
-    * : *in*diz `IN.d.iz`
-  * <b>*dex*</b> `ex`
-    * : *in*<b>*dex*</b> `IN.ex`
-
----
-
+  * diz `d.iz` : `IN.d.iz`
+  * ***dex*** `ex` : `IN.ex`
+  * **dikt* `di` : `di.at` `di.at.or` `di.at.or.i` `di-UR` `di.ir` `di.ir.ät`
+    * : **dikt**<i></i>*ion* `di-o` ! `d.ikt-iO` ≠ **dit**<i></i>*ion*
 * **ding** `.ing`
   * : **be**<i></i>**ding** `b.ing` ~ `(ng)`
     * : *un***be**<i></i>**ding**<i></i>t `UN-b.ing` ~ `UN-t`
@@ -3440,5 +3417,5 @@ r.es.ez
 * zünd `z.üd` : `IN.it.iaL,z.üd-UNG`
 * ~~zw~~eig `(.eig)`
 * **zweck** `zw` : `Z-.iS:zw`
-  * ! `zw.ek`
+  * ! `zw.ek` : `zw.ek,di.L`
 * zw~~ischen~~ `zw` : `(I)zw`
