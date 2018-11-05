@@ -1415,23 +1415,16 @@
     * : *ver***leg**er `E-l-er` ! `E-l.eg-er`
     * ~~leg~~ : `.an.H` `G-H`
       * : *aus*wertige an*ge*<i></i>**leg**en*heit*en `.S.wet-ig.e .an.H.en` ~ `.S.H.en`
-
----
-
-* lier `l.ir`
-  * : *ver*lier `E-l.ir` ~ `(E)li`
-  * lor `l.or`
-    * : *ver*lor `E-l.or`
-  * lust `l.ust`
-    * : *ver*lust `E-l.ust` ~ `(E)lu`
-* -<b>*ling*</b> `.ing`
-  * : **früh**<b>*ling*</b> `frÜ.ing`
-* *lini* `(IN)` ! `l.in` E
-  * : *lini*e `(IN).e` ! `l.in` E
-  * : *in*.erster.*lini*e `(I).est-IN.e` × *in*.~~erster~~.*lini*e `(I)IN.e`
-
----
-
+* **lier** `li`
+  * : *ver*<i></i>**lier** `E,li` ~ `(E)li`
+  * **lor** `lo`
+    * : *ver*<i></i>**lor** `E-lo` ! `E-l.or`
+  * **lust** `lu`
+    * : *ver*<i></i>**lust** `E,lu` ~ `(E)lu`
+* -***ling*** `.ing` : `frÜ.ing`
+* ~~lin~~i `(.I)`
+  * : ~~lin~~ie `(.I).e` ~ `l.in`
+    * : *in*.erster.*lini*e `IN.est-I.e` × `IN.I.e`
 * list `l.ist` : `l.ist-ig`
   * : listen~~r~~eich `l.ist-eich` ~ `l.i-en.eich`
 * li~~st~~ `l.i` : `l.i-e` `l.i-en` `r.ang.l.i`
