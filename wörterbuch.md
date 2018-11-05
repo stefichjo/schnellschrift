@@ -316,6 +316,8 @@
   * **darf** `da` : `b.da`
   * **durf** `du` : `du-t.e` 
 * *düsseldorf* `dÜ.o`
+* dutz `d.uz`
+  * : dutzend `d.uz.ed` × `d.uz`
 
 ## E
 
@@ -350,17 +352,14 @@
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
 * *elektr* `.el` : `.el.i` `.el.ir` `.el.if.ir` `.el.ät` `.el.od.e` `.el.on.i`
+* eltern ← alt
+* eltern `.et-ern` : `.et-ern.os` `.et-ern.FT` `O-et-ern`
 
 ---
 
-* eltern `.et-ern` (BSA)
-  * : X `.et-ern.l.os` `.et-ern.FT` `O-et-ern`
-* end `.ed` (BSA)
-  * : X `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
-* -end `.ed` (BSA)
-  * : : X `d.uz.ed` `j.ug.ed` `l.eb.ed` `(w).ed` `Z-n.em.ed`
-  * : -nd `.d` (BSA)
-    * : X `F.d`
+* end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
+* -end `.ed` → dutz jug
+  * : -nd `.d` → forder
 * energ `.en.eg` (BSA)
   * : energie `.en.eg.I` (BSA)
   * : energ*isch* `.en.eg.i` (BSA)
@@ -599,7 +598,7 @@
     * × ~~folg~~ : `er`
       * : *er*~~folg~~<i></i>~~r~~eich `er.eich` ~ `er,r.ei`
   * : *in***folg** `IN.fo` ~ `IN.o`
-* *forder* `F` : `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
+* *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er*<i></i>*forder*<i></i>*lich* `er.F.L` ~ `er.o-L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `er Fö-e` `I Fö` `I b.Fö.en`
 * *fort* `fr`
@@ -1150,12 +1149,15 @@
 * j~~iz~~ `j` : `(o)j.ir`
   * j~~ekt~~ `j` : `(IN)j.iO` `(o)j` `(o)j.iO`
     * : ~~pr~~**o**<i></i>j~~ekt~~il `(o)j.il` ~ `(o)jet-il`
+* ***jug*** `.ug`
+  * ! `j.ug`
+    * : jugend `j.ug.ed` × `j.ug`
+  * : ***jug***end `.ug.ed` × `.ug` : `.ug.L`
+    * ***jug***~~end~~*lich*<i></i>*keit* `.ug.T` ! `.ug.L.T` ≠ ***jug***~~end~~*lich*<i></i>***zeit***
+  * : **bu**~~nd~~es*jugend*<i></i>*plan* `bu.ug.ed.an` » `bu.ug.an`
 * jug `j.ug` : `(ko)j.ug.iO`
   * junkt `j.ukt` : `(ko)j.ukt-iO`
       * **kon**junktur `(ko)j.ukt-UR` * `ko,u-UR` * `o-u-UR`
-* *jugend* `.ug` : `.ug.L` `.ug.L.T`
-  * : **bu**~~nd~~es*jugend*<i></i>*plan* `bu.ug.ed.an` » `bu.ug.an`
-  * ! `j.ug`
 * jur `j.UR` : `j.UR.iS.i`
 * just `j.u-st` : `j.u-st.ir` `j.u-st.ir-er`
   * *justiz* `j.us` : `j.us.er` `j.us.um` `j.us.om` `j.us.UNG`
