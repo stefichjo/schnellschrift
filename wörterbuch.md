@@ -349,16 +349,10 @@
   * ~~ein~~z**ig** `(z.i)`
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
+* *elektr* `.el` : `.el.i` `.el.ir` `.el.if.ir` `.el.ät` `.el.od.e` `.el.on.i`
 
 ---
 
-* *elektr* `.el.ek` BSA ~ `.el` BSA
-  * : *elektr***isch** `.el.i` (BSA)
-  * : *elektr*isier `.el.ir` (BSA)
-  * : *elektr*ifizier `.el.if.ir` (BSA)
-  * : *elektr*izität `.el.ät` (BSA)
-  * : *elektr*ode `.el.od.e` (BSA)
-  * : *elektr*on**isch** `.el.on.i` (BSA)
 * eltern `.et-ern` (BSA)
   * : X `.et-ern.l.os` `.et-ern.FT` `O-et-ern`
 * end `.ed` (BSA)
@@ -1185,8 +1179,7 @@
 
 ---
 
-* *kap* `aP` : `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
-  * *kapaz* `aP` : `aP.ät`
+* *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
   * *kapit* `aP` : `aP.el 7` `aP.än` `aP.ul.ir`
     * *kapit*al `aP.al` × `aP`
       * : *kapit*alien `aP.al.I.en` × `aP.I.en`

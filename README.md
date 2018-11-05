@@ -89,6 +89,8 @@ Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgel
 * at*ion* = ~~at~~*ion* `.iO` : **kon**spirat*ion* = **kon**spir~~at~~*ion* `ko.sp.ir.iO`
 * it*ion* = ~~it~~*ion* `.iO` : *in***vest**it*ion* = *in***vest**~~it~~*ion* `IN.w-o`
 
+* azität = ~~azit~~ät `.ät` : *kap*azität = *kap*~~azit~~ät `aP.ät`
+
 * ikal?
 
 * ikat*ion* = ~~ikat~~*ion* `.iO` : *kommun*ikat*ion* = *kommun*~~ikat~~*ion* `ko-u.iO` * `ko-u-o`
@@ -96,7 +98,6 @@ Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgel
 
 * ilität = ~~ilit~~ät `.ät` : mobilität = mob~~ilit~~ät `m.ob.ät`
 
-* izieren = ~~iz~~ier `.ir` : **fabr**izieren = **fabr**~~iz~~ier `fa.ir`
 * ifizieren = if~~iz~~ier `.if.ir` : **rat**ifizieren = **rat**if~~iz~~ier `ra.if.ir`
 
 * isat*ion* = ~~isat~~*ion* `.iO` : ~~kan~~alisat*ion* `(.al).iO`
@@ -104,6 +105,9 @@ Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgel
 
 * ivat*ion* = iv~~at~~*ion* `.iw-o` : motivat*ion* = motiv~~at~~*ion* `m.ot.iw-o`
 * ivieren = ivier `.iv.ir` : motivieren = motivier `m.ot.iv.ir`
+
+* izieren = ~~iz~~ier `.ir` : **fabr**izieren = **fabr**~~iz~~ier `fa.ir`
+* izität = ~~izit~~ät `.ät` : *elektr*izität = *elektr*~~izit~~ät `el.ät`
 
 * ulat*ion* = ~~ulat~~*ion* `.iO` : spekulat*ion* = spek~~ulat~~*ion* `sp.ek.iO`
   * **reg***ion* `r.iO` ~ `(.iO)`
