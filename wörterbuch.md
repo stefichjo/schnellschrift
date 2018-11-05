@@ -156,7 +156,7 @@
 * bitt `b.it` STS
   * ~ ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `I .it.e` `I .it.sI` `I.it.sI` `M-r.it.e`
   * bat `b.at`
-  * bet `b.et` : `G-b.et` `UN-G,b.et`
+  * bet `b.et` : `G-b.et` `UN-G-b.et`
 * **blatt** `bla` : `.om.bla`
 * **bleib** `bl.ei`
   * **blieb** `bli` ⇒ `bl.i`
@@ -268,7 +268,7 @@
 * dik `d.ik` : `IN.d.ik.iO`
   * diz `d.iz` : `IN.d.iz`
   * ***dex*** `ex` : `IN.ex`
-  * **dikt* `di` : `di.at` `di.at.or` `di.at.or.i` `di-UR` `di.ir` `di.ir.ät`
+  * **dikt** `di` : `di.at` `di.at.or` `di.at.or.i` `di-UR` `di.ir`
     * : **dikt**<i></i>*ion* `di-o` ! `d.ikt-iO` ≠ **dit**<i></i>*ion*
 * **ding** `.ing`
   * : **be**<i></i>**ding** `b.ing` ~ `(ng)`
@@ -326,21 +326,8 @@
 * ehr `.er`
   * : *ich*.~~h~~**a**~~be~~.~~die~~.ehr.e `.I-a.er.e` ~ `.I-a,(.e)`
 * eid `.eid` : `N.eid` STS
-
----
-
-* *eigen*, *eign* `.eig` BSA
-  * : *eigen*s `.eig-s` (BSA)
-  * : *eigen*t*lich* `.eig.L` (BSA) ~ `.ei-L`
-  * : *eigen*<i></i>*schaft* `.eig.FT` (BSA)
-  * : *eigen*<i></i>*tüm*er `.eig.tYm.er` (BSA)
-  * : <b>*er*</b><i></i>*eign*et `er.eig.et` (BSA)
-  * : <b>*er*</b><i></i>*eign*<i></i>***nis*** `er.eig.is` (BSA)
-  * : *ge*<i></i>*eign*et `G-eig` (BSA) ! `G-eig.et` (BSA)
-  * : *un*<i></i>*ge*<i></i>*eign*et `UN.G,eig` (BSA)
-
----
-
+* eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G-.eig.et` `UN-G-.eig`
+  * : eigent*lich* `.eig.L` * `.ei-L`
 * ein `N` : `N.i` `N.i-t.e` `N-t.e` `E-N.i` `E-N-Sa.UNG` `E-N-Sa`
   * : *irgend*ein `.i-N` ! `.ig.N`
   * **ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
@@ -2122,8 +2109,8 @@
   * : *er*<i></i>**rat**en `er-ra` ! `er-r.at`
   * : *da*<i></i>*von*.ab**rat**en `.a-v.ab.ra` ~ `a-v.ab.ra`
   * *berat* `Ra`
-  * *rät* `.ät` : `.ät.e` `o=ba.ät`
-    * *rätsel* `ts.el` : `ts.el.ha`
+  * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät`
+  * *rätsel* `ts.el` : `ts.el.ha`
   * **riet** `ri` ! `r.iet`
 * **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.i-eL` `IN 4 ra.en`
   * : **rat**e `ra-e` ! `ra.e`
