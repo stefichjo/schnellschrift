@@ -233,22 +233,13 @@
       * : **tra**<i></i>**dit**<i></i>*ion* `tra,di-o` ~ `tr.ad-o`
         * : **tra**<i></i>**dit**<i></i>*ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `G-dau` `AU.I.dau` `Z-m.ei-em:b.dau` `Z-U°.b.dau`
-
----
-
-* de<b>*m*</b> `(m)` V
-  * : *außer*de<b>*m*</b> `.auss.m` (BSA)
-  * : *in*de<b>*m*</b> `(I)m` S
-  * : *mit*.de<b>*m*</b> `M.m` ~ `MM` P
-* **dem** `d` BSA
+* ~~de~~m `(m) : `.auss.m` `(I)m`
+  * : *mit*.~~de~~m `M.m` ~ `MM` P
+* **dem** `d`
   * : demokrat ← krat
-* de<b>*n*</b> `(n)` V
-  * : *in*.de<b>*n*</b> `(I)n`
-  * : *mit*.de<b>*n*</b> `M.n` ~ `MN` P (3-stufiges M)
-  * : **v**on.de<b>*n*</b> `v.n` ~ `VN` P (3-stufiges N)
-
----
-
+* ~~de~~n `(n)` `(I)n`
+  * : *mit*.~~de~~n `M.n` ~ `MN` P (3-stufiges M)
+  * : **von**.~~de~~n `v.n` ~ `VN` P (3-stufiges N)
 * denk `d.ek`: `d.ek.ed` `d.ek-er` `UN-d.ek.bar` `ach.d.ek.L`
   * **dacht** `da` : `E-da`
     * **dächt** `d` : `G-d.is` `E-d.i`
@@ -3127,8 +3118,8 @@ r.es.ez
     * : e~~vol~~**u**~~t~~*ion* `.e,u-O`
     * : **re**~~vol~~**u**~~t~~*ion* `r.u-O`
     * : **konter**<i></i>**re**~~vol~~**u**~~t~~*ion* `ko-t-er,r.u-O`
-* **v**on `v` V
-  * : **da**<i></i>**v**on `da.v` ~ *da***v**on `.a-v` * d**a**<i></i>**v**on `a-v`
+* **von** `v` V
+  * : **da**<i></i>**von** `da.v` ~ *da*<i></i>**von** `.a-v` * d**a**<i></i>**von** `a-v`
   * *vom* `v°` V
 
 ---
