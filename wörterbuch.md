@@ -63,8 +63,7 @@
   * : arterie `.at.er.I.e` » `.at.er.e`
   * *artik* `(.ik)` : `(.ik).el` `(.ik).ir` `(.ik).iO` `b.da.ik.el`
     * : *artik*el 6 `(.ik).el 6` ~ `(.el),6`
-* arz `.az` : `.az.n.ei`
-  * : zahnarzt `z.an.azt` ~ `za.azt`
+* arz `.az` : `.az.n.ei` `za.azt`
   * : *ärz* `.ez` : `.ezt.e` `.ezt-L` `.ezt.e-FT`
 * asi `.as.i` : `.as.i-en` `.as.at`
   * : asiat*isch* `.as.i` ! `.as.at.i`
@@ -2114,6 +2113,7 @@
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G-ech` `(.S)ech` `(b)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
 * *recht* `R` : `T-s.R`
+* red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 
 ---
@@ -2743,15 +2743,17 @@ r.es.ez
   * **stinkt** `st.i` BSA
   * : *in***stinkt** `IN.st.i` ! `IN.st.i` (BSA)
     * : X `IN.st.i-l.os` `IN.st.i-iv`
+
+---
+
 * stick `st.ik`
 * stil `st.il`
 * **still** `.ill`
 * **stimm** `.im`
-  * *bestimm* `b°-i`
-    * : *mit*<i></i>*bestimm* `M,b°-i` ~ `M°`
-
----
-
+  * : **be**<i></i>**stimm** `b.im` ~ `b°-i`
+    * : *mit*<i></i>**be**<i></i>**stimm** `M.b.im` ~ `M,b°-i` ~ `M°`
+* stock `st.ok`
+* *stockholm* `st.ho`
 * **stoff** `.of` : `(k).of`
 * **stolz** `.oz`
 * **straf** `stra` : `stra-e`
@@ -3279,63 +3281,52 @@ r.es.ez
   * **weiß** `.eiss` : `.I.eiss`
   * **wuss** `.uss`
     * ! `w.uss` : `w.usst.e`
-    * -*bewusst* `,u` : `,u-N`
+    * -*bewusst* `,u` → mir pfleg selbst wort
+      * -*bewusst*~~s~~ein : `,u-N`
   * **wüss** `.üss`
     * ! `w.üss` : `w.üsst.e`
 * **wo** `wo`
-  * **wo**- `wo`
-  * **wor**- `wo`
-* **woch** `wo`
-  * : **woch**e `wo-e`
+  * **wo**-, **wor**- `wo`
+* **woch** `wo` : `wo-e`
 * wohl `w.ol` : `G-Sa.w.ol` `.ob.w.ol`
-
----
-
 * **wohn** `wo`
   * : **wohn***ung* `wo.UNG` * `wo-u`
   * **wöhn** `wö` : `G-wö`
   * : *ge*<i></i>**wöhn**<i></i>*lich* `G-wö.L` ~ `G-ö-L`
 * *woll* `(.ol)`
   * *will* `(l)`
-
----
-
 * wort `wot`
-  * × ~~wort~~ : `aNT` `(E)-aNT` `(E)-aNT,u-N`
+  * *antwort* `aNT` : `(E)-aNT` `(E)-aNT,u-N`
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
 * **wunsch** `wu`
   * **wünsch** `wÜ`
-* würd `w.üd` : `w.üd.e`
+* würd `w.üd` : `w.üd.e` `w.üd.i`
 
----
+## X
 
-* **zahl** `za` : `za*` `ra.za*` `(b.ei)tra.za*`
-  * : **zähl** `z` : `er.z`
-    * ! `z.el`
-* **zahn** `za`
+## Y
+
+## Z
+
+* **za**~~hl~~ `za` : `za*` `ra.za*` `(b.ei)tra.za*`
+  * **zä**~~hl~~ `zä` STS
+    * : **zä**~~hl~~en `zä` ! `z.el`
+    * : *er*<i></i>**zä**~~hl~~en `er.zä` ~ `er.z`
+* **za**~~hn~~ `za`
+  * **zä**~~hn~~ `zä` STS
+    : **zä**~~hn~~e `zä-e` ! `z.en.e`
 * ***zed*** `.ed` : `ko.ed.ir`
   * : *pro*<i></i>***zed***<i></i>ur `(o).ed.UR` ~ `(o)z.UR`
   * ***zess*** `.ess` : `(o).ess` `(o).ess.ir` `(o).ess.iO` `(T),(o).ess`
-    * : **kon**<i></i>***zess***<i></i>*ion* `ko.ess.iO` » `ko.ess`
-
----
-
-* <b>*zeich*</b> `.eich` ! `z.eich` (E)
-  * : <b>*zeich*</b>en `.eich`
-  * : <b>*zeich*</b>nung `.eich.UNG`
-  * : *ver*<b>*zeich*</b>***nis*** `E-eich.is`
+    * : **kon**<i></i>***zess***<i></i>*ion* `ko.ess.iO` × `ko.ess`
+* ***zeich*** `.eich` : `.eich.UNG` `E-.eich.is`
+  * : ***zeich***nen `.eich` ! `z.eich` ≠ reichen
 * ***zeig*** `.eig`
-* **zeih** `z.ei`
-  * : *ver***zeih** `E-z.ei`
-  * **zieh** `z.i` S
-    * : *ver***zieh** `E-z.i`
-  * z**i**cht `i`
-    * : *ver*z**i**cht `E-i`
+* **zeih** `z.ei` : `E-z.ei`
+  * **zieh** `z.i` STS : `E-z.i`
+  * *zicht* `i` : `E-i`
 * zeil `z.eil`
-
----
-
 * ***zeit*** `T`
   * : ~~arb~~eits<i></i>***zeit*** `(T)-s.T` ~ `Ts.T`
 * zent `zet` : `zet-er`
