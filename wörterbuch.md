@@ -28,7 +28,7 @@
 * alt `.at` : `.at-er` `ki.at-er` `v.at-er.h`
   * ält `.ät` : `.ät-er` `.ät.est`
   * ! (alt) `.alt` : `UR.alt`
-* *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E-N.i .at.en v .am.a`
+* *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E-.ig .at.en v .am.a`
 * *amt* `.a` : `T-s.a` `b.a` `b.a.er` `fi.a` `hau.a.L` `pa°.a`
   * : *aus*wertiges *amt* `.S.wet.ig.es .a` ~ `.S.a`
   * ! `.amt` : `.amt-ir`
@@ -328,14 +328,16 @@
 * eid `.eid` : `N.eid` STS
 * eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G-.eig.et` `UN-G-.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
-* ein `N` : `N.i` `N.i-t.e` `N-t.e` `E-N.i` `E-N-Sa.UNG` `E-N-Sa`
+* ein `N` : `N.i` `N.i-t.e` `N-t.e` `E-N-Sa`
   * : *irgend*ein `.i-N` ! `.ig.N`
+  * : *ver*ein `E-N`
+    * : *ver*ein***bar*** `E-N.bar` × `E-bar`
+    * : *ver*ein**ig** `E-N.i` × `E-.ig`
+      * -*vereinigung* `ig`
+    * -*verein* `N` → sport
   * **ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
 
 ---
-    * : *ver*ein<i></i>***bar***<i></i>*ung* `E-N.bar-UNG` (BSA) × `E-bar-UNG`
-    * : *ver*ein**ig** `E-N.i` × *ver*~~ein~~**ig** `E-.ig`
-      * -*vereinigung* `ig`
   * : *einst* `.eist` BSA
     * : *einst*<i></i>*ig* `.eist-ig` (BSA)
     * : *einst***mal**s `.eist-ma-s` (BSA)
@@ -2636,7 +2638,7 @@ r.es.ez
 
 ---
 
-* ~~sp~~ort `(.ot)`
+* ~~sp~~ort `(.ot)` : `(.ot).N`
 * **sprech** `spr` : `eNt.spr`
   * : ~~sprech~~ : `eNT.ed`
   * **sprich** `.ich` :  `.ich-o`
