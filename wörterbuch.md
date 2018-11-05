@@ -315,6 +315,9 @@
   * **darf** `da` : `b.da`
   * **durf** `du` : `du-t.e` 
 * *düsseldorf* `dÜ.o`
+
+## E
+
 * eben `.eb`
   * : *so*eben `.o.eb` ~ `(o).eb`
 * echt `.echt`
