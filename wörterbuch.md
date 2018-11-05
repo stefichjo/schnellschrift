@@ -353,12 +353,12 @@
 * *elektr* `.el` : `.el.i` `.el.ir` `.el.if.ir` `.el.ät` `.el.od.e` `.el.on.i`
 * eltern ← alt
 * eltern `.et-ern` : `.et-ern.os` `.et-ern.FT` `O-et-ern`
-
----
-
 * end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
+
+---
+
 * energ `.en.eg` (BSA)
   * : energie `.en.eg.I` (BSA)
   * : energ*isch* `.en.eg.i` (BSA)
@@ -497,30 +497,12 @@
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
 * feld `f.ed`
-
----
-
-* **f**er `f`
-  * : dif**f**er `d.if` BSA
-    * : dif**f**erenz `d.if.ez`
-      * : diff. `d.if` BSA
-    * : dif**f**erenzier `d.if.ez.ir` (BSA)
-    * : dif**f**erier `d.if.ir` ! `d.if.er.ir` BSA
-    * : dif**f**erent `d.if.ent` (BSA)
-  * : **kon**<i></i>**f**erenz `ko.f.ez`
-    * : konf. `ko.f` BSA
-  * : **kon**<i></i>**f**erier `ko.f.ir` (BSA)
-  * : **re**<i></i>**f**erat `r-f.at`
-  * : *trans*<i></i>**f**er `tra.f`
-* **f**end `f`
-  * **f**ens `f`
-    * : de**f**ensiv `d.e-f.iv` ! `d.e-fes.iv`
-    * : of**f**ensiv `.of.iv`
-* fenster `fest-er` (BSA)
-
----
-
-* *fer* `f` : `pr.f.ez` `r.f.at` `r.f.eNT`
+* fend `f.ed`
+  * fens `fes` : `d.e-fes.iv`
+    * : offensiv `.o-fes.iv` * `.o-f.iv`
+* fenster `fest-er`
+* **fer** `f` : `d.if.ent` `d.if.ez` `d.if.ez.ir` `ko.f.ez` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
+    * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
   * → lat
 * *ferien* `f.I.en` : `s.om.f.I.en`
 
@@ -1395,6 +1377,7 @@
 
 ---
 
+* lat ← fer
 * lat l.at
   * : lateral `l.at-er.al`
     * .~~later~~**al**. `(.al)`
@@ -1403,12 +1386,12 @@
   * : **re**lativ `r.l.at.iv`
     * *relat* `r-t`
       * : *relativ* `r-t-iv`
-* laub `l.aub`
-  * : <b>*er*</b>laub `er.l.aub` * <b>*er*</b>l**au**b `er-au`
-  * : urlaub `UR.l.aub` * ur*l*<b>*au*</b>*b* `UR-au` = `UR,au`
 
 ---
 
+* laub `l.aub`
+  * : ***er***laub `er.l.aub` * `er-au`
+  * : urlaub `UR.l.aub` * `UR-au` ⇒ `UR,au`
 * ***lauf*** `.auf`
   * ***lief*** `.if` : `b.if`
     * ! `l.if`
@@ -1991,15 +1974,16 @@
     * : *ex***pl**os*ion* `.e-plo`
     * : *ex***pl**osiv `.e-pl.iv`* po `p.o`
   * : poesie `p.o-es.I`
-* pol `p.ol`
-  * : monopol `m.on.p.ol` ~ `m.o-p.ol` E
 
 ---
 
+* pol `p.ol`
+  * : metropole `m.etr.p.ol.e` * `m.etr.ol.e`
+  * : monopol `m.on.p.ol` * `m.o-p.ol`
 * ~~pol~~**it** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
   * : ~~pol~~**it**isieren `it.ir` ! `it.is.ir`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `FT.tik`
-    * **fin**anz*politik* `fi.az.tik` » `fi.tik`
+    * **fin**anz*politik* `fi.az.tik` × `fi.tik`
 * *polizei* `li` : `li.ei` `li.ist`
 * ***pon*** `.on` : `ds.on.ir` `kom.on.ir` `tra.on.ir`
   * : de<i></i>***pon***<i></i>ieren `d.e-on.ir` ! `(d.e)p.on.ir`
