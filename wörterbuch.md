@@ -356,23 +356,11 @@
 * end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
-
----
-
-* energ `.en.eg` (BSA)
-  * : energie `.en.eg.I` (BSA)
-  * : energ*isch* `.en.eg.i` (BSA)
-  * : energet*isch*
-  * ener<b>*g*</b> `(g)`
-    * : ener<b>*g*</b>ie `(g).I`
-* *ent*- `eNT` V
-* -*ent* `eNT` V
-* <b>*er*</b> `er` V
-* erb `.eb` (BSA)
-  * : `.eb.e` `.eb-FT` `.eb.L` `G-ebt` `E-eb-UNG` (BSA)
-
----
-
+* ~~ener~~g `(g)` : `(g).I` `(g).i`
+* *ent*- `eNT`
+* ***er*** `er`
+* -*ent* `eNT`
+* erb `.eb` : `.eb.e` `.eb.L` `.eb-FT` `G-ebt` `E-eb-UNG`
 * erd `.ed` : `.ed.e` `b.ed.i`
   * ird `.id` : `.id.i` `UNTER.id.i`
 * ernst `.enst` : `.enst-est` `.enst-ha` `.enst-ha.T` `.enst.L`
@@ -388,17 +376,9 @@
   * : **et**wa `.e-w.a` * `(.a)`
   * : **et**<i></i>**was** `.e-was` ! `.e-w.as` * `(.a)s`
 * *europa*, *europä* `.eu-p` : `.eu-p-er` `.eu-p.i`
-
----
-
 * **ex**- `.e`
-* *exemp* `.ex` BSA
-  * : *exemp*el `.ex.l` (BSA)
-  * : *exemp*lar `.ex.l.ar`
-    * *exempl* `.ex.ar` BSA
-    * : *exempl*ar*isch* `.ex.ar.i` (BSA)
-
----
+* exemp ← emp ← em
+* *exemp*, *exempl* `.ex` : `.ex.el` `.ex.ar` `.ex.ar.i`
 
 ## F
 
