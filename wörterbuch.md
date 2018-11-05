@@ -56,7 +56,7 @@
 * arg `.ag`
   * : argument `.ag.met` ! `.ag.u-met`
 * arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
-* a~~rt~~ `(.a)` : `.ab.a` `(er).a.i`
+* a~~rt~~ `(.a)` : `.ab.a` `(r).a.i`
   * : gr~~oß~~a~~rt~~*ig* `gr.a.i` » `gr.a`
   * (art) `.art`
 * art `.at` : `.at.ik.el`
@@ -250,7 +250,7 @@
     * *gedank* `G-da` : `G-da.e` `G-da.os`
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
-* ~~d~~**er** `(er)` : `.S-er` `(I)-er`
+* ~~de~~r `(r)` : `.S-er` `(I)-er`
 * ~~d~~es `(.es)`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
@@ -401,6 +401,8 @@
     * : *exempl*ar*isch* `.ex.ar.i` (BSA)
 
 ---
+
+## F
 
 * **fabr** `fa` : `fa.ik` `fa.ir`
   * *fabrik* `fa` : `fa.ant` `fa.at`
@@ -875,7 +877,7 @@
   * : habilitier `h.ab.ir` ! `h.ab.il.ir`
   * : habitus `h.ab.us`
 * **halb** `ha` ! `h.ab` (BSA)
-  * : X `h.ab.H` `(.es)ha` `m.N.h.ab` `.auss:h.ab` `.in:h.ab` `(er) .od-UNG h.ab-er`
+  * : X `h.ab.H` `(.es)ha` `m.N.h.ab` `.auss:h.ab` `.in:h.ab` `(r) .od-UNG h.ab-er`
   * : **halb**er `ha-er` ! `h.ab-er` (BSA)
   * : **halb**ier `ha.ir`
   * : d<b>*es*</b>**halb** `(.es)ha`
@@ -1142,7 +1144,7 @@
 * **jed** `j` : `j-er` `j.es` `j.es.ma`
   * : **jed**e `j.e` ! `j.ed.e`
 * jen `j.en`
-  * *jenige*, *jenigem*, *jenigen* `j` : `(m):j` `(er):j`
+  * *jenige*, *jenigem*, *jenigen* `j` : `(m):j` `(r):j`
 * *jetz* `j°` : `j.i` (BSA)
   * *jetzt* `j°` : `j°.sch` `bi:j°`
 * j~~iz~~ `j` : `(o)j.ir`
@@ -1598,7 +1600,7 @@
     * : *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
   * : **be**merk `b.m.ek` * `b.m`
 * **mess** `ess` : `ess.e` `ess-er`
-  * : -*messer* `(er)`
+  * : -*messer* `(er)` → höch
   * **miss** `.iss`
     * ! `m.iss`
   * **maß** `ass` : `N.i-er.ass.en` `G-.i-ass`
@@ -1634,7 +1636,7 @@
   * : **min**orität `mi.or.ät` ~ `m.in.ät`
   * : pr**o**<i></i>**min***ent* `(o)mi.ent` » `(o)mi`
   * *minist* `mi`
-    * -*minister* `(er)` : `(er),(er)`
+    * -*minister* `(er)` : `(r),(er)`
     * -*ministerium* `.um`
     * : *minist<b>*er*</b>ial* `mi-er.iaL` > `mi.iaL` E
     * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
@@ -2294,7 +2296,7 @@
 * ***schieß*** `.iss` : `.iss.ei`
   * ***schoss*** `.oss` : `G-oss` `.ab.oss` `er.oss` `Z-oss`
     * ***schöss*** `.öss` : `.öss.ing`
-  * ***schuss*** `.uss` : `.S.fu-Ü.uss` `Ü-uss` `Z-uss` `(er)-Ü.uss` `N-Ü.uss` `(K)-Ü.uss`
+  * ***schuss*** `.uss` : `.S.fu-Ü.uss` `Ü-uss` `Z-uss` `(r)-Ü.uss` `N-Ü.uss` `(K)-Ü.uss`
     * ~~aussch~~uss `(.uss)` : `fi.uss` `hau.uss`
       * ! *aus*<i></i>***schuss*** `.S.uss`
     * ***schüss*** `.üss` : `.üss.e` `.üss.el` `.S.üss.e` `Ü-üss.e` `Z-üss.e`
@@ -2419,8 +2421,8 @@
   * bei<i></i>***seit***<i></i>e `b.ei-T.e` ! `b.ei-s.T.e`
   * *auf*.<i></i>***beid***<i></i>en.<i></i>***seit***<i></i>en `AU .eid T-en` ~ `AU.eid.T-en`
   * *auf* *dies*er ***seit***<i></i>e `AU.iS-er T.e` ~ `AU-i.T.e`
-  * *auf* ~~d~~**er** *ein*en ***seit***<i></i>e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
-  * *auf* ~~d~~**er** anderen ***seit***<i></i>e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
+  * *auf* ~~de~~r *ein*en ***seit***<i></i>e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
+  * *auf* ~~de~~r anderen ***seit***<i></i>e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
   * v~~on~~ ***beid***<i></i>en ***seit***<i></i>en `v .eid T-en` ~ `v.eid.T-en`
   * v~~on~~ *mehrer*en ***seit***<i></i>en `v MR T-en` ~ `v.MR.T-en`
   * v~~on~~ *unserer* ***seit***<i></i>e `v u-er-er T.e` ~ `v,u-er-er.T.e`
@@ -2438,7 +2440,7 @@
   * : *selb*st `l.st`
     * *selbst* `-st` : `-st,u-N`
   * : *die*<i></i>*selb*en `I.l.en` E
-  * : de<b>*r*</b>*selb*e `(er).l.e` E
+  * : ~~de~~r*selb*e `(r).l.e` E
 * selt `set`
   * : selten `set-en` (E)
 * *senat* `s.at`
@@ -2902,7 +2904,7 @@ r.es.ez
   * : *ver***trag** `(E)tra` * `E-a`
   * : ***kauf***<i></i>*ver***trag** `.auf,(E)tra` « `.auf.tra`
   * : *liefer*<i></i>*ung*s*ver***trag** `l.i-er-UNG:E-tra` « `l.i-er-UNG:tra`
-  * × ~~trag~~ : `b.an` `b.AU` `(er) .an` `.im:b.v`
+  * × ~~trag~~ : `b.an` `b.AU` `(r) .an` `.im:b.v`
   * **träg** `tr` : `(.an)tr.e` `(AU)tr.e` `(b)tr` `(b.ei)tr.e` `UN-er.tr.L` `UN-E-tr.L.T` `(E)tr.L` `(E)tr.L.T`
     * : *nach***träg**t `ach.tr`
     * ! `tr.eg` : `tr.eg-er` `ach.tr.eg-er.i`
