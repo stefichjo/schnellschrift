@@ -477,22 +477,11 @@
     * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
   * → lat
 * *ferien* `f.I.en` : `s.om.f.I.en`
-
----
-
-* ***fer***<i></i>~~n~~ `fer` : `IN,(o)f.en` `IN.w.i-f.en` `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent` (BSA)
-* fert `fet` (BSA)
-  * fert**ig** `fet-ig` (BSA)
-    * : X `fet-ig.T` `I fet-ig` `.an.fet-ig` `.S.fet-ig` `UN-fet-ig`
-    * *fertig* `-t-ig`
-      * : *fertig*<i></i>***keit*** `-t-ig.T`
+* ***fer***<i></i>~~n~~ `fer`
+  * ! `f.en` : `f.en.er` `eNT.f.en` `IN,(o)f.en` `IN.w.i-f.en` `I eNT.f.en.en` `eNT.f.ent`
+* *fert* `-t` : `-t-ig` `-t-ig.T` `.an-t-ig` `.S-t-ig` `UN-t-ig`
 * fess ← fat
-* *fest* `f°`
-* feuer `f.eu-er` (BSA)
-  * : X `f.eu-ert.e` `.an.f.eu-er` `G-f.eu-ert`
-
----
-
+* feuer `f.eu-er` : `f.eu-ert.e` `.an.f.eu-er` `G-f.eu-ert`
 * **fig** `fi` : `fi-UR` `ko,fi-UR.iO`
 * fi~~l~~ `f.i` : `f.i-iaL.e`
 * film `f.im` : `f.imt.e` `G-f.imt` `E-f.im`
