@@ -297,11 +297,15 @@ Das Auslassen von Wortbestandteilen im Innern eines Wortes ist zulässig, auch w
 * *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
 * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
 
-
 Das Auslassen des Stamms — oder die Andeutung des Stammvokals — bei starken Verben ist zulässig, solange keine Kurzformen verschattet werden.
 
 * fehl `f.el`
   * empfehl `.emp-f.el` * `.emp`
+
+In Verbindung mit Personalpronomen sind Kurzformen immer zulässig.
+
+* ***glaub*** `.aub`
+  * : *wir*.***glaub***en `wr.aub` * `wr-au`
 
 ### ...
 
