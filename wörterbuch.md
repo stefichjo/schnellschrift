@@ -65,8 +65,10 @@
     * : *artik*el 6 `(.ik).el 6` ~ `(.el),6`
 * arz `.az` : `.az.n.ei` `za.azt`
   * : *ärz* `.ez` : `.ezt.e` `.ezt-L` `.ezt.e-FT`
-* asi `.as.i` : `.as.i-en` `.as.at`
-  * : asiat*isch* `.as.i` ! `.as.at.i`
+* asi `.as.I`
+  * : asien `.as.I.en` ~ `.as.i-en`
+  * : asiat `.as.I.at` ~ `.as.at`
+    * : asiat*isch* `.as.I.i` ~ `.as.at.i`
 * astr `.a-str` : `.a-str.om.I`
   * : astro<i></i>***log***<i></i>ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
@@ -483,8 +485,9 @@
 * fess ← fat
 * feuer `f.eu-er` : `f.eu-ert.e` `.an.f.eu-er` `G-f.eu-ert`
 * **fig** `fi` : `fi-UR` `ko,fi-UR.iO`
-* fil `f.il` : `f.il.us`
-  * : filiale `f.il.ale` * `f.i-aL.e`
+* fili `f.il.I`
+  * : filius `f.il.I.us` ~ `f.il.us`
+  * : *filial* `f.iaL` : `f.iaL.e`
 * film `f.im` : `f.imt.e` `G-f.imt` `E-f.im`
 * **filt**er `fit-er` : `fit-r.ir`
 * **fin** `fi`: `fi.al` `fi.al.e` `fi.al.ist`
@@ -1084,7 +1087,7 @@
 ---
 
 * *japan* `j.ap` : `j.ap.i` `j.ap.er`
-* je `j.e` : `j.e-ma` `j.e-ma-s` `n.i-ma` `n.i-ma-s`
+* je `j.e` : `j.e-ma` `j.e-ma-s`
 * **jed** `j` : `j-er` `j.es` `j.es.ma`
   * : **jed**e `j.e` ! `j.ed.e`
 * jen `j.en`
@@ -1173,7 +1176,7 @@
   * : **klass**iz*ismus* `kla.iz.iS` > `kla.iS`
 * ***klaud*** `.aud` STS
   * ***klaus*** `.aus` : `.aus.e`
-    * *klausel* `au.el` : `I 5.o,au.el`
+    * -*klausel* `au.el` → zent
 * ~~kl~~ein `(N)` : `(N).er` `(N).H` `(N).T` `(N).L.T` `E-N.er` `zr.N.er` `.am (N)-st`
 
 ---
@@ -1463,7 +1466,7 @@
   * -*mal* `ma` → denk jed manch
   * -*mals* `mas` → aber je mehr nie noch
 * **man** `ma`
-  * -**mand** `ma`
+  * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
   * : p~~er~~**man***ent* `p.ma.eNT` ~ `p.m.an.eNT`
 * *manch* `aCH` `aCH.l.ei` `.aCH.es.ma`
@@ -1753,7 +1756,7 @@
 
 ---
 
-* nie `n.i` : `n.i-ma-s`
+* nie `n.i` : `n.i-ma-s` `n.i-ma`
 * *nieder*, *niedr* `ndr`
 * ***nieß*** `.iss` : `G-.iss` `nu:iss.er`
   * ***noss*** `.oss` : `G-.oss`
@@ -1887,19 +1890,21 @@
   * : *kom***p**atibilität `kom-p.ib.ät`
 * patent `p.at.ent` » `p.at`
   * : *patent* `pa°` S (Neubauer)
-* pati `p.az`
-  * : pati*ent* `p.az.ent`
-  * : pati*ent*in `p.az.eNT.in` ~ `p.az.en.t.in`
-  * ***pass*** `pass`
-    * : ***pass***<i></i>*ion* `pass.O`
-* pension `p.eS.iO` (E)
-
----
-
+* pati `pat.I`
+  * : pati*ent* `p.at.I.eNT` ~ `p.az.ent`
+  * : pati*ent*in `p.at.I.eNT.in` ~ `p.az.en.t.in`
+  * ***pass*** `pass` : `pass.O`
+* pend `p.ed` : `p.ed.el`
+  * : pendant `p.ang.d.ang` * `p.ang.da`
+  * pens `p.e-s`
+    * : pens*ion* `p.e-s-o` ! `p.e-s.iO`
 * **per**- `p`
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
 * **pfleg** `pfl`
   * **pflog** `pflo`
+
+---
+
 * ***pflicht*** `.icht` : `.icht,u`
   * -*pflicht* `,i`
 * phon `f.on` : `f.on.ik` `f.on.i`
@@ -3268,12 +3273,13 @@ r.es.ez
 * **zeih** `z.ei` : `E-z.ei`
   * **zieh** `z.i` STS : `E-z.i`
   * *zicht* `i` : `E-i`
+    * **be**<i></i>*zicht*<i></i>*ig*en `b-i.i` ~ b.z.i`
 * zeil `z.eil`
 * ***zeit*** `T`
   * : ~~arb~~eits<i></i>***zeit*** `(T)-s.T` ~ `Ts.T`
 * zent `zet` : `zet-er`
   * akzent ← kant
-  * *prozent* `o` : `o.al` `3.o` `5.o`
+  * *prozent* `o` : `o.al` `3.o` `5.o` `I 5.o,au.el`
     * -*prozentig* `(g)`
 * zentaur `zet-aur`
 * *zentr* `zr` : `zr.um` `(ko)zr.iO` `(ko)zr.ir`
