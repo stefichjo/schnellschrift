@@ -567,16 +567,15 @@
   * : ***lang***<i></i>***frist***<i></i>**ig** `ang.ist-ig` × `.ang.i`
 * **froh** `fro`
   * **fröh** `frö` : `frö.L`
+* fro~~nt~~ `fr.o`
+  * : **kon**fro~~nt~~ier `ko.fr.o.ir` × `ko.fr.o`
+  * : **kon**fro~~nt~~at*ion* `ko.fr.o.iO` ~ `ko.fr.ot.iO`
+* **frucht** `fru` : `fru.bar`
+  * **frücht** `frÜ`
+    * -*frücht* `-Ü` → süd
 
 ---
 
-* **front** `fr.o`
-  * : **kon**<i></i>**front**ier `ko.fr.o.ir` `ko.fr.o`
-  * : **kon**<i></i>**front**at*ion* `ko.fr.o.iO` ! `ko.fr.ot.iO`
-* **frucht** `fru`
-  * **frücht** `frÜ`
-    * : süd**frücht**e `s.üd.frÜ.e` * südfr**ü**chte `s.üd-Ü.e`
-  * : **frucht**<i></i>***bar*** `fru.bar`
 * **früh** `frÜ` BSA
   * X : `frÜ.er-er` `frÜ.est.es` `frÜ.est-s` `frÜ.l.ing`
   * : **früh**er `frÜ.er` (BSA)
@@ -2744,6 +2743,7 @@ r.es.ez
 * **such** `su` : `b-su` `E-su`
   * : *unter***such** `UNTER,su` * `UNTER-u` : `O-S.o=UNTER-u`
 * sucht ← siech
+* süd `s.üd` : `s.üd-Ü.e`
 * **sul** `su` : `ko-su`
   * sult `sut` : `ko-sut-ir` `ko-sut-iO`
     * : *re*sult `r-sut`
