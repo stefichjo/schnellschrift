@@ -2470,6 +2470,8 @@ r.es.ez
     * : *aus***setz** `.S-s` ~ `.S.s` E
     * : *vor*<i></i>*aus***setz** `O-.S-s`
     * *gesetz* `-G` : `-G.e` `-G.L` `UN-G.L`
+      * **grund**<i></i>*gesetz* : `gru.-G`
+        * *grundgesetz* `GR`
   * **satz** `sa` : `(o)sa`
     * ! `s.az`
     * : **satz***ung* `.az*`
