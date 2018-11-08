@@ -1867,13 +1867,12 @@
   * : *trans*<i></i>**pa**r*ent* `tra.pa.ent` ~ `tra.pa.eNT`
 * **pa**ra- `pa`
   * : **pa**rallel `pa.ll.el` ~ `p.ar.el` E
-* *parlament* `PAR` ~ `p.ar` E
-  * *parlamentar* `PAR`
-    * : *parlamentar*ier `PAR.er` ! `PAR.ar-er`
-    * : *parlamentar***isch** `PAR.i`
 
 ---
 
+* parl
+  * *parlament* `Par` : `Par.ar-er`
+    * : *parlament*ar**isch** `Par.ar.i` × `Par.i`
 * part `pat` : `pat-I` `pat-ik.el` `pat-ik.är` `pat-er`
   * *partei* `pa-ei` : `pa.ei-Sa.UNG`
 * pass ← pand
@@ -2544,7 +2543,11 @@ r.es.ez
 
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
+* spalt `spat`
+  * spält `spet` : `zw.i-spet-ig`
 * **spann** `spa`
+* **spar** `spa`
+  * **spär** `sp` : `sp.L`
 * spaß `sp.ass`
 * **sp**ät `sp` : `sp.est.e`
   * : **sp**äter `sp-er` ! `sp.et-er`
