@@ -573,16 +573,12 @@
 * **frucht** `fru` : `fru.bar`
   * **frücht** `frÜ`
     * -*frücht* `-Ü` → süd
+* **früh** `frÜ` : `frÜ.er-er` `frÜ.est.es` `frÜ.est-s` `frÜ.ing`
+  * : **früh**er `frÜ.er`
+  * -*früh* `-Ü` → heut morg schon
 
 ---
 
-* **früh** `frÜ` BSA
-  * X : `frÜ.er-er` `frÜ.est.es` `frÜ.est-s` `frÜ.l.ing`
-  * : **früh**er `frÜ.er` (BSA)
-  * .fr**ü**h. `Ü`
-    * **heut**e.fr**ü**h `heu-Ü`
-    * **morg**en.fr**ü**h `mo-Ü`
-    * **sch**on.fr**ü**her `sch-Ü-er`
 * -f**u**g- `-u` ! `f.ug`
   * : **be**<i></i>f**u**g<b>**nis**</b> `b.u-is`
   * f**ü**g `-Ü` = `.üg` ! `f.üg` : `f.üg-Sa`
@@ -909,7 +905,7 @@
 ---
 
 * heuer `h.eu-er` : `UN-G,h.eu-er`
-* **heut** `heu`
+* **heut** `heu` : `heu-Ü`
 
 ---
 
@@ -1412,7 +1408,7 @@
     * : *ver*<i></i>**lor** `E-lo` ! `E-l.or`
   * **lust** `lu`
     * : *ver*<i></i>**lust** `E,lu` ~ `(E)lu`
-* -***ling*** `.ing` : `frÜ.ing`
+* -***ling*** `.ing`
 * ~~lin~~i `(.I)`
   * : ~~lin~~ie `(.I).e` ~ `l.in`
     * : *in*.erster.*lini*e `IN.est-I.e` × `IN.I.e`
@@ -1656,10 +1652,11 @@
   * : montage `m.ot.asch.e` (E)
   * : montier `m.ot.ir` (E)
   * : monteur `m.ot.ör` (E)
-* **morg** `mo` ! `m.og` (E)
 
 ---
 
+* **morg** `mo` : `mo-Ü`
+  * ! morgen `m.og`
 * mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir` `.e-m.ot.iO` `.e-m.ot.i-aL`
   * : motor `m.ot.or` » `m.ot`
 * **müh** `mÜ` : `b.mÜ.en`
@@ -2271,7 +2268,7 @@
   * ! `schn.eid`
   * ~~schn~~itt `(.it)` : `.ab.it`
     * ! `schn.it`
-* sch~~on~~ `sch`
+* sch~~on~~ `sch` : `sch-Ü-er`
 * **schön** `schö`
   * : **schön***heit* `schö.H` * `ö-H`
 * ***schöpf*** `.öpf`
