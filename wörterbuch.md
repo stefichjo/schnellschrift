@@ -1547,10 +1547,10 @@
 
 * mir `m.ir`
   * .***mir*** `.ir` : `(I)-bi.ir,u`
+* *miss*- `ms`
 
 ---
 
-* *miss*- `ms` V
 * *mit* `M` V
   * : **da***mit* `da.M` ~ *da*<i></i>*mit* `.a-M` * d**a***mit* `a-M`
   * : **hier***mit* `hi:M`
@@ -1588,7 +1588,7 @@
 * mod `m.od` `m.od-er`
   * modell `m.od.ell` * `m.o-ell`
 * ***mög*** `.ög`
-  * ~~mög~~*lich* `L`
+  * ~~mög~~*lich* `(L)`
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`

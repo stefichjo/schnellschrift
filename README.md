@@ -268,41 +268,37 @@ Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit `-er`.
 * ***was*** `was`
 * ***fer***<i></i>~~n~~ `fer`
 
-## Verhältnismäßigkeit
+## Verhältnismäßigkeit und Praxis
 
-Anfangs sollten nicht mehr als eine Kürzung oder ein Kürzel pro Stamm gelernt werden. Auf die Anwendung des Kürzels *berat* `Ra` sollte daher zunächst verzichtet werden, da diese die Anlautkürzung **rat** `ra` verschatten würde. Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet werden, da sich diese dem Anfänger nicht erschließt. Auf die vorsichtige Ausschreibung der Anlautkürzung **rat** in "erraten" (`er-r.at`) sollte daher verzichtet werden.
+In der Schnellschriftpraxis haben viele Stämme mehr als ein Kürzel oder Kürzung. Da dies für den Lernenden bisweilen sehr verwirrend sein kann, sollte man anfangs nicht mehr als eine Kurzform pro Stamm lernen. Auf die Anwendung des Kürzels *berat* `Ra` sollte daher zunächst verzichtet werden, da diese die Anlautkürzung **rat** `ra` verschatten würde. Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet werden. Zum Beispiel sollte *er*<i></i>**rat**~~en~~ `er-ra` nicht ausgeschrieben werden zu *er*rat~~en~~ `er-r.at`.
 
 * **rat** `ra`
-  * *be*<i></i>**rat**en `b.ra`
-  * *er*<i></i>**rat**en `er-ra`
+  * *be*<i></i>**rat**~~en~~ `b.ra`
+  * *er*<i></i>**rat**~~en~~ `er-ra`
 
-Eine Verschattung einer Kurzform der Verkehrsschrift ist hingegen zumutbar. Ebenso ist eine Verschattung einer Ausschreibung der Schnellschrift durch ein eigenes Kürzel zumutbar.
+Verkehrsschriftlichen Kurzform können hingegen verschattet werden. Beispielsweise verschattet *Mittel* `-t-el` das verkehrsschriftliche *mit* `M` bzw. *Mittel* `M.el`.
 
 * *mit* `M`
   * *mittel* `-t-el`
-* rad `r.ad`
-  * *gerad*e `-G-a.e`
 * *miss*<i></i>*ion* `ms-o`
-  * **ko**<i></i>*miss*<i></i>*ion* `ko-ms-o`
-    * *komiss*<i></i>*ion* `ko-i.iO`
+  * **ko**<i></i>*miss*<i></i>*ion* `ko-i.iO`
 
-Eine Kurzform sollte durch ein Kürzel verschattet werden, um eine falsche Lesung zu vermeiden.
-
-* ***mein*** `N`
-  * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
-    * ⇒ *allgemein* `.a-G`
-
-Das Auslassen von Wortbestandteilen im Innern eines Wortes ist zulässig, auch wenn dabei Kurzformen der Schnellschrift verschattet werden.
-
-* *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
-* *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
-
-Das Auslassen des Stamms — oder die Andeutung des Stammvokals — bei starken Verben ist zulässig, solange keine Kurzformen verschattet werden.
+Schnellschriftliche Kurzformen von Verben werden nicht verschattet. So wird beispielsweise "empfehlen" `.emp-f.el` zu `.emp`, während *ent*<i></i>**wick**el~~n~~ `eNT,wi.el` nicht zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird. Kurzformen von anderen Wortarten können hingegen im Innern des Wortes durch Auslassung oder Vokalandeutung verschattet werden. So verschattet beispielsweise *selbst*<i></i>~~verständ~~<i></i>*lich* `-st-L` die Kurzform *ver*<i></i>*stand* `E-and` bzw. *ver*<i></i>*ständ* `E-end`, während *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` nicht zu *un*<i></i>*ge*<i></i>~~fähr~~ `UN.G` und *zur*.*ver*f**ü**g~~ung~~ `zr°.E-Ü` nicht zu *zur*.~~ver~~f**ü**g~~ung~~ `zr°-Ü` verkürzt werden.
 
 * fehl `f.el`
   * empfehl `.emp-f.el` * `.emp`
+* *ständ* `end`
+  * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
 
-In Verbindung mit Personalpronomen sind Kurzformen immer zulässig.
+Lediglich Auslautkürzel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
+
+* ***mög*** `.ög`
+  * ~~mög~~*lich* `(L)`
+* *ge*<i></i>***mein*** `G-N`
+  * *all*<i></i>*ge*<i></i>***mein*** ≠ allein
+    * ⇒ *allgemein* `.a-G`
+
+In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
 
 * ***glaub*** `.aub`
   * : *wir*.***glaub***en `wr.aub` * `wr-au`
