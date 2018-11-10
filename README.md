@@ -17,7 +17,7 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 ≠ allein
 @ä in "fänd"
 mater, toler
-haben diszipliniert diskutiert: adverb mit "t", partizip ohne "t"
+@`L.T` → `T`
 
 ## Kurzschreibung
 
@@ -268,7 +268,7 @@ Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit `-er`.
 * ***was*** `was`
 * ***fer***<i></i>~~n~~ `fer`
 
-## Verhältnismäßigkeit und Praxis
+## Didaktische Verhältnismäßigkeit und Praxis
 
 In der Schnellschriftpraxis haben viele Stämme mehr als ein Kürzel oder Kürzung. Da dies für den Lernenden bisweilen sehr verwirrend sein kann, sollte man anfangs nicht mehr als eine Kurzform pro Stamm lernen. Auf die Anwendung des Kürzels *berat* `Ra` sollte daher zunächst verzichtet werden, da diese die Anlautkürzung **rat** `ra` verschatten würde. Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet werden. Zum Beispiel sollte *er*<i></i>**rat**~~en~~ `er-ra` nicht ausgeschrieben werden zu *er*rat~~en~~ `er-r.at`.
 
@@ -283,10 +283,15 @@ Verkehrsschriftlichen Kurzform können hingegen verschattet werden. Beispielswei
 * *miss*<i></i>*ion* `ms-o`
   * **ko**<i></i>*miss*<i></i>*ion* `ko-i.iO`
 
-Schnellschriftliche Kurzformen von Verben werden nicht verschattet. So wird beispielsweise "empfehlen" `.emp-f.el` zu `.emp`, während *ent*<i></i>**wick**el~~n~~ `eNT,wi.el` nicht zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird. Kurzformen von anderen Wortarten können hingegen im Innern des Wortes durch Auslassung oder Vokalandeutung verschattet werden. So verschattet beispielsweise *selbst*<i></i>~~verständ~~<i></i>*lich* `-st-L` die Kurzform *ver*<i></i>*stand* `E-and` bzw. *ver*<i></i>*ständ* `E-end`, während *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` nicht zu *un*<i></i>*ge*<i></i>~~fähr~~ `UN.G` und *zur*.*ver*f**ü**g~~ung~~ `zr°.E-Ü` nicht zu *zur*.~~ver~~f**ü**g~~ung~~ `zr°-Ü` verkürzt werden.
+Schnellschriftliche Kurzformen von Verben werden nicht verschattet. So wird beispielsweise "empfehlen" `.emp-f.el` zu `.emp`, während *ent*<i></i>**wick**el~~n~~ `eNT,wi.el` nicht zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird. Auf andere Kürzungsformen außer Auslassung und Selbstlautandeutung wird verzichtet. So wird beispielsweise *be*merk~~en~~ `b.m.ek` nicht zu `b.m` verkürzt.
 
 * fehl `f.el`
-  * empfehl `.emp-f.el` * `.emp`
+  * empfehlen `.emp-f.el` * `.emp`
+* merk `m.ek`
+  * *be*merken `b.m.ek.`
+
+Kurzformen von anderen Wortarten können hingegen im Innern des Wortes durch Auslassung oder Selbstlautandeutung verschattet werden. So verschattet beispielsweise *selbst*<i></i>~~verständ~~<i></i>*lich* `-st-L` die Kurzform *ver*<i></i>*stand* `E-and` bzw. *ver*<i></i>*ständ* `E-end`, während *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` nicht zu *un*<i></i>*ge*<i></i>~~fähr~~ `UN.G` und *zur*.*ver*f**ü**g~~ung~~ `zr°.E-Ü` nicht zu *zur*.~~ver~~f**ü**g~~ung~~ `zr°-Ü` verkürzt werden.
+
 * *ständ* `end`
   * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
 
@@ -295,13 +300,13 @@ Lediglich Auslautkürzel können schnellschriftliche Kurzformen verschatten. So 
 * ***mög*** `.ög`
   * ~~mög~~*lich* `(L)`
 * *ge*<i></i>***mein*** `G-N`
-  * *all*~~ge~~***mein*** ≠ allein
+  * *all*~~ge~~<i></i>***mein*** ≠ allein
     * ⇒ *allgemein* `.a-G`
 
 In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
 
 * ***glaub*** `.aub`
-  * : *wir*.***glaub***en `wr.aub` * `wr-au`
+  * : *wir*.<i></i>***glaub***<i></i>en `wr.aub` * `wr-au`
 
 ### ...
 

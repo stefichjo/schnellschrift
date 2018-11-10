@@ -296,17 +296,18 @@
   * **dra**~~ng~~ `dra`
     * **drä**~~ng~~ `drä`
   * **dru**~~ng~~ `dru` : `G-dru` `N.dru`
-* **druck** `dru` : `ach.dru` `N.dru`
-  * ~~dr~~**u**~~ck~~ `u` : `.S-u`
+* **druck** `dru` : `dru.ei` `ach.dru` `N.dru`
+  * : *aus*<i></i>**druck** `.S.dru` ~ `.S-u`
   * **drück** `drÜ`
-    * *drück* `Y` : `.S-Y.L`
+    * : *aus*<i></i>**drück**<i></i>*lich* `.S.drÜ.L` ~ `.S-Y.L`
     * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
-    * : *nach*<i></i>**drück***lich* `ach.drÜ.L` * `ach-Ü.L`
+    * : *nach*<i></i>**drück***lich* `ach.drÜ.L` ~ `ach-Ü.L`
 * dro~~h~~ `dr.o`
 * *du* `dU` : `bi.dU` `ha.dU` `w.dU`
 * **duk** `du`
   * **duz** `du` : `IN.du.ir` `(o)du.ir`
   * **dukt** `du` : `IN.du-o` `(o)du.iO` `(o)du.iv`
+    * : *pro*<i></i>**dukt** `(o)du` ~ `(o)dut`
 * duld `d.ud` : `d.ud.ed` `d.ud.et.e` `d.ud-Sa.T` `d.ud-UNG` `G-d.ud` `UN-G-d.ud.i`
 * *dunkel* `d.uk` : `d.uk.H` `E-d.uk` `E-d.uk-t.e`
 * *durch* `dr`
@@ -905,6 +906,9 @@
 * *hundert* `hu` : `3.hu` `5,hu` `hu.FT`
   * : **jahr**<i></i>**hundert** `ja.hu`
 * hut `h.ut`
+
+## I
+
 * -*ial* `.iaL`
   * -*iell* `.ieL`
 * *ich* `.I`
@@ -1161,15 +1165,13 @@
     * : **köst***lich* `köst.L` (BSA)
     * : *die* **be**<i></i>**köst**ig~~ung~~ `I b.köst.ig`
   * -*kosten* `ko` → person
-* **kraft** `kra` BSA
-  * : X `kra.w.ag` `M.al.kra`
-  * **kräft** `kr` (BSA)
-    * : X `kr.i` `b.kr.i` `b.kr.i+t.e` `M.al.kr.en` `eNT.kr.et`
-    * : **kräft**e `kr.e`
+* **kraft** `kra` : `kra.wa` `M.al.kra`
+  * **kräft** `kr` : `kr.e` `kr.i` `b.kr.i` `M.al.kr.en` `eNT.kr.et`
 
 ---
 
 * **krank** `kra` : `kra.ha` `er.kra`
+  * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa` ≠ kraftwagen :(
   * : **krank***heit* : `kra.H` * `a-H`
   * **kränk** `kr` : `kr-st.e` `kr.L` `kr.L.T`
     * ! `kr.ek` : `kr.ek-er`
@@ -2718,9 +2720,10 @@ r.es.ez
     * : archi**tekt**ur `.ach.t.UR` × `.ach.UR`
 * **teg** `t` : `(o)t.ir`
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
-* ~~t~~eil `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e`
+* ~~t~~eil `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e` `O-.eil.ha`
 
 ---
+
 * **tele** `t` ! `t.el.e` (E)
     * : **tele**<i></i>**f**on `t.f` ! `t.el.e-f` E
     * : **tele**<i></i>**f**onat `t.f.at`
@@ -2839,7 +2842,8 @@ r.es.ez
   * tüch `t.üch` : `t.üch-er`
 * -*tum* `tum`
   * -*tüm* `tYm`
-* **tu**n `tu` : `wi.i,tu.er` `wi.i,tu.er.ei`
+* **tu**n `tu` : `wi.i,tu.er`
+  * **wicht**<i></i>*ig*<i></i>**tu**erei `wi.i,tu.ei` ! `wi.i,tu.er.ei`
   * **tat** `ta`
     * **tät** `t`
     * : **tät**er `t-er` ! `t.et-er`
@@ -2982,10 +2986,8 @@ r.es.ez
 
 ---
 
-* **wag** `wa`
-  * ! `w.ag`
-  * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa`
-  * : **kraft**<i></i>**wag**en `kra.wa`
+* wag `w.ag`
+  * -*wagen* `wa` → kraft krank
 * **wa**~~hl~~ `wa` : `l.i=wa`
   : * *ge*<i></i>***mein***<i></i>de**wa**~~hl~~en `G-N-d.e-wa.en` ~ `(N)-d.e:wa.en`
   * **wä**~~hl~~ `wä` ! `w.el`
