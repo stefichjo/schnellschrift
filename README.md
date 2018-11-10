@@ -84,7 +84,7 @@ Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgel
 
 ### Lateinische Suffixe und Endungen
 
-* *ion* `.iO` : *kommun*<i></i>*ion* `ko-u.iO`
+* aner = ~~an~~er `.er` : *amerik*aner = *amerik*~~an~~er `.am.er`
 
 * at*ion* = ~~at~~*ion* `.iO` : **kon**spirat*ion* = **kon**spir~~at~~*ion* `ko.sp.ir.iO`
 * it*ion* = ~~it~~*ion* `.iO` : *in***vest**it*ion* = *in***vest**~~it~~*ion* `IN.w-o`
@@ -110,10 +110,10 @@ Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgel
 * izität = ~~izit~~ät `.ät` : *elektr*izität = *elektr*~~izit~~ät `el.ät`
 
 * ulat*ion* = ~~ulat~~*ion* `.iO` : spekulat*ion* = spek~~ulat~~*ion* `sp.ek.iO`
-  * **reg***ion* `r.iO` ~ `(.iO)`
+  * **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
   * **reg**ulat*ion* `r.iO` ! `r.ul.iO`
 * ulieren = ier `.ir` : spekulieren = spekier `sp.ek.ir`
-  * **reg**ieren `r.ir` ~ `(.ir)`
+  * **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
   * **reg**ulieren `r.ir` ! `r.ul.ir`
 
 #### Lateinische Selbstlaut-Nachsilben

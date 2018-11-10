@@ -2,7 +2,7 @@
 
 ## A
 
-* ab `.ab`
+* ab `.ab` : `.ab,i`
 * ~~ab~~end `(.ed)`
 * *aber* `ber` : `ber.ma-s` `ber-aY`
 * acht `.acht` : `.acht-Sa`
@@ -785,7 +785,7 @@
   * : hielt `hit`
     * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be**<i></i>*hielt* `b,hi` ! `b.e,hi`
-* **hand** `ha` : `ha.L` `O-ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
+* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `O-ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
   * **händ** `h` : `h.e` `.S.h.i`
     * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er`
 * **handel** `ha` : `bu.ha` `gr.ha` `N.ha` `ms.ha` `wet-ha` `.e ha.um`
@@ -1242,11 +1242,11 @@
     * ! `k.us` BSA
       * : X `kus.es` `ko.k.us`
     * : **kon**<b>*kurs*</b> `ko,kus` ~ `ko.us`
-* **kurz** `ku` BSA
-  * : X `ku.um` `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E-kÜ`
 
 ---
 
+* **kurz** `ku` : `ku.um` `ku,i`
+  * **kürz** `kÜ` : `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E-kÜ`
 * *kut* `u` : `ds-u.ir`
   * *kuss* `u` : `p-u-o`
     * : *dis*<i></i>*kuss*<i></i>*ion* `ds-u-o` × `ds-u`
@@ -2004,20 +2004,18 @@
 * *recht* `R` : `T-s.R`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
+* **reg** `r`
+  * : *regel* `(.el)` : `.il,(.el)` `IN.el`
+  * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
+    * : ~~reg~~ier*ung* `(.ir)-UNG` ~ `ir-UNG`
+      * : **bu**~~nd~~es~~reg~~ier*ung* `bu.ir-UNG` ~ `u-r-UNG`
+  * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
+    * : *reg*<i></i>*ional* `r.eg.i-aL`
+  * : **reg**ulier `r.ir` ! `r.ul.ir`
+    * : **reg**<i></i>*ul*at*ion* `r.ul.iO`
 
 ---
 
-* **reg** `r`
-  * : **reg**ier `r.ir` E
-    * ~~reg~~ier `(.ir)`
-  * : **reg**ier*ung* `r.ir-UNG` E ~ `ir-UNG`
-    * : **bu**~~nd~~es**reg**ier*ung* `bu.r.ir-UNG` * b**u**ndes**reg**ier*ung* `u-r.ir-UNG` ~ `u-r-UNG`
-  * : **reg**ulier `r.ir` ! `r.ul.ir`
-  * : **reg**el `r.l` ~ `(.el)`
-    * : <b>*spiel*</b>**reg**el `.il.r.l` ~ `.il,(.el)`
-    * : *in*.~~der~~.**reg**el `(I)r.el` × *in*.~~der~~.~~reg~~el `(I)el`
-  * : **reg***ion* `r.iO` ! `r.eg.iO`
-    * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
   * **rekt** `r` ! `r.ekt`
     * : **rekt**or `r.or`
     * : di**rekt** `d.i-r`
@@ -2210,7 +2208,7 @@
   * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
 * schmeck ← schmack
 * **schmerz** `schm` : `schm.ha`
-* **schnell** `schn`
+* **schnell** `schn` : `schn,i`
 * ~~schn~~eid `(.eid)` : `(.eid)-er`
   * ! `schn.eid`
   * ~~schn~~itt `(.it)` : `.ab.it`
@@ -2227,23 +2225,23 @@
   * **schrock** `schro`
 * schrei `schr.ei`
   * schrie `schr.i`
-
----
-
 * **schreib** `.eib`
   * **schrieb** `.ib`
   * **schrift** `.ift`
-    * -~~schrift~~- `i` : `.ab,i` `ha,i` `ha,i-L` `ku,i` `schn,i` `UNTER,i` `Z,i`
+    * -~~schrift~~ `i` : → ab hand kurz schnell unter zu
+
+---
+
 * **schreit** `T` : `.S.T` `.S.T-en` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
   * : ein**schreit**en `N.T` ~ `N,(T)`
   * ! `schr.T` : `schr.T-ed`
   * **schritt** `.it` : `rÜ.it` `rÜ.it.L`
     * ! `schr.it` : `G-schr.it`
 	* ~ *fortschritt* `fr-i` : `fr-i.e` `fr-i.L`
-* schrift ← schreib
 
 ---
 
+* schrift ← schreib
 * **schul** `.ul` : `.ul.e`
   * : **fahr**<i></i>**schul**e `fa.ul.e` ! `fa.sch.ul.e`
   * : **hoch**<i></i>**schul**e `ho.ul.e` * `ho-u-e`
@@ -2454,7 +2452,7 @@ r.es.ez
 
 ---
 
-* *sommer* `s.om`
+* sommer `s.om`
 
 ---
 
@@ -2897,7 +2895,13 @@ r.es.ez
   * *uns*er `U.er`
     * ~ *unser* `U°` V
       * : *unser*er `U°.er`
-* *unter* `UNTER` V
+
+---
+
+* *unter* `UNTER` : `UNTER,i`
+
+---
+
 * ur- `UR` V
 * ~~val~~id `(.id)`
   * : *in*~~val~~ide `IN.id.e` ! `IN.id.e` BSA
@@ -3160,7 +3164,7 @@ r.es.ez
   * : *ge*winn `G-w.in` ~ `G-in`
   * wann `w.an` : `G-w.an`
   * wonn `w.on` : `G-w.on`
-* winter `wit-er`
+* winter `wit` ! `wit-er` ≠ wirt
 * *wir* `wr`: `wr-I`
   * d~~ass~~.*wir* `d.wr` ~ `DR` (3-stufiges R)
 * ~~wir~~k `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(w).L`
@@ -3273,7 +3277,7 @@ r.es.ez
     * ! `b.z.ik` ~ `b.ik`
 * ~~ziv~~il `(.il)`
 * zog ← zieh
-* *zu* `Z` : `(.e)Z` `Z-ma`
+* *zu* `Z` : `(.e)Z` `Z-ma` `Z,i`
   * *da*<i></i>*zu* `.a-Z` * `a-Z`
   * z~~um~~ `z`
   * *zur* `zr°`
