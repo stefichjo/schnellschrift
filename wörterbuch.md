@@ -1312,8 +1312,9 @@
     * ! `l.if`
   * ***läuf*** `.äuf` : `G-äuf.i`
     * : *vor*<i></i>*läuf*<i></i>*ig* `O-äuf.i` * `O,eu`
-* laut `l.aut` : `l.aut-er` `E-l.aut`
-  * : *ver*laut***bar*** `E-l.aut.bar` * `E-au-bar`
+* laut `l.aut` : `l.aut-er`
+  * : *ver*lauten `E-l.aut` * `E-au` STS
+    * : *ver*laut***bar***en `E-l.aut.bar` * `E-au-bar`
   * läut `l.äut`
     * *läuter* `.äut-er`
 * leb `l.eb`
