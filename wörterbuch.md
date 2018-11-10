@@ -749,19 +749,17 @@
 ## H
 
 * **hab** `ha` : `G-ha` `im.IN.ha-er`
+  * : *ich*.**hab** `.I.ha` ~ `.I-a`
+  * : *wir*.**hab** `wr.ha` ~ `wr-a`
+  * *hast* `ha`
+  * **hat** `ha`
+  * *hatt* `t`
+    * *hätt* `.ät`
+  * **haft** `ha` : `ha,i`
+    * : *einzel*<i></i>**haft** `N.el.ha` ~ `.ei-ha`
 
 ---
 
-  * .h**a**b. `a`
-    * : *ich*.h**a**b `.I-a`
-    * : *wir*.h**a**b `wr-a`
-  * **hat** `ha` V
-  * *hast* `ha` V
-  * *hatt* `t` V
-    * ***hätt*** `.ät` V
-  * **haft** `ha` : `ha,i`
-    * : *einzel*<i></i>**haft** `N.el.ha` ~ `.ei-ha`
-    * -**haft** `ha` V
 * hab `h.ab`
   * : habilitier `h.ab.ir` ! `h.ab.il.ir`
   * : habitus `h.ab.us`
