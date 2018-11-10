@@ -83,7 +83,7 @@
   * : **her**<i></i>*aus* `h.S` ~ `er.S` ~ `er-s`
   * auß `.auss`
     * : *außen* `.auss`
-    * : *außer* `.auss`
+    * : *außer* `.auss` : `.auss:ha`
       * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G-äuss` `E-äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
 * aut `.aut` : `.aut.o` `.aut.om`
@@ -252,7 +252,7 @@
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
 * ~~de~~r `(r)` : `.S-er` `(I)-er`
-* ~~d~~es `(.es)`
+* ~~d~~es `(.es)` : `(.es)ha`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
   * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
@@ -759,21 +759,12 @@
     * : *einzel*<i></i>**haft** `N.el.ha` ~ `.ei-ha`
 * hab `h.ab` :  `h.ab.us`
   * : habilitier `h.ab.ir` ! `h.ab.il.ir`
-
----
-
-* **halb** `ha` ! `h.ab` (BSA)
-  * : X `h.ab.H` `(.es)ha` `m.N.h.ab` `.auss:h.ab` `.in:h.ab` `(r) .od-UNG h.ab-er`
-  * : **halb**er `ha-er` ! `h.ab-er` (BSA)
-  * : **halb**ier `ha.ir`
-  * : d<b>*es*</b>**halb** `(.es)ha`
-  * : *inner*halb `.i-ha`
-  * : *unter***halb** `UNTER.ha`
-  * hälft `h.eft` (BSA)
-    * : hälfte `h.eft.e` (BSA)
-
----
-
+* halb `h.ab` : `h.ab-er` `(r) .od-UNG h.ab-er`
+  * : halbieren `h.ab.ir` * `ha.ir`
+  * : halb*heit* `h.ab.T` * `ha.T`
+  * -*halb* `ha` : → außer des inner unter wes
+  * *halb*- `ha` : → insel jahr wicht
+  * **hälft** `h` : `h.e` `.il:h.e`
 * hals `h.a-s`
 * ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN.-t` `.in-t` `ach-t-ig` `.aus,(-t)` `rÜ-t-l.o` `sa.E-t` `E-t-is` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
   * : ~~hal~~t*ung* `(-t)-UNG` ~ `-t-UNG`
@@ -956,7 +947,7 @@
   * .*in*. `(I)`
   * inn `.in`
     * : innen `.in` E
-    * : *inner* `.i`
+    * : *inner* `.i` : `.i-ha`
       * : *inner*<i></i>*lich* `.i-L`
       * : <b>*er*</b><i></i>*inner* `er.i`
       * ! *inner* `.in` BSA
@@ -978,8 +969,7 @@
 
 ---
 
-* insel `.i-s.el`
-  * : **halb**insel `ha.i-s.el`
+* insel `.i-s.el` : `ha.i-s.el`
 * *ingenieur* `IN.ör` : `d.ipl.IN.ör`
 * init ← it
 * *irgend* `.i` / `.ig`
@@ -998,9 +988,8 @@
 ---
 
 * **jahr** `ja` BSA
-  * : X `ja.z.ent` `ja.S ja.N` `ja.b.uch` `.im.ja` `IN.iS:ja` `.im.let,ja` `.im.echst,ja` `GTs:ja` `frÜ.ja` `.im.O-i ja` `.im (O)ja` `j.L` `(E)j`
+  * : X `ja.z.ent` `ja.S ja.N` `ja.b.uch` `ha.ja` `.im.ja` `IN.iS:ja` `.im.let,ja` `.im.echst,ja` `GTs:ja` `frÜ.ja` `.im.O-i ja` `.im (O)ja` `j.L` `(E)j`
   * : *dies***jähr**<i></i>**ig** `.is:j.i` × *dies*~~jähr~~**ig** `.is.i`
-  * : **halb**<i></i>**jahr** `ha.ja` ! `h.ab.ja` E ~ `h.ab.ar`
   * : **jahr**.~~für~~.**jahr** `ja.ja`
   * : *vor***jahr** `(O)ja` (BSA)
   * .<b>*jahr*</b>. `.ar`
@@ -2887,7 +2876,7 @@ r.es.ez
 
 ---
 
-* *unter* `UNTER` : `UNTER,i`
+* *unter* `UNTER` : `UNTER.ha` `UNTER,i`
 
 ---
 
@@ -3067,13 +3056,14 @@ r.es.ez
 * wen ← wer
 * wen ← wein
 * wend ← wind
+* **wenn** `w`
+* **wer** `wer`
+  * wem `w.em`
+  * wen `w.en`
+  * wes `w.es` : `w.es.ha`
 
 ---
 
-* **wenn** `w` V
-* **wer** `wer` E
-  * wem `w.em`
-  * wen `w.en`
 * werb `w.eb` (E)
   * : **be**werb `b.w.eb`
     * *bewerb* `b.w`
@@ -3113,7 +3103,7 @@ r.es.ez
   * -*wert* `(-t)` → staun streb
 * wes ← sein
 * wett `w.et`
-* **wicht** `wi` : `wi.i` `wi.T` `bru-o,wi` `G,wi` `schla,wi` `UN,wi.i`
+* **wicht** `wi` : `wi.i` `wi.T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
   * bösewicht `b.ös.e-w.icht` ~ `b.ös.e,wi`
 * **wick** `wi` : `wi.el` `(E)wi.el`
