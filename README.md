@@ -18,6 +18,7 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 @ä in "fänd"
 mater, toler
 @`L.T` → `T`
+@**ig** → *ig*
 
 ## Kurzschreibung
 

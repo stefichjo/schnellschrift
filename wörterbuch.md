@@ -784,25 +784,15 @@
   * **händel** `h` : `h-er` `gr.h-er` `vi:h-er`
 * harm `h.am` : `h.am.os`
 * ***harr*** `arr` : `b.arr.T`
-
----
-
-* h<b>*äng*</b> `(.eng)` ! `h.eng`
-  * : abh<b>*äng*</b>**ig** `ab.eng.i`
-  * : anh<b>*äng*</b>er `.an.eng-er`
-  * : anh<b>*äng*</b>**ig** `.an.eng.i`
-  * : *un*abh<b>*äng*</b>**ig** `UN-ab.eng.i` × *un*ab~~häng~~**ig** `UN-ab.i`
-  * h<b>*ing*</b> `(.ing)` ! `h.ing`
-  * h<b>*ang*</b> `(.ang)` ! `h.ang`
-    * : abh<b>*ang*</b> `.ab.ang`
-    * : anh<b>*ang*</b> `.an.ang`
-    * : *vor*h<b>*ang*</b> `O-ang`
-    * : *zu*<i></i>*samm*enh<b>*ang*</b> `Z-Sa.ang` ~ z**u**~~samm~~enh<b>*ang*</b> `u-ang`
-      * : *in*.*dies*em *zu*<i></i>*samm*enh<b>*ang*</b> `(I).iS.em Z-Sa.ang`
-        * × *in*.*dies*em.~~zu~~<i></i>~~samm~~enh<b>*ang*</b> `(I).iS.ang`
-
----
-
+* ~~h~~äng `(.eng)` STS : `ab.eng.i` `.an.eng-er` `.an.eng.i`
+  * ! `h.eng`
+  * : *un*ab~~h~~äng*ig* `UN-ab.eng.i` × `UN-ab.i`
+  * ~~h~~ing `(.ing)` STS
+    * ! `h.ing`
+  * ~~h~~ang `(.ang)` STS : `.ab.ang` `.an.ang` `O-ang`
+    * ! `h.ang`
+    * : *zu*<i></i>*samm*en~~h~~ang `Z-Sa.ang` ~ `u-ang`
+      * : *in*.*dies*em *zu*<i></i>*samm*en~~h~~ang `(I).iS.em Z-Sa.ang` × `(I).iS.ang`
 * **hart** `hat`
   * **härt** `het` : `het.e` `het-est` `G-het` `.ab.het` `er.het`
 * **haupt** `hau` : `hau-o` `er b.hau.et.e`
