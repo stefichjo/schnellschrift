@@ -559,8 +559,8 @@
 * fre~~md~~ `fr.e`
 * ~~fr~~**eu** `eu` : `eud.e` `er,eu-L`
 * *freund* `.eund` : `.eund.in` `.eund.FT` `b.eund.et`
-  * : *freund*<i></i>*lich* `.eund.L` * `eu-L`
-  * : *geschäft*s*freund* `GT.eund` * `GT,eu`
+  * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L`
+  * : *geschäft*s*freund* `GT.eund` ~ `GT,eu`
 * ***fried*** `.id`
   * : *un*<i></i>*zu*<b>*fried*</b>en `UN-z.id.en` × `UN-z.id`
 * ***frist*** `.ist`
@@ -733,19 +733,13 @@
 * gr~~oß~~ `gr` : `s.gr` `gr.ib`
   * *größ* `grö` : `grö.e`
     * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
-
----
-
-* **grund** `gru` : `gru.os` : `.ab.gru` `hnt,gru` `UNTER.gru` `O-d-er.gru` `.S.iS:gru.e` `v.gru.AU` `k.üd.i-UNG.gru`
-  * : **gründ** `grÜ` (BSA)
-    * : X `h.id-er:grÜ.e` `m.id-er:grÜ.e` `grÜ.e` `grÜ.L` `grÜ.Lst` `grÜ.L.T` `(b.e)grÜ` `(b.e)grÜ.et.e` `UN-b.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `I (b.e)grÜ`
-  * : *aus*.*dies*em.**grund**e `.s-S.gru.e` × `.s-S.e`
-* <b>*gruß*</b> `.uss`
-  * <b>*grüß*</b> `.üss`
-  * : *mit*.*freund*<i></i>*lich*~~en~~.<b>*grüß*</b>en `M.eund.L:üss.en` ~ `M,eu-Ü`
-
----
-
+* **grund** `gru` : `gru.os` `.ab.gru` `(I)t-er.gru` `k.üd.i-UNG.gru` `UNTER.gru` `O-d-er.gru` `v.gru.AU`
+  * : *aus*.*dies*em.**grund**e `.S-S.gru.e` × `.S-S.e`
+  * : **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(b)grÜ` `UN-b.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (b)grÜ`
+    * : **gründ**<i></i>*lich*<i></i>*keit* `grÜ.T` ! `grÜ.L.T`
+* ***gruß*** `.uss`
+  * ***grüß*** `.üss`
+  * : *mit*.*freund*<i></i>*lich*~~en~~.***grüß***en `M.eund.L:üss.en` ~ `M,eu-Ü`
 * gunst ← gönn
 * **gut** `gu`
   * ***bess***<i></i>er `bes-er`
@@ -2985,7 +2979,7 @@ r.es.ez
 
 ---
 
-* *vor* `O` : `O-ts`
+* *vor* `O` : `O-ts` `O-d-er`
   * : *vor*<i></i>*ig* `O-.i` * `(g)`
 
 ---
