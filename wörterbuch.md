@@ -757,12 +757,11 @@
     * *hätt* `.ät`
   * **haft** `ha` : `ha,i`
     * : *einzel*<i></i>**haft** `N.el.ha` ~ `.ei-ha`
+* hab `h.ab` :  `h.ab.us`
+  * : habilitier `h.ab.ir` ! `h.ab.il.ir`
 
 ---
 
-* hab `h.ab`
-  * : habilitier `h.ab.ir` ! `h.ab.il.ir`
-  * : habitus `h.ab.us`
 * **halb** `ha` ! `h.ab` (BSA)
   * : X `h.ab.H` `(.es)ha` `m.N.h.ab` `.auss:h.ab` `.in:h.ab` `(r) .od-UNG h.ab-er`
   * : **halb**er `ha-er` ! `h.ab-er` (BSA)
@@ -838,17 +837,10 @@
 * **her** `h` : `(bi)h` `.a-h`
   * *her*- `.e` : `.e-AU` `.e-UNTER` `.e-O`
 * ~~her~~bst `(bst)` : `(bst).L` `(bst)-tag`
-
----
-
-* **h**err `h` BSA
-  * : X `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G-ert-h.en` `h.sch` `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
-  * : X `h.err.i`
-* herz `h.ez` (BSA)
-  * : `h.ez.ha.est` `h.ez.L` `s.h.ez.L` `h.ez.l.os` `b.h.ez.i` `v.ga.h.ez`
-
----
-
+* **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G-ert-h.en`
+  * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
+  * : **herr**<i></i>*isch* `h.i` ! `h.err.i`
+* ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
 
@@ -983,14 +975,13 @@
   * : *industr*<i></i>*iell* `IN.ieL` (BSA)
   * : *industr*<i></i>*ial*isier*ung* `IN.iaL.ir-UNG` (BSA)
   * : *industr*ie `IN.I` ! `IN.u-I` BSA
-* insel `.i-s.l`
-  * : **halb**insel `ha.i-s.l`
-* *ingenieur* `IN.ör` BSA
-  * : X `d.ipl.IN.ör` `d-er.ing`
-* init ← it
 
 ---
 
+* insel `.i-s.el`
+  * : **halb**insel `ha.i-s.el`
+* *ingenieur* `IN.ör` : `d.ipl.IN.ör`
+* init ← it
 * *irgend* `.i` / `.ig`
   * n*irgend* `n.i` / `n.ig`
 * -**isch** `.i`
