@@ -295,7 +295,7 @@ Lediglich Auslautkürzel können schnellschriftliche Kurzformen verschatten. So 
 * ***mög*** `.ög`
   * ~~mög~~*lich* `(L)`
 * *ge*<i></i>***mein*** `G-N`
-  * *all*<i></i>*ge*<i></i>***mein*** ≠ allein
+  * *all*~~ge~~***mein*** ≠ allein
     * ⇒ *allgemein* `.a-G`
 
 In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
