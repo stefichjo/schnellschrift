@@ -90,15 +90,24 @@
 
 ## B
 
+* *baden-würtemberg* `b.ad-Ü`
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
   * : auto**bahn** `.aut.ba` ! `.aut.o-ba`
 * **bald** `ba` : `ba.i` `.as.ba` `(o)ba` `s.ba`
 * ball `b.all`
+* *bamberg* `b.am.b`
 * band ← bind
 * bank `b.ak` : `b.ak.en` `zr-a.b.ak`
   * bänk `b.ek` : `b.ek.e`
 * bar `b.ar` : `b.ar.FT`
-  * -***bar*** `bar`
+* bär `b.er` : `G-bär`
+  * bier `b.ir` STS : `G-b.ir`
+  * bar `b.ar` : `G-b.ar`
+    * -***bar*** `bar`
+  * bor `b.or` : `G-b.or`
+  * burt `but` : `G-but`
+  * **behr** `b` : `eNT.b`
+* bär `b.är`
 * **bas** `ba` : `ba.is`
 * **bau** `bau` : `bau.er` `bäu.er.in` `b.au.er.FT`
   * : **bäu**er*lich* `bäu.er.L` × `bäu.L`
@@ -111,8 +120,6 @@
   * *her*bei `h.b.ei` * `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
 * berg `b.eg` : `b.eg.e` `E-b.eg`
-  * *baden würtemberg* `b.ad-Ü`
-  * *bamberg* `b.am-b`
   * birg `b.ig` : `G-b.ig.e`
   * barg `b.ag` : `E-b.ag`
   * borg `b.og` : `G-b.og` `E-b.og`
@@ -364,6 +371,7 @@
   * : -nd `.d` → forder
 * ~~ener~~g `(g)` : `(g).I` `(g).i`
 * *ent*- `eNT`
+* *ent*behr ← behr ← bär
 * ***er*** `er`
 * -*ent* `eNT`
 * erb `.eb` : `.eb.e` `.eb.L` `.eb-FT` `G-ebt` `E-eb-UNG`
@@ -623,7 +631,7 @@
 ## G
 
 * gang ← geh
-* **ganz** `ga` : `ga.H`
+* **ganz** `ga` : `ga.H` `ga-S`
   * **gänz** `g` : `g.L`
     * : *er***gänz**en `er.g` ~ `er.gä`
 * **gar** `ga` : `gat` `o-ga` `ga.ga`
@@ -648,6 +656,7 @@
     * × ~~gab~~ : `AU.e` `AU.en.it` `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
   * → gift
+* geburt ← gebär ← bär
 * gefahr ← fahr
 * *gegen* `g` : `g-t` `g-t-ig` `b.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
   * : *da*<i></i>*gegen* `.a-g` ! `da.g`
@@ -936,8 +945,8 @@
     * : X `(n.er)-s.at` = `(n.er).s.at`
 * *in* `IN` V
   * : ***dar***<i></i>*in* `dar.IN` * `dar-i`
-  * *in*- `(I)`
-    * : *in*s `(I)-s` S ! `IN.s`
+  * *in*- `(I)` : `(I)-S.e`
+    * : *in*s `IN.s`
   * .*in*. `(I)`
   * inn `.in`
     * : innen `.in` E
@@ -1456,6 +1465,7 @@
 * merk `m.ek`
   * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa`
     * : *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
+      * : *mit*.*besonder*er.*auf*merk*sam*<i></i>*keit* `M-S.AU.T` × `M-S.T`
   * : **be**merk `b.m.ek` * `b.m`
 * **mess** `ess` : `ess.e` `ess-er`
   * : -*messer* `(er)` → höch
@@ -1704,6 +1714,7 @@
 ---
 
 * ~~n~~ur `(UR)`
+* *nürnberg* `nÜ.b`
 * nutz ← nieß
 * **nutz** `nu`
   * **nütz** `nÜ`
@@ -1755,6 +1766,13 @@
 * ort `.ot` (E)
   * ört*lich* `.öt.L` (E)
   * <b>*er*</b>örter `er.öt-er` (E)
+
+---
+
+* ost `ost` : `w.ost`
+
+---
+
 * *österreich* `.ö` E
 * **pack** ! `p.ak`
   * **päck**chen `p.ch.en`
@@ -2435,8 +2453,7 @@ r.es.ez
 
 * *sonder* `S` : `S.bar` `S-au` `S.barst.e`
   * *besonder* `b°`
-    * : **ganz**.*besonders* `ga b°` ~ `ga-s`
-    * : *in*s*besonder*e `(I)b°.e` ~ `(I)-s.e`
+    * -*besonder* `-S` → ganz in merk
 * sonst ← so
 * ~~s~~onst `(.ost)`
 * *sorg* `S.o` `b.S.o` : `b.S.o-is` `UN-b.S.o` `E-S.o` `O-S.o` `O-S.o-L`
@@ -2571,7 +2588,7 @@ r.es.ez
     * *stund* `u` : `u.e` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en`
       * ~~f~~eier*stund*e `(ei-er),u.e` ! `fei-er,u.e`
       * *stünd* `stÜ` : `stÜ.ch.en`
-  * **stadt** `sta` : `GR,sta` `gr.sta`
+  * **stadt** `sta` : `GR,sta` `gr.sta` `hau:sta`
     * **städt** `st` : `st.e` `st.i`
 
 ---
@@ -2654,6 +2671,7 @@ r.es.ez
 * stund ← steh
 * sturz `st.uz`
   * : stürz `st.üz` : `b.st.üz*` `Ü.st.üz*` `.um:st.üz`
+* *stuttgart* `st.u-ga`
 * **stütz** `stÜ` : `stÜ.UNG` `G-stÜ` `.ab.stÜ`
   * : *unter***stütz**en `UNTER.stÜ` * `UNTER-Ü` : `UNTER-Ü-t.e`
     * : ~~arb~~eits*los*en*unter*<i></i>**stütz**<i></i>*ung* `(T)-s.os,UNTER-Ü.UNG` « `(T)-s.os-Ü.UNG` ~ `(.los)-Ü.UNG`
@@ -3007,8 +3025,8 @@ r.es.ez
 * ***was*** `was`
 * ***wass***<i></i>er `was-er`
 * wechsel ← wachs
-* **weg** `w` : `(.es)w` `m.N.w` `.U-t-w` `O-w`
-  * ! `w.eg`
+* **weg** `w` : `(.es)w` `m.N.w` `.U-t-w` `O-w` `AU.m.w`
+  * ! `w.eg` ≠ `wenn`
   * : *kein*es**weg**s `(K).w-s` ~ `k.ws` × `k.w`
 
 ---
@@ -3094,6 +3112,9 @@ r.es.ez
 * wert `wet` : `.ab.wet`
   * -*wert* `(-t)` → staun streb
 * wes ← sein
+* west `w.est`
+  * : west*lich* `w.est-L` * `w.L`
+  * *west*- `w`
 * wett `w.et`
 * **wicht** `wi` : `wi.i` `wi.T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
@@ -3125,8 +3146,8 @@ r.es.ez
   * wand `w.ad`
     * wandel `w.ad.l` ~ `wa.l`
   * wund `w.ud`
-  * **wend** `w` : `.an.w` `AU.w` `E-w` `E-w-UNG`
-    * ! `w.ed`
+  * **wend** `w` : `.an.w` `AU.w` `E.w` `E-w` `E-w-UNG`
+    * ! `w.ed` ≠ wenn
     * : *not*<i></i>**wend**<i></i>*ig* `.ot.w.i` ~ `(o)w.i`
     * **wand** `wa` : `b.wa-t-is` `N.wa` `G-wa` `E-wa`
       * ! `w.ad`
