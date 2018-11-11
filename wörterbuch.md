@@ -810,6 +810,7 @@
   * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
     * : *ge*<i></i>***häus***<i></i>e `G-äus.e` ! `G-h.äus.e`
 * heb `h.eb` : `schat-h.eb.el`
+* *heidelberg* `h.eid.b`
 * heiß ← heiz
 * **heiß** `h.ei`
   * **hieß** `hi` ⇒ `h.i` ! `h.iss`
@@ -3071,20 +3072,17 @@ r.es.ez
   * wem `w.em`
   * wen `w.en`
   * wes `w.es` : `w.es.ha`
+* werb `w.eb`
+  * **be**werben `b.w.eb` * `b.w`
+    * : wett**be**werb `w.et.b.w.eb` ~ `w°`
+  * *er*werben `er.w.eb` * `er.w`
+  * *ge*werb `G-w.eb` * `G-w`
+    * : *ge*<i></i>*werb*<i></i>*lich* `G-w.L` × `G-L`
+  * warb `w.ab`
+  * worb `w.ob`
 
 ---
 
-* werb `w.eb` (E)
-  * : **be**werb `b.w.eb`
-    * *bewerb* `b.w`
-  * : <b>*er*</b>werb `er.w.eb`
-    * *erwerb* `er.w`
-  * : *ge*werb `G-w.eb`
-    * *gewerb* `G-w`
-  * : *ge*werb*lich* `G-w.eb.L` × *ge*~~werb~~*lich* `G-L`
-  * : wett**be**werb `w.et.b.w.eb` ~ `w°`
-  * warb `w.ab` (E)
-  * worb `w.ob`
 * **w**~~erd~~ `(w)` V
   * **w**~~i~~**r**~~d~~ `(wr)` V
   * **w**~~i~~**r**~~st~~ `(wr)` V
