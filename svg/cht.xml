@@ -9,19 +9,8 @@
 <path class="Stroke" d="
   M0,3
   C0,-1 6,-1 6,3
+  S0,17 0,21 6,25 6,21
 " />
-
-
-<path class="Stroke" d="
-  M6,3
-  L0,21
-" />
-
-<path class="Stroke" d="
-  M6,21
-  C6,25 0,25 0,21
-" />
-
 
 </svg>
 

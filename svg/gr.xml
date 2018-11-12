@@ -9,11 +9,7 @@
 <path class="Stroke" d="
   M0,3
   C0,-1 6,-1 6,3
-" />
-
-<path class="Stroke" d="
-  M6,3
-  L6,24
+  S6,21 6,24
 " />
 
 </svg>
