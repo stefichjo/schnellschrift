@@ -11,10 +11,17 @@
   C0,-1 6,-1 6,3
 " />
 
+
 <path class="Stroke" d="
   M6,3
-  L6,12
+  L0,21
 " />
+
+<path class="Stroke" d="
+  M6,21
+  C6,25 0,25 0,21
+" />
+
 
 </svg>
 
