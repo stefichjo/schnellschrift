@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="25cm" height="20cm" viewBox="0 -18 20 35"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<path class="Grid" d="M-9,-9 L9,-9" />
+<path class="Grid" d="M-9,-6 L9,-6" />
+<path class="Grid" d="M-9,-3 L9,-3" />
+<path class="Grid" d="M-9,0 L9,0" />
+<path class="Grid" d="M-9,3 L9,3" />
+<path class="Grid" d="M-9,6 L9,6" />
+<path class="Grid" d="M-9,9 L9,9" />
+<path class="Grid" d="M-9,-9 L-9,9" />
+<path class="Grid" d="M-6,-9 L-6,9" />
+<path class="Grid" d="M-3,-9 L-3,9" />
+<path class="Grid" d="M0,-9 L0,9" />
+<path class="Grid" d="M3,-9 L3,9" />
+<path class="Grid" d="M6,-9 L6,9" />
+<path class="Grid" d="M9,-9 L9,9" />
+
+<circle class="Helper" cx="0" cy="0" r="9" />
+
+  <style type="text/css"><![CDATA[
+    .Stroke { fill:none; stroke:black; stroke-width:0.3 }
+    .Grid { fill:none; stroke:grey; stroke-width:0.01 }
+    .Helper { fill:none; stroke:red; stroke-width:0.01 }
+  ]]></style>
+
+<circle class="Helper" cx="-8.485281374238571" cy="-3" r="1" />
+<circle class="Helper" cx="8.485281374238571" cy="-3" r="1" />
+<circle class="Helper" cx="-5.485281374238571" cy="-11.485281374238571" r="1" />
+<circle class="Helper" cx="5.485281374238571" cy="-11.485281374238571" r="1" />
+
+
+<!-- 
+  3 * (sqrt 8) == 8.485281374238571 ≅ 8.5
+-->
+
+<!-- Bogen -->
+<path class="Stroke" d="
+  M-8.485281374238571,-3 C-5.485281374238571,-11.485281374238571
+    5.485281374238571,-11.485281374238571 8.485281374238571,-3
+  S22.455844122715714,5.485281374238571 25.455844122715714,-3
+  
+" />
+
+<circle class="Helper" cx="22.455844122715714" cy="5.485281374238571" r="1" />
+<circle class="Helper" cx="25.455844122715714" cy="-3" r="1" />
+
+<!-- TODO: Kontrollpunkte mit 8/9 skalieren -->
+
+<circle class="Helper" cx="22.455844122715714" cy="5.485281374238571" r="1" />
+<circle class="Helper" cx="25.455844122715714" cy="-3" r="1" />
+
+
+</svg>
+
