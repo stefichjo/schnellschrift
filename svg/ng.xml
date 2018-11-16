@@ -1,28 +1,25 @@
 <?xml version="1.0" standalone="no"?>
-<svg width="25cm" height="20cm" viewBox="4 -2 6 30"
+<svg width="25cm" height="20cm" viewBox="4 -8 8 30"
      xmlns="http://www.w3.org/2000/svg" version="1.1">
 
   <style type="text/css"><![CDATA[
     .Stroke { fill:none; stroke:black; stroke-width:3 }
+    .Stroke2 { fill:none; stroke:red; stroke-width:0.3 }
   ]]></style>
 
+
 <path class="Stroke" d="
-  M0 6
-  A6 6
-   0 0 1
-   12 6
-  A6 6
-   0 0 0
-   24 6
+  M-8.485281374238571,0
+  C-5.6568542494923815,-8.0
+   5.6568542494923815,-8.0
+   8.485281374238571,0
+  S22.627416997969526,8.0
+   25.455844122715714,0
 " />
 
-<!--
-<path d="
-  M0,6
-  C0,-2 12,-2 12,6
-  S24,14 24,6
-" stroke="grey" stroke-width="0.2" fill="none" />
--->
+
+<circle cx="0" cy="3" r="9" class="Stroke2" />
+<circle cx="16.970562748477143" cy="-3" r="9" class="Stroke2" />
 
 </svg>
 
