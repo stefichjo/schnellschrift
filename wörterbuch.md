@@ -603,6 +603,7 @@
   * : *führ*er `Ür-er` ⇒ `.ür-er` ! `f.ür-er`
   * : *führ*<i></i>*ung* `Ür-UNG` ⇒ `.ür-UNG` ! `f.ür-UNG`
   * : *auf*~~s~~icht*führ*end `AU.icht-Ür.ed` * `AU-i-Ür.ed`
+  * : *aus*<i></i>*führ*<i></i>*lich* `.S-Ür.L` ⇒ `.S.ür.L` ~ `.S-ü.L`
   * : *darauf* *zu***rück**<i></i>*führ*en `dar-AU Z-rÜ-Ür` ⇒ `dar-AU Z-rÜ.ür` « `dar-AU-Ür`
   * : *da*<i></i>*zu* *führ*en `.a-Z Ür` ⇒ `.a-Z .ür` ~ `a-Z-Ür`
   * * ~~f~~**ü**~~hr~~ `ü` : `.S-ü` `.S-ü.L` `dr-ü`
