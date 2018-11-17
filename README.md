@@ -79,9 +79,21 @@ Die Partizip-Endung "-t" wird in der Regel weggelassen. Sie wird nur geschrieben
 
 #### Adjektive
 
-Zwischen bestimmtem Artikel und Substantiv wird die Endung von Adjektiven ausgelassen.
+Nach bestimmtem Artikel werden die Endungen von Adjektiven ausgelassen.
 
-…
+* *die* **gut**e *nach*<i></i>**richt** `I gu ach,ri`
+
+#### -ung
+
+Die Endung -*ung* `UNG` wird nach Fußschleifenzeichen durch Auslassen der Fußschleife angedeutet.
+
+* heiz*ung* `h.eiz*`
+* **zahl**<i></i>*ung* `za*`
+
+Bei Verbstämmen wird Endung -*ung* `UNG` nach bestimmtem Artikel nicht geschrieben.
+
+* *die* *rech*n*ung* = *die* *rech*~~nung~~ `I ech`
+* *die* **zeit**<i></i>*ung* `I T-UNG`
 
 ### Lateinische Suffixe und Endungen
 
@@ -213,11 +225,14 @@ Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
 * **kon**- `ko` = **ko**~~n~~-
 * **schön** `schö` = **schö**~~n~~
 
-* **frag**e `fra-e` = **fra**~~ge~~
-
-Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit `-er`.
+Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit "-er" `-er`.
 
 * **fehl**er `f-er` = **fe**~~hl~~er = f~~ehl~~er = ***fer***
+
+Die Endung "-e" `.e` von weiblichen Hauptwörtern wird bei Anlautkürzungen und Anlautkürzeln nicht geschrieben.
+
+* **woch** `wo-e` = **wo**~~ch~~e
+* li~~st~~e `l.i-e` = li~~ste~~
 
 #### Ausweichen (statt Anstellen und Wölben)
 
@@ -308,6 +323,22 @@ In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
 
 * ***glaub*** `.aub`
   * : *wir*.<i></i>***glaub***<i></i>en `wr.aub` * `wr-au`
+
+### Praxis: Fußschleife und die Endung -ung
+
+Um die Endung -*ung* durch Auslassen der Fußschleife anzudeuten, wird in der Praxis die Kürzung des Stamms vor -*ung* so geändert, dass ein Fußschleifenzeichen vor der Endung -*ung* steht.
+
+* ***stell***en `.ell`
+  * ***stell***<i></i>*ung* `.ell-UNG` ⇒ `st*`
+* **sitz**en `si`
+  * **sitz**<i></i>*ung* `si.UNG` ⇒ `.iz*`
+
+### Praxis (STS)
+
+Die Endung -*ion* wird durch Auslassen der Fußschleife angedeutet.
+
+* *in*<i></i>**stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
+* **kon**<i></i>***stell***at*ion* `ko.ell.iO` ⇒ `ko.st*`
 
 ### ...
 
