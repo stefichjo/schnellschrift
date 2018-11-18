@@ -836,15 +836,14 @@
 * ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
+* **hier** `hi` : `(hi)AU` `hi.S` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER`
+  * : **hier**<i></i>*zu* `(hi)-Z` ~ `h.i-Z`
+  * : **hier**bei `(hi)b.ei` ~ `h.i-b.ei`
+  * hies `h.is` : `h.is.i`
+* hies ← hier
 
 ---
 
-* **hier** `hi` BSA
-  * : X `(hi)AU` `hi.S` `(hi)b.ei` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER` `(hi)Z`
-  * : X `h.i-b.ei` `h.i-Z`
-  * **hies** `hi` ! `h.is` BSA
-    * : **hies**<i></i>**ig** `hi.i` ! `h.is.i` (BSA)
-* hies ← hier
 * *hin* `hn` V
   * : *hin*t~~er~~, *hin*t~~en~~ `hnt` BSA
     * : X `hnt-h.um` `hnt-N.ad-er` `hnt-l.ass` `hnt-h` `hnt-m.i`
