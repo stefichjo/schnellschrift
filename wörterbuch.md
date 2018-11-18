@@ -13,7 +13,8 @@
 * adr~~ess~~ `.adr`
 * *afrik* `.afr` : `.afr.i`
   * : *afrik*a `.afr.a` × `.afr`
-* ag `.ag`
+* ag `.ag` : `.ag.eNT`
+  * : ag*ent*ur `.ag.eNT.UR` × `.ag.UR`
   * akt `.akt` ⇒ `.ak.t`
     * -*akt*- `-t` : `r-t-iO`
       * : **re**<i></i>*akt*or `r-t-or` ! `r.akt-or`
@@ -259,7 +260,7 @@
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
 * ~~de~~r `(r)` : `.S-er` `(I)-er`
-* ~~d~~es `(.es)` : `(.es)ha`
+* ~~d~~es `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
   * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
@@ -357,6 +358,7 @@
     * -*verein* `N` → sport
   * *einst* `.ei-st` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E-N.el` `.im.N.el`
+    * *einzel*- `.ei` → handel
   * ~~ein~~z**ig** `(z.i)`
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
@@ -550,9 +552,9 @@
 * flucht ← flieh
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G-fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
-    * : *er***folg**e `er.fo.e` ! `er.f.og.e`
-    * × ~~folg~~ : `er`
-      * : *er*~~folg~~<i></i>~~r~~eich `er.eich` ~ `er,r.ei`
+    * : *er***folg**e `er.fo-.e` ! `er.f.og.e`
+    * : *er*<i></i>**folg**<i></i>~~r~~eich `er.fo-.eich`
+      * *erfolgreich* `er,r.ei`
   * : *in***folg** `IN.fo` ~ `IN.o`
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er*<i></i>*forder*<i></i>*lich* `er.F.L` ~ `er.o-L`
@@ -788,7 +790,7 @@
   * **händ** `h` : `h.e` `.S.h.i`
     * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er`
 * **handel** `ha` : `bu.ha` `gr.ha` `N.ha` `ms.ha` `wet-ha` `.e ha.um`
-  * ! **hand**el `ha.el` : `ha.el.d` `ha.elt.e`
+  * ! **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `.ei-ha.el`
   * : *handlung* `ha*` : `bu:ha*`
   * : *ver*<i></i>**trag**s*ver*<i></i>*handlung*en `(E)tra.ha*.en`
   * **händel** `h` : `h-er` `gr.h-er` `vi:h-er`
@@ -1085,7 +1087,7 @@
   * ! `k.en` : `k.en.e`
     * ~ ke~~nn~~ `k.e`
   * ~~kenn~~ : `.an.er`
-  * **kann** `ka` : `ka-t.e`
+  * **kann** `ka` : `ka-t.e` `b.ka-t`
 * **kind** `ki` : `ki.H` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
   * ! `k.id` : `k.id.i` `k.id.L`
 * ~~kir~~ch `(ch)` : `(ch)L` `(ch)T-UNG`
@@ -2447,7 +2449,7 @@ r.es.ez
 ---
 
 * *sonder* `S` : `S.bar` `S-au` `S.barst.e`
-  * *besonder* `b°`
+  * *besonder*, *besonders* `b°`
     * -*besonder* `-S` → ganz in merk
 * sonst ← so
 * ~~s~~onst `(.ost)`
@@ -2980,6 +2982,9 @@ r.es.ez
 * **weg** `w` : `(.es)w` `m.N.w` `.U-t-w` `O-w` `AU.m.w`
   * ! `w.eg` ≠ `wenn`
   * : *kein*es**weg**s `(K).w-s` ~ `k.ws` × `k.w`
+  * → wegen
+* wegen `w.eg`
+  * -**wegen** `w` → des
 
 ---
 

@@ -333,6 +333,13 @@ Um die Endung -*ung* durch Auslassen der Fußschleife anzudeuten, wird in der Pr
 * **sitz**en `si`
   * **sitz**<i></i>*ung* `si.UNG` ⇒ `.iz*`
 
+### Praxis: Verschattende Kürzel
+
+Formen, die Kürzungen verschatten, werden als eigenständige Kürzel geführt. So verschattet beispielsweise *erfolgreich* `er,r.ei` sowohl die Anlautkürzung **folg** `fo` als auch die Auslautkürzung ~~r~~eich `.eich`.
+
+* *er*<i></i>**folg**<i></i>~~r~~eich `er.fo-.eich`
+  * *erfolgreich* `er,r.ei`
+
 ### Praxis (STS)
 
 Die Endung -*ion* wird durch Auslassen der Fußschleife angedeutet.
