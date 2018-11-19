@@ -19,6 +19,8 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 mater, toler
 @`L.T` → `T`
 @**ig** → *ig*
+-ung fällt anscheinend auch nach unbestimmtem Artikel aus
+-st wird eigentlich immer zu -t
 
 ## Kurzschreibung
 
@@ -229,10 +231,11 @@ Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit "-er" `-er`.
 
 * **fehl**er `f-er` = **fe**~~hl~~er = f~~ehl~~er = ***fer***
 
-Die Endung "-e" `.e` von weiblichen Hauptwörtern wird bei Anlautkürzungen und Anlautkürzeln nicht geschrieben.
+Die Endung "-e" `.e` von weiblichen Hauptwörtern wird bei Anlautkürzungen und Anlautkürzeln nicht geschrieben. Ausgenommen sind Substantivierungen von Eigenschaftswörtern.
 
-* **woch** `wo-e` = **wo**~~ch~~e
+* **woch**e `wo-e` = **wo**~~ch~~e
 * li~~st~~e `l.i-e` = li~~ste~~
+* **größ**e `grö.e`
 
 #### Ausweichen (statt Anstellen und Wölben)
 
