@@ -569,7 +569,11 @@
   * -*reform* `.om` → schul
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
+* fracht ← eig
+* **fracht** `fra` : `fra.ko`
 * **frag** `fra` : `fra-e` `fra.ed` `fra.L` `fra.l.os` `G-fra` `.an.fra` `ach.fra` `rÜ.fra` `I b.fra-t-en` `sI fra` `sI fra-t.e` `sI fra.t-en`
+* *frankfurt.am.main* `fra,u-N`
+* *frankfurt.an.der.oder* `fra,u.od-er`
 * **frau** `frau`
 * ~~fr~~ei `(.ei)` : `(.ei).H`
 * fre~~md~~ `fr.e`
@@ -1144,14 +1148,15 @@
   * **köst** `köst` (BSA)
     * : **köst***lich* `köst.L` (BSA)
     * : *die* **be**<i></i>**köst**ig~~ung~~ `I b.köst.ig`
-  * -*kosten* `ko` → person
-* **kraft** `kra` : `kra.wa` `M.al.kra`
-  * **kräft** `kr` : `kr.e` `kr.i` `b.kr.i` `M.al.kr.en` `eNT.kr.et`
+  * -*kosten* `ko` → fracht person
 
 ---
 
+* **kraft** `kra` : `kra.wa` `M.al.kra`
+  * : **kraft**<i></i>*wagen* `kra.wa` ! `kr.aft.wa` ≠ krankenwagen STS
+  * **kräft** `kr` : `kr.e` `kr.i` `b.kr.i` `M.al.kr.en` `eNT.kr.et`
 * **krank** `kra` : `kra.ha` `er.kra`
-  * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa` ≠ kraftwagen :(
+  * : **krank**en**wag**en `kra.wa` STS ! `kr.ak.wa` ≠ kraftwagen
   * : **krank***heit* : `kra.H` * `a-H`
   * **kränk** `kr` : `kr.L` `kr.L.T`
     * : **kränk**<i></i>*st* `kr-t` ! `kr-st`
