@@ -268,10 +268,17 @@ Die Endung "-e" `.e` von weiblichen Hauptwörtern wird bei Anlautkürzungen und 
   * **spruch** `.uch` = ***spruch***
     * **sprüch** `.üch` = ***sprüch***
 
-#### auf -ng oder -ss
+#### auf -ng, -ss, -x
 
 * **lang** `ang`
 * **mess** `ess`
+* **text** `ext`
+
+#### Herausziehen des "r"
+
+Die kleinsten Zeichen, aus denen das "r" herausgezogen werden kann, sind "b", "d", "h" und "w".
+
+* **lag**er `la-er` ⇒ `l.ag-er`
 
 ### Auslautkürzung
 
@@ -342,6 +349,10 @@ Formen, die Kürzungen verschatten, werden als eigenständige Kürzel geführt. 
 
 * *er*<i></i>**folg**<i></i>~~r~~eich `er.fo-.eich`
   * *erfolgreich* `er,r.ei`
+* **text**il `ext-il`
+  * *textil* `t.il`
+* *zentr*al `zr.al`
+  * *zentral* `zra`
 
 ### Praxis (STS)
 
