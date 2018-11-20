@@ -2461,7 +2461,7 @@ r.es.ez
 * **sp**ät `sp`
   * : **sp**äter `sp.er` ! `sp.et-er`
   * : **sp**ät*est*e `sp-t.e` ! sp.est.e`
-  * : **sp**ätestens `sp-t-ens` ~ `sp.ens`
+  * : **sp**ät*est*ens `sp-t-ens` ~ `sp.ens`
 * spend `sp.ed` : `sp.ed.e`
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.ieL`
   * : **spez**ifizier `sp.if.ir` ~ `sp.ez.ir`
