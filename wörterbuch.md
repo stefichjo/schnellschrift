@@ -92,7 +92,7 @@
 
 ## B
 
-![Alt text](b)
+![Alt text](svg/b.svg)
 <img src="svg/b.svg">
 
 * *baden-würtemberg* `b.ad-Ü`
