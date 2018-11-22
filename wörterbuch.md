@@ -93,12 +93,6 @@
 ## B
 
 ![Alt text](b)
-<img src="./svg/b.xml">
-
-![Alt text](b)
-<img src="./svg/b.svg">
-
-![Alt text](b)
 <img src="svg/b.svg">
 
 * *baden-würtemberg* `b.ad-Ü`
