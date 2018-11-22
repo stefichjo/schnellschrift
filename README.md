@@ -21,6 +21,7 @@ mater, toler
 @**ig** → *ig*
 -ung fällt anscheinend auch nach unbestimmtem Artikel aus
 -st wird eigentlich immer zu -t
+heben, kennen, treten, be-
 
 ## Kurzschreibung
 
@@ -321,10 +322,13 @@ Kurzformen von anderen Wortarten können hingegen im Innern des Wortes durch Aus
 * *ständ* `end`
   * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
 
-Lediglich Auslautkürzel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
+Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
 
 * ***mög*** `.ög`
   * ~~mög~~*lich* `(L)`
+* **be**<i></i>**stimm**en `b.im`
+  * *bestimm*en `b°-i`
+    * *mitbestimm*en `M°`
 * *ge*<i></i>***mein*** `G-N`
   * *all*~~ge~~<i></i>***mein*** ≠ allein
     * ⇒ *allgemein* `.a-G`
