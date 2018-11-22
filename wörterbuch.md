@@ -90,12 +90,7 @@
 * auß → aus
 * aut `.aut` : `.aut.o` `.aut.om`
 
-## B
-
-![b](svg/b.svg)
-<img src="svg/b.svg">
-
-<img src="svg/b.svg">
+## B <img src="svg/b.svg">
 
 * *baden-würtemberg* `b.ad-Ü`
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
