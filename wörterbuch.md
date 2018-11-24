@@ -124,9 +124,9 @@
   * *her*bei `h.b.ei` * `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
 * bereit ← reit
-* **be**reit `b.r.T` ~ `b.T`
+* **be**reit `b.r.T` : `O-b`
+  * ~ `b.T`
   * : **be**reits `b.r.Ts` ~ `Ts`
-    * : *vor*<i></i>**be**reiten `O-b.r.T` × `O-b`
 * berg `b.eg` : `b.eg.e` `E-b.eg`
   * birg `b.ig` : `G-b.ig.e`
   * barg `b.ag` : `E-b.ag`
@@ -364,7 +364,7 @@
       * : k**ein**- `k.ei`
       * : m**ein**- `m.ei`
       * : s**ein**- `s.ei`
-  * : ein*heit* `N.H` × `H` : `UN-H.L` `E-H.L`
+  * : ~~ein~~*heit* `(H)` ⇒ `H` : `UN-H.L` `E-H.L`
   * : *irgend*ein `.i-N` ! `.ig.N`
   * : *ver*ein `E-N`
     * : *ver*ein***bar*** `E-N.bar` × `E-bar`
@@ -471,9 +471,10 @@
 * fassade `f.ass.ade`
 * fasson `f.ass.ong`
 * *fast* `Fa`
-* fat
-  * **f**ess `f`
-    * **kon**<i></i>**f**ess*ion* `ko.f-o` × `ko.f`
+* fat, fit
+    * : **kon**<i></i>**fess**<i></i>*ion* `ko.f-o` × `ko.f`
+    * : *pro*<i></i>**fess**<i></i>*ion* `(o)f-o` ! `(o)f.ess.iO`
+    * : *pro*<i></i>**fess**or `(o)f.or` × `(o)f`
 * **faz** `fa` : `fa.it`
   * **f**iz `f` : `b.en.e-f` `.o-f.ieL`
     * : de**f**izit `d.e-f.it` × `d.e-it`
@@ -537,11 +538,7 @@
   * : **kon**~~f~~**irm**at*ion* `ko,im-o` ! `ko.f.im-o`
 * **fisch** `fi` : `fi-er` `fi-er` `fi-er.ei` `ho.s.e,fi-er.ei`
   * : **fisch**en `fi` ! `f.isch`
-* fit
-  * **fess** `f`
-    * : **kon**<i></i>**fess**<i></i>*ion* `ko.f-o` × `ko.f`
-    * : *pro*<i></i>**fess**<i></i>*ion* `(o)f-o` ! `(o)f.ess.iO`
-    * : *pro*<i></i>**fess**or `(o)f.or` × `(o)f`
+* fit → fat
 * **flach** `fla`
   * **fläch** `fl`
 * ***flieg*** `.ig`
@@ -970,7 +967,7 @@
 * *irgend* `.i` / `.ig`
   * n*irgend* `n.i` / `n.ig`
 * irr `.irr`
-  * *irrtum* `tum`
+  * ~~irr~~*tum* `(tum)` ⇒ `tum`
 * -**isch** `.i`
 * -*ismus* `.iS`
 * ist ← sein
@@ -2807,7 +2804,7 @@
 * wach `w.ach` : `w.ach.Sa`
 * *wachs* `was`
   * : *wachs*<i></i>*tum* `was.tum` * `was-u`
-  * : *wirtschaft*s*wachs*<i></i>*tum* `FT.was.tum` × `FT.was`
+  * : ~~wirt~~*schaft*s*wachs*<i></i>*tum* `FT.was.tum` × `FT.was`
   * *wächs* `wes`
   * *wuchs* `wus`
     * *wüchs* `wüs`
@@ -2828,7 +2825,7 @@
 * walt `wat` : `G-wat` `E-wat`
   * *anwalt* `.an-t`
     * : *recht*s*anwalt* `R.an-t` × `R.an`
-  * *verwaltung* `UNG` : `UNG.ko` `(.es).UNG`
+  * ~~verwalt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `(.es).UNG`
   * wält `wet` : `b.wet-ig` `Ü.wet-ig.ed`
 * wand `w.ad`
 * wand ← wind
@@ -2972,9 +2969,9 @@
   * ! `w.ik`
 * **wirt** `wit`
   * *wirt*- `(wr)`
-    * *wirtschaft* `FT` :  `FT.L.e,ig` `FT.N`
-      * : *ge*<i></i>werb<i></i>*lich*e *wirtschaft* `G-L.e FT` ~ `G-L.FT`
-      * : **la***nd*wirtschaft* `la.FT` ~ `a-(wr).FT` ≠ landschaft
+    * ~~wirt~~*schaft* `(FT)` ⇒ `FT` :  `FT.L.e,ig` `FT.N`
+      * : *ge*<i></i>werb<i></i>*lich*e ~~wirt~~*schaft* `G-L.e FT` ~ `G-L.FT`
+      * : **la***nd~~wirt~~*schaft* `la.FT` ~ `a-(wr).FT` ≠ landschaft
 * **wiss** `.iss` : `.iss-t-L` `.iss,(-t)` `G-.iss` `G-.iss.H` `s.ig.iss` `UN-.iss.ed` `UN-.iss.H` `UN-G-.iss` `UN-G-.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
   * *wissenschaft* `wi.FT`
   * : *ver*<i></i>*ge***wiss**ern `E-iss-er` ~ `E-G` : `E-G.-t.e`
@@ -2996,8 +2993,8 @@
   * : *ge*<i></i>**wöhn**<i></i>*lich* `G-wö.L` ~ `G-ö-L`
 * *woll* `(.ol)`
   * *will* `(l)`
-* wort `wot`
-  * *antwort* `aNT` : `(E)-aNT` `(E)-aNT,u-N`
+* wort `wot` : `(E)aNT` `(E)aNT,u-N`
+  * : *ant*wort `aNT.wot` × `aNT`
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
 * **wunsch** `wu`

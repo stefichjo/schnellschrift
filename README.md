@@ -152,10 +152,6 @@ Eine Vorsilbe kann an das obere Ende des folgenden Zeichens angeschlossen werden
 * *ver***tief**en `(E)ti`
 * *ver***trug** `E-tru`
 
-Andere Anstellungen werden als Kürzel notiert.
-
-* *ver*<i></i>*ant*worten `E-aNT.wot` ~ *verantwort*en `(E)aNT`
-
 Ein Anstellen an Zeichen mit Kopfschleife ist nicht möglich, sodass die Vorsilbe gegebenenfalls getrennt geschrieben werden muss.
 
 * an**pflanz**en `.an.pfla`
@@ -204,9 +200,17 @@ Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
 * ~~ab~~end `(.ed)`
 * ~~mon~~at `(.at)`
 
+Auslautkürzel mit Fußschleife werden beim Setzen auf die Oberlinie um eine Stufe erhöht.
+
 * ~~her~~z `(z)`
 
-* -~~nehm~~*ung* `(UNG)` = `UNG`
+Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG` stehen immer auf der Grundlinie.
+
+* ~~ein~~*heit* `(H)` ⇒ `H`
+* ~~irr~~*tum* `(tum)` ⇒ `tum`
+* -~~nehm~~*ung* `(UNG)` ⇒ `UNG`
+* ~~verwalt~~*ung* `(UNG)` ⇒ `UNG`
+* ~~wirt~~*schaft* `(FT)` ⇒ `FT`
 
 ### Inlautkürzel
 
@@ -310,6 +314,13 @@ Verkehrsschriftlichen Kurzform können hingegen verschattet werden. Beispielswei
 * *miss*<i></i>*ion* `ms-o`
   * **ko**<i></i>*miss*<i></i>*ion* `ko-i.iO`
 
+Wörter mit zwei Vorsilben können auf diese gekürzt werden.
+
+* reit `reit`
+  * *vor*<i></i>**be**reiten `O-b.r.T` × `O-b`
+* wort `wot`
+  * **be**<i></i>*ant*worten `b.aNT.wot` × `b.aNT`
+
 Im Wortzusammenhang können ungekürzte Verbstämme ausgelassen oder durch ihren Selbstlaut angedeutet werden. So werden beispielsweise die ungekürzten "empfehlen" `.emp-f.el` und "empfahl" `.emp-f.al` zu `.emp` und `.emp-a`, während bereits gekürztes *ent*<i></i>**wick**el~~n~~ `eNT,wi.el` nicht weiter zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird und ungekürztes *be*merk~~en~~ `b.m.ek` nicht etwa auf den Stammanlaut zu `b.m` verkürzt wird.
 
 * fehl `f.el`
@@ -380,10 +391,20 @@ Formen, die Kürzungen verschatten, werden als eigenständige Kürzel geführt. 
 
 ### Praxis (STS)
 
-Die Endung -*ion* wird durch Auslassen der Fußschleife angedeutet.
+Die Endung -*ion* wird durch Auslassen der Fußschleife angedeutet bzw. wird nach bestimmtem Artikel ausgelassen.
 
 * *in*<i></i>**stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
 * **kon**<i></i>***stell***at*ion* `ko.ell.iO` ⇒ `ko.st*`
+* *die*
+  * *dis*<i></i>*kuss*<i></i>*ion* `I ds-u-o` ⇒ `I ds-u`
+  * *dis*<i></i>***pos***<i></i>it*ion* `I ds.os.iO` ⇒ `I ds.os`
+  * illus*ion* `I .i-lus.iO` ⇒ `I .i-lus`
+  * *in*<i></i>**flat**<i></i>*ion* `I IN.fla-o` ⇒ `I IN.fla`
+  * *kom*<i></i>*miss*<i></i>*ion* `I ko-ms-o` * `I ko-i.iO` ⇒ `I ko-i`
+  * **kon**<i></i>**f**ess*ion* `I ko.f-o` ⇒ `I ko.f`
+  * **kon**<i></i>***zess***<i></i>*ion* `I ko.ess.iO` ⇒ `I ko.ess`
+  * *trans*<i></i>**fus**<i></i>*ion* `I tra.fu-o` ⇒ `I tra.fu`
+  * *trans*<i></i>*miss*<i></i>*ion* `I tra.ms-o` ⇒ `I tra.ms`
 
 ### ...
 
