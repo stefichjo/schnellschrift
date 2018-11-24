@@ -310,21 +310,23 @@ Verkehrsschriftlichen Kurzform können hingegen verschattet werden. Beispielswei
 * *miss*<i></i>*ion* `ms-o`
   * **ko**<i></i>*miss*<i></i>*ion* `ko-i.iO`
 
-Schnellschriftliche Kurzformen von Verben werden nicht verschattet. So wird beispielsweise "empfehlen" `.emp-f.el` zu `.emp`, während *ent*<i></i>**wick**el~~n~~ `eNT,wi.el` nicht zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird. Auf andere Kürzungsformen außer Auslassung und Selbstlautandeutung wird verzichtet. So wird beispielsweise *be*merk~~en~~ `b.m.ek` nicht zu `b.m` verkürzt.
+Im Wortzusammenhang können ungekürzte Verbstämme ausgelassen oder durch ihren Selbstlaut angedeutet werden. So werden beispielsweise die ungekürzten "empfehlen" `.emp-f.el` und "empfahl" `.emp-f.al` zu `.emp` und `.emp-a`, während bereits gekürztes *ent*<i></i>**wick**el~~n~~ `eNT,wi.el` nicht weiter zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird und ungekürztes *be*merk~~en~~ `b.m.ek` nicht etwa auf den Stammanlaut zu `b.m` verkürzt wird.
 
 * fehl `f.el`
-  * empfehlen `.emp-f.el` * `.emp`
+  * empfehlen `.emp-f.el` × `.emp`
+* fahl `f.al`
+  * empfahl `.emp-f.al` * `.emp-a`
 * merk `m.ek`
   * *be*merken `b.m.ek.`
 
-Kurzformen von anderen Wortarten können hingegen im Innern des Wortes durch Auslassung oder Selbstlautandeutung verschattet werden. So verschattet beispielsweise *selbst*<i></i>~~verständ~~<i></i>*lich* `-st-L` die Kurzform *ver*<i></i>*stand* `E-and` bzw. *ver*<i></i>*ständ* `E-end`, während *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` nicht zu *un*<i></i>*ge*<i></i>~~fähr~~ `UN.G` und *zur*.*ver*f**ü**g~~ung~~ `zr°.E-Ü` nicht zu *zur*.~~ver~~f**ü**g~~ung~~ `zr°-Ü` verkürzt werden.
+Im Wortinnern können auch bereits gekürzte Verbstämme und mit ihnen etwaige Vor- und Nachsilben ausgelassen oder durch Selbstlaut angedeutet werden und ihre bestehende Kurzform somit verschattet werden. So verschattet beispielsweise *selbst*<i></i>~~verständ~~<i></i>*lich* `-st-L` die Kurzform *ver*<i></i>*ständ* `E-end` im Wortinnern, während *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` nicht zu *un*<i></i>*ge*<i></i>~~fähr~~ `UN.G`, was die Kurzform **fähr** `f` am Wortende verschatten würde.
 
 * *ständ* `end`
   * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
 
 Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
 
-* ***mög*** `.ög`
+* ***mög***en `.ög`
   * ~~mög~~*lich* `(L)`
 * **be**<i></i>**stimm**en `b.im`
   * *bestimm*en `b°-i`
@@ -335,8 +337,22 @@ Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kur
 
 In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
 
-* ***glaub*** `.aub`
+* ***glaub***en `.aub`
   * : *wir*.<i></i>***glaub***<i></i>en `wr.aub` * `wr-au`
+
+### Praxis: Auslassen von -be- und -ver- im Wortinnern
+
+Im Wortinnern werden die Vorsilben **be**- `b` und *ver*- `E` ausgelassen. So wird beispielsweise *zur*.*ver*f**ü**g~~ung~~ `zr*.E-Ü` zu *zur*.~~ver~~f**ü**g~~ung~~ `zr*-Ü` verkürzt.
+
+* *ver*f**ü**gen `E-Ü`
+  * *zur*.*ver*f**ü**g~~ung~~ `zr*.E-Ü` × `zr*-Ü`
+
+### Praxis: Auslassen beliebiger Wortbestandteile
+
+Beim Bilden von Phrasenkürzungen dürfen beliebige Bestandteile der Phrase ausgelassen werden.
+
+* *zu*<i></i>*samm*en~~h~~ang `Z-sa.ang`
+  * : *in*.*dies*em *zu*<i></i>*samm*en~~h~~ang `(I).iS.em Z-Sa.ang` × `(I).iS.ang`
 
 ### Praxis: Fußschleife und die Endung -ung
 
