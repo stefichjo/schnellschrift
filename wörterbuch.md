@@ -123,6 +123,10 @@
   * *da*bei `.a-b.ei` * `a-b.ei`
   * *her*bei `h.b.ei` * `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
+* bereit ← reit
+* **be**reit `b.r.T` ~ `b.T`
+  * : **be**reits `b.r.Ts` ~ `Ts`
+    * : *vor*<i></i>**be**reiten `O-b.r.T` × `O-b`
 * berg `b.eg` : `b.eg.e` `E-b.eg`
   * birg `b.ig` : `G-b.ig.e`
   * barg `b.ag` : `E-b.ag`
@@ -251,7 +255,7 @@
     * : **tra**<i></i>**dit** `tra,di`
       * : **tra**<i></i>**dit**<i></i>*ion* `tra,di-o` ~ `tr.ad-o`
         * : **tra**<i></i>**dit**<i></i>*ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
-* *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `G-dau` `AU.I.dau` `Z-m.ei-em:b.dau` `Z-U°.b.dau`
+* *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `b.dau.L` `G-dau` `AU.I.dau` `Z-m.ei-em:b.dau` `Z-U°.b.dau`
 * ~~de~~m `(m) : `.auss.m` `(I)m`
   * : *mit*.~~de~~m `M.m` ~ `MM` P
 * **dem** `d`
@@ -812,6 +816,7 @@
   * **händ** `h` : `h.e` `.S.h.i`
     * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er`
   * *handel* `ha` : `bu.ha` `gr.ha` `N.ha` `ms.ha` `wet-ha` `.e ha.um`
+    * : *handel*t.*sich*.um, *handel*t.~~es~~.*sich*.um `ha.CH.um` × `ha.um`
     * ! **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `.ei-ha.el`
   * *handlung* `ha*` : `bu:ha*`
     * : *ver*<i></i>**trag**s*ver*<i></i>*handlung*en `(E)tra.ha*.en`
@@ -964,6 +969,8 @@
 * init ← it
 * *irgend* `.i` / `.ig`
   * n*irgend* `n.i` / `n.ig`
+* irr `.irr`
+  * *irrtum* `tum`
 * -**isch** `.i`
 * -*ismus* `.iS`
 * ist ← sein
@@ -1301,8 +1308,9 @@
       * ! `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G-l.ag-ert` `E-l.ag-er`
   * **leg** `l` : `l-t.e` `.ab.l` `b.l` `dar-AU.l` `Ü.l` `E-l` `E-l.H` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `G-l.H` `.an.l.H`
     * : *ver***leg**er `E-l-er` ! `E-l.eg-er`
-    * ~~leg~~ : `.an.H` `G-H`
-      * : *aus*wertige an*ge*<i></i>**leg**en*heit*en `.S.wet-ig.e .an.H.en` ~ `.S.H.en`
+    * : *ge*<i></i>**leg**en*heit* `G-l.H` × `G-.H`
+      * : an*ge*<i></i>**leg**en*heit* `.an.l.H` × `.an.H`
+        * : *aus*wertige an*ge*<i></i>**leg**en*heit*en `.S.wet-ig.e .an.l.H.en` × `.S.H.en`
 * **lier** `li`
   * : *ver*<i></i>**lier** `E,li` ~ `(E)li`
   * **lor** `lo`
@@ -1404,6 +1412,8 @@
   * ~ m~~ehr~~ `m` : `m.H` `E-m-UNG` `(.er)m` `nu:m`
     * : m~~ehr~~er `mer-er` ~ `MR`
     * : m~~ehr~~*heit* `mer.H` × `H`
+    * *mehrheit* `H`
+      * ! `m.H` ≠ einheit
   * : *nicht*.**mehr** `-t-mer` ~ `-t.m`
 * meid `m.eid`
 * ~~m~~ein `(N)` : `(N).UNG` `I .ö.L.N` `(I)bi.N` `ach.m.ei-er.N` `m.ein-er.N:ach` `wr-I.N`
@@ -1950,10 +1960,7 @@
 * reih `r.eih`
   * ~~reih~~ : `.ei-v`
 * reit `r.T`
-  * : **be**reit `b.r.T` ~ `b.T`
-    * : **be**reits `b.Ts` « `Ts`
-      * *vor*<i></i>*bereit*
-  * × ~~reit~~ : `O-b`
+  * → bereit
   * ritt `r.it`
 
 ---
