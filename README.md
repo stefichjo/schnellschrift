@@ -335,6 +335,17 @@ Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kur
   * *all*~~ge~~<i></i>***mein*** ≠ allein
     * ⇒ *allgemein* `.a-G`
 
+### Phrasenbildung
+
+Bei der Bildung von Präpositionalphrasen dürfen beliebige Bestandteile im Innern der Phrase ausgelassen werden.
+
+* *ge*<i></i>**leg**en*heit* `G-l.H`
+  * : bei.*dies*er *ge*<i></i>**leg**en*heit* `b.ei-.iS-er G-l.H` × `b.ei-.iS.H`
+* ~~mon~~at `(.at)`
+  * *in*.~~de~~n *letzt*en ~~mon~~aten `(I)n let (.at).en` × `(I)let.at.en`
+* *zu*<i></i>*samm*en~~h~~ang `Z-sa.ang`
+  * : *in*.*dies*em *zu*<i></i>*samm*en~~h~~ang `(I).iS.em Z-Sa.ang` × `(I).iS.ang`
+
 In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
 
 * ***glaub***en `.aub`
@@ -346,13 +357,6 @@ Im Wortinnern werden die Vorsilben **be**- `b` und *ver*- `E` ausgelassen. So wi
 
 * *ver*f**ü**gen `E-Ü`
   * *zur*.*ver*f**ü**g~~ung~~ `zr*.E-Ü` × `zr*-Ü`
-
-### Praxis: Auslassen beliebiger Wortbestandteile
-
-Beim Bilden von Phrasenkürzungen dürfen beliebige Bestandteile der Phrase ausgelassen werden.
-
-* *zu*<i></i>*samm*en~~h~~ang `Z-sa.ang`
-  * : *in*.*dies*em *zu*<i></i>*samm*en~~h~~ang `(I).iS.em Z-Sa.ang` × `(I).iS.ang`
 
 ### Praxis: Fußschleife und die Endung -ung
 

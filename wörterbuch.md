@@ -1311,6 +1311,7 @@
     * : *ge*<i></i>**leg**en*heit* `G-l.H` × `G-.H`
       * : an*ge*<i></i>**leg**en*heit* `.an.l.H` × `.an.H`
         * : *aus*wertige an*ge*<i></i>**leg**en*heit*en `.S.wet-ig.e .an.l.H.en` × `.S.H.en`
+      * : bei.*dies*er *ge*<i></i>**leg**en*heit* `b.ei-.iS-er G-l.H` × `b.ei-.iS.H`
 * **lier** `li`
   * : *ver*<i></i>**lier** `E,li` ~ `(E)li`
   * **lor** `lo`
