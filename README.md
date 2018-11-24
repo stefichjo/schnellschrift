@@ -17,11 +17,10 @@ ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 ≠ allein
 @ä in "fänd"
 mater, toler
-@`L.T` → `T`
+@`L.T` → `T` (aber: Überheblichkeit)
 @**ig** → *ig*
 -ung fällt anscheinend auch nach unbestimmtem Artikel aus
 -st wird eigentlich immer zu -t
-heben, kennen, treten, be-
 
 ## Kurzschreibung
 
@@ -182,12 +181,16 @@ Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
 * *vom* `v°`
 * *vor* `O`
 
+Kürzel können andere Kurzformen verschatten.
+
+* **mehr** `m.e`
+  * *mehrer*e `MR.e`
+
 ### Anlautkürzel
 
 * f~~ür~~ `f`
 * v~~on~~ `v`
-
-* v~~on~~.~~d~~er `v-er`
+  * v~~on~~.~~d~~er `v-er`
 
 ### Auslautkürzel
 
@@ -221,7 +224,6 @@ Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG
 
 ### Anlautkürzung
 
-* **fehl** `fe` = **fe**~~hl~~ → `f` = f~~ehl~~
 * **bald** `ba` = **ba**~~ld~~
 
 * **bis** `bi` = **bi**~~s~~
@@ -234,13 +236,28 @@ Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG
 
 Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit "-er" `-er`.
 
-* **fehl**er `f-er` = **fe**~~hl~~er = f~~ehl~~er = ***fer***
+* **fisch** `fi`
+  * **fisch**er `fi-er`
 
 Die Endung "-e" `.e` von weiblichen Hauptwörtern wird bei Anlautkürzungen und Anlautkürzeln nicht geschrieben. Ausgenommen sind Substantivierungen von Eigenschaftswörtern.
 
 * **woch**e `wo-e` = **wo**~~ch~~e
 * li~~st~~e `l.i-e` = li~~ste~~
 * **größ**e `grö.e`
+
+Der Stammselbstlaut "e" von alleinstehenden Anlautkürzungen wird ausgeschrieben.
+
+* **be**- `b.e`
+* **heb**en `h.e`
+* **kenn**en `k.e`
+* **mehr** `m.e`
+
+Der Stammselbstlaut "ä" wird bei Anlautkürzungen wie "e" behandelt, und das "ü" wird durch Durchstreichung angedeutet. Abweichungen werden als Kürzel notiert.
+
+* **männ**er `m.er` = **mä**~~nn~~er
+* *gä*~~st~~e `gä-e`
+* **bücher** `bÜ.er`
+* *bü*~~nd~~el `bü.el`
 
 #### Ausweichen (statt Anstellen und Wölben)
 
