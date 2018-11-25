@@ -255,9 +255,9 @@ Der Stammselbstlaut "e" von alleinstehenden Anlautkürzungen wird ausgeschrieben
 Der Stammselbstlaut "ä" wird bei Anlautkürzungen wie "e" behandelt, und das "ü" wird durch Durchstreichung angedeutet. Abweichungen werden als Kürzel notiert.
 
 * **männ**er `m.er` = **mä**~~nn~~er
-* *gä*~~st~~e `gä-e`
-* **bücher** `bÜ.er`
-* *bü*~~nd~~el `bü.el`
+* **gä**~~st~~e `gä-e` = *gä*~~st~~e
+* **bücher** `bÜ.er` = **bü**~~ch~~er
+* **bü**~~nd~~el `bü.el` = *bü*~~nd~~el
 
 #### Ausweichen (statt Anstellen und Wölben)
 
