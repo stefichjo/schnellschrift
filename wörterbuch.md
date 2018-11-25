@@ -1,6 +1,7 @@
 # Wörterbuch
 
 ## A
+<img src="svg/a.svg" width="100">
 
 * ab `.ab` : `.ab,i`
 * ~~ab~~end `(.ed)`
@@ -92,7 +93,6 @@
 
 ## B
 <img src="svg/b.svg" width="100">
-<img src="svg/br.svg" width="100">
 
 * *baden-würtemberg* `b.ad-Ü`
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`

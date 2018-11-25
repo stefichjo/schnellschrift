@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="25cm" height="20cm" viewBox="4 -2 6 30"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+  <style type="text/css"><![CDATA[
+    .Stroke { fill:none; stroke:black; stroke-width:3 }
+    .StrokeHollow { fill:none; stroke:white; stroke-width:2.7 }
+  ]]></style>
+
+<circle cx="0" cy="12" r="1" />
+
+<path class="Stroke" d="
+  M6,6
+  L6,12
+" />
+
+<path class="StrokeHollow" d="
+  M6,6.2
+  L6,11.8
+" />
+
+</svg>
+
