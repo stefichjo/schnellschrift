@@ -44,7 +44,7 @@
 * -*ant* `aNT`
 * ~~arb~~eit `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `.S.T` `fa.T-er` `M.T-er` `O-T-er` `Z-Sa.T`
   * : ~~arb~~eit*sam* `(T)-Sa` ~ `T-Sa`
-  * : ~~arb~~eits*los* `(T)-s.os` × `(l.os)`
+  * : ~~arbeits~~los `(l.os)`
   * : *ge*~~arb~~eitet `G-T` ! `G-.ab.T`
   * : ~~arb~~eits*gemeinschaft* `(T)-s.N` ~ `Ts.N`
   * : **be**~~arb~~eiten `b.T` ! `b.ab.T`
@@ -1363,12 +1363,13 @@
 * macht ← mög
 * **mahn** `ma` : `ma-UNG` `.an.ma` `er.ma`
   * ! `m.an`
+* mainz `m.eiz`
 * **mak** `ma` : `ma.el`
   * : **mak**ulatur `ma.UR` ! `m.ak.UR`
 * makel ← mach
 * mal `m.al`
   * -*mal* `ma` → denk jed manch
-  * -*mals* `mas` → aber je mehr nie noch
+    * : -*mal*s `ma-s` → aber je mehr nie noch
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
@@ -1638,7 +1639,8 @@
   * ***nuss*** `.uss` : `G-.uss`
     * ***nüss*** `.üss` : `G-.üss`
   * → nutz
-* *noch* `n-ch` : `n-ch:ma-s`
+* *noch* `n-ch`
+  * : *noch*<i></i>*mal*s `n-ch:ma-s` × `n-ch-s`
 * nom `n.om` : `n.om.i-aL`
   * -***nom*** `.om` → astr aut gastr metr ök
 
@@ -1974,6 +1976,7 @@
   * : rentabel `ret-ab.el` × `r.et.ab`
 * *revier* `r.ir` : `li.ei-r.ir`
 * *rheinländisch-westfälisch* `SCH.SCH`
+* *rheinland-pfalz* `(N):pfa`
 * **richt** `ri` : `ri.i` `(b)ach,ri.i`
   * : **richt**en `ri` ! `r.icht`
   * *gericht* `G,i` : `la,i` `.o-la,i`
@@ -2504,7 +2507,7 @@
 * *stuttgart* `st.u-ga`
 * **stütz** `stÜ` : `stÜ.UNG` `G-stÜ` `.ab.stÜ`
   * : *unter***stütz**en `UNTER.stÜ` * `UNTER-Ü` : `UNTER-Ü-t.e`
-    * : ~~arb~~eits*los*en*unter*<i></i>**stütz**<i></i>*ung* `(T)-s.os,UNTER-Ü.UNG` « `(T)-s.os-Ü.UNG` ~ `(.los)-Ü.UNG`
+    * : ~~arbeits~~*los*en*unter*<i></i>**stütz**<i></i>*ung* `(l.os),UNTER.stÜ-UNG` * `(l.os),UNTER-Ü.UNG` × `(.los)-Ü.UNG`
 * **sub** `su:`
 * **such** `su` : `b-su` `E-su`
   * : *unter***such** `UNTER,su` * `UNTER-u` : `O-S.o=UNTER-u`

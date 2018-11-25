@@ -354,6 +354,8 @@ Im Wortinnern können auch bereits gekürzte Verbstämme und mit ihnen etwaige V
 
 Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
 
+* ~~arb~~eit `(T)`
+  * ~~arbeits~~los `(l.os)`
 * ***mög***en `.ög`
   * ~~mög~~*lich* `(L)`
 * **be**<i></i>**stimm**en `b.im`
