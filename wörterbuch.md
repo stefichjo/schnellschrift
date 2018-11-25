@@ -321,6 +321,8 @@
   * **dru**~~ng~~ `dru` : `G-dru` `N.dru`
 * **druck** `dru` : `dru.ei` `ach.dru` `N.dru`
   * : *aus*<i></i>**druck** `.S.dru` ~ `.S-u`
+  * .~~ausdruck~~. : `z.ko` `z.bra`
+    * : z~~um~~.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
   * **drück** `drÜ`
     * : *aus*<i></i>**drück**<i></i>*lich* `.S.drÜ.L` ~ `.S-Y.L`
     * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`

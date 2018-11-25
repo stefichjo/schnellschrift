@@ -158,7 +158,7 @@ Ein Anstellen an Zeichen mit Kopfschleife ist nicht möglich, sodass die Vorsilb
 
 Aus einer Anlautkürzung darf ein Anlautkürzel werden, um die Getrenntschreibung zu vermeiden. Vorsilben mit Aufstrich dürfen mit Anlautkürzungen auf der Oberlinie verbunden werden.
 
-* **be**<i></i>**find**en `b,fi` ⇒ `b.f.i`
+* **be**<i></i>**find**en `b.e,fi` ⇒ `b.f.i`
 * *zu*.**find**en `Z,fi` ⇒ `Z-fi`
 
 Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
