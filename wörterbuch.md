@@ -356,7 +356,8 @@
 * eid `.eid` : `N.eid` STS
 * eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G-.eig.et` `UN-G-.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
-* ein `N` : `N.i` `N.i-t.e` `N-t.e` `E-N-Sa`
+* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N.ma` `E-N-Sa`
+  * : *wieder*.ein*mal* `W.N.ma` × `W.N`
   * -ein `N` : `d.N` `m.N` `s.N`
     * : kein `k.N` * `(K)` → fall weg
     * -**ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
@@ -780,7 +781,7 @@
   * : *mit*.*freund*<i></i>*lich*~~en~~.***grüß***en `M.eund.L:üss.en` ~ `M,eu-Ü`
 * gunst ← gönn
 * **gut** `gu`
-  * ***bess***<i></i>er `bes-er`
+  * ***bess***<i></i>er `bes-er`/`br°`
     * × ***bess***<i></i>~~er~~ : `bes-UNG` `G-bes` `.S.bes` `E-bes` `E-bes-Ü-t-ig.T`
   * best `b.est`
 
@@ -1368,7 +1369,7 @@
   * : **mak**ulatur `ma.UR` ! `m.ak.UR`
 * makel ← mach
 * mal `m.al`
-  * -*mal* `ma` → denk jed manch
+  * -*mal* `ma` → denk ein jed manch
     * : -*mal*s `ma-s` → aber je mehr nie noch
 * **man** `ma`
   * -**mand** `ma` → je nie
@@ -2957,9 +2958,10 @@
   * **wend** `w.e` : `.an.w` `AU.w` `E.w` `E-w` `E-w-UNG`
     * ! `w.ed`
     * : *not*<i></i>**wend**<i></i>*ig* `.ot.w.i` ~ `(o)w.i`
-    * **wand** `wa` : `b.wa-t-is` `N.wa` `G-wa` `E-wa`
+    * **wandt** `wa` : `N.wa` `G-wa` `E-wa`
       * ! `w.ad`
-      * : **wand**te `wa.t.e` ! `w.adt.e`
+      * : **wandt**e `wa.e` ! `w.adt.e`
+      * : `b.wa.is` ~ `b.wa-t-is`
 * winn `w.in`
   * : *ge*winn `G-w.in` ~ `G-in`
   * wann `w.an` : `G-w.an`
