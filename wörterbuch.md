@@ -591,7 +591,7 @@
   * *frankfurt.an.der.oder* `fra,u.od-er`
 * **frau** `frau`
 * ~~fr~~ei `(.ei)` : `(.ei).H`
-* fre~~md~~ `fr.e`
+* **fremd** `fr.e`
 * ~~fr~~**eu** `eu` : `eud.e` `er,eu-L`
 * *freund* `.eund` : `.eund.in` `.eund.FT` `b.eund.et`
   * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L`
@@ -1961,20 +1961,13 @@
   * ! `r.eif` 
 * reih `r.eih`
   * ~~reih~~ : `.ei-v`
+* **reis** `r.ei` : `r.ei-e`
 * reit `r.T`
   * → bereit
   * ritt `r.it`
-
----
 * renn `r.en`
-* **respond** `r`
-  * : kor**respond** `k.or-r`
-  * *korrespond* `k.or-r` BSA
-    * : *korrespond*ent `k.or-r.ent` BSA
-    * : *korrespond*enz `k.or-r.ez` (BSA) × *kor*~~respond~~enz `k.o-ez`
-    * : *korrespond*ier `k.or-r.ir` (BSA)
----
-
+* **respond** `r` : `k.or-r` `k.or-r.ent` `k.or-r.ir`
+    * : kor**respond**enz `k.or-r.ez` × `k.o-ez`
 * rent `ret` : `ret.ab.ät` `ret.e` `ret.ir` `ret-er`
   * : rentabel `ret-ab.el` × `r.et.ab`
 * *revier* `r.ir` : `li.ei-r.ir`

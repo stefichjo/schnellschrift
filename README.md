@@ -422,7 +422,6 @@ Die Endung -*ion* wird durch Auslassen der Fußschleife angedeutet bzw. wird nac
   * *kom*<i></i>*miss*<i></i>*ion* `I ko-ms-o` * `I ko-i.iO` ⇒ `I ko-i`
   * **kon**<i></i>**f**ess*ion* `I ko.f-o` ⇒ `I ko.f`
   * **kon**<i></i>***zess***<i></i>*ion* `I ko.ess.iO` ⇒ `I ko.ess`
-  * *trans*<i></i>**fus**<i></i>*ion* `I tra.fu-o` ⇒ `I tra.fu`
   * *trans*<i></i>*miss*<i></i>*ion* `I tra.ms-o` ⇒ `I tra.ms`
 
 ### ...
