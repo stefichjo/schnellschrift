@@ -119,7 +119,7 @@
 * **be**- `b.e`
 * **behr** `b.e` : `UN-eNT.b.L`
 * behörde ← hör
-* bei `b.ei`
+* bei `b.ei` : `b.ei,i`
   * *da*bei `.a-b.ei` * `a-b.ei`
   * *her*bei `h.b.ei` * `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
@@ -245,6 +245,9 @@
 * dacht ← denk
 * dam `d.am` : `d.am.e`
 * dank ← denk
+* dank `d.ak` : `d.ak.ed` `gru.G-d.ak.e` `UN-d.ak` `M.b.est-d.ak` `wr.d.ak,i`
+  * ~~dank~~<i></i>***bar*** `(bar)` : `(bar).T` `s.bar`
+  * *gedank* `G-da` : `G-da.e` `G-da.os`
 * ~~d~~ann `(.an)`
   * (denn) `d.en`
 * ***dar*** `dar`
@@ -267,9 +270,7 @@
   * **dacht** `da` : `E-da`
     * **dächt** `d` : `G-d.is` `E-d.i`
       * ! `d.ächt`
-  * dank `d.ak` : `d.ak.ed` `gru.G-d.ak.e` `UN-d.ak` `M.b.est-d.ak`
-    * ~~dank~~<i></i>***bar*** `(bar)` : `(bar).T` `s.bar`
-    * *gedank* `G-da` : `G-da.e` `G-da.os`
+  * → dank
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
 * ~~de~~r `(r)` : `.S-er` `(I)-er`
@@ -930,18 +931,9 @@
   * *ich*. `(I)`
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
 * -if- `.if` : `.if-o` `.if.ir`
-
----
 * -*ig* `.i`/`.ig`
-* ihn `.in`
-  * : ihnen `.in.en`
-    * .**i**hnen. `i`
-      * : *mit*.**i**hnen `M,i`
-      * : bei.**i**hnen `b.ei,i`
-      * : um.**i**hnen `.um,i`
-      * : *wir*.danken.**i**hnen `wr.d.ak,i`
----
-
+* ihn `.in` : `.in.en`
+  * -*ihnen* `i` → bei mit um dank
 * ihr `.ir`: `.ir-er`
 * *illustr* `.ill` : `.ill.ir` `.ill.iO`
 * im ← in
@@ -1493,7 +1485,7 @@
 * mit ← mitt
 
 ---
-* *mit* `M` V
+* *mit* `M` : `M,i`
   * : *da*<i></i>*mit* `.a-M` ~ `a-M`
   * : **hier***mit* `hi:M`
   * : *mitt* `M` V
@@ -2695,7 +2687,7 @@
 ---
 
 * *ultra* `.utra`
-* um `.um`
+* um `.um` : `.um,i`
   * -*um* `-u` → war
 * un `.un` : `un.at` `un.um` `.un.if-o`
   * un*ion* `.un.iO` * `u-O`
