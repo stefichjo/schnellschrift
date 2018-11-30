@@ -1031,6 +1031,10 @@
 * jur `j.UR` : `j.UR.iS.i`
 * just `j.u-st` : `j.u-st.ir` `j.u-st.ir-er`
   * *justiz* `j.us` : `j.us.er` `j.us.um` `j.us.om` `j.us.UNG`
+
+## K
+<img src="svg/k.svg" width="100">
+
 * kalender `k.al.ed-er`
 * kalk `k.ak`
 * *kalkul* `ka,u` : `ka,u-O` `ka,u.ir` `ka,u.or.i` 
@@ -2706,6 +2710,10 @@
 
 * *unter* `UNTER` : `UNTER.ha` `UNTER,i`
 * ur- `UR`
+
+## V
+<img src="svg/v.svg" width="100">
+
 * ~~val~~id `(.id)` `IN.id.e` `IN.id.ät`
 
 ---
