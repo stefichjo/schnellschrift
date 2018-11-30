@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="25cm" height="20cm" viewBox="4 -8 8 30"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+  <style type="text/css"><![CDATA[
+    .Stroke { fill:none; stroke:black; stroke-width:3 }
+  ]]></style>
+
+<path class="Stroke" d="
+  M0.485281374238571,-6.0
+  C1.19238815542512,-4.0
+   1.19238815542512,-2.0
+   0.485281374238571,0
+" />
+
+</svg>
+
