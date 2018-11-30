@@ -930,7 +930,9 @@
 * *ich* `.I`
   * *ich*. `(I)`
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
-* -if- `.if` : `.if-o` `.if.ir`
+* -if- `.if`
+  * -ifikation : `.if-o`
+  * -ifizieren : `.if.ir`
 * -*ig* `.i`/`.ig`
 * ihn `.in` : `.in.en`
   * -*ihnen* `i` → bei mit um dank
@@ -939,21 +941,17 @@
 * im ← in
 * ~~imm~~er `(.er)` : `(.er):fr`
   * n~~imm~~er `(n.er)` : `(n.er).s.at`
+* in ← inn
+* *in* `IN` : `IN.s`
+  * : ***dar***<i></i>*in* `dar.IN` ~ `dar-i`
+  * *in*- `(I)` : `(I)-S.e`
+  * im `.im`
+* inn `.in`
+  * : innen `.in`
+  * : *inner* `.i` : `.i-ha` `.i-L` `er.i`
 
 ---
-* *in* `IN` V
-  * : ***dar***<i></i>*in* `dar.IN` * `dar-i`
-  * *in*- `(I)` : `(I)-S.e`
-    * : *in*s `IN.s`
-  * .*in*. `(I)`
-  * inn `.in`
-    * : innen `.in` E
-    * : *inner* `.i` : `.i-ha`
-      * : *inner*<i></i>*lich* `.i-L`
-      * : <b>*er*</b><i></i>*inner* `er.i`
-      * ! *inner* `.in` BSA
-        * : X `er.in.L` `er.in-t.e` `.in.L` `.im.in`
-  * im `.im`
+      * : X `er.in.L` `er.in-t.e` `.in.L` `.im.in`
 * -*inal* `.i-aL`
 * -*inell* `.i-eL`
 * *inter*- `(I)t-er` BSA
