@@ -99,26 +99,9 @@ Bei Verbstämmen wird Endung -*ung* `UNG` nach bestimmtem Artikel nicht geschrie
 
 ### Lateinische Suffixe und Endungen
 
-* aner = ~~an~~er `.er` : *amerik*aner = *amerik*~~an~~er `.am.er`
-
 * azität = ~~azit~~ät `.ät` : *kap*azität = *kap*~~azit~~ät `aP.ät`
 
-* ikal?
-
 * ilität = ~~ilit~~ät `.ät` : mobilität = mob~~ilit~~ät `m.ob.ät`
-
-* isat*ion* = ~~isat~~*ion* `.iO` : ~~kan~~alisat*ion* `(.al).iO`
-* isieren = ~~is~~ier `.ir` : **kon**<i></i>**kret**isieren = **kon**<i></i>**kret**~~is~~ier `ko.kr.ir`
-
-* ivat*ion* = iv~~at~~*ion* `.iw-o` : motivat*ion* = motiv~~at~~*ion* `m.ot.iw-o`
-* ivieren = ivier `.iv.ir` : motivieren = motivier `m.ot.iv.ir`
-
-* ulat*ion* = ~~ulat~~*ion* `.iO` : spekulat*ion* = spek~~ulat~~*ion* `sp.ek.iO`
-  * **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
-  * **reg**ulat*ion* `r.iO` ! `r.ul.iO`
-* ulieren = ier `.ir` : spekulieren = spekier `sp.ek.ir`
-  * **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
-  * **reg**ulieren `r.ir` ! `r.ul.ir`
 
 #### Lateinische Selbstlaut-Nachsilben
 

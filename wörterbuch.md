@@ -38,6 +38,7 @@
   * × ~~amt~~ : `b.FT`
   * *ämter* `.ä` : `fi.ä`
 * an `.an` : `.an-t-er` `dar.an` `wo.an`
+* -~~an~~- : `.er` `.er.in` `.i` `.iS` `.iS.i`
 * and `.ad` : `.ad-er`
   * änd `.äd` : `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN-.ab.äd-er.L` `E-.äd-er` `E-.äd-er.L`
 * *ant*- `aNT`
@@ -383,6 +384,7 @@
   * ~~ein~~z*ig* `(z.i)`
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
+* -el → -ul
 * *elektr* `.el` : `.el.i` `.el.ir` `.el.if.ir` `.el.ät` `.el.od.e` `.el.on.i`
 * eltern ← alt
 * eltern `.et-ern` : `.et-ern.os` `.et-ern.FT` `O-et-ern`
@@ -979,6 +981,7 @@
   * n*irgend* `n.i` / `n.ig`
 * irr `.irr`
   * ~~irr~~*tum* `(tum)` ⇒ `tum`
+* -~~is~~- : `.iO`/`-o` `.ir`
 * -**isch** `.i`
 * -*ismus* `.iS`
 * ist ← sein
@@ -989,8 +992,7 @@
 * -it- ← -at-
 * *itali* `.it` : `.it.er` `.it.i`
   * : *itali*en `.it.en` × `.it`
-* -iv `.iv`
-  * -iv- `.iw`
+* -iv `.iv` : `.iw-o` `.iv.ir`
 
 ## J
 
@@ -1050,13 +1052,11 @@
 * kalt `kat` : `er.kat`
   * kält `ket` : `ket.e` `ket-er`
 * *kammer* `ka` : `ha.ka` `ka.ek.ka`
+* ***kampf*** `ampf` : `kla.ampf`
+  * : ***kämpf*** `empf` : `empf.e`
+* ~~kan~~al `(.al)` : `(.al).iO`
 
 ---
-* <b>*kampf*</b> `ampf`
-  * : **klass**en<b>*kampf*</b> `kla.ampf`
-  * : <b>*kämpf*</b>e `empf.e`
-* kan<b>*al*</b> `(.al)`
-  * : kan<b>*al*</b>isat*ion* `(.al).iO`
 * **k**ann `k` V
   * : **k**annst `k` V
   * **k**onn `k` V
@@ -1366,8 +1366,7 @@
   * : **schritt**<i></i>**mach**er `.it.ma-er` × `.it,(er)`
   * *macht* `aCHT` :  `aCHT-o`
     * *mächt* `eCHT` : `wet,eCHT.e`
-  * *makel* `m.ak`
-    * : *makl*er `m.ak-er`
+  * → makel
 * macht ← mög
 * **mahn** `ma` : `ma-UNG` `.an.ma` `er.ma`
   * ! `m.an`
@@ -1375,6 +1374,8 @@
 * **mak** `ma` : `ma.el`
   * : **mak**ulatur `ma.UR` ! `m.ak.UR`
 * makel ← mach
+* *makel* `m.ak`
+  * : *makl*er `m.ak-er`
 * mal `m.al`
   * -*mal* `ma` → denk ein jed manch
     * : -*mal*s `ma-s` → aber je mehr nie noch
@@ -1905,6 +1906,7 @@
 * rad `r.ad`
   * : **fa**~~hr~~rad `fa.r.ad` ~ `fa.ad`
   * *gerad* `-G-a` : `-G-a.e`
+* rad `r.ad` : `r.ad.al` `r.ad.iS`
 * rag `r.ag`
 * rahm `r.am`
   * : im.rahmen `.im.r.am` ~ `.im.am`
@@ -1936,14 +1938,14 @@
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 * **reg** `r`
-  * : *regel* `(.el)` : `.il,(.el)` `IN.el`
+  * : ~~reg~~el `(.el)` : `.il,(.el)` `IN.el`
   * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
     * : ~~reg~~ier*ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
       * ~ `ir-UNG`
       * : **bu**~~nd~~es~~reg~~ier*ung* `bu.ir-UNG` ~ `u-r-UNG`
   * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
     * : *reg*<i></i>*ional* `r.eg.i-aL`
-  * : **reg**ulier `r.ir` ! `r.ul.ir`
+  * : **reg**ulieren `r.ir` ! `r.ul.ir`
     * : **reg**<i></i>*ul*at*ion* `r.ul.iO`
 
 ---
@@ -2375,6 +2377,7 @@
 * **sp**iz `sp` : `IN.sp.ir`
   * **spekt** `sp` : `(o)sp` `r.sp`
     * : *in*<i></i>**spekt**<i></i>*ion* `IN.sp*` STS ! `IN.sp.iO
+  * spek `sp.ek` : `sp.ek.iO` `sp.ek.ir`
 * ~~sp~~ort `(.ot)` : `(.ot).N`
 * **sprech** `spr` : `eNt.spr`
   * : ~~sprech~~ : `eNT.ed`
@@ -2561,12 +2564,14 @@
     * : tech<b>*n*</b>**isch** `(n).isch`
 ---
 
-  * tekt 
-    * : archi**tekt** `.ach.t` ~ `.ach.ekt`
-    * : archi**tekt**ur `.ach.t.UR` × `.ach.UR`
+  * → tekt
 * **teg** `t.e` : `(o)t.ir`
   * **tekt** `t.e` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
 * ~~t~~eil `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e` `O-.eil.ha`
+* tekt ← techn
+* tekt 
+  * : archi**tekt** `.ach.t` ~ `.ach.ekt`
+  * : archi**tekt**ur `.ach.t.UR` × `.ach.UR`
 
 ---
 * **tele** `t.e` ! `t.el.e` (E)
@@ -2690,11 +2695,10 @@
   * **tat** `ta`
     * **tät** `t.e`
     * : **tät**er `t-er` ! `t.et-er`
+* üb `.üb` : `.üb.L`
 
 ---
-* üb `.üb`
-  * : üb*lich* `.üb.L`
-* *über* `Ü` V
+* *über*, *übr* `Ü` : `Ü.i`
   * : *übr*<i></i>*ig* `Ü.i` ! `Ü.ig` E
   * -*über*- `-Ü` E
     * : ***dar***<i></i>*über* `dar-Ü` E
@@ -2704,6 +2708,8 @@
     * : *vor*<i></i>*über* `O-Ü` E
 ---
 
+* -~~ul~~- : `.iO`/`-o` `.ir`
+  * -el `.el`
 * *ultra* `.utra`
 * um `.um` : `.um,i`
   * -*um* `-u` → war
