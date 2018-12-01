@@ -74,6 +74,7 @@
     * : asiat*isch* `.as.I.i` ~ `.as.at.i`
 * astr `.a-str` : `.a-str.om.I`
   * : astro<i></i>***log***<i></i>ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
+* -~~at~~-, -~~it~~-, -~~ut~~- → -ion -iv-
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` : `.atl.i`
   * *atlant*ik `.atl.ik` ~ `.atl-t-ik`
@@ -289,6 +290,7 @@
   * : **dien**<i></i>*lich* `di.L` ! `d.in.L` ≠ **dienst**<i></i>*lich*
   * **dienst** `di` : `di.L` `.in:di.L` `E,di`
     * : *außen*<i></i>**dienst**, *außer*.**dienst** `.auss,di`
+    * : *inner*<i></i>**dienst**<i></i>*lich* `.i-d.i-L` ! `.in.d.i-L`
 * *dies* `.iS` : `.iS.em` `.iS-er` `.iS-es` `.iS:ma`
     * : *aus*.*dies*em `.s.iS.em` * `.s-S` STS
 * dik `d.ik` : `IN.d.ik.iO`
@@ -930,13 +932,16 @@
 * *ich* `.I`
   * *ich*. `(I)`
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
-* -if- `.if`
-  * -ifikation : `.if-o`
-  * -ifizieren : `.if.ir`
+* -ier- `.ir`
+* -ifik- ← fak
+* -*ifik*- `.if` : `.if-o`
+  * -*ifiz*- `.iz` : `.if.ir`
 * -*ig* `.i`/`.ig`
 * ihn `.in` : `.in.en`
   * -*ihnen* `i` → bei mit um dank
 * ihr `.ir`: `.ir-er`
+* -~~ik~~- → -ation
+  * -~~iz~~- → -izieren
 * *illustr* `.ill` : `.ill.ir` `.ill.iO`
 * im ← in
 * ~~imm~~er `(.er)` : `(.er):fr`
@@ -948,18 +953,18 @@
   * im `.im`
 * inn `.in`
   * : innen `.in`
-  * : *inner* `.i` : `.i-ha` `.i-L` `er.i`
+  * : *inner* `.i` : `.i-ha` `.i-L` `er.i` `er.i-t.e` `er.i-L` `.im.i`
+* -in-
+  * -*inal* `.i-aL`
+  * -*inell* `.i-eL`
 
 ---
-      * : X `er.in.L` `er.in-t.e` `.in.L` `.im.in`
-* -*inal* `.i-aL`
-* -*inell* `.i-eL`
 * *inter*- `(I)t-er` BSA
   * : X `(I)t-er.n.al` `(I)t-er.pt.iO` `(I)tr.ig.en`
   * *intell*- `IN.t`
-* -*ion* `.iO` V
-* -*ional* `.i-aL`
-* -*ionell* `.i-eL`
+* -*ion* `.iO`/`-o`
+  * -*ional* `.i-aL`
+  * -*ionell* `.i-eL`
 * *industr* `IN` BSA
   * : X `m.et.IN.u-I`
   * : *industr*<i></i>*iell* `IN.ieL` (BSA)
@@ -981,8 +986,14 @@
 * it `.it` : `IN.it.iaL.e` `IN.it.iaL.en` `tra.it`
   * *in*itiative `IN.it.iv.e` × `IN.iv.e`
   * *in*itiator `IN.it.or` ~ `IN.at.or`
+* -it- ← -at-
 * *itali* `.it` : `.it.er` `.it.i`
   * : *itali*en `.it.en` × `.it`
+* -iv `.iv`
+  * -iv- `.iw`
+
+## J
+
 * ja `j.a`
 
 ---
@@ -1119,13 +1130,13 @@
       * : X `.S.k.uft` `Z-k.uft` `Z-Sa.k.uft` `k.üft-ig` `k.üft-ig.in` `Z-k.üft-ig` `N.k.üft.e` `Z-Sa.k.üft.e`
 * koll
   * *protokoll* `pr.ot.ok`
-* *kommun* `ko-u` BSA
-  * : *kommun*al `ko-u.al` (BSA)
-  * : *kommun*<i></i>*ismus* `ko-u.iS` (BSA)
-  * : *kommun*<i></i>*istisch* `ko-u.iS.i` (BSA)
+---
+
+* *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i` `ko-u.ir`
   * : *kommun*<i></i>*ion* `ko-u.iO` * `o-u-O` STS ≠ *kommun*ikat*ion*
-  * : *kommun*izier `ko-u.ir`
-  * : *kommun*ikat*ion* `ko-u.iO` * `ko-u-o` ≠ *kommun*<i></i>*ion*
+  * : *kommun*ikat*ion* `ko-u.iO` ~ `ko-u-o` ≠ kommunion
+
+---
 * **kon**- `ko` V
   * : **koll**- `ko`
   * : *kom*- `kom`
@@ -1878,14 +1889,19 @@
     * : *dis***kont** `ds.ko` (BSA)
       * : *dis***kont**ier `ds.ko.ir` (BSA)
       * : *dis***kont**ierte `ds.ko.irt.e` (BSA)
-* qualität `qu.al.ät`
-* qualifizier `qu.al.if.ir` > `qu.al.ir` E
 ---
 
+## Q
+
+* qual `qu.al` : `qu.al.ät`
+  * qual*ifiz*ier `qu.al.if.ir` × `qu.al.ir`
 * quant `quat` : `quat-en` `quat-um`
   * *quantit* `(.an)` : `(.an).ät` `(.an).iv`
 * **quell** `qu`
   * **quoll** `quo`
+
+## R
+
 * rad `r.ad`
   * : **fa**~~hr~~rad `fa.r.ad` ~ `fa.ad`
   * *gerad* `-G-a` : `-G-a.e`
@@ -2352,7 +2368,7 @@
   * : **sp**ät*est*ens `sp-t-s` ~ `sp.ens`
 * spend `sp.ed` : `sp.ed.e`
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.ieL`
-  * : **spez**ifizier `sp.if.ir` ~ `sp.ez.ir`
+  * : **spez**<i></i>*ifiz*ier `sp.if.ir` ~ `sp.ez.ir`
 * **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il`
 * spir `sp.ir` : `sp.ir.al` `IN.sp.ir.ir` `ko.sp.ir.iO`
 * **spitz** `.iz`
@@ -2708,6 +2724,7 @@
 
 * *unter* `UNTER` : `UNTER.ha` `UNTER,i`
 * ur- `UR`
+* -ut- ← -at-
 
 ## V
 <img src="svg/v.svg" width="100">
@@ -2732,7 +2749,7 @@
   * : **kon**vertier `ko.wet-ir`
   * vers `v.es`
     * : divers `d.i-w.es`
-    * : diversifikat*ion* `d.i-wes.if-o` ! `d.i-w.es.if-o`
+    * : divers*ifik*at*ion* `d.i-wes.if-o` ! `d.i-w.es.if-o`
     * : *in*vers `IN.wes` ! `IN.w.es`
     * : *in*vers*ion* `IN.wes-o` ! `IN.w.es.iO`
     * : **kon**vers*ion* `ko.wes-o` ! `ko.w.es.iO`
