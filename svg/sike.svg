@@ -2,6 +2,8 @@
 <svg width="25cm" height="20cm" viewBox="0 -18 20 35"
      xmlns="http://www.w3.org/2000/svg" version="1.1">
 
+<defs><link href="svg.css" type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml"/></defs>
+
 <path class="Grid" d="M-9,-9 L9,-9" />
 <path class="Grid" d="M-9,-6 L9,-6" />
 <path class="Grid" d="M-9,-3 L9,-3" />
@@ -20,12 +22,6 @@
 <circle class="Helper" cx="0" cy="3" r="9" />
 <circle class="Helper" cx="0" cy="3" r="6" />
 <circle class="Helper" cx="0" cy="3" r="3" />
-
-  <style type="text/css"><![CDATA[
-    .Stroke { fill:none; stroke:black; stroke-width:0.1 }
-    .Grid { fill:none; stroke:grey; stroke-width:0.01 }
-    .Helper { fill:none; stroke:red; stroke-width:0.01 }
-  ]]></style>
 
 <!--
 grid = 3
