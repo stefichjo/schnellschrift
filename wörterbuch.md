@@ -2545,6 +2545,7 @@
 * ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
 
 ## T
+<img src="svg/t.svg" width="100">
 
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
   * tab~~ell~~e `t.ab.e` × `t.ab`
