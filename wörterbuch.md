@@ -995,6 +995,7 @@
 * -iv `.iv` : `.iw-o` `.iv.ir`
 
 ## J
+<img src="svg/j.svg" width="100">
 
 * ja `j.a`
 
