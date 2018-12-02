@@ -227,6 +227,7 @@
   * ! `b.us`
 
 ## C
+<img src="svg/g.svg" width="100">
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er`
