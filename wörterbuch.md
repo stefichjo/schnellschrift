@@ -793,6 +793,7 @@
   * best `b.est`
 
 ## H
+<img src="svg/h.svg" width="100">
 
 * **hab** `ha` : `G-ha` `im.IN.ha-er`
   * : *ich*.**hab** `.I.ha` ~ `.I-a`
