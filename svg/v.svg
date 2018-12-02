@@ -3,10 +3,12 @@
   <defs><link href="svg.css" type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml"/></defs>
 
 <path class="Stroke" d="
-  M3,0
-  C1.25,0 0,1.25 0,3
-  L0,24
+  M6,0
+  C4.25,0 3,1.25 3,3
+  L3,21
+  C3,22.75 1.75,24 0,24
 " />
+
 
 </svg>
 
