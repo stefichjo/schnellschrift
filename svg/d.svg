@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="25cm" height="20cm" viewBox="4 -2 6 30"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+  <style type="text/css"><![CDATA[
+    .Stroke { fill:none; stroke:black; stroke-width:0.03 }
+  ]]></style>
+
+<path class="Stroke" d="
+  M6,0
+  C2,0 0,5 0,9
+  S6,13 6,9
+" />
+
+</svg>
+

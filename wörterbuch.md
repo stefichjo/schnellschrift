@@ -533,15 +533,15 @@
   * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
 * **find** `fi` : `fi-er` `fi.i` `fi.T` `fi.ing` `Z-fi`
   * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `er.f.i` `O-f.i` `u-rÜ:f.i` `Z-Sa.f.i`
-    * : *emp***find**en `.emp-f.i` * `.emp-i`
+    * : *emp***find**en `.emp-f.i` ~ `.emp-i`
     * : *er***find**er `er.f.i-er` ! `er,fi-er`
   * **fand** `fa` : `b.fa`
     * ! `f.ad`
-    * : *emp***fand** `.emp-fa` * `.emp-a`
+    * : *emp***fand** `.emp-fa` ~ `.emp-a`
 	* **fänd** `f`
 	  * ! `f.ed` ! `f.äd`
   * **fund** `fu` : `G-fu` `.ab.fu` `AU.fu`
-    * : *emp***fund**en `.emp-fu` * `.emp-u`
+    * : *emp***fund**en `.emp-fu` ~ `.emp-u`
 * ~~f~~**irm** `im` : `im.a` `im.en` `im.ir`
   * : ~~f~~**irm**ament `im-met` ! `f.im-met`
   * : **kon**~~f~~**irm**at*ion* `ko,im-o` ! `ko.f.im-o`
@@ -964,12 +964,6 @@
   * -*inell* `.i-eL`
 
 ---
-* *inter*- `(I)t-er` BSA
-  * : X `(I)t-er.n.al` `(I)t-er.pt.iO` `(I)tr.ig.en`
-  * *intell*- `IN.t`
-* -*ion* `.iO`/`-o`
-  * -*ional* `.i-aL`
-  * -*ionell* `.i-eL`
 * *industr* `IN` BSA
   * : X `m.et.IN.u-I`
   * : *industr*<i></i>*iell* `IN.ieL` (BSA)
@@ -977,9 +971,15 @@
   * : *industr*ie `IN.I` ! `IN.u-I` BSA
 ---
 
-* insel `.i-s.el` : `ha.i-s.el`
 * *ingenieur* `IN.ör` : `d.ipl.IN.ör`
 * init ← it
+* insel `.i-s.el` : `ha.i-s.el`
+* *inter*- `(I)t-er`
+  * *intell*- `IN.t`
+* *intrig* `(I)tr.ig` : `(I)tr.ig.e`
+* -*ion* `.iO`/`-o`
+  * -*ional* `.i-aL`
+  * -*ionell* `.i-eL`
 * *irgend* `.i` / `.ig`
   * n*irgend* `n.i` / `n.ig`
 * irr `.irr`
@@ -1604,8 +1604,8 @@
   * ! `n.am` : `n.am.ha`
   * ***näm*** `.äm` : `.äm.L`
 * ~~nat~~ : `(UR)` `(YR).L` `(.iO)`
-  * : ~~nat~~*ional* `(.i-aL)` * `(n.al)`
-    * : *inter*~~nat~~*ional* `(I)t-er.i-aL` * `(I)t-er-a`
+  * : ~~nat~~*ional* `(.i-aL)` ~ `(n.al)`
+    * : *inter*~~nat~~*ional* `(I)t-er.i-aL` ~ `(I)t-er-a`
 * ~~n~~aut `(.aut)` : `.a-str.aut` `k.osm.aut`
   * : aero~~n~~autik `.er.aut.ik` * `.er.o-n.ik`
   * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
@@ -1880,11 +1880,14 @@
     * *republikaner* `r.ik-er` E
     * *republikanisch* `r.ik.i` E
     * : **bu**~~nd~~es*republik* `bu:r.ik` < `bu.ik`
-* *punkt* pt. `pt` E
+---
+
+* *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO`
   * -p**u**nkt `u` → hoh
-    * : *ge*s<b>*icht*</b>sp**u**nkt `G-icht,u` × *ge*~~sicht~~sp**u**nkt `G,u`
-    * : *stand*p**u**nkt `and,u` ~ st**a**nd*punkt* `a-pt`
-  * *pünkt* pt. `pt` E
+    * : *ge*<i></i>~~s~~ichtsp**u**nkt `G-icht,u` × `G,u`
+    * : *stand*p**u**nkt `and,u` ~ `a-pt`
+
+---
 * put `p.ut` (BSA)
   * : *dis*put `(ds)p.ut` (BSA) ! `d.i-sp.ut` (BSA)
   * **p**ut `p`
@@ -2177,7 +2180,7 @@
   * sah `s.ah`
   * ~~s~~icht `(.icht)` : `.an.icht`
     * ! `s.icht`
-    * * ~~s~~**i**~~cht~~ : `.ab-i` `AU-i` `.o,i-L` `Z-E-i` `O-i`
+    * ~ ~~s~~**i**~~cht~~ `i` : `.ab-i` `AU-i` `.o,i-L` `Z-E-i` `O-i`
     * × ~~sicht~~ : `G` `hn` `rÜ`
 * **sehr** `s`
 * sei ← sein
