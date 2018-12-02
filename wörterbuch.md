@@ -2828,6 +2828,7 @@
   * : ~~vori~~g `(g)`
 
 ## W
+<img src="svg/w.svg" width="100">
 
 * waag ← wieg
 * waag `w.ag` : `w.ag.e`
