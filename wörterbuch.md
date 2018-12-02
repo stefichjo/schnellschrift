@@ -660,6 +660,7 @@
 * **fuß** `fu` : `ha.fu`
 
 ## G
+<img src="svg/g.svg" width="100">
 
 * gang ← geh
 * **ganz** `ga` : `ga.H` `ga-S`
