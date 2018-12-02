@@ -1,2 +1,4 @@
 .Stroke { fill:none; stroke:black; stroke-width:3 }
+.Stroke2 { fill:none; stroke:black; stroke-width:0.3 }
 .Helper { fill:none; stroke:red; stroke-width:0.01 }
+.Grid { fill:none; stroke:grey; stroke-width:0.01 }
