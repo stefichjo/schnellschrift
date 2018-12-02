@@ -7,15 +7,10 @@
   ]]></style>
 
 <path class="Stroke" d="
-  M6,0
-  C2,0 0,8 0,12
+  M3,0
+  C1.25,0 0,1.25 0,3
+  L0,12
 " />
-
-<path class="Stroke" d="
-  M0,12
-  C0,16 -2,24 -6,24
-" />
-
 
 </svg>
 
