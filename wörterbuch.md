@@ -1724,6 +1724,9 @@
 * ost `ost` : `w.ost`
 * *österreich* `.ö`
 
+## P
+<img src="svg/p.svg" width="100">
+
 ---
 * **pack** ! `p.ak`
   * **päck**chen `p.ch.en`
