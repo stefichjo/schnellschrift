@@ -962,15 +962,8 @@
 * -in-
   * -*inal* `.i-aL`
   * -*inell* `.i-eL`
-
----
-* *industr* `IN` BSA
-  * : X `m.et.IN.u-I`
-  * : *industr*<i></i>*iell* `IN.ieL` (BSA)
-  * : *industr*<i></i>*ial*isier*ung* `IN.iaL.ir-UNG` (BSA)
-  * : *industr*ie `IN.I` ! `IN.u-I` BSA
----
-
+* *industr* `IN` : `IN.iaL.ir-UNG` `IN.ieL`
+  * : *industr*ie `IN.I` STS ~ `IN.u-I` : `m.et.IN.u-I`
 * *ingenieur* `IN.ör` : `d.ipl.IN.ör`
 * init ← it
 * insel `.i-s.el` : `ha.i-s.el`
@@ -1457,11 +1450,10 @@
       * : *er*<i></i>**fahr**<i></i>*ung*s*ge***mäß** `er.fa.ess` × `er.fa.G`
       * : *ver*~~häl~~t<i></i>***nis***<i></i>**mäß**<i></i>*ig* `E(-t)-is.ess.i` × `E(-t)-is.i`
       * -*gemäß* `.G`
+* *metall* `m.et` : `m.et.i`
+* ~~meth~~od `(.od)` : `(.od).e`
 
 ---
-* metall `m.et.all` × `m.et` E
-  * : metall**isch** `m.et.all.i` × `m.et.i` E
-* meth<b>*od*</b> `(.od)`
 * metr `m.etr` : `m.etr.om`
   * : meter `m.etr`
   * : geometrie `g.e-m.etr.I`
