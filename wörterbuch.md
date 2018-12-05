@@ -1041,15 +1041,7 @@
 * ***kampf*** `ampf` : `kla.ampf`
   * : ***kämpf*** `empf` : `empf.e`
 * ~~kan~~al `(.al)` : `(.al).iO`
-
----
-* **k**ann `k` V
-  * : **k**annst `k` V
-  * **k**onn `k` V
-    * *ge***k**onnt `G-k-t`
-  * **könn** `kö` V
----
-
+* kann → könn
 * *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
   * *kapit* `aP` : `aP.el 7` `aP.än` `aP.ul.ir`
     * *kapit*al `aP.al` × `aP`
@@ -1058,14 +1050,14 @@
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
 
 ---
-* kart `k.at` (BSA)
-  * : karte `kat.e` ! *kart*e `k.art.e` BSA ≠ akte `.akt.e`
-  * : kartei `kat.ei` ~ `k.at.ei` (BSA) ~ `ka.ei`
-  * : kartell `kat.ell` ~ kart<b>*ell*</b> `(.ell)`
-  * : kartoffel `kat.of.l` ~ `ka.of.l`
-  * : kartothek `kat-ek` ! `k.at.o-t.ek` BSA
+* kart `k.at`
+  * : karte `k.at.e` ! `k.art.e`
+  * : kartei `k.at.ei` * `ka.ei`
+  * : kartothek  ! `k.at.o-t.ek` BSA
+  * ~~kart~~ell `(.ell)`
 ---
 
+* *kartoffel* `ka.of.el`
 * **kass** `ass` : `ass.e` `kra.ass.e`
 * **kat**a- `ka` : `ka.og`
 * ***kauf*** `.auf` : `.auf.ed` `.auft.e` `.an.auf` `.S.E-.auf` `E-.auf` `u-rÜ.auf` `N.auf` `rÜ.auf` `UN-E-.auft` `wr.auf`
@@ -1121,22 +1113,14 @@
 * *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i` `ko-u.ir`
   * : *kommun*<i></i>*ion* `ko-u.iO` * `o-u-O` STS ≠ *kommun*ikat*ion*
   * : *kommun*ikat*ion* `ko-u.iO` ~ `ko-u-o` ≠ kommunion
-
----
-* **kon**- `ko` V
+* **kon**- `ko`
   * : **koll**- `ko`
   * : *kom*- `kom`
-* **könn** `kö` V
-  * **k**ann `k` V
-    * : **k**annst `k` V
-  * **konn** `ko` V
-    *konnt* `k` V
-  * kunst `kust` BSA
-    * *künst* `kYst` BSA
-      * : X `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
+* **könn** `kö`
+  * *kann*, *kannst*, *konn* `k` : `G-k-t`
+  * kunst `kust`
+    * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
 * **konter**- `ko-t-er`
----
-
 * konto ← put
 * **kon**~~to~~ `ko` : `b.ak.ko` `s.ko`
 

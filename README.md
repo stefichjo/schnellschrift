@@ -3,23 +3,24 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-@fassade
-@etymologie, computer, kont
-@turt spint
-@region, nation :(
-@Die Silben id, il, in, is fallen, außer am Wortende, aus.
-@Die Silbe an fällt, außer am Wortende, aus.
-statt stätte
-kan kant  * akzent `.ak.zet` ! `.ak.z.ent`
-ist jedes bla-Ü in wortverbindung als Ü kürzbar?
-⋄ `m.ei-H`
-≠ allein
-@ä in "fänd"
-mater, toler
-@`L.T` → `T` (aber: Überheblichkeit)
-@**ig** → *ig*
--ung fällt anscheinend auch nach unbestimmtem Artikel aus
--st wird eigentlich immer zu -t
+* @fassade
+* @etymologie, computer, kont
+* @turt spint
+* @region, nation :(
+* @Die Silben id, il, in, is fallen, außer am Wortende, aus.
+* @Die Silbe an fällt, außer am Wortende, aus.
+* statt stätte
+* kan kant  * akzent `.ak.zet` ! `.ak.z.ent`
+* ist jedes bla-Ü in wortverbindung als Ü kürzbar?
+* @ä in "fänd"
+* mater, toler
+* @`L.T` → `T` (aber: Überheblichkeit)
+* @**ig** → *ig*
+* -ung fällt anscheinend auch nach unbestimmtem Artikel aus
+* -st wird eigentlich immer zu -t
+* azität = ~~azit~~ät `.ät` : *kap*azität = *kap*~~azit~~ät `aP.ät`
+* ilität = ~~ilit~~ät `.ät` : mobilität = mob~~ilit~~ät `m.ob.ät`
+* ***stud***<i></i>ium `.ud.um`
 
 ## Kurzschreibung
 
@@ -95,16 +96,6 @@ Bei Verbstämmen wird Endung -*ung* `UNG` nach bestimmtem Artikel nicht geschrie
 
 * *die* *rech*n*ung* = *die* *rech*~~nung~~ `I ech`
 * *die* **zeit**<i></i>*ung* `I T-UNG`
-
-### Lateinische Suffixe und Endungen
-
-* azität = ~~azit~~ät `.ät` : *kap*azität = *kap*~~azit~~ät `aP.ät`
-
-* ilität = ~~ilit~~ät `.ät` : mobilität = mob~~ilit~~ät `m.ob.ät`
-
-#### Lateinische Selbstlaut-Nachsilben
-
-* ***stud***<i></i>ium `.ud.um`
 
 ### Griechischer Fugen-Selbstlaut
 
