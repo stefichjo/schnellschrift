@@ -214,6 +214,7 @@
     * **brächt** `br`
       * : **brächt**e `br.e` ~ `brä-e`
 * **buch** `bu` : `ha,bu` `ha.el,bu`
+  * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
   * **büch** `bÜ` : `bÜ-er`
   * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
 * *bühr* `Ür` : `G-Ür`
@@ -994,26 +995,14 @@
 <img src="svg/j.svg" width="100">
 
 * ja `j.a`
-
----
-* **jahr** `ja` BSA
-  * : X `ja.z.ent` `ja.S ja.N` `ja.b.uch` `ha.ja` `.im.ja` `IN.iS:ja` `.im.let,ja` `.im.echst,ja` `GTs:ja` `frÜ.ja` `.im.O-i ja` `.im (O)ja` `j.L` `(E)j`
-  * : *dies***jähr**<i></i>*ig* `.is:j.i` × *dies*~~jähr~~*ig* `.is.i`
+* **jahr** `ja` : `GTs:ja` `frÜ.ja` `ha.ja` `ja.S ja.N`
   * : **jahr**.~~für~~.**jahr** `ja.ja`
-  * : *vor***jahr** `(O)ja` (BSA)
-  * .<b>*jahr*</b>. `.ar`
-    * : *in*.~~den~~.*letzt*en.<b>*jahr*</b>en `(I)let-ar.en`
-    * : *in*.**ein**er.reihe.~~von~~.<b>*jahr*</b>en `(I)ei-er.r.eih.ar.en` ! `IN.ei-er-r.eih.ar.en`
-    * : im.<b>*jahr*</b>e `.im.ar.e`
-    * : im.*letzt*en.<b>*jahr*</b> `.im.let-ar`
-    * : im.näch**st**en.<b>*jahr*</b> `.im(-st)-ar`
+  * -*jahr* `.ar` : `.im.ar.e` `.im.let-ar` `.im(-st)-ar` `.im-o.ar` `.im (g).ar` `(I)let-ar.en` `(I).iS.ar`
+    * : *in*.**ein**er.reihe.~~von~~.*jahr*en `IN.ei-er-r.eih.ar.en`
+    * : .im.*jahr*<i></i>~~e~~.~~19~~.80 `.im.ar,(80)` × `.im,(80)`
     * : im.*ver*~~gang~~enen<b>*jahr*</b> `.im.E-.ar`
-    * : im.*vor*<b>*jahr*</b> `.im-o.ar`
-    * : im.vori*g*en.<b>*jahr*</b> `.im (g).ar`
-    * : *in*.*dies*em.<b>*jahr*</b> `(I).iS.ar`
-    * .im.~~jahr~~<i></i>~~e~~.~~19~~.80 `.im,(80)`
----
-
+  * **jähr** `j` : `j.L` `(E)j`
+    * : *dies*<i></i>**jähr**<i></i>*ig* `.is:j.i` × `.is.i`
 * *japan* `j.ap` : `j.ap.i` `j.ap.er`
 * je `j.e` : `j.e-ma` `j.e-ma-s`
 * **jed** `j` : `j-er` `j.es` `j.es.ma`
@@ -3045,6 +3034,7 @@
   * : *pro*<i></i>***zed***<i></i>ur `(o).ed.UR` ~ `(o)z.UR`
   * ***zess*** `.ess` : `(o).ess` `(o).ess.ir` `(o).ess.iO` `(T),(o).ess`
     * : **kon**<i></i>***zess***<i></i>*ion* `ko.ess.iO` × `ko.ess`
+* zehn `z.en` : `ja.z.ent`
 * ***zeich*** `.eich` : `.eich.UNG` `E-.eich.is`
   * : ***zeich***nen `.eich` ! `z.eich` ≠ reichen
 * ***zeig*** `.eig`
