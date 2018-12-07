@@ -6,7 +6,6 @@
 * @fassade
 * @etymologie, computer, kont
 * @turt spint
-* @region, nation :(
 * @Die Silben id, il, in, is fallen, außer am Wortende, aus.
 * @Die Silbe an fällt, außer am Wortende, aus.
 * statt stätte
