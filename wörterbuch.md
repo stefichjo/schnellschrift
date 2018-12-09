@@ -97,6 +97,7 @@
       * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G-äuss` `E-äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
 * aut `.aut` : `.aut.o` `.aut.om`
+* -~~az~~-, -~~iz~~- → `.ät`
 
 ## B
 <img src="svg/b.svg" width="100">
@@ -1096,7 +1097,7 @@
   * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
     * : *er*<i></i>***klär*** `er.är` ~ `er-r`
 * **klass** `kla` : `kla-e` `kla.ik-er` `kla.i` `kla.if.ir` `kla.if-o`
-  * : **klass**iz*ismus* `kla.iz.iS` > `kla.iS`
+  * : **klass**iz*ismus* `kla.iS`
 * ***klaud*** `.aud` STS
   * ***klaus*** `.aus` : `.aus.e`
     * -*klausel* `au.el` → zent
@@ -1509,14 +1510,10 @@
     * : *kom*pr**o***miss* `kom.o-ms` : `kom`
       * ~ *kompromiss* `k.om-p.iss` BSA
     * : *trans*<i></i>*miss*<i></i>*ion* `tra.ms-o` × `tra.ms`
-* mob `m.ob`
-  * : mobil `m.ob.il`
-    * : automobil `.aut.m.ob.il` × auto~~mob~~il `.aut.il` BSA
-  * : mobilar `m.ob.ar`
-  * : mobilisier `m.ob.ir`
-  * : mobilität `m.ob.ät`
 ---
 
+* mob `m.ob` : `m.ob.il` `m.ob.ar` `m.ob.ir` mobilität `m.ob.ät`
+    * : automobil `.aut.m.ob.il` × `.aut.il`
 * mocht ← mög
 * mod `m.od` `m.od-er`
   * modell `m.od.ell` * `m.o-ell`

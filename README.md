@@ -6,10 +6,7 @@
 * ist jedes bla-Ü in wortverbindung als Ü kürzbar?
 * @ä in "fänd"
 * mater, toler
-* -ung fällt anscheinend auch nach unbestimmtem Artikel aus
 * -st wird eigentlich immer zu -t
-* azität = ~~azit~~ät `.ät` : *kap*azität = *kap*~~azit~~ät `aP.ät`
-* ilität = ~~ilit~~ät `.ät` : mobilität = mob~~ilit~~ät `m.ob.ät`
 * ***stud***<i></i>ium `.ud.um`
 
 ## Kurzschreibung
@@ -82,7 +79,7 @@ Die Endung -*ung* `UNG` wird nach Fußschleifenzeichen durch Auslassen der Fußs
 * heiz*ung* `h.eiz*`
 * **zahl**<i></i>*ung* `za*`
 
-Bei Verbstämmen wird Endung -*ung* `UNG` nach bestimmtem Artikel nicht geschrieben.
+Bei Verbstämmen wird Endung -*ung* `UNG` nach Artikel nicht geschrieben.
 
 * *die* *rech*n*ung* = *die* *rech*~~nung~~ `I ech`
 * *die* **zeit**<i></i>*ung* `I T-UNG`
