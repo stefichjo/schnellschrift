@@ -24,6 +24,10 @@
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
 * akad~~em~~ `.ak.ad`
+* -al `.al`
+  * -~~al~~-
+  * -il `.il`
+    * -~~il~~-
 * *all* `.al` : `wet-al`
   * : *vor*.*all*em `O .al.em` ~ `O-a`
 * als `.as`
@@ -233,7 +237,7 @@
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er`
   * : **chem**<i></i>*isch* `ch.i` ! `ch.em.i`
-  * : **chem**ikalien `ch.ik.al.I.en` ~ `ch.em.ik.I.en`
+  * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
 
 ## D
@@ -532,8 +536,9 @@
   * : *filial* `f.iaL` : `f.iaL.e`
 * film `f.im` : `f.imt.e` `G-f.imt` `E-f.im`
 * **filt**er `fit-er` : `fit-r.ir`
-* **fin** `fi`: `fi.al` `fi.al.e` `fi.al.ist`
-  * : **fin**al*ist*in `fi.al.i+st.in` × `fi.al.in`
+* **fin** `fi`: `fi.al` `fi.al.e`
+  * : **fin**al*ist* `fi.ist` ! `fi.al.ist`
+  * : **fin**al*ist*in `fi.i+st.in` ~ `fi.al.in`
   * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi-er` `fi.um` `fi.om` `O,fi.ir`
   * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
 * **find** `fi` : `fi-er` `fi.i` `fi.T` `fi.ing` `Z-fi`
@@ -589,7 +594,9 @@
   * : *er*<i></i>*forder*<i></i>*lich* `er.F.L` ~ `er.o-L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `I Fö` `I b.Fö.en`
 * *fort* `fr`
-* ***form*** `.om` : `.om.al` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.al.iS.i` `.om.os` `.om.ar` `.om.ul.ir` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
+* ***form*** `.om` : `.om.al` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
+  * ***form***alität `.om.ät` ! `.om.al.ät`
+  * ***form***al*istisch* `.om.iS.i` ! `.om.al.iS.i`
   * -*reform* `.om` → schul
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
@@ -1047,10 +1054,8 @@
 * ~~kan~~al `(.al)` : `(.al).iO`
 * kann → könn
 * *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
-  * *kapit* `aP` : `aP.el 7` `aP.än` `aP.ul.ir`
-    * *kapit*al `aP.al` × `aP`
-      * : *kapit*alien `aP.al.I.en` × `aP.I.en`
-      * : *kapit*al*ismus* `aP.al.iS` × `aP.iS`
+  * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
+    * : *kapit*al `aP.al` × `aP`
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
 
 ---
@@ -1605,8 +1610,8 @@
     * : **be**<i></i>nannt `b.n.ant` ~ `b.ant`
     * : <b>*er*</b>nannt `er.n.ant` ~ `er.ant`
 * **neu** `neu`
-* neutral `n.eutr.al` × `n.eutr`
-  * : neutralisier `n.eutr.al.ir` × `n.eutr.ir` E
+* neutr `n.eutr` : `n.eutr.ir`
+  * : neutral `n.eutr.al` × `n.eutr`
 * *nicht* `-t` V
   * : **gar**.*nicht* `ga-t`
 * -***nis*** `.is` E
@@ -1879,7 +1884,7 @@
 * rad `r.ad`
   * : **fa**~~hr~~rad `fa.r.ad` ~ `fa.ad`
   * *gerad* `-G-a` : `-G-a.e`
-* rad `r.ad` : `r.ad.al` `r.ad.iS`
+* rad `r.ad` : `r.ad.al` `r.ad.iS` @?
 * rag `r.ag`
 * rahm `r.am`
   * : im.rahmen `.im.r.am` ~ `.im.am`
@@ -1903,7 +1908,10 @@
 * ***raum*** `.aum`
   * : welt<i></i>***raum*** `wet-aum` ~ `w.aum`
   * ***räum*** : `.äum` : `.äum.e`
-* **re** `r` : `r.al` `r.al.ir` `r.al.ät`
+* **re** `r` : `r.al`
+  * : **re**alisieren `r.ir` ! `r.al.ir`
+  * : **re**alität `r.ät` ! `r.al.ät`
+* real ← re
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G-ech` `(.S)ech` `(b)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
 * *recht* `R` : `T-s.R` `(.es):R`
@@ -2345,6 +2353,7 @@
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.ieL`
   * : **spez**<i></i>*ifiz*ier `sp.if.ir` ~ `sp.ez.ir`
 * **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il`
+* spint `sp.it` STS @?
 * spir `sp.ir` : `sp.ir.al` `IN.sp.ir.ir` `ko.sp.ir.iO`
 * **spitz** `.iz`
 * **sp**iz `sp` : `IN.sp.ir`
@@ -2719,9 +2728,9 @@
 * **ven** `w`
   * : *inter***ven**ier `(I)t-er.w.ir`
   * *vent* `v.et`
-    * : e*vent*ualität `.e-w.et.al.ät` ~ `.e-v.ät`
+    * : e*vent*ualität `.e-w.et.ät` * `.e-v.ät`
   * **v**ent `w` ! `w.et` E
-    * : e*vent*ualität `.e-w.al.ät` ! `.e-w.et.al.ät`
+    * : e*vent*ualität `.e-w.ät` ! `.e-w.et.al.ät`
     * : evtl. `.e-v-t-l`
     * : *in*<i></i>**v**entar `IN.w.ar` ! `IN.w.et.ar` (BSA) ~ `IN-t-ar`
       * : X `IN.w.et.ar.ir`
@@ -2750,12 +2759,12 @@
   * *individ* `IN.d` BSA
     * : *individ*uum `IN.d.um` (BSA)
     * : *individ*uell `IN.d.ell` (BSA)
-    * : *individ*ualität `IN.d.al.ät` (BSA)
-    * : X `IN.d.al.iS`
+    * : *individ*ualität `IN.d.ät` ! `IN.d.al.ät` (BSA)
+    * : `IN.d.iS` ! `IN.d.al.iS`
   * **v**is `v` ! `v.is`
     * : **v**is*ion* `v.iO` ! `v.is.iO`
     * : **v**isite `v.it.e`
-    * : **v**isualisier `v.al.ir` ! `v.is.al.ir`
+    * : **v**isualisier `v.ir` ! `v.is.al.ir`
     * : **v**isuell `v.ell` ! `v.is.ell`
     * : de**v**ise `d.e-w.e` ~ `d.e-is.e` BSA
       * : de**v**isen `d.e-w.en` ~ `d.e-is.en` (BSA)
