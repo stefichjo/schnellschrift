@@ -101,6 +101,7 @@
 
 ## B
 <img src="svg/b.svg" width="100">
+<img src="svg/br.svg" width="100">
 
 * *baden-würtemberg* `b.ad-Ü`
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
@@ -235,6 +236,9 @@
 
 ## C
 <img src="svg/c.svg" width="100">
+<img src="svg/ch.svg" width="100">
+<img src="svg/cht.svg" width="100">
+<img src="svg/cr.svg" width="100">
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er`
@@ -243,6 +247,8 @@
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
 
 ## D
+<img src="svg/d.svg" width="100">
+<img src="svg/dr.svg" width="100">
 
 * *d. h.* `d.h°`
 * da `d.a`
@@ -1065,15 +1071,11 @@
   * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
     * : *kapit*al `aP.al` × `aP`
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
-
----
 * kart `k.at`
-  * : karte `k.at.e` ! `k.art.e`
+  * : karte `k.at.e` ! `k.art.e` ≠ kante
   * : kartei `k.at.ei` * `ka.ei`
-  * : kartothek  ! `k.at.o-t.ek` BSA
+  * : kartothek `k.at.t.ek` ! `k.at.o-t.ek` @?
   * ~~kart~~ell `(.ell)`
----
-
 * *kartoffel* `ka.of.el`
 * **kass** `ass` : `ass.e` `kra.ass.e`
 * **kat**a- `ka` : `ka.og`
@@ -1391,13 +1393,9 @@
 * ***mass*** `ass` : `ass.e`
   * ***mass***en**haft** `ass.ha` ! `ass.en.ha`
 * maß ← mess
+* ***mat*** `.at` : `.aut.at` `.aut.at.i` `.aut.at.ir-UNG` `.aut.at.iO`
 
 ---
-* <b>*mat*</b> `.at` BSA
-  * : auto<b>*mat*</b> `.aut.at` (BSA)
-  * : auto<b>*mat*</b>*isch* `.aut.at.i` (BSA)
-  * : auto<b>*mat*</b>isier*ung* `.aut.at.ir-UNG` (BSA)
-  * : auto<b>*mat*</b>*ion* `.aut.iO` ! `.aut.at.iO` (BSA)
 * **mater** `ma` ! `m.at-er` × `m.at` E
   * : **mater**ie `ma.I.e` ! `m.at-er.I.e` × `m.at.I.e` E
   * : **mater***ial* `ma.iaL` ! `m.at-er.iaL` × `m.at.iaL` E
