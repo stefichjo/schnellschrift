@@ -3,7 +3,7 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-* @Die Silben id, il, in, is fallen, außer am Wortende, aus.
+* @Die Silben in, is fallen, außer am Wortende, aus.
 * @Die Silbe an fällt, außer am Wortende, aus.
 * statt stätte
 * kan kant  * akzent `.ak.zet` ! `.ak.z.ent`
@@ -11,7 +11,6 @@
 * @ä in "fänd"
 * mater, toler
 * @`L.T` → `T` (aber: Überheblichkeit)
-* @**ig** → *ig*
 * -ung fällt anscheinend auch nach unbestimmtem Artikel aus
 * -st wird eigentlich immer zu -t
 * azität = ~~azit~~ät `.ät` : *kap*azität = *kap*~~azit~~ät `aP.ät`
