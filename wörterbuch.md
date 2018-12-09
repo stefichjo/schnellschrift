@@ -276,7 +276,7 @@
       * ! `d.ächt`
   * → dank
 * denn ← dann
-* dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
+* dens `d.e's` : `ko.d.e's.at` `ko.d.e's.ir`
 * ~~de~~r `(r)` : `.S-er` `(I)-er`
 * ~~d~~es `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
@@ -358,7 +358,7 @@
   * : *so*eben `.o.eb` ~ `(o).eb`
 * echt `.echt`
 * ego `.eg.o` STS : `.eg.iS` `.eg.iS.i`
-  * : ego*ist* : `.eg.i-st` ~ `.eg.ist`
+  * : ego*ist* : `.eg.i+st` ~ `.eg.ist`
 * ehr `.er`
   * : *ich*.~~h~~**a**~~be~~.~~die~~.ehr.e `.I-a.er.e` ~ `.I-a,(.e)`
 * eid `.eid` : `N.eid` STS
@@ -425,9 +425,12 @@
 * **fabr** `fa` : `fa.ik` `fa.ir`
   * *fabrik* `fa` : `fa.ant` `fa.at`
     * : *fabrik*at*ion* `fa-o` ! `fa.iO`
+* facette ← faci
+* facette `f.ass.et.e` @?
 * **fach** `fa` : `fa.L` `fa.FT` `N.fa` `N.fa.H` `eNT.fa` `E-N.fa` `ma.i-fa`
   * : **fäch**er `f-er` ! `f.ech-er`
   * : ein**fach**er `N.fa-er` ! `N.fa.er`
+* faci
 * **fäh** `f` : `f.i`
   * : **fäh***ig*<i></i>***keit*** `f.T` ! `f.eh.T` ≠ fälligkeit
   * : ~~arb~~eits**fäh***ig* `(T)-f.i` ~ `T-f.i`
@@ -478,6 +481,7 @@
   * ~ **fass** `.ass` : `AU.ass` `b.ass` `er.ass` `.um.ass.ed` `E-.ass-er` `Z-Sa-ass.ed` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
   * ***fäss*** `fess`
     * ! `f.ess` : `f.ess.er` `f.ess.ch.en`
+* fassade ← faci
 * fassade `f.ass.ade`
 * fasson `f.ass.ong`
 * *fast* `Fa`
@@ -529,7 +533,7 @@
 * film `f.im` : `f.imt.e` `G-f.imt` `E-f.im`
 * **filt**er `fit-er` : `fit-r.ir`
 * **fin** `fi`: `fi.al` `fi.al.e` `fi.al.ist`
-  * : **fin**al*ist*in `fi.al.i-st.in` × `fi.al.in`
+  * : **fin**al*ist*in `fi.al.i+st.in` × `fi.al.in`
   * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi-er` `fi.um` `fi.om` `O,fi.ir`
   * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
 * **find** `fi` : `fi-er` `fi.i` `fi.T` `fi.ing` `Z-fi`
@@ -817,7 +821,7 @@
   * -*halb* `ha` : → außer des inner unter wes
   * *halb*- `ha` : → insel jahr wicht
   * **hälft** `h.e` : `h.e` `.il:h.e`
-* hals `h.a-s`
+* hals `h.a's`
 * ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN.-t` `.in-t` `ach-t-ig` `.aus,(-t)` `rÜ-t-l.o` `sa.E-t` `E-t-is` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
   * : ~~hal~~t*ung* `(-t)-UNG` ~ `-t-UNG`
   * ~~häl~~t `(-t)` : `E-t-is`
@@ -967,7 +971,7 @@
   * : *industr*ie `IN.I` STS ~ `IN.u-I` : `m.et.IN.u-I`
 * *ingenieur* `IN.ör` : `d.ipl.IN.ör`
 * init ← it
-* insel `.i-s.el` : `ha.i-s.el`
+* insel `.i's.el` : `ha.i's.el`
 * *inter*- `(I)t-er`
   * *intell*- `IN.t`
 * *intrig* `(I)tr.ig` : `(I)tr.ig.e`
@@ -1115,14 +1119,15 @@
   * : *kommun*ikat*ion* `ko-u.iO` ~ `ko-u-o` ≠ kommunion
 * **kon**- `ko`
   * : **koll**- `ko`
-  * : *kom*- `kom`
+  * : *kom*- `kom` @?
 * **könn** `kö`
   * *kann*, *kannst*, *konn* `k` : `G-k-t`
   * kunst `kust`
     * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
 * **konter**- `ko-t-er`
 * konto ← put
-* **kon**~~to~~ `ko` : `b.ak.ko` `s.ko`
+* *kont* `ko` : `ko.en` `ds.ko.ir`
+  * *kont*o `ko` : `b.ak.ko` `s.ko`
 
 ---
 * *kontroll* `(ko)tr.o` BSA
@@ -1742,8 +1747,8 @@
   * ***pass*** `pass` : `pass.O`
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
-  * pens `p.e-s`
-    * : pens*ion* `p.e-s-o` ! `p.e-s.iO`
+  * pens `p.e's`
+    * : pens*ion* `p.e's-o` ! `p.e's.iO`
 * **per**- `p`
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
 * **pfleg** `pfl`
@@ -1854,18 +1859,11 @@
   * -p**u**nkt `u` → hoh
     * : *ge*<i></i>~~s~~ichtsp**u**nkt `G-icht,u` × `G,u`
     * : *stand*p**u**nkt `and,u` ~ `a-pt`
-
----
-* put `p.ut` (BSA)
-  * : *dis*put `(ds)p.ut` (BSA) ! `d.i-sp.ut` (BSA)
-  * **p**ut `p`
-    * : am**p**utat*ion* `.am-p-o`
-  * **kont** `ko` BSA
-    * : X `ko.en`
-    * : *dis***kont** `ds.ko` (BSA)
-      * : *dis***kont**ier `ds.ko.ir` (BSA)
-      * : *dis***kont**ierte `ds.ko.irt.e` (BSA)
----
+* put `p.ut`
+  * : amputat*ion* `.am-p.ut.iO` * `.am-p-o`
+  * : *comp*uter `kom.ut-er` * `kom-u.er` × `kom-u`
+  * : *dis*put `(ds)p.ut` ! `d.i+sp.ut`
+  * → kont
 
 ## Q
 
@@ -1976,7 +1974,7 @@
 * rom `r.om`
   * : roman*isch* `r.om.i` ! `r.om.an.i`
   * röm `r.öm` : `r.öm.i`
-* roman `r.om.an` : `r.om.an.i-st.ik` `r.om.an.iS.i`
+* roman `r.om.an` : `r.om.an.i+st.ik` `r.om.an.iS.i`
   * *romant* `r.o-mat` : `r.o-mat-ik` ` `r.o-mat-isch`
 
 ---
@@ -2175,7 +2173,7 @@
 ---
 
 * ***seit*** `T` : `T.e` `T-en` `T.L` `.ad-er.Ts` `b.T-ig` `.eid-er.Ts` `g.T-ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T-en`
-  * ***seit***<i></i>ens `T-s` `s.T-s`@
+  * ***seit***<i></i>ens `T-s` `s.T-s` @
   * ***seit***<i></i>wärts `T-wets` ! `s.T-wets`
   * ***seit***<i></i>en<i></i>**lang** `T-ang` ! `s.T-ang`
   * bei<i></i>***seit***<i></i>e `b.ei-T.e` ! `b.ei-s.T.e`
@@ -2376,8 +2374,8 @@
     * : ***stat***ik `.at.ik` ! `st.at.ik`
     * : ***stat***<i></i>*ion* `.at.iO` ⇒ `sta*` STS
     * : **kon**<i></i>***stat***ier `ko.at.ir` ~ `ko.sta.ir`
-    * ~~stat~~ist `(.i-st)` : `(.i-st)-ik`
-        * : ~~stat~~istisch `(.i-st)-isch` ~ `sta.iS.i`
+    * ~~stat~~ist `(.i+st)` : `(.i+st)-ik`
+        * : ~~stat~~istisch `(.i+st)-isch` ~ `sta.iS.i`
     * *statu* `sta.u` : `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
     * st~~it~~ `st` : `IN.st.ut` `IN.st.ut.iO` `ko.st.ir`
       * : **kon**st~~it~~ut*ion* `ko.st.ut.iO` ~ `ko.st.it.iO`
@@ -2671,6 +2669,10 @@
   * **tat** `ta`
     * **tät** `t.e`
     * : **tät**er `t-er` ! `t.et-er`
+* turt `tut` STS : `tut-el` STS
+
+## U
+
 * üb `.üb` : `.üb.L`
 
 ---

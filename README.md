@@ -3,9 +3,6 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-* @fassade
-* @etymologie, computer, kont
-* @turt spint
 * @Die Silben id, il, in, is fallen, außer am Wortende, aus.
 * @Die Silbe an fällt, außer am Wortende, aus.
 * statt stätte
@@ -31,7 +28,7 @@
 
 #### vor Auslaut-s
 
-* hals `h.a-s` = `h.aS`
+* hals `h.a's` = `h.aS`
 * als `.as`
 
 #### vor Auslaut-t
@@ -334,7 +331,7 @@ Bei der Bildung von Präpositionalphrasen dürfen beliebige Bestandteile im Inne
   * : bei.*dies*er *ge*<i></i>**leg**en*heit* `b.ei-.iS-er G-l.H` × `b.ei-.iS.H`
 * ~~mon~~at `(.at)`
   * *in*.~~de~~n *letzt*en ~~mon~~aten `(I)n let (.at).en` × `(I)let.at.en`
-* *zu*<i></i>*samm*en~~h~~ang `Z-sa.ang`
+* *zu*<i></i>*samm*en~~h~~ang `Z-Sa.ang`
   * : *in*.*dies*em *zu*<i></i>*samm*en~~h~~ang `(I).iS.em Z-Sa.ang` × `(I).iS.ang`
 
 In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
