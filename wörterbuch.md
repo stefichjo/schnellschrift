@@ -366,6 +366,7 @@
   * : dutzend `d.uz.ed` × `d.uz`
 
 ## E
+<img src="svg/e.svg" width="100">
 
 * eben `.eb`
   * : *so*eben `.o.eb` ~ `(o).eb`
@@ -434,6 +435,8 @@
 * exemp ← em
 
 ## F
+<img src="svg/f.svg" width="100">
+<img src="svg/fr.svg" width="100">
 
 * **fabr** `fa` : `fa.ik` `fa.ir`
   * *fabrik* `fa` : `fa.ant` `fa.at`
@@ -684,6 +687,7 @@
 
 ## G
 <img src="svg/g.svg" width="100">
+<img src="svg/gr.svg" width="100">
 
 * gang ← geh
 * **ganz** `ga` : `ga.H` `ga-S`
@@ -1085,7 +1089,7 @@
 * -***keit*** `T`
 * ~~k~~ehr `(.er)` : `E-.er`
   * ! `k.ehr`
-* **kenn** `k.e` : `.an.er` `b.k` `er.k` `er.k.e-nis`
+* **kenn** `k.e` : `.an.er` `b.k` `b.k.is` `er.k` `er.k.is`
   * ! `k.en` : `k.en.e` ≠ kennt
   * **kann** `ka` : `ka-t.e` `b.ka-t`
 * **kind** `ki` : `ki.H` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
@@ -1235,14 +1239,14 @@
   * **lä**~~nd~~ `lä` STS
     * ! `l.ed` : `l.ed.L` `.S.l.ed-er` `G-l.ed.e` `G-l.ed-er`
     * ~~län~~der : `(d-er)` : `(I).N.el.d-er`
-      * *ent*<i></i>*wick*l*ung*s~~län~~der `eNT,wi-l.d-er` ~ `eNT-i,(d-er)`
+      * *ent*<i></i>*wick*l*ung*s~~län~~der `eNT,wi-l.d-er` ~ `eNT-i.d-er`
     * -*ländisch* : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
   * → deutschland
   * → niederlande
 * **lang** `ang` : `ang-Sa` `ang.fr.ist-ig` `E-ang` `E-ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * **läng** `eng` : `eng.-st` `eng.-st-es` `eng.-st-s`
     * : *un*<i></i>*zu*<i></i>**läng**<i></i>*lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
-    * * *länger* `NGR` : `E-NGR`
+    * * *länger* `eNGR` : `E-eNGR`
 * ~~l~~ass `(ass)` : `(I)t-er.ass`
   * ! `l.ass` ~ `ass`
   * × ~~lass~~ : `E-.an` `.S.an`
@@ -2220,6 +2224,13 @@
   * **sand**t `sa-t` ! `s.adt`
 ---
 
+* sent `set` : `pr.set-ir`
+  * : *prä*sent `pr.set` ! `pr.s.ent`
+    * *re*<i></i>*prä*~~sent~~ `(re)pr` : `(re)pr.aNT`
+  * sens
+  * senz `s.ez` : `pr.s.ez`
+* sent `set` STS
+  * sens `s.e's` : `s.e's-o`
 * **sequ** `s`
   * ! `s.equ`
     * : sequenz `s.equ.ez` × `s.equ`
@@ -2367,7 +2378,7 @@
   * spek `sp.ek` : `sp.ek.iO` `sp.ek.ir`
 * ~~sp~~ort `(.ot)` : `(.ot).N`
 * **sprech** `spr` : `eNt.spr`
-  * : ~~sprech~~ : `eNT.ed`
+  * : *ent*<i></i>**sprech**end : `eNT.spr.ed` × `eNT.ed`
   * **sprich** `.ich` :  `.ich-o`
   * **sprach** `spra` : `spra-e` `g.wat,spra-e`
     * **spräch** `spr` : `G-spr`
