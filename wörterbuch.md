@@ -535,6 +535,7 @@
 * fenster `fest-er`
 * **fer** `f` : `d.if.ent` `d.if.ez` `d.if.ez.ir` `ko.f.ez` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
     * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
+    * -*ministerkonferenz* `ko`
   * → lat
 * *ferien* `f.I.en` : `s.om.f.I.en`
 * ***fer***<i></i>~~n~~ `fer`
@@ -725,7 +726,7 @@
   * *gegn*er `g-er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
 * **geh** `g.e` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E-g` `O-Ü.g` `Z-gru.g`
   * ~ g~~eh~~ `g`
-  * ~~w~~eit**geh**end `(T)-g.ed` ! `w.T-g.ed`
+  * weit**geh**end `w.T-g.ed`
   * **ging** `.ing` : `O-Ü.ing` `u-rÜ.ing`
   * **gang** `ang` : `G-ang` `ang.bar` `.S.ang` `N.ang` `.um.ang` `E-ang` `E-l.or.ang` `GR-Ü.ang`
     * **gäng** `eng` : `rÜ.eng.i` `UN-E-.eng.L` `O-eng.er` `UN-z.eng.L`
@@ -1131,19 +1132,16 @@
   * *kann*, *kannst*, *konn* `k` : `G-k-t`
   * kunst `kust`
     * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
-* **konter**- `ko-t-er`
-* konto ← put
+* kont ← put
 * *kont* `ko` : `ko.en` `ds.ko.ir`
   * *kont*o `ko` : `b.ak.ko` `s.ko`
+* **konter**- `ko-t-er`
 
 ---
-* *kontroll* `(ko)tr.o` BSA
-  * : *kontroll*e `(ko)tr.o-e` (BSA) !o! `ko,o`
-  * : *kontroll*en `(ko)tr.o-en` (BSA)
-  * : *kontroll*ier `(ko)tr.o-ir` ! `(ko)tr.ir` (BSA)
-  * : *kontroll*ör `(ko)tr.o-ör` (BSA)
-* körp `k.öp` BSA
-  * : X `k.öp-er` `k.öp-er.L` `k.öp-er.FT` `E-k.öp-er`
+* *kontroll* `(ko)tr.o` : `(ko)tr.o-en` `(ko)tr.o-ör`
+  * : *kontroll*e `(ko)tr.o-e` ~ `ko,o`
+  * : *kontroll*ier `(ko)tr.o-ir` ! `(ko)tr.ir`
+* körp `k.öp` : `k.öp-er` `k.öp-er.L` `k.öp-er.FT` `E-k.öp-er`
 * kopf `k.opf`
 * **kost** `kost` BSA
   * : X `UN-kost-en` `m.kost-en` `E-wat-UNG.kost-en`
@@ -1507,7 +1505,7 @@
 * mod `m.od` `m.od-er`
   * modell `m.od.ell` * `m.o-ell`
 * ***mög*** `.ög`
-  * ~~mög~~*lich* `(L)` : `(L)-t`
+  * ~~mög~~*lich* `(L)` : `(L)-t` `(o)w.T.L`
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
@@ -1728,6 +1726,7 @@
   * : **pa**rallel `pa.ll.el` ~ `p.ar.el` E
 ---
 
+* *paris* `pa.is`
 * parl
   * *parlament* `Par` : `Par.ar-er`
     * : *parlament*ar**isch** `Par.ar.i` × `Par.i`
@@ -2884,10 +2883,9 @@
     * ! `w.is`
 * weiß ← wiss
 * weiß `w.eiss`
-* ~~w~~eit `(T)`
-  * ! `w.T`
-  * : ~~w~~eiter `(T)-er` ! `T-er`
-  * × ~~weit~~er : `&.o,(er)` × `&.o`
+* weit `w.T`
+  * : weiter `w.T-er` * `T-er`
+    * : *und*.*so*.weiter `(&.o)w.T-er` × `&.o`
 * ***welch*** `.ech` : `.ig.ech.e`
 * welt `wet` : `E-wet-L`
   * ~ ~~wel~~t `(-t)` : `um-t`
