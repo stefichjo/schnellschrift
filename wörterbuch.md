@@ -124,6 +124,7 @@
 * **bas** `ba` : `ba.is`
 * **bau** `bau` : `bau.er` `bäu.er.in` `b.au.er.FT`
   * : **bäu**er*lich* `bäu.er.L` × `bäu.L`
+* bass `b.ass` : `(ko)tra.b.ass`
 * *bayer*, *bayern* `b.ay`
 * **be**- `b.e`
 * **behr** `b.e` : `UN-eNT.b.L`
@@ -212,7 +213,7 @@
     * : *un*<i></i>*unter*<i></i>**broch**en `UN-UNTER.bro` × `UN-UNTER`
   * **bruch** `bru`
     * **brüch** `brü` ~ `brÜ`
-      * *ver*<i></i>**trag**s**brüch**<i></i>*ig* `(E)tra.brÜ.i` * `(E)tra-Ü.i`
+      * *ver*<i></i>**trag**s**brüch**<i></i>*ig* `(E)tra-Ü.i` `(ko)tra-Ü.i`
 * breit `br.T`
 * **brief** `bri`
 * **bring** `bri` : `er,bri`
@@ -1135,7 +1136,10 @@
 * kont ← put
 * *kont* `ko` : `ko.en` `ds.ko.ir`
   * *kont*o `ko` : `b.ak.ko` `s.ko`
-* **konter**- `ko-t-er`
+* *kontr* `(ko)tr` STS
+  * *kontr*är `(ko)tr.är`
+  * *konter* `(ko)t-er` STS ~ `ko-t-er`
+  * *kontra* `(ko)tra` : `(ko)tra,u`
 
 ---
 * *kontroll* `(ko)tr.o` : `(ko)tr.o-en` `(ko)tr.o-ör`
@@ -1855,8 +1859,8 @@
     * : **bu**~~nd~~es*republik* `bu:r.ik` < `bu.ik`
 ---
 
-* *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO`
-  * -p**u**nkt `u` → hoh
+* *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO` `(ko)tra.pt.i` `(ko)tra.pt.iS.i`
+  * -p**u**nkt `u` → hoh kontr
     * : *ge*<i></i>~~s~~ichtsp**u**nkt `G-icht,u` × `G,u`
     * : *stand*p**u**nkt `and,u` ~ `a-pt`
 * put `p.ut`
@@ -2632,7 +2636,7 @@
     * **trächt** `tr` : `tr.i` `b.N.tr.i` `b.N.tr.i-t.e` `(N)tr.i` `(ndr)tr.T`
 * träg `tr.eg` : `tr.eg.H`
 * **trah** `tra` : `(ko)tra`
-  * **trakt** `tra`
+  * **trakt** `tra` : `(ko)tra`
     * ! `tr.akt`
     * : at**trakt**iv `.a-tra.iv` ~ `.a-tra-t-iv`
     * **tracht** `tra` : `(b)tra` `(b)tra.et.e`
@@ -2797,7 +2801,7 @@
   * ~~vol~~**u**~~t~~ `u`
     * : e~~vol~~**u**~~t~~*ion* `.e,u-O`
     * : **re**~~vol~~**u**~~t~~*ion* `r.u-O`
-    * : **konter**<i></i>**re**~~vol~~**u**~~t~~*ion* `ko-t-er,r.u-O`
+    * : *konter*<i></i>**re**~~vol~~**u**~~t~~*ion* `(ko)tr,r.u-O` ~ `ko-t-er,r.u-O`
 ---
 
 * **von** `v`
