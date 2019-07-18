@@ -1140,11 +1140,11 @@
   * *kontr*är `(ko)tr.är`
   * *konter* `(ko)t-er` STS ~ `ko-t-er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
+* kontroll ← kontr
+* *kontroll* `(ko)tr` STS * `ko` : `ko.ir` `ko.ir.bar` `ko.ör`
+  * *kontroll*e `(ko)tr.e` ~ `ko,o` : `ko,o-en`
 
 ---
-* *kontroll* `(ko)tr.o` : `(ko)tr.o-en` `(ko)tr.o-ör`
-  * : *kontroll*e `(ko)tr.o-e` ~ `ko,o`
-  * : *kontroll*ier `(ko)tr.o-ir` ! `(ko)tr.ir`
 * körp `k.öp` : `k.öp-er` `k.öp-er.L` `k.öp-er.FT` `E-k.öp-er`
 * kopf `k.opf`
 * **kost** `kost` BSA
