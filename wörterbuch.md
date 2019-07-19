@@ -628,7 +628,7 @@
 * ~~fr~~**eu** `eu` : `eud.e` `er,eu-L`
 * *freund* `.eund` : `.eund.in` `.eund.FT` `b.eund.et`
   * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L`
-  * : *geschäft*s*freund* `GT.eund` ~ `GT,eu`
+  * -fr**eu**nd `eu` → schaff
 * ***fried*** `.id`
   * : *un*<i></i>*zu*<b>*fried*</b>en `UN-z.id.en` × `UN-z.id`
 * ***frist*** `.ist`
@@ -1143,9 +1143,11 @@
 * kontroll ← kontr
 * *kontroll* `(ko)tr` STS * `ko` : `ko.ir` `ko.ir.bar` `ko.ör`
   * *kontroll*e `(ko)tr.e` ~ `ko,o` : `ko,o-en`
+* körp ← korp
+* **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E-kö.er`
+  * **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
 
 ---
-* körp `k.öp` : `k.öp-er` `k.öp-er.L` `k.öp-er.FT` `E-k.öp-er`
 * kopf `k.opf`
 * **kost** `kost` BSA
   * : X `UN-kost-en` `m.kost-en` `E-wat-UNG.kost-en`
@@ -1760,7 +1762,7 @@
 ---
 
 * ***pflicht*** `.icht` : `.icht,u`
-  * -*pflicht* `,i`
+  * -*pflicht* `i`
 * phon `f.on` : `f.on.ik` `f.on.i`
   * -ph~~on~~ `f` → grammo tele
 * phras `fr.as`
@@ -2039,7 +2041,7 @@
 * schaft `sch.aft`
   * -*schaft* `FT`
   * *beschäftig* `b-t-ig` : `b-t-igt.e` `b-t-igt-en` `b-t-ig.l.os` `I n.eb.b-t-ig`
-  * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en`
+  * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en` `GT,eu`
 * schall `sch.all`
   * : *ultra*schall `.utra:sch.all` * `.utra:scha`
 * schalt `schat`
@@ -2117,7 +2119,7 @@
 * **schreib** `.eib`
   * **schrieb** `.ib`
   * **schrift** `.ift`
-    * -~~schrift~~ `i` : → ab hand kurz schnell unter zu
+    * -schr**i**ft `i` : → ab hand kurz schnell unter zu
 * **schreit** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
   * ! `schr.T` : `schr.T-ed`
   * : ein**schreit**en `N.T` ~ `N,(T)`
@@ -2445,10 +2447,9 @@
 * ***steig*** `.eig`
   * ***stieg*** `.ig`
 * stet ← steh
+* st**eu** `eu` : `eu-er` `eu-er.L` `eu-er,i` `eu-er-UNG` @-er fällt nicht aus
 
 ---
-* st**eu** `eu`
-  * : st**eu**er `eu-er` ! `st.eu-er` (E)
 * **stig** `st.i`
   * **stinkt** `st.i` BSA
   * : *in***stinkt** `IN.st.i` ! `IN.st.i` (BSA)
@@ -2997,8 +2998,8 @@
   * **weiß** `.eiss` : `.I.eiss`
   * **wuss** `.uss`
     * ! `w.uss` : `w.usst.e`
-    * -*bewusst* `,u` → mir pfleg selbst wort
-      * -*bewusst*~~s~~ein : `,u-N`
+    * -*bewusst* `u` → mir pfleg selbst wort
+      * -*bewusst*~~s~~ein : `u-N`
   * **wüss** `.üss`
     * ! `w.üss` : `w.üsst.e`
 * **wo** `wo`
