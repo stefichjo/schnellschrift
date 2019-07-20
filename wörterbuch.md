@@ -122,7 +122,7 @@
   * **behr** `b` : `eNT.b`
 * bär `b.är`
 * **bas** `ba` : `ba.is`
-* **bau** `bau` : `bau.er` `bäu.er.in` `b.au.er.FT`
+* **bau** `bau` : `bau.er` `bäu.er.in` `b.au.er.FT` `bau.ko`
   * : **bäu**er*lich* `bäu.er.L` × `bäu.L`
 * bass `b.ass` : `(ko)tra.b.ass`
 * *bayer*, *bayern* `b.ay`
@@ -321,6 +321,7 @@
   * : ~~allerdi~~ng `(ng)` : `(ngs)`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
+  * d~~as~~.*diplom*at*isch*e.**corps** `d,di-om.ko`
 * *doch* `d-ch`
   * : je*doch* `j.e-d-ch` ~ `j-ch`
 * doktor ← doz
@@ -1143,21 +1144,19 @@
 * kontroll ← kontr
 * *kontroll* `(ko)tr` STS * `ko` : `ko.ir` `ko.ir.bar` `ko.ör`
   * *kontroll*e `(ko)tr.e` ~ `ko,o` : `ko,o-en`
+* korp `k.op` : `k.op-O` `k.op.iv`
+  * corps `k.or`
+    * -**corps** `ko` → diplom
+  * → körp
 * körp ← korp
 * **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E-kö.er`
   * **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
-
----
 * kopf `k.opf`
-* **kost** `kost` BSA
-  * : X `UN-kost-en` `m.kost-en` `E-wat-UNG.kost-en`
+* kost ← st
+* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,AU.al.e
   * **kost**en*los* `kost-l.o` ~ `ko.os`
-  * **köst** `köst` (BSA)
-    * : **köst***lich* `köst.L` (BSA)
-    * : *die* **be**<i></i>**köst**ig~~ung~~ `I b.köst.ig`
-  * -*kosten* `ko` → fracht person
----
-
+  * -*kost* `ko` → bau fracht mehr neb person selbst walt
+  * **köst** `köst` : `köst.L` `köst.L.T` `b.köst-ig`
 * **kraft** `kra` : `kra.wa` `M.al.kra`
   * : **kraft**<i></i>*wagen* `kra.wa` ! `kr.aft.wa` ≠ krankenwagen STS
   * **kräft** `kr.e` : `kr.e` `kr.i` `b.kr.i` `M.al.kr.en` `eNT.kr.et`
@@ -1401,7 +1400,7 @@
 * mauer `m.au-er`
   * : schallmauer `sch.all.m.au-er` * `scha.m.au-er`
 * mech `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
-* **mehr** `m.e` : `m.H` `m.ma-s` `E-m-UNG` `nu:m` `(.er)m`
+* **mehr** `m.e` : `m.H` `m.ko` `m.ma-s` `E-m-UNG` `nu:m` `(.er)m`
   * : *nicht*.**mehr** `-t-m` ~ `-t.m` ≠ irrtum
   * *mehrer* `MR` : `MR.e`
   * -*mehrheit* `H` → groß stimm wieg
@@ -1584,6 +1583,7 @@
 * ~~n~~aut `(.aut)` : `.a-str.aut` `k.osm.aut`
   * : aero~~n~~autik `.er.aut.ik` * `.er.o-n.ik`
   * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
+* neb `n.eb` : `n.eb.ko`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
 * ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an.G` `E,(en)` `E-L` `O-L` `O-w,(en)` `O-l.ib,(en)` `wa,(en)` `wa,(UNG)` `IN.auf.en` `AU.CH.en`
   * : an~~nehm~~*lich*<i></i>*keit* `.an.T` ! `.an.L.T`
@@ -1751,6 +1751,8 @@
   * : pati*ent* `p.at.I.eNT` ~ `p.az.ent`
   * : pati*ent*in `p.at.I.eNT.in` ~ `p.az.en.t.in`
   * ***pass*** `pass` : `pass.O`
+* **pausch** `pau` : `pau.al` `pau.al.e` `pau.al.ir`
+  * -*pauschale* `AU.al.e` → kost @ "AU"?
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
   * pens `p.e's`
@@ -2204,7 +2206,7 @@
   * : *selb*er `l.er` ! `s.eb-er` (E)
   * : *selb*<i></i>*ig* `l.i` ! `s.eb.i`
   * : *selb*st `l.st`
-    * *selbst* `-st` : `-st,u-N`
+    * *selbst* `-st` : `-st,u-N` `-st-ko`
   * : *die*<i></i>*selb*en `I.l.en` E
   * : ~~de~~r*selb*e `(r).l.e` E
 * selt `set`
@@ -2399,6 +2401,7 @@
   * ***stab*** `.ab` : `.ab.ät`
   * **stall** `sta`
     * : *in*<i></i>**stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
+  * → kost
 * stab ← st
 * stadt ← steh
 * stall ← steh
