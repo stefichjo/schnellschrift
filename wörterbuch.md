@@ -537,7 +537,7 @@
 * fenster `fest-er`
 * **fer** `f` : `d.if.ent` `d.if.ez` `d.if.ez.ir` `ko.f.ez` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
     * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
-    * -*ministerkonferenz* `ko`
+    * -*ministerkonferenz* `ko` → kult
   * → lat
 * *ferien* `f.I.en` : `s.om.f.I.en`
 * ***fer***<i></i>~~n~~ `fer`
@@ -1187,13 +1187,11 @@
 * kub `k.ub` : `k.ub.a`
   * : kuban*isch* `k.ub.i` ! `k.ub.an.i` ≠ kubisch
 * **küch** `kÜ`
+* kult `kut`
+  * *kultur* `u-UR` : `u-UR.ell`
+  * *kultus* `.us` : `.us.er` `.us.ko`
 
 ---
-* kult `kut` (BSA)
-  * : kultus `kut-us` ! `k.ut.us` BSA
-  * : kultur `kut-UR`
-    * * k**u**ltur `u-UR` BSA
-      * : k**u**lturell `u-UR.ell` (BSA)
 * **kund** `ku`
   * : **kund**e `ku.e`
   * ! `k.ud` (BSA)
@@ -1463,7 +1461,7 @@
   * : **min**orität `mi.or.ät` ~ `m.in.ät`
   * : pr**o**<i></i>**min***ent* `(o)mi.ent` × `(o)mi`
   * *minist* `mi`
-    * -*minister* `(er)` : `(r),(er)`
+    * -*minister* `(er)` : `(r),(er)` → kult
     * -*ministerium* `.um`
     * : *minist<b>*er*</b>ial* `mi-er.iaL` > `mi.iaL` E
     * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
@@ -1580,7 +1578,7 @@
 * ~~nam~~ : `(.e)` `(-t-L)` `ach,(.e)`
   * ! `n.am` : `n.am.ha`
   * ***näm*** `.äm` : `.äm.L`
-* ~~nat~~ : `(UR)` `(YR).L` `(.iO)`
+* ~~nat~~ : `(UR)` `(YR).L` `(.iO)` `u-UR.iO`
   * : ~~nat~~*ional* `(.i-aL)` ~ `(n.al)`
     * : *inter*~~nat~~*ional* `(I)t-er.i-aL` ~ `(I)t-er-a`
 * ~~n~~aut `(.aut)` : `.a-str.aut` `k.osm.aut`
@@ -2500,7 +2498,7 @@
 * str**u** `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * : *in*str**u**ment `IN,u-met` ~ `IN.u-met`
   * str**u**kt `u` : `ko,u-O` `IN,u-O` `IN.fra,u-UR`
-    * : str**u**~~kt~~ur `u-UR` ~ `str.uk`
+    * : str**u**~~kt~~ur `u-UR` ~ `str.uk` ≠ kultur
 * ***stück*** `.ük`
   * **früh**<i></i>***stück*** `frÜ.ük`
 * ***stud*** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um`
