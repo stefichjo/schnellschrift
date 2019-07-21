@@ -1155,7 +1155,7 @@
 * kost ← st
 * **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,AU.al.e`
   * **kost**en*los* `kost-l.o` ~ `ko.os`
-  * -*kost* `ko` → bau fracht mehr neb person selbst walt
+  * -*kosten* `ko` → bau fracht mehr neb person selbst walt
   * **köst** `köst` : `köst.L` `köst.L.T` `b.köst-ig`
 * **kraft** `kra` : `kra.wa` `M.al.kra`
   * : **kraft**<i></i>*wagen* `kra.wa` ! `kr.aft.wa` ≠ krankenwagen STS
