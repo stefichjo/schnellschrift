@@ -1187,7 +1187,7 @@
 * kub `k.ub` : `k.ub.a`
   * : kuban*isch* `k.ub.i` ! `k.ub.an.i` ≠ kubisch
 * **küch** `kÜ`
-* kult `kut`
+* kult `kut` : `kut-iv.ir`
   * *kultur* `u-UR` : `u-UR.ell`
   * *kultus* `.us` : `.us.er` `.us.ko`
 
