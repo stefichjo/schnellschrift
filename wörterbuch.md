@@ -306,6 +306,7 @@
   * **dienst** `di` : `di.L` `.in:di.L` `E,di`
     * : *außen*<i></i>**dienst**, *außer*.**dienst** `.auss,di`
     * : *inner*<i></i>**dienst**<i></i>*lich* `.i-d.i-L` ! `.in.d.i-L`
+    * : **kund**en**dienst** `ku,di` ~ `ku:d.i`
 * *dies* `.iS` : `.iS.em` `.iS-er` `.iS-es` `.iS:ma`
     * : *aus*.*dies*em `.s.iS.em` * `.s-S` STS
 * dik `d.ik` : `IN.d.ik.iO`
@@ -631,7 +632,7 @@
   * -fr**eu**nd `eu` → schaff welt
 * ***fried*** `.id`
   * : *un*<i></i>*zu*<b>*fried*</b>en `UN-z.id.en` × `UN-z.id`
-* ***frist*** `.ist`
+* ***frist*** `.ist` `kÜ.ist`
   * : **lang**<i></i>***frist***<i></i>*ig* `ang.ist-ig` ~ `.ang.i`
 * **froh** `fro`
   * **fröh** `frö` : `frö.L`
@@ -711,7 +712,7 @@
 * ***geb*** `.eb` STS
   * ! `g.eb` : `g.eb-er` `.an.g.eb-er` `ra.g.eb-er`
   * ~ **geb** `g.e` : `G-g` `G-g.H` `.ab.g` `(T)-g` `b.g.H` `er.g` `ach.g` `Ü.g` `E-g-s` `E-g.L` `u-rÜ:g` `n.S.ag.g`
-    * ~ g~~eb~~ `g`
+    * ~ g~~eb~~ `g` : `I ku:g`
     * : *auf*<i></i>**trag**<i></i>**geb**er `(AU)tra.g-er` × `(AU)tra.g`
   * × ~~geb~~ : `.S.ag.ed` `er.is` `er.is.os`
   * ***gib*** `.ib` : `ach.ib.T` `er.ib.i`
@@ -808,7 +809,7 @@
 * gr~~oß~~ `gr` : `s.gr` `gr.ib` `M.gr.H`
   * *größ* `grö` : `grö.e`
     * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
-* **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `k.üd.i-UNG.gru` `UNTER.gru` `O-d-er.gru` `v.gru.AU`
+* **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O-d-er.gru` `v.gru.AU`
   * : *aus*.*dies*em.**grund**e `.S-S.gru.e` × `.S-S.e`
   * : **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(b)grÜ` `UN-b.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (b)grÜ`
     * : **gründ**<i></i>*lich*<i></i>*keit* `grÜ.T` ! `grÜ.L.T`
@@ -1171,7 +1172,7 @@
 * **kreb** `kr.e` : `kr-s`
 * **kred** `kr.e` : `kr.it` `.ak-kr.ir` `.ak-kr.iv`
 * ~~kr~~eis `(.eis)` : `la.eis`
-  * ~~arb~~eits~~kr~~eis `(T)-s.eis` ~ `Ts.eis`
+  * : ~~arb~~eits~~kr~~eis `(T)-s.eis` ~ `Ts.eis`
 * **kret** `kr.e` : `ds.kr.iO` `ko.kr` `ko.kr.ir`
 * ***kreuz*** `.euz`
 * **krieg** `kri` : `wet-kri`
@@ -1179,20 +1180,21 @@
   * : **krim***inal*ität `kri.i-aL.ät` × `kri.ät`
   * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
 * **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `UN,kri.i`
-  * **krit**isieren `kri.ir` ! `kri.is.ir`
+  * : **krit**isieren `kri.ir` ! `kri.is.ir`
 * kub `k.ub` : `k.ub.i` `k.ub.iS`
 * kub `k.ub` : `k.ub.a`
   * : kuban*isch* `k.ub.i` ! `k.ub.an.i` ≠ kubisch
 * **küch** `kÜ`
 * kult `kut` : `kut-iv.ir`
-  * *kultur* `u-UR` : `u-UR.ell`
-  * *kultus* `.us` : `.us.er` `.us.ko`
+  * : *kultur* `u-UR` : `u-UR.ell`
+  * : *kultus* `.us` : `.us.er` `.us.ko`
+* **kund** `ku` ← könn : `ku.e` `ku.i` `ku.in` `ku.FT` `ku.FT.er` `er.ku` `er.ku.i` `UR.ku.L` `UN-ku.i`
+  * : **kund** `ku` ! `k.ud`
+  * : ur**kund**e `UR.ku.e` × `UR.ku`
+  * **künd** `kÜ` : `kÜ.i` `kÜ.bar` `.an.kÜ` `E-kÜ` `E-kÜ.i`
+    * : **künd**en `kÜ` ! `k.üd`
 
 ---
-* **kund** `ku` ← könn
-  * : **kund**e `ku.e`
-  * ! `k.ud` (BSA)
-    * : X `k.ud.e` `k.ud.FT` `er.k.ud.i` `.of.k.ud.i` `UR.k.ud.e` `k.üd.bar` `k.üd.i` `.an.k.üd.i` `E-k.üd.i` `E-k.üd`
 * **kunft** `ku` ← komm : `Ü.N.ku` `Z-ku` `Z-sa.ku`
   * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `kust` ← könn
@@ -2688,7 +2690,7 @@
   * tüch `t.üch` : `t.üch-er`
 * -*tum* `tum`
   * -*tüm* `tYm`
-* **tu**n `tu` : `wi.i,tu.er`
+* **tu**n `tu` : `ku.tu` `wi.i,tu.er`
   * **wicht**<i></i>*ig*<i></i>**tu**erei `wi.i,tu.ei` ! `wi.i,tu.er.ei`
   * **tat** `ta`
     * **tät** `t.e`
