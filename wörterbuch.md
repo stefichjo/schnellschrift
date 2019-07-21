@@ -2609,6 +2609,9 @@
   * : **kon**<i></i>**tin**uier*lich* `ko,ti.ir.L` × `ko,ti.L`
 * **ti**~~ng~~ `ti`
   * : **kon**<i></i>**ti**~~ng~~*ent* `ko,ti.eNT` × `ko,ti`
+  * → tint
+* tint ← ting
+* **tint** `tit` STS : `tit.e`
 * tisch `t.isch`
 * tit `t.it` : `t.it.UR` `t.it.ir-UNG`
   * : titel `t.it.el` × `t.it`
