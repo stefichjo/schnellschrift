@@ -1120,8 +1120,6 @@
   * **kömm** `kö` : `b.kö.L` `.ab.kö.l.ing`
   * kam `k.am`
     * käm `k.äm` : `k.äm.e`
-  * **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku`
-    * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * koll
   * *protokoll* `pr.ot.ok`
 * *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i` `ko-u.ir`
@@ -1132,8 +1130,8 @@
   * : *kom*- `kom` @?
 * **könn** `kö`
   * *kann*, *kannst*, *konn* `k` : `G-k-t`
-  * kunst `kust`
-    * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
+  * → kund
+  * → kunst
 * kont ← put
 * *kont* `ko` : `ko.en` `ds.ko.ir`
   * *kont*o `ko` : `b.ak.ko` `s.ko`
@@ -1190,14 +1188,19 @@
 * kult `kut` : `kut-iv.ir`
   * *kultur* `u-UR` : `u-UR.ell`
   * *kultus* `.us` : `.us.er` `.us.ko`
+* ← könn
 
 ---
 * **kund** `ku`
   * : **kund**e `ku.e`
   * ! `k.ud` (BSA)
     * : X `k.ud.e` `k.ud.FT` `er.k.ud.i` `.of.k.ud.i` `UR.k.ud.e` `k.üd.bar` `k.üd.i` `.an.k.üd.i` `E-k.üd.i` `E-k.üd`
-* kunft ← komm
-* kunst ← könn
+* ← komm
+* **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku`
+  * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
+* ← könn
+* kunst `kust`
+  * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
 * **k**ur `k` ! `k.ur`
   * : pr**o**<i></i>**k**urist `(o)k.ist` E
 * **kurr** `ku`
