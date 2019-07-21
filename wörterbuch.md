@@ -1153,7 +1153,7 @@
   * **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
 * kost ← st
-* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,AU.al.e
+* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,AU.al.e`
   * **kost**en*los* `kost-l.o` ~ `ko.os`
   * -*kost* `ko` → bau fracht mehr neb person selbst walt
   * **köst** `köst` : `köst.L` `köst.L.T` `b.köst-ig`
@@ -1181,11 +1181,10 @@
 * **krim** `kri` : `kri.I` `kri.i-aL` `kri.i-eL`
   * : **krim***inal*ität `kri.i-aL.ät` × `kri.ät`
   * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
+* **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `UN,kri.i`
+  * **krit**isieren `kri.ir` ! `kri.is.ir`
 
 ---
-* **krit** `kri`
-  * : **krit**ik `kri.ik`
-  * : **krit**<i></i>**isch** `kri.i`
 * kub `k.ub` : `k.ub.a` `k.ub.i` `k.ub.iS`
   * : kuban*isch* `k.ub.i` ! `k.ub.an.i`
 * **küch** `kÜ`
@@ -1220,6 +1219,9 @@
 * *kut* `-u-` : `ds-u.ir`
   * *kuss* `-u-` : `p-u-o`
     * : *dis*<i></i>*kuss*<i></i>*ion* `ds-u-o` × `ds-u`
+
+## L
+
 * lad `l.ad`
   * **last** `.ast`
 * **la**~~nd~~ `la` : `la.FT` `.S.la` `(hi)z.la` `v.at-er.la`
