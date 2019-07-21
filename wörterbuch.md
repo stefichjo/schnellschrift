@@ -1153,7 +1153,7 @@
   * **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
 * kost ← st
-* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,AU.al.e`
+* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,au.al.e`
   * **kost**en*los* `kost-l.o` ~ `ko.os`
   * -*kosten* `ko` → bau fracht mehr neb person selbst walt
   * **köst** `köst` : `köst.L` `köst.L.T` `b.köst-ig`
@@ -1754,7 +1754,7 @@
   * : pati*ent*in `p.at.I.eNT.in` ~ `p.az.en.t.in`
   * ***pass*** `pass` : `pass.O`
 * **pausch** `pau` : `pau.al` `pau.al.e` `pau.al.ir`
-  * -*pauschale* `AU.al.e` → kost @ "AU"?
+  * -*pauschale* `au.al.e` → kost
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
   * pens `p.e's`
