@@ -1186,9 +1186,9 @@
 * kub `k.ub` : `k.ub.i` `k.ub.iS`
 * kub `k.ub` : `k.ub.a`
   * : kuban*isch* `k.ub.i` ! `k.ub.an.i` ≠ kubisch
+* **küch** `kÜ`
 
 ---
-* **küch** `kÜ`
 * kult `kut` (BSA)
   * : kultus `kut-us` ! `k.ut.us` BSA
   * : kultur `kut-UR`
@@ -2113,7 +2113,7 @@
 * **schön** `schö`
   * : **schön***heit* `schö.H` * `ö-H`
 * ***schöpf*** `.öpf`
-* **schrank** `schra`
+* **schrank** `schra` : `kÜ-schra`
   * **schränk** `schr`
 * **schreck** `schr`
   * **schrick** `.ik`
