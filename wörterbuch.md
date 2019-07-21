@@ -261,7 +261,7 @@
   * däch `d.ech` : `d.ech-er`
 * dacht ← denk
 * dam `d.am` : `d.am.e`
-* dank ← denk
+* ← denk
 * dank `d.ak` : `d.ak.ed` `gru.G-d.ak.e` `UN-d.ak` `M.b.est-d.ak` `wr.d.ak,i`
   * ~~dank~~<i></i>***bar*** `(bar)` : `(bar).T` `s.bar`
   * *gedank* `G-da` : `G-da.e` `G-da.os`
@@ -1183,10 +1183,11 @@
   * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
 * **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `UN,kri.i`
   * **krit**isieren `kri.ir` ! `kri.is.ir`
+* kub `k.ub` : `k.ub.i` `k.ub.iS`
+* kub `k.ub` : `k.ub.a`
+  * : kuban*isch* `k.ub.i` ! `k.ub.an.i` ≠ kubisch
 
 ---
-* kub `k.ub` : `k.ub.a` `k.ub.i` `k.ub.iS`
-  * : kuban*isch* `k.ub.i` ! `k.ub.an.i`
 * **küch** `kÜ`
 * kult `kut` (BSA)
   * : kultus `kut-us` ! `k.ut.us` BSA
