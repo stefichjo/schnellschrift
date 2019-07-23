@@ -21,7 +21,7 @@
     * ~~akt~~i `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
-* ak~~adem~~ `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i`
+* ak~~adem~~ `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust-ak.I`
 * akzent ← kan
 * -al `.al`
   * -~~al~~-
@@ -1174,7 +1174,7 @@
 * **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` ← komm
   * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `kust` ← könn
-  * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt` `kust-ak.I`
+  * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
 
 ---
 * **k**ur `k` ! `k.ur`
@@ -2036,7 +2036,7 @@
   * ***schieh*** `.ih`
   * ***schah*** `.ah`
   * ***schäh*** `.äh`
-  * ***schicht*** `.icht` : `G-icht.e`
+  * ***schicht*** `.icht` : `G-icht.e` `kust-:icht.e`
     * welt*ge*<i></i>***schicht***<i></i>e `wet-icht.e` ~ `w.icht.e`
 * **scheid** `.eid` : `b.eid`
   * : *ent*<i></i>**scheid** `eNT.eid` ~ `eNT.ei`
