@@ -1175,8 +1175,8 @@
   * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `kust` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
-* **k**ur `k` : `(o)k.ist`
-  * ! `k.ur`
+* kur `k.ur`
+  * : pr**o**kurist `(o)k.ur.ist` * `(o)k.ist`
 
 ---
 * **kurr** `ku`
