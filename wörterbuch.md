@@ -897,7 +897,7 @@
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G-.ert-h.en`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
   * : **herr**<i></i>*isch* `h.i` ! `h.err.i`
-* ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os`
+* ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `kust,(z)`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
 * **hier** `hi` : `(hi)AU` `hi.S` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER`
@@ -1608,6 +1608,10 @@
   * ***nuss*** `.uss` : `G-.uss`
     * ***nüss*** `.üss` : `G-.üss`
   * → nutz
+* *niveau* `.iw.o` : `kust-iw.o` ← nivell
+  * *niveau*<i></i>*los* `.iw.o-l.o` ! `.iw.o-l.os`
+* niv~~ell~~ `n.iw` : `n.iw.ir-UNG`
+  * → niveau
 * *noch* `n-ch`
   * : *noch*<i></i>*mal*s `n-ch:ma-s` × `n-ch-s`
 * nom `n.om` : `n.om.i-aL`
@@ -2447,6 +2451,7 @@
 * stock `st.ok`
 * *stockholm* `st.ho`
 * **stoff** `.of` : `(k).of`
+  * kunst**stoff** `kust-of` * `kus.of` @ t~of
 * **stolz** `.oz`
 * **straf** `stra` : `stra-e`
 * strahl `str.al` : `str.al.ed` `str.al,u`
