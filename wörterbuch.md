@@ -1,7 +1,6 @@
 # Wörterbuch
 
 ## A
-<img src="svg/a.svg" width="100">
 
 * ab `.ab` : `.ab,i`
 * ~~ab~~end `(.ed)`
@@ -100,8 +99,6 @@
 * -~~az~~-, -~~iz~~- → `.ät`
 
 ## B
-<img src="svg/b.svg" width="100">
-<img src="svg/br.svg" width="100">
 
 * *baden-würtemberg* `b.ad-Ü`
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
@@ -236,10 +233,6 @@
   * ! `b.us`
 
 ## C
-<img src="svg/c.svg" width="100">
-<img src="svg/ch.svg" width="100">
-<img src="svg/cht.svg" width="100">
-<img src="svg/cr.svg" width="100">
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er`
@@ -248,8 +241,6 @@
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
 
 ## D
-<img src="svg/d.svg" width="100">
-<img src="svg/dr.svg" width="100">
 
 * *d. h.* `d.h°`
 * da `d.a`
@@ -368,7 +359,6 @@
   * : dutzend `d.uz.ed` × `d.uz`
 
 ## E
-<img src="svg/e.svg" width="100">
 
 * eben `.eb`
   * : *so*eben `.o.eb` ~ `(o).eb`
@@ -437,8 +427,6 @@
 * exemp ← em
 
 ## F
-<img src="svg/f.svg" width="100">
-<img src="svg/fr.svg" width="100">
 
 * **fabr** `fa` : `fa.ik` `fa.ir`
   * *fabrik* `fa` : `fa.ant` `fa.at`
@@ -689,8 +677,6 @@
 * **fuß** `fu` : `ha.fu`
 
 ## G
-<img src="svg/g.svg" width="100">
-<img src="svg/gr.svg" width="100">
 
 * gang ← geh
 * **ganz** `ga` : `ga.H` `ga-S`
@@ -824,7 +810,6 @@
   * best `b.est`
 
 ## H
-<img src="svg/h.svg" width="100">
 
 * **hab** `ha` : `G-ha` `im.IN.ha-er`
   * : *ich*.**hab** `.I.ha` ~ `.I-a`
@@ -1020,7 +1005,6 @@
 * -iv `.iv` : `.iw-o` `.iv.ir`
 
 ## J
-<img src="svg/j.svg" width="100">
 
 * ja `j.a`
 * **jahr** `ja` : `GTs:ja` `frÜ.ja` `ha.ja` `ja.S ja.N`
@@ -1058,7 +1042,6 @@
   * *justiz* `j.us` : `j.us.er` `j.us.um` `j.us.om` `j.us.UNG`
 
 ## K
-<img src="svg/k.svg" width="100">
 
 * kalender `k.al.ed-er`
 * kalk `k.ak`
@@ -1702,7 +1685,6 @@
 * *österreich* `.ö`
 
 ## P
-<img src="svg/p.svg" width="100">
 
 ---
 * **pack** ! `p.ak`
@@ -2529,7 +2511,6 @@
 * ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
 
 ## T
-<img src="svg/t.svg" width="100">
 
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
   * tab~~ell~~e `t.ab.e` × `t.ab`
@@ -2737,7 +2718,6 @@
 * -ut- ← -at-
 
 ## V
-<img src="svg/v.svg" width="100">
 
 * ~~val~~id `(.id)` `IN.id.e` `IN.id.ät`
 
@@ -2821,7 +2801,6 @@
   * : ~~vori~~g `(g)`
 
 ## W
-<img src="svg/w.svg" width="100">
 
 * waag ← wieg
 * waag `w.ag` : `w.ag.e`
