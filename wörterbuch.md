@@ -94,7 +94,7 @@
     * : *außer* `.auss` : `.auss:ha`
       * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G-äuss` `E-äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
-* aut `.aut` : `.aut.o` `.aut.om`
+* aut `.aut` : `.aut.o` `.aut.us` `.aut.om`
 * -~~az~~-, -~~iz~~- → `.ät`
 
 ## B
@@ -224,12 +224,12 @@
 * *bühr* `Ür` : `G-Ür`
 * bunt `but` : `but-er` `but-est` `bu.H`
 * **bür** `bÜ` : `m.ak-er-Ü.o`
-* **burg** `bu` : `ho.bu`
-  * ! `b.ug` : `b.ug.en` `b.ug.id.e`
-  * **bürg** `bÜ` : `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E-bÜ`
-    * : *mit*<i></i>**bürg**er `M.bÜ-er` * `M-Ü-er`
-* ~~b~~us `(.us)` STS : `.aut.us`
-  * ! `b.us`
+* burg `b.ug` : `b.ug.en`
+  * -*burg* `bu` : `ho.bu`
+  * *bürg* `bÜ` : `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E-bÜ`
+    * : *mit*<i></i>*bürg*er `M.bÜ-er` * `M-Ü-er`
+* bus `b.us`
+  * -*bus* `(.us)` → aut
 
 ## C
 
@@ -617,7 +617,7 @@
 * *freund* `.eund` : `.eund.in` `.eund.FT` `b.eund.et`
   * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L`
   * -fr**eu**nd `eu` → schaff welt
-* ***fried*** `.id`
+* ***fried*** `.id` : `b.ug.id.e`
   * : *un*<i></i>*zu*<b>*fried*</b>en `UN-z.id.en` × `UN-z.id`
 * ***frist*** `.ist` `kÜ.ist`
   * : **lang**<i></i>***frist***<i></i>*ig* `ang.ist-ig` ~ `.ang.i`
@@ -1024,7 +1024,7 @@
   * *jetzt* `j°` : `j°.sch` `bi:j°`
 * j~~iz~~ `j` : `(o)j.ir`
   * j~~ekt~~ `j` : `(IN)j.iO` `(o)j` `(o)j.iO`
-    * : ~~pr~~**o**<i></i>j~~ekt~~il `(o)j.il` ~ `(o)jet-il`
+    * : pr**o**<i></i>j~~ekt~~il `(o)j.il` ~ `(o)jet-il`
 * ***jug*** `.ug`
   * ! `j.ug`
     * : jugend `j.ug.ed` × `j.ug`
@@ -1115,7 +1115,7 @@
   * → kund
   * → kunst
 * *kont* `ko` : `ko.en` `ds.ko.ir` ← put
-  * *kont*o `ko` : `b.ak.ko` `s.ko`
+  * *konto* `ko` : `b.ak.ko` `s.ko`
 * *kontr* `(ko)tr` STS : `(ko)tr.är`
   * *konter* `(ko)t-er` STS ~ `ko-t-er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
@@ -1175,10 +1175,10 @@
   * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `kust` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
+* **k**ur `k` : `(o)k.ist`
+  * ! `k.ur`
 
 ---
-* **k**ur `k` ! `k.ur`
-  * : pr**o**<i></i>**k**urist `(o)k.ist` E
 * **kurr** `ku`
   * : **kur**ier `ku.ir`
   * : **kon**<i></i>**kurr** `ko,ku`
@@ -1831,7 +1831,7 @@
 * *prior* `pri` : `pri.ät`
 * *privat* `pri` : `pri.ir`
 * *privileg* `pri.eg`
-* ~~pr~~**o**- `o`
+* pr**o**- `o`
 * **prob** `.ob`
 * ~~prob~~lem `(l.em)` : `(l.em).ik`
 * **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
