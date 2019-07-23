@@ -5,10 +5,9 @@
 * ab `.ab` : `.ab,i`
 * ~~ab~~end `(.ed)`
 * *aber* `ber` : `ber.ma-s` `ber-aY`
-* acht `.acht` : `.acht-Sa` `ho.acht-UNG`
+* acht `.acht` : `.acht-Sa` `b.acht` `ho.acht-UNG`
   * *mit*.*vor*<i></i>**züg**<i></i>*lich*er.**hoch**acht*ung* `M.O-.üg.L.ho.acht` ~ `M-Ü.ho`
   * -a~~cht~~- `.a`
-    * : **be**a~~cht~~en `b.a` ! `b.acht`
     * : **gut**a~~cht~~en `gu.a.en` × `gu.a` ~ `u.a`
     * : **gut**a~~cht~~er `gu.a.er` × `gu,er`
 * adr~~ess~~ `.adr`
@@ -22,7 +21,7 @@
     * ~~akt~~i `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
-* akad~~em~~ `.ak.ad`
+* ak~~adem~~ `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i`
 * akzent ← kan
 * -al `.al`
   * -~~al~~-
@@ -1175,7 +1174,7 @@
 * **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` ← komm
   * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `kust` ← könn
-  * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
+  * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt` `kust-ak.I`
 
 ---
 * **k**ur `k` ! `k.ur`
