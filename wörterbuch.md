@@ -9,7 +9,7 @@
   * *mit*.*vor*<i></i>**züg**<i></i>*lich*er.**hoch**acht*ung* `M.O-.üg.L.ho.acht` ~ `M-Ü.ho`
   * -a~~cht~~- `.a`
     * : **be**a~~cht~~en `b.a` ! `b.acht`
-    * : **gut**a~~cht~~en `gu.a.en` × `gu.a` ~ u.a` 
+    * : **gut**a~~cht~~en `gu.a.en` × `gu.a` ~ `u.a`
     * : **gut**a~~cht~~er `gu.a.er` × `gu,er`
 * adr~~ess~~ `.adr`
 * *afrik* `.afr` : `.afr.i`
@@ -1115,26 +1115,22 @@
   * *kann*, *kannst*, *konn* `k` : `G-k-t`
   * → kund
   * → kunst
-* kont ← put
-* *kont* `ko` : `ko.en` `ds.ko.ir`
+* *kont* `ko` : `ko.en` `ds.ko.ir` ← put
   * *kont*o `ko` : `b.ak.ko` `s.ko`
-* *kontr* `(ko)tr` STS
-  * *kontr*är `(ko)tr.är`
+* *kontr* `(ko)tr` STS : `(ko)tr.är`
   * *konter* `(ko)t-er` STS ~ `ko-t-er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
-* kontroll ← kontr
-* *kontroll* `(ko)tr` STS * `ko` : `ko.ir` `ko.ir.bar` `ko.ör`
-  * *kontroll*e `(ko)tr.e` ~ `ko,o` : `ko,o-en`
+  * → kontroll
+* *kontroll* `(ko)tr` STS * `ko` : `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
+  * : *kontroll*e `(ko)tr.e` ~ `ko,o` : `ko,o-en`
 * korp `k.op` : `k.op-O` `k.op.iv`
   * corps `k.or`
     * -**corps** `ko` → diplom
   * → körp
-* körp ← korp
-* **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E-kö.er`
+* **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E-kö.er` ← korp
   * **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
-* kost ← st
-* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,au.al.e`
+* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,au.al.e` ← st
   * **kost**en*los* `kost-l.o` ~ `ko.os`
   * -*kosten* `ko` → bau fracht mehr neb person selbst walt
   * **köst** `köst` : `köst.L` `köst.L.T` `b.köst-ig`
@@ -1178,10 +1174,10 @@
     * : **künd**en `kÜ` ! `k.üd`
 * **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` ← komm
   * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
-
----
 * kunst `kust` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
+
+---
 * **k**ur `k` ! `k.ur`
   * : pr**o**<i></i>**k**urist `(o)k.ist` E
 * **kurr** `ku`
