@@ -261,7 +261,7 @@
   * däch `d.ech` : `d.ech-er`
 * dacht ← denk
 * dam `d.am` : `d.am.e`
-* dank `d.ak` ← denk : `d.ak.ed` `gru.G-d.ak.e` `UN-d.ak` `M.b.est-d.ak` `wr.d.ak,i`
+* dank `d.ak` : `d.ak.ed` `gru.G-d.ak.e` `UN-d.ak` `M.b.est-d.ak` `wr.d.ak,i` ← denk
   * ~~dank~~<i></i>***bar*** `(bar)` : `(bar).T` `s.bar`
   * *gedank* `G-da` : `G-da.e` `G-da.os`
 * ~~d~~ann `(.an)`
@@ -1188,14 +1188,14 @@
 * kult `kut` : `kut-iv.ir`
   * : *kultur* `u-UR` : `u-UR.ell`
   * : *kultus* `.us` : `.us.er` `.us.ko`
-* **kund** `ku` ← könn : `ku.e` `ku.i` `ku.in` `ku.FT` `ku.FT.er` `er.ku` `er.ku.i` `UR.ku.L` `UN-ku.i`
+* **kund** `ku` : `ku.e` `ku.i` `ku.in` `ku.FT` `ku.FT.er` `er.ku` `er.ku.i` `UR.ku.L` `UN-ku.i` ← könn
   * : **kund** `ku` ! `k.ud`
   * : ur**kund**e `UR.ku.e` × `UR.ku`
   * **künd** `kÜ` : `kÜ.i` `kÜ.bar` `.an.kÜ` `E-kÜ` `E-kÜ.i`
     * : **künd**en `kÜ` ! `k.üd`
 
 ---
-* **kunft** `ku` ← komm : `Ü.N.ku` `Z-ku` `Z-sa.ku`
+* **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` ← komm
   * : **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `kust` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
