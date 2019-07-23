@@ -7,17 +7,16 @@
 * *aber* `ber` : `ber.ma-s` `ber-aY`
 * acht `.acht` : `.acht-Sa` `b.acht` `ho.acht-UNG`
   * *mit*.*vor*<i></i>**züg**<i></i>*lich*er.**hoch**acht*ung* `M.O-.üg.L.ho.acht` ~ `M-Ü.ho`
-  * -a~~cht~~- `.a`
-    * : **gut**a~~cht~~en `gu.a.en` × `gu.a` ~ `u.a`
-    * : **gut**a~~cht~~er `gu.a.er` × `gu,er`
+  * -*acht* `.a`
+    * : **gut***acht*en `gu.a.en` × `gu.a` ~ `u.a`
+    * : **gut***acht*er `gu.a.er` × `gu,er`
 * adr~~ess~~ `.adr`
 * *afrik* `.afr` : `.afr.i`
   * : *afrik*a `.afr.a` × `.afr`
 * ag `.ag` : `.ag.eNT`
   * : ag*ent*ur `.ag.eNT.UR` × `.ag.UR`
-  * akt `.akt` ⇒ `.ak.t`
-    * -*akt*- `-t` : `r-t-iO`
-      * : **re**<i></i>*akt*or `r-t-or` ! `r.akt-or`
+  * akt `.akt` ⇒ `.ak.t` : `r.akt-or`
+    * : **re**akt*ion* `r.akt-iO` * `r-t-iO`
     * ~~akt~~i `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
@@ -32,8 +31,8 @@
 * als `.as`
 * also `.as.o`
 * alt `.at` : `.at-er` `ki.at-er` `v.at-er.h`
-  * ält `.ät` : `.ät-er` `.ät.est`
   * ! (alt) `.alt` : `UR.alt`
+  * ält `.ät` : `.ät-er` `.ät.est`
 * *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E-.ig .at.en v .am.a`
 * *amt* `.a` : `T-s.a` `b.a` `b.a.er` `fi.a` `.es.a` `hau.a.L` `pa°.a`
   * : *aus*wertiges *amt* `.S.wet.ig.es .a` ~ `.S.a`
