@@ -1070,9 +1070,9 @@
 * ***kauf*** `.auf` : `.auf.ed` `.auft.e` `.an.auf` `.S.E-.auf` `E-.auf` `u-rÜ.auf` `N.auf` `rÜ.auf` `UN-E-.auft` `wr.auf`
   * ***käuf*** `.äuf` : `.äuf.e` `.äuf-er` `E-äuf-er` `E-äuf-er.in` `UN-E-äuf.L`
 * **kaum** `kau`
+* **kehr** `.er` : `b.er` `rÜ.er` `.um.er` `E-.er` `W.er` `u-rÜ.er`
+  * : um*ge*<i></i>**kehr**t `.um.G.ert` × `.um.G`
 * -***keit*** `T`
-* ~~k~~ehr `(.er)` : `E-.er`
-  * ! `k.ehr`
 * **kenn** `k.e` : `.an.er` `b.k` `b.k.is` `er.k` `er.k.is`
   * ! `k.en` : `k.en.e` ≠ kennt
   * **kann** `ka` : `ka-t.e` `b.ka-t`
