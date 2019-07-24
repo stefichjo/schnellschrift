@@ -108,10 +108,11 @@
 * bank `b.ak` : `b.ak.en` `zra.b.ak`
   * bänk `b.ek` : `b.ek.e`
 * bar `b.ar` : `b.ar.FT`
-* bär `b.er` : `G-bär`
+* bär `b.är` : `G-b.är`
   * bier `b.ir` STS : `G-b.ir`
   * bar `b.ar` : `G-b.ar`
     * -***bar*** `bar`
+    * bärd `b.äd` STS * `b.ed` : `G-b.ed.e`
   * bor `b.or` : `G-b.or`
   * burt `but` : `G-but`
   * **behr** `b` : `eNT.b`
@@ -1019,7 +1020,7 @@
   * : **jed**e `j.e` ! `j.ed.e`
 * jen `j.en`
   * *jenige*, *jenigem*, *jenigen* `j` : `(m):j` `(r):j`
-* *jetz* `j°` : `j.i` (BSA)
+* *jetz* `j` : `j.i`
   * *jetzt* `j°` : `j°.sch` `bi:j°`
 * j~~iz~~ `j` : `(o)j.ir`
   * j~~ekt~~ `j` : `(IN)j.iO` `(o)j` `(o)j.iO`
@@ -1048,9 +1049,9 @@
   * kält `ket` : `ket.e` `ket-er`
 * *kammer* `ka` : `ha.ka` `ka.ek.ka`
 * ***kampf*** `ampf` : `kla.ampf`
-  * : ***kämpf*** `empf` : `empf.e`
-* kan `k.an` : `k.an.on` STS @?
-  * kant `kat` : `kat-at.e` STS @?
+  * ***kämpf*** `empf` : `empf.e`
+* kan `k.an` : `k.an.on` STS
+  * kant `kat` : `kat-at.e` STS
     * zent `zet`
       * akzent `.ak.zet` ! `.ak.z.ent`
 * ~~kan~~al `(.al)` : `(.al).iO`
@@ -1059,10 +1060,9 @@
   * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
     * : *kapit*al `aP.al` × `aP`
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
-* kart `k.at`
-  * : karte `k.at.e` ! `k.art.e` ≠ kante
-  * : kartei `k.at.ei` * `ka.ei`
-  * : kartothek `k.at.t.ek` ! `k.at.o-t.ek` @?
+* **ka**~~rt~~ `ka` : `ka.ei`
+  * : **ka**~~rt~~e `ka-e` ! k.art.e
+  * : **ka**~~rt~~othek `ka.t.ek` ! `k.at.o-t.ek`
   * ~~kart~~ell `(.ell)`
 * *kartoffel* `ka.of.el`
 * **kass** `ass` : `ass.e` `kra.ass.e`
