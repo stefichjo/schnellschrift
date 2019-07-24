@@ -1071,10 +1071,10 @@
   * ***käuf*** `.äuf` : `.äuf.e` `.äuf-er` `E-äuf-er` `E-äuf-er.in` `UN-E-äuf.L`
 * **kaum** `kau`
 * **kehr** `.er` : `b.er` `rÜ.er` `.um.er` `E-.er` `W.er` `u-rÜ.er`
-  * : um*ge*<i></i>**kehr**t `.um.G.ert` × `.um.G`
+  * : um*ge*<i></i>**kehr**t `.um.ert` ~ `.um.G`
 * -***keit*** `T`
 * **kenn** `k.e` : `.an.er` `b.k` `b.k.is` `er.k` `er.k.is`
-  * ! `k.en` : `k.en.e` ≠ kennt
+  * kenn `k.en` : `k.en.e` ≠ kennt
   * **kann** `ka` : `ka-t.e` `b.ka-t`
 * **kind** `ki` : `ki.H` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
   * ! `k.id` : `k.id.i` `k.id.L`
