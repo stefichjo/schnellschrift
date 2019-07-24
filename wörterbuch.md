@@ -1176,21 +1176,11 @@
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G-kYst-elt`
 * kur `k.ur`
   * : pr**o**kurist `(o)k.ur.ist` * `(o)k.ist`
-
----
 * **kurr** `ku`
-  * : **kur**ier `ku.ir`
-  * : **kon**<i></i>**kurr** `ko,ku`
-    * * **kon**k**u**rr `ko-u` BSA
-      * **kon**k**u**rr*ent* `ko-u.ent` (BSA)
-      * **kon**k**u**rrenz `ko-u.ez` (BSA)
-      * **kon**k**u**rrier `ko-u.ir` (BSA)
-  * **kurs** `kus`
-    * ! `k.us` BSA
-      * : X `kus.es` `ko.k.us`
-    * : **kon**<b>*kurs*</b> `ko,kus` ~ `ko.us`
----
-
+  * *konkurr* `ko-u` : `ko-u.ent` `ko-u.ez` `ko-u.ir`
+  * **kur** `ku` : `ku.ir`
+  * **kurs** `kus` : `kus.ir` `kus.iv`
+    * *konkurs* `ko.us`
 * **kurz** `ku` : `ku.um` `ku,i`
   * **kürz** `kÜ` : `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E-kÜ`
 * *kut* `-u-` : `ds-u.ir`
