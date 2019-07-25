@@ -672,7 +672,7 @@
     * : **funkt**or `fu.or` ! `f.ukt-or`
     * : **funkt**<i></i>*ion*är `fu-o-.är` ! `f.uk.t.iO-.är`
 * funk `f.uk` : `f.uk.e` `f.uk.el` `f.uk-er`
-  * : rundfunk `r.ud:f.uk` * `u,u`
+  * : rundfunk `ru:f.uk` * `u,u`
 * **f**ür `f` : `.a-f`
 * furcht `f.ucht` : `f.ucht.bar` `f.ucht.os` `f.ucht-Sa`
   * fürcht `f.ücht` : `f.ücht.et.e` `f.ücht.L` `b.f.ücht`
@@ -1111,14 +1111,13 @@
   * : *kommun*ikat*ion* `ko-u.iO` ~ `ko-u-o` ≠ kommunion
 * **kon**- `ko`
   * : **koll**- `ko`
-  * : *kom*- `kom` @?
 * **könn** `kö`
   * *kann*, *kannst*, *konn* `k` : `G-k-t`
   * → kund
   * → kunst
 * *kont* `ko` : `ds.ko.ir` ← put
   * *konto* `ko` : `ko.en` `b.ak.ko` `s.ko`
-* *kontr* `(ko)tr` STS : `(ko)tr.är`
+* *kontr* `(ko)tr` : `(ko)tr.är`
   * *konter* `(ko)t-er` STS ~ `ko-t-er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
   * → kontroll
@@ -1129,21 +1128,20 @@
     * -**corps** `ko` → diplom
   * → körp
 * **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E-kö.er` ← korp
-  * **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
+  * : **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
 * **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,au.al.e` ← st
-  * **kost**en*los* `kost-l.o` ~ `ko.os`
-  * -*kosten* `ko` → bau fracht mehr neb person selbst walt
+  * : **kost**en*los* `kost-l.o` ~ `ko.os`
+  * -*kosten* `ko` → bau fracht mehr neb person selb walt
   * **köst** `köst` : `köst.L` `köst.L.T` `b.köst-ig`
 * **kraft** `kra` : `kra.wa` `M.al.kra`
-  * : **kraft**<i></i>*wagen* `kra.wa` ! `kr.aft.wa` ≠ krankenwagen STS
+  * : **kraft**<i></i>*wagen* `kra.wa`
   * **kräft** `kr.e` : `kr.e` `kr.i` `b.kr.i` `M.al.kr.en` `eNT.kr.et`
 * **krank** `kra` : `kra.ha` `er.kra`
-  * : **krank**en**wag**en `kra.wa` STS ! `kr.ak.wa` ≠ kraftwagen
+  * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa` ≠ kraftwagen
   * : **krank***heit* : `kra.H` * `a-H`
-  * **kränk** `kr.e` : `kr.L`
-    * : **kränk**<i></i>*st* `kr-t` ! `kr-st`
-    * : **kränk**<i></i>*lich*<i></i>*keit* `kr.T` ! `kr.L.T`
+  * **kränk** `kr.e` : `kr-st` `kr.L`
+    * **kränk**<i></i>*lich*<i></i>*keit* `kr.T` ! `kr.L.T`
     * ! `kr.ek` : `kr.ek-er`
 * kranz `kr.az`
 * krass `kr.ass`
