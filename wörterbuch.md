@@ -1006,6 +1006,7 @@
 * *itali* `.it` : `.it.er` `.it.i`
   * : *itali*en `.it.en` × `.it`
 * -iv `.iv` : `.iw-o` `.iv.ir`
+* iz ← ik
 
 ## J
 
@@ -1094,9 +1095,8 @@
 * ***klaud*** `.aud` STS
   * ***klaus*** `.aus` : `.aus.e`
     * -*klausel* `au.el` → zent
-* ~~kl~~ein `(N)` : `(N).er` `(N).H` `(N).T` `E-N.er` `zr.N.er`
+* ~~kl~~ein `(N)` : `(N).er` `(N)-st` `(N).H` `(N).T` `E-N.er` `zr.N.er`
   * : ~~kl~~ein*lich*<i></i>*keit* `(N).T` ! `(N).L.T` ≠ kleinigkeit
-  * : ~~kl~~einst `(N)-t` ! `(N)-st`
 * **klin** `kli` : `kli.ik`
 * **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(l).ko` `u-rÜ.ko` `IN.b.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z-ed.ko` `z.ab.uss.ko` `Z-echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z-r Ü.eug.ko`
   * : *darauf* *zurück*<i></i>**komm**en `dar-AU u-rÜ.ko` ~ `dar-AU-Ü.ko`
@@ -1116,13 +1116,13 @@
   * *kann*, *kannst*, *konn* `k` : `G-k-t`
   * → kund
   * → kunst
-* *kont* `ko` : `ko.en` `ds.ko.ir` ← put
-  * *konto* `ko` : `b.ak.ko` `s.ko`
+* *kont* `ko` : `ds.ko.ir` ← put
+  * *konto* `ko` : `ko.en` `b.ak.ko` `s.ko`
 * *kontr* `(ko)tr` STS : `(ko)tr.är`
   * *konter* `(ko)t-er` STS ~ `ko-t-er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
   * → kontroll
-* *kontroll* `(ko)tr` STS * `ko` : `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
+* *kontroll* `(ko)tr` STS ~ `ko` : `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
   * : *kontroll*e `(ko)tr.e` ~ `ko,o` : `ko,o-en`
 * korp `k.op` : `k.op-O` `k.op.iv`
   * corps `k.or`
@@ -1166,13 +1166,13 @@
   * : kuban*isch* `k.ub.i` ! `k.ub.an.i` ≠ kubisch
 * **küch** `kÜ`
 * kult `kut` : `kut-iv.ir`
-  * : *kultur* `u-UR` : `u-UR.ell`
-  * : *kultus* `.us` : `.us.er` `.us.ko`
+  * *kultur* `u-UR` : `u-UR.ell`
+  * *kultus* `.us` : `.us.er` `.us.ko`
 * **kund** `ku` : `ku.e` `ku.i` `ku.in` `ku.FT` `ku.FT.er` `er.ku` `er.ku.i` `UR.ku.L` `UN-ku.i` ← könn
   * : **kund** `ku` ! `k.ud`
   * : ur**kund**e `UR.ku.e` × `UR.ku`
   * **künd** `kÜ` : `kÜ.i` `kÜ.bar` `.an.kÜ` `E-kÜ` `E-kÜ.i`
-    * : **künd**en `kÜ` ! `k.üd`
+    * : **künd**en `kÜ` ! `k.üd` ≠ kürzen
 * **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` ← komm
   * **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `kust` ← könn
