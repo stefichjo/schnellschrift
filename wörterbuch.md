@@ -1,6 +1,6 @@
 # Wörterbuch
 
-| [K](#k) | [L](#l) |
+| [J](#j) | [K](#k) | [L](#l) | [M](#m) |
 |:-:|:-:|
 
 ## A
@@ -143,6 +143,7 @@
 * ~~ber~~lin `(l.in)` : `(l.in).er.i`
 * besser ← gut
 * best ← gut
+* **bi** `bi` : `bi.al`
 * **bi** `bi` STS
   * : **bi**o<i></i>***log***<i></i>ie `bi.og.I` ! `b.i-l.og.I`
 * *bibel* `bib`
@@ -1216,19 +1217,11 @@
   * ~~l~~ieß `(.iss)` : `(I)t-er.iss`
     * ! `l.iss`
 * last ← lad
-* lat ← fer
-
----
-* lat l.at
+* lat `l.at` : `r.l.at.iv` ← fer
   * : lateral `l.at-er.al`
-    * .~~later~~**al**. `(.al)`
-      * **bi**~~later~~**al** `bi.al`
-      * **mult**i~~later~~**al** `mut-al`
-  * : **re**lativ `r.l.at.iv`
-    * *relat* `r-t`
-      * : *relativ* `r-t-iv`
----
-
+    * -*lateral* `.al` → bi mult
+  * *relat* `r-t` : `r-t-iv`
+    * : *relat*<i></i>*ion* `r-t-O` ! `r.l.at.iO`
 * laub `l.aub`
   * : *er*<i></i>laub `er.l.aub` * `er-au`
   * : urlaub `UR.l.aub` * `UR-au` ⇒ `UR,au`
@@ -1319,6 +1312,9 @@
 * lux `l.ux`
   * : luxus `l.ux.us` × `l.ux`
   * : luxuriös `l.ux.UR.ös` × `l.ux.ös`
+
+## M
+
 * **mach** `ma`
   * : **schritt**<i></i>**mach**er `.it.ma-er` × `.it,(er)`
   * *macht* `aCHT` :  `aCHT-o`
@@ -1500,6 +1496,7 @@
 * mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir` `.e-m.ot.iO` `.e-m.ot.i-aL`
   * : motor `m.ot.or` × `m.ot`
 * **müh** `mÜ` : `b.mÜ.en`
+* mult `mut` : `mut-al`
 * *münchen* `mÜ.en`
 * mus `m.us` : `m.us.e` `m.us.i`
   * : museum `m.us.e-um` × `m.us`
