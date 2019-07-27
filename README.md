@@ -406,7 +406,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 | g | gr |
 |:-|:-|
-| `─` `┐`<br>`·` `│`<br>`·` `│`<br>`·` `│` | `─` `┐`<br>`·` `│`<br>`·` `│`<br>`·` `│`<br>`·` `│`<br>`·` `│`<br>`·` `│`<br>`·` `│` |
+| `┐`<br>`│`<br>`│`<br>`│` | `┐`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│` |
 
 | h |
 |:-|
