@@ -463,3 +463,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 | E | O |
 |:-|:-|
 | `│`<br>`└` | `│` `·`<br>`└``─` |
+
+| ur | UR |
+|:-|:-|
+| `└` `·`<br>`·` `│` | `└` `·`<br>`└` `·`<br>`·` `┐`<br>`·` `│` |
