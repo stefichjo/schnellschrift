@@ -398,7 +398,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 | d | dr |
 |:-|:-|
-| `┌` `┐`<br>`└` `┘`<br>`│` `·`<br>`└` `─` | `┌` `┐`<br>`└` `┘`<br>`│` `·`<br>`│` `·` |
+| `┌` `┐`<br>`├` `┘`<br>`│` `·`<br>`└` `·` | `┌` `┐`<br>`├` `┘`<br>`│` `·`<br>`│` `·` |
 
 | f | fr | pf | pfr |
 |:-|:-|:-|:-|
