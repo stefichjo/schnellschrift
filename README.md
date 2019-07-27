@@ -385,3 +385,13 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 * weile `w.eil.e`
 * weil `.eil`
+
+### Ascii
+
+| b |
+|:-:|
+| ```
+  │
+  └
+  ``` |
+
