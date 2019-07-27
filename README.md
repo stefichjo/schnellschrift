@@ -388,7 +388,7 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 
 ### Ascii
 
-| b |
-|:-:|
-| `│`<br>`└` |
+| b | c |
+|:-:|:-:|
+| `│`<br>`└` | `┐`<br>`┘`<br>`┐`<br>`│` |
 
