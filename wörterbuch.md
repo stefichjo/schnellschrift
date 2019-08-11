@@ -2167,7 +2167,7 @@
   * v~~on~~ *mehrer*en ***seit***<i></i>en `v MR T-en` ~ `v.MR.T-en`
   * v~~on~~ *unserer* ***seit***<i></i>e `v u-er-er T.e` ~ `v,u-er-er.T.e`
   * seit `s.T`
-* *sekretar*, *sekretär* `s.ekr` : `s.ekr.at`
+* *sekretar*, *sekretär* `s.ekr` : `s.ekr.at` `s.ekr.in`
 * sel `s.el` : `s.el.i-er` `s.el.ist.e` `s.el.T`
   * : sel*ig* `s.el.i` ! `s.el.ig`
     * -*selig* `(g)` : `UN,(g)` → gefühl unglück vertrau
@@ -2434,8 +2434,8 @@
 * stil `st.il`
 * **still** `.ill`
 * **stimm** `.im` : `.im:H`
-  * : **be**<i></i>**stimm** `b.im` ~ `b°-i` : `b°-i-t`
-    * : *mit*<i></i>**be**<i></i>**stimm** `M.b.im` ~ `M,b°-i` ~ `M°`
+  * *bestimm* `b°-i` : `b°-i-t`
+    * : *mit*<i></i>*stimm* `M,b°-i` ~ `M°`
 * stock `st.ok`
 * *stockholm* `st.ho`
 * **stoff** `.of` : `(k).of`
