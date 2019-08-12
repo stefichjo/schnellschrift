@@ -1,9 +1,9 @@
 # Wörterbuch
 
-| [J](#j) | [K](#k) | [L](#l) | [M](#m) |
-|:-:|:-:|:-:|:-:|
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
-## A
+## [A](#wörterbuch)
 
 * ab `.ab` : `.ab,i`
 * ~~ab~~end `(.ed)`
@@ -99,7 +99,7 @@
 * aut `.aut` : `.aut.o` `.aut.us` `.aut.om`
 * -~~az~~-, -~~iz~~- → `.ät`
 
-## B
+## [B](#wörterbuch)
 
 * *baden-würtemberg* `b.ad-Ü`
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
@@ -235,7 +235,7 @@
 * bus `b.us`
   * -*bus* `(.us)` → aut
 
-## C
+## [C](#wörterbuch)
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er`
@@ -243,7 +243,7 @@
   * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
 
-## D
+## [D](#wörterbuch)
 
 * *d. h.* `d.h°`
 * da `d.a`
@@ -361,7 +361,7 @@
 * dutz `d.uz`
   * : dutzend `d.uz.ed` × `d.uz`
 
-## E
+## [E](#wörterbuch)
 
 * eben `.eb`
   * : *so*eben `.o.eb` ~ `(o).eb`
@@ -429,7 +429,7 @@
 * **ex**- `.e`
 * exemp ← em
 
-## F
+## [F](#wörterbuch)
 
 * **fabr** `fa` : `fa.ik` `fa.ir`
   * *fabrik* `fa` : `fa.ant` `fa.at`
@@ -679,7 +679,7 @@
   * fürcht `f.ücht` : `f.ücht.et.e` `f.ücht.L` `b.f.ücht`
 * **fuß** `fu` : `ha.fu`
 
-## G
+## [G](#wörterbuch)
 
 * gang ← geh
 * **ganz** `ga` : `ga.H` `ga-S`
@@ -812,7 +812,7 @@
     * × ***bess***<i></i>~~er~~ : `bes-UNG` `G-bes` `.S.bes` `E-bes` `E-bes-Ü-t-ig.T`
   * best `b.est`
 
-## H
+## [H](#wörterbuch)
 
 * **hab** `ha` : `G-ha` `im.IN.ha-er`
   * : *ich*.**hab** `.I.ha` ~ `.I-a`
@@ -948,7 +948,7 @@
   * : **jahr**<i></i>**hundert** `ja.hu`
 * hut `h.ut`
 
-## I
+## [I](#wörterbuch)
 
 * -*ial* `.iaL`
   * -*iell* `.ieL`
