@@ -1355,15 +1355,9 @@
   * ***mass***<i></i>en**haft** `ass.ha` ! `ass.en.ha`
 * maß ← mess
 * ***mat*** `.at` : `.aut.at` `.aut.at.i` `.aut.at.ir-UNG` `.aut.at.iO`
-
----
-* **mater** `ma` ! `m.at-er` × `m.at` E
-  * : **mater**ie `ma.I.e` ! `m.at-er.I.e` × `m.at.I.e` E
-  * : **mater***ial* `ma.iaL` ! `m.at-er.iaL` × `m.at.iaL` E
-  * : **mater***ial**ismus* `ma.iaL.iS`
-  * : **mater***ial**istisch* `ma.iaL.iS.i`
----
-
+* *mater* `ma` : `ma.I.e` `ma.iaL` `ma.iaL.iS` `ma.iaL.ist` `ma.iaL.iS.i` `ma.ieL`
+  * -*mater* `.iaL` → weis
+  * *matr* `ma` : `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
 * mauer `m.au-er`
   * : schallmauer `sch.all.m.au-er` * `scha.m.au-er`
 * mech `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
@@ -2855,7 +2849,7 @@
 * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
   * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
-* ~~w~~eis `(.eis)` : `b.eis` `b.eis.bar` `er.eis` `hn.eis` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis` `.U.e-Ü.eis`
+* ~~w~~eis `(.eis)` : `b.eis` `b.eis.bar` `b.eis.iaL` `er.eis` `hn.eis` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis` `.U.e-Ü.eis`
   * : ~~arb~~eits~~w~~eise `(T)-s.eis.e` ~ `Ts.eis.e`
   * : *darauf* *hin*~~w~~eisen `dar-AU hn.eis` ~ `dar-AU-n`
   * : *ich* ~~m~~uss *darauf* *hin*~~w~~eisen `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
