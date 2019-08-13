@@ -1471,7 +1471,7 @@
 * mod `m.od` `m.od-er`
   * modell `m.od.ell` * `m.o-ell`
 * ***mög*** `.ög`
-  * ~~mög~~*lich* `(L)` : `(L)-t` `(o)w.T.L`
+  * ~~mög~~*lich* `(L)` : `(L)-t` `(o)ba.L` `(o)w.T.L`
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
@@ -2442,6 +2442,7 @@
   * -~~straß~~- : `(.e)` `hau,(.e)` `la,(.e)` `m.ich,(.e)`
     * ***seit***<i></i>en~~straß~~e : `T,(.e)` ~ `s.T.en,(e)`
 * **streb** `str` : (er)str,(-t)`
+  * : *be***streb**t `(b)str-t` × `(b)str`
 * **streng** `str` : `(Ü.an)str`
 * ~~str~~eit `(T)`
   * ~~str~~itt `(.it)`
