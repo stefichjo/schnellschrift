@@ -1875,7 +1875,7 @@
 * real ← re
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G-ech` `(.S)ech` `(b)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
-* *recht* `R` : `T-s.R` `(.es):R`
+* *recht* `R` : `R.L` `T-s.R` `(.es):R`
   * : `m.H,wa.R` ! `m.H,w.al.R` × `H,w.al.R`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
@@ -2183,11 +2183,10 @@
   * senz `s.ez` : `pr.s.ez`
 * sent `set` STS
   * sens `s.e's` : `s.e's-o`
-* **sequ** `s`
-  * ! `s.equ`
-    * : sequenz `s.equ.ez` × `s.equ`
-  * : **kon**<i></i>**sequ**ent `ko-s.ent` × `ko-s` ! `ko.s`
-  * : **kon**<i></i>**sequ**enz `ko-s.ez` ! `ko.s.ez`
+* **sequ** `s` : `ko-s.ez`
+  * ! `s.equ` : `s.equ.ez` × `s.equ`
+  * : **kon**<i></i>**sequ**ent `ko-s.ent` × `ko-s`
+  * : **kon**<i></i>**sequ**enzen **zieh**en `ko-s.ez.en .ih` × `ko-s.en.ih`
 * **ser** `s` : `IN.s.at` `IN.s.ir` `IN.s.at.iO`
 * **serv** `s` : `ko-s.iv` `ko-s.ir`
   * : **kon**<i></i>**serv**e `ko-s.e` × `ko-s`
