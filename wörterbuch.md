@@ -85,6 +85,7 @@
 * *atlant* `.atl` : `.atl.i`
   * *atlant*ik `.atl.ik` ~ `.atl-t-ik`
 * atlas `.atl.as`
+* ~~at~~om `(.om)` : `(.om).ar`
 * auch `.auch`
   * -*auch* → aber oder sondern
 * *auf* `AU`
@@ -1856,7 +1857,7 @@
   * : *da*<i></i>*von*.ab**rat**en `.a-v.ab.ra` ~ `a-v.ab.ra`
   * *berat* `Ra`
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät`
-    * ~~land~~es*ver*<i></i>*rät*er `(.es).E.ät-er` ~~ver~~ `(.es).ät-er`
+    * ~~land~~es*ver*<i></i>*rät*er `(.es),E.ät-er` × `(.es).ät-er`
     * *rätsel* `ts.el` : `ts.el.ha`
   * **riet** `ri` ! `r.iet`
 * **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.i-eL` `IN 4 ra.en`
