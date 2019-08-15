@@ -49,12 +49,10 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * ~~arb~~eit `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `.S.T` `fa.T-er` `M.T-er` `O-T-er` `Z-Sa.T`
+  * ! arbeit `.ab.T` : `G.ab.T` `b.ab.T` `E.ab.T`
   * : ~~arb~~eit*sam* `(T)-Sa` ~ `T-Sa`
   * : ~~arbeits~~los `(l.os)`
-  * : *ge*~~arb~~eitet `G-T` ! `G.ab.T`
   * : ~~arb~~eits*gemeinschaft* `(T)-s.N` ~ `Ts.N`
-  * : **be**~~arb~~eiten `b.T` ! `b.ab.T`
-  * : *ver*~~arb~~eiten `E-T` ! `E.ab.T`
 * arch `.ach` : `.ach.iv`
   * : archivar `.ach.iv.ar` × `.ach.ar`
 * arch `.ach` : `.ach.og.e`
@@ -822,6 +820,7 @@
   * : *wir*.**hab** `wr.ha` ~ `wr-a`
   * *hast* `ha`
   * **hat** `ha`
+    * **hat**.*sich* `ha*`
   * *hatt* `t`
     * *hätt* `.ät`
   * **haft** `ha` : `ha,i`
@@ -1289,7 +1288,7 @@
   * **lust** `lu`
     * : *ver*<i></i>**lust** `E,lu` ~ `(E)lu`
 * -***ling*** `.ing`
-* ~~lin~~i `(.I)`
+* ~~lin~~i `(.I)` : `ri.I.e`
   * : ~~lin~~ie `(.I).e` ~ `l.in`
     * : *in*.erster.*lini*e `IN.est-I.e` × `IN.I.e`
 * list `l.ist` : `l.ist-ig`
