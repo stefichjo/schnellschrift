@@ -902,6 +902,7 @@
   * *her*- `.e` : `.e-AU` `.e-UNTER` `.e-O`
 * ~~her~~bst `(bst)` : `(bst).L` `(bst)-tag`
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert-h.en`
+  * : ~~de~~r.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
   * : **herr**<i></i>*isch* `h.i` ! `h.err.i`
 * ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `kust,(z)`
@@ -1082,8 +1083,9 @@
 * ***kehr*** `.er` : `b.er` `rÜ.er` `.um.er` `E.er` `W.er` `u-rÜ.er`
   * : um*ge*<i></i>***kehr***t `.um.ert` ~ `.um.G`
 * -***keit*** `T` ← heit
-* **kenn** `k.e` : `.an.er` `b.k` `b.k.is` `er.k` `er.k.is`
+* **kenn** `k.e` : `b.k` `b.k.is` `er.k` `er.k.is`
   * kenn `k.en` : `k.en.e` ≠ kennt
+  * : aner**kenn**en `.an.er.k` × `.an.er`
   * **kann** `ka` : `ka-t.e` `b.ka-t`
 * **kind** `ki` : `ki.H` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
   * ! `k.id` : `k.id.i` `k.id.L`
@@ -1409,16 +1411,21 @@
 * **min** `mi`
   * : **min**orität `mi.or.ät` ~ `m.in.ät`
   * : pr**o**<i></i>**min***ent* `(o)mi.ent` × `(o)mi`
-  * *minist* `mi`
-    * -*minister* `(er)` : `(r),(er)` → kult
-    * -*ministerium* `.um`
-    * : *minist<b>*er*</b>ial* `mi-er.iaL` > `mi.iaL` E
-    * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
-    * : *minist*erium `mi-er.I.um` > `mi.um` E
-      * *außen***minist**erium `.auss,mi-er.I.um` > `.auss,mi.um` × `.auss.um`
-      * **bu**~~nd~~es**minist**erium `bu,mi-er.I.um` > `bu,mi.um` × `bu.um`
-    * : **fin**anz*minist*er `fi.az.mi-er` × `fi.mi-er` ! `fi.mi.er` E
-    * : justiz*minist*er `ju+st,mi-er` ! `ju+st,mi.er` E
+---
+
+* *minist* `mi`
+  * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → kult
+  * -*ministerium* `.um` → finanz
+
+  * : *minist<b>*er*</b>ial* `mi-er.iaL` > `mi.iaL` E
+  * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
+  * : *minist*erium `mi-er.I.um` > `mi.um` E
+    * *außen***minist**erium `.auss,mi-er.I.um` > `.auss,mi.um` × `.auss.um`
+    * **bu**~~nd~~es**minist**erium `bu,mi-er.I.um` > `bu,mi.um` × `bu.um`
+  * : **fin**anz*minist*er `fi.az.mi-er` × `fi.mi-er` ! `fi.mi.er` E
+  * : justiz*minist*er `ju+st,mi-er` ! `ju+st,mi.er` E
+
+---
   * mine<b>*ral*</b> `(r.al)`
   * min<b>*ut*</b>e `(.ut).e` ~ `.ut.e`
 * *minder* `m.i-er`
@@ -1875,8 +1882,7 @@
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G-ech` `(.S)ech` `(b)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
 * ***recht*** `echt` : `echt.L` `T-s:echt` `(.es):echt` `m.H,wa.echt`
-  * *auf*<i></i>***recht*** `(AU)echt` ~ `AU-r`
-  * *ge*<i></i>***recht*** `G.echt` ~ `G.r`
+  * ~ *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 * **reg** `r`
