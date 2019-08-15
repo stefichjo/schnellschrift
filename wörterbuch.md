@@ -1874,8 +1874,9 @@
 * real ← re
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G-ech` `(.S)ech` `(b)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
-* *recht* `R` : `R.L` `T-s.R` `(.es):R`
-  * : `m.H,wa.R` ! `m.H,w.al.R` × `H,w.al.R`
+* ***recht*** `echt` : `echt.L` `T-s:echt` `(.es):echt` `m.H,wa.echt`
+  * *auf*<i></i>***recht*** `(AU)echt` ~ `AU-r`
+  * *ge*<i></i>***recht*** `G.echt` ~ `G.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 * **reg** `r`
