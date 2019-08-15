@@ -396,6 +396,8 @@
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
 * -el → -ul
+* el `.el` : `.el.eNT.ar`
+  * element `.el.e-met` * `.el.eNT` 
 * *elektr* `.el` : `.el.i` `.el.ir` `.el.if.ir` `.el.ät` `.el.od.e` `.el.on.i`
 * eltern ← alt
 * eltern `.et-ern` : `.et-ern.os` `.et-ern.FT` `O-et-ern`
@@ -1374,15 +1376,8 @@
 * meng `m.eng`
 * *mensch* `MSCH` : `MSCH.L` `E-MSCH.L`
   * *mensch*<i></i>*heit* `MSCH.H` * `MSCH°`
-
----
-* ment `met`
-  * : mentalität `met-al.ät`
-  * -ment `met` (E)
-    * : element `.el.e-met` (E)
-    * : testament `t.e+st.a-met` (E)
----
-
+* ment `met` : `met-al.ät` `met-or`
+  * -ment `met`/`.eNT` → el test
 * merk `m.ek`
   * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa`
     * : *auf*merk*sam*<i></i>*keit* `AU.m.ek-Sa.T` × `AU.T`
@@ -1475,6 +1470,7 @@
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
+* mo ← mov
 * ~~mom~~ent `(met)` : `tr.eg.H,(met)`
 * ~~mon~~at `(.at)` : `(.at).L` `.im (g).at` `(I)n let (.at).en` `(I)n (-st) (.at).en`
 
@@ -2548,6 +2544,11 @@
 * ter<b>*min*</b> `(m.in)` ! `t.em.in` (E)
   * : ter<b>*min*</b>al `(m.in).al`
   * : deter<b>*min*</b>ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
+---
+
+* test `t.est` : `t.e-st.a-met` × `t.e-st`
+
+---
 * teuer `t.eu-er` (E)
   * : teurer `t.eur-er` (E)
 ---
