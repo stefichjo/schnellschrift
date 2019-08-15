@@ -1394,15 +1394,9 @@
       * -*gemäß* `.G`
 * *metall* `m.et` : `m.et.i`
 * ~~meth~~od `(.od)` : `(.od).e`
-
----
-* metr `m.etr` : `m.etr.om`
-  * : meter `m.etr`
-  * : geometrie `g.e-m.etr.I`
-  * : **pa**rameter `pa.m.etr` ! `p.ar.a-m.etr`
-  * : symmetrie `s.ym-m.etr.I` × sym~~metr~~ie `s.ym.I`
----
-
+* metr `m.etr` : `m.etr.om` `m.etr.um` `m.etr.ik` `m.etr.i`
+  * -metrie `m.etr.I` → ge sym
+  * meter `m.et-er` : `p.ar.a-m.etr`
 * *mexik* `m.ex` : `m.ex-er` `m.ex.i`
   * : *mexik*o `m.ex.o` × `m.ex`
 
@@ -1689,10 +1683,10 @@
   * : **re**<i></i>**pa**ratur `(r)pa-UR` ! `(r)pa-UR` E
   * : **re**<i></i>**pa**rier `(r)pa.ir` E
   * : *trans*<i></i>**pa**r*ent* `tra.pa.ent` ~ `tra.pa.eNT`
-* **pa**ra- `pa`
-  * : **pa**rallel `pa.ll.el` ~ `p.ar.el` E
 ---
 
+* *para-* `p.ar.a-`
+* *parallel* `p.ar.el`
 * *paris* `pa.is`
 * parl
   * *parlament* `Par` : `Par.ar-er`
@@ -2486,6 +2480,8 @@
 * *sund* `.und` : `G-und`
   * : *ge*<i></i>*sund*<i></i>*heit* `G-und.H` ~ `u-H`
 * super `s.upr`
+* sym `s.ym`
+  * : symmetrie `s.ym-m.etr.I` × `s.ym.I`
 * ~~sym~~bol `(b.ol)` : `(b.ol).ir`
 * ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
 
