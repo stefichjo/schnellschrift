@@ -1401,13 +1401,11 @@
   * meter `m.et-er` : `p.ar.a-m.etr`
 * *mexik* `m.ex` : `m.ex-er` `m.ex.i`
   * : *mexik*o `m.ex.o` × `m.ex`
+* *mich* `m.i`
+  * ~~l~~assen.~~sie~~.*mich* `(ass).m.i` ! `ass.m.i`
+* *million* `(I),(I)` : `(I),(I).är` `(I),(I).en`
 
 ---
-* *mich* `m.i` E
-  * l<b>*ass*</b>en.~~sie~~.*mich* `(.ass).m.i` ! <b>*lass*</b>en.~~sie~~.*mich* `ass.m.i`
-* *million* `(I),(I)` E
-  * : *million*är `(I),(I).är`
-  * : *million*en `(I),(I).en`
 * **min** `mi`
   * : **min**orität `mi.or.ät` ~ `m.in.ät`
   * : pr**o**<i></i>**min***ent* `(o)mi.ent` × `(o)mi`
@@ -1864,7 +1862,7 @@
   * *berat* `Ra`
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät`
     * ~~land~~es*ver*<i></i>*rät*er `(.es),E.ät-er` × `(.es).ät-er`
-    * *rätsel* `ts.el` : `ts.el.ha`
+    * *rätsel* `t-s.el` : `t-s.el.ha`
   * **riet** `ri` ! `r.iet`
 * **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.i-eL` `IN 4 ra.en`
   * : **rat**e `ra-e` ! `ra.e`
@@ -2173,8 +2171,7 @@
     * *selbst* `-st` : `-st,u-N` `-st-ko`
   * : *die*<i></i>*selb*en `I.l.en` E
   * : ~~de~~r*selb*e `(r).l.e` E
-* selt `set`
-  * : selten `set-en` (E)
+* selt `set` : `set-en` `set-Sa`
 * *senat* `s.at`
 * **send** `s`
   * : ab**send**er `.ab-s-er`
