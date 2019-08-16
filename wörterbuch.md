@@ -593,8 +593,7 @@
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G-fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
     * : *er***folg**e `er.fo.e` ! `er.f.og.e`
-    * : *er*<i></i>**folg**<i></i>~~r~~eich `er.fo.eich`
-      * *erfolgreich* `er,r.ei`
+    * : *er*<i></i>**folg**<i></i>~~r~~eich `er.fo.eich` ⇒ *erfolgreich* `er,r.ei`
   * : *in***folg** `IN.fo` ~ `IN.o`
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er*<i></i>*forder*<i></i>*lich* `er.F.L` ~ `er.o-L`
@@ -1256,6 +1255,7 @@
   * *lehrer* `er-er` : `fa.er-er`
   * *lehrling* `l.ing`
 * **leicht** `l.ei`
+  * : ***viel***<i></i>**leicht** `.il-l.ei` ⇒ *vielleicht* `v.ei`
 * leih `l.eih`
   * : anleih `.an.l.eih` ~ `.an.l.ei`
   * : lieh `l.ih`
@@ -1735,7 +1735,7 @@
 * **plan** `pla`
   * -<b>*plan*</b> `.an`
 * **plant** `pla` : `pla.asch.e` `tra.pla.O`
-* ***platz*** `.az` : `T-s.az`
+* ***platz*** `.az` : `(T)-s.az`
   * ***plätz*** `.ez` : `.ez.e`
 
 ---
@@ -2758,7 +2758,6 @@
   * -***vieh*** `.ih` → rind schlacht
 * ***viel*** `.il`
   * : *so*<i></i>***viel*** `.o-il` ~ `.o-l`
-* *vielleicht* `v.ei`
 * *volk*, *völk*
 * *voll* `Ol`
   * *hochachtungsvoll* `ho.o`
