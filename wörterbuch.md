@@ -1205,7 +1205,7 @@
   * **lä**~~nd~~ `lä` STS
     * ! `l.ed` : `l.ed.L` `.S.l.ed-er` `G-l.ed.e` `G-l.ed-er`
     * ~~län~~der : `(d-er)` : `(I).N.el.d-er`
-      * *ent*<i></i>*wick*l*ung*s~~län~~der `eNT,wi-l.d-er` ~ `eNT-i.d-er`
+      * *ent*<i></i>*wick*l*ung*s~~län~~der `eNT,wi.l.d-er` ~ `eNT-i.d-er`
     * -*ländisch* : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
   * → deutschland
   * → niederlande
