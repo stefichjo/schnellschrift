@@ -14,8 +14,9 @@
     * : **gut***acht*en `gu.a.en` × `gu.a` ~ `u.a`
     * : **gut***acht*er `gu.a.er` × `gu,er`
 * adr~~ess~~ `.adr`
-* *afrik* `.afr` : `.afr.i`
+* *afrik* `.afr`
   * : *afrik*a `.afr.a` × `.afr`
+  * : *afrik*an*isch* `.afr.i`
 * ag `.ag` : `.ag.eNT`
   * : ag*ent*ur `.ag.eNT.ur` × `.ag.ur`
   * akt `.akt` ⇒ `.ak.t` : `r.akt-or`
@@ -36,7 +37,8 @@
 * alt `.at` : `.at-er` `ki.at-er` `v.at-er.h`
   * ! (alt) `.alt` : `.ur.alt`
   * ält `.ät` : `.ät-er` `.ät.est`
-* *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
+* *amerik* `.am` : `.am.a` `.am.er` `I E.ig .at.en v .am.a`
+  * : *amerik*an*isch* `.am.i`
 * *amt* `.a` : `T-s.a` `b.a` `b.a.er` `fi.a` `.es.a` `hau.a.L` `pa°.a`
   * : *aus*wertiges *amt* `.S.wet.ig.es .a` ~ `.S.a`
   * ! `.amt` : `.amt-ir`
@@ -316,6 +318,7 @@
 * *doch* `d-ch`
   * : je*doch* `j.e-d-ch` ~ `j-ch`
 * doktor ← doz
+* ~~doll~~ar `(.ar)`
 * dorf `d.of`
 * dort `dot` : `dot-ig`
 * doz `d.oz`
