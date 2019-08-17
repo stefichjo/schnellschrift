@@ -92,7 +92,7 @@
   * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
 * *aus* `.S` : `.S-t-ig` `.S-ts` `O.-S`
   * : h~~er~~<i></i>*aus* `h.S` ~ `er.S` ~ `er-s`
-  * auß `.auss` : `.auss.ko` `.auss:ha`
+  * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha`
       * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
 * aut `.aut` : `.aut.o` `.aut.us` `.aut.om`
@@ -174,7 +174,7 @@
       * : **bä**~~nd~~e `bä.e` ~ `bä-e`
       * : *ver*<i></i>**bä**~~nd~~e `E.bä.e` ~ `E.b.e`
       * ! (bänd) `b.änd` : `b.änd.i`
-  * **bu**~~nd~~ `bu`
+  * **bu**~~nd~~ `bu` : `bu.um`
     * **bü**~~nd~~ `bü` : `bü.el`
       * : **bü**~~nd~~e `bü-e` ! `bü.e`
 * **bis** `bi`
@@ -523,7 +523,7 @@
 * ~~f~~eier `(.ei-er`) : `(.ei-er).L` `(.ei-er).tag` `G.ei-ert`
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
-* feld `f.ed`
+* feld `f.ed` : `m.in.f.ed`
 * fend `f.ed`
   * fens `fes` : `d.e-fes.iv`
     * : offensiv `.o-fes.iv` * `.o-f.iv`
@@ -1405,32 +1405,20 @@
 * *mich* `m.i`
   * ~~l~~assen.~~sie~~.*mich* `(ass).m.i` ! `ass.m.i`
 * *million* `(I),(I)` : `(I),(I).är` `(I),(I).en`
-
----
+* min `m.in` : `m.in.e` `UNTER.m.in.ir`
+  * ~~mine~~ral : `(r.al)`
 * **min** `mi`
   * : **min**orität `mi.or.ät` ~ `m.in.ät`
   * : pr**o**<i></i>**min***ent* `(o)mi.ent` × `(o)mi`
----
-
-* *minist* `mi`
-  * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → kult wirt
-  * -*ministerium* `.um` → finanz in
-
-  * : *minist<b>*er*</b>ial* `mi-er.iaL` > `mi.iaL` E
-  * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
-  * : *minist*erium `mi-er.I.um` > `mi.um` E
-    * *außen***minist**erium `.auss,mi-er.I.um` > `.auss,mi.um` × `.auss.um`
-    * **bu**~~nd~~es**minist**erium `bu,mi-er.I.um` > `bu,mi.um` × `bu.um`
-  * : **fin**anz*minist*er `fi.az.mi-er` × `fi.mi-er` ! `fi.mi.er` E
-  * : justiz*minist*er `ju+st,mi-er` ! `ju+st,mi.er` E
-
----
-  * mine<b>*ral*</b> `(r.al)`
-  * min<b>*ut*</b>e `(.ut).e` ~ `.ut.e`
-* *minder* `m.i-er`
-* *mindest* `m.i-eS`
----
-
+  * → minist
+  * ~~min~~ut `(.ut)` ⇒ `.ut` : `.ut.e`
+* *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min
+  * : *minist*erien `mi.I.en` ! `mi.er.I.en`
+  * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → finanz just kult wirt
+  * -*ministerium* `.um` → aus bund finanz in
+* mind
+  * *minder* `m.i-er`
+  * *mindest* `m.i-eS`
 * mir `m.ir`
   * .***mir*** `.ir` : `(I)-bi.ir,u`
 * *miss*- `ms`
@@ -1859,6 +1847,7 @@
   * : **rat**<i></i>*sam* `ra-Sa` ! `ra-s.am`
   * : *er*<i></i>**rat**en `er-ra` ! `er-r.at`
   * : *da*<i></i>*von*.ab**rat**en `.a-v.ab.ra` ~ `a-v.ab.ra`
+  * -*rat* `.at`
   * *berat* `Ra`
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät`
     * ~~land~~es*ver*<i></i>*rät*er `(.es),E.ät-er` × `(.es).ät-er`
