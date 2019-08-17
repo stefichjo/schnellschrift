@@ -132,9 +132,6 @@
   * *her*bei `h.b.ei` * `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
 * bereit ← reit
-* **be**reit `b.r.T` : `O.b`
-  * ~ `b.T`
-  * : **be**reits `b.r.Ts` ~ `Ts`
 * berg `b.eg` : `b.eg.e` `E.b.eg`
   * birg `b.ig` : `G.b.ig.e`
   * barg `b.ag` : `E.b.ag`
@@ -659,7 +656,7 @@
   * : *da*<i></i>*zu* *führ*en `.a-Z Ür` ⇒ `.a-Z .ür` ~ `a-Z-Ür`
   * * *führ* `-ü-` : `.S-ü` `.S-ü.L` `dr-ü`
 * füll ← voll
-* **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `ach.fÜ` `Ü.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
+* **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `ach.fÜ` `Ü.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
     * : *er***füll**en `er.fÜ` ~ `er-Ü.en`
 * **fund** `fu` : `fu.ir` `d.i,fu`
   * : **fund**ament `fu.a-met` ~ `fu-t`
@@ -835,7 +832,8 @@
   * *halb*- `ha` : → insel jahr wicht
   * **hälft** `h.e` : `h.e` `.il:h.e`
 * hals `h.a-s`
-* ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G.-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN.-t` `.in-t` `ach-t-ig` `.aus,(-t)` `rÜ-t-l.o` `sa.E-t` `E-t-is` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
+* ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G.-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN.-t` `.in-t` `ach-t-ig` `rÜ-t-l.o` `sa.E-t` `E-t-is` `E-t-is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
+  * : *haus*~~hal~~t `.aus-t` ! `.aus,(-t)`
   * : ~~hal~~t*ung* `(-t)-UNG` ~ `-t-UNG`
   * ~~häl~~t `(-t)` : `E-t-is`
     * : ~~arb~~eits*ver*~~hält~~**nis** `(T),E-t-is` ~ `Ts.is`
@@ -1394,9 +1392,8 @@
     * ! `m.iss`
   * **maß** `ass` : `N.i-er.ass.en` `G.i-ass` `(I)ho.ass.e`
     * **mäß** `ess` : `ess.i`
-      * : *er*<i></i>**fahr**<i></i>*ung*s*ge***mäß** `er.fa.ess` × `er.fa.G`
-      * : *ver*~~häl~~t<i></i>***nis***<i></i>**mäß**<i></i>*ig* `E(-t)-is.ess.i` × `E(-t)-is.i`
-      * -*gemäß* `.G`
+      * -*mäßig* `.i` → halt reg
+      * -*gemäß* `.G`: `er.fa.G`
 * *metall* `m.et` : `m.et.i`
 * ~~meth~~od `(.od)` : `(.od).e`
 * metr `m.etr` : `m.etr.om` `m.etr.um` `m.etr.ik` `m.etr.i`
@@ -1848,8 +1845,9 @@
   * ~ *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
-* **reg** `r`
-  * : ~~reg~~el `(.el)` : `.il,(.el)` `IN.el`
+* **reg** `r` : `G.r.elt` `r.el.i`
+  * : **reg**el*mäßig*<i></i>*keit* `r.el.i-T` ! `r.el.ess.i-T`
+  * : -~~reg~~el `(.el)` : `.il,(.el)` `IN.el`
   * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
     * : ~~reg~~ier*ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
       * ~ `ir-UNG`
@@ -1886,7 +1884,9 @@
   * ~~reih~~ : `.ei-v`
 * **reis** `r.ei` : `r.ei-e`
 * reit `r.T`
-  * → bereit
+  * *bereit* `b.T`
+    * : *vor*<i></i>*bereit*en `O.b.T` × `O.b`
+    * : *bereit*s `b.Ts` ~ `Ts`
   * ritt `r.it`
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.ent` `k.or-r.ir`
