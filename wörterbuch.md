@@ -881,6 +881,8 @@
     * ! `h.ob` : `AU.h.ob` `er.h.ob`
   * hab `h.ab` : `er.h.ab`
 * *heidelberg* `h.eid.b`
+* ***heim*** `.eim`
+  * ~~heim~~at `(.at)`
 * heiß ← heiz
 * **heiß** `h.ei`
   * **hieß** `hi` ⇒ `h.i` ! `h.iss`
@@ -1016,7 +1018,7 @@
 * ja `j.a`
 * **jahr** `ja` : `GTs:ja` `frÜ.ja` `ha.ja` `ja.S ja.N`
   * : **jahr**.~~für~~.**jahr** `ja.ja`
-  * -*jahr* `.ar` : `.im.ar.e` `.im.let-ar` `.im(-st)-ar` `.im-o.ar` `.im (g).ar` `(I)let-ar.en` `(I).iS.ar`
+  * -*jahr* `.ar` : `.im.ar.e` `.im.let-ar` `.im(-st)-ar` `.im-o.ar` `.im (g).ar` `(I)let-ar.en` `(I)n,(-st)-ar.en` `(I).iS.ar`
     * : *in*.**ein**er.reihe.~~von~~.*jahr*en `IN.ei-er-r.eih.ar.en`
     * : .im.*jahr*<i></i>~~e~~.~~19~~.80 `.im.ar,(80)` × `.im,(80)`
     * : im.*ver*~~gang~~enen<b>*jahr*</b> `.im.E.ar`
@@ -2473,7 +2475,7 @@
 
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
   * tab~~ell~~e `t.ab.e` × `t.ab`
-* *tag* `tag` : `bu:tag` `f.ei-er.tag` `do.tag` `f.T-tag`
+* *tag* `tag` : `bu:tag` `f.ei-er.tag` `do.tag` `f.T-tag` `(I)n,(-st)-tag.en`
   * : ~~arb~~eits*tag* `(T)-tag` ~ `T-tag`
   * : ~~fr~~ei*tag* `(.ei)-tag` ! `.ei-tag`
   * : *tag*.~~für~~.*tag* `tag.tag` STS
