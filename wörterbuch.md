@@ -281,7 +281,7 @@
       * ! `d.ächt`
   * → dank
 * denn ← dann
-* dens `d.e's` : `ko.d.e's.at` `ko.d.e's.ir`
+* dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
 * ~~de~~r `(r)` : `.S-er` `(I)-er`
 * ~~d~~es `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
@@ -533,7 +533,7 @@
     * -*ministerkonferenz* `ko` → aus kult
   * → lat
 * *ferien* `f.I.en` : `s.om.f.I.en`
-* ***fer***<i></i>~~n~~ `fer`
+* ***fer***<i></i>~~n~~ `fer` : `v.n.ah.fer`
   * ! `f.en` : `f.en.er` `eNT.f.en` `IN,(o)f.en` `IN.w.i-f.en` `I eNT.f.en.en` `eNT.f.ent`
 * *fert* `-t` : `-t-ig` `-t-ig.T` `.an-t-ig` `.S-t-ig` `UN-t-ig`
 * fess ← fat
@@ -834,7 +834,7 @@
   * -*halb* `ha` : → außer des inner unter wes
   * *halb*- `ha` : → insel jahr wicht
   * **hälft** `h.e` : `h.e` `.il:h.e`
-* hals `h.a's`
+* hals `h.a-s`
 * ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G.-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN.-t` `.in-t` `ach-t-ig` `.aus,(-t)` `rÜ-t-l.o` `sa.E-t` `E-t-is` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
   * : ~~hal~~t*ung* `(-t)-UNG` ~ `-t-UNG`
   * ~~häl~~t `(-t)` : `E-t-is`
@@ -986,7 +986,7 @@
   * : *industr*ie `IN.I` STS ~ `IN.u-I` : `m.et.IN.u-I`
 * *ingenieur* `IN.ör` : `d.ipl.IN.ör`
 * init ← it
-* insel `.i's.el` : `ha.i's.el`
+* insel `.i-s.el` : `ha.i-s.el`
 * *inter*- `(I)t-er`
   * *intell*- `IN.t`
 * *intrig* `(I)tr.ig` : `(I)tr.ig.e`
@@ -1272,12 +1272,12 @@
 * -*lich* `L`
   * -~~lich~~*keit* `T`
 * *liefer* `l.i-er`
-* **lieg** `li` : `.an,li` `b.ei,li-ed` `er,li` `UNTER,li`
+* **lieg** `li` : `.an,li` `b.ei,li-ed` `er,li` `n.ah,li-ed` `UNTER,li`
   * : an**lieg**er `.an.li-er` ! `.an.l.ig-er`
   * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `ndr.la-e` `O.la-e`
     * : **lag**er `la-er` ⇒ `l.ag-er`
       * ! `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
-  * **leg** `l` : `l-t.e` `.ab.l` `b.l` `dar-AU.l` `Ü.l` `E.l` `E.l.H` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `.an.l.H`
+  * **leg** `l.e` : `l-t.e` `.ab.l` `b.l` `dar-AU.l` `n.ah.l` `Ü.l` `E.l` `E.l.H` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `.an.l.H`
     * : *ver***leg**er `E.l-er` ! `E.l.eg-er`
     * : *ge*<i></i>**leg**en*heit* `G.l.H` × `G.H`
       * : an*ge*<i></i>**leg**en*heit* `.an.l.H` × `.an.H`
@@ -1355,7 +1355,7 @@
   * : welt~~mar~~kt `wet.kt` ~ `(-t),(-t)`
 * *marokk* `ma.ok`
   * : *marokk*o `ma.ok.o` × `ma.ok`
-* ~~masch~~in `(.in)` : `(.in).e` `(.in).ell`
+* ~~masch~~in `(.in)` : `(.in).e` `(.in).ell` `n.äh,(.in).e`
 * ***mass*** `ass` : `ass.e`
   * ***mass***<i></i>en**haft** `ass.ha` ! `ass.en.ha`
 * maß ← mess
@@ -1499,13 +1499,12 @@
 ---
 
 * ***nacht*** `acht`
+* nah `n.ah` : `G.n.a-t`
+  * näh `n.äh` : `G.n.ä-t` `n.äh.er-er`
+    * : näher `n.äh.er` × `n.äh` : `G.n.äh` `n.äh.es`
+      * : *annäher* `.an,(er)` : `.an,(er).d`
 
 ---
-* nah `n.ah`
-  * *näher* `n.äh`
-    * annähe**r** `.an,(er)`
-      * : annähe**r**n `.an,(er)n`
-      * : annähe**r**nd `.an,(er).d`
 * nahr `n.ar`
   * : nahr**haft** `n.ar.ha`
   * : nahr*ung* `n.ar-UNG` ~ `ar-UNG`
@@ -1697,8 +1696,8 @@
   * -*pauschale* `au.al.e` → kost
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
-  * pens `p.e's`
-    * : pens*ion* `p.e's-o` ! `p.e's.iO`
+  * pens `p.e-s`
+    * : pens*ion* `p.e-s-o` ! `p.e-s.iO`
 * **per**- `p`
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
 * **pfleg** `pfl`
@@ -2170,7 +2169,7 @@
   * sens
   * senz `s.ez` : `pr.s.ez`
 * sent `set` STS
-  * sens `s.e's` : `s.e's-o`
+  * sens `s.e-s` : `s.e-s-o`
 * **sequ** `s` : `ko-s.ez`
   * ! `s.equ` : `s.equ.ez` × `s.equ`
   * : **kon**<i></i>**sequ**ent `ko-s.ent` × `ko-s`
@@ -3056,6 +3055,7 @@
 * zog ← zieh
 * *zu* `Z` : `(.e)Z` `Z-ma` `Z,i`
   * *da*<i></i>*zu* `.a-Z` * `a-Z`
+  * nahe*zu* `n.ah.Z` * `(e)Z`
   * z~~um~~ `z`
   * *zur* `zr*`
 * zucht ← zieh
