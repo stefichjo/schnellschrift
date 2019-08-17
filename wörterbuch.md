@@ -24,7 +24,7 @@
     * ~~akt~~i `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
-* ak~~adem~~ `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust-ak.I`
+* ak~~adem~~ `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `ku-st-ak.I`
 * akzent ← kan
 * -al `.al`
   * -~~al~~-
@@ -259,7 +259,7 @@
   * *gedank* `G.da` : `G.da.e` `G.da.os`
 * ~~d~~ann `(.an)`
   * (denn) `d.en`
-* ***dar*** `dar`
+* ***dar*** `dar` : `dar-i` `dar-u`
   * ***dar***- `dar`
 * d~~as~~ `d`: `d.i°`
 * **dat** `da` : `da.ei` `da.en` `da.ir` `da.um`
@@ -906,7 +906,7 @@
   * : ~~de~~r.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
   * : **herr**<i></i>*isch* `h.i` ! `h.err.i`
-* ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `kust,(z)`
+* ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `ku-st,(z)`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
 * **hier** `hi` : `(hi)AU` `hi.S` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER`
@@ -975,8 +975,8 @@
   * n~~imm~~er `(n.er)` : `(n.er).s.at`
 * in ← inn
 * *in* `IN` : `IN.s`
-  * : ***dar***<i></i>*in* `dar.IN` ~ `dar-i`
   * *in*- `(I)` : `(I)-S.e`
+  * -*in* `i` → dar
   * im `.im`
 * inn `.in`
   * : innen `.in` : `in.um`
@@ -1180,14 +1180,14 @@
     * : **künd**en `kÜ` ! `k.üd` ≠ kürzen
 * **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` ← komm
   * **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
-* kunst `kust` ← könn
+* kunst `ku-st` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G.kYst-elt`
 * kur `k.ur`
   * : pr**o**kurist `(o)k.ur.ist` * `(o)k.ist`
 * **kurr** `ku`
   * *konkurr* `ko-u` : `ko-u.ent` `ko-u.ez` `ko-u.ir`
   * **kur** `ku` : `ku.ir`
-  * **kurs** `kus` : `kus.ir` `kus.iv`
+  * **kurs** `ku-s` : `ku-s.ir` `ku-s.iv`
     * *konkurs* `ko.us`
 * **kurz** `ku` : `ku.um` `ku,i`
   * **kürz** `kÜ` : `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E.kÜ`
@@ -1467,11 +1467,6 @@
   * : museum `m.us.e-um` × `m.us`
   * *musik* `mu.ik` : `mu.ik-er` `mu.ik.aNT` `mu.ik.i` `mu.ik.ät` `mu.ik.i-en`
     * *musiz* `mu.iz` : `mu.iz.ir`
-
-`G.usst`
-`.ir,usst`
-`.ir,ysst`
-
 * ~~m~~üss `(.üss)` STS * `(yss)` `(yss)-t.e` `wr,yss` `.ir,ysst-et`
   * : *du*.~~m~~üsstest `dU,ysst-est` × `dU,ysst`
   * : *wir*.~~m~~üssen `wr,yss` * `wr.Yss`
@@ -1557,7 +1552,7 @@
   * ***nuss*** `.uss` : `G.uss`
     * ***nüss*** `.üss` : `G.üss`
   * → nutz
-* *niveau* `.iw.o` : `kust-iw.o` ← nivell
+* *niveau* `.iw.o` : `ku-st-iw.o` ← nivell
   * *niveau*<i></i>*los* `.iw.o-l.o` ! `.iw.o-l.os`
 * niv~~ell~~ `n.iw` : `n.iw.ir-UNG`
   * → niveau
@@ -1992,7 +1987,7 @@
   * ***schieh*** `.ih`
   * ***schah*** `.ah`
   * ***schäh*** `.äh`
-  * ***schicht*** `.icht` : `G.icht.e` `kust-:icht.e`
+  * ***schicht*** `.icht` : `G.icht.e` `ku-st-:icht.e`
     * welt*ge*<i></i>***schicht***<i></i>e `wet-icht.e` ~ `w.icht.e`
 * **scheid** `.eid` : `b.eid`
   * : *ent*<i></i>**scheid** `eNT.eid` ~ `eNT.ei`
@@ -2402,7 +2397,7 @@
 * stock `st.ok`
 * *stockholm* `st.ho`
 * **stoff** `.of` : `(k).of`
-  * kunst**stoff** `kust-of` * `kus.of` @ t~of
+  * kunst**stoff** `ku-st-of` * `ku-s.of` @ t~of
 * **stolz** `.oz`
 * **straf** `stra` : `stra-e`
 * strahl `str.al` : `str.al.ed` `str.al,u`
@@ -2657,7 +2652,7 @@
   * -el `.el`
 * *ultra* `.utra`
 * um `.um` : `.um,i`
-  * -*um* `-u` → war
+  * -*um* `-u` → dar war
 * un `.un` : `un.at` `un.um` `.un.if-o`
   * un*ion* `.un.iO` * `u-O`
 * *und* `&`
