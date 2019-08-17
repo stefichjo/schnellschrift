@@ -268,7 +268,7 @@
       * : **tra**<i></i>**dit**<i></i>*ion* `tra,di-o` ~ `tr.ad-o`
         * : **tra**<i></i>**dit**<i></i>*ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `b.dau.L` `G.dau` `AU.I.dau` `Z-m.ei-em:b.dau` `Z-U°.b.dau`
-* ~~de~~m `(m) : `.auss.m` `(I)m`
+* ~~de~~m `(m)` : `.auss.m` `(I)m`
   * : *mit*.~~de~~m `M.m` ~ `MM` P
 * **dem** `d.e`
   * : demokrat ← krat
@@ -1486,23 +1486,18 @@
 
 ## [N](#wörterbuch)
 
----
-* <b>*nach*</b> `ach` E
-  * : <b>*nach*</b>***bar*** `ach.bar` E × `(bar)`
-  * : *da*<b>*nach*</b> `.a-ach` ! `(da)ach`
-  * : **hier**<b>*nach*</b> `hi:ach`
-  * <b>*näch*</b>st `echst` E
-    * : de<b>*m*</b><b>*näch*</b>st `(m):echst`
-    * : *zu*<b>*näch*</b>st `Z-echst` ~ `Z.n` E
-    * näch<b>*st*</b> `(-st)`
-      * : de<b>*m*</b>näch<b>*st*</b> `(m)(-st)`
----
-
+* *nach* `ach` : `hi:ach` ← nah
+  * : *da*<i></i>*nach* `.a-ach` ! `(da)ach`
+  * ~~nach~~*bar* `(bar)`
+* ~~näch~~st `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
+  * : *zu*~~näch~~st `(Z)(-st)` ~ `-Z.n`
 * ***nacht*** `acht`
 * nah `n.ah` : `G.n.a-t`
+  * → nach
   * näh `n.äh` : `G.n.ä-t` `n.äh.er-er`
     * : näher `n.äh.er` × `n.äh` : `G.n.äh` `n.äh.es`
       * : *annäher* `.an,(er)` : `.an,(er).d`
+    * → nächst
 
 ---
 * nahr `n.ar`
