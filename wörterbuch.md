@@ -1435,13 +1435,8 @@
   * *miss* `ms` : `ms-o` `.e-ms-o`
     * : *kom*<i></i>*miss*ar `ko-ms.ar` * `ko-i.ar`
     * : *kom*<i></i>*miss*<i></i>*ion* `ko-ms-o` * `ko-i.iO` × `ko-i` : `(.om).ko`
-
----
-    * : *kom*pr**o***miss* `kom.o-ms` : `kom`
-      * ~ *kompromiss* `k.om-p.iss` BSA
+    * : *kom*pr**o***miss* `ko,(o)ms` ~ `ko-ms` × `ko-m`
     * : *trans*<i></i>*miss*<i></i>*ion* `tra.ms-o` × `tra.ms`
----
-
 * mob `m.ob` : `m.ob.il` `m.ob.ar` `m.ob.ir` mobilität `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
 * mocht ← mög
