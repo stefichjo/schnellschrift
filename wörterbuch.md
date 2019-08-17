@@ -1422,19 +1422,11 @@
 * mir `m.ir`
   * .***mir*** `.ir` : `(I)-bi.ir,u`
 * *miss*- `ms`
-* mit ← mitt
-
----
-* *mit* `M` : `M,i`
+* *mit* `M` : `M,i` `hi:M`
   * : *da*<i></i>*mit* `.a-M` ~ `a-M`
-  * : **hier***mit* `hi:M`
-  * : *mitt* `M` V
-    * *mittel* `-t-el` : `G.uss-t-el` `hi-t-el`
-      * : *er*<i></i>*mittel* `er-t-el`
-      * : nahr*ung*s*mittel* `n.ar-UNG,-t-el`
+  * : *mitt* `M` : `M.e`
+    * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.ar-UNG,-t-el`
       * : *un*<i></i>*mittel*<i></i>***bar*** `UN-t-el.bar` × `UN-bar`
----
-
 * *mitt* `M`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
   * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
@@ -2075,7 +2067,7 @@
 * **schreib** `.eib`
   * **schrieb** `.ib`
   * **schrift** `.ift`
-    * -schr**i**ft `i` : → ab hand kurz schnell unter zu
+    * -schr**i**ft `i` : → ab hand kurz mit schnell unter zu
 * **schreit** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O.-ts.T` `-t-Ü.T`
   * ! `schr.T` : `schr.T-ed`
   * : ein**schreit**en `N.T` ~ `N,(T)`
