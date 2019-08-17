@@ -1450,14 +1450,11 @@
 * mo ← mov
 * ~~mom~~ent `(met)` : `tr.eg.H,(met)`
 * ~~mon~~at `(.at)` : `(.at).L` `.im (g).at` `(I)n let (.at).en` `(I)n (-st) (.at).en`
-
----
-* mono- `m.on` ! `m.on.o` E
-* **mo**nstr `mo`
-  * : de**mo**nstrat*ion* `d.e-mo.iO` ~ `d.e-mo-o`
-  * : de**mo**nstrier `d.e-mo.ir`
----
-
+* mono- `m.on.o`
+* **monstr** `mo` : `d.e-mo-o` `d.e-mo.ir`
+  * : **monstr**um `mo.um` ! `mo-s.um`
+  * : **monstr**osität `mo.ät` ! `mo-s.ät`
+  * ! monster `mo-st-er`
 * mont `m.ot` `mot` : `m.ot.asch.e` `m.ot.ir` `m.ot.ör`
 * **morg** `mo` : `mo-Ü`
   * ! morgen `m.og`
@@ -1470,9 +1467,11 @@
   * : museum `m.us.e-um` × `m.us`
   * *musik* `mu.ik` : `mu.ik-er` `mu.ik.aNT` `mu.ik.i` `mu.ik.ät` `mu.ik.i-en`
     * *musiz* `mu.iz` : `mu.iz.ir`
+
 `G.usst`
 `.ir,usst`
 `.ir,ysst`
+
 * ~~m~~üss `(.üss)` STS * `(yss)` `(yss)-t.e` `wr,yss` `.ir,ysst-et`
   * : *du*.~~m~~üsstest `dU,ysst-est` × `dU,ysst`
   * : *wir*.~~m~~üssen `wr,yss` * `wr.Yss`
@@ -1730,7 +1729,6 @@
 
 * pol `p.ol`
   * : metropole `m.etr.p.ol.e` * `m.etr.ol.e`
-  * : monopol `m.on.p.ol` * `m.o-p.ol`
 * ~~pol~~**it** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
   * : ~~pol~~**it**isieren `it.ir` ! `it.is.ir`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `FT.tik`
