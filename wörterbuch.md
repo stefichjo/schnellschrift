@@ -634,8 +634,7 @@
 * **frucht** `fru` : `fru.bar`
   * **frücht** `frÜ`
     * -*frücht* `-Ü` → süd
-* **früh** `frÜ` : `frÜ.er-er` `frÜ.est.es` `frÜ.est-s` `frÜ.ing`
-  * : **früh**er `frÜ.er`
+* **früh** `frÜ` : `frÜ.er` `frÜ.er-er` `frÜ.est.es` `frÜ.est-s` `frÜ.ing`
   * -*früh* `-Ü` → heut morg schon
 * *fug* `-u` : `b-u.is`
   * ! `f.ug`
@@ -1443,7 +1442,7 @@
   * : **hier***mit* `hi:M`
   * : *mitt* `M` V
     * *mittel* `-t-el` : `G.uss-t-el` `hi-t-el`
-      * : <b>*er*</b><i></i>*mittel* `er-t-el`
+      * : *er*<i></i>*mittel* `er-t-el`
       * : nahr*ung*s*mittel* `n.ar-UNG,-t-el`
       * : *un*<i></i>*mittel*<i></i>***bar*** `UN-t-el.bar` × `UN-bar`
 ---
@@ -1530,9 +1529,9 @@
 * nahr `n.ar`
   * : nahr**haft** `n.ar.ha`
   * : nahr*ung* `n.ar-UNG` ~ `ar-UNG`
-  * : <b>*er*</b>nähr `er.n.är` ~ `er.ä`
-  * : <b>*er*</b>nährer `er.n.är-er` ~ `er.är-er`
-  * : <b>*er*</b>nähr*ung* `er.n.är-UNG`
+  * : *er*nähr `er.n.är` ~ `er.ä`
+  * : *er*nährer `er.n.är-er` ~ `er.är-er`
+  * : *er*nähr*ung* `er.n.är-UNG`
 ---
 
 * ~~nam~~ : `(.e)` `(-t-L)` `ach,(.e)`
@@ -1563,14 +1562,13 @@
   * ~~n~~omm `(.om)` : `.an.om` `AU.om` `Ü.om` `E.om` `O.om` `IN.auf.om`
     * *vor*ein*ge*~~nommen~~ `O.N.G`
     * *un*<i></i>*vor*ein~~genommen~~ `UN-O.N`
+* nenn `n.en` : `b.n.en`
+  * : *er*nenn `er.n.en` ~ `er.n`
+  * nann `n.an`
+    * : **be**nannt `b.n.ant` * `b.na-t`
+    * : *er*nannt `er.n.ant` * `er.na-t`
 
 ---
-* nenn `n.en`
-  * : **be**<i></i>nenn `b.n.en`
-  * : <b>*er*</b>nenn `er.n.en` ~ `er.n`
-  * nann `n.an`
-    * : **be**<i></i>nannt `b.n.ant` ~ `b.ant`
-    * : <b>*er*</b>nannt `er.n.ant` ~ `er.ant`
 * **neu** `neu`
 * neutr `n.eutr` : `n.eutr.ir`
   * : neutral `n.eutr.al` × `n.eutr`
@@ -2251,7 +2249,7 @@
     * ! `s.az`
     * : **satz***ung* `.az*`
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
-    * : <b>*er*</b><i></i>**satz** `er-sa`
+    * : *er*<i></i>**satz** `er-sa`
     * : **grund**<i></i>**sätz***lich* `gru.s.L`
 * semi<b>*nar*</b> `(n.ar)`
 * setz ← sitz
@@ -2675,7 +2673,7 @@
   * : *übr*<i></i>*ig* `Ü.i` ! `Ü.ig` E
   * -*über*- `-Ü` E
     * : ***dar***<i></i>*über* `dar-Ü` E
-    * : <b>*er*</b><i></i>*übr*<i></i>*ig* `er-Ü.i` ! `er-Ü.ig` E
+    * : *er*<i></i>*übr*<i></i>*ig* `er-Ü.i` ! `er-Ü.ig` E
     * : **h*<b>*er*</b>über* `h-Ü` E
     * : <b>*hie*</b>*r*<i></i>*über* `hi-Ü` E
     * : *vor*<i></i>*über* `O-Ü` E
