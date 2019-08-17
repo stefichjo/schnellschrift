@@ -1610,7 +1610,7 @@
   * : *eigen***nütz**<i></i>*ig* `.eig-Ü.i`
   * : *ge*<i></i>***mein***<i></i>**nütz***ig* `G.N-Ü.i`
 
-## O
+## [O](#wörterbuch)
 
 * oben `.ob`
   * ober `.ob-er`
@@ -1650,7 +1650,7 @@
 * ost `ost` : `w.ost`
 * *österreich* `.ö`
 
-## P
+## [P](#wörterbuch)
 
 ---
 * **pack** ! `p.ak`
@@ -1823,7 +1823,7 @@
   * : *dis*put `(ds)p.ut` ! `d.i+sp.ut`
   * → kont
 
-## Q
+## [Q](#wörterbuch)
 
 * qual `qu.al` : `qu.al.ät`
   * qual*ifiz*ier `qu.al.if.ir` × `qu.al.ir`
@@ -1832,7 +1832,7 @@
 * **quell** `qu`
   * **quoll** `quo`
 
-## R
+## [R](#wörterbuch)
 
 * rad `r.ad`
   * : **fa**~~hr~~rad `fa.r.ad` ~ `fa.ad`
@@ -1957,6 +1957,9 @@
   * *rott* `-r.ot` : `b.ak-r.ot`
 * **rund** `ru`
 * *russ* `russ`
+
+## [S](#wörterbuch)
+
 * ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G.schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(.e)` `ta,(en)` `.ur,(.e)`
   * ~ **sach** `sa` : `sa.G` `E.ur-Sa`
   * säch `s.ech` : `s.ech.L`
@@ -2480,7 +2483,7 @@
 * ~~sym~~bol `(b.ol)` : `(b.ol).ir`
 * ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
 
-## T
+## [T](#wörterbuch)
 
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
   * tab~~ell~~e `t.ab.e` × `t.ab`
@@ -2654,7 +2657,7 @@
     * : **tät**er `t-er` ! `t.et-er`
 * turt `tut` STS : `tut-el` STS
 
-## U
+## [U](#wörterbuch)
 
 * üb `.üb` : `.üb.L`
 
@@ -2693,7 +2696,7 @@
 * ur- `.ur`
 * -ut- ← -at-
 
-## V
+## [V](#wörterbuch)
 
 * ~~val~~id `(.id)` `IN.id.e` `IN.id.ät`
 
@@ -2775,7 +2778,7 @@
   * : ***nach***.~~wie~~.*vor* `ach.O` ~ `ach-o`
   * : ~~vori~~g `(g)`
 
-## W
+## [W](#wörterbuch)
 
 * waag ← wieg
 * waag `w.ag` : `w.ag.e`
@@ -2984,11 +2987,11 @@
   * **wünsch** `wÜ`
 * würd `w.üd` : `w.üd.e` `w.üd.i`
 
-## X
+## [X](#wörterbuch)
 
-## Y
+## [Y](#wörterbuch)
 
-## Z
+## [Z](#wörterbuch)
 
 * **za**~~hl~~ `za` : `za*` `ra.za*` `(b.ei)tra.za*`
   * **zä**~~hl~~ `zä` STS
