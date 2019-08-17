@@ -978,7 +978,7 @@
   * *in*- `(I)` : `(I)-S.e`
   * im `.im`
 * inn `.in`
-  * : innen `.in`
+  * : innen `.in` : `in.um`
   * : *inner* `.i` : `.i-ha` `.i-L` `er.i` `er.i-t.e` `er.i-L` `.im.i`
 * -in-
   * -*inal* `.i-aL`
@@ -1415,7 +1415,7 @@
 
 * *minist* `mi`
   * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → kult
-  * -*ministerium* `.um` → finanz
+  * -*ministerium* `.um` → finanz in
 
   * : *minist<b>*er*</b>ial* `mi-er.iaL` > `mi.iaL` E
   * : *minist*erien `mi-er.I.en` ! `mi.er.I.en` E
@@ -2814,7 +2814,7 @@
 * walt `wat` : `G-wat` `E-wat`
   * *anwalt* `.an-t`
     * : *recht*s*anwalt* `R.an-t` × `R.an`
-  * ~~verwalt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `(.es).UNG` `sta.UNG`
+  * ~~verwalt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al.UNG` `(.es).UNG` `sta.UNG`
   * wält `wet` : `b.wet-ig` `Ü.wet-ig.ed`
 * wand `w.ad`
 * wand ← wind
@@ -2987,8 +2987,8 @@
   * : *ge*<i></i>**wöhn**<i></i>*lich* `G-wö.L` ~ `G-ö-L`
 * *woll* `(.ol)`
   * *will* `(l)`
-* wort `wot` : `(E)aNT` `(E)aNT,u-N`
-  * : *ant*wort `aNT.wot` × `aNT`
+* wort `wot`
+  * *antwort* `aNT` : `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
 * **wunsch** `wu`

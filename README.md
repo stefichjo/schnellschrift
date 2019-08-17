@@ -8,6 +8,7 @@
 * mater, toler
 * -st wird eigentlich immer zu -t
 * ***stud***<i></i>ium `.ud.um`
+* vielleicht, erfolgreich
 
 ## Kurzschreibung
 
