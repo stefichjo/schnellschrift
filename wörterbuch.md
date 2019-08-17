@@ -1321,7 +1321,7 @@
 
 ## [M](#wörterbuch)
 
-* **mach** `ma`
+* **mach** `ma` : `b.ka-t-ma`
   * : **schritt**<i></i>**mach**er `.it.ma-er` × `.it,(er)`
   * *macht* `aCHT` :  `aCHT-o`
     * *mächt* `eCHT` : `wet,eCHT.e`
@@ -2172,6 +2172,7 @@
   * : *die*<i></i>*selb*en `I.l.en` E
   * : ~~de~~r*selb*e `(r).l.e` E
 * selt `set` : `set-en` `set-Sa`
+  * : selten*heit* `set-H` * `s.H`
 * *senat* `s.at`
 * **send** `s`
   * : ab**send**er `.ab-s-er`
