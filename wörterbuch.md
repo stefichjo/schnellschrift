@@ -1861,6 +1861,7 @@
   * : **rat**<i></i>*sam* `ra-Sa` ! `ra-s.am`
   * : *er*<i></i>**rat**en `er-ra` ! `er-r.at`
   * : *da*<i></i>*von*.ab**rat**en `.a-v.ab.ra` ~ `a-v.ab.ra`
+  * : *mit*.**rat**.~~und~~.**tat** `M.ra.ta`
   * *berat* `Ra`
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät`
     * ~~land~~es*ver*<i></i>*rät*er `(.es),E.ät-er` × `(.es).ät-er`
@@ -2814,7 +2815,7 @@
 * walt `wat` : `G-wat` `E-wat`
   * *anwalt* `.an-t`
     * : *recht*s*anwalt* `R.an-t` × `R.an`
-  * ~~verwalt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al.UNG` `(.es).UNG` `sta.UNG`
+  * ~~verwalt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG`
   * wält `wet` : `b.wet-ig` `Ü.wet-ig.ed`
 * wand `w.ad`
 * wand ← wind
