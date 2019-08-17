@@ -2797,7 +2797,7 @@
   * *wächs* `wes`
   * *wuchs* `wus`
     * *wüchs* `wüs`
-  * *wechsel* `S.el` : `.ab.S.el` `.S.S.el` `.um.S.el` `E.S.el`
+  * *wechsel* `S.el` : `.ab.S.el` `.S.S.el` `.um.S.el` `.ift.S.el` `E.S.el`
     * : *wechsel* `S.el` ~ `wes.el`
 
 ---
