@@ -533,7 +533,7 @@
     * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
     * -*ministerkonferenz* `ko` → aus kult
   * → lat
-* *ferien* `f.I.en` : `s.om.f.I.en`
+* *ferien* `f.I.en` : `(.est-er),f.I.en` `s.om.f.I.en`
 * ***fer***<i></i>~~n~~ `fer` : `v.n.ah.fer`
   * ! `f.en` : `f.en.er` `eNT.f.en` `IN,(o)f.en` `IN.w.i-f.en` `I eNT.f.en.en` `eNT.f.ent`
 * *fert* `-t` : `-t-ig` `-t-ig.T` `.an-t-ig` `.S-t-ig` `UN-t-ig`
@@ -849,7 +849,7 @@
   * *handel* `ha` : `bu.ha` `gr.ha` `N.ha` `ms.ha` `wet-ha` `.e ha.um`
     * : *handel*t.*sich*.um, *handel*t.~~es~~.*sich*.um `ha.CH.um` × `ha.um`
     * ! **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `.ei-ha.el`
-  * *handlung* `ha*` : `bu:ha*`
+  * *handlung* `ha*` : `bu:ha*` `E.ha*`
     * : *ver*<i></i>**trag**s*ver*<i></i>*handlung*en `(E)tra.ha*.en`
     * **händel** `h.e` : `h-er` `gr.h-er` `vi:h-er`
 * harm `h.am` : `h.am.os`
@@ -2011,6 +2011,11 @@
   * : ~~de~~r*selb*e `(r).l.e` E
 * selt `set` : `set-en` `set-Sa`
   * : *seltenheit* `s.H`
+---
+
+* ~~sem~~ester `(.est-er)`
+
+---
 * *senat* `s.at`
 * **send** `s`
   * : ab**send**er `.ab-s-er`
