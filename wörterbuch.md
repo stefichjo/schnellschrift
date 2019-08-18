@@ -1606,12 +1606,10 @@
 
 ## [P](#wörterbuch)
 
----
-* **pack** ! `p.ak`
-  * **päck**chen `p.ch.en`
-  * *ver***pack**t `(E)pa-t` ~ `(E)pa`
----
-
+* pack `p.ak`
+  * *ver*packt `(E)p.akt` * `(E)pa`
+  * *päck* `p` : `p.ch.en`
+    * *ge*<i></i>*päck* `G.p` ! `G.p.ek`
 * *pakt* `pat`
   * -*pakt** `pa`
 * pand `p.ad`
@@ -1666,8 +1664,8 @@
 ---
 
 * **per**- `p`
-  * : **per**iode `p.od.e`
-    * -*periode* `.od.e` → gang
+* *peri*- `p` : `p.od.e` `p.od.ät`
+  * -*periode* `.od.e` → gang
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
 
 ---
@@ -2419,8 +2417,7 @@
   * : *in*str**u**ment `IN,u-met` ~ `IN.u-met`
   * str**u**kt `u` : `ko,u-O` `IN,u-O` `IN.fra,u-ur`
     * : str**u**~~kt~~ur `u-ur` ~ `str.uk` ≠ kultur
-* ***stück*** `.ük`
-  * **früh**<i></i>***stück*** `frÜ.ük`
+* *stück* `Ük` STS : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
 * ***stud*** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um`
 * ***stuf*** `.uf` : `.uf.e`
 * stund ← steh
