@@ -1917,6 +1917,9 @@
 
 ## [S](#wörterbuch)
 
+| [SCH](#sch) | [SP](#sp) | [ST](#st) |
+|:-:|:-:|:-:|
+
 * ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G.schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(.e)` `ta,(en)` `.ur,(.e)`
   * ~ **sach** `sa` : `sa.G` `E.ur-Sa`
   * säch `s.ech` : `s.ech.L`
@@ -1946,121 +1949,6 @@
   * *sämt* `s` : `s.L`
 * samt `s.amt`
 * saß ← sitz
-* ***schad*** `.ad` : `Z-ad.ko`
-  * ***schäd*** `.äd`
-    * **sach**<i></i>**be**~~schädigung~~ `sa.b`
-* **schaff** `scha`
-  * : *die* **schaff***ung* `I scha*` ~ `I scha`
-* schaft `sch.aft`
-  * -*schaft* `FT`
-  * *beschäftig* `b-t-ig` : `b-t-igt.e` `b-t-igt-en` `b-t-ig.l.os` `I n.eb.b-t-ig`
-  * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en` `GT,eu`
-* schall `sch.all`
-  * : *ultra*schall `.utra:sch.all` * `.utra:scha`
-* schalt `schat`
-* schatt `sch.at`
-* scha~~tz~~ `sch.a` : `scha,(er)` `scha.S.el`
-  * ! `sch.atz`
-  * schä~~tz~~ `sch.e` : `G.sch` `.ab.sch` `ho.sch`
-    * ! `sch.ez` : `sch.ez.e` `sch.ez.ch.en` `sch.ez*`
-* **schau** `.au` : `G.au`
-* ***scheh*** `.eh`
-  * ***schieh*** `.ih`
-  * ***schah*** `.ah`
-  * ***schäh*** `.äh`
-  * ***schicht*** `.icht` : `G.icht.e` `ku-st-:icht.e`
-    * welt*ge*<i></i>***schicht***<i></i>e `wet-icht.e` ~ `w.icht.e`
-* **scheid** `.eid` : `b.eid`
-  * : *ent*<i></i>**scheid** `eNT.eid` ~ `eNT.ei`
-  * **schied** `.id` : `.ab.id` `b.id` `eNT.id` `E.id`
-    * ! `sch.id`
-    * : ~~m~~ein*ung*s*ver***schied**en*heit* `(N),E.id.H` ⋄ `m.ei-H`
-    * : *unter*<i></i>**schied** `UNTER.id` * `UNTER-i`
-    * : *ver*ab**schied** `E.ab.id` × `E.ab`
-    * : *mit*.*all*er.*ent***schied**en*heit* `M.al.eNT.id.H` × `M.al.eNT`
-* ~~sch~~ein `(N)` : `(N).bar` `.an.N.ed` `b.N.i` `wa.N.L`
-  * *er*~~sch~~ein `er.N` ~ `er.(N)`
-  * *führ*er~~sch~~ein `Ür-er.N` ⇒ `.ür-er.N` ! `f.ür-er.N`
-  * **höch**st**wa**hr~~sch~~ein*lich* `hö-t-wa.N.L` ~ `hö-st-N.L`
-  * ~~sch~~ien `(.in)` : `er.in`
-    * *ge*~~sch~~ien : `G.in` ~ `(G)(.in)`
-    * (schien) `sch.in`
-* schicht ← scheh
-* **schick** `.ik`
-* ***schieß*** `.iss` : `.iss.ei`
-  * ***schoss*** `.oss` : `G.oss` `.ab.oss` `er.oss` `Z-oss`
-    * ***schöss*** `.öss` : `.öss.ing`
-  * ***schuss*** `.uss` : `.S.fu-Ü.uss` `Ü-uss` `Z-uss` `(r)-Ü.uss` `N-Ü.uss` `(K)-Ü.uss`
-    * ~~aussch~~uss `(.uss)` : `fi.uss` `hau.uss`
-      * ! *aus*<i></i>***schuss*** `.S.uss`
-    * ***schüss*** `.üss` : `.üss.e` `.üss.el` `.S.üss.e` `Ü-üss.e` `Z-üss.e`
-* **schiff** `.if`
-* ~~schilli~~ng `(ng)`
-* schirm `sch.im`
-* schlacht ← schlag
-* schlaf `schl.af`
-* ***schlag*** `.ag` : `.ag-er` `.ag-o` `G.ag` `.an.ag` `AU.ag` `ra.ag` `E.an.ag`
-  * ***schläg*** `.äg` : `.äg.e` `.äg-er` `O.äg.e`
-  * ***schlug*** `.ug`
-  * **schlacht** `schla` : `schla.ih`
-    * **schlächt** `schl` : `schl.er`
-* **schlecht** `schl`
-* **schließ** `.iss`
-  * **schloss** `.oss`
-  * **schluss** `.uss` : `ra.uss` `tr.ug.uss`
-  * **schlüss** `.üss`
-* **schmack** : `schma` : `schma.ha` `G.schma` `G.schma.os.T`
-  * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
-* schmeck ← schmack
-* **schmerz** `schm` : `schm.ha`
-* **schnell** `schn` : `schn,i`
-* ~~schn~~eid `(.eid)` : `(.eid)-er`
-  * ! `schn.eid`
-  * ~~schn~~itt `(.it)` : `.ab.it`
-    * ! `schn.it`
-* sch~~on~~ `sch` : `sch-Ü-er`
-* **schön** `schö`
-  * : **schön***heit* `schö.H` * `ö-H`
-* ***schöpf*** `.öpf`
-* **schrank** `schra` : `kÜ-schra`
-  * **schränk** `schr`
-* **schreck** `schr`
-  * **schrick** `.ik`
-  * **schrak** `schra`
-  * **schrock** `schro`
-* schrei `schr.ei`
-  * schrie `schr.i`
-* **schreib** `.eib`
-  * **schrieb** `.ib`
-  * **schrift** `.ift`
-    * -schr**i**ft `i` : → ab hand kurz mit schnell unter zu
-* **schreit** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
-  * ! `schr.T` : `schr.T-ed`
-  * : ein**schreit**en `N.T` ~ `N,(T)`
-  * **schritt** `.it` : `rÜ.it` `rÜ.it.L`
-    * ! `schr.it` : `G.schr.it`
-	  * : *fort*<i></i>**schritt** `fr.it` ~ `fr-i`
-* schrift ← schreib
-* **schul** `.ul` : `.ul.e`
-  * : **fahr**<i></i>**schul**e `fa.ul.e` ! `fa.sch.ul.e`
-  * : **hoch**<i></i>**schul**e `ho.ul.e` * `ho-u.e` × `ho-u`
-    * : **hoch**<i></i>**schul**<i></i>*reform* `ho.ul.om` * `ho-u.om`
-  * **schül** `.ül` : `.ül-er`
-    * -**schüler** `-Ü.er` : `ho-Ü.er`
-* **schutz** `.uz`
-  * -sch**u**tz `u` : → strahl welt
-  * **schütz** `.üz` ~ `schÜ`
-* schwed `schw.ed` : `schw.ed.i`
-  * : schwede `schw.ed.e` * `schw.e`
-  * : schweden `schw.ed` × `schw`
-* **schwer** `schw`
-  * **schwier** `.ir` : `.ir.i`
-* schwier ← schwer
-* schwind `schw.id`
-  * schwand `schw.ad`
-  * schwund `schw.ud`
-  * schwend `schw.ed`
-    * : *ver*schwend `E.schw.ed` ~ `E.schw`
 * seel `s.el` : `s.el.e`
   * : seel*isch* `s.el.i` ! `s.el.isch`
 * seh `s.eh`
@@ -2260,6 +2148,145 @@
 
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
+* **sub** `su:`
+* **such** `su` : `b-su` `E-su`
+  * : *unter***such** `UNTER,su` * `UNTER-u` : `O.S.o=UNTER-u`
+* sucht ← siech
+* süd `s.üd` : `s.üd-Ü.e`
+* **sul** `su` : `ko-su`
+  * sult `sut` : `ko-sut-ir` `ko-sut-iO`
+    * : *re*sult `r-sut`
+      * *result* `r-su` : `r-su.ir` `r-su.at`
+* **sum** `su` : `ko-su` `ko-su.eNT` `ko-su.ir`
+* **summ** `su`
+* *sund* `.und` : `G.und`
+  * : *ge*<i></i>*sund*<i></i>*heit* `G.und.H` ~ `u-H`
+* super `s.upr`
+* sym `s.ym`
+  * : symmetrie `s.ym-m.etr.I` × `s.ym.I`
+* ~~sym~~bol `(b.ol)` : `(b.ol).ir`
+* ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
+
+### [SCH](#wörterbuch)
+
+* ***schad*** `.ad` : `Z-ad.ko`
+  * ***schäd*** `.äd`
+    * **sach**<i></i>**be**~~schädigung~~ `sa.b`
+* **schaff** `scha`
+  * : *die* **schaff***ung* `I scha*` ~ `I scha`
+* schaft `sch.aft`
+  * -*schaft* `FT`
+  * *beschäftig* `b-t-ig` : `b-t-igt.e` `b-t-igt-en` `b-t-ig.l.os` `I n.eb.b-t-ig`
+  * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en` `GT,eu`
+* schall `sch.all`
+  * : *ultra*schall `.utra:sch.all` * `.utra:scha`
+* schalt `schat`
+* schatt `sch.at`
+* scha~~tz~~ `sch.a` : `scha,(er)` `scha.S.el`
+  * ! `sch.atz`
+  * schä~~tz~~ `sch.e` : `G.sch` `.ab.sch` `ho.sch`
+    * ! `sch.ez` : `sch.ez.e` `sch.ez.ch.en` `sch.ez*`
+* **schau** `.au` : `G.au`
+* ***scheh*** `.eh`
+  * ***schieh*** `.ih`
+  * ***schah*** `.ah`
+  * ***schäh*** `.äh`
+  * ***schicht*** `.icht` : `G.icht.e` `ku-st-:icht.e`
+    * welt*ge*<i></i>***schicht***<i></i>e `wet-icht.e` ~ `w.icht.e`
+* **scheid** `.eid` : `b.eid`
+  * : *ent*<i></i>**scheid** `eNT.eid` ~ `eNT.ei`
+  * **schied** `.id` : `.ab.id` `b.id` `eNT.id` `E.id`
+    * ! `sch.id`
+    * : ~~m~~ein*ung*s*ver***schied**en*heit* `(N),E.id.H` ⋄ `m.ei-H`
+    * : *unter*<i></i>**schied** `UNTER.id` * `UNTER-i`
+    * : *ver*ab**schied** `E.ab.id` × `E.ab`
+    * : *mit*.*all*er.*ent***schied**en*heit* `M.al.eNT.id.H` × `M.al.eNT`
+* ~~sch~~ein `(N)` : `(N).bar` `.an.N.ed` `b.N.i` `wa.N.L`
+  * *er*~~sch~~ein `er.N` ~ `er.(N)`
+  * *führ*er~~sch~~ein `Ür-er.N` ⇒ `.ür-er.N` ! `f.ür-er.N`
+  * **höch**st**wa**hr~~sch~~ein*lich* `hö-t-wa.N.L` ~ `hö-st-N.L`
+  * ~~sch~~ien `(.in)` : `er.in`
+    * *ge*~~sch~~ien : `G.in` ~ `(G)(.in)`
+    * (schien) `sch.in`
+* schicht ← scheh
+* **schick** `.ik`
+* ***schieß*** `.iss` : `.iss.ei`
+  * ***schoss*** `.oss` : `G.oss` `.ab.oss` `er.oss` `Z-oss`
+    * ***schöss*** `.öss` : `.öss.ing`
+  * ***schuss*** `.uss` : `.S.fu-Ü.uss` `Ü-uss` `Z-uss` `(r)-Ü.uss` `N-Ü.uss` `(K)-Ü.uss`
+    * ~~aussch~~uss `(.uss)` : `fi.uss` `hau.uss`
+      * ! *aus*<i></i>***schuss*** `.S.uss`
+    * ***schüss*** `.üss` : `.üss.e` `.üss.el` `.S.üss.e` `Ü-üss.e` `Z-üss.e`
+* **schiff** `.if`
+* ~~schilli~~ng `(ng)`
+* schirm `sch.im`
+* schlacht ← schlag
+* schlaf `schl.af`
+* ***schlag*** `.ag` : `.ag-er` `.ag-o` `G.ag` `.an.ag` `AU.ag` `ra.ag` `E.an.ag`
+  * ***schläg*** `.äg` : `.äg.e` `.äg-er` `O.äg.e`
+  * ***schlug*** `.ug`
+  * **schlacht** `schla` : `schla.ih`
+    * **schlächt** `schl` : `schl.er`
+* **schlecht** `schl`
+* **schließ** `.iss`
+  * **schloss** `.oss`
+  * **schluss** `.uss` : `ra.uss` `tr.ug.uss`
+  * **schlüss** `.üss`
+* **schmack** : `schma` : `schma.ha` `G.schma` `G.schma.os.T`
+  * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
+* schmeck ← schmack
+* **schmerz** `schm` : `schm.ha`
+* **schnell** `schn` : `schn,i`
+* ~~schn~~eid `(.eid)` : `(.eid)-er`
+  * ! `schn.eid`
+  * ~~schn~~itt `(.it)` : `.ab.it`
+    * ! `schn.it`
+* sch~~on~~ `sch` : `sch-Ü-er`
+* **schön** `schö`
+  * : **schön***heit* `schö.H` * `ö-H`
+* ***schöpf*** `.öpf`
+* **schrank** `schra` : `kÜ-schra`
+  * **schränk** `schr`
+* **schreck** `schr`
+  * **schrick** `.ik`
+  * **schrak** `schra`
+  * **schrock** `schro`
+* schrei `schr.ei`
+  * schrie `schr.i`
+* **schreib** `.eib`
+  * **schrieb** `.ib`
+  * **schrift** `.ift`
+    * -schr**i**ft `i` : → ab hand kurz mit schnell unter zu
+* **schreit** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
+  * ! `schr.T` : `schr.T-ed`
+  * : ein**schreit**en `N.T` ~ `N,(T)`
+  * **schritt** `.it` : `rÜ.it` `rÜ.it.L`
+    * ! `schr.it` : `G.schr.it`
+	  * : *fort*<i></i>**schritt** `fr.it` ~ `fr-i`
+* schrift ← schreib
+* **schul** `.ul` : `.ul.e`
+  * : **fahr**<i></i>**schul**e `fa.ul.e` ! `fa.sch.ul.e`
+  * : **hoch**<i></i>**schul**e `ho.ul.e` * `ho-u.e` × `ho-u`
+    * : **hoch**<i></i>**schul**<i></i>*reform* `ho.ul.om` * `ho-u.om`
+  * **schül** `.ül` : `.ül-er`
+    * -**schüler** `-Ü.er` : `ho-Ü.er`
+* **schutz** `.uz`
+  * -sch**u**tz `u` : → strahl welt
+  * **schütz** `.üz` ~ `schÜ`
+* schwed `schw.ed` : `schw.ed.i`
+  * : schwede `schw.ed.e` * `schw.e`
+  * : schweden `schw.ed` × `schw`
+* **schwer** `schw`
+  * **schwier** `.ir` : `.ir.i`
+* schwier ← schwer
+* schwind `schw.id`
+  * schwand `schw.ad`
+  * schwund `schw.ud`
+  * schwend `schw.ed`
+    * : *ver*schwend `E.schw.ed` ~ `E.schw`
+
+### [SP](#wörterbuch)
+
 * spalt `spat`
   * spält `spet` : `zw.i-spet-ig`
 * **spann** `spa`
@@ -2299,6 +2326,9 @@
     * ~~spr~~üng `(.üng)` STS
 	  * : *ur*~~spr~~üng*lich* `.ur.üng.L` * `.ur-Ü.L`
 * spür `sp.ür`
+
+### [ST](#wörterbuch)
+
 * st `st` : `ko.st.aNT` `ko.st.az` `IN.st.az`
   * ***stat***, ***staat*** `.at` : `.at.ist` `.at.ko`
     * : ***stat***<i></i>ik `.at.ik` ! `st.at.ik`
@@ -2421,24 +2451,6 @@
 * **stütz** `stÜ` : `stÜ.UNG` `G.stÜ` `.ab.stÜ`
   * : *unter***stütz**en `UNTER.stÜ` * `UNTER-Ü` : `UNTER-Ü-t.e`
     * : ~~arbeits~~*los*en*unter*<i></i>**stütz**<i></i>*ung* `(l.os),UNTER.stÜ-UNG` * `(l.os),UNTER-Ü.UNG` × `(.los)-Ü.UNG`
-* **sub** `su:`
-* **such** `su` : `b-su` `E-su`
-  * : *unter***such** `UNTER,su` * `UNTER-u` : `O.S.o=UNTER-u`
-* sucht ← siech
-* süd `s.üd` : `s.üd-Ü.e`
-* **sul** `su` : `ko-su`
-  * sult `sut` : `ko-sut-ir` `ko-sut-iO`
-    * : *re*sult `r-sut`
-      * *result* `r-su` : `r-su.ir` `r-su.at`
-* **sum** `su` : `ko-su` `ko-su.eNT` `ko-su.ir`
-* **summ** `su`
-* *sund* `.und` : `G.und`
-  * : *ge*<i></i>*sund*<i></i>*heit* `G.und.H` ~ `u-H`
-* super `s.upr`
-* sym `s.ym`
-  * : symmetrie `s.ym-m.etr.I` × `s.ym.I`
-* ~~sym~~bol `(b.ol)` : `(b.ol).ir`
-* ~~syst~~em `(.em)` : `(.em).ik` `(.em).i` `(.em).ir`
 
 ## [T](#wörterbuch)
 
