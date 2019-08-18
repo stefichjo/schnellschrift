@@ -614,7 +614,7 @@
 * **fracht** `fra` : `fra.ko`
 * **frag** `fra` : `fra-e` `fra.ed` `fra.L` `fra.l.os` `G.fra` `.an.fra` `ach.fra` `rÜ.fra` `I b.fra-t-en` `sI fra` `sI fra-t.e` `sI fra.t-en`
 * *frankfurt* `fra.fu`
-  * : *frankfurt*er `fra.fu-er` ~ `fra.fut-er`
+  * : *frankfurt*er `fra.fu-er` ~ `fra.fut-er`, `fra.fru`
   * *frankfurt.am.main* `fra,u-N`
   * *frankfurt.an.der.oder* `fra,u.od-er`
 * **frau** `frau`
@@ -2506,13 +2506,14 @@
     * : **tele**<i></i>**f**onat `t.f.at`
     * : **tele**<i></i>**f**onier `t.f.ir` ! `t.el.e-f.ir` E
     * : **tele**<i></i>**f**on**isch** `t.f.i` ! `t.el.e-f.i` E
-* tend `t.ed`
-  * : tendenz `t.ed.ez` (E)
-  * : tendenziös `t.ed.ez.ös` (E)
-  * **tens** `t.e` E
-    * *in***tens**iv `IN.t.iv` ! `IN.t.iv` BSA
-    * *in***tens**ivier*ung* `IN.t.iv.ir-UNG` ! `IN.t.iv.ir-UNG` BSA
-    * *in***tens**ität `IN.t.ät` ! `IN.t.ät` BSA
+---
+
+* tend `t.ed` : `t.ed.ez` `t.ed.ez.ös`
+  * *tendenz* `(z)`
+  * **tens** `t.e` : `IN.t.iv` `IN.t.iv.ir-UNG` `IN.t.ät`
+    * *intensiv* `(I)t-i`
+
+---
 * ter<b>*min*</b> `(m.in)` ! `t.em.in` (E)
   * : ter<b>*min*</b>al `(m.in).al`
   * : deter<b>*min*</b>ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
