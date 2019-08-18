@@ -3,12 +3,19 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-* ist jedes bla-Ü in wortverbindung als Ü kürzbar?
-* @ä in "fänd"
-* mater, toler
-* -st wird eigentlich immer zu -t
-* ***stud***<i></i>ium `.ud.um`
-* vielleicht, erfolgreich
+## Legendes
+
+| Kurzschreibung | Anlautkürzung | Auslautkürzung |
+|:-:|:-:|:-:|
+| wort | **kurz** | ***flott*** |
+|`[wort]`| `[|kurz|]` | `[/flott/]` |
+|`wot`| `ku` | `.ott` |
+
+### Kürzel
+
+* `{unter}` ⇒ `UNTER`
+
+---
 
 ## Kurzschreibung
 
