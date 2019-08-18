@@ -2128,7 +2128,7 @@
   * : *die*<i></i>*selb*en `I.l.en` E
   * : ~~de~~r*selb*e `(r).l.e` E
 * selt `set` : `set-en` `set-Sa`
-  * : selten*heit* `set-H` * `s.H`
+  * : *seltenheit* `s.H`
 * *senat* `s.at`
 * **send** `s`
   * : ab**send**er `.ab-s-er`
