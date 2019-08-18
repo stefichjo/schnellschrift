@@ -50,6 +50,7 @@
   * änd `.äd` : `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * *ant*- `aNT`
 * -*ant* `aNT`
+* *ant*ik `aNT.ik`
 * ~~arb~~eit `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z-Sa.T`
   * ! arbeit `.ab.T` : `G.ab.T` `b.ab.T` `E.ab.T`
   * : ~~arb~~eit*sam* `(T)-Sa` ~ `T-Sa`
