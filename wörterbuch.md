@@ -791,7 +791,7 @@
     * : *pro*gramm `(o)gr.am` ~ `(o)gra`
 * grav `gr.aw` : `gr.aw-ur` `gr.aw-o`
 * ***greif*** `.eif`
-  * ***griff*** `.if`
+  * ***griff*** `.if` : `-t;an.if:pa`
 * *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(b)GR` `UN-b.GR`
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
@@ -1610,8 +1610,9 @@
   * *ver*packt `(E)p.akt` * `(E)pa`
   * *päck* `p` : `p.ch.en`
     * *ge*<i></i>*päck* `G.p` ! `G.p.ek`
-* *pakt* `pat`
-  * -*pakt** `pa`
+* *pakt* `pat` : `pat-ir`
+  * ! `p.akt`
+  * -*pakt* `pa` → greif
 * pand `p.ad`
   * ***pans*** `pas`
     * : **ex**<i></i>***pans***<i></i>*ion* `.e-pas-o`
