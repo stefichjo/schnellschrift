@@ -444,7 +444,7 @@
   * : **fäch**er `f-er` ! `f.ech-er`
   * : ein**fach**er `N.fa-er` ! `N.fa.er`
 * faci
-* **fäh** `f` : `f.i`
+* **fäh** `f` : `f.i` `l.ei-f.i`
   * : **fäh***ig*<i></i>***keit*** `f.T` ! `f.eh.T` ≠ fälligkeit
   * : ~~arb~~eits**fäh***ig* `(T)-f.i` ~ `T-f.i`
   * : ~~arb~~eits*un*<i></i>**fäh**<i></i>*ig*<i></i>*keit* `(T),UN-f.T` × `(T),UN-T`
@@ -2393,7 +2393,7 @@
       * : ~~arb~~eits*stätt*e `(T)-s.ät.e` ~ `Ts.ät.e`
     * : *gestatt* `-G-a` : `-G-a.sI-ir` `.I -G-a.ir` `wr -G-a.U`
   * stet `st.et`
-    * **stät** `st` : `b.st`
+    * **stät** `st` : `b.st.i`
 * stell ← steh
 * ***stell*** `.ell`
   * : **kon**<i></i>***stell***<i></i>at*ion* `ko.ell.iO` ⇒ `ko.st*`
