@@ -29,11 +29,10 @@
 
 | l | ls | lt | n | ns | nt | r | rs | rt |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| `[geld]` | `[hals]` | `[kalt]` | `[bank]` | `[insel]` | `[bunt]` | `[stark]` | `[vers]` | `[wort]` |
-| `g.ed` | `h.a-s` | `kat` | `b.ak` | `.i-s.el` | `but` | `st.ak` | `v.es` | `wot` |
+| `[geld]` | `[hals]` | `[kalt]` | `[bank]` | `[insel]` | `[bunt]` | `[stark]` | `[kurs]` | `[wort]` |
+| `g.ed` | `h.a-s` | `kat` | `b.ak` | `.i-s.el` | `but` | `st.ak` | `ku-s` | `wot` |
 
 * als `.as`
-* vers
 * tort `t.ot` = tot
 * sport `sp.ot` = spot
 
