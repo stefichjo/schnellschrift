@@ -244,10 +244,8 @@ Im Wortzusammenhang können ungekürzte Verbstämme ausgelassen oder durch ihren
 * merk `m.ek`
   * *be*merken `b.m.ek.`
 
-Im Wortinnern können auch bereits gekürzte Verbstämme und mit ihnen etwaige Vor- und Nachsilben ausgelassen oder durch Selbstlaut angedeutet werden und ihre bestehende Kurzform somit verschattet werden. So verschattet beispielsweise *selbst*<i></i>~~verständ~~<i></i>*lich* `-st-L` die Kurzform *ver*<i></i>*ständ* `E-end` im Wortinnern, während *un*<i></i>*ge*<i></i>**fähr** `UN-G-f` nicht zu *un*<i></i>*ge*<i></i>~~fähr~~ `UN.G`, was die Kurzform **fähr** `f` am Wortende verschatten würde.
-
-* *ständ* `end`
-  * *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E-end.L` × `-st-L`
+* "vielleicht"-Regel
+* "selbstverständlich"-Regel
 
 Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
 
