@@ -11,7 +11,7 @@
 | `[wort]` | `[\|kurz\|]` | `[/flott/]` |
 |`wot`| `ku` | `.ot` |
 
-| Kürzel | Anlautkürzel | Auslautkürzel |
+| [Kürzel](#kürzel) | Anlautkürzel | Auslautkürzel |
 |:-:|:-:|:-:|
 | *unter* | **f**ür | arb***eit*** |
 | `{unter}` | `{\|f\|ür\|}` | `{/arb/eit/}` |
@@ -35,20 +35,20 @@
 * als `.as`
 * tort `t.ot` = tot
 * sport `sp.ot` = spot
-
-#### mit pseudo-assimilierter Endung der 3. Person Einzahl / Vergangenheit
-
-* fällt `fet`
-* fährt `fet`
-* wohnte `wot.e`
-
-
-#### Partizipien
-
-Die Partizip-Endung "-t" wird in der Regel weggelassen. Sie wird nur geschrieben, wenn das Partizip als Adverb verwendet wird, oder wenn das Partizip über Aufstrich-t mit einem Hilfsverb verschmolzen wird.
-
-* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir`
+* fährt `fet` *(mit Endung)*
+* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir` *(Adverb-t vs. Partizip-t)*
 * *dis*<i></i>*kut*iert *wird* `ds-u.irt-wr`
+
+### Kürzel
+
+Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG` müssen nicht auf die Oberlinie gestellt werden.
+
+| Einheit | Irrtum | Verwaltung | Wirtschaft |
+|:-:|:-:|:-:|:-:|
+| `{/ein/heit/}` | `{/irr/tum/}` | `{/verwalt/ung/}` | `{/wirt/schaft/}` |
+| `H` | `tum` | `UNG` | `FT` |
+
+### Grammatik
 
 #### Adjektive
 
@@ -98,55 +98,17 @@ Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
 
 * bei**trag** `(b.ei)tra` ⇒ `(.ei)tra`
 
-### Ausschreibung
-
-* (alt) `.alt`
-* (art) `.art`
-
 ## Kürzel
-
-* *auf* `AU`
-* *aus* `.S`
-* *so* `.o`
-* *tag* `tag`
-* *unter* `UNTER`
-* *volk* `V`
-* *vom* `v°`
-* *vor* `O`
 
 Kürzel können andere Kurzformen verschatten.
 
 * **mehr** `m.e`
   * *mehrer*e `MR.e`
 
-### Anlautkürzel
-
-* f~~ür~~ `f`
-* v~~on~~ `v`
-  * v~~on~~.~~d~~er `v-er`
-
-### Auslautkürzel
-
-* ~~de~~n `(n)`
-  * *auf*.~~de~~n `AU.n`
-* ~~f~~angen `(ang)` ! `f.ang`
-  * ein~~f~~angen `N.ang`
-
-* ~~masch~~in `(.in)`
-* ~~ab~~end `(.ed)`
-* ~~mon~~at `(.at)`
-
 Auslautkürzel mit Fußschleife werden beim Setzen auf die Oberlinie um eine Stufe erhöht.
 
 * ~~her~~z `(z)`
 
-Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG` stehen immer auf der Grundlinie.
-
-* ~~ein~~*heit* `(H)` ⇒ `H`
-* ~~irr~~*tum* `(tum)` ⇒ `tum`
-* -~~nehm~~*ung* `(UNG)` ⇒ `UNG`
-* ~~verwalt~~*ung* `(UNG)` ⇒ `UNG`
-* ~~wirt~~*schaft* `(FT)` ⇒ `FT`
 
 ### Inlautkürzel
 
