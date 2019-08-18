@@ -319,6 +319,7 @@
 * ~~doll~~ar `(.ar)`
 * dorf `d.of`
 * dort `dot` : `dot-ig`
+* ***dox*** `.ox` : `pa.ox` `pa.ox.I`
 * doz `d.oz`
   * : doz*ent* `doz.ent` × `doz`
   * dok `d.ok`
@@ -782,10 +783,9 @@
   * : biblio**graph**ie `b.ibl.i-gra.I` ! `b.ibl.i-o-gra.I`
   * : **dem**o**graph**ie `d.gra.I` ! `d.o-gra.I`
   * : **ge**o**graph** `ge-gra` ! `g.e-o-gra`
-  * : *para***graph** `par.gra`
-    * * *paragraph* `pa`
   * : steno**graph** `st.en.gra` ! `st.en.o-gra`
     * ~~sten~~o**graph** `(gra)`
+  * *paragraph* `pa`
   * gramm `gr.am` : `f.on.gr.am` `t.e-gr.am`
     * : grammoph~~on~~ `gr.am.f` ~ `gr.am.on`
     * : *pro*gramm `(o)gr.am` ~ `(o)gra`
@@ -1403,7 +1403,8 @@
 * ~~meth~~od `(.od)` : `(.od).e`
 * metr `m.etr` : `m.etr.om` `m.etr.um` `m.etr.ik` `m.etr.i`
   * -metrie `m.etr.I` → ge sym
-  * meter `m.et-er` : `p.ar.a-m.etr`
+  * meter `m.et-er`
+    * : `pa.m.et-er` ! `p.ar.a-m.et-er`
 * *mexik* `m.ex` : `m.ex-er` `m.ex.i`
   * : *mexik*o `m.ex.o` × `m.ex`
 * *mich* `m.i`
@@ -1606,35 +1607,24 @@
 
 ## [P](#wörterbuch)
 
-* pack `p.ak`
-  * *ver*packt `(E)p.akt` * `(E)pa`
-  * *päck* `p` : `p.ch.en`
-    * *ge*<i></i>*päck* `G.p` ! `G.p.ek`
+* **paar** `pa` ← par
+* **pack** `pa` : `(E)pa`
+  * ! `p.ak`
+  * **päck** `p` : `p.ch.en`
+    * *ge*<i></i>**päck** `G.p` ! `G.p.ek`
 * *pakt* `pat` : `pat-ir`
   * ! `p.akt`
   * -*pakt* `pa` → greif
 * pand `p.ad`
-  * ***pans*** `pas`
-    * : **ex**<i></i>***pans***<i></i>*ion* `.e-pas-o`
+  * ***pans*** `pas` : `.e-pas-o`
   * ***pass*** `pass` : `pass.ir` `pass.us`
-
----
-* **pa**r `pa`
-  * : **pa**ar `pa`
-  * : **pa**rade `pa.ad.e`
-  * : **pa**radis `pa.ad.is`
-  * : **pa**ris `pa.is`
-  * : **pa**rität `pa.ät` ! `p.ar.ät`
-  * : ap**pa**rat `.a-pa.at` BSA
-    * : ap**pa**rate `.a-pa.at.e` (BSA)
-    * : ap**pa**ratur `.a-pa-ur` ! `.a-pa.ur` (BSA)
-  * : **re**<i></i>**pa**ratur `(r)pa-ur` ! `(r)pa-ur` E
-  * : **re**<i></i>**pa**rier `(r)pa.ir` E
-  * : *trans*<i></i>**pa**r*ent* `tra.pa.ent` ~ `tra.pa.eNT`
----
-
-* *para-* `p.ar.a-`
-* *parallel* `p.ar.el`
+* **par** `pa` : `pa.ad.e` `pa.ad.ir` `pa.ad.is` `.a-pa.at` `.a-pa-ur` `(r)pa.ir` `(r)pa-ur`
+  * : **par**ität `pa.ät` ! `p.ar.ät`
+  * : *trans*<i></i>**par**<i></i>*ent* `tra.pa.ent` ~ `tra.pa.eNT`
+  * → paar
+* *paris* `pa.is`
+* *para*- `pa-`
+* *parallel* `pa.el` STS ~ `p.ar.el`
 * *paris* `pa.is`
 * parl
   * *parlament* `Par` : `Par.ar-er`
