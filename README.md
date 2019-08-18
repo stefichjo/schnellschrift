@@ -27,56 +27,22 @@
 
 ### Kurzschreibung
 
-| lt | nt | rt |
-|:-:|:-:|:-:|
-| `[kalt]` | `[bunt]` | `[wort]` |
-| `kat` | `but` | `wot` |
+| l | n | r | ls | ns | rs | lt | nt | rt |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| `[geld]` | `[gern]` | `[stark]` | `[hals]` | `[insel]` | `[vers]` | `[kalt]` | `[bunt]` | `[wort]` |
+| `g.ed` | `g.en` | `st.ak` | `h.a-s` | `.i-s.el` | `v.es` | `kat` | `but` | `wot` |
 
-### Ausstoß der Vorlaute l, n, r
-
-* stark `st.ak`
-
-#### vor Auslaut-s
-
-* hals `h.a's` = `h.aS`
 * als `.as`
-
-#### vor Auslaut-t
-
-* wert `wet`
-* wärt `wet`
-* wart `wat`
-* gelt `get`
-* galt `gat`
-* tant `tat`
-* start `stat`
-
-* bunt `but`
-* gurt `gut`
-* turt `tut`
-* spurt `sp.ut` = sput
-
-* wirt `wit`
-* würt `wüt`
-* gürt `güt`
-* tint `tit`
-* spint `sp.it` = spit
-
-* wort `wot`
-* wört `wöt`
+* vers
 * tort `t.ot` = tot
 * sport `sp.ot` = spot
 
-##### mit pseudo-assimilierter Endung der 3. Person Einzahl / Vergangenheit
+#### mit pseudo-assimilierter Endung der 3. Person Einzahl / Vergangenheit
 
 * fällt `fet`
 * fährt `fet`
 * wohnte `wot.e`
 
-### Endungen
-
-* sehen `s.eh` = seh
-* oder `.od-er` = odr
 
 #### Partizipien
 
