@@ -11,7 +11,7 @@
 | `[wort]` | `[\|kurz\|]` | `[/flott/]` |
 |`wot`| `ku` | `.ot` |
 
-| [Kürzel](#kürzel) | Anlautkürzel | Auslautkürzel |
+| [Kürzel](#kürzel) | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
 |:-:|:-:|:-:|
 | *unter* | **f**ür | arb***eit*** |
 | `{unter}` | `{\|f\|ür\|}` | `{/arb/eit/}` |
@@ -40,6 +40,8 @@
 * *dis*<i></i>*kut*iert *wird* `ds-u.irt-wr`
 
 ### Kürzel
+
+#### Auslautkürzel
 
 Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG` müssen nicht auf die Oberlinie gestellt werden.
 
