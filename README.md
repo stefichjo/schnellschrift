@@ -27,10 +27,10 @@
 
 ### Kurzschreibung
 
-| Vorlaut l | Vorlaut n | Vorlaut r |
+| lt | nt | rt |
 |:-:|:-:|:-:|
-| | `[bunt]` | |
-| | `but` | |
+| `[kalt]` | `[bunt]` | `[wort]` |
+| `kat` | `but` | `wot` |
 
 ### Ausstoß der Vorlaute l, n, r
 
