@@ -8,13 +8,13 @@
 | Ausschreibung | [Kurzschreibung](#kurzschreibung) | [Kürzel](#kürzel) |
 |:-:|:-:|:-:|
 | (alt) | wort | *unter* |
-| `{[alt]}` | `[wort]` | `{unter}` |
+| `[( alt )]` | `[ wort ]` | `[{ unter }]` |
 | `.alt` | `wot` | `UNTER` |
 
 | Anlautkürzung | Auslautkürzung | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
 |:-:|:-:|:-:|:-:|
 | **kurz** | ***flott*** | **f**ür | arb***eit*** |
-| `{\|kurz\|}` | `{/flott/}` | `{\|f\|ür\|}` | `{/arb/eit/}` |
+| `[\| kurz \|]` | `[/ flott /]` | `[\| f \| ür \|]` | `[/ arb / eit /]` |
 | `ku` | `.ot` | `f` | `(T)` |
 
 * ~~arb~~eit ⇒ arb***eit***
@@ -23,7 +23,7 @@
 
 | l | ls | lt | n | ns | nt | r | rs | rt |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| `[geld]` | `[hals]` | `[kalt]` | `[bank]` | `[insel]` | `[bunt]` | `[stark]` | `[kurs]` | `[wort]` |
+| `[ geld ]` | `[ hals ]` | `[ kalt ]` | `[ bank ]` | `[ insel ]` | `[ bunt ]` | `[ stark ]` | `[ kurs ]` | `[ wort ]` |
 | `g.ed` | `h.a-s` | `kat` | `b.ak` | `.i-s.el` | `but` | `st.ak` | `ku-s` | `wot` |
 
 * als `.as`
@@ -41,7 +41,7 @@ Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG
 
 | Einheit | Irrtum | Verwaltung | Wirtschaft |
 |:-:|:-:|:-:|:-:|
-| `{/ein/heit/}` | `{/irr/tum/}` | `{/verwalt/ung/}` | `{/wirt/schaft/}` |
+| `[/ ein / heit /]` | `[/ irr / tum /]` | `[/ verwalt / ung /]` | `[/ wirt / schaft /]` |
 | `H` | `tum` | `UNG` | `FT` |
 
 ### Grammatik
