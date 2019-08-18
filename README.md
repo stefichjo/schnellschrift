@@ -8,7 +8,7 @@
 | Kurzschreibung | Anlautkürzung | Auslautkürzung |
 |:-:|:-:|:-:|
 | wort | **kurz** | ***flott*** |
-|`[wort]`| `[|kurz|]` | `[/flott/]` |
+| `[wort]` | `[|kurz|]` | `[/flott/]` |
 |`wot`| `ku` | `.ott` |
 
 ### Kürzel
