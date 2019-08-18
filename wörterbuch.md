@@ -2587,9 +2587,9 @@
 * trakt ← trah
 * *trans*- `tra`
   * **tran**- `tra`
-* **trau** `trau` : `trau.er` `E.trau,(g)`
-  * : *mis*<i></i>**trau** `ms.trau` ~ `ms-au`
-  * : *ver*<i></i>**trau** `(E)trau` ~ `E-au`
+* **trau** `trau` : `trau.er`
+  * *misstrau* `ms-au` : `ms-au.um`
+  * *vertrau* `E-au` : `E-au,(g)` `E-au.um` `E-au-Ü.i`
 * **treff** `tr` : `tr.L` `(b)tr` `(Ü)tr` `UN-Ü.tr.L` `(O)tr.L` `Z-tr.ed`
   * ! `tr.ef` `tr.ef-er` `(N)tr.ef` `Z-Sa:tr.ef`
   * **triff** `tri` STS
@@ -2753,6 +2753,8 @@
 * *vor* `O` : `O.ts` `O.d-er` `b.O`
   * : ***nach***.~~wie~~.*vor* `ach.O` ~ `ach-o`
   * : ~~vori~~g `(g)`
+* **vot** `v`
+  * -*votum* `.um` → trau
 
 ## [W](#wörterbuch)
 
