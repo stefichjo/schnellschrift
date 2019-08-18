@@ -739,8 +739,9 @@
 * gen `g.en` : `g.en.iaL`
 * *gener* `g.en` : `g.en.ell` `g.en.iO`
   * : *gener*al `g.en.al` × `g.en`
+* genug ← nug
 * *ge*<i></i>***nug*** `G.ug`
-  * *ge*<i></i>***nüg*** `G.üg` : `b-üg` `E.üg`
+  * *ge*<i></i>***nüg*** `G.üg` : `b.üg` `E.üg`
 * gern `g.en` : `s.g.en`
 * *gesellschaft* `G.FT` : `G.FT.L` `E,G.FT` `(.I).en,G.FT`
   * *gesellschaft*er `G.FT.er` ~ `G.FT-er`
@@ -1556,16 +1557,9 @@
 * *nordrheinwestfalen* `n.o-fa`
 * norm `n.om` :  `n.om.al` `.e-n.om`
 * ***not*** `.ot`
-  * : ***nöt*** `.öt`
-
----
-* <b>*nug*</b> `.ug`
-  * : *ge*<b>*nug*</b> `G.ug`
-  * <b>*nüg*</b> `.üg`
-    * : *ge*<b>*nüg*</b> `G.üg`
-      * : **be**<i></i>~~g~~<b>*nüg*</b> `b.üg`
----
-
+  * ***nöt*** `.öt`
+* nug
+  * → genug
 * **num** `nu`
 * **nun** `nu`
 * ~~n~~ur `(.ur)`
