@@ -1529,16 +1529,11 @@
     * : **be**nannt `b.n.ant` * `b.na-t`
     * : *er*nannt `er.n.ant` * `er.na-t`
 * **neu** `neu` : `neu-st.e` `neu-er.L` `neu:H` `neu-L`
-
 * neutr `n.eutr` : `n.eutr.a` `n.eutr.um` `n.eutr.on` `n.eutr.ir`
   * : *neutral* `n.eutr` : `n.eutr.ir`
-
----
-* *nicht* `-t` V
+* *nicht* `-t`
   * : **gar**.*nicht* `ga-t`
-* -***nis*** `.is` E
----
-
+* -***nis*** `.is`
 * nie `n.i` : `n.i-ma-s` `n.i-ma`
 * *nieder*, *niedr* `ndr`
 * *nieder*<i></i>**la**~~nd~~e `ndr.la-e`
