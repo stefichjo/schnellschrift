@@ -3,13 +3,25 @@
 * [Wörterbuch](wörterbuch.md)
 * [Beispiele](beispiele.md)
 
-## Legendes
+## Legende
 
 | Kurzschreibung | Anlautkürzung | Auslautkürzung |
 |:-:|:-:|:-:|
 | wort | **kurz** | ***flott*** |
 | `[wort]` | `[\|kurz\|]` | `[/flott/]` |
 |`wot`| `ku` | `.ott` |
+
+| Kürzel | Anlautkürzel | Auslautkürzel |
+|:-:|:-:|:-:|
+| *unter* | **f**ür | |
+| | `{\|für\|}` | |
+| `UNTER` | | `f` | | 
+
+| Ausschreibung |
+|:-:|
+| (alt) |
+| `{[alt]}` |
+| `.alt` |
 
 ### Kürzel
 
