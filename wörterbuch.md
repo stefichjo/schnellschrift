@@ -55,6 +55,7 @@
   * : ~~arb~~eit*sam* `(T)-Sa` ~ `T-Sa`
   * : ~~arbeits~~los `(l.os)`
   * : ~~arb~~eits*gemeinschaft* `(T)-s.N` ~ `Ts.N`
+  * : ~~arb~~eits~~w~~eise `(T)-s.eis.e` ~ `Ts.eis.e`
 * arch `.ach` : `.ach.iv`
   * : archivar `.ach.iv.ar` × `.ach.ar`
 * arch `.ach` : `.ach.og.e`
@@ -680,7 +681,8 @@
 
 ## [G](#wörterbuch)
 
-* gang ← geh
+* **gang** `ang` : `G.ang` `ang.bar` `.S.ang` `N.ang` `.um.ang` `E.ang` `E.l.or.ang` `GR-Ü.ang` `Ü.ang.od.e` ← geh
+  * **gäng** `eng` : `rÜ.eng.i` `UN-E.eng.L` `O.eng.er` `UN-z.eng.L`
 * **ganz** `ga` : `ga.H` `ga-S`
   * **gänz** `g.e` : `g.L`
     * : *er***gänz**en `er.g` ~ `er.gä`
@@ -718,8 +720,6 @@
   * ~ g~~eh~~ `g`
   * weit**geh**end `w.T-g.ed`
   * **ging** `.ing` : `O-Ü.ing` `u-rÜ.ing`
-  * **gang** `ang` : `G.ang` `ang.bar` `.S.ang` `N.ang` `.um.ang` `E.ang` `E.l.or.ang` `GR-Ü.ang`
-    * **gäng** `eng` : `rÜ.eng.i` `UN-E.eng.L` `O.eng.er` `UN-z.eng.L`
 * **geist** `g.ei`
 * geld `g.ed` : `g.ed-er` `b.ar.g.ed` `.ös.e-g.ed`
   * **kind**ergeld `ki.g.ed` * `ki.g`
@@ -768,7 +768,7 @@
   * glitt `gl.it`
 * ***glied*** `.id`
   * : *mit*<i></i>***glied*** `M.id` ~ `M-i`
-* ***glück*** `.ük` : `.ük.L` `b.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
+* ***glück*** `.ük` : `.ük.L` `.ück.L.eis.e` `b.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
 * **gönn** `gö`
   * **gunst** `gu`
     * ! gunst `g.ust`
@@ -1486,14 +1486,14 @@
   * : *da*<i></i>*nach* `.a-ach` ! `(da)ach`
   * ~~nach~~*bar* `(bar)`
 * ~~näch~~st `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
-  * : *zu*~~näch~~st `(Z)(-st)` ~ `-Z.n`
+  * : *zu*~~näch~~st `(Z)(-st)` ⇒ *zunächst* `-Z.n`
 * ***nacht*** `acht`
 * nah `n.ah` : `G.n.a-t`
-  * → nach
   * näh `n.äh` : `G.n.ä-t` `n.äh.er-er`
     * : näher `n.äh.er` × `n.äh` : `G.n.äh` `n.äh.es`
       * : *annäher* `.an,(er)` : `.an,(er).d`
     * → nächst
+  * → nach
 * nahr `n.ar` : `n.ar.ha`
   * *nahrung* : `ar-UNG`
   * nähr `n.är` : `n.är,-t`
@@ -1642,6 +1642,7 @@
     * : *parlament*ar**isch** `Par.ar.i` × `Par.i`
 * part `pat` : `pat-I` `pat-ik.el` `pat-ik.är` `pat-er`
   * *partei* `pa-ei` : `pa.ei-Sa.UNG`
+  * -*partei* `.ei` : `I.ei-en`
 * pass ← pand
 * pass ← pati
 
@@ -1662,8 +1663,14 @@
   * : pendant `p.ang.d.ang` * `p.ang.da`
   * pens `p.e-s`
     * : pens*ion* `p.e-s-o` ! `p.e-s.iO`
+---
+
 * **per**- `p`
+  * : **per**iode `p.od.e`
+    * -*periode* `.od.e` → gang
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
+
+---
 * **pfleg** `pfl`
   * **pflog** `pflo`
 ---
@@ -2805,9 +2812,9 @@
 * wein `w.N`
   * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
 * ~~w~~eis `(.eis)` : `b.eis` `b.eis.bar` `b.eis.iaL` `er.eis` `hn.eis` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
-  * : ~~arb~~eits~~w~~eise `(T)-s.eis.e` ~ `Ts.eis.e`
   * : *darauf* *hin*~~w~~eisen `dar-AU hn.eis` ~ `dar-AU-n`
   * : *ich* ~~m~~uss *darauf* *hin*~~w~~eisen `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
+  * -~~w~~eise `.eis.e` → arbeit glück nehm
   * ~~w~~ies `(.is)` : `G.is` `.ab.is` `b.is` `er.is` `er.is.ass` `Ü.is` `.I-Ü.is`
     * ! `w.is`
 * weiß ← wiss
