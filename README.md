@@ -13,9 +13,9 @@
 
 | Kürzel | Anlautkürzel | Auslautkürzel |
 |:-:|:-:|:-:|
-| *unter* | **f**ür | |
-| `{unter}` | `{\|für\|}` | |
-| `UNTER` | `f` | |
+| *unter* | **f**ür | ~~arb~~eit ⇒ arb**eit** |
+| `{unter}` | `{\|für\|}` ⇒ `{\|f\|ür\|}` | `{/arb/eit/}` |
+| `UNTER` | `f` | `(T)` |
 
 | Ausschreibung |
 |:-:|
