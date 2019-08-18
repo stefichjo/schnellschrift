@@ -15,7 +15,7 @@
 |:-:|:-:|:-:|
 | *unter* | **f**ür | |
 | | `{\|für\|}` | |
-| `UNTER` | | `f` | | 
+| `UNTER` | `f` | |
 
 | Ausschreibung |
 |:-:|
