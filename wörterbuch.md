@@ -1586,19 +1586,10 @@
   * : *eben*<i></i>*so* oft `.eb.o .oft` « `.eb.oft`
 * *ohn*, *ohne* `.o°`
 * ök `.ök` : `.ök.om`
-
----
-* opt `.opt`
-  * : opt*ion* `.opt.iO`
-  * : opt*ional* `.opt.i-aL`
-  * : optier `.opt-ir`
-  * *optim* `.op`
-    * : *optim*al `.op.al` ~ `.opt-im-a`
-    * : *optim*<i></i>*ismus* `.op.iS`
-    * : *optim*ist `.op.ist`
-    * : *optim*<i></i>*istisch* `.op.iS.i`
----
-
+* opt `.opt` : `.opt-ir` `.opt-iO`
+  * → optim
+* *optim* `.op` : `.op.iS` `.op.ist` `.op.iS.i` ← opt
+  * : *optim*al `.op.al` ~ `.opt-im-a`
 * ord `.od` : `.od.L` `.od.in.är`
   * : ab*ge*ordnet `.ab.od` × `.ab.G`
   * : *außer*ordent*lich* `.auss.od.L` × `.auss.L`
