@@ -835,7 +835,7 @@
   * *halb*- `ha` : → insel jahr wicht
   * **hälft** `h.e` : `h.e` `.il:h.e`
 * hals `h.a-s`
-* ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G.-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN.-t` `.in-t` `ach-t-ig` `rÜ-t-l.o` `sa.E-t` `E-t-is` `E-t-is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
+* ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN-t` `.in-t` `ach-t-ig` `rÜ-t-l.o` `sa.E-t` `E-t-is` `E-t-is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
   * : *haus*~~hal~~t `.aus-t` ! `.aus,(-t)`
   * : ~~hal~~t*ung* `(-t)-UNG` ~ `-t-UNG`
   * ~~häl~~t `(-t)` : `E-t-is`
@@ -2040,7 +2040,7 @@
   * **schrieb** `.ib`
   * **schrift** `.ift`
     * -schr**i**ft `i` : → ab hand kurz mit schnell unter zu
-* **schreit** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O.-ts.T` `-t-Ü.T`
+* **schreit** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
   * ! `schr.T` : `schr.T-ed`
   * : ein**schreit**en `N.T` ~ `N,(T)`
   * **schritt** `.it` : `rÜ.it` `rÜ.it.L`
@@ -2924,7 +2924,7 @@
       * : **la***nd~~wirt~~*schaft* `la.FT` ~ `a-(wr).FT` ≠ landschaft
 * **wiss** `.iss` : `.iss-t-L` `.iss,(-t)` `G.iss` `G.iss.H` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
   * *wissenschaft* `wi.FT`
-  * : *ver*<i></i>*ge***wiss**ern `E.iss-er` ~ `E.-G` : `E.-G.-t.e`
+  * : *ver*<i></i>*ge***wiss**ern `E.iss-er` ~ `E.-G` : `E.-G-t.e`
   * **weiß** `.eiss` : `.I.eiss`
   * **wuss** `.uss`
     * ! `w.uss` : `w.usst.e`
