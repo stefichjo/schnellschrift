@@ -14,7 +14,7 @@
 | Anlautkürzung | Auslautkürzung | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
 |:-:|:-:|:-:|:-:|
 | **kurz** | ***flott*** | **f**ür | arb***eit*** |
-| `[\|kurz\|]` | `[/flott/]` | `{\|f\|ür\|}` | `{/arb/eit/}` |
+| `{\|kurz\|}` | `{/flott/}` | `{\|f\|ür\|}` | `{/arb/eit/}` |
 | `ku` | `.ot` | `f` | `(T)` |
 
 * ~~arb~~eit ⇒ arb***eit***
