@@ -1429,7 +1429,7 @@
   * : *da*<i></i>*mit* `.a-M` ~ `a-M`
   * : *mitt* `M` : `M.e`
     * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.är-t-el` `ar-UNG-t-el`
-      * : *un*<i></i>*mittel*<i></i>***bar*** `UN-t-el.bar` × `UN-bar`
+      * : *un*<i></i>*mittel*<i></i>***bar*** `UN-t-el.bar` × `UN.bar`
 * *mitt* `M`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
   * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
