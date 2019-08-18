@@ -1603,7 +1603,7 @@
 * ort `.ot`
   * ört `.öt` : `.öt.L` `er.öt-er`
 * ost `ost` : `w.ost`
-* *österreich* `.ö`
+* *österreich* `.ö` : `.ö.i`
 
 ## [P](#wörterbuch)
 
@@ -1648,6 +1648,8 @@
 * **pausch** `pau` : `pau.al` `pau.al.e`
   * `pau.al.ir`
   * -*pauschale* `au.al.e` → kost
+* paz
+  * → pakt
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
   * pens `p.e-s`
@@ -1993,6 +1995,7 @@
       * ! *aus*<i></i>***schuss*** `.S.uss`
     * ***schüss*** `.üss` : `.üss.e` `.üss.el` `.S.üss.e` `Ü-üss.e` `Z-üss.e`
 * **schiff** `.if`
+* ~~schilli~~ng `(ng)`
 * schirm `sch.im`
 * schlacht ← schlag
 * schlaf `schl.af`
