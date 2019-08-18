@@ -28,7 +28,7 @@
 ### Kurzschreibung
 
 | l | n | r | ls | ns | rs | lt | nt | rt |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | `[geld]` | `[gern]` | `[stark]` | `[hals]` | `[insel]` | `[vers]` | `[kalt]` | `[bunt]` | `[wort]` |
 | `g.ed` | `g.en` | `st.ak` | `h.a-s` | `.i-s.el` | `v.es` | `kat` | `but` | `wot` |
 
