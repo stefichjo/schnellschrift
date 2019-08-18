@@ -50,7 +50,7 @@
   * änd `.äd` : `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * *ant*- `aNT`
 * -*ant* `aNT`
-* ~~arb~~eit `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z-Sa.T`
+* ~~arb~~eit `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z-Sa.T`
   * ! arbeit `.ab.T` : `G.ab.T` `b.ab.T` `E.ab.T`
   * : ~~arb~~eit*sam* `(T)-Sa` ~ `T-Sa`
   * : ~~arbeits~~los `(l.os)`
@@ -698,10 +698,10 @@
   * : geo<i></i>***log***<i></i>e `g.e-og.e` ! `g.e-l.og.e`
   * : geo<i></i>***log***<i></i>ie `g.e-og.I` ! `g.e-l.og.I`
 * ***geb*** `.eb` STS
-  * ! `g.eb` : `g.eb-er` `.an.g.eb-er` `ra.g.eb-er`
-  * ~ **geb** `g.e` : `G.g` `G.g.H` `.ab.g` `(T)-g` `b.g.H` `er.g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
-    * ~ g~~eb~~ `g` : `I ku:g`
-    * : *auf*<i></i>**trag**<i></i>**geb**er `(AU)tra.g-er` × `(AU)tra.g`
+  * ! `g.eb` : `g.eb-er`
+  * ~ *geb* `g.e` : `G.g` `G.g.H` `.ab.g` `(T)-g` `b.g.H` `er.g` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
+    * -*geber* `g` → arbeit rat trag
+      * : an*geber* `.an.g` ! `.an.g.eb-er`
   * × ~~geb~~ : `.S.ag.ed` `er.is` `er.is.os`
   * ***gib*** `.ib` : `ach.ib.T` `er.ib.i`
   * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `b.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `er.g-st` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z-ab.e`
@@ -713,7 +713,7 @@
 * *gegen* `g` : `g-t` `g-t-ig` `b.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
   * : *da*<i></i>*gegen* `.a-g` ! `da.g`
   * ~~geg~~end `(.ed)` : `.um.ed`
-  * *gegn*er `g-er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
+  * *gegn*er `g.er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
 * **geh** `g.e` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O-Ü.g` `Z-gru.g`
   * ~ g~~eh~~ `g`
   * weit**geh**end `w.T-g.ed`
@@ -1112,6 +1112,7 @@
   * **kömm** `kö` : `b.kö.L` `.ab.kö.l.ing`
   * kam `k.am`
     * käm `k.äm` : `k.äm.e`
+  * → kunft
 * koll
   * *protokoll* `pr.ot.ok`
 * *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i`
@@ -1180,7 +1181,7 @@
   * : ur**kund**e `.ur.ku.e` × `.ur.ku`
   * **künd** `kÜ` : `kÜ.i` `kÜ.bar` `.an.kÜ` `E.kÜ` `E.kÜ.i`
     * : **künd**en `kÜ` ! `k.üd` ≠ kürzen
-* **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` ← komm
+* **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` `.S.ku:g` STS ← komm
   * **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
 * kunst `ku-st` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G.kYst-elt`
@@ -1797,6 +1798,7 @@
 * rakete `(.et).e`
 * rang `r.ang` : `r.ang.ir` `O.r.ang`
 * **rat** `ra` : `ra.os` `G.ra` `O.ra` `bu.ra` `la.ra`
+  * : **rat**<i></i>*geber* `ra.g` ! `ra.g.eb-er`
   * : **rat**<i></i>*sam* `ra-Sa` ! `ra-s.am`
   * : *er*<i></i>**rat**en `er-ra` ! `er-r.at`
   * : *da*<i></i>*von*.ab**rat**en `.a-v.ab.ra` ~ `a-v.ab.ra`
@@ -2541,7 +2543,7 @@
     * ein~~t~~ö~~n~~*ig* `N,(.ö).i` × `N,(.ö)`
 * to~~t~~ `t.o` : `t.o-al` `t.o-al.är` `t.o-al.ät`
 * tracht ← trakt
-* **trag** `tra` : `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(b.ei)tra` `(er)tra` `(er)tra.eich` `n.S.tra` `ach.tra` `(Ü)tra`
+* **trag** `tra` : `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `(b.ei)tra` `(er)tra` `(er)tra.eich` `n.S.tra` `ach.tra` `(Ü)tra`
   * : *ver***trag** `(E)tra` * `E-a`
   * : ***kauf***<i></i>*ver***trag** `.auf,(E)tra` « `.auf.tra`
   * : *liefer*<i></i>*ung*s*ver***trag** `l.i-er-UNG,(E)tra` « `l.i-er-UNG:tra`
