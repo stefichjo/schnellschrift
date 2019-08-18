@@ -30,7 +30,7 @@
 | l | ls | lt | n | ns | nt | r | rs | rt |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | `[geld]` | `[hals]` | `[kalt]` | `[bank]` | `[insel]` | `[bunt]` | `[stark]` | `[vers]` | `[wort]` |
-| `g.ed` | `h.a-s` | `b.ak` | `.i-s.el` | `st.ak` | `v.es` | `kat` | `but` | `wot` |
+| `g.ed` | `h.a-s` | `kat` | `b.ak` | `.i-s.el` | `but` | `st.ak` | `v.es` | `wot` |
 
 * als `.as`
 * vers
