@@ -9,7 +9,7 @@
 |:-:|:-:|:-:|
 | wort | **kurz** | ***flott*** |
 | `[wort]` | `[\|kurz\|]` | `[/flott/]` |
-|`wot`| `ku` | `.ott` |
+|`wot`| `ku` | `.ot` |
 
 | Kürzel | Anlautkürzel | Auslautkürzel |
 |:-:|:-:|:-:|
