@@ -5,23 +5,17 @@
 
 ## Legende
 
-| [Kurzschreibung](#kurzschreibung) | Anlautkürzung | Auslautkürzung |
+| Ausschreibung | [Kurzschreibung](#kurzschreibung) | [Kürzel](#kürzel) |
 |:-:|:-:|:-:|
-| wort | **kurz** | ***flott*** |
-| `[wort]` | `[\|kurz\|]` | `[/flott/]` |
-|`wot`| `ku` | `.ot` |
+| (alt) | wort | *unter* |
+| `{[alt]}` | `[wort]` | `{unter}` |
+| `.alt` | `wot` | `UNTER` |
 
-| [Kürzel](#kürzel) | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
-|:-:|:-:|:-:|
-| *unter* | **f**ür | arb***eit*** |
-| `{unter}` | `{\|f\|ür\|}` | `{/arb/eit/}` |
-| `UNTER` | `f` | `(T)` |
-
-| Ausschreibung |
-|:-:|
-| (alt) |
-| `{[alt]}` |
-| `.alt` |
+| Anlautkürzung | Auslautkürzung | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
+|:-:|:-:|:-:|:-:|
+| **kurz** | ***flott*** | **f**ür | arb***eit*** |
+| `[\|kurz\|]` | `[/flott/]` | `{\|f\|ür\|}` | `{/arb/eit/}` |
+| `ku` | `.ot` | `f` | `(T)` |
 
 * ~~arb~~eit ⇒ arb***eit***
 
