@@ -657,6 +657,7 @@
   * : *führ*<i></i>*ung* `Ür-UNG` ⇒ `.ür-UNG` ! `f.ür-UNG`
   * : *auf*~~s~~icht*führ*end `AU.icht-Ür.ed` * `AU-i-Ür.ed`
   * : *aus*<i></i>*führ*<i></i>*lich* `.S-Ür.L` ⇒ `.S.ür.L` ~ `.S-ü.L`
+  * : *durch*<i></i>*führ*en `dr-Ür` ~ `dr-ü`
   * : *darauf* *zu***rück**<i></i>*führ*en `dar-AU u-rÜ-Ür` ⇒ `dar-AU u-rÜ.ür` × `dar-AU-Ür`
   * : *da*<i></i>*zu* *führ*en `.a-Z Ür` ⇒ `.a-Z .ür` ~ `a-Z-Ür`
   * * *führ* `-ü-` : `.S-ü` `.S-ü.L` `dr-ü`
@@ -2157,7 +2158,7 @@
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`
 * **such** `su` : `b-su` `E-su`
-  * : *unter***such** `UNTER,su` * `UNTER-u` : `O.S.o=UNTER-u`
+  * : *unter***such** `UNTER.su` * `UNTER-u` : `O.S.o=UNTER-u`
 * sucht ← siech
 * süd `s.üd` : `s.üd-Ü.e`
 * **sul** `su` : `ko-su`
