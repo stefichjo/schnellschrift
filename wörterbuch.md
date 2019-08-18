@@ -1451,7 +1451,9 @@
   * ***mocht*** `.ocht`
 * mo ← mov
 * ~~mom~~ent `(met)` : `tr.eg.H,(met)`
-* ~~mon~~at `(.at)` : `(.at).L` `.im (g).at` `(I)n let (.at).en` `(I)n (-st) (.at).en`
+* ~~mon~~at `(.at)` : `(.at).L` `.im (g).at`
+  * *in*.~~de~~n.~~näch~~sten.~~mon~~aten `(I)n,(-st)-at.en` ! `(I)n,-st (.at).en`
+  * *in*.~~den~~.*letzt*en.~~mon~~aten `(I)let-at.en` ! `(I)let (.at).en`
 * mono- `m.on.o`
 * **monstr** `mo` : `d.e-mo-o` `d.e-mo.ir`
   * : **monstr**um `mo.um` ! `mo-s.um`
