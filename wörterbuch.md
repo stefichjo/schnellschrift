@@ -395,7 +395,8 @@
 * -el → -ul
 * el `.el` : `.el.eNT.ar`
   * element `.el.e-met` * `.el.eNT` 
-* *elektr* `.el` : `.el.i` `.el.ir` `.el.if.ir` `.el.ät` `.el.od.e` `.el.on.i`
+* *elektr* `.el` : `.el.i` `.el.if.ir` `.el.ir` `.el.od.e` `.el.on.i`
+  * : *elektr*izität `.el.ät`
 * eltern ← alt
 * eltern `.et-ern` : `.et-ern.os` `.et-ern.FT` `O.et-ern`
 * em
@@ -430,7 +431,8 @@
 
 ## [F](#wörterbuch)
 
-* **fabr** `fa` : `fa.ik` `fa.ir`
+* **fabr** `fa` : `fa.ik`
+  * : **fabr**izieren `fa.ir`
   * *fabrik* `fa` : `fa.ant` `fa.at`
     * : *fabrik*at*ion* `fa-o` ! `fa.iO`
 * facette ← faci
@@ -959,8 +961,8 @@
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
 * -ier- `.ir`
 * -ifik- ← fak
-* -*ifik*- `.if` : `.if-o`
-  * -*ifiz*- `.iz` : `.if.ir`
+* -ifik- `.if` : `.if-o`
+  * -ifiz- `.iz` : `.if.ir`
 * -*ig* `.i`/`.ig`
 * ihn `.in` : `.in.en`
   * -*ihnen* `i` → bei mit um dank
@@ -997,7 +999,7 @@
   * n*irgend* `n.i` / `n.ig`
 * irr `.irr`
   * ~~irr~~*tum* `(tum)` ⇒ `tum`
-* -~~is~~- : `.iO`/`-o` `.ir`
+* -is- : `.iO`/`-o` `.ir`
 * -**isch** `.i`
 * -*ismus* `.iS`
 * ist ← sein
@@ -1094,7 +1096,7 @@
 * ***klam*** `.am` : `r.am-o` `r.am.e`
 * ***klar*** `.ar` : `.ar-er` `.am.arst` `.ar.H`
   * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
-    * : *er*<i></i>***klär*** `er.är` ~ `er-r`
+    * : *er*<i></i>***klär***en `er.är` ~ `er-r` ≠ ernähren
 * **klass** `kla` : `kla-e` `kla.ik-er` `kla.i` `kla.if.ir` `kla.if-o`
   * : **klass**iz*ismus* `kla.iS`
 * ***klaud*** `.aud` STS
@@ -1111,9 +1113,10 @@
     * käm `k.äm` : `k.äm.e`
 * koll
   * *protokoll* `pr.ot.ok`
-* *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i` `ko-u.ir`
+* *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i`
   * : *kommun*<i></i>*ion* `ko-u.iO` * `o-u-O` STS ≠ *kommun*ikat*ion*
-  * : *kommun*ikat*ion* `ko-u.iO` ~ `ko-u-o` ≠ kommunion
+  * : *kommun*izieren `ko-u.ir`
+    * *kommun*ikat*ion* `ko-u.iO` ~ `ko-u-o` ≠ kommunion
 * **kon**- `ko`
   * : **koll**- `ko`
 * **könn** `kö`
@@ -1221,9 +1224,8 @@
   * ~~l~~ieß `(.iss)` : `(I)t-er.iss`
     * ! `l.iss`
 * last ← lad
-* lat `l.at` : `r.l.at.iv` ← fer
-  * : lateral `l.at-er.al`
-    * -*lateral* `.al` → bi mult
+* lat `l.at` : `l.at-er.al` `r.l.at.iv` ← fer
+  * -*lateral* `.al` → bi mult
   * *relat* `r-t` : `r-t-iv`
     * : *relat*<i></i>*ion* `r-t-O` ! `r.l.at.iO`
 * laub `l.aub`
@@ -1303,8 +1305,8 @@
 * **lohn** `l.o` : `(T)-l.o`
 * log `l.og` : `l.og.ik` `l.og.i`
 * -***log*** `.og` → astro bio geo kata phraso polito
-* lok `l.ok` : `l.ok.iv`
-  * *lokal* `l.ok` : `l.ok.ir` `l.ok.ät`
+* lok `l.ok` : `l.ok.ir` `l.ok.ät` `l.ok.iv`
+  * : lokal `l.ok.al` × `l.ok`
 * loqu
   * **koll**oquium `ko.oqu.um` × `ko.oqu`
 * ***los*** `.os` : `.S.os`
@@ -1365,7 +1367,8 @@
   * *matr* `ma` : `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
 * mauer `m.au-er`
   * : schallmauer `sch.all.m.au-er` * `scha.m.au-er`
-* mech `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
+* mech `m.ech`
+  * : mechan `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
 * **mehr** `m.e` : `m.H` `m.ko` `m.ma-s` `E.m-UNG` `nu:m` `(.er)m`
   * : *nicht*.**mehr** `-t-m` ~ `-t.m` ≠ irrtum
   * *mehrer* `MR` : `MR.e`
@@ -1434,7 +1437,8 @@
     * : *kom*<i></i>*miss*<i></i>*ion* `ko-ms-o` * `ko-i.iO` × `ko-i` : `(.om).ko`
     * : *kom*pr**o***miss* `ko,(o)ms` ~ `ko-ms` × `ko-m`
     * : *trans*<i></i>*miss*<i></i>*ion* `tra.ms-o` × `tra.ms`
-* mob `m.ob` : `m.ob.il` `m.ob.ar` `m.ob.ir` mobilität `m.ob.ät`
+* mob `m.ob`
+  * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
 * mocht ← mög
 * mod `m.od` `m.od-er`
@@ -1490,7 +1494,7 @@
   * *nahrung* : `ar-UNG`
   * nähr `n.är` : `n.är,-t`
     * *ernähr* `er.är` : `er.är-er`
-      * : *ernähr*en `er.är` ~ `er.ä`
+      * : *ernähr*en `er.är` ~ `er.ä` ≠ erklären
 * ~~nam~~ : `(.e)` `(-t-L)` `ach,(.e)`
   * ! `n.am` : `n.am.ha`
   * ***näm*** `.äm` : `.äm.L`
@@ -1524,11 +1528,12 @@
   * nann `n.an`
     * : **be**nannt `b.n.ant` * `b.na-t`
     * : *er*nannt `er.n.ant` * `er.na-t`
+* **neu** `neu` : `neu-st.e` `neu-er.L` `neu:H` `neu-L`
+
+* neutr `n.eutr` : `n.eutr.a` `n.eutr.um` `n.eutr.on` `n.eutr.ir`
+  * : *neutral* `n.eutr` : `n.eutr.ir`
 
 ---
-* **neu** `neu`
-* neutr `n.eutr` : `n.eutr.ir`
-  * : neutral `n.eutr.al` × `n.eutr`
 * *nicht* `-t` V
   * : **gar**.*nicht* `ga-t`
 * -***nis*** `.is` E
@@ -1670,7 +1675,8 @@
   * : pati*ent* `p.at.I.eNT` ~ `p.az.ent`
   * : pati*ent*in `p.at.I.eNT.in` ~ `p.az.en.t.in`
   * ***pass*** `pass` : `pass.O`
-* **pausch** `pau` : `pau.al` `pau.al.e` `pau.al.ir`
+* **pausch** `pau` : `pau.al` `pau.al.e`
+  * `pau.al.ir`
   * -*pauschale* `au.al.e` → kost
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
