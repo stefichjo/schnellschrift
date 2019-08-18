@@ -835,6 +835,7 @@
   * -*halb* `ha` : → außer des inner unter wes
   * *halb*- `ha` : → insel jahr wicht
   * **hälft** `h.e` : `h.e` `.il:h.e`
+* **hall** `ha` : `ha.e` `schw.im:ha.e`
 * hals `h.a-s`
 * ~~hal~~t `(-t)` : `(-t)-bar` `(-t)-bar.T` `(-t)-l.o` `(-t)-ed` `G-t` `.an-t` `.an-t-ed` `AU-t` `.S-t` `N-t` `er-t` `IN-t` `.in-t` `ach-t-ig` `rÜ-t-l.o` `sa.E-t` `E-t-is` `E-t-is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t)-et` `sI (-t)`
   * : *haus*~~hal~~t `.aus-t` ! `.aus,(-t)`
@@ -1061,6 +1062,7 @@
 * kalt `kat` : `er.kat`
   * kält `ket` : `ket.e` `ket-er`
 * *kammer* `ka` : `ha.ka` `ka.ek.ka`
+  * : *industr*~~ie~~.~~und~~.*handel*s.*kammer* `IN.ha.ka`
 * ***kampf*** `ampf` : `kla.ampf`
   * ***kämpf*** `empf` : `empf.e`
 * kan `k.an` : `k.an.on` STS
@@ -1951,6 +1953,7 @@
   * : *in*s*ge*<i></i>*samt* `IN.G.Sa` ~ `(I).G.Sa`
   * *sämt* `s` : `s.L`
 * samt `s.amt`
+* **sass** `.ass` : `IN.ass.en` ← sitz
 * saß ← sitz
 * seel `s.el` : `s.el.e`
   * : seel*isch* `s.el.i` ! `s.el.isch`
@@ -2087,6 +2090,7 @@
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
   * saß `s.ass`
+  * → sass
   * **setz** `s` ! `s.ez` (E)
     * : *aus***setz** `.S-s` ~ `.S.s` E
     * : *vor*<i></i>*aus***setz** `O.S-s`
@@ -2288,6 +2292,11 @@
 * **schwer** `schw`
   * **schwier** `.ir` : `.ir.i`
 * schwier ← schwer
+* schwimm `schw.im`
+  * schwamm `schw.am`
+    * schwämm `schw.äm`
+  * schwomm `schw.om`
+  * schwemm `schw.em`
 * schwind `schw.id`
   * schwand `schw.ad`
   * schwund `schw.ud`
@@ -2869,10 +2878,10 @@
   * worf `w.of`: `O.w.of`
   * *wurf* `-u-` : `eNT-u`
     * ! `w.uf`
-    * : * *vor*<i></i>*wurf* `O-u` * `O.wu`
+    * : * *vor*<i></i>*wurf* `O-u` ~ `O.wu`
   * *würf* `Ü` : `eNT-Ü.e` `zer-Ü.is`
     * ! `w.üf`
-    * : *vor*<i></i>*würf* `O-Ü.e` * `O.wÜ.e`
+    * : *vor*<i></i>*würf* `O-Ü.e` ~ `O.wÜ.e`
 * werk `w.ek` : `b.eg.w.ek` `hi.w.ek`
   * *handwerk* `ha.ek` : `ha.ek.ib` `ha.ek-er`
 * wert `wet` : `.ab.wet`
