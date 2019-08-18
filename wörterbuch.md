@@ -1834,6 +1834,7 @@
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 * **reg** `r` : `G.r.elt` `r.el.i`
   * : **reg**el*mäßig*<i></i>*keit* `r.el.i-T` ! `r.el.ess.i-T`
+  * : ~~reg~~el*ung* `(.el-UNG)`
   * : -~~reg~~el `(.el)` : `.il,(.el)` `IN.el`
   * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
     * : ~~reg~~ier*ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
