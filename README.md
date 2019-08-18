@@ -27,10 +27,10 @@
 
 ### Kurzschreibung
 
-| l | n | r | ls | ns | rs | lt | nt | rt |
+| l | ls | lt | n | ns | nt | r | rs | rt |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| `[geld]` | `[gern]` | `[stark]` | `[hals]` | `[insel]` | `[vers]` | `[kalt]` | `[bunt]` | `[wort]` |
-| `g.ed` | `g.en` | `st.ak` | `h.a-s` | `.i-s.el` | `v.es` | `kat` | `but` | `wot` |
+| `[geld]` | `[hals]` | `[kalt]` | `[bank]` | `[insel]` | `[bunt]` | `[stark]` | `[vers]` | `[wort]` |
+| `g.ed` | `h.a-s` | `b.ak` | `.i-s.el` | `st.ak` | `v.es` | `kat` | `but` | `wot` |
 
 * als `.as`
 * vers
