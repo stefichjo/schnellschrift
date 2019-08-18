@@ -1555,10 +1555,10 @@
 * nord `n.od`
 * *nordrheinwestfalen* `n.o-fa`
 * norm `n.om` :  `n.om.al` `.e-n.om`
+* ***not*** `.ot`
+  * : ***nöt*** `.öt`
 
 ---
-* <b>*not*</b> `.ot`
-  * : ***nöt*** `.öt`
 * <b>*nug*</b> `.ug`
   * : *ge*<b>*nug*</b> `G.ug`
   * <b>*nüg*</b> `.üg`
