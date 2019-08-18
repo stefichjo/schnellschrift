@@ -5,7 +5,7 @@
 
 ## Legende
 
-| Kurzschreibung | Anlautkürzung | Auslautkürzung |
+| [Kurzschreibung](#kurzschreibung) | Anlautkürzung | Auslautkürzung |
 |:-:|:-:|:-:|
 | wort | **kurz** | ***flott*** |
 | `[wort]` | `[\|kurz\|]` | `[/flott/]` |
@@ -13,8 +13,8 @@
 
 | Kürzel | Anlautkürzel | Auslautkürzel |
 |:-:|:-:|:-:|
-| *unter* | **f**ür | ~~arb~~eit ⇒ arb***eit*** |
-| `{unter}` | `{\|für\|}` ⇒ `{\|f\|ür\|}` | `{/arb/eit/}` |
+| *unter* | **f**ür | arb***eit*** |
+| `{unter}` | `{\|f\|ür\|}` | `{/arb/eit/}` |
 | `UNTER` | `f` | `(T)` |
 
 | Ausschreibung |
@@ -23,15 +23,14 @@
 | `{[alt]}` |
 | `.alt` |
 
-### Kürzel
+* ~~arb~~eit ⇒ arb***eit***
 
-* `{unter}` ⇒ `UNTER`
+### Kurzschreibung
 
----
-
-## Kurzschreibung
-
-* ab `.ab`
+| Vorlaut l | Vorlaut n | Vorlaut r |
+|:-:|:-:|:-:|
+| | `[bunt]` | |
+| | `but` | |
 
 ### Ausstoß der Vorlaute l, n, r
 
