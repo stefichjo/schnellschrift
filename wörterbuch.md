@@ -1793,7 +1793,8 @@
 * rag `r.ag`
 * rahm `r.am`
   * : im.rahmen `.im.r.am` ~ `.im.am`
-* rakete `(.et).e`
+* ~~rak~~ete `(.et).e`
+  * : **träg**er~~rak~~ete `tr.er,(.et).e` ! `tr.eg-er,(.et).e`
 * rang `r.ang` : `r.ang.ir` `O.r.ang`
 * **rat** `ra` : `ra.os` `G.ra` `O.ra` `bu.ra` `la.ra`
   * : **rat**<i></i>*geber* `ra.g` ! `ra.g.eb-er`
