@@ -1157,7 +1157,8 @@
 * kranz `kr.az`
 * krass `kr.ass`
 * krat `kr.at` : `kr.at-er`
-* ***krat*** `.at` : `bÜ.at` `d.at` `d.at.I` `d.at.i` `SS.d.at`
+* ***krat*** `.at` : `bÜ.at` `d.at` `d.at.I` `d.at.i`
+  * *sozialdemokrat* `SS.d` : `SS.d.I` `SS.d.ei`
 * **kreb** `kr.e` : `kr-s`
 * **kred** `kr.e` : `kr.it` `.ak-kr.ir` `.ak-kr.iv`
 * ~~kr~~eis `(.eis)` : `la.eis`
@@ -1632,7 +1633,7 @@
     * : *parlament*ar**isch** `Par.ar.i` × `Par.i`
 * part `pat` : `pat-I` `pat-ik.el` `pat-ik.är` `pat-er`
   * *partei* `pa-ei` : `pa.ei-Sa.UNG`
-  * -*partei* `.ei` : `I.ei-en`
+  * -*partei* `.ei` : `I.ei-en` → krat
 * pass ← pand
 * pass ← pati
 
