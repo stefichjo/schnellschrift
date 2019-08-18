@@ -34,7 +34,7 @@
   * : *vor*.*all*em `O .al.em` ~ `O-a`
 * als `.as`
 * also `.as.o`
-* alt `.at` : `.at-er` `ki.at-er` `v.at-er.h`
+* alt `.at` : `.at-er` `.at-er.tum` `ki.at-er` `v.at-er.h`
   * ! (alt) `.alt` : `.ur.alt`
   * ält `.ät` : `.ät-er` `.ät.est`
 * *amerik* `.am` : `.am.a` `.am.er` `I E.ig .at.en v .am.a`
@@ -2014,9 +2014,10 @@
 ---
 
 * ~~sem~~ester `(.est-er)`
+* sen `s.en` : `s.en.il` STS `s.en.or`
+  * *senat* `s.at`
 
 ---
-* *senat* `s.at`
 * **send** `s`
   * : ab**send**er `.ab-s-er`
   * : ein**send**er `N-s-er`
