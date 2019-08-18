@@ -14,7 +14,7 @@
 | Kürzel | Anlautkürzel | Auslautkürzel |
 |:-:|:-:|:-:|
 | *unter* | **f**ür | |
-| | `{\|für\|}` | |
+| `{unter}` | `{\|für\|}` | |
 | `UNTER` | `f` | |
 
 | Ausschreibung |
