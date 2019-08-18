@@ -732,9 +732,8 @@
   * gült `güt` : `güt-ig` `güt-ig.T` `UN,güt-ig` `.ed,güt-ig` `gl,güt-ig` `echt,güt-ig.T`
     * *allgemein*gültig `.a-G,güt-ig` * `.a-G-Ü`
 * *ge*<i></i>***mein*** `G.N` : `G.N.H`
-  * : *all*<i></i>*ge*<i></i>***mein*** ≠ allein
-    * ⇒ *allgemein* `.a-G` : `.a-G.H` `.im.a-G`
-      * : *ver*<i></i>*allgemein* `E.a-G` ! `E.al.G`
+  * *allgemein* `.a-G` ≠ allein : `.a-G.H` `.im.a-G`
+    * : *ver*<i></i>*allgemein* `E.a-G` ! `E.al.G`
   * *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG` `la.N.e`
   * -*gemeinschaft* `N` → arbeit
 * *ge*<i></i>***nau*** `G.au`
