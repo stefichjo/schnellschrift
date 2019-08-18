@@ -2320,13 +2320,21 @@
     * : *in*<i></i>**stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
   * → kost
 * stab ← st
-* stadt ← steh
+* **stadt** `sta` : `GR,sta` `gr.sta` `hau:sta` ← steh
+  * : ~~land~~es**haupt**<i></i>**stadt** `(.es).hau:sta` × `(.es).hau`
+  * **städt** `st` : `st.e` `st.i`
 * stall ← steh
 * stall ← st
 * ~~stal~~t `(-t)` : `.an-t` `E.an-t`
   * *gestalt* `-G.a-t`
 * stamm `st.am`
-* stand ← steh
+* *stand* `and` : `N.E.and` × `N.E` ← steh
+  * *ständ* `end` : `end.e`
+    * : *selbst*~~ständ~~*ig* `-st-ig`
+    * : *selbst*~~verständ~~*lich* `-st-L`
+  * st**u**nd ⇒ *stund* `u` : `u.e` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en`
+    * ~~f~~eier*stund*e `(ei-er),u.e` ! `fei-er,u.e`
+    * *stünd* `stÜ` : `stÜ.ch.en`
 * *standard* `(.ard)`
 * stark `st.ak`
   * : stärke `st.äk.e`
@@ -2341,16 +2349,8 @@
   * steck `st.ek`
 * steck ← stech
 * **steh** `st` : `b.st` `b.ei-st` `E-st` `UN.S.st.L`
-  * *stand* `and` : `N.E.and` × `N.E`
-    * *ständ* `end` : `end.e`
-      * : *selbst*<i></i>*ständ*<i></i>*ig* `-st-end.i` × `-st-ig`
-      * : *selbst*<i></i>*ver*<i></i>*ständ*<i></i>*lich* `-st-E.end.L` × `-st-L`
-    * st**u**nd ⇒ *stund* `u` : `u.e` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en`
-      * ~~f~~eier*stund*e `(ei-er),u.e` ! `fei-er,u.e`
-      * *stünd* `stÜ` : `stÜ.ch.en`
-  * **stadt** `sta` : `GR,sta` `gr.sta` `hau:sta`
-    * : ~~land~~es**haupt**<i></i>**stadt** `(.es).hau:sta` × `(.es).hau`
-    * **städt** `st` : `st.e` `st.i`
+  * → stadt
+  * → stand
   * **stall** `sta`
   * *stell* `.ell` : `GT-ell.e`
     * : *stell*<i></i>*ung* `.ell-UNG` ⇒ `st*`
