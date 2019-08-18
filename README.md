@@ -21,10 +21,20 @@
 
 ### Kurzschreibung
 
-| l | ls | lt | n | ns | nt | r | rs | rt |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| `[ geld ]` | `[ hals ]` | `[ kalt ]` | `[ bank ]` | `[ insel ]` | `[ bunt ]` | `[ stark ]` | `[ kurs ]` | `[ wort ]` |
-| `g.ed` | `h.a-s` | `kat` | `b.ak` | `.i-s.el` | `but` | `st.ak` | `ku-s` | `wot` |
+| l | ls | lt |
+|:-:|:-:|:-:|
+| `[ geld ]` | `[ hals ]` | `[ kalt ]` |
+| `g.ed` | `h.a-s` | `kat` |
+
+| n | ns | nt |
+|:-:|:-:|:-:|
+| `[ bank ]` | `[ insel ]` | `[ bunt ]` |
+| `b.ak` | `.i-s.el` | `but` |
+
+| r | rs | rt |
+|:-:|:-:|:-:|
+| `[ stark ]` | `[ kurs ]` | `[ wort ]` |
+| `st.ak` | `ku-s` | `wot` |
 
 * als `.as`
 * tort `t.ot` = tot
