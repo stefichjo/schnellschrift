@@ -821,7 +821,7 @@
     * *hätt* `.ät`
   * **haft** `ha` : `ha,i`
     * : *einzel*<i></i>**haft** `N.el.ha` ~ `.ei-ha`
-    * -**haft** → mass
+    * -**haft** `ha`
   * → heb
 * hab `h.ab` :  `h.ab.us`
   * : habilitier `h.ab.ir` ! `h.ab.il.ir`
@@ -1424,7 +1424,7 @@
 * *mit* `M` : `M,i` `hi:M`
   * : *da*<i></i>*mit* `.a-M` ~ `a-M`
   * : *mitt* `M` : `M.e`
-    * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.ar-UNG,-t-el`
+    * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.är-t-el` `ar-UNG-t-el`
       * : *un*<i></i>*mittel*<i></i>***bar*** `UN-t-el.bar` × `UN-bar`
 * *mitt* `M`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
@@ -1486,16 +1486,11 @@
     * : näher `n.äh.er` × `n.äh` : `G.n.äh` `n.äh.es`
       * : *annäher* `.an,(er)` : `.an,(er).d`
     * → nächst
-
----
-* nahr `n.ar`
-  * : nahr**haft** `n.ar.ha`
-  * : nahr*ung* `n.ar-UNG` ~ `ar-UNG`
-  * : *er*nähr `er.n.är` ~ `er.ä`
-  * : *er*nährer `er.n.är-er` ~ `er.är-er`
-  * : *er*nähr*ung* `er.n.är-UNG`
----
-
+* nahr `n.ar` : `n.ar.ha`
+  * *nahrung* : `ar-UNG`
+  * nähr `n.är` : `n.är,-t`
+    * *ernähr* `er.är` : `er.är-er`
+      * : *ernähr*en `er.är` ~ `er.ä`
 * ~~nam~~ : `(.e)` `(-t-L)` `ach,(.e)`
   * ! `n.am` : `n.am.ha`
   * ***näm*** `.äm` : `.äm.L`
@@ -1885,8 +1880,8 @@
 * **reis** `r.ei` : `r.ei-e`
 * reit `r.T`
   * *bereit* `b.T`
-    * : *vor*<i></i>*bereit*en `O.b.T` × `O.b`
     * : *bereit*s `b.Ts` ~ `Ts`
+    * : *vor*<i></i>*bereit*en `O.b.T` × `O.b`
   * ritt `r.it`
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.ent` `k.or-r.ir`
@@ -2871,7 +2866,7 @@
 * werk `w.ek` : `b.eg.w.ek` `hi.w.ek`
   * *handwerk* `ha.ek` : `ha.ek.ib` `ha.ek-er`
 * wert `wet` : `.ab.wet`
-  * -*wert* `(-t)` → hoch staun streb
+  * -*wert* `(-t)` → hoch nahr staun streb
 * wes ← sein
 * west `w.est`
   * : west*lich* `w.est-L` * `w.L`
