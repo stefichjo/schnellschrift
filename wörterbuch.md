@@ -1554,11 +1554,9 @@
   * -***nom*** `.om` → astr aut gastr metr ök
 * nord `n.od`
 * *nordrheinwestfalen* `n.o-fa`
+* norm `n.om` :  `n.om.al` `.e-n.om`
 
 ---
-* norm `n.om` (E)
-  * : normal `n.om.al` (E)
-  * : enorm `.e-n.om` (E)
 * <b>*not*</b> `.ot`
   * : ***nöt*** `.öt`
 * <b>*nug*</b> `.ug`
