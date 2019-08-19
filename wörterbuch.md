@@ -6,7 +6,7 @@
 ## [A](#wörterbuch)
 
 * ab `.ab` : `.ab,i`
-* ~~ab~~end `(.ed)`
+* *ab****end*** `(.ed)`
 * *aber* `ber` : `ber.ma-s` `ber-aY`
 * acht `.acht` : `.acht-Sa` `b.acht` `ho.acht-UNG`
   * *mit*.*vor*<i></i>**züg**<i></i>*lich*er.**hoch**acht*ung* `M.O.üg.L.ho.acht` ~ `M-Ü.ho`

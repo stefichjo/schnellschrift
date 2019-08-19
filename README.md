@@ -18,6 +18,8 @@
 | `ku` | `.ot` | `f` | `(T)` |
 
 * ~~arb~~eit ⇒ arb***eit***
+* inlautkürzung/-kürzel
+  * eigenständig/verschmelzend
 
 ### Kurzschreibung
 
@@ -71,7 +73,7 @@ Die Endung -*ung* `UNG` wird nach Fußschleifenzeichen durch Auslassen der Fußs
 
 Bei Verbstämmen wird Endung -*ung* `UNG` nach Artikel nicht geschrieben.
 
-* *die* *rech*n*ung* = *die* *rech*~~nung~~ `I ech`
+* *die* *rech*n*ung* = *die* *rech*n~~ung~~ `I ech`
 * *die* **zeit**<i></i>*ung* `I T-UNG`
 
 ### Griechischer Fugen-Selbstlaut
@@ -113,27 +115,27 @@ Kürzel können andere Kurzformen verschatten.
 
 Auslautkürzel mit Fußschleife werden beim Setzen auf die Oberlinie um eine Stufe erhöht.
 
-* ~~her~~z `(z)`
+* her***z*** `(z)`
 
 
 ### Inlautkürzel
 
-* **i**~~st~~ `i`
-* ~~t~~**o**~~n~~ `o`
+* **i**st `i`
+* t**o**n `o`
 
 ## Kürzung
 
 ### Anlautkürzung
 
-* **bald** `ba` = **ba**~~ld~~
+* **bald** `ba` = **ba**ld
 
-* **bis** `bi` = **bi**~~s~~
+* **bis** `bi` = **bi**s
 
-* **kurz** `ku` = **ku**~~rz~~
-* **tausch** `tau` = **tau**~~sch~~
+* **kurz** `ku` = **ku**rz
+* **tausch** `tau` = **tau**sch
 
-* **kon**- `ko` = **ko**~~n~~-
-* **schön** `schö` = **schö**~~n~~
+* **kon**- `ko` = **ko**n-
+* **schön** `schö` = **schö**n
 
 Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit "-er" `-er`.
 
@@ -142,9 +144,9 @@ Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit "-er" `-er`.
 
 Die Endung "-e" `.e` von weiblichen Hauptwörtern wird bei Anlautkürzungen und Anlautkürzeln nicht geschrieben. Ausgenommen sind Substantivierungen von Eigenschaftswörtern.
 
-* **woch**e `wo-e` = **wo**~~ch~~e
-* li~~st~~e `l.i-e` = li~~ste~~
-* **größ**e `grö.e`
+* **woch**e `wo-e` = **wo**che
+* **li**ste `l.i-e` = li~~ste~~
+* **größ**e `grö.e` = **gr**öße
 
 Der Stammselbstlaut "e" von alleinstehenden Anlautkürzungen wird ausgeschrieben.
 
@@ -155,10 +157,10 @@ Der Stammselbstlaut "e" von alleinstehenden Anlautkürzungen wird ausgeschrieben
 
 Der Stammselbstlaut "ä" wird bei Anlautkürzungen wie "e" behandelt, und das "ü" wird durch Durchstreichung angedeutet. Abweichungen werden als Kürzel notiert.
 
-* **männ**er `m.er` = **mä**~~nn~~er
-* **gä**~~st~~e `gä-e` = *gä*~~st~~e
-* **bücher** `bÜ.er` = **bü**~~ch~~er
-* **bü**~~nd~~el `bü.el` = *bü*~~nd~~el
+* **männ**er `m.er` = **mä**nner
+* **gä**ste `gä-e` = *gäst*e
+* **büch**er `bÜ.er` = **bü**cher
+* **bü**ndel `bü.el` = *bünd*el
 
 #### Ausweichen (statt Anstellen und Wölben)
 
@@ -215,15 +217,15 @@ Die kleinsten Zeichen, aus denen das "r" herausgezogen werden kann, sind "b", "d
 * ***pass*** `pass`
 * ***wass***<i></i>er `was-er`
 * ***was*** `was`
-* ***fer***<i></i>~~n~~ `fer`
+* ***fer***n `fer`
 
 ## Didaktische Verhältnismäßigkeit und Praxis
 
 In der Schnellschriftpraxis haben viele Stämme mehr als ein Kürzel oder Kürzung. Da dies für den Lernenden bisweilen sehr verwirrend sein kann, sollte man anfangs nicht mehr als eine Kurzform pro Stamm lernen. Auf die Anwendung des Kürzels *berat* `Ra` sollte daher zunächst verzichtet werden, da diese die Anlautkürzung **rat** `ra` verschatten würde. Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet werden. Zum Beispiel sollte *er*<i></i>**rat**~~en~~ `er-ra` nicht ausgeschrieben werden zu *er*rat~~en~~ `er-r.at`.
 
 * **rat** `ra`
-  * *be*<i></i>**rat**~~en~~ `b.ra`
-  * *er*<i></i>**rat**~~en~~ `er-ra`
+  * *be*<i></i>**rat**en `b.ra`
+  * *er*<i></i>**rat**en `er-ra`
 
 Verkehrsschriftlichen Kurzform können hingegen verschattet werden. Beispielsweise verschattet *Mittel* `-t-el` das verkehrsschriftliche *mit* `M` bzw. *Mittel* `M.el`.
 
@@ -239,7 +241,7 @@ Wörter mit zwei Vorsilben können auf diese gekürzt werden.
 * wort `wot`
   * **be**<i></i>*ant*worten `b.aNT.wot` × `b.aNT`
 
-Im Wortzusammenhang können ungekürzte Verbstämme ausgelassen oder durch ihren Selbstlaut angedeutet werden. So werden beispielsweise die ungekürzten "empfehlen" `.emp-f.el` und "empfahl" `.emp-f.al` zu `.emp` und `.emp-a`, während bereits gekürztes *ent*<i></i>**wick**el~~n~~ `eNT,wi.el` nicht weiter zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird und ungekürztes *be*merk~~en~~ `b.m.ek` nicht etwa auf den Stammanlaut zu `b.m` verkürzt wird.
+Im Wortzusammenhang können ungekürzte Verbstämme ausgelassen oder durch ihren Selbstlaut angedeutet werden. So werden beispielsweise die ungekürzten "empfehlen" `.emp-f.el` und "empfahl" `.emp-f.al` zu `.emp` und `.emp-a`, während bereits gekürztes *ent*<i></i>**wick**eln `eNT,wi.el` nicht weiter zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird und ungekürztes *be*merk~~en~~ `b.m.ek` nicht etwa auf den Stammanlaut zu `b.m` verkürzt wird.
 
 * fehl `f.el`
   * empfehlen `.emp-f.el` × `.emp`
@@ -253,8 +255,6 @@ Im Wortzusammenhang können ungekürzte Verbstämme ausgelassen oder durch ihren
 
 Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
 
-* ~~arb~~eit `(T)`
-  * ~~arbeits~~los `(l.os)`
 * ***mög***en `.ög`
   * ~~mög~~*lich* `(L)`
 * **be**<i></i>**stimm**en `b.im`
