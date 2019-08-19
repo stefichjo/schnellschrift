@@ -24,7 +24,7 @@
     * *akt****i*** `(.I)` : `(.I).e`
       * : *akt****i***onär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
-* **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `ku-st-ak.I`
+* **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust-ak.I`
 * akzent ← kan
 * -al `.al`
   * -il `.il`
@@ -388,7 +388,7 @@
     * : *ver*ein*ig* `E.N.i` × `E.ig`
       * -*vereinigung* `ig`
     * -*verein* `N` → sport
-  * *einst* `.ei-st` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
+  * *einst* `.eist` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
     * *einzel*- `.ei` → hand
   * ~~ein~~z*ig* `(z.i)`
@@ -908,7 +908,7 @@
   * : *de****r***.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
   * : **herr**<i></i>*isch* `h.i` ! `h.err.i`
-* ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `ku-st,(z)`
+* ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `kust,(z)`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
 * **hier** `hi` : `(hi)AU` `hi.S` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER`
@@ -1186,7 +1186,7 @@
     * : **künd**en `kÜ` ! `k.üd` ≠ kürzen
 * **kunft** `ku` : `Ü.N.ku` `Z-ku` `Z-sa.ku` `.S.ku:g` STS ← komm
   * **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z-kÜ.i`
-* kunst `ku-st` ← könn
+* kunst `kust` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst-l.er` ⇒ `kYst-er` `kYst-er.i` `G.kYst-elt`
 * kur `k.ur`
   * : pr**o**kurist `(o)k.ur.ist` * `(o)k.ist`
@@ -1552,7 +1552,7 @@
   * ***nuss*** `.uss` : `G.uss`
     * ***nüss*** `.üss` : `G.üss`
   * → nutz
-* *niveau* `.iw.o` : `ku-st-iw.o` ← nivell
+* *niveau* `.iw.o` : `kust-iw.o` ← nivell
   * *niveau*<i></i>*los* `.iw.o-l.o` ! `.iw.o-l.os`
 * niv~~ell~~ `n.iw` : `n.iw.ir-UNG`
   * → niveau
@@ -2205,7 +2205,7 @@
   * ***schieh*** `.ih`
   * ***schah*** `.ah`
   * ***schäh*** `.äh`
-  * ***schicht*** `.icht` : `G.icht.e` `ku-st-:icht.e`
+  * ***schicht*** `.icht` : `G.icht.e` `kust-:icht.e`
     * welt*ge*<i></i>***schicht***<i></i>e `wet-icht.e` ~ `w.icht.e`
 * **scheid** `.eid` : `b.eid`
   * : *ent*<i></i>**scheid** `eNT.eid` ~ `eNT.ei`
@@ -2391,7 +2391,7 @@
   * stoch `st.och`
   * steck `st.ek`
 * steck ← stech
-* **steh** `st` : `b.st` `b.ei-st` `E-st` `UN.S.st.L`
+* **steh** `st` : `b.st` `b.eist` `E-st` `UN.S.st.L`
   * → stadt
   * → stand
   * **stall** `sta`
@@ -2428,7 +2428,7 @@
 * stock `st.ok`
 * *stockholm* `st.ho`
 * **stoff** `.of` : `(k).of`
-  * kunst**stoff** `ku-st-of` * `ku-s.of` @ t~of
+  * kunst**stoff** `kust-of` * `ku-s.of` @ t~of
 * **stolz** `.oz`
 * **straf** `stra` : `stra-e`
 * strahl `str.al` : `str.al.ed` `str.al,u`
