@@ -13,7 +13,7 @@
   * -*acht* `.a`
     * : **gut***acht*en `gu.a.en` × `gu.a` ~ `u.a`
     * : **gut***acht*er `gu.a.er` × `gu,er`
-* adr~~ess~~ `.adr`
+* **adr**ess `.adr`
 * *afrik* `.afr`
   * : *afrik*a `.afr.a` × `.afr`
   * : *afrik*an*isch* `.afr.i`
@@ -21,7 +21,7 @@
   * : ag*ent*ur `.ag.eNT.ur` × `.ag.ur`
   * akt `.akt` ⇒ `.ak.t` : `r.akt-or`
     * : **re**akt*ion* `r.akt-iO` * `r-t-iO`
-    * ~~akt~~i `(.I)` : `(.I).e`
+    * *akt****i*** `(.I)` : `(.I).e`
       * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
 * ak~~adem~~ `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `ku-st-ak.I`
