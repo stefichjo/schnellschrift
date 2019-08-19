@@ -254,11 +254,11 @@
 * dank `d.ak` : `d.ak.ed` `gru.G.d.ak.e` `UN-d.ak` `M.b.est-d.ak` `wr.d.ak,i` ← denk
   * ~~dank~~<i></i>***bar*** `(bar)` : `(bar).T` `s.bar`
   * *gedank* `G.da` : `G.da.e` `G.da.os`
-* ~~d~~ann `(.an)`
-  * (denn) `d.en`
+* *d****ann*** `(.an)`
+  * denn `d.en`
 * ***dar*** `dar` : `dar-i` `dar-u`
   * ***dar***- `dar`
-* d~~as~~ `d`: `d.i°`
+* **d**as `d`: `d.i°`
 * **dat** `da` : `da.ei` `da.en` `da.ir` `da.um`
   * **dit** `di` : `ko,di-o` `ko,di.i-aL`
     * : **tra**<i></i>**dit** `tra,di`
@@ -279,7 +279,7 @@
   * → dank
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
-* ~~de~~r `(r)` : `.S-er` `(I)-er`
+* *de****r*** `(r)` : `.S-er` `(I)-er`
 * ~~d~~es `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
@@ -288,7 +288,7 @@
 * *deutschland* `SCHa`
   * : **bu**~~nd~~es*republik*.*deutschland* `bu:r.ik,SCHa` ~ `bu,SCHa`
 * *die* `I`
-  * d~~ass~~.*die* `d.I` ! `d I` ≠ d~~ass~~.*ich*
+  * **d**ass.*die* `d.I` ! `d I` ≠ **d**ass.*ich*
   * *für*.*die* `f.I` ~ `fI`
 * **dien** `di` : `di.ed` `di-t.e` `di.bar.T` `b.e,di` `E,di`
   * : **dien**er `di-er` ! `di.er`
@@ -311,11 +311,11 @@
   * : ~~allerdi~~ng `(ng)` : `(ngs)`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
-  * d~~as~~.*diplom*at*isch*e.**corps** `d,di-om.ko`
+  * **d**as.*diplom*at*isch*e.**corps** `d,di-om.ko`
 * *doch* `d-ch`
   * : je*doch* `j.e-d-ch` ~ `j-ch`
 * doktor ← doz
-* ~~doll~~ar `(.ar)`
+* *doll****ar*** `(.ar)`
 * dorf `d.of`
 * dort `dot` : `dot-ig`
 * ***dox*** `.ox` : `pa.ox` `pa.ox.I`
@@ -372,7 +372,8 @@
 * eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
 * ein `N` : `N-t.e` `N.i` `N.i-t.e` `N.ma` `N,u` `E.N-Sa`
-  * : *wieder*.ein*mal* `W.N.ma` × `W.N`
+  * : *wieder*.ein**mal** `W.N.ma` × `W.N`
+  * : *zunächst*.ein**mal** `-Z-n,N.ma` × `-Z-N`
   * -ein `N` : `d.N` `m.N` `s.N`
     * : kein `k.N` * `(K)` → fall weg
     * -**ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
@@ -904,7 +905,7 @@
   * *her*- `.e` : `.e-AU` `.e-UNTER` `.e-O`
 * ~~her~~bst `(bst)` : `(bst).L`
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert-h.en`
-  * : ~~de~~r.**herr** `(r)h`
+  * : *de****r***.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
   * : **herr**<i></i>*isch* `h.i` ! `h.err.i`
 * ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `ku-st,(z)`
@@ -1342,8 +1343,8 @@
 * *makel* `m.ak`
   * : *makl*er `m.ak-er`
 * mal `m.al`
-  * -*mal* `ma` → denk ein jed manch
-    * : -*mal*s `ma-s` → aber je mehr nie noch
+  * -**mal** `ma` → denk ein jed manch
+    * : -**mal**s `ma-s` → aber je mehr nie noch
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
@@ -1489,7 +1490,7 @@
   * : *da*<i></i>*nach* `.a-ach` ! `(da)ach`
   * ~~nach~~*bar* `(bar)`
 * *näch****st*** `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
-  * : *zu**näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z.n`
+  * : *zu**näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z-n`
 * ***nacht*** `acht`
 * nah `n.ah` : `G.n.a-t`
   * näh `n.äh` : `G.n.ä-t` `n.äh.er-er`
@@ -1556,7 +1557,7 @@
 * niv~~ell~~ `n.iw` : `n.iw.ir-UNG`
   * → niveau
 * *noch* `n-ch`
-  * : *noch*<i></i>*mal*s `n-ch:ma-s` × `n-ch-s`
+  * : *noch*<i></i>**mal**s `n-ch:ma-s` × `n-ch-s`
 * nom `n.om` : `n.om.i-aL`
   * -***nom*** `.om` → astr aut gastr metr ök
 * nord `n.od`
@@ -1995,8 +1996,8 @@
   * bei<i></i>***seit***<i></i>e `b.ei-T.e` ! `b.ei-s.T.e`
   * *auf*.<i></i>***beid***<i></i>en.<i></i>***seit***<i></i>en `AU .eid T-en` ~ `AU.eid.T-en`
   * *auf* *dies*er ***seit***<i></i>e `AU.iS-er T.e` ~ `AU-i.T.e`
-  * *auf* ~~de~~r *ein*en ***seit***<i></i>e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
-  * *auf* ~~de~~r anderen ***seit***<i></i>e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
+  * *auf* *de****r*** *ein*en ***seit***<i></i>e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
+  * *auf* *de****r*** anderen ***seit***<i></i>e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
   * v~~on~~ ***beid***<i></i>en ***seit***<i></i>en `v .eid T-en` ~ `v.eid.T-en`
   * v~~on~~ *mehrer*en ***seit***<i></i>en `v MR T-en` ~ `v.MR.T-en`
   * v~~on~~ *unserer* ***seit***<i></i>e `v u-er-er T.e` ~ `v,u-er-er.T.e`
@@ -2013,7 +2014,7 @@
   * : *selb*st `l.st`
     * *selbst* `-st` : `-st,u-N` `-st-ko`
   * : *die*<i></i>*selb*en `I.l.en` E
-  * : ~~de~~r*selb*e `(r).l.e` E
+  * : *de****r****selb*e `(r).l.e` E
 * selt `set` : `set-en` `set-Sa`
   * : *seltenheit* `s.H`
 ---
@@ -2936,7 +2937,7 @@
   * wonn `w.on` : `G.w.on`
 * winter `wit` ! `wit-er` ≠ wirt
 * *wir* `wr`: `wr-I`
-  * d~~ass~~.*wir* `d.wr` ~ `DR` (3-stufiges R)
+  * **d**ass.*wir* `d.wr` ~ `DR` (3-stufiges R)
 * ~~wir~~k `(k)` : `(k).L` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(w).L`
   * : ~~wir~~k*lich*<i></i>*keit* `(k).L` ! `(k).L.T`
   * : ~~wir~~k*sam*<i></i>*keit* `(k)-Sa.T` ! `(k)-s.am.T`
