@@ -269,9 +269,9 @@
   * : *mit*.~~de~~m `M.m` ~ `MM` P
 * **dem** `d.e`
   * : demokrat ← krat
-* ~~de~~n `(n)` `(I)n`
-  * : *mit*.~~de~~n `M.n` ~ `MN` P (3-stufiges M)
-  * : **von**.~~de~~n `v.n` ~ `VN` P (3-stufiges N)
+* *de****n*** `(n)` `(I)n`
+  * : *mit*.*de****n*** `M.n` ~ `MN` P (3-stufiges M)
+  * : **von**.*de****n*** `v.n` ~ `VN` P (3-stufiges N)
 * denk `d.ek`: `d.ek.ed` `d.ek-er` `d.ek.ma` `UN-d.ek.bar` `ach.d.ek.L`
   * **dacht** `da` : `E.da`
     * **dächt** `d` : `G.d.is` `E.d.i`
@@ -1347,7 +1347,7 @@
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
-  * : p~~er~~**man***ent* `p.ma.eNT` ~ `p.m.an.eNT`
+  * : **per**<i></i>**man***ent* `p.ma.eNT` ~ `p.m.an.eNT`
 * *manch* `aCH` `aCH.l.ei` `.aCH.es.ma`
   * : *manch*er `aCH-er` ! `aCH.er`
   * : *manch*<i></i>**mal** `aCH.ma` ! `aCH.m.al`
@@ -1356,9 +1356,9 @@
 * **mann** `ma` : `.auf.ma` `la.ma`
   * : **la**~~nd~~s**mann** `la.ma` ! `la-s.ma` ≠ landmann
   * **männ** `m.e` : `m.er` `m.L` `.auf.m.i`
-* ~~mar~~kt `(kt)` : `vi.kt`
-  * : ~~arb~~eits~~mar~~kt `(T)-kt` ~ `T-kt`
-  * : welt~~mar~~kt `wet.kt` ~ `(-t),(-t)`
+* *mar****kt*** `(kt)` : `vi.kt`
+  * : ~~arb~~eits*mar****kt*** `(T)-kt` ~ `T-kt`
+  * : welt*mar****kt*** `wet.kt` ~ `(-t),(-t)`
 * *marokk* `ma.ok`
   * : *marokk*o `ma.ok.o` × `ma.ok`
 * ~~masch~~in `(.in)` : `(.in).e` `(.in).ell` `n.äh,(.in).e`
@@ -1402,7 +1402,7 @@
       * -*mäßig* `.i` → halt reg
       * -*gemäß* `.G`: `er.fa.G`
 * *metall* `m.et` : `m.et.i`
-* ~~meth~~od `(.od)` : `(.od).e`
+* *meth****od*** `(.od)` : `(.od).e`
 * metr `m.etr` : `m.etr.om` `m.etr.um` `m.etr.ik` `m.etr.i`
   * -metrie `m.etr.I` → ge sym
   * meter `m.et-er`
@@ -1418,7 +1418,7 @@
   * : **min**orität `mi.or.ät` ~ `m.in.ät`
   * : pr**o**<i></i>**min***ent* `(o)mi.ent` × `(o)mi`
   * → minist
-  * ~~min~~ut `(.ut)` ⇒ `.ut` : `.ut.e`
+  * *min****ut*** `(.ut)` ⇒ `.ut` : `.ut.e`
 * *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min
   * : *minist*erien `mi.I.en` ! `mi.er.I.en`
   * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → finanz just kult wirt
@@ -1454,10 +1454,10 @@
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
 * mo ← mov
-* ~~mom~~ent `(met)` : `tr.eg.H,(met)`
-* ~~mon~~at `(.at)` : `(.at).L` `.im (g).at`
-  * *in*.~~de~~n.~~näch~~sten.~~mon~~aten `(I)n,(-st)-at.en` ! `(I)n,-st (.at).en`
-  * *in*.~~den~~.*letzt*en.~~mon~~aten `(I)let-at.en` ! `(I)let (.at).en`
+* *mom****ent*** `(met)` : `tr.eg.H,(met)`
+* *mon****at*** `(.at)` : `(.at).L` `.im (g).at`
+  * *in*.*de****n***.*näch****st***en.*mon****at***en `(I)n,(-st)-at.en` ! `(I)n,-st (.at).en`
+  * *in*.~~den~~.*letzt*en.*mon****at***en `(I)let-at.en` ! `(I)let (.at).en`
 * mono- `m.on.o`
 * **monstr** `mo` : `d.e-mo-o` `d.e-mo.ir`
   * : **monstr**um `mo.um` ! `mo-s.um`
@@ -1488,8 +1488,8 @@
 * *nach* `ach` : `hi:ach` ← nah
   * : *da*<i></i>*nach* `.a-ach` ! `(da)ach`
   * ~~nach~~*bar* `(bar)`
-* ~~näch~~st `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
-  * : *zu*~~näch~~st `(Z)(-st)` ⇒ *zunächst* `-Z.n`
+* *näch****st*** `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
+  * : *zu**näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z.n`
 * ***nacht*** `acht`
 * nah `n.ah` : `G.n.a-t`
   * näh `n.äh` : `G.n.ä-t` `n.äh.er-er`
@@ -3003,7 +3003,7 @@
   * *zicht* `-i-` : `E-i`
     * **be**<i></i>*zicht*<i></i>*ig*en `b-i.i` ~ b.z.i`
 * zeil `z.eil`
-* ***zeit*** `T` : `u-er-er.T`
+* ***zeit*** `T` : `u-er-er.T` `IN,(-st)-T`
   * : ~~arb~~eits<i></i>***zeit*** `(T)-s.T` ~ `Ts.T`
   * : *vor*.*länger*er.***zeit*** `O.eNGR.T`
 * zend `z.ed` : `tra.z.ed.eNT`
