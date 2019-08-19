@@ -22,14 +22,12 @@
   * akt `.akt` ⇒ `.ak.t` : `r.akt-or`
     * : **re**akt*ion* `r.akt-iO` * `r-t-iO`
     * *akt****i*** `(.I)` : `(.I).e`
-      * : ~~akt~~ionär `(.I).on.är` ~ `(.I).är`
+      * : *akt****i***onär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
-* ak~~adem~~ `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `ku-st-ak.I`
+* **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `ku-st-ak.I`
 * akzent ← kan
 * -al `.al`
-  * -~~al~~-
   * -il `.il`
-    * -~~il~~-
 * *all* `.al` : `wet-al`
   * : *vor*.*all*em `O .al.em` ~ `O-a`
 * als `.as`
@@ -51,12 +49,12 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
-* ~~arb~~eit `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z-Sa.T`
+* *arb****eit*** `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z-Sa.T`
   * ! arbeit `.ab.T` : `G.ab.T` `b.ab.T` `E.ab.T`
-  * : ~~arb~~eit*sam* `(T)-Sa` ~ `T-Sa`
-  * : ~~arbeits~~los `(l.os)`
-  * : ~~arb~~eits*gemeinschaft* `(T)-s.N` ~ `Ts.N`
-  * : ~~arb~~eits~~w~~eise `(T)-s.eis.e` ~ `Ts.eis.e`
+  * : *arb****eit****sam* `(T)-Sa` ~ `T-Sa`
+  * : *arbeits****los*** `(l.os)`
+  * : *arb****eit***s*gemeinschaft* `(T)-s.N` ~ `Ts.N`
+  * : *arb****eit***s~~w~~eise `(T)-s.eis.e` ~ `Ts.eis.e`
 * arch `.ach` : `.ach.iv`
   * : archivar `.ach.iv.ar` × `.ach.ar`
 * arch `.ach` : `.ach.og.e`
