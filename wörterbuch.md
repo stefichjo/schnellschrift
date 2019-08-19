@@ -271,7 +271,7 @@
   * : demokrat ← krat
 * *de****n*** `(n)` `(I)n`
   * : *mit*.*de****n*** `M.n` ~ `MN` P (3-stufiges M)
-  * : **von**.*de****n*** `v.n` ~ `VN` P (3-stufiges N)
+  * : **von**.*de****n*** `v.n` ~ `VN` P (3-stufiges V)
 * denk `d.ek`: `d.ek.ed` `d.ek-er` `d.ek.ma` `UN-d.ek.bar` `ach.d.ek.L`
   * **dacht** `da` : `E.da`
     * **dächt** `d` : `G.d.is` `E.d.i`
