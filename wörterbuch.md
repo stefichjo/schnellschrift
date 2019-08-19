@@ -520,7 +520,7 @@
     * : empfahl `.emp-f.al` * `.emp-a`
   * fohl `f.ol` : `b.f.ol`
     * : empfohl `.emp-f.ol` × `.emp`
-* ~~f~~eier `(.ei-er`) : `(.ei-er).L` `(.ei-er).tag` `G.ei-ert`
+* ~~f~~eier `(.ei-er`) : `(.ei-er).L` `G.ei-ert`
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
 * feld `f.ed` : `m.in.f.ed`
@@ -902,7 +902,7 @@
 * hemm `h.em` : `h.em-UNG.os`
 * h~~er~~ `h` : `(bi)h` `.a-h`
   * *her*- `.e` : `.e-AU` `.e-UNTER` `.e-O`
-* ~~her~~bst `(bst)` : `(bst).L` `(bst)-tag`
+* ~~her~~bst `(bst)` : `(bst).L`
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert-h.en`
   * : ~~de~~r.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
@@ -2472,11 +2472,11 @@
 ## [T](#wörterbuch)
 
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
-  * tab~~ell~~e `t.ab.e` × `t.ab`
-* *tag* `tag` : `bu:tag` `f.ei-er.tag` `do.tag` `f.T-tag` `(I)n,(-st)-tag.en`
+  * tab~~ell~~e `t.ab.e` × `t.ab` 
+* *tag* `-tag` : `bu:-tag` `(.ei-er)-tag` `do-tag` `f.T-tag` `(bst)-tag` `(I)n,(-st)-tag.en`
   * : ~~arb~~eits*tag* `(T)-tag` ~ `T-tag`
   * : ~~fr~~ei*tag* `(.ei)-tag` ! `.ei-tag`
-  * : *tag*.~~für~~.*tag* `tag.tag` STS
+  * : *tag*.~~für~~.*tag* `tag-tag` STS
   * *täg* `teg` : `teg.L`
 * tang `t.ang` : `t.ang.ir` `t.ang.ent.e`
   * takt `t.akt`
