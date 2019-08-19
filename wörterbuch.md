@@ -2111,6 +2111,7 @@
 ---
 
 * *so* `.o` : `.eb.o`
+  * *so*- `o`
   * → sonst
 * sol `s.ol` : `s.ol.id` `ko-s.ol.ir`
 * *solch* `(s)ch`
@@ -2501,7 +2502,7 @@
   * → tekt
 * **teg** `t.e` : `(o)t.ir`
   * **tekt** `t.e` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
-* ~~t~~eil `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e` `O.eil.ha`
+* *t****eil*** `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e` `O.eil.ha`
 * tekt ← techn
 * tekt 
   * : archi**tekt** `.ach.t` ~ `.ach.ekt`
