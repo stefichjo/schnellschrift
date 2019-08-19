@@ -1937,6 +1937,7 @@
   * : an**sag**er `.an.sa-er` ! `.an.s.ag-er`
   * : *aus***sag**e `.S.sa-e` ! `.S.sa.e`
   * : *ver***sag**er `E-sa-er` ! `E-s.ag-er`
+  * : wetter*vor*<i></i>**her**<i></i>**sag**e `w.et-er.O.h.sa` × `w.et-er.sa`
   * : **zeug**en*aus***sag**e `.eug.S.sa-e` × `.eug.S`
   * **säg**
     * ! `s.eg` : `UN.s.eg.L`
