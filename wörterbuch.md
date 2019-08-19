@@ -2798,7 +2798,7 @@
   * wält `wet` : `b.wet-ig` `Ü.wet-ig.ed`
 * wand `w.ad`
 * wand ← wind
-* wandel ← wand
+* wandel ← wind
 * wann `w.an` : `.i-w.an`
 * **war** `wa`
   * : **war**e `wa-e` ! `wa.e`
@@ -2919,7 +2919,7 @@
 * wind ← weh
 * wind `w.id`
   * wand `w.ad`
-    * wandel `w.ad.l` ~ `wa.l`
+    * *wandel* `wa.el`
   * wund `w.ud`
   * **wend** `w.e` : `.an.w` `AU.w` `E.w` `E.w-UNG`
     * ! `w.ed`
@@ -3001,7 +3001,7 @@
   * *zicht* `-i-` : `E-i`
     * **be**<i></i>*zicht*<i></i>*ig*en `b-i.i` ~ b.z.i`
 * zeil `z.eil`
-* ***zeit*** `T`
+* ***zeit*** `T` : `u-er-er.T`
   * : ~~arb~~eits<i></i>***zeit*** `(T)-s.T` ~ `Ts.T`
   * : *vor*.*länger*er.***zeit*** `O.eNGR.T`
 * zend `z.ed` : `tra.z.ed.eNT`
