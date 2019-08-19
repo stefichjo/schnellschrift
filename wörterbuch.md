@@ -280,11 +280,11 @@
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
 * *de****r*** `(r)` : `.S-er` `(I)-er`
-* ~~d~~es `(.es)` : `(.es)ha` `(.es)w`
+* *d****es*** `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
   * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
-* ~~deut~~sch `SCH`
+* *deut****sch*** `SCH`
 * *deutschland* `SCHa`
   * : **bu**~~nd~~es*republik*.*deutschland* `bu:r.ik,SCHa` ~ `bu,SCHa`
 * *die* `I`
@@ -308,7 +308,7 @@
   * : **be**<i></i>**ding** `b.ing` ~ `(ng)`
     * : *un***be**<i></i>**ding**<i></i>t `UN-b.ing` ~ `UN-t`
       * : *un*<i></i>**be**<i></i>**ding**<i></i>t**not**<i></i>**wend***ig* `UN-b.ing .ot.w.i` ~ `UN-b.o-w.i`
-  * : ~~allerdi~~ng `(ng)` : `(ngs)`
+  * : *allerdi****ng*** `(ng)` : `(ngs)`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
   * **d**as.*diplom*at*isch*e.**corps** `d,di-om.ko`
@@ -327,11 +327,11 @@
   * *doktor* `der`
 * dreh `dr.eh`
   * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
-* **dri**~~ng~~ `dri` : `dri.ed` `dri-est.e` `dri.L` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z-dri.L` `dri-Ü.is`
-  * **dri**~~ng~~*lich*<i></i>*keit* `dri.T` ! `dri.L.T`
-  * **dra**~~ng~~ `dra`
-    * **drä**~~ng~~ `drä`
-  * **dru**~~ng~~ `dru` : `G.dru` `N.dru`
+* **dri**ng `dri` : `dri.ed` `dri-est.e` `dri.L` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z-dri.L` `dri-Ü.is`
+  * **dri**ng*lich*<i></i>*keit* `dri.T` ! `dri.L.T`
+  * **dra**ng `dra`
+    * **drä**ng `drä`
+  * **dru**ng `dru` : `G.dru` `N.dru`
 * **druck** `dru` : `dru.ei` `ach.dru` `N.dru`
   * : *aus*<i></i>**druck** `.S.dru` ~ `.S-u`
   * .~~ausdruck~~. : `z.ko` `z.bra`
@@ -2232,7 +2232,7 @@
       * ! *aus*<i></i>***schuss*** `.S.uss`
     * ***schüss*** `.üss` : `.üss.e` `.üss.el` `.S.üss.e` `Ü-üss.e` `Z-üss.e`
 * **schiff** `.if`
-* ~~schilli~~ng `(ng)`
+* *schilli****ng*** `(ng)`
 * schirm `sch.im`
 * schlacht ← schlag
 * schlaf `schl.af`
