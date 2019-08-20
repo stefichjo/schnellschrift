@@ -652,7 +652,7 @@
   * : *führ*en `Ür` ⇒ `.ür` STS ! `f.ür`
   * : *führ*er `Ür-er` ⇒ `.ür-er` ! `f.ür-er`
   * : *führ*<i></i>*ung* `Ür-UNG` ⇒ `.ür-UNG` ! `f.ür-UNG`
-  * : *auf**s****icht****führ*end `AU.icht-Ür.ed` * `AU-i-Ür.ed`
+  * : *auf*<i></i>*s****icht****führ*end `AU.icht-Ür.ed` * `AU-i-Ür.ed`
   * : *aus**führ**lich* `.S-Ür.L` ⇒ `.S.ür.L` ~ `.S-ü.L`
   * : *durch*<i></i>*führ*en `dr-Ür` ~ `dr-ü`
   * : *darauf* *zu***rück***führ*en `dar-AU u-rÜ-Ür` ⇒ `dar-AU u-rÜ.ür` × `dar-AU-Ür`
@@ -1765,7 +1765,7 @@
 
 * *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO` `(ko)tra.pt.i` `(ko)tra.pt.iS.i`
   * -p**u**nkt `u` → hoh kontr
-    * : *ge**s****icht***sp**u**nkt `G.icht,u` × `G,u`
+    * : *ge*<i></i>*s****icht***sp**u**nkt `G.icht,u` × `G,u`
     * : *stand*p**u**nkt `and,u` ~ `a-pt`
 * put `p.ut`
   * : amputat*ion* `.am-p.ut.iO` * `.am-p-o`
@@ -1857,7 +1857,7 @@
 ---
 
 * *r****eich*** `(.eich)` : `b.eich` `Ü.eich` `hi.eich`
-  * : *er**r****eich*** `er.eich` ~ `(er)r.ei`
+  * : *er*<i></i>*r****eich*** `er.eich` ~ `(er)r.ei`
 * ~~r~~eif `(.eif)` STS : `ho.ul.eif.e`
   * ! `r.eif` 
 * reih `r.eih`
