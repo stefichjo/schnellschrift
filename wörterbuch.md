@@ -1525,7 +1525,7 @@
     * ! `n.am`
   * ~~n~~omm `(.om)` : `.an.om` `AU.om` `Ü.om` `E.om` `O.om` `IN.auf.om`
     * *vor*ein*ge*~~nommen~~ `O.N.G`
-    * *un**vor*ein~~genommen~~ `UN-O.N`
+    * *un*<i></i>*vor*ein~~genommen~~ `UN-O.N`
 * nenn `n.en` : `b.n.en`
   * : *er*nenn `er.n.en` ~ `er.n`
   * nann `n.an`
@@ -1548,7 +1548,7 @@
     * ***nüss*** `.üss` : `G.üss`
   * → nutz
 * *niveau* `.iw.o` : `kust-iw.o` ← nivell
-  * *niveau**los* `.iw.o-l.o` ! `.iw.o-l.os`
+  * *niveau*<i></i>*los* `.iw.o-l.o` ! `.iw.o-l.os`
 * **niv**ell `n.iw` : `n.iw.ir-UNG`
   * → niveau
 * *noch* `n-ch`
@@ -1570,7 +1570,7 @@
 * **nutz** `nu`
   * **nütz** `nÜ`
   * : *eigen***nütz***ig* `.eig-Ü.i`
-  * : *ge****mein*****nütz***ig* `G.N-Ü.i`
+  * : *ge****mein***<i></i>**nütz***ig* `G.N-Ü.i`
 
 ## [O](#wörterbuch)
 
