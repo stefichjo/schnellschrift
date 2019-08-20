@@ -838,7 +838,7 @@
   * : *haus*<i></i>*hal****t*** `.aus-t` ! `.aus,(-t)`
   * : *hal****t****ung* `(-t)-UNG` ~ `-t-UNG`
   * *häl****t*** `(-t)` : `E-t-is`
-    * : *arb****eit***s*ver*<i></i>*häl****t*****nis** `(T),E-t-is` ~ `Ts.is`
+    * : *arb****eit***s*ver*<i></i>*häl****t***<i></i>**nis** `(T),E-t-is` ~ `Ts.is`
   * : hielt `hit`
     * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be***hielt* `b,hi` ! `b.e,hi`
