@@ -162,7 +162,7 @@
 * bin ← sein
 * **bi**~~nd~~ `bi` : `UNTER,bi` `bi-o`
   * : *ver***bi**~~nd~~en `(E)bi` ! `E,bi`
-  * : *ver*<i></i>**bi**~~nd~~*lich* `(E)bi.L` ! `E,bi.L`
+  * : *ver***bi**~~nd~~*lich* `(E)bi.L` ! `E,bi.L`
   * ! `b.id`
   * × : `(I)E.M` `(I)E-s`
   * **ba**~~nd~~ `ba`
