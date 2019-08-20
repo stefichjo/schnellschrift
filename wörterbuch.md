@@ -66,7 +66,7 @@
   * : argument `.ag.met` ! `.ag.u-met`
 * arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
 * a~~rt~~ `(.a)` : `.ab.a` `(r).a.i`
-  * : **gr***oß*a~~rt~~*ig* `gr.a.i` × `gr.a`
+  * : **gr**oßa~~rt~~*ig* `gr.a.i` × `gr.a`
   * (art) `.art`
 * art `.at` : `.at.ik.el`
   * : arterie `.at.er.I.e` × `.at.er.e`
@@ -79,7 +79,7 @@
   * : asiat `.as.I.at` ~ `.as.at`
     * : asiat*isch* `.as.I.i` ~ `.as.at.i`
 * astr `.a-str` : `.a-str.om.I`
-  * : astro<i></i>***log***<i></i>ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
+  * : astro***log***ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
 * -~~at~~-, -~~it~~-, -~~ut~~- → -ion -iv-
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` : `.atl.i`
@@ -89,7 +89,7 @@
 * auch `.auch`
   * -*auch* → aber oder sondern
 * *auf* `AU`
-  * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
+  * : *dar**auf* `dar.AU` ~ `dar-AU`
 * *aus* `.S` : `.S-t-ig` `.S-ts` `O.-S`
   * : h~~er~~<i></i>*aus* `h.S` ~ `er.S` ~ `er-s`
   * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha`
@@ -795,7 +795,7 @@
 * *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(b)GR` `UN-b.GR`
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
-* **gr***oß* `gr` : `s.gr` `gr.ib` `M.gr.H`
+* **gr**oß `gr` : `s.gr` `gr.ib` `M.gr.H`
   * *größ* `grö` : `grö.e`
     * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `v.gru.AU`
