@@ -1036,9 +1036,8 @@
   * j~~ekt~~ `j` : `(IN)j.iO` `(o)j` `(o)j.iO`
     * : pr**o**j~~ekt~~il `(o)j.il` ~ `(o)jet-il`
 * ***jug*** `.ug`
-  * ! `j.ug`
-    * : jugend `j.ug.ed` × `j.ug`
   * : *jugend* `.ug` : `.ug.L` `bu.ug.an` `(.es).ug.an`
+    * ! jugend `j.ug.ed` × `j.ug`
     * *jugend**lich**keit* `.ug.T` ! `.ug.L.T`
 * jug `j.ug` : `(ko)j.ug.iO`
   * junkt `j.ukt` : `(ko)j.ukt-iO`
