@@ -261,9 +261,9 @@
 * **d**as `d`: `d.i°`
 * **dat** `da` : `da.ei` `da.en` `da.ir` `da.um`
   * **dit** `di` : `ko,di-o` `ko,di.i-aL`
-    * : **tra****dit** `tra,di`
-      * : **tra****dit***ion* `tra,di-o` ~ `tr.ad-o`
-        * : **tra****dit***ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
+    * : **tra**<i></i>**dit** `tra,di`
+      * : **tra**<i></i>**dit***ion* `tra,di-o` ~ `tr.ad-o`
+        * : **tra**<i></i>**dit***ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `b.dau.L` `G.dau` `AU.I.dau` `Z-m.ei-em:b.dau` `Z-U°.b.dau`
 * ~~de~~m `(m)` : `.auss.m` `(I)m`
   * : *mit*.~~de~~m `M.m` ~ `MM` P
@@ -283,7 +283,7 @@
 * *d****es*** `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
-  * : **be****deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
+  * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
 * *deut****sch*** `SCH`
 * *deutschland* `SCHa`
   * : **bu**~~nd~~es*republik*.*deutschland* `bu:r.ik,SCHa` ~ `bu,SCHa`
@@ -305,9 +305,9 @@
   * **dikt** `di` : `di.at` `di.at.or` `di.at.or.i` `di-ur` `di.ir`
     * : **dikt***ion* `di-o` ! `d.ikt-iO` ≠ **dit***ion*
 * **ding** `.ing`
-  * : **be****ding** `b.ing` ~ `(ng)`
-    * : *un***be****ding**t `UN-b.ing` ~ `UN-t`
-      * : *un***be****ding**t**not****wend***ig* `UN-b.ing .ot.w.i` ~ `UN-b.o-w.i`
+  * : **be**<i></i>**ding** `b.ing` ~ `(ng)`
+    * : *un***be**<i></i>**ding**t `UN-b.ing` ~ `UN-t`
+      * : *un***be**<i></i>**ding**t.**not****wend***ig* `UN-b.ing .ot.w.i` ~ `UN-b.o-w.i`
   * : *allerdi****ng*** `(ng)` : `(ngs)`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
@@ -328,7 +328,7 @@
 * dreh `dr.eh`
   * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
 * **dri**ng `dri` : `dri.ed` `dri-est.e` `dri.L` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z-dri.L` `dri-Ü.is`
-  * **dri**ng*lich**keit* `dri.T` ! `dri.L.T`
+  * **dri**ng*lich*<i></i>*keit* `dri.T` ! `dri.L.T`
   * **dra**ng `dra`
     * **drä**ng `drä`
   * **dru**ng `dru` : `G.dru` `N.dru`
@@ -349,7 +349,7 @@
 * duld `d.ud` : `d.ud.ed` `d.ud.et.e` `d.ud-Sa.T` `d.ud-UNG` `G.d.ud` `UN-G.d.ud.i`
 * *dunkel* `d.uk` : `d.uk.H` `E.d.uk` `E.d.uk-t.e`
 * *durch* `dr`
-  * : *da**durch* `.a-dr` * `a-dr`
+  * : *da*<i></i>*durch* `.a-dr` * `a-dr`
 * **dürf** `dÜ` : `dÜ-t.e`
   * *bedürf* `b-Ü` : `b-Ü.is` `b-Ü-t-ig` `hi.b-Ü-t-ig`
     * -*bedürf* `-Ü` → besser dring hohl : `d-Ü.is` `I-Ü.iss.e` `N-Ü.is`
@@ -426,7 +426,7 @@
     * : *interess*e `(I)t-er.e` × `(I)t-er`
 * **et**- `.e`
   * : **et**wa `.e-w.a` * `(.a)`
-  * : **et****was** `.e-was` ! `.e-w.as` * `(.a)s`
+  * : **et**<i></i>**was** `.e-was` ! `.e-w.as` * `(.a)s`
 * *europa*, *europä* `.eu-p` : `.eu-p-er` `.eu-p.i`
 * **ex**- `.e`
 * exemp ← em
@@ -452,13 +452,9 @@
   * **fähr** `f` : `ft` `er.f` `G.fd` `G.f.L` `G.ft.e` `G.ft.in` `UN-G,f.L` `(l):f.i` `dU er.f .e`
     * : **fähr**e `fe` ! `f.är.e`
     * : *ge***fähr***lich**keit* `G.f.T` ! `G.f.L.T`
-    * : *un**ge***fähr** `UN-G.f` × `UN.G`
+    * : *un*<i></i>*ge***fähr** `UN-G.f` × `UN.G`
   * **fuhr** `fu` : `.S.fu` `N.fu`
     * → führ
-* fug `f.ug`
-  * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
-* **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu`
-  * : **fuhr**e `fu-e` ! `fu.e`
 * **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `G.g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z-fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `(I).iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
   * : eben**fall**s `.eb.fa-s` * `.e-fa-s`
   * : keinesfalls `(K):fa-s` ~ `k.fa-s`
@@ -499,7 +495,7 @@
 * fasson `f.ass.ong`
 * *fast* `Fa`
 * fat, fit
-    * : **kon****fess***ion* `ko.f-o` × `ko.f`
+    * : **kon**<i></i>**fess***ion* `ko.f-o` × `ko.f`
     * : *pro***fess***ion* `(o)f-o` ! `(o)f.ess.iO`
     * : *pro***fess**or `(o)f.or` × `(o)f`
 * **faz** `fa` : `fa.it`
@@ -509,8 +505,8 @@
   * *fakt* `fat` : `fat-ur.a`
     * **fekt** `f` : `.a-f` `.e-f` `.e-f-Ol`
       * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
-      * : **kon****fekt** `ko.f` ! `ko.f.ekt`
-      * : **per****fekt** `p.f` ~ `p.fet`
+      * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
+      * : **per**<i></i>**fekt** `p.f` ~ `p.fet`
       * fit `f.it` : `(o)f.it`
 * fehl `f.el` : `b.f.el`
   * : fehler `f.el-er` * `f-er`
@@ -621,12 +617,12 @@
 * **fremd** `fr.e`
 * fr**eu** `eu` : `eud.e` `er,eu-L`
 * *freund* `.eund` : `.eund.in` `.eund.FT` `b.eund.et`
-  * : *freund**lich* `.eund.L` ~ `eu-L`
+  * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L`
   * -fr**eu**nd `eu` → schaff welt
 * ***fried*** `.id` : `b.ug.id.e`
-  * : *un**zu*<b>*fried*</b>en `UN-z.id.en` × `UN-z.id`
+  * : *un*<i></i>*zu****fried***en `UN-z.id.en` × `UN-z.id`
 * ***frist*** `.ist` `kÜ.ist`
-  * : **lang*****frist****ig* `ang.ist-ig` ~ `.ang.i`
+  * : **lang**<i></i>***frist****ig* `ang.ist-ig` ~ `.ang.i`
 * **froh** `fro`
   * **fröh** `frö` : `frö.L`
 * fro~~nt~~ `fr.o`
@@ -644,21 +640,23 @@
     * : *zur*.*ver*f**ü**g `zr*.E-Ü` ~~ver~~ `zr*-Ü`
     * ! `f.üg` :  `f.üg-Sa`
     * ~ ***füg*** `.üg` `G.üg` `Z-üg` `Z-Sa.üg`
+* fug `f.ug`
+  * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
 * *fühl* `Ül` STS : `G-Ül` `G-Ül,(g)` `G-Ül-Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül`
-  * : *be**fühl*en `b-Ül` ! `b.e-Ül`
-  * : tuch*fühl**ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
+  * : **be***fühl*en `b-Ül` ! `b.e-Ül`
+  * : tuch*fühl*<i></i>*ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
   * : *fühl*en `Ül` ⇒ `.ül` STS ! `f.ül`
-* fuhr ← fahr
-* führ ← fuhr
-* *führ* `Ür` STS : `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `h.b.ei-Ür` `Ü-Ür` ⇒ `Ü.ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `u-rÜ-Ür` ⇒ `u-rÜ.ür` `Z-Sa-Ür` ⇒ `Z-Sa.ür`
+* **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu` ← fahr
+  * : **fuhr**e `fu-e` ! `fu.e`
+* *führ* `Ür` STS : `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `h.b.ei-Ür` `Ü-Ür` ⇒ `Ü.ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `u-rÜ-Ür` ⇒ `u-rÜ.ür` `Z-Sa-Ür` ⇒ `Z-Sa.ür` ← fuhr
   * : *führ*en `Ür` ⇒ `.ür` STS ! `f.ür`
   * : *führ*er `Ür-er` ⇒ `.ür-er` ! `f.ür-er`
-  * : *führ**ung* `Ür-UNG` ⇒ `.ür-UNG` ! `f.ür-UNG`
+  * : *führ*<i></i>*ung* `Ür-UNG` ⇒ `.ür-UNG` ! `f.ür-UNG`
   * : *auf*~~s~~icht*führ*end `AU.icht-Ür.ed` * `AU-i-Ür.ed`
   * : *aus**führ**lich* `.S-Ür.L` ⇒ `.S.ür.L` ~ `.S-ü.L`
-  * : *durch**führ*en `dr-Ür` ~ `dr-ü`
+  * : *durch*<i></i>*führ*en `dr-Ür` ~ `dr-ü`
   * : *darauf* *zu***rück***führ*en `dar-AU u-rÜ-Ür` ⇒ `dar-AU u-rÜ.ür` × `dar-AU-Ür`
-  * : *da**zu* *führ*en `.a-Z Ür` ⇒ `.a-Z .ür` ~ `a-Z-Ür`
+  * : *da*<i></i>*zu* *führ*en `.a-Z Ür` ⇒ `.a-Z .ür` ~ `a-Z-Ür`
   * * *führ* `-ü-` : `.S-ü` `.S-ü.L` `dr-ü`
 * füll ← voll
 * **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `ach.fÜ` `Ü.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
