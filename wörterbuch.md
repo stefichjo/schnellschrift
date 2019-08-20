@@ -65,8 +65,8 @@
 * arg `.ag`
   * : argument `.ag.met` ! `.ag.u-met`
 * arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
-* a~~rt~~ `(.a)` : `.ab.a` `(r).a.i`
-  * : **gr**oßa~~rt~~*ig* `gr.a.i` × `gr.a`
+* **a**rt `(.a)` : `.ab.a` `(r).a.i`
+  * : **gr**oß**a**rt*ig* `gr.a.i` × `gr.a`
   * (art) `.art`
 * art `.at` : `.at.ik.el`
   * : arterie `.at.er.I.e` × `.at.er.e`
@@ -136,7 +136,7 @@
   * birg `b.ig` : `G.b.ig.e`
   * barg `b.ag` : `E.b.ag`
   * borg `b.og` : `G.b.og` `E.b.og`
-* ~~ber~~lin `(l.in)` : `(l.in).er.i`
+* *ber****lin*** `(l.in)` : `(l.in).er.i`
 * besser ← gut
 * best ← gut
 * **bi** `bi` : `bi.al`
@@ -252,7 +252,7 @@
 * dacht ← denk
 * dam `d.am` : `d.am.e`
 * dank `d.ak` : `d.ak.ed` `gru.G.d.ak.e` `UN-d.ak` `M.b.est-d.ak` `wr.d.ak,i` ← denk
-  * ~~dank~~***bar*** `(bar)` : `(bar).T` `s.bar`
+  * ~~*dank*~~***bar*** `(bar)` : `(bar).T` `s.bar`
   * *gedank* `G.da` : `G.da.e` `G.da.os`
 * *d****ann*** `(.an)`
   * denn `d.en`
