@@ -2522,9 +2522,9 @@
     * *intensiv* `(I)t-i`
 
 ---
-* ter<b>*min*</b> `(m.in)` ! `t.em.in` (E)
-  * : ter<b>*min*</b>al `(m.in).al`
-  * : deter<b>*min*</b>ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
+* ter***min*</b> `(m.in)` ! `t.em.in` (E)
+  * : ter***min*</b>al `(m.in).al`
+  * : deter***min*</b>ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
 ---
 
 * test `t.est` : `t.e-st.a-met` × `t.e-st`
@@ -2654,8 +2654,8 @@
   * -*über*- `-Ü` E
     * : ***dar****über* `dar-Ü` E
     * : *er**übr**ig* `er-Ü.i` ! `er-Ü.ig` E
-    * : **h*<b>*er*</b>über* `h-Ü` E
-    * : <b>*hie*</b>*r**über* `hi-Ü` E
+    * : **h****er*</b>über* `h-Ü` E
+    * : ***hie*</b>*r**über* `hi-Ü` E
     * : *vor**über* `O-Ü` E
 ---
 
@@ -2904,12 +2904,12 @@
 * *wieder*, *wider*, *widr* `W` V
   * `W-u`
   * .w**ie**der. `i`
-    * : imm<b>*er*</b>.w**ie**der `(.er),i`
+    * : imm***er*</b>.w**ie**der `(.er),i`
     * : auch.w**ie**der `.auch,i`
-  * -*w*<b>*i*</b>*drig* `i`
-    * : *gesetz**w*<b>*i*</b>*drig* `-G,i`
-    * : ***pflicht****w*<b>*i*</b>*drig* `.icht,i`
-    * : *ver***trag**s*w*<b>*i*</b>*drig* `(E)tra,i`
+  * -*w****i*</b>*drig* `i`
+    * : *gesetz**w****i*</b>*drig* `-G,i`
+    * : ***pflicht****w****i*</b>*drig* `.icht,i`
+    * : *ver***trag**s*w****i*</b>*drig* `(E)tra,i`
 ---
 
 * wieg `w.ig`
