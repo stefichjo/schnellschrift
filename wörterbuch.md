@@ -89,9 +89,9 @@
 * auch `.auch`
   * -*auch* → aber oder sondern
 * *auf* `AU`
-  * : *dar**auf* `dar.AU` ~ `dar-AU`
+  * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
 * *aus* `.S` : `.S-t-ig` `.S-ts` `O.-S`
-  * : h~~er~~<i></i>*aus* `h.S` ~ `er.S` ~ `er-s`
+  * : **her***aus* `h.S` ~ `er.S` ~ `er-s`
   * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha`
       * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
@@ -901,7 +901,7 @@
   * half `h.af`
   * holf `h.of` : `G.h.of` `.S.h.of`
 * hemm `h.em` : `h.em-UNG.os`
-* h~~er~~ `h` : `(bi)h` `.a-h`
+* **her** `h` : `(bi)h` `.a-h`
   * *her*- `.e` : `.e-AU` `.e-UNTER` `.e-O`
 * ~~her~~bst `(bst)` : `(bst).L`
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert-h.en`
