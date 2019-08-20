@@ -637,7 +637,7 @@
   * ! `f.ug`
   * *füg* `-Ü` : `.an-Ü` `N-Ü` `G.ing-Ü.i` `E-Ü`
     * : bei*ge*f**ü**gt `b.ei-Ü` ~ `b.ei-Ü-G`
-    * : *zur*.*ver*f**ü**g `zr*.E-Ü` ~~ver~~ `zr*-Ü`
+    * : *zur*.*ver*f**ü**g `zr*.E-Ü` × `zr*-Ü`
     * ! `f.üg` :  `f.üg-Sa`
     * ~ ***füg*** `.üg` `G.üg` `Z-üg` `Z-Sa.üg`
 * fug `f.ug`
@@ -688,7 +688,7 @@
     * : *er***gänz**en `er.g` ~ `er.gä`
 * **gar** `ga` : `gat` `o-ga` `ga.ga`
   * ! `g.ar`
-* gar~~ant~~ `g.ar` : `g.ar.I` `g.ar.ir`
+* *garant* `g.ar` : `g.ar.I` `g.ar.ir`
 * garten `gat` : `ki.gat`
 * **ga**~~st~~ `ga`
   * **gä**~~st~~ `gä`
@@ -707,17 +707,17 @@
   * × ~~geb~~ : `.S.ag.ed` `er.is` `er.is.os`
   * ***gib*** `.ib` : `ach.ib.T` `er.ib.i`
   * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `b.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `er.g-st` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z-ab.e`
-    * × ~~gab~~ : `AU.e` `AU.en.it` `.S.e`
+    * × : `AU.e` `AU.en.it` `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
   * → gift
 * geburt ← gebär ← bär
 * gefahr ← fahr
 * *gegen* `g` : `g-t` `g-t-ig` `b.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
   * : *da*<i></i>*gegen* `.a-g` ! `da.g`
-  * ~~geg~~end `(.ed)` : `.um.ed`
+  * ~~*geg*~~end `(.ed)` : `.um.ed`
   * *gegn*er `g.er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
 * **geh** `g.e` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O-Ü.g` `Z-gru.g`
-  * ~ g~~eh~~ `g`
+  * ~ *geh* `g`
   * weit**geh**end `w.T-g.ed`
   * **ging** `.ing` : `O-Ü.ing` `u-rÜ.ing`
 * **geist** `g.ei`
@@ -782,10 +782,10 @@
   * : **dem**o**graph**ie `d.gra.I` ! `d.o-gra.I`
   * : **ge**o**graph** `ge-gra` ! `g.e-o-gra`
   * : steno**graph** `st.en.gra` ! `st.en.o-gra`
-    * ~~sten~~o**graph** `(gra)`
+    * ~~*steno*~~**graph** `(gra)`
   * *paragraph* `pa`
   * gramm `gr.am` : `f.on.gr.am` `t.e-gr.am`
-    * : grammoph~~on~~ `gr.am.f` ~ `gr.am.on`
+    * : *grammophon* `gr.am.f` ~ `gr.am.on`
     * : *pro*gramm `(o)gr.am` ~ `(o)gra`
 * grav `gr.aw` : `gr.aw-ur` `gr.aw-o`
 * ***greif*** `.eif`
@@ -807,7 +807,7 @@
 * gunst ← gönn
 * **gut** `gu`
   * ***bess***er `bes-er`/`br°`
-    * × ***bess***~~er~~ : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-t-ig.T`
+    * × *besser* : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-t-ig.T`
   * best `b.est`
 
 ## [H](#wörterbuch)
