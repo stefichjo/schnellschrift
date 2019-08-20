@@ -1038,7 +1038,7 @@
 * ***jug*** `.ug`
   * : *jugend* `.ug` : `.ug.L` `bu.ug.an` `(.es).ug.an`
     * ! jugend `j.ug.ed` × `j.ug`
-    * *jugend**lich****keit*** `.ug.T` ! `.ug.L.T`
+    * *jugend*<i></i>*lich****keit*** `.ug.T` ! `.ug.L.T`
 * jug `j.ug` : `(ko)j.ug.iO`
   * junkt `j.ukt` : `(ko)j.ukt-iO`
       * **kon**junktur `(ko)j.ukt-ur` * `ko,u-ur` * `o-u-ur`
@@ -1113,7 +1113,7 @@
 * koll
   * *protokoll* `pr.ot.ok`
 * *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i`
-  * : *kommun**ion* `ko-u.iO` * `o-u-O` STS ≠ *kommun*ikat*ion*
+  * : *kommun*<i></i>*ion* `ko-u.iO` * `o-u-O` STS ≠ *kommun*ikat*ion*
   * : *kommun*izieren `ko-u.ir`
     * *kommun*ikat*ion* `ko-u.iO` ~ `ko-u-o` ≠ kommunion
 * **kon**- `ko`
