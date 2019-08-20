@@ -89,7 +89,7 @@
 * auch `.auch`
   * -*auch* → aber oder sondern
 * *auf* `AU`
-  * : *dar**auf* `dar.AU` ~ `dar-AU`
+  * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
 * *aus* `.S` : `.S-t-ig` `.S-ts` `O.-S`
   * : **her***aus* `h.S` ~ `er.S` ~ `er-s`
   * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha`
@@ -192,7 +192,7 @@
 * **bloß** `.oss`
 * **blut** `blu`
   * **blüt** `blü`
-    * : **heiß****blüt***ig* `h.ei,blü.i` * `h.ei-Ü.i` ! `h.eiss-Ü.i`
+    * : **heiß**<i></i>**blüt***ig* `h.ei,blü.i` * `h.ei-Ü.i` ! `h.eiss-Ü.i`
     * : kalt**blüt***ig* `kat,blü.i` * `kat-Ü.i`
 * **bod** `bo`
 * börs `b.ös` : `b.ös.e`
@@ -206,7 +206,7 @@
   * **brach** `bra`
     * **bräch** `br`
   * **broch** `bro`
-    * : *un**unter***broch**en `UN-UNTER.bro` × `UN-UNTER`
+    * : *un*<i></i>*unter***broch**en `UN-UNTER.bro` × `UN-UNTER`
   * **bruch** `bru`
     * **brüch** `brü` ~ `brÜ`
       * *ver***trag**s**brüch***ig* `(E)tra-Ü.i` `(ko)tra-Ü.i`
@@ -733,7 +733,7 @@
     * *allgemein*gültig `.a-G,güt-ig` * `.a-G-Ü`
 * *ge****mein*** `G.N` : `G.N.H`
   * *allgemein* `.a-G` ≠ allein : `.a-G.H` `.im.a-G`
-    * : *ver**allgemein* `E.a-G` ! `E.al.G`
+    * : *ver*<i></i>*allgemein* `E.a-G` ! `E.al.G`
   * *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG` `la.N.e`
   * -*gemeinschaft* `N` → arbeit
 * *ge****nau*** `G.au`
@@ -797,7 +797,7 @@
   * **gröb** `grö`
 * **gr**oß `gr` : `s.gr` `gr.ib` `M.gr.H`
   * *größ* `grö` : `grö.e`
-    * : *ver**größ*ern `(E)grö.er` × `(E)grö`
+    * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `v.gru.AU`
   * : *aus*.*dies*em.**grund**e `.S-S.gru.e` × `.S-S.e`
   * : **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(b)grÜ` `UN-b.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (b)grÜ`
