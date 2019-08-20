@@ -58,7 +58,7 @@
 * arch `.ach` : `.ach.iv`
   * : archivar `.ach.iv.ar` × `.ach.ar`
 * arch `.ach` : `.ach.og.e`
-  * : archäo<i></i>***log***<i></i>ie `.ach.og.I` ~ `.ach.o-I`
+  * : archäo***log***ie `.ach.og.I` ~ `.ach.o-I`
 * arg `.ag` : `.arg.os` `E.ag`
   * ! (arg) `.arg`
   * : ärg `.äg` : `.äg-er` `.äg-er.L` `.äg-er.is` `E.äg-er` `.am.äg-st`
