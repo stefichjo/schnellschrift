@@ -169,7 +169,7 @@
     * -*verband* `ba` → land zentral
     * **bä**~~nd~~ `bä`
       * : **bä**~~nd~~e `bä.e` ~ `bä-e`
-      * : *ver*<i></i>**bä**~~nd~~e `E.bä.e` ~ `E.b.e`
+      * : *ver***bä**~~nd~~e `E.bä.e` ~ `E.b.e`
       * ! (bänd) `b.änd` : `b.änd.i`
   * **bu**~~nd~~ `bu` : `bu.um`
     * **bü**~~nd~~ `bü` : `bü.el`
@@ -192,7 +192,7 @@
 * **bloß** `.oss`
 * **blut** `blu`
   * **blüt** `blü`
-    * : **heiß**<i></i>**blüt**<i></i>*ig* `h.ei,blü.i` * `h.ei-Ü.i` ! `h.eiss-Ü.i`
+    * : **heiß****blüt***ig* `h.ei,blü.i` * `h.ei-Ü.i` ! `h.eiss-Ü.i`
     * : kalt**blüt**<i></i>*ig* `kat,blü.i` * `kat-Ü.i`
 * **bod** `bo`
 * börs `b.ös` : `b.ös.e`
