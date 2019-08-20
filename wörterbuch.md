@@ -307,7 +307,7 @@
 * **ding** `.ing`
   * : **be**<i></i>**ding** `b.ing` ~ `(ng)`
     * : *un***be**<i></i>**ding**t `UN-b.ing` ~ `UN-t`
-      * : *un***be**<i></i>**ding**t.**not****wend***ig* `UN-b.ing .ot.w.i` ~ `UN-b.o-w.i`
+      * : *un***be**<i></i>**ding**t.**not**<i></i>**wend***ig* `UN-b.ing .ot.w.i` ~ `UN-b.o-w.i`
   * : *allerdi****ng*** `(ng)` : `(ngs)`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
@@ -1021,7 +1021,7 @@
   * -*jahr* `.ar` : `.im.ar.e` `.im.let-ar` `.im(-st)-ar` `.im-o.ar` `.im (g).ar` `(I)let-ar.en` `(I)n,(-st)-ar.en` `(I).iS.ar`
     * : *in*.**ein**er.reihe.~~von~~.*jahr*en `IN.ei-er-r.eih.ar.en`
     * : .im.*jahr*~~e~~.~~19~~.80 `.im.ar,(80)` × `.im,(80)`
-    * : im.*ver*~~gang~~enen<b>*jahr*</b> `.im.E.ar`
+    * : im.*ver*~~gang~~enen***jahr*** `.im.E.ar`
   * **jähr** `j` : `j.L` `(E)j`
     * : *dies***jähr***ig* `.is:j.i` × `.is.i`
 * *japan* `j.ap` : `j.ap.i` `j.ap.er`
@@ -1676,7 +1676,7 @@
 * **phys** `fy` : `fy.ik` `fy.ik.i`
   * : **phys**<i></i>**isch** `fy.i` ! `f.ys.i`
 * **plan** `pla`
-  * -<b>*plan*</b> `.an`
+  * -***plan*** `.an`
 * **plant** `pla` : `pla.asch.e` `tra.pla.O`
 * ***platz*** `.az` : `(T)-s.az`
   * ***plätz*** `.ez` : `.ez.e`
@@ -1979,10 +1979,10 @@
     * : ~~w~~är `(.är)` : `(.är).e`
 
 ---
-  * <b>*wes*</b> `.es`
-    * : <b>*wes*</b>en `.es` ! `w.es`
-    * : <b>*wes*</b>ent*lich* `.es.L`
-    * : *ge*<b>*wes*</b> `G.es`
+  * ***wes*** `.es`
+    * : ***wes***en `.es` ! `w.es`
+    * : ***wes***ent*lich* `.es.L`
+    * : *ge****wes*** `G.es`
     * : *ge*~~wes~~ `-G`
       * : X `-G.en` `d G.en.e` `da.G.en`
 ---
@@ -2065,7 +2065,7 @@
 ---
 * siech `s.ich`
   * **sucht** su
-    * : bleich**sucht** `bl.eich,su` * bleich*s*<b>*u*</b>*cht* `bl.eich,u`
+    * : bleich**sucht** `bl.eich,su` * bleich*s****u****cht* `bl.eich,u`
     * **sücht** `sÜ` ⇒ `s.ücht`
       * bleich**sücht***ig* `bl.eich.sÜ.i` ⇒ `bl.eich.sücht.i` * bleichs**ü**cht*ig* `bl.eich-Ü.i`
       * *eigen***sücht***ig* `.eig.sÜ.i` ⇒ `.eig.sücht.i` * *eigen*s**ü**cht*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ *eigen***nütz***ig*
@@ -2101,7 +2101,7 @@
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
     * : *er***satz** `er-sa`
     * : **grund**<i></i>**sätz***lich* `gru.s.L`
-* semi<b>*nar*</b> `(n.ar)`
+* *semi****nar*** `(n.ar)`
 * setz ← sitz
 * **skal** `ska` ! `sk.al`
   * : **skal**a `ska.a` ! `sk.al.a`
@@ -2493,10 +2493,10 @@
   * : *techn*iker `t.en-ik-er` E
   * : *techn***isch** `t.en.i` E
     * : *elektr*o*techn***isch** `.el.t.en.i` ! `.el.o-t.en.i` BSA
-  * : ter<b>*min*</b>us *techn*icus `(m.in).us,t.en.ik.us` × ter<b>*min*</b>us ~~techn~~~~ic~~us `(m.in).us;us`
-  * tech<b>*n*</b> `(n)`
-    * : tech<b>*n*</b>ik `(n).ik`
-    * : tech<b>*n*</b>**isch** `(n).isch`
+  * : *ter****min***us *techn*icus `(m.in).us,t.en.ik.us` × `(m.in).us;us`
+  * *tech****n*** `(n)`
+    * : *tech****n***ik `(n).ik`
+    * : *tech****n*****isch** `(n).isch`
 ---
 
   * → tekt
