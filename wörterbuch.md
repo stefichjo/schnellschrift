@@ -150,8 +150,8 @@
 * bieg `b.ig`
   * bog `b.og`
 * ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `AU.it` `fa.it` `r.ur.it` `Ü.it`
-  * : **ho**<i></i>*heit*s*ge*<i></i>***biet*** `ho.H.it` ~ `o-H.it`
-  * : *auf*.*dies*em.*ge*<i></i>***biet*** `AU.iS.it` * `AU-i.it`
+  * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
+  * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` * `AU-i.it`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bilanz* `(az)` `(az.ir-UNG)`
 * **bild** `bi` : `bi.ed` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
