@@ -85,7 +85,7 @@
 * *atlant* `.atl` : `.atl.i`
   * *atlant*ik `.atl.ik` ~ `.atl-t-ik`
 * atlas `.atl.as`
-* ~~at~~om `(.om)` : `(.om).ar`
+* *at****om*** `(.om)` : `(.om).ar`
 * auch `.auch`
   * -*auch* → aber oder sondern
 * *auf* `AU`
@@ -141,7 +141,7 @@
 * best ← gut
 * **bi** `bi` : `bi.al`
 * **bi** `bi` STS
-  * : **bi**o<i></i>***log***<i></i>ie `bi.og.I` ! `b.i-l.og.I`
+  * : **bi**o***log***ie `bi.og.I` ! `b.i-l.og.I`
 * *bibel* `bib`
 * bibl `b.ibl`
   * : bibliograph `b.ibl.gra.I` ! `b.ibl.o-gra.I`
