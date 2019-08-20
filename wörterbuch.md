@@ -1213,7 +1213,7 @@
   * → niederlande
 * **lang** `ang` : `ang-Sa` `ang.fr.ist-ig` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * **läng** `eng` : `eng.-st` `eng.-st-es` `eng.-st-s`
-    * : *un**zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
+    * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
     * * *länger* `eNGR` : `E.eNGR`
 * ~~l~~ass `(ass)` : `(I)t-er.ass`
   * ! `l.ass` ~ `ass`
@@ -1227,7 +1227,7 @@
 * lat `l.at` : `l.at-er.al` `r.l.at.iv` ← fer
   * -*lateral* `.al` → bi mult
   * *relat* `r-t` : `r-t-iv`
-    * : *relat**ion* `r-t-O` ! `r.l.at.iO`
+    * : *relat*<i></i>*ion* `r-t-O` ! `r.l.at.iO`
 * laub `l.aub`
   * : *er*laub `er.l.aub` * `er-au`
   * : urlaub `.ur.l.aub` * `.ur-au` ⇒ `.ur,au`
@@ -1381,7 +1381,7 @@
 * meld `m.ed`
 * meng `m.eng`
 * *mensch* `MSCH` : `MSCH.L` `E.MSCH.L`
-  * *mensch**heit* `MSCH.H` * `MSCH°`
+  * *mensch*<i></i>*heit* `MSCH.H` * `MSCH°`
 * ment `met` : `met-al.ät` `met-or`
   * -ment `met`/`.eNT` → el test
 * merk `m.ek`
@@ -1426,15 +1426,15 @@
   * .***mir*** `.ir` : `(I)-bi.ir,u`
 * *miss*- `ms`
 * *mit* `M` : `M,i` `hi:M`
-  * : *da**mit* `.a-M` ~ `a-M`
+  * : *da*<i></i>*mit* `.a-M` ~ `a-M`
   * : *mitt* `M` : `M.e`
     * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.är-t-el` `ar-UNG-t-el`
-      * : *un**mittel****bar*** `UN-t-el.bar` × `UN.bar`
+      * : *un*<i></i>*mittel****bar*** `UN-t-el.bar` × `UN.bar`
 * *mitt* `M`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
   * : *kom*pr**o***mitt*ier `kom.o-M.ir` ~ `kom-p.it.ir`
   * *miss* `ms` : `ms-o` `.e-ms-o`
-    * : *kom**miss*ar `ko-ms.ar` * `ko-i.ar`
+    * : *kom*<i></i>*miss*ar `ko-ms.ar` * `ko-i.ar`
     * : *kom**miss**ion* `ko-ms-o` * `ko-i.iO` × `ko-i` : `(.om).ko`
     * : *kom*pr**o***miss* `ko,(o)ms` ~ `ko-ms` × `ko-m`
     * : *trans**miss**ion* `tra.ms-o` × `tra.ms`
@@ -1482,10 +1482,10 @@
 ## [N](#wörterbuch)
 
 * *nach* `ach` : `hi:ach` ← nah
-  * : *da**nach* `.a-ach` ! `(da)ach`
+  * : *da*<i></i>*nach* `.a-ach` ! `(da)ach`
   * ~~nach~~***bar*** `(bar)`
 * *näch****st*** `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
-  * : *zu**näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z-n`
+  * : *zu*<i></i>*näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z-n`
 * ***nacht*** `acht`
 * nah `n.ah` : `G.n.a-t`
   * näh `n.äh` : `G.n.ä-t` `n.äh.er-er`
