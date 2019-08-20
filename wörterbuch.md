@@ -2612,7 +2612,7 @@
   * ! `tr.et` : `G.tr.et`
   * ~ **tret** `tr` : `(.an)tr` `(.S)tr` `(b.ei)tr` `g-Ü.tr` `(E)tr.UNG`
     * : *da*zw~~ischen~~**tret**en `.a-zw.tr` ~ `a-zw.tr`
-    * : *ent**gegen***tret**en `eNT.g.tr` × `(eNT)tr`
+    * : *ent*<i></i>*gegen***tret**en `eNT.g.tr` × `(eNT)tr`
     * : *her*<i></i>*vor*<i></i>*ge***tret**en `.e-O.tr` ~ `(.e-O)tr`
   * ***tritt*** `.it` : `.S.it` `b.ei-it` `N.it` `rÜ.it` `Ü.it` `E.it` `Z-it` `AU.it.it` `b.eim-Ü.it`
   * ***trat*** `.at` STS
