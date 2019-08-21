@@ -949,7 +949,7 @@
   * horch `h.och` : `h.och-er` `G.h.och`
 * **hör** `hö`
   * : **be**<i></i>**hör**de `b.hö.d.e` × `b.hö`
-    * : *gemein*de**be**<i></i>**hö**rde `G.N-d.e-b.hö.d.e` ⋄ `G.N-d.e-hö-e` ~ `(N)-d.e-hö-e`
+    * : *gemein*de**be**<i></i>**hö**rde `G.N-d.e-b.hö.d.e` ~ `G.N-d.e-hö-e` ~ `(N)-d.e-hö-e`
 * horch ← hor
 * hort `hot`
 * *hundert* `hu` : `3.hu` `5,hu` `hu.FT`
@@ -1289,7 +1289,7 @@
     * : *ge***leg**en*heit* `G.l.H` × `G.H`
       * : an*ge***leg**en*heit* `.an.l.H` × `.an.H`
         * : *aus*wertige an*ge***leg**en*heit*en `.S.wet-ig.e .an.l.H.en` × `.S.H.en`
-      * : bei.*dies*er *ge***leg**en*heit* `b.ei.iS-er G-l.H` × `b.ei.iS.H`
+      * : bei.*dies*er *ge***leg**en*heit* `b.ei-iS-er G-l.H` × `b.ei-iS.H`
 * **lier** `li`
   * : *ver***lier** `E,li` ~ `(E)li`
   * **lor** `lo`
@@ -2215,7 +2215,7 @@
   * : *ent***scheid** `eNT.eid` ~ `eNT.ei`
   * **schied** `.id` : `.ab.id` `b.id` `eNT.id` `E.id`
     * ! `sch.id`
-    * : *m****ein****ung*s*ver***schied**en*heit* `(N),E.id.H` ⋄ `m.ei-H`
+    * : *m****ein****ung*s*ver***schied**en*heit* `(N),E.id.H` ~ `m.ei-H`
     * : *unter***schied** `UNTER.id` * `UNTER-i`
     * : *ver*ab**schied** `E.ab.id` × `E.ab`
     * : *mit*.*all*er.*ent***schied**en*heit* `M.al.eNT.id.H` × `M.al.eNT`
