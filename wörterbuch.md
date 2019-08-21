@@ -1885,6 +1885,8 @@
 * *rheinland-pfalz* `(N):pfa`
 * **richt** `ri` : `ri.i` `(b)ach,ri.i`
   * : **richt**en `ri` ! `r.icht`
+  * : **richt***ung* `ri-UNG` ~ `i-UNG`
+  * : *in*.*dies*er.~~richt~~*ung* `(I).iS-er-UNG`
   * *gericht* `G,i` : `la,i` `.o-la,i`
     * : *gericht*<i></i>*lich* `G,i-L` ~ `(G)i-L`
     * : **amt**s*ge***richt** `.a,i` `.amt,i`
@@ -2604,7 +2606,7 @@
   * **tran**- `tra`
 * **trau** `trau` : `trau.er`
   * *misstrau* `ms-au` : `ms-au.um`
-  * *vertrau* `E-au` : `E-au,(g)` `E-au.um` `E-au-Ü.i`
+  * *vertrau* `E-au` : `E-au.L` `E-au,(g)` `E-au.um` `E-au-Ü.i`
 * **treff** `tr` : `tr.L` `(b)tr` `(Ü)tr` `UN-Ü.tr.L` `(O)tr.L` `Z-tr.ed`
   * ! `tr.ef` `tr.ef-er` `(N)tr.ef` `Z-Sa:tr.ef`
   * **triff** `tri` STS
