@@ -48,7 +48,7 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
-* *arb****eit*** `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z-Sa.T`
+* *arb****eit*** `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z.Sa.T`
   * ! arbeit `.ab.T` : `G.ab.T` `b.ab.T` `E.ab.T`
   * : *arb****eit****sam* `(T)-Sa` ~ `T-Sa`
   * : *arbeits****los*** `(l.os)`
@@ -133,7 +133,7 @@
   * birg `b.ig` : `G.b.ig.e`
   * barg `b.ag` : `E.b.ag`
   * borg `b.og` : `G.b.og` `E.b.og`
-* *ber****lin*** `(l.in)` : `(l.in).er.i`
+* *ber****lin*** `(l.in)` : `(l.in).er.i` `w.l.in`
 * besser ← gut
 * best ← gut
 * **bi** `bi` : `bi.al`
@@ -2865,7 +2865,7 @@
   * wes `w.es` : `w.es.ha`
 * werb `w.eb`
   * **be**werben `b.w.eb` * `b.w`
-    * : *wettbewerb* `w°`
+    * : *wettbewerb* `w°` : `w°-er`
   * *er*werben `er.w.eb` * `er.w`
   * *ge*werb `G.w.eb`
     * * *ge***werb**e `G.w.e`
@@ -2892,9 +2892,8 @@
 * wert `wet` : `.ab.wet`
   * -*wert* `(-t)` → hoch nahr staun streb
 * wes ← sein
-* west `w.est`
-  * : west*lich* `w.est-L` * `w.L`
-  * *west*- `w`
+* **west** `w` : `w.L`
+  * ! west `w.est`
 * wett `w.et`
 * **wicht** `wi` : `wi.i` `wi.T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
