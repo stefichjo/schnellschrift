@@ -214,8 +214,9 @@
   * **bracht** `bra` : `(.an)bra` `(b.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z-Sa.bra`
     * **brächt** `br`
       * : **brächt**e `br.e` ~ `brä-e`
-* **buch** `bu` : `ha,bu` `ha.el,bu`
+* **buch** `bu` : `bu.ha` `ha,bu` `ha.el,bu`
   * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
+  * : **hand**els*gesetz***buch** `ha.el-G,bu` × `ha.el.bu`
   * **büch** `bÜ` : `bÜ-er`
   * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
 * *bühr* `Ür` : `G-Ür`
@@ -387,7 +388,8 @@
     * -*verein* `N` → sport
   * *einst* `.eist` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
-    * *einzel*- `.ei` → hand
+    * *einzel*- `.ei` : `.ei-h-er`
+      * : `.ei-ha` ! `.ei-ha.el` ≈ meine damen und herren
   * ~~*ein*~~z*ig* `(z.i)`
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
@@ -585,7 +587,7 @@
   * **flüss** `flÜ`
     * : **flüss***ig* `flÜ.i` ~ `.üss.i`
     * : ein**flüss** `N.flÜ` ~ `N,flü`
-* ***flott*** `.ot` : `.ot.e` `ha.ot.e`
+* ***flott*** `.ot` : `.ot.e` `ha.el.ot.e`
 * flucht ← flieh
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
@@ -790,7 +792,7 @@
 * *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(b)GR` `UN-b.GR`
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
-* **gr**oß `gr` : `s.gr` `gr.ib` `M.gr.H`
+* **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `gr.h-er` `M.gr.H`
   * *größ* `grö` : `grö.e`
     * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `v.gru.AU`
@@ -839,16 +841,18 @@
   * : hielt `hit`
     * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be***hielt* `b,hi` ! `b.e,hi`
-* **hand** `ha` : `ha.el` `ha.L` `ha,i` `ha,i-L` `.ei-ha.el` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
-  * **händ** `h` : `h.e` `.S.h.i`
-    * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er`
-
-  * *handel* `ha` : `b.ha` `bu.ha` `gr.ha` `N.ha` `ms.ha` `wet-ha` `.e ha.um`
-    * : *handel*t.*sich*.um, *handel*t.~~es~~.*sich*.um `ha.CH.um` × `ha.um`
-
-  * *handlung* `ha*` : `bu:ha*` `E.ha*`
+* **hand** `ha` : `ha.el` `ha.el.d` `ha.elt.e` `G.ha.elt` `ha.L` `ha,i` `ha,i-L` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
+  * : **hand**elt.~~sich~~.um, **hand**elt.~~es~~.~~sich~~.um `ha.el.um` × `ha.um`
+  * : **hand**l*ung* `ha.l-UNG` ~ `ha*` : `bu:ha*` `E.ha*`
     * : *ver***trag**s*ver*<i></i>*handlung*en `(E)tra.E.ha*.en` × `(E)tra.ha*.en`
-    * **händel** `h` : `h-er` `gr.h-er` `vi:h-er`
+  * **be***handel*n `b.ha.el` × `b.ha`
+  * ein*handel*n `N.ha.el` × `N.ha`
+  * *mis*<i></i>*handel*n `ms.ha.el` × `ms.ha`
+  * -*handel* `ha` → buch einzel groß welt
+  * **händ** `h` : `h.e` `.S.h.i`
+    * : **händ**ler `h.l-er` × `h-er`
+      * -*händler* `h-er` → einzel groß vieh
+    * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er` ≠ linkshändler
 * ~~h~~äng `(.eng)` STS : `ab.eng.i` `.an.eng-er` `.an.eng.i`
   * ! `h.eng`
   * : *un*ab~~h~~äng*ig* `UN-ab.eng.i` × `UN-ab.i`
@@ -904,6 +908,7 @@
   * : *de****r***.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
   * : **herr****isch** `h.i` ! `h.err.i`
+  * : m**ein**e.~~damen~~.~~und~~.**herr**en `.ei-a-h.en` × `.ei-a-h`
 * ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `kust,(z)`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
@@ -1053,8 +1058,9 @@
 * *kalkul* `ka,u` : `ka,u-O` `ka,u.ir` `ka,u.or.i` 
 * kalt `kat` : `er.kat`
   * kält `ket` : `ket.e` `ket-er`
-* *kammer* `ka` : `ha.ka` `ka.ek.ka`
-  * : *industr*~~ie~~.~~und~~.*handel*s.*kammer* `IN.ha.ka`
+* *kammer* `ka` : `ha.ek.ka`
+  * : *handelskammer* `ha.ka`
+    * : *industr*~~ie~~.~~und~~.*handelskammer* `IN.ha.ka`
 * ***kampf*** `ampf` : `kla.ampf`
   * ***kämpf*** `empf` : `empf.e`
 * kan `k.an` : `k.an.on` STS
@@ -1373,6 +1379,7 @@
   * -*mehrheit* `H` → groß stimm wieg
 * meid `m.eid`
 * *m****ein*** `(N)` : `(N).UNG` `I .ö.L.N` `(I)bi.N` `ach.m.ei-er.N` `m.ein-er.N:ach` `wr-I.N`
+* mein → ein
 * mein → gemein
 * **meist** `m.ei`
   * : **meist**er `m.ei-er`
@@ -1699,7 +1706,8 @@
 * *pol****it*** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
   * : *pol****it***isieren `it.ir` ! `it.is.ir`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `FT.tik`
-    * **fin**anz*politik* `fi.az.tik` × `fi.tik`
+    * : **fin**anz*politik* `fi.az.tik` × `fi.tik`
+    * : **hand**els*politik* `ha.el-t-ik`
 * *poliz* `li` : `li.ei` `li.ist`
   * *land****es****poliz*ei `(.es),li.ei` ~ `(.es).l.ei`
 * ***pon*** `.on` : `ds.on.ir` `kom.on.ir` `tra.on.ir`
@@ -2731,7 +2739,7 @@
     * : **re**<i></i>**v**is*ion* `r.w-o`
 ---
 
-* **vieh** `vi` : `vi.i` `vi,u`
+* **vieh** `vi` : `vi.i` `vi:h-er` `vi,u`
   * -***vieh*** `.ih` → rind schlacht
 * ***viel*** `.il`
   * : *so****viel*** `.o-il` ~ `.o-l`
@@ -2841,7 +2849,7 @@
   * : weiter `w.T-er` * `T-er`
     * : *und*.*so*.weiter `(&.o)w.T-er` × `&.o`
 * ***welch*** `.ech` : `.ig.ech.e`
-* welt `wet` : `E.wet-L`
+* welt `wet` : `wet-ha` `E.wet-L`
   * *umwelt* `um-t` : `um-t,eu-L` `.um-t,u`
 * wem ← wer
 * wen ← wer
@@ -3020,8 +3028,7 @@
   * : *führ*<i></i>*ung*s**zeug*****nis*** `Ür-UNG.eug.is` ⇒ `.ür-UNG.eug.is` ! `f.ür-UNG.eug.is`
   * : *nach*.m**ein**er.*über****zeug****ung* `ach.m.ei-er-Ü.eug` × `ach.m.ei-er-Ü`
 * **zieh** `.ih` : `Z.ra.ih`
-  * *bezieh* : `(.ih)` : `ha.el.ih.en`
-    * ! `b.ih`
+  * *die* *hand*els**be**<i></i>**zieh***ung*en `I ha.el.b.ih.en` × `I ha.el.ih.en`
   * **zog** `.og`
     * **zög** `.ög` : `.ög-er`
   * **zug** `.ug` : `.ug.ug`
