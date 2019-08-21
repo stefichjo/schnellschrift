@@ -841,14 +841,15 @@
   * : hielt `hit`
     * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be***hielt* `b,hi` ! `b.e,hi`
-* **hand** `ha` : `ha.el` `ha.el.d` `ha.elt.e` `G.ha.elt` `ha.L` `ha,i` `ha,i-L` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
-  * : **hand**elt.~~sich~~.um, **hand**elt.~~es~~.~~sich~~.um `ha.el.um` × `ha.um`
-  * : **hand**l*ung* `ha.l-UNG` ~ `ha*` : `bu:ha*` `E.ha*`
-    * : *ver***trag**s*ver*<i></i>*handlung*en `(E)tra.E.ha*.en` × `(E)tra.ha*.en`
-  * **be***handel*n `b.ha.el` × `b.ha`
-  * ein*handel*n `N.ha.el` × `N.ha`
-  * *mis*<i></i>*handel*n `ms.ha.el` × `ms.ha`
-  * -*handel* `ha` → buch einzel groß welt
+* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
+  * : **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `G.ha.elt`
+    * : **hand**elt.~~sich~~.um, **hand**elt.~~es~~.~~sich~~.um `ha.el.um` × `ha.um`
+    * : **be**<i></i>**hand**eln `b.ha.el` × `b.ha`
+    * : ein**hand**eln `N.ha.el` × `N.ha`
+    * : *miss*<i></i>**hand**eln `ms.ha.el` × `ms.ha`
+    * -*handel* `ha` → buch einzel groß welt
+    * : *handlung* `ha*` : `bu:ha*` `E.ha*`
+      * : *ver***trag**s*ver*<i></i>*handlung*en `(E)tra.E.ha*.en` × `(E)tra.ha*.en`
   * **händ** `h` : `h.e` `.S.h.i`
     * : **händ**ler `h.l-er` × `h-er`
       * -*händler* `h-er` → einzel groß vieh
