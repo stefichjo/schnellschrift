@@ -14,9 +14,8 @@
     * : **gut***acht*en `gu.a.en` × `gu.a` ~ `u.a`
     * : **gut***acht*er `gu.a.er` × `gu,er`
 * **adr**ess `.adr`
-* *afrik* `.afr`
+* *afrik* `.afr` `.afr.i`
   * : *afrik*a `.afr.a` × `.afr`
-  * : *afrik*an*isch* `.afr.i`
 * ag `.ag` : `.ag.eNT`
   * : ag*ent*ur `.ag.eNT.ur` × `.ag.ur`
   * akt `.akt` ⇒ `.ak.t` : `r.akt-or`
@@ -35,15 +34,15 @@
 * alt `.at` : `.at-er` `.at-er.tum` `ki.at-er` `v.at-er.h`
   * ! (alt) `.alt` : `.ur.alt`
   * ält `.ät` : `.ät-er` `.ät.est`
-* *amerik* `.am` : `.am.a` `.am.er` `I E.ig .at.en v .am.a`
-  * : *amerik*an*isch* `.am.i`
-* *amt* `.a` : `T-s.a` `b.a` `b.a.er` `fi.a` `.es.a` `hau.a.L` `pa°.a`
-  * : *aus*wertiges *amt* `.S.wet.ig.es .a` ~ `.S.a`
-  * ! `.amt` : `.amt-ir`
-  * × ~~amt~~ : `b.FT`
+* *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
+* **amt** `.a` : `b.a` `b.a.er` `fi.a` `.es.a` `hau.a.L` `pa°.a`
+  * : **amt**ieren `.a.ir` ! `.amt-ir`
+  * : *arb****eit***s**amt** `(T)-s.a.` ~ `T-s.a`
+  * : **be**<i></i>**amt**en*schaft* `b.a.FT` × `b.FT`
+  * : *aus*wertiges **amt** `.S.wet.ig.es .a` ~ `.S.a`
   * *ämter* `.ä` : `fi.ä`
 * an `.an` : `.an,u` `.an-t-er` `dar.an` `wo.an`
-* -~~an~~- : `.er` `.er.in` `.i` `.iS` `.iS.i`
+* -an `.an`
 * and `.ad` : `.ad-er`
   * änd `.äd` : `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * *ant*- `aNT`
@@ -77,7 +76,7 @@
 * asi `.as.I`
   * : asien `.as.I.en` ~ `.as.i-en`
   * : asiat `.as.I.at` ~ `.as.at`
-    * : asiat*isch* `.as.I.i` ~ `.as.at.i`
+    * : asiat**isch** `.as.I.i` ~ `.as.at.i`
 * astr `.a-str` : `.a-str.om.I`
   * : astro***log***ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
 * -~~at~~-, -~~it~~-, -~~ut~~- → -ion -iv-
@@ -146,7 +145,7 @@
 * bibl `b.ibl`
   * : bibliograph `b.ibl.gra.I` ! `b.ibl.o-gra.I`
   * *bibliothek* `(t.ek)`
-    * : *bibliothek*ar*isch* `(t.ek).ar.i` × `(t.ek).i`
+    * : *bibliothek*ar**isch** `(t.ek).ar.i` × `(t.ek).i`
 * bieg `b.ig`
   * bog `b.og`
 * ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `AU.it` `fa.it` `r.ur.it` `Ü.it`
@@ -235,7 +234,7 @@
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er`
-  * : **chem***isch* `ch.i` ! `ch.em.i`
+  * : **chem****isch** `ch.i` ! `ch.em.i`
   * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
 
@@ -311,7 +310,7 @@
   * : *allerdi****ng*** `(ng)` : `(ngs)`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
-  * **d**as.*diplom*at*isch*e.**corps** `d,di-om.ko`
+  * **d**as.*diplom*at**isch**e.**corps** `d,di-om.ko`
 * *doch* `d-ch`
   * : je*doch* `j.e-d-ch` ~ `j-ch`
 * doktor ← doz
@@ -323,7 +322,7 @@
   * : doz*ent* `doz.ent` × `doz`
   * dok `d.ok`
     * *dokument* `d.ok` : `d.ok.ir` `d.ok.irt.e`
-      * : *dokument*ar*isch* `d.ok.ar.i` × `d.ok.i`
+      * : *dokument*ar**isch** `d.ok.ar.i` × `d.ok.i`
   * *doktor* `der`
 * dreh `dr.eh`
   * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
@@ -905,7 +904,7 @@
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert-h.en`
   * : *de****r***.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
-  * : **herr***isch* `h.i` ! `h.err.i`
+  * : **herr****isch** `h.i` ! `h.err.i`
 * ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `kust,(z)`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
@@ -1169,7 +1168,7 @@
   * : **krit**isieren `kri.ir` ! `kri.is.ir`
 * kub `k.ub` : `k.ub.i` `k.ub.iS`
 * kub `k.ub` : `k.ub.a`
-  * : kuban*isch* `k.ub.i` ! `k.ub.an.i` ≠ kubisch
+  * : kuban**isch** `k.ub.i` ! `k.ub.an.i` ≠ kubisch
 * **küch** `kÜ`
 * kult `kut` : `kut-iv.ir`
   * *kultur* `u-ur` : `u-ur.ell`
@@ -1203,7 +1202,7 @@
 * **la**~~nd~~ `la` : `la.FT` `.S.la` `(hi)z.la` `v.at-er.la`
   * **la**~~nd~~*ung* `la-UNG` ! `la.UNG`
   * *land****es*** `(.es)` : `(.es).ba`
-    * -*landes* `-es` : `(.es)-es` `.U.es-es`
+    * -*landes* `-es` : `(.es)-es` `U.es-es`
   * **lä**~~nd~~ `lä` STS
     * ! `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
     * ~~län~~der : `(d-er)` : `(I).N.el.d-er`
@@ -1880,7 +1879,7 @@
   * : **richt**en `ri` ! `r.icht`
   * *gericht* `G,i` : `la,i` `.o-la,i`
     * : *gericht*<i></i>*lich* `G,i-L` ~ `(G)i-L`
-    * : *amt*s*ge***richt** `.a,i` `.amt,i`
+    * : **amt**s*ge***richt** `.a,i` `.amt,i`
 * rind `r.id` : `r.id-er`
   * : rind*vieh* `ri.ih` * `(i),(i)`
 * ~~r~~ing `(.ing)` STS : `G.ing` `E.ing`
@@ -1890,7 +1889,7 @@
 * roll `r.oll`
   * : **ein**e.rolle.**spiel**en `.ei,r.oll.il` ~ `.ei,o,i`
 * rom `r.om`
-  * : roman*isch* `r.om.i` ! `r.om.an.i`
+  * : roman**isch** `r.om.i` ! `r.om.an.i`
   * röm `r.öm` : `r.öm.i`
 * roman `r.om.an` : `r.om.an.i+st.ik` `r.om.an.iS.i`
   * *romant* `r.o-mat` : `r.o-mat-ik` ` `r.o-mat-isch`
@@ -1951,7 +1950,7 @@
 * **sass** `.ass` : `IN.ass.en` ← sitz
 * saß ← sitz
 * seel `s.el` : `s.el.e`
-  * : seel*isch* `s.el.i` ! `s.el.isch`
+  * : seel**isch** `s.el.i` ! `s.el.isch`
 * seh `s.eh`
   * × ~~seh~~ : *un*<i></i>*ver*~~seh~~ens `UN-E-s`
   * sieh `s.ih`
