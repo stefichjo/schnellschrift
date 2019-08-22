@@ -3064,11 +3064,10 @@
   * *zur* `zr*`
 * zucht ← zieh
 * zug ← zieh
-* **zwar** `zwa`
-* **zweif** `.eif` : `.eif.el`
-  * : **zweif**el*los* `.eif.el.os` ~ `.eif-s`
 * zünd `z.üd` : `IN.it.iaL,z.üd-UNG`
 * **zwar** `zwa` : `&:zwa`
+* **zweif** `.eif` : `.eif.el`
+  * : **zweif**el*los* `.eif.el.os` ~ `.eif-s`
 * ~~zw~~eig `(.eig)`
 * **zweck** `zw` : `Z.iS:zw`
   * ! `zw.ek` : `zw.ek,di.L`
