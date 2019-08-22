@@ -148,6 +148,7 @@
   * bog `b.og`
 * ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `AU.it` `fa.it` `r.ur.it` `Ü.it`
   * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
+  * : *arb****eit***s*ge****biet*** `(T)-s.it` ~ `Ts.it`
   * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` * `AU-i.it`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bilanz* `(az)` `(az.ir-UNG)`
@@ -645,7 +646,7 @@
   * : *fühl*en `Ül` ⇒ `.ül` STS ! `f.ül`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z-fu` ← fahr
   * : **fuhr**e `fu-e` ! `fu.e`
-* *führ* `Ür` STS : `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `h.b.ei-Ür` `Ü-Ür` ⇒ `Ü.ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `u-rÜ-Ür` ⇒ `u-rÜ.ür` `Z-Sa-Ür` ⇒ `Z-Sa.ür` ← fuhr
+* *führ* `Ür` STS : `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `GT-Ür-UNG` `h.b.ei-Ür` `Ü-Ür` ⇒ `Ü.ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `u-rÜ-Ür` ⇒ `u-rÜ.ür` `Z-Sa-Ür` ⇒ `Z-Sa.ür` ← fuhr
   * : *führ*en `Ür` ⇒ `.ür` STS ! `f.ür`
   * : *führ*er `Ür-er` ⇒ `.ür-er` ! `f.ür-er`
   * : *führ*<i></i>*ung* `Ür-UNG` ⇒ `.ür-UNG` ! `f.ür-UNG`
@@ -1355,6 +1356,7 @@
 * **mann** `ma` : `.auf.ma` `la.ma`
   * : **land**s**mann** `la.ma` ! `la-s.ma` ≠ landmann
   * **männ** `m` : `m.er` `m.L` `.auf.m.i`
+* **mann*****heim*** `ma.eim`
 * *mar****kt*** `(kt)` : `vi.kt`
   * : *arb****eit***s*mar****kt*** `(T)-kt` ~ `T-kt`
   * : welt*mar****kt*** `wet.kt` ~ `(-t),(-t)`
@@ -1450,6 +1452,7 @@
   * modell `m.od.ell` * `m.o-ell`
 * ***mög*** `.ög`
   * ~~mög~~*lich* `(L)` : `(L)-t` `(o)ba.L` `(o)w.T.L`
+    * : ~~mög~~*lich*st `(L)-st` * `(L)-t`
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
@@ -2051,14 +2054,11 @@
 * *sich* `CH`
   * : **hat**.*sich* `ha.CH` * `ha°`
 
----
-* *sicher* `s.i-er` ! `s.ich-er` × `s.ich` E
-  * : *sicher*er `s.i-er-er` ! `s.ich-er-er` ! `s.ich.er-er` (E)
-  * : *ver*<i></i>*sicher* `E-s.i-er` * *ver*<i></i>*sicher* `E-i-er` × `E-i` E
-  * : *ver*<i></i>*sicher*<i></i>*ung* `E-s.i-er-UNG`
-    * *ver*~~sicherung~~ `E` : `I ret-E`
----
-
+* *sicher* `s.i-er` : `s.i-er-er` `si-erst.e` `si-er-UNG`
+  * ~~sich~~er*lich* `(er).L`
+  * ~~sich~~er*heit* `(er).H` : `UN.(er).H`
+  * *versicher* `E-i`
+    * **haft*****pflicht****versicher*<i></i>*ung* `ha.icht,E-i` × `ha,E-i`
 * sicht ← seh
 * sid `s.id`
   * : **prä**sid `pr.s.id` × `pr`
@@ -2642,6 +2642,7 @@
     * ! `tr.üg` : `tr.üg-er.i` `UN-tr.üg.L`
   * **trog** `tro` : `(b)tro`
     * ! `tr.og` : `G.tr.og`
+* *tübingen* `t.üb.ing`
 * tuch `t.uch`
   * tüch `t.üch` : `t.üch-er`
 * -*tum* `tum`
