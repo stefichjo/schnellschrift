@@ -13,13 +13,20 @@
 
 | Anlautkürzung | Auslautkürzung | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
 |:-:|:-:|:-:|:-:|
-| **kurz** | ***flott*** | **f**ür | arb***eit*** |
-| `[\| kurz \|]` | `[/ flott /]` | `[\| f \| ür \|]` | `[/ arb / eit /]` |
-| `ku` | `.ot` | `f` | `(T)` |
+| **kurz** | ***flott*** | **f**ür | *deut****sch*** |
+| `[\| kurz \|]` | `[/ flott /]` | `[\| f \| ür \|]` | `[/ deut / sch /]` |
+| `ku` | `.ot` | `f` | `(sch)` |
+
+* möglich: ~~mög~~*lich* `[{ lich }]`
+
+| Inlautkürzung / -el |
+|:-:|
+| ... |
+| `[< schrift >]` |
+| `i` |
 
 * ~~arb~~eit ⇒ arb***eit***
-* inlautkürzung/-kürzel
-  * eigenständig/verschmelzend
+* inlautkürzung/-kürzel (eigenständig/verschmelzend)
 
 ### Kurzschreibung
 

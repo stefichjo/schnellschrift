@@ -1,7 +1,7 @@
 # Wörterbuch
 
-| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ## [A](#wörterbuch)
 
@@ -282,9 +282,9 @@
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
   * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
-* *deut****sch*** `SCH`
-* *deutschland* `SCHa`
-  * : **bu**~~nd~~es*republik*.*deutschland* `bu:r.ik,SCHa` ~ `bu,SCHa`
+* *deut****sch*** `(sch)`
+* *deutschland* `(sch)-a`
+  * : **bu**~~nd~~es*republik*.*deutschland* `bu:r.ik,(sch)-a` ~ `bu,(sch)-a`
 * *die* `I`
   * **d**ass.*die* `d.I` ! `d I` ≠ **d**ass.*ich*
   * *für*.*die* `f.I` ~ `fI`
@@ -389,7 +389,7 @@
   * *einst* `.eist` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
     * *einzel*- `.ei` : `.ei-h-er`
-      * : `.ei-ha` ! `.ei-ha.el` ≈ meine damen und herren
+      * : `.ei-ha` ! `.ei-ha.el` ≠ meine damen und herren
   * ~~*ein*~~z*ig* `(z.i)`
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
@@ -524,8 +524,9 @@
   * fens `fes` : `d.e-fes.iv`
     * : offensiv `.o-fes.iv` * `.o-f.iv`
 * fenster `fest-er`
-* **fer** `f` : `d.if.ent` `d.if.ez` `d.if.ez.ir` `ko.f.ez` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
+* **fer** `f` : `d.if.ent` `d.if.ez` `d.if.ez.ir` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
     * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
+    * : **kon**<i></i>**fer**enz `ko.f.ez` × `ko.f`
     * -*ministerkonferenz* `ko` → aus kult
   * → lat
 * *ferien* `f.I.en` : `(.est-er),f.I.en` `s.om.f.I.en`
@@ -1151,7 +1152,7 @@
   * **kräft** `kr` : `kr.e` `kr.i` `b.kr.i` `M.al.kr.en` `eNT.kr.et`
 * **krank** `kra` : `kra.ha` `er.kra`
   * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa` ≠ kraftwagen
-  * : **krank***heit* : `kra.H` * `a-H`
+  * : **krank***heit* : `kra.H` * `a-H` = schaffung
   * **kränk** `kr` : `kr-st` `kr.L`
     * **kränk***lich****keit*** `kr.T` ! `kr.L.T`
     * ! `kr.ek` : `kr.ek-er`
@@ -1281,7 +1282,7 @@
 * *liefer* `l.i-er`
 * **lieg** `li` : `.an,li` `b.ei,li-ed` `er,li` `n.ah,li-ed` `UNTER,li`
   * : an**lieg**er `.an.li-er` ! `.an.l.ig-er`
-  * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `ndr.la-e` `O.la-e`
+  * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `ndr.la-e` `UNTER.la-e` `O.la-e`
     * : **lag**er `la-er` ⇒ `l.ag-er`
       * ! `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
   * **leg** `l` : `l-t.e` `.ab.l` `b.l` `dar-AU.l` `n.ah.l` `Ü.l` `E.l` `E.l.H` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `.an.l.H`
@@ -1747,7 +1748,7 @@
     * : pragmat**isch** `pr.agm.i`
 * pr**eis** `(.eis)`
 * prim
-  * press `pr`
+  * press `pr` : `pr-e`
 ---
 
 * prinz → prinzip
@@ -1864,6 +1865,7 @@
 ---
 
 * *r****eich*** `(.eich)` : `b.eich` `Ü.eich` `hi.eich`
+  * : *r****eich****lich* `(.eich).L` ~ `r.ei-L`
   * : *er*<i></i>*r****eich*** `er.eich` ~ `(er)r.ei`
 * ~~r~~eif `(.eif)` STS : `ho.ul.eif.e`
   * ! `r.eif` 
@@ -1881,7 +1883,7 @@
 * rent `ret` : `ret.ab.ät` `ret.e` `ret.ir` `ret-er`
   * : rentabel `ret-ab.el` × `r.et.ab`
 * *revier* `r.ir` : `li.ei-r.ir`
-* *rheinländisch-westfälisch* `SCH.SCH`
+* *rheinländisch-westfälisch* `(sch).(sch)`
 * *rheinland-pfalz* `(N):pfa`
 * **richt** `ri` : `ri.i` `(b)ach,ri.i`
   * : **richt**en `ri` ! `r.icht`
@@ -2191,7 +2193,7 @@
   * ***schäd*** `.äd`
     * **sach**<i></i>**be**~~schädigung~~ `sa.b`
 * **schaff** `scha`
-  * : *die* **schaff***ung* `I scha*` ~ `I scha`
+  * : **schaff***ung* `scha*` ! `scha.UNG` ≠ krankheit
 * schaft `sch.aft`
   * -*schaft* `FT`
   * *beschäftig* `b-t-ig` : `b-t-igt.e` `b-t-igt-en` `b-t-ig.l.os` `I n.eb.b-t-ig`
