@@ -28,7 +28,7 @@
 * -al `.al`
   * -il `.il`
 * *all* `.al` : `wet-al`
-  * : *vor*.*all*em `O .al.em` ~ `O-a`
+  * : *vor.allem* `O-a`
 * als `.as`
 * also `.as.o`
 * alt `.at` : `.at-er` `.at-er.tum` `ki.at-er` `v.at-er.h`
@@ -1639,13 +1639,10 @@
   * -*partei* `.ei` : `I.ei-en` → krat
 * pass ← pand
 * pass ← pati
+* **p**at `p` : `kom-p.ib.el` `kom-p.ib.ät`
+* *patent* `pa°` Neubauer
 
 ---
-* **p**at `p`
-  * : *kom***p**atibel `kom-p.ib.l`
-  * : *kom***p**atibilität `kom-p.ib.ät`
-* patent `p.at.ent` × `p.at`
-  * : *patent* `pa°` S (Neubauer)
 * pati `pat.I`
   * : pati*ent* `p.at.I.eNT` ~ `p.az.ent`
   * : pati*ent*in `p.at.I.eNT.in` ~ `p.az.en.t.in`
