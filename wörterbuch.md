@@ -1203,17 +1203,17 @@
 
 * lad `l.ad`
   * **last** `.ast`
-* **la**~~nd~~ `la` : `la.FT` `.S.la` `(hi)z.la` `v.at-er.la`
-  * **la**~~nd~~*ung* `la-UNG` ! `la.UNG`
+
+* **land** `la` : `la.FT` `la.UNG` `.S.la` `(hi)z.la` `v.at-er.la`
   * *land****es*** `(.es)` : `(.es).ba`
     * -*landes* `-es` : `(.es)-es` `U.es-es`
-  * **lä**~~nd~~ `lä` STS
+  * **länd** `l` : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
     * ! `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
     * ~~län~~der : `(d-er)` : `(I).N.el.d-er`
       * *ent*<i></i>*wick*l*ung*s~~län~~der `eNT,wi.l.d-er` ~ `eNT-i.d-er`
-    * -*ländisch* : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
   * → deutschland
   * → niederlande
+
 * **lang** `ang` : `ang-Sa` `ang.fr.ist-ig` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * **läng** `eng` : `eng.-st` `eng.-st-es` `eng.-st-s`
     * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
@@ -1273,7 +1273,7 @@
 * letz `l.ez` : `E.l.ez` `E.l.ez°`
 * *letzt* `let`
 * ***leut*** `.eut` : `.eut.e` `fa.eut.e` `la.eut.e`
-  * **la**~~nd~~s***leut***e `la.eut.e` ! `la-s.eut.e` ≠ landleute
+  * **land**s***leut***e `la.eut.e` ! `la-s.eut.e` ≠ landleute
 * -*lich* `L`
   * -~~lich~~***keit*** `T`
 * *liefer* `l.i-er`
@@ -1353,7 +1353,7 @@
 * **mand** `ma` : `ma.aNT` `ma.aNT.in`
 * **mang** `ang` : `ang.el`
 * **mann** `ma` : `.auf.ma` `la.ma`
-  * : **la**~~nd~~s**mann** `la.ma` ! `la-s.ma` ≠ landmann
+  * : **land**s**mann** `la.ma` ! `la-s.ma` ≠ landmann
   * **männ** `m` : `m.er` `m.L` `.auf.m.i`
 * *mar****kt*** `(kt)` : `vi.kt`
   * : *arb****eit***s*mar****kt*** `(T)-kt` ~ `T-kt`
@@ -1543,7 +1543,7 @@
 * -***nis*** `.is`
 * nie `n.i` : `n.i-ma-s` `n.i-ma`
 * *nieder*, *niedr* `ndr`
-* *nieder***la**~~nd~~e `ndr.la-e`
+* *nieder***land**e `ndr.la-e`
 * ***nieß*** `.iss` : `G.iss` `nu:iss.er`
   * ***noss*** `.oss` : `G.oss`
     * : *ge****noss***en*schaft* `G.oss.FT` * `(O).FT`
@@ -2978,7 +2978,7 @@
 * *woll* `(.ol)`
   * *will* `(l)`
 * wort `wot`
-  * *antwort* `aNT` : `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
+  * *antwort* `aNT` : `(b)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
 * **wunsch** `wu`
