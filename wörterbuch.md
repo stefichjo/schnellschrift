@@ -2090,9 +2090,13 @@
     * : *exist*enz `.ex.ez` × `.ex` BSA
     * : *exist*ier `.ex.ir` (BSA)
     * : X `.ex.ent` `.ex.ir.ed` `.ex.irt.e`
+---
+
 * sit `s.it`
-  * : situier `s.it.ir` (E)
-  * : situat*ion* `s.it.iO` (E) ~ `s.iO`
+  * : situier `s.it.ir`
+  * : situat*ion* `s.it.iO` * `s.iO`
+
+---
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
   * saß `s.ass`
@@ -2169,7 +2173,7 @@
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`
-* **such** `su` : `b-su` `E-su`
+* **such** `su` : `.S.su` `b-su` `er.su` `E-su`
   * : *unter***such** `UNTER.su` * `UNTER-u` : `O.S.o=UNTER-u`
 * sucht ← siech
 * süd `s.üd` : `s.üd-Ü.e`
@@ -2570,6 +2574,7 @@
 * tit `t.it` : `t.it.ur` `t.it.ir-UNG`
   * : titel `t.it.el` × `t.it`
   * *titel*- `ti` : `ti,18`
+* tocht `t.ocht`
 * *toler* `t.ol` : `t.ol.aNT` `t.ol.az` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
 * ~~t~~o~~n~~ `(.o)` : `b,(.o)` `er b,(.o)-t.e` `er b,(.o).e`
   * : ~~t~~o~~n~~*los* `(.o)-l.o` ! `(.o)-l.os`
@@ -2980,7 +2985,7 @@
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
 * **wunsch** `wu`
-  * **wünsch** `wÜ`
+  * **wünsch** `wÜ` : `er.wÜ`
 * würd `w.üd` : `w.üd.e` `w.üd.i`
 
 ## [X](#wörterbuch)
