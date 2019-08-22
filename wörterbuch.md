@@ -175,10 +175,7 @@
 * *bischof* `bi.of`
   * *land****es****bischof* `(.es):bi.of` ~ `(.es).of`
 * bist ← sein
-* bitt `b.it` STS
-  * *bitte* `.it.e`
-  * -*bitt* `.it` : `.I.it.sI` `wr.it.sI`
-  * ~ ***bitt*** `.it` : `.it.ed` `f.it.e` `UN-er.it.L` `I .it.e` `.I.it.sI` `M-r.it.e`
+* ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `.I.it.sI` `M-r.it.e` `wr.it.sI`
   * bat `b.at`
   * bet `b.et` : `G.b.et` `UN-G.b.et`
 * **blatt** `bla` : `.om.bla`
