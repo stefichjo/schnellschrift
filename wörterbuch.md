@@ -374,7 +374,8 @@
   * : *wieder*.ein**mal** `W.N.ma` × `W.N`
   * : *zunächst*.ein**mal** `-Z-n,N.ma` × `-Z-N`
   * -ein `N` : `d.N` `m.N` `s.N`
-    * : kein `k.N` * `(K)` → fall weg
+    * : kein `k.N` * `(K)`
+      * -*kein*- `k` → fall weg
     * -**ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
       * : d**ein**- `d.ei`
       * : k**ein**- `k.ei`
@@ -392,8 +393,9 @@
     * *einzel*- `.ei` : `.ei-h-er`
       * : `.ei-ha` ! `.ei-ha.el` ≠ meine damen und herren
   * ~~*ein*~~z*ig* `(z.i)`
-* ein `N`
+* ein `N` : `h.N`
   * : *hin*ein `n.N` ~ `hi.N` ≠ nein
+  * : *von* *vor*n*her*ein `v O.n.h.N` × `v.N`
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
 * -el → -ul
@@ -455,7 +457,7 @@
     * : *un*<i></i>*ge***fähr** `UN-G.f` × `UN.G`
   * **fuhr** `fu` : `.S.fu` `N.fu`
     * → führ
-* **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `G.g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z-fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `(I).iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
+* **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `G.g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z-fa` `zw.fa` `(AU)j.fa` `f.fa.d` `.im.ad-er:fa` `(I).iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
   * : eben**fall**s `.eb.fa-s` * `.e-fa-s`
   * : keinesfalls `(K):fa-s` ~ `k.fa-s`
   * : *auf*.keinen.fall `AU.K.fa` ~ `AU.k.fa`
@@ -3011,7 +3013,7 @@
 * **zeih** `z.ei` : `E.z.ei`
   * **zieh** `z.i` STS : `E.z.i`
   * *zicht* `-i-` : `E-i`
-    * **be***zicht**ig*en `b-i.i` ~ b.z.i`
+    * **be***zicht**ig*en `b-i.i` ~ `b.z.i`
 * zeil `z.eil`
 * ***zeit*** `T` : `u-er-er.T` `IN,(-st)-T`
   * : *arb****eit***s***zeit*** `(T)-s.T` ~ `Ts.T`

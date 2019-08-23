@@ -35,6 +35,9 @@
 * *ent***wick**eln `eNT,wi.el` ⇒ `eNT-i`
 * *unter***such**en `UNTER.su` ⇒ `UNTER-u`
 
+#### Auslautkürzel und Nachsilbenkürzel
+
+* ***mög****lich* `.ög.L` ⇒ `(L)`
 
 ### Kurzschreibung
 
