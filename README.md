@@ -28,6 +28,14 @@
 * ~~arb~~eit ⇒ arb***eit***
 * inlautkürzung/-kürzel (eigenständig/verschmelzend)
 
+### Verschattung von Kürzungen
+
+#### Vorsilbe + Anlautkürzung
+
+* *ent***wick**eln `eNT,wi.el` ⇒ `eNT-i`
+* *unter***such**en `UNTER.su` ⇒ `UNTER-u`
+
+
 ### Kurzschreibung
 
 | l | ls | lt |
