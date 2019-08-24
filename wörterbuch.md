@@ -426,7 +426,8 @@
   * aß `.ass`
   * *ge*gess `G.g.ess`
 * ess `.ess`
-  * *interess* `(I)t-er`: `(I)t-er.ant` `(I)t-er.ent-en` `(I)t-er.ir` `(I)t-er.os.T` `UN-(I)t-er.ant`
+  * *interess* `(I)t-er`: `(I)t-er.ent-en` `(I)t-er.ir` `(I)t-er.os.T` `UN-(I)t-er.ant`
+    * : *interess*<i></i>*ant* `(I)t-er.ant` ~ `(I)t-er.aNT`
     * : *interess*e `(I)t-er.e` × `(I)t-er`
 * *etw****a*** (.a) : (.a)-s
 * *europa*, *europä* `.eu-p` : `.eu-p-er` `.eu-p.i`
