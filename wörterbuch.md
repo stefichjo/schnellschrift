@@ -1144,7 +1144,7 @@
 * **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E.kö.er` ← korp
   * : **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
-* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN-kost,au.al.e` ← st
+* **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN.kost,au.al.e` ← st
   * : **kost**en*los* `kost-l.o` ~ `ko.os`
   * -*kosten* `ko` → bau fracht mehr neb person selb walt
   * **köst** `köst` : `köst.L` `köst.L.T` `b.köst-ig`
@@ -1519,7 +1519,7 @@
   * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
 * neb `n.eb` : `n.eb.ko`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
-* ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an.G` `E,(en)` `E.L` `O.L` `O.w,(en)` `O.l.ib,(en)` `wa,(en)` `wa,(UNG)` `IN.auf.en` `AU.CH.en`
+* ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `O.L` `O.w,(en)` `O.l.ib,(en)` `wa,(en)` `wa,(UNG)` `IN.auf.en` `AU.CH.en`
   * : an~~nehm~~*lich****keit*** `.an.T` ! `.an.L.T`
   * : ein*ver*~~nehm~~en `N.E,(en)` × `N.E`
   * : *vor*~~nehm~~ `O` ! `O.n.em`
@@ -1647,12 +1647,13 @@
 * *patent* `pa°` Neubauer
 * pati `p.az` : `p.az.ent` `p.az.eNT-in`
   * ***pass*** `pass` : `pass-o`
+* **pausch** `pau` : `pau.al` `pau.al.e`
+  * **pausch**alisieren `pau.ir` ! `pau.al.ir`
+  * -*pauschale* `au.al.e` → kost
 
 ---
-* **pausch** `pau` : `pau.al` `pau.al.e`
-  * `pau.al.ir`
-  * -*pauschale* `au.al.e` → kost
-* paz
+* paz `p.az` : `p.az.ik` `p.az.ist` `p.az.iS`
+  * `p.az.if.i`
   * → pakt
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
@@ -1952,9 +1953,10 @@
 * sait `s.ait` : `s.ait.e`
 * -*sam* `Sa`
 * *samm* `Sa` : `Z.Sa`
-  * *sammel* `sa.el` : `sa.l-UNG`
-    * *versammel* `E.Sa` : `E.Sa.UNG`
-      * -*versammlung* `Sa.UNG` : `M.id-er.Sa.UNG`
+  * → sammel
+* **samm**el `sa.el` : `sa.l-UNG` ← samm
+  * *versammel* `E.Sa` : `E.Sa.UNG`
+    * -*versammlung* `Sa.UNG` : `M.id-er.Sa.UNG`
 * *samt* `Sa` : `G.Sa` `G.Sa.H`
   * : *in*s*ge*<i></i>*samt* `IN.G.Sa` ~ `(I).G.Sa`
   * *sämt* `s` : `s.L`
@@ -2090,6 +2092,7 @@
 ---
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
+  * : *vor***sitz**ender `O-si.ed-er` ~ `O-i.ed-er`
   * saß `s.ass`
   * → sass
   * **setz** `s` ! `s.ez` (E)
@@ -2151,15 +2154,8 @@
   * -*sorg*- `o` : `f,o-e` `f,o-L` → falt seel
     * : *da*f~~ür~~.*sorg*en `.a-f,o` ~ `.a-f.o`
     * -*fürsorge* `-Ü.o` : `I-Ü.o` → flieh sozi
-
----
-* sort `s.ot`
-  * : sorte `s.ot.e` (E)
-  * : sortier `s.ot.ir` (E)
-  * : sortiment `s.ot.met` ! `s.ot.i-met` (E) ~ `s.ot.eNT`
-  * : **kon**sortium `ko-s.ot.um`
----
-
+* sort `s.ot` : `s.ot.e` `s.ot.ir` `ko-s.ot.um`
+  * : sortiment `s.ot.met` * `s.ot.eNT`
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`

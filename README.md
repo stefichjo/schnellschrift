@@ -32,6 +32,7 @@
 
 #### Vorsilbe + Anlautkürzung
 
+* emp**find**en `.emp-fi` ⇒ `.emp-i`
 * *ent***wick**eln `eNT,wi.el` ⇒ `eNT-i`
 * *unter***such**en `UNTER.su` ⇒ `UNTER-u`
 
