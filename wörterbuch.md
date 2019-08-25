@@ -408,9 +408,9 @@
 * em
   * emp
     * *exemp*, *exempl* `.ex` : `.ex.el` `.ex.ar` `.ex.ar.i`
-* emp*f****a****ng* `.emp-a` ← fang
-  * emp*f****ä****ng* `.emp-e`
-  * emp*f****i****ng* `.emp-i`
+* emp*f****a****ng* ⇒ *empfang* `.emp-a` ← fang
+  * emp*f****ä****ng* ⇒ *empfäng* `.emp-e`
+  * emp*f****i****ng* ⇒ *empfing* `.emp-i`
 * end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN.ed.L` `UN.ed.T`
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
