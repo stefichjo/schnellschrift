@@ -78,8 +78,8 @@
   * : asien `.as.I.en` ~ `.as.i-en`
   * : asiat `.as.I.at` ~ `.as.at`
     * : asiat**isch** `.as.I.i` ~ `.as.at.i`
-* astr `.a-str` : `.a-str.om.I`
-  * : astro***log***ie `.a-str.og.I` ~ `.a-str.o-l.o-I`
+* astr `.a+str` : `.a+str.om.I`
+  * : astro***log***ie `.a+str.og.I` ~ `.a+str.o-l.o-I`
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` : `.atl.i`
   * *atlant*ik `.atl.ik` ~ `.atl-t-ik`
@@ -93,7 +93,7 @@
   * : ***dar****über*<i></i>*hin*<i></i>*aus* `dar-Ü.n.S` ~ `dar-Ü-aY`
   * : *her*<i></i>*aus* `er.S` ~ `er-s`
   * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha`
-      * : *äußer* `.äuss` : `.äuss.L` `äuss.-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
+      * : *äußer* `.äuss` : `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
 * aut `.aut` : `.aut.o` `.aut.us` `.aut.om`
 
@@ -494,7 +494,7 @@
     * ~ **fäng** ⇒ *fäng* `f` : `G.f.is` `.an.f-er`
   * *f****ing*** `(.ing)`
     * ! `f.ing`
-* fant `fat` : `fat-as.I` `fat-as.ir` `fat-ast` `fat-a-st.i`
+* fant `fat` : `fat-as.I` `fat-as.ir` `fat-ast` `fat-a+st.i`
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
 * farm `f.am`
@@ -713,7 +713,7 @@
 * garten `gat` : `ki.gat`
 * **ga**~~st~~ `ga`
   * **gä**~~st~~ `gä`
-* gastr `g.a-str` : `g.a-str.om`
+* gastr `g.a+str` : `g.a+str.om`
 * *ge*- `G`
   * *unge*- `UN.G`
 * ge `g.e` : `g.e-m.etr.I` `g.e-m.etr.i`
@@ -722,12 +722,12 @@
   * : geo***log***ie `g.e-og.I` ! `g.e-l.og.I`
 * ***geb*** `.eb` STS
   * ! `g.eb` : `g.eb-er`
-  * ~ *geb* `g` : `G.g` `G.g.H` `.ab.g` `b.g.H` `er.g` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
+  * ~ *geb* `g` : `G.g` `G.g.H` `.ab.g` `b.g.H` `er.g` `er.g-st` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
     * -*geber* `g` → arbeit rat trag
       * : an*geber* `.an.g` ! `.an.g.eb-er`
   * × ~~geb~~ : `.S.ag.ed` `er.is` `er.is.os`
   * ***gib*** `.ib` : `ach.ib.T` `er.ib.i`
-  * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `b.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `er.g-st` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
+  * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `b.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
     * : *auf****gab***e `AU.ab.e` × `AU.e` : `AU.en.it`
     * : *aus****gab***e `.S.ab.e` × `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
@@ -1070,7 +1070,7 @@
       * **kon**junktur `(ko)j.ukt-ur` * `ko,u-ur` * `o-u-ur`
         * : **hoch**<i></i>**kon**junktur `ho,(ko)j.ukt-ur` * `ho,ko,u-ur` ~ `ho,K-u`
 * jur `j.ur` : `j.ur.iS.i`
-* just `j.u-st` : `j.u-st.ir` `j.u-st.ir-er`
+* just `j.u+st` : `j.u+st.ir` `j.u+st.ir-er`
   * *justiz* `j.us` : `j.us.er` `j.us.um` `j.us.om` `j.us.UNG`
 
 ## [K](#wörterbuch)
@@ -1239,7 +1239,7 @@
   * → deutschland
   * → niederlande
 * **lang** `ang` : `ang-Sa` `ang.fr.ist-ig` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
-  * **läng** `eng` : `eng.-st` `eng.-st-es` `eng.-st-s`
+  * **läng** `eng` : `eng-st` `eng-st-es` `eng-st-s`
     * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
     * * *länger* `eNGR` : `E.eNGR`
 * ~~l~~ass `(ass)` : `(I)t-er.ass`
@@ -1489,7 +1489,7 @@
 * **monstr** `mo` : `d.e-mo-o` `d.e-mo.ir`
   * : **monstr**um `mo.um` ! `mo-s.um`
   * : **monstr**osität `mo.ät` ! `mo-s.ät`
-  * ! monster `mo-st-er`
+  * ! monster `mo+st-er`
 * mont `m.ot` `mot` : `m.ot.asch.e` `m.ot.ir` `m.ot.ör`
 * **morg** `mo` : `mo-Ü`
   * ! morgen `m.og`
@@ -1538,7 +1538,7 @@
 * ~~nat~~ : `(.ur)` `(.Yr).L` `(.iO)` `u-ur.iO`
   * : ~~nat~~*ional* `(.i-aL)` ~ `(n.al)`
     * : *inter*~~nat~~*ional* `(I)t-er.i-aL` ~ `(I)t-er-a`
-* *n****aut*** `(.aut)` : `.a-str.aut` `k.osm.aut`
+* *n****aut*** `(.aut)` : `.a+str.aut` `k.osm.aut`
   * : aero*n****aut***ik `.er.aut.ik` * `.er.o-n.ik`
   * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
 * neb `n.eb` : `n.eb.ko`
@@ -2406,7 +2406,7 @@
   * stoch `st.och`
   * steck `st.ek`
 * steck ← stech
-* **steh** `st` : `b.st` `b.eist` `E-st` `UN.S.st.L`
+* **steh** `st` : `b.st` `b.eist` `E.st` `UN.S.st.L`
   * → stadt
   * → stand
   * **stall** `sta`
@@ -2466,7 +2466,7 @@
 * string `str.ing`
   * : stringent `str.ing.ent`
   * strikt `str.ikt`
-    * : distrikt `d.i-str.ikt` (BSA) ~ `(ds)tr.ikt` (BSA)
+    * : distrikt `d.i+str.ikt` (BSA) ~ `(ds)tr.ikt` (BSA)
 * stroph `str.of`
   * : **kat**astroph `k.at.str.of`
     * × **kat**a~~stroph~~ `k.at` BSA
@@ -2549,7 +2549,7 @@
   * : deter***min***ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
 ---
 
-* test `t.est` : `t.e-st.a-met` × `t.e-st`
+* test `t.est` : `t.e+st.a-met` × `t.e+st`
 
 ---
 * teuer `t.eu-er` (E)
