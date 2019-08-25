@@ -847,7 +847,7 @@
   * : hielt `hit`
     * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be***hielt* `b,hi` ! `b.e,hi`
-* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
+* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha,(.el)` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
   * : **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `G.ha.elt`
     * : **hand**elt.~~sich~~.um, **hand**elt.~~es~~.~~sich~~.um `ha.el.um` × `ha.um`
     * : **be**<i></i>**hand**eln `b.ha.el` × `b.ha`
@@ -1396,7 +1396,7 @@
   * *mensch*<i></i>*heit* `MSCH.H` * `MSCH°`
 * ment `met` : `met-al.ät` `met-or`
   * -ment `met`/`.eNT` → el test
-* merk `m.ek`
+* merk `m.ek` : `m.ek,(.el)`
   * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa`
     * : *auf*merk*sam****keit*** `AU.m.ek-Sa.T` × `AU.T`
       * : *mit*.*besonder*er *auf*merk*sam****keit*** `M-S AU.T` × `M-S.T`
@@ -2798,7 +2798,7 @@
     * -*wechsel* `S.el` : `.ab.S.el` `.S.S.el` `.um.S.el` `.ift.S.el` `E.S.el`
 * wag `w.ag`
   * -*wagen* `wa` → kraft krank
-* **wahl** `wa` : `l.i=wa`
+* **wahl** `wa` : `wa,(.el)` `l.i=wa`
   : * *ge****mein***de**wahl**en `G.N-d.e-wa.en` ~ `(N)-d.e:wa.en`
   * **wähl** `w` : `G.w-t` `w.bar` `w-er` `w-er.FT`
     * ! `w.el`
@@ -3030,9 +3030,8 @@
 * zern `z.en` : `ko.z.en`
   * *zert* `zer` : `zer.if.at` `zer.if.ir`
     * : **kon***zert* `(ko)zer` ! `ko.zet`
-* ~~zett~~el `(.el)`
-  * ! `z.et.el`
-  * : merk~~zett~~el `m.ek,(.el)`
+* zettel `z.et.el`
+  * -*zett****el*** `(.el)` → hand merk wahl
 * **zeug** `.eug` : `fa.eug` `er.eug.iss.e` `Ü.eug`
   * : *führ*<i></i>*ung*s**zeug*****nis*** `Ür-UNG.eug.is` ⇒ `.ür-UNG.eug.is` ! `f.ür-UNG.eug.is`
   * : *nach*.m**ein**er.*über****zeug****ung* `ach.m.ei-er-Ü.eug` × `ach.m.ei-er-Ü`
