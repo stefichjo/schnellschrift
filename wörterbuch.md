@@ -35,12 +35,12 @@
   * ! (alt) `.alt` : `.ur.alt`
   * ält `.ät` : `.ät-er` `.ät.est`
 * *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
-* **amt** `.a` : `b.a` `b.a.er` `fi.a` `.es.a` `hau.a.L` `pa°.a`
-  * : **amt**ieren `.a.ir` ! `.amt-ir`
-  * : *arb****eit***s**amt** `(T)-s.a.` ~ `T-s.a`
-  * : **be**<i></i>**amt**en*schaft* `b.a.FT` × `b.FT`
-  * : *aus*wertiges **amt** `.S.wet.ig.es .a` ~ `.S.a`
-  * *ämter* `.ä` : `fi.ä`
+* amt `.amt` : `.amt-ir`
+  * : *aus*wärtiges amt `.S-t-ig.es .amt` × `.S.a`
+  * *beamt*, *beamter*, *beamten* `b.a` : `b.a.in`
+    * : *beamt*en*schaft* `b.a.FT` × `b.FT`
+  * -*amt* `.a` → arbeit finanz haupt land patent post wart
+  * -*ämter* `.ä`
 * an `.an` : `.an,u` `.an-t-er` `dar.an` `wo.an`
 * -an `.an`
 * and `.ad` : `.ad-er`
@@ -51,7 +51,7 @@
 * *ant*ik `aNT.ik`
 * *arb****eit*** `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `M.T-er` `O.T-er` `Z.Sa.T`
   * ! arbeit `.ab.T` : `G.ab.T` `b.ab.T` `E.ab.T`
-  * : *arb****eit****sam* `(T)-Sa` ~ `T-Sa`
+  * ~ `T` : `T-Sa` `T-s.a`
   * : *arbeits****los*** `(l.os)`
   * : *arb****eit***s*gemeinschaft* `(T)-s.N` ~ `Ts.N`
   * : *arb****eit***s*w****eis***e `(T)-s.eis.e` ~ `Ts.eis.e`
@@ -555,8 +555,10 @@
 * **fin** `fi`: `fi.al` `fi.al.e`
   * : **fin**al*ist* `fi.ist` ! `fi.al.ist`
   * : **fin**al*ist*in `fi.i+st.in` ~ `fi.al.in`
-  * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi-er` `fi.um` `fi.om` `O,fi.ir`
   * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
+  * → finanz
+* *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
+  * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.T` `fi.ing` `Z.fi`
   * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
     * : *emp***find**en `.emp-f.i` ~ `.emp-i`
@@ -889,7 +891,8 @@
 * ***harr*** `arr` : `b.arr.T`
 * **hart** `hat`
   * **härt** `het` : `het.e` `het-est` `G.het` `.ab.het` `er.het`
-* **haupt** `hau` : `hau-o` `er b.hau.et.e` `(.es).hau`
+* **haupt** `hau` : `b.hau.et` `hau.a.L` `(.es).hau`
+  * : *ober***haupt** `.o-hau`
   * **häupt** `häu` : `häu-er` `häu.ing`
 * ***haus*** `.aus` : `ho.aus` `ra.aus` `kra.aus` `sta.aus` `.im.aus.e` `v.aus.S`
   * : **hoh**es.***haus*** `ho.aus` ~ `ho-au`
@@ -1225,9 +1228,9 @@
 
 * lad `l.ad`
   * **last** `.ast`
-
 * **land** `la` : `la.FT` `la.UNG` `.S.la` `(hi)z.la` `v.at-er.la`
   * *land****es*** `(.es)` : `(.es).ba`
+    * : *land****es***<i></i>*amt* `(.es).a` ~ `.es.a`
     * -*landes* `-es` : `(.es)-es` `U.es-es`
   * **länd** `l` : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
     * ! `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
@@ -1235,7 +1238,6 @@
       * *ent*<i></i>*wick*l*ung*s~~län~~der `eNT,wi.l.d-er` ~ `eNT-i.d-er`
   * → deutschland
   * → niederlande
-
 * **lang** `ang` : `ang-Sa` `ang.fr.ist-ig` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * **läng** `eng` : `eng.-st` `eng.-st-es` `eng.-st-s`
     * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
@@ -1445,8 +1447,8 @@
   * *min****ut*** `(.ut)` ⇒ `.ut` : `.ut.e`
 * *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min
   * : *minist*erien `mi.I.en` ! `mi.er.I.en`
-  * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → finanz just kult wirt
-  * -*ministerium* `.um` → aus bund finanz in
+  * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → aus bund finanz in just kult wirt
+  * -*ministerium* `.um`
 * mind
   * *minder* `m.i-er`
   * *mindest* `m.i-eS`
@@ -1610,7 +1612,7 @@
 
 * oben `.ob`
   * ober `.ob-er`
-    * *ober-* `.o-` → gericht
+    * *ober-* `.o-` → gericht haupt
 * oder `.od-er` : `.od-er-au`
 * **off** `.o` : `.o-bar` `.o-H`
   * ! `.of`
@@ -1667,7 +1669,7 @@
 * pass ← pand
 * pass ← pati
 * **p**at `p` : `kom-p.ib.el` `kom-p.ib.ät`
-* *patent* `pa°` Neubauer
+* *patent* `pa°` Neubauer : `pa°.a`
 * pati `p.az` : `p.az.ent` `p.az.eNT-in`
   * ***pass*** `pass` : `pass-o`
 * **pausch** `pau` : `pau.al` `pau.al.e`
@@ -1707,15 +1709,12 @@
     * : *kom***pl**izier `kom-pl.ir`
   * **pl**ex `pl`
     * : *kom***pl**ex `kom-pl` ~ `(ko)ex` ≠ komplett
-
----
 * plod `p.lod`
   * : *ex*plodier `.e-pl.od.ir`
-  * **pl**os ⇒ *plos* `pl` : `.e-pl.O`
-    * : *ex*<i></i>*plos*iv `.e-pl.iv`* po `p.o`
----
-
-* poesie `p.o-es.I`
+  * **pl**os ⇒ *plos* `pl` : `.e-pl-o`
+    * : *ex*<i></i>*plos*iv `.e-pl.iv`
+* po `p.o`
+  * poesie `p.o-es.I`
 * pol `p.ol`
   * : metropole `m.etr.p.ol.e` * `m.etr.ol.e`
 * *pol****it*** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
@@ -1732,22 +1731,24 @@
     * : ***pos***it*ion* `.os.iO` ~ `pos`
       * : *dis****pos***it*ion* `ds.os.iO` × `ds.os`
     * : ***pos***itiv `.os.iv` ~ `po.iv`
-    * **po**~~st~~ `po` : `po.ir` `kom.ost` `k.om.o+st.ir`
-      * : **po**~~st~~ulat `po.at` ! `p.o+st.at`
-      * : **po**~~st~~ulier `po.ir` ! `po.ul.ir`
-    * pot `p.o`
-      * : depot `(d.e)p.o`
+    * : *komp****os***it*ion* `kom.os.iO` × `kom-o`
+    * **post** `po` : `po.ir` `po.al.i` `po.a`
+      * : **post**ulat `po.at` ! `p.o+st.at`
+      * : **post**ulier `po.ir` ! `po.ul.ir`
+      * : *kom***post** ⇒ *komp****ost*** `kom.ost` : `kom.o+st.ir`
+    * → pot
+* port `pot` : `pot-al` `(o)pot-iO`
+  * : *pro*port*ional* `(o)pot-i-aL` × `(o)pot-al`
+  * : *trans*port `tra.pot`
+  * : *un*<i></i>*pro*port*ion*iert `UN.o-pot-iO.irt` × `UN.o-port.irt`
+  * *import* `.imp` : `.imp.ir` `.imp.ör`
 
 ---
-* port `pot`
-  * : portal `pot-al`
-  * : import `.im-pot` (BSA)
-  * : importier `.im-pot-ir` ! `.im-p.ot.ir` BSA
-  * : importeur `.im-pot-ör` ! `.im-p.ot.ör` BSA
-  * : pr**o**port*ion* `(o)pot-iO`
-  * : *trans*port `tra.pot`
-* *porto* `p.ot` E
-* post ← pon
+
+* pot `p.o` ← pon
+  * : depot `(d.e)p.o`
+
+
 * präm `pr.äm`
   * prämie `pr.äm.I.e` × `pr.äm.e` E
   * prämien `pr.äm.I.en` (E)
