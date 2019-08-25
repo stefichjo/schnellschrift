@@ -408,7 +408,10 @@
 * em
   * emp
     * *exemp*, *exempl* `.ex` : `.ex.el` `.ex.ar` `.ex.ar.i`
-* end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN-ed.L`
+* emp*f****a****ng* `.emp-a` ← fang
+  * emp*f****ä****ng* `.emp-e`
+  * emp*f****i****ng* `.emp-i`
+* end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN.ed.L` `UN.ed.T`
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
 * *ener****g*** `(g)` : `(g).I` `(g).i`
@@ -472,18 +475,16 @@
     * : *ver****viel***fält*ig*en `E.il.fet-ig` ~ `E.il.f.i`
 * *famili* `f.am` : `f.am.är`
   * : *famili*e `f.am.e` × `f.am`
-* ~~f~~ang `(ang)` : `N.ang` `fi.ang`
+* *f****ang*** `(ang)` STS : `N.ang` `fi.ang`
   * ! `f.ang`
-  * : emp~~f~~ang `.emp.ang` ~ `.emp-a`
-  * ~ **fang** `fa` ≠ gang : `.an.fa` `b.fa` `.um.fa`
+  * ~ **fang** ⇒ *fang* `fa` ≠ gang : `.an.fa` `b.fa` `.um.fa`
     * : um**fang***r****eich*** `.um.fa:eich` × `.um:eich`
-  * ~~f~~äng `(.eng)` `E.eng.L`
+  * → empfang
+  * *f****äng*** `(eng)` : `E.eng.L`
     * ! `f.eng`
-    * ~ -f~~äng~~- `f` : `G.f.is` `.an.f-er`
-    * × ~~fäng~~ : `.emp`
-  * ~~f~~ing `(.ing)`
+    * ~ **fäng** ⇒ *fäng* `f` : `G.f.is` `.an.f-er`
+  * *f****ing*** `(.ing)`
     * ! `f.ing`
-    * * ~~f~~**i**~~ng~~ `.emp-i`
 * fant `fat` : `fat-as.I` `fat-as.ir` `fat-ast` `fat-a-st.i`
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
@@ -860,7 +861,7 @@
     * : **händ**ler `h.l-er` × `h-er`
       * -*händler* `h-er` → einzel groß vieh
     * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er` ≠ linkshändler
-* ~~h~~äng `(.eng)` STS : `ab.eng.i` `.an.eng-er` `.an.eng.i`
+* ~~h~~äng `(eng)` STS : `ab.eng.i` `.an.eng-er` `.an.eng.i`
   * ! `h.eng`
   * : *un*ab~~h~~äng*ig* `UN-ab.eng.i` × `UN-ab.i`
   * ~~h~~ing `(.ing)` STS
@@ -1283,6 +1284,7 @@
   * **land**s***leut***e `la.eut.e` ! `la-s.eut.e` ≠ landleute
 * -*lich* `L`
   * -~~lich~~***keit*** `T`
+* licht `l.icht`
 * *liefer* `l.i-er`
 * **lieg** `li` : `.an,li` `b.ei,li-ed` `er,li` `n.ah,li-ed` `UNTER,li`
   * : an**lieg**er `.an.li-er` ! `.an.l.ig-er`
@@ -1846,7 +1848,7 @@
   * : -~~reg~~el `(.el)` : `.il,(.el)` `IN.el`
   * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
     * : ~~reg~~ier*ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
-      * ~ `ir-UNG`
+      * ~ `ir-UNG` = richtung
       * : **bu**~~nd~~es~~reg~~ier*ung* `bu.ir-UNG` ~ `u-r-UNG`
   * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
     * : *reg*<i></i>*ional* `r.eg.i-aL`
@@ -2909,8 +2911,7 @@
   * : *ent***wick**el `eNT,wi.el` * `eNT-i`
 * ~~wid~~m `(m)`
 * wie `w.i`
-  * : *irgend*wie `.i-w.i` ~ `.i-I`
-  * : *so*wie `(o)w.i` ~ `(o)I`
+  * -*wie* `I` : `.i-I` `(o)I`
 
 ---
 * *wieder*, *wider*, *widr* `W` V
