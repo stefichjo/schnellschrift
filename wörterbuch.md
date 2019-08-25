@@ -1826,8 +1826,8 @@
   : *her*<i></i>*vor*ragend `.e-O.r.ag.ed` × `.e-O.ed`
 * rahm `r.am`
   * : im.rahmen `.im.r.am` ~ `.im.am`
-* ~~rak~~ete `(.et).e`
-  * : **träg**er~~rak~~ete `tr.er,(.et).e` ! `tr.eg-er,(.et).e`
+* *rak****et*** `(.et)` : `(.et).e`
+  * : **träg**er*rak****et***e `tr.er,(.et).e` ! `tr.eg-er,(.et).e`
 * rang `r.ang` : `r.ang.ir` `O.r.ang`
 * **rat** `ra` : `ra.os` `G.ra` `O.ra` `bu.ra` `la.ra`
   * : **rat***geber* `ra.g` ! `ra.g.eb-er`
