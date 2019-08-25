@@ -1162,7 +1162,7 @@
     * -**corps** `ko` → diplom
   * → körp
 * **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E.kö.er` ← korp
-  * : **körp**er*schaft*sst**eu**er `kö.FT,eu-er` × `kö,eu-er`
+  * : **körp**er*schaft*s*st****euer*** `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
 * **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN.kost,au.al.e` ← st
   * : **kost**en*los* `kost-l.o` ~ `ko.os`
@@ -1676,29 +1676,21 @@
 * **pausch** `pau` : `pau.al` `pau.al.e`
   * **pausch**alisieren `pau.ir` ! `pau.al.ir`
   * -*pauschale* `au.al.e` → kost
-
----
 * paz `p.az` : `p.az.ik` `p.az.ist` `p.az.iS`
   * pazif**isch** `p.az.i` ! `p.az.if.i`
   * → pakt
 * pend `p.ed` : `p.ed.el`
   * : pendant `p.ang.d.ang` * `p.ang.da`
-  * pens `p.e-s`
-    * : pens*ion* `p.e-s-o` ! `p.e-s.iO`
----
-
+  * pens `pe-s`
+    * : pens*ion* `pe-s-o` ! `pe-s.iO`
 * **per**- `p`
 * *peri*- `p` : `p.od.e` `p.od.ät`
-  * -*periode* `.od.e` → gang
+  * -*peri****od***e ⇒ -*periode* `.od.e` → gang
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
-
----
 * **pfleg** `pfl`
   * **pflog** `pflo`
----
-
 * ***pflicht*** `.icht` : `.icht,u`
-  * -pfl**i**cht `i` → steu
+  * -*pfl*<i></i>***i***<i></i>*cht* `i` → steuer
 * phon `f.on` : `f.on.ik` `f.on.i`
   * -ph~~on~~ `f` → grammo tele
 * phras `fr.as`
@@ -2437,7 +2429,7 @@
 * ***steig*** `.eig`
   * ***stieg*** `.ig`
 * stet ← steh
-* st**eu** `eu` : `eu-er` `eu-er.L` `eu-er,i` `eu-er-UNG`
+* *st****euer*** `eu-er` : `eu-er` `eu-er.L` `eu-er,i` `eu-er-UNG`
 
 ---
 * **stig** `st.i`
