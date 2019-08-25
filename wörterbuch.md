@@ -338,8 +338,8 @@
   * **dru**ng `dru` : `G.dru` `N.dru`
 * **druck** `dru` : `dru.ei` `ach.dru` `N.dru`
   * : *aus***druck** `.S.dru` ~ `.S-u`
-  * .~~ausdruck~~. : `z.ko` `z.bra`
-    * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
+    * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
+      * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
   * **drück** `drÜ`
     * : *aus***drück***lich* `.S.drÜ.L` ~ `.S-Y.L`
     * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
@@ -1852,9 +1852,9 @@
     * : *reg****el****mäßig****keit*** `(.el).i-T` ! `r.el.ess.i-T`
     * : *in* *de****r*** *reg****el*** `(I)r (.el)` × `IN.el`
   * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
-    * : ~~reg~~ier*ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
+    * : *reg****ier****ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
       * ~ `ir-UNG` = richtung
-      * : **bu**~~nd~~es~~reg~~ier*ung* `bu.ir-UNG` ~ `u-r-UNG`
+      * : **bu**~~nd~~es*reg****ier****ung* `bu.ir-UNG` ~ `u-r-UNG`
   * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
     * : *reg*<i></i>*ional* `r.eg.i-aL`
   * : **reg**ulieren `r.ir` ! `r.ul.ir`
@@ -1875,7 +1875,7 @@
     * : kor**rekt** `kor-r`
   * **r**ig `r`
     * : di**r**igier `d.i-r.ir`
-    * : di**r**ig*ent* `d.i-r.ent` × di~~rig~~*ent* `d.i-ent` ~ `di.ent`
+    * : di**r**ig*ent* `d.i-r.ent` × `d.i-ent` ~ `di.ent`
     * : kor**r**igier `k.or-r.ir` ! `k.or-r.ig.ir` BSA ≠ *korrespond*ier `k.orr.ir`
 ---
 
@@ -1885,7 +1885,7 @@
 * reif `r.eif`
   * -***reif***e ⇒ -*reife* `.eif.e` → schul
 * reih `r.eih`
-  * ~~reih~~ : `.ei-v`
+  * *ein*e reihe von `.ei-e r.eih.e v` × `.ei-v`
 * **reis** `r.ei` : `r.ei-e`
 * reit `r.T`
   * *bereit* `b.T`
@@ -1903,13 +1903,13 @@
 * **richt** `ri` : `ri.i` `(b)ach,ri.i`
   * : **richt**en `ri` ! `r.icht`
   * : **richt***ung* `ri-UNG` ~ `i-UNG`
-  * : *in*.*dies*er.~~richt~~*ung* `IN.iS-er-UNG`
+  * : *in* *dies*er **richt***ung* `IN.iS-er ri-UNG` × `IN.iS-er-UNG`
   * *gericht* `G,i` : `la,i` `.o-la,i`
     * : *gericht*<i></i>*lich* `G,i-L` ~ `(G)i-L`
     * : **amt**s*ge***richt** `.a,i` `.amt,i`
 * rind `r.id` : `r.id-er`
   * : rind*vieh* `ri.ih` * `(i),(i)`
-* ~~r~~ing `(.ing)` STS : `G.ing` `E.ing`
+* *r****ing*** `(.ing)` STS : `G.ing` `E.ing`
   * ! `r.ing`
 * *risik* `ri.k` : `ri.k.en`
   * : *risik*o `ri.k.o` * `ri.ko`
