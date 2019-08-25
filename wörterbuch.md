@@ -992,8 +992,6 @@
 * ihn `.in` : `.in.en`
   * -*ihnen* `i` → bei mit um dank
 * ihr `.ir`: `.ir-er`
-* -~~ik~~- → -ation
-  * -~~iz~~- → -izieren
 * *illustr* `.ill` : `.ill.ir` `.ill.iO`
 * im ← in
 * ~~imm~~er `(.er)` : `(.er):fr`
@@ -1299,7 +1297,6 @@
 * ***leut*** `.eut` : `.eut.e` `fa.eut.e` `la.eut.e`
   * **land**s***leut***e `la.eut.e` ! `la-s.eut.e` ≠ landleute
 * -*lich* `L`
-  * -~~lich~~***keit*** `T`
 * licht `l.icht`
 * lieb `l.ib`
 * *liefer* `l.i-er`
@@ -1702,25 +1699,23 @@
 * **plant** `pla` : `pla.asch.e` `tra.pla.O`
 * ***platz*** `.az` : `(T)-s.az`
   * ***plätz*** `.ez` : `.ez.e`
-
----
-* plett `pl.et`
+* plett `pl.et` : `kom-pl.et.ir`
   * : *kom*plett `kom-pl.et` ~ `kom-pl`
-  * : *kom*plettier `kom-pl.et.ir`
 * **pl**ik `pl`
   * : *kom***pl**ikat*ion* `kom-pl-o`
   * **pl**iz `pl`
     * : *kom***pl**izier `kom-pl.ir`
   * **pl**ex `pl`
-    * : *kom***pl**ex `kom-pl` ~ `(ko)ex`
+    * : *kom***pl**ex `kom-pl` ~ `(ko)ex` ≠ komplett
+
+---
 * plod `p.lod`
   * : *ex*plodier `.e-pl.od.ir`
-  * **pl**os `pl`
-    * : *ex***pl**os*ion* `.e-plo`
-    * : *ex***pl**osiv `.e-pl.iv`* po `p.o`
-  * : poesie `p.o-es.I`
+  * **pl**os ⇒ *plos* `pl` : `.e-pl.O`
+    * : *ex*<i></i>*plos*iv `.e-pl.iv`* po `p.o`
 ---
 
+* poesie `p.o-es.I`
 * pol `p.ol`
   * : metropole `m.etr.p.ol.e` * `m.etr.ol.e`
 * *pol****it*** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
@@ -2454,8 +2449,8 @@
 * strahl `str.al` : `str.al.ed` `str.al,u`
   * : *aus*strahlen `(.S)str.al` ~ `(.S)stra`
 * **straß** `stra` : `stra-e`
-  * -~~straß~~- : `(.e)` `hau,(.e)` `la,(.e)` `m.ich,(.e)`
-    * ***seit***en~~straß~~e : `T,(.e)` ~ `s.T.en,(e)`
+  * -*straß****e*** : `(.e)` `hau,(.e)` `la,(.e)` `m.ich,(.e)`
+    * ***seit***en*straß****e*** : `T,(.e)` ~ `s.T.en,(e)`
 * **streb** `str` : (er)str,(-t)`
   * : **be**<i></i>**streb**t `(b)str-t` × `(b)str`
 * **streng** `str` : `(Ü.an)str`
@@ -2689,8 +2684,6 @@
     * : *vor*<i></i>*über* `O-Ü` E
 ---
 
-* -~~ul~~- : `.iO`/`-o` `.ir`
-  * -el `.el`
 * *ultra* `.utra`
 * um `.um` : `.um,i`
   * -*um* `-u` → dar war
