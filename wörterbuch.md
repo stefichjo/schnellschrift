@@ -309,7 +309,7 @@
     * : **dikt***ion* `di-o` ! `d.ikt-iO` ≠ **dit***ion*
 * **ding** `.ing`
   * *allerdi****ng*** `(ng)` : `(ngs)`
-  * *bedi****ng*** `(ng)`
+  * *bedi****ng*** `(ng)` = flüchtling
     * : *un*<i></i>*bedi****ng***t `UN.(ng)-t` × `UN-t`
       * : *un*<i></i>*bedi****ng***t *er*<i></i>*forder*<i></i>*lich* `UN.(ng)-t er.F.L` × `UN-t.L`
       * : *un*<i></i>*bedi****ng***t **not**<i></i>**wend***ig* `UN.(ng)-t .ot.w.i` ~ `UN.b.o-w.i`
@@ -588,12 +588,14 @@
 * **flekt** `fl`
   : ! (flekt) `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.iO`
-* ~~fl~~ieh `(.ih)` `eNT.ih`
-  * *flieh* `fli`
-  * ~~fl~~oh `(.oh)` ! `.oh`
+* *fl****ieh*** `(.ih)` `eNT.ih`
+  * **flieh** ⇒ *flieh* `fli`
+  * *fl****oh*** `(.oh)` ! `.oh`
   * ***flucht*** `.ucht`
     * ***flücht*** `.ücht` : `.S.ücht.e`
-      * *flüchtling* `(NG)` : `(NG)-Ü.o`
+      * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = beding
+      * -*fl****ü****cht****ling*** ⇒ -*flüchtling* `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
+
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
