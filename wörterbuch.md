@@ -188,7 +188,8 @@
 * **blatt** `bla` : `.om.bla`
 * **bleib** `bl.ei`
   * **blieb** `bli` ⇒ `bl.i`
-* ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik` `.aug.ik` `.aug.ik.L`
+* ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik`
+  * augen***blick*** `.aug.ik` * `au.ik` : `au.ik.L`
 * ***boot*** `.ot`
 * **bloß** `.oss`
 * **blut** `blu`
@@ -415,6 +416,10 @@
 * emp*f****a****ng* ⇒ *empfang* `.emp-a` ← fang
   * emp*f****ä****ng* ⇒ *empfäng* `.emp-e`
   * emp*f****i****ng* ⇒ *empfing* `.emp-i`
+* emp*f*<i></i>***e***<i></i>*hl* `.emp-e` ← fehl
+  * emp*f*<i></i>***ie***<i></i>*hl* `.emp-i`
+  * emp*f*<i></i>***a***<i></i>*hl* `.emp-a`
+  * emp*f*<i></i>***o***<i></i>*hl* ⇒ emp~~fohl~~ `.emp`
 * end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN.ed.L` `UN.ed.T`
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
@@ -517,13 +522,10 @@
       * fit `f.it` : `(o)f.it`
 * fehl `f.el` : `b.f.el`
   * : fehler `f.el-er` * `f-er`
-  * : empfehl `.emp-f.el` * `.emp`
+  * → empfehl
   * fiehl `f.il` : `b.f.il`
-    * : empfiehl `.emp-f.il` * `.emp-i`
   * fahl `f.al` : `b.f.al`
-    * : empfahl `.emp-f.al` * `.emp-a`
   * fohl `f.ol` : `b.f.ol`
-    * : empfohl `.emp-f.ol` × `.emp`
 * *f****eier*** `(.ei-er`) : `(.ei-er).L` `G.ei-ert`
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
@@ -1858,9 +1860,9 @@
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `b.So:er-r.ed`
 * **reg** `r` : `G.r.elt` `r.el.i`
-  * : **reg**el*mäßig****keit*** `r.el.i-T` ! `r.el.ess.i-T`
-  * : ~~reg~~el*ung* `(.el-UNG)`
-  * : -~~reg~~el `(.el)` : `.il,(.el)` `IN.el`
+  * : *reg****el*** `(.el)` : `(.el)-UNG` `.il,(.el)` `IN.el`
+    * : *reg****el****mäßig****keit*** `(.el).i-T` ! `r.el.ess.i-T`
+    * : *in* *de****r*** *reg****el*** `(I)r (.el)` × `IN.el`
   * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
     * : ~~reg~~ier*ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
       * ~ `ir-UNG` = richtung
