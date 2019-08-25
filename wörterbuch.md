@@ -233,7 +233,7 @@
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er`
-  * : **chem****isch** `ch.i` ! `ch.em.i`
+  * : **chem**<i></i>**isch** `ch.i` ! `ch.em.i`
   * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
 
@@ -914,7 +914,7 @@
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert-h.en`
   * : *de****r***.**herr** `(r)h`
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
-  * : **herr****isch** `h.i` ! `h.err.i`
+  * : **herr**<i></i>**isch** `h.i` ! `h.err.i`
   * : m**ein**e.~~damen~~.~~und~~.**herr**en `.ei-a-h.en` × `.ei-a-h`
 * ~~her~~z `(z)` : `(z).ha` `(z).L` `(z).T` `(z).os` `kust,(z)`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
@@ -2066,7 +2066,7 @@
   * ~~sich~~er*lich* `(er).L`
   * ~~sich~~er*heit* `(er).H` : `UN.(er).H`
   * *versicher* `E-i`
-    * **haft*****pflicht****versicher*<i></i>*ung* `ha.icht,E-i` × `ha,E-i`
+    * **haft*****pflicht***<i></i>*versicher*<i></i>*ung* `ha.icht,E-i` × `ha,E-i`
 * sicht ← seh
 * sid `s.id`
   * : **prä**sid `pr.s.id` × `pr`
