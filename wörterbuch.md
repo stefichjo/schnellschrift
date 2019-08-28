@@ -219,7 +219,7 @@
   * **bracht** `bra` : `(.an)bra` `(b.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z.Sa.bra`
     * **brächt** `br`
       * : **brächt**e `br.e` ~ `brä-e`
-* **buch** `bu` : `bu.ha` `ha,bu` `ha.el,bu`
+* **buch** `bu` : `bu.ha` `ha,bu` `ha.el,bu` `(.iz).bu`
   * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
   * : **hand**els*gesetz***buch** `ha.el-G,bu` × `ha.el.bu`
   * **büch** `bÜ` : `bÜ-er`
@@ -1474,8 +1474,9 @@
   * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
 * mocht ← mög
-* mod `m.od` `m.od-er`
-  * modell `m.od.ell` * `m.o-ell`
+* mod `m.od` : `m.od.al` `m.od-er`
+  * modalität `m.od.ät` ! `m.od.al.ät`
+  * *mod****ell*** STS `(.ell)` * `mo.ell` ≠ kartell
 * ***mög*** `.ög`
   * ~~***mög****lich* `(L)` : `(L)-t` `(o)ba.L` `(o)w.T.L`
     * : ***mög****lich*st `(L)-st` * `(L)-t`
@@ -1597,6 +1598,9 @@
 * norm `n.om` :  `n.om.al` `.e-n.om`
 * ***not*** `.ot`
   * ***nöt*** `.öt`
+* ***not*** `.ot` : `.ot.e` `.ot.ir` `.ot.ar` `.ot.ar.at`
+  * ***not***ar*iell* `.ot.ar.ieL` × `.ot.ieL`
+  * ~~not~~***iz*** `(.iz)` @
 * nug
   * → genug
 * **num** `nu`
