@@ -583,6 +583,10 @@
   * ***flug*** `.ug`
 * **flat** `fla`
   * *in***flat***ion* `IN.fla-o` × `IN.fla`
+  * *in***flat**or*isch* `IN.fla.or.i`
+  * *in***flat**<i></i>*ion* `IN.fla-o` ~ *inflation* `IN.fla`
+    * *in***flat**<i></i>*ion*är `IN.fla-o.är` ~ *inflation*är `IN.fla.är`
+    * *in***flat**<i></i>*ion*<i></i>*istisch* `IN.fla-o.iS.i` ~ *inflation*<i></i>*istisch* `IN.fla.iS.i` × `IN.fla.i`
 * ***fleisch*** `.eisch` : `.eisch.i`
   * : rind***fleisch*** `r.id.eisch` ~ `ri.eisch`
 * **flekt** `fl`
@@ -1078,7 +1082,7 @@
 ## [K](#wörterbuch)
 
 
-* kalender `k.al.ed-er`
+* *kal****ender*** `(.ed-er)` STS ! kalender `k.al.ed-er`
 * kalk `k.ak`
 * *kalkul* `ka,u` : `ka,u-O` `ka,u.ir` `ka,u.or.i` 
 * kalt `kat` : `er.kat`
