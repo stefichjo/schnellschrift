@@ -336,11 +336,13 @@
   * **dra**ng `dra`
     * **drä**ng `drä`
   * **dru**ng `dru` : `G.dru` `N.dru`
-* **druck** `dru` : `dru.ei` `ach.dru` `N.dru`
+* **druck** `dru` : `dru.ei` `dru,(.e)` `ach.dru` `N.dru`
+  * : **druck**er `dru.er` ! `dr.uk-er`
   * : *aus***druck** `.S.dru` ~ `.S-u`
     * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
       * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
   * **drück** `drÜ`
+    * : **drück**en `drÜ` ! `dr.ük`
     * : *aus***drück***lich* `.S.drÜ.L` ~ `.S-Y.L`
     * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
     * : *nach***drück***lich* `ach.drÜ.L` ~ `ach-Ü.L`
@@ -576,13 +578,14 @@
 * **fisch** `fi` : `fi-er` `fi-er` `fi-er.ei` `ho.s.e,fi-er.ei`
   * : **fisch**en `fi` ! `f.isch`
 * fit → fat
+* **fl** `fl` STS : `s.u-fl.ir`
+  * **flat** `fla`
+    * *in***flat**or*isch* `IN.fla.or.i`
+    * *in***flat**<i></i>*ion* `IN.fla-o` × `IN.fla`
+      * : *in***flat**<i></i>*ion*är `IN.fla-o.är` × `IN.fla.är`
+      * : *in***flat**<i></i>*ion*<i></i>*istisch* `IN.fla-o.iS.i` × `IN.fla.iS.i` × `IN.fla.i`
 * **flach** `fla`
   * **fläch** `fl`
-* **flat** `fla`
-  * *in***flat**or*isch* `IN.fla.or.i`
-  * *in***flat**<i></i>*ion* `IN.fla-o` × `IN.fla`
-    * : *in***flat**<i></i>*ion*är `IN.fla-o.är` × `IN.fla.är`
-    * : *in***flat**<i></i>*ion*<i></i>*istisch* `IN.fla-o.iS.i` × `IN.fla.iS.i` × `IN.fla.i`
 * ***flieg*** `.ig`
   * ***flog*** `.og`
   * ***flug*** `.ug`
@@ -616,7 +619,7 @@
   * : *er**forder**lich* `er.F.L` ~ `er.o-L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `I Fö` `I b.Fö.en`
 * *fort* `fr`
-* ***form*** `.om` : `.om.al` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
+* ***form*** `.om` : `.om.al` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `.om,(.e)` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
   * ***form***alität `.om.ät` ! `.om.al.ät`
   * ***form***al*istisch* `.om.iS.i` ! `.om.al.iS.i`
   * -*reform* `.om` → schul
@@ -896,7 +899,7 @@
 * ***harr*** `arr` : `b.arr.T`
 * **hart** `hat`
   * **härt** `het` : `het.e` `het-est` `G.het` `.ab.het` `er.het`
-* **haupt** `hau` : `b.hau.et` `hau.a.L` `(.es).hau`
+* **haupt** `hau` : `b.hau.et` `hau.a.L` `hau,(.e)` `(.es).hau`
   * : *ober***haupt** `.o-hau`
   * **häupt** `häu` : `häu-er` `häu.ing`
 * ***haus*** `.aus` : `ho.aus` `ra.aus` `kra.aus` `sta.aus` `.im.aus.e` `v.aus.S`
@@ -1547,7 +1550,7 @@
 * *n****aut*** `(.aut)` : `.a+str.aut` `k.osm.aut`
   * : aero*n****aut***ik `.er.aut.ik` * `.er.o-n.ik`
   * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
-* neb `n.eb` : `n.eb.ko`
+* neb `n.eb` : `n.eb.ko` `n.eb,(.e)`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
 * ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `O.L` `O.w,(en)` `O.l.ib,(en)` `Ü.en` `wa,(en)` `wa,UNG` `IN.auf.en` `AU.CH.en`
   * : an~~nehm~~*lich****keit*** `.an.T` ! `.an.L.T`
@@ -1954,9 +1957,11 @@
 | [SCH](#sch) | [SP](#sp) | [ST](#st) |
 |:-:|:-:|:-:|
 
-* ~~sach~~ : `(.e)` `(en)` `.om,(.e)` `G.schma,(.e)` `hau,(.e)` `n.eb,(.e)` `ta,(.e)` `ta,(en)` `.ur,(.e)`
-  * ~ **sach** `sa` : `sa.G` `.ur-sa` `E.ur-sa`
-    * : **sach***lich* `sa.L` ! `s.ach.L`
+* **sach** `sa` : `sa.G` `E.ur-sa`
+  * : **sach**e `sa-e` ~ `(.e)` : `(en)`
+  * : **sach***lich* `sa.L` ! `s.ach.L`
+  * : ur**sach**e `.ur-sa` ~ `.ur,(.e)`
+  * -~~sach~~ : `.ur,(.e)` → form haupt schmack neb tu
   * **säch** `s` : `.ur-s.L`
     * ! `s.ech` : `s.ech.L`
     * ~~säch~~ : `hau.L` `n.eb.L`
@@ -2272,7 +2277,7 @@
   * **schloss** `.oss`
   * **schluss** `.uss` : `ra.uss` `tr.ug.uss`
   * **schlüss** `.üss`
-* **schmack** : `schma` : `schma.ha` `G.schma` `G.schma.os.T`
+* **schmack** : `schma` : `schma.ha` `G.schma` `G.schma.os.T` `G.schma,(.e)`
   * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
 * schmeck ← schmack
 * **schmerz** `schm` : `schm.ha`
@@ -2671,9 +2676,9 @@
   * tüch `t.üch` : `t.üch-er`
 * -*tum* `tum`
   * -*tüm* `tYm`
-* **tu**n `tu` : `ku.tu` `wi.i,tu.er`
+* **tu** `tu` : `ku.tu` `wi.i,tu.er`
   * **wicht***ig***tu**erei `wi.i,tu.ei` ! `wi.i,tu.er.ei`
-  * **tat** `ta`
+  * **tat** `ta` : `ta,(.e)` `ta,(en)`
     * : *mit*.**rat**.~~und~~.**tat** `M.ra.ta`
 		* **tät** `t.e`
     * : **tät**er `t-er` ! `t.et-er`
