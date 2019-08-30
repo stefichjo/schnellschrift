@@ -1958,10 +1958,9 @@
 |:-:|:-:|:-:|
 
 * **sach** `sa` : `sa.G` `E.ur-sa`
-  * : **sach**e `sa-e` ~ `(.e)` : `(en)`
+  * : **sach**e `sa-e` ~ `(.e)` : `(en)` `.ur,(.e)`
   * : **sach***lich* `sa.L` ! `s.ach.L`
-  * : ur**sach**e `.ur-sa` ~ `.ur,(.e)`
-  * -~~sach~~ : `.ur,(.e)` → form haupt schmack neb tu
+  * -~~sach~~ : `.ur,(.e)` → form haupt neb schmack tu
   * **säch** `s` : `.ur-s.L`
     * ! `s.ech` : `s.ech.L`
     * ~~säch~~ : `hau.L` `n.eb.L`
