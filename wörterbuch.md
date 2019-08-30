@@ -1931,7 +1931,7 @@
   * : roman**isch** `r.om.i` ! `r.om.an.i`
   * röm `r.öm` : `r.öm.i`
 * roman `r.om.an` : `r.om.an.i+st.ik` `r.om.an.iS.i`
-  * *romant* `r.o-mat` : `r.o-mat-ik` ` `r.o-mat-isch`
+  * *romant* `r.o-mat` : `r.o-mat-ik` `r.o-mat-isch`
 
 ---
 * *rück* `rÜ` V ! `r.ük`
@@ -2123,9 +2123,10 @@
   * : situier `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
 
----
+
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
+  * : be**sitz** `b.e,si` ⇒ `b.s.i` ⇒ `b-si`
   * : *vor***sitz**ender `O-si.ed-er` ~ `O-i.ed-er`
   * saß `s.ass`
   * → sass
@@ -2141,6 +2142,9 @@
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
     * : *er***satz** `er-sa`
     * : **grund**<i></i>**sätz***lich* `gru.s.L`
+
+
+---
 * *semi****nar*** `(n.ar)`
 * setz ← sitz
 * **skal** `ska` ! `sk.al`
@@ -2227,9 +2231,9 @@
   * : *ultra*schall `.utra:sch.all` * `.utra:scha`
 * schalt `schat`
 * schatt `sch.at`
-* scha~~tz~~ `sch.a` : `scha,(er)` `scha.S.el`
+* **schatz** `sch.a` : `scha,(er)` `scha.S.el`
   * ! `sch.atz`
-  * schä~~tz~~ `sch` : `G.sch` `.ab.sch` `ho.sch`
+  * **schätz** `sch` : `G.sch` `.ab.sch` `ho.sch`
     * ! `sch.ez` : `sch.ez.e` `sch.ez.ch.en` `sch.ez*`
 * **schau** `.au` : `G.au`
 * ***scheh*** `.eh`
@@ -3087,7 +3091,7 @@
 * zog ← zieh
 * *zu* `Z` : `(.e)Z` `(n)Z` `Z.ma` `Z,i`
   * *da*<i></i>*zu* `.a-Z` * `a-Z`
-  * nahe*zu* `n.ah.Z` * `(e)Z`
+  * *nahezu* `(e)Z`
   * **z**um `z`
   * *zur* `zr*`
 * zucht ← zieh
