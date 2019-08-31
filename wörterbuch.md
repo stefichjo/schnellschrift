@@ -395,7 +395,7 @@
     * : *ver*ein*ig* `E.N.i` × `E.ig`
       * -*vereinigung* `ig`
         * *wieder*<i></i>*vereinigung* `W,(g)` ~ `W.ig`
-    * -*verein* `N` → sport
+    * -*verein* `N` → rud sport
   * *einst* `.eist` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
     * *einzel*- `.ei` : `.ei-h-er`
@@ -444,6 +444,7 @@
   * *interess* `(I)t-er`: `(I)t-er.ent-en` `(I)t-er.ir` `(I)t-er.os.T` `UN-(I)t-er.ant`
     * : *interess*<i></i>*ant* `(I)t-er.ant` ~ `(I)t-er.aNT`
     * : *interess*e `(I)t-er.e` × `(I)t-er`
+* *essen* `.ess`
 * *etw****a*** (.a) : (.a)-s
 * *europa*, *europä* `.eu-p` : `.eu-p-er` `.eu-p.i`
 * **ex**- `.e`
@@ -501,8 +502,8 @@
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
 * farm `f.am`
-* ***fass*** `fass` : `G.fass` `G.fass.H` `.an.fass`
-  * ~ **fass** `.ass` : `AU.ass` `b.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
+* ***fass*** `fass` : `G.fass` `G.fass.H` `.an.fass` @?
+  * ~ *fass* `.ass` : `AU.ass` `b.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
   * ***fäss*** `fess`
     * ! `f.ess` : `f.ess.er` `f.ess.ch.en`
 * fassade ← faci
@@ -552,7 +553,7 @@
 * **fig** `fi` : `fi-ur` `ko,fi-ur.iO`
 * fili `f.il.I`
   * : filius `f.il.I.us` ~ `f.il.us`
-  * : *filial* `f.iaL` : `f.iaL.e`
+  * : *filial* `f.i-aL` : `f.i-aL.e`
 * film `f.im` : `f.imt.e` `G.f.imt` `E.f.im`
 * **filt**er `fit-er` : `fit-r.ir`
 * **fin** `fi`: `fi.al` `fi.al.e`
@@ -1590,7 +1591,7 @@
 * ***nieß*** `.iss` : `G.iss` `nu:iss.er`
   * ***noss*** `.oss` : `G.oss`
     * : *ge****noss***en*schaft* `G.oss.FT` * `(O).FT`
-    * -*genossenschaft* `(O).FT` STS : `ko-su.(O).FT` × `ko-su.FT`
+    * -*genossenschaft* `(O).FT` STS : `ko-su,(O).FT` × `ko-su.FT`
   * ***nuss*** `.uss` : `G.uss`
     * ***nüss*** `.üss` : `G.üss`
   * → nutz
@@ -1852,21 +1853,18 @@
   * : *reg****el*** `(.el)` : `(.el)-UNG` `.il,(.el)` `IN.el`
     * : *reg****el****mäßig****keit*** `(.el).i-T` ! `r.el.ess.i-T`
     * : *in* *de****r*** *reg****el*** `(I)r (.el)` × `IN.el`
-  * : **reg**ieren `r.ir` ~ `(.ir)` ≠ regulieren
+  * : **reg**ieren `r.ir` ~ *reg****ier***en `(.ir)` ≠ regulieren
     * : *reg****ier****ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
       * ~ `ir-UNG` = richtung
       * : **bu**~~nd~~es*reg****ier****ung* `bu.ir-UNG` ~ `u-r-UNG`
   * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
-    * : *reg*<i></i>*ional* `r.eg.i-aL`
+    * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
   * : **reg**ulieren `r.ir` ! `r.ul.ir`
     * : **reg***ul*at*ion* `r.ul.iO`
 
 ---
-  * **rekt** `r` ! `r.ekt`
-    * : **rekt**or `r.or`
-    * : di**rekt** `d.i-r`
-      * : di**rekt***ion* `d.i-r.iO`
-      * : di**rekt**or `d.i-r.or`
+  * **rekt** `r` : `r.or` `d.i-r` `d.i-r.iO` `d.i-r.or`
+    * ! `r.ekt`
       * : *direkt* `di` ! `di.ekt` BSA ~ `di-t`
         * : *direkt*ion `di-o` ! `di.iO` BSA ~ `di-t-iO`
         * : *direkt*or `di.or` (BSA)
@@ -1901,9 +1899,12 @@
 * *revier* `r.ir` : `li.ei-r.ir`
 * *rheinländisch-westfälisch* `(sch).(sch)`
 * *rheinland-pfalz* `(N):pfa`
-* **richt** `ri` : `ri.i` `(b)ach,ri.i`
+* **richt** `ri` : `ri.i` `(b)ach,ri.i` `(er)ri`
   * : **richt**en `ri` ! `r.icht`
   * : **richt***ung* `ri-UNG` ~ `i-UNG`
+  * : be**richt** `b.e,ri`
+    * : be**richt**~~erstatt~~er `b.e,ri,(er)` ~ `b.e,ri-er`
+    * : be**richt**~~erstatt~~*ung* `b.e,ri,UNG` ~ `b.e,ri-UNG`
   * : *in* *dies*er **richt***ung* `IN.iS-er ri-UNG` × `IN.iS-er-UNG`
   * *gericht* `G,i` : `la,i` `.o-la,i`
     * : *gericht*<i></i>*lich* `G,i-L` ~ `(G)i-L`
@@ -1929,6 +1930,7 @@
 * … `rÜ-t-ig`
 ---
 
+* **rud** `ru` : `ru-er` `ru-er.N`
 * ~~r~~uf `(.uf)` STS : `.S.uf` `b.uf`
   * : *auf*~~r~~uf `AU.uf` * `AU-u`
   * ! `r.uf`
@@ -2355,7 +2357,7 @@
   * **spekt** `sp` : `(o)sp` `r.sp`
     * : *in***spekt***ion* `IN.sp*` STS ! `IN.sp.iO
   * spek `sp.ek` : `sp.ek.iO` `sp.ek.ir`
-* ~~sp~~ort `(.ot)` : `(.ot).N`
+* *sp****ort*** `(.ot)` : `(.ot).N`
 * **sprech** `spr` : `eNt.spr`
   * : *ent***sprech**end : `eNT.spr.ed` × `eNT.ed`
   * **sprich** `.ich` :  `.ich-o`
@@ -2425,6 +2427,7 @@
     * : *stell*<i></i>*ung* `.ell-UNG` ⇒ `st*`
     * -*steller* `(er)` → trag
   * **statt** `sta` : `sta.ha` `sta.L` `er.sta`
+    * -~~erstatt~~ → richt
     * ***stätt*** ⇒ *stätt* `.ät`
       * : *arb****eit***s*stätt*e `(T)-s.ät.e` ~ `Ts.ät.e`
     * : *gestatt* `-G-a` : `-G-a.sI-ir` `.I -G-a.ir` `wr -G-a.U`
