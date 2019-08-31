@@ -1779,17 +1779,13 @@
 * **prob** `.ob`
 * ~~prob~~lem `(l.em)` : `(l.em).ik`
 * **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
-
----
-* *publik*
-  * *publikum* `p.ub` E
-  * *publikation* `p.ub.iO` E
-  * *republik* `r.ik` E
-    * *republikaner* `r.ik-er` E
-    * *republikanisch* `r.ik.i` E
-    * : **bu**~~nd~~es*republik* `bu:r.ik` < `bu.ik`
----
-
+* puber `p.ub-er` : `p.ub-er.ir` `p.ub-er.ät`
+* *publ* `p.ub` : `p.ub.ir` `p.ub-o` `p.ub.ist` `p.ub.iS.i` `p.ub.ät`
+  * : *publ*ik `p.ub.ik` STS
+  * : *publ*ikum `p.ub.um` × `p.ub`
+  * : *re*<i></i>*publ*ik `(r)p.ub.ik` × `r.ik` : `r.ik.i`
+    * : *re*<i></i>*publ*ikaner `(r)p.ub.ik.an-er` × `r.ik.an.er` × `r.ik-er`
+    * : **bu**~~nd~~es*republik* `bu:r.ik` × `bu.ik`
 * *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO` `(ko)tra.pt.i` `(ko)tra.pt.iS.i`
   * -p**u**nkt `u` → hoh kontr
     * : *ge*<i></i>*s****icht***sp**u**nkt `G.icht,u` × `G,u`
