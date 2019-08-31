@@ -1762,21 +1762,14 @@
 * ***präm*** `.äm` @ie
   * : ***präm***ie `.äm.I.e` × `.äm.e`
   * : ***präm***ien `.äm.I.en` ~ `.äm.i-en`
-
----
-* **prax** `pra`
-  * : **prax**is `pra.is` E
-  * **prakt** `pra`
-    * : **prakt**izier `pra.ir`
-    * : **prakt**<i></i>**isch** `pra.i` E
-    * : **prakt**iker `pra.ik-er`
-  * pragm `pr.agm`
-    * : pragmat**isch** `pr.agm.i`
-* pr**eis** `(.eis)`
+* **prax** `pra` : `pra.en` `pra.is`
+  * **prakt** `pra` : `pra.i` `pra.ik.en` `pra.ik.aNT.in` `pra.ik-er` `pra.ir`
+    * : **prakt**ik*ant* `pra.ik.ant` ~ `pra.ik.aNT`
+  * pragm `pr.agm` : `pr.agm.i` `pr.agm.ik-er` `pr.agm.iS`
+* *pr****eis*** `(.eis)`
+* press → prim
 * prim
-  * press `pr` : `pr-e`
----
-
+  * **press** `pr` : `pr-e`
 * prinz → prinzip
 * prinzip → zip
 * *prior* `pri` : `pri.ät`
