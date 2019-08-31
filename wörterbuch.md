@@ -23,7 +23,7 @@
     * *akt****i*** `(.I)` : `(.I).e`
       * : *akt****i***onär `(.I).on.är` ~ `(.I).är`
 * -age `.asch.e`
-* **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust-ak.I`
+* **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust-ak.I` @ie
 * akzent ← kan
 * -al `.al`
   * -il `.il`
@@ -68,13 +68,13 @@
 * **a**rt `(.a)` : `.ab.a` `(r).a.i`
   * : **gr**oß**a**rt*ig* `gr.a.i` × `gr.a`
   * (art) `.art`
-* art `.at` : `.at.ik.el`
+* art `.at` : `.at.ik.el` @ie
   * : arterie `.at.er.I.e` × `.at.er.e`
   * *artik* `(.ik)` : `(.ik).el` `(.ik).ir` `(.ik).iO` `b.da.ik.el`
     * : *artik*el 6 `(.ik).el 6` ~ `(.el),6`
 * arz `.az` : `.az.n.ei` `za.azt`
   * : *ärz* `.ez` : `.ezt.e` `.ezt-L` `.ezt.e-FT`
-* asi `.as.I`
+* asi `.as.I` @ie
   * : asien `.as.I.en` ~ `.as.i-en`
   * : asiat `.as.I.at` ~ `.as.at`
     * : asiat**isch** `.as.I.i` ~ `.as.at.i`
@@ -237,7 +237,7 @@
 ## [C](#wörterbuch)
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
-* **chem** `ch` : `ch.I` `ch.ik-er`
+* **chem** `ch` : `ch.I` `ch.ik-er` @ie
   * : **chem**<i></i>**isch** `ch.i` ! `ch.em.i`
   * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
@@ -542,7 +542,7 @@
     * : **kon**<i></i>**fer**enz `ko.f.ez` × `ko.f`
     * -*ministerkonferenz* `ko` → aus kult
   * → lat
-* *ferien* `f.I.en` : `(.est-er),f.I.en` `s.om.f.I.en`
+* *ferien* `f.I.en` : `(.est-er),f.I.en` `s.om.f.I.en` @ie
 * ***fer***n `fer` : `v.n.ah.fer`
   * ! `f.en` : `f.en.er` `eNT.f.en` `IN,(o)f.en` `IN.w.i-f.en` `I eNT.f.en.en` `eNT.f.ent`
 * *fert* `-t` : `-t-ig` `-t-ig.T` `.an-t-ig` `.S-t-ig` `UN-t-ig`
@@ -963,7 +963,7 @@
   * : **be***hinder*n `b.e,hi-er` ~ `b,hi`
   * *hinder* `hi` : `hi.is` `hi.iss.e` `hi.L` `E,hi`
 * hinten, hinter → hin
-* *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er`
+* *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er` @ie
   * : *liter*ar*histor***isch** `li.ar,hi-o.i` ! `l.it-er.ar,hi-o.i`
 * **hoch** `ho` : `ho,(g)` `ho-t-ig` `s.ho`
   * **höch** `hö` : `hö-t`
@@ -1102,7 +1102,7 @@
       * akzent `.ak.zet` ! `.ak.z.ent`
 * *kan****al*** `(.al)` : `(.al).iO`
 * kann → könn
-* *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
+* *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an` @ie
   * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
     * : *kapit*al `aP.al` × `aP`
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
@@ -1331,7 +1331,7 @@
   * **lust** `lu`
     * : *ver***lust** `E-lu` ~ `E,u` : `E,u.e`
 * -***ling*** `.ing`
-* *lin****i*** `(.I)` : `ri.I.e`
+* *lin****i*** `(.I)` : `ri.I.e` @ie
   * : *lin****i***e `(.I).e` ~ `l.in`
     * : *in*.~erster~.*lin****i***e `IN.I.e`
     * : *in*.*zweiter*.*lin****i***e `IN.T-I.e`
@@ -1402,7 +1402,7 @@
   * ***mass***en**haft** `ass.ha` ! `ass.en.ha`
 * maß ← mess
 * ***mat*** `.at` : `.aut.at` `.aut.at.i` `.aut.at.ir-UNG` `.aut.at.iO`
-* *mater* `ma` : `ma.I.e` `ma.iaL` `ma.iaL.iS` `ma.iaL.ist` `ma.iaL.iS.i` `ma.ieL`
+* *mater* `ma` : `ma.I.e` `ma.iaL` `ma.iaL.iS` `ma.iaL.ist` `ma.iaL.iS.i` `ma.ieL` @ie
   * -*mater* `.iaL` → weis
   * *matr* `ma` : `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
 * mauer `m.au-er`
@@ -1456,7 +1456,7 @@
   * : pr**o**<i></i>**min***ent* `(o)mi.ent` × `(o)mi`
   * → minist
   * *min****ut*** `(.ut)` ⇒ `.ut` : `.ut.e`
-* *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min
+* *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min @ie
   * : *minist*erien `mi.I.en` ! `mi.er.I.en`
   * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → aus bund finanz in just kult wirt
   * -*ministerium* `.um`
@@ -1510,7 +1510,7 @@
 * **müh** `mÜ` : `b.mÜ.en`
 * mult `mut` : `mut-al`
 * *münchen* `mÜ.en`
-* mus `m.us` : `m.us.e` `m.us.i`
+* mus `m.us` : `m.us.e` `m.us.i` @ie
   * : museum `m.us.e-um` × `m.us`
   * *musik* `mu.ik` : `mu.ik-er` `mu.ik.aNT` `mu.ik.i` `mu.ik.ät` `mu.ik.i-en`
     * *musiz* `mu.iz` : `mu.iz.ir`
@@ -1759,12 +1759,11 @@
   * *import* `.imp` : `.imp.ir` `.imp.ör`
 * pot `p.o` ← pon
   * : depot `(d.e)p.o`
+* ***präm*** `.äm` @ie
+  * : ***präm***ie `.äm.I.e` × `.äm.e`
+  * : ***präm***ien `.äm.I.en` ~ `.äm.i-en`
 
 ---
-
-* präm `pr.äm`
-  * prämie `pr.äm.I.e` × `pr.äm.e` E
-  * prämien `pr.äm.I.en` (E)
 * **prax** `pra`
   * : **prax**is `pra.is` E
   * **prakt** `pra`
@@ -3124,3 +3123,4 @@
 
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
   * am Wortende -> ä-Symbol
+* @ie `I.e`/`.i-en`
