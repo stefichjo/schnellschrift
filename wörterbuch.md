@@ -712,7 +712,7 @@
 
 * **gang** `ang` : `G.ang` `ang.bar` `.S.ang` `N.ang` `.um.ang` `E.ang` `E.l.or.ang` `GR-Ü.ang` `Ü.ang.od.e` ← geh
   * **gäng** `eng` : `rÜ.eng.i` `UN-E.eng.L` `O.eng.er` `UN-z.eng.L`
-* **ganz** `ga` : `ga.H` `ga-S`
+* **ganz** `ga` : `ga.H` `ga-S` @ä
   * **gänz** `g` : `g.L`
     * : *er***gänz**en `er.g` ~ `er.gä`
 * **gar** `ga` : `gat` `o-ga` `ga.ga`
@@ -2150,9 +2150,14 @@
   * : **skal**a `ska.a` ! `sk.al.a`
   * : e**skal**at*ion* `.e-ska.iO`
   * : e**skal**ier `.e-ska-ir`
-* sinn `s.in`
 ---
 
+* sinn `s.in` : `s.in.os` `s.in.Ol` `b.s.on.H` `er-s.in`
+  * : besinnen `b.s.in` * `b-s.in` : `b-s.in.os`
+  * : *ge*sinn `G.s.in` * `G.in` : `G.int` `G.in.UNG.i`
+  * -*sinn* `.in` : `UN.in.i` `W.in.i` `.IN.iS.in.e` `.im.in.e` `.im.ei-L.in.e` → wahn
+  * sann `s.an` : `er-s.an`
+  * sonn `s.on` : `G.s.on` `er-s.on`
 * *so* `.o` : `.eb.o`
   * *so*- `o`
   * → sonst
@@ -2827,7 +2832,10 @@
   : * *ge****mein***de**wahl**en `G.N-d.e-wa.en` ~ `(N)-d.e:wa.en`
   * **wähl** `w` : `G.w-t` `w.bar` `w-er` `w-er.FT`
     * ! `w.el`
-* **wa**~~hr~~ `wa` : `wa.e`
+
+* wahn `w.an` : `w.an.in.i`  @ä
+
+* **wa**~~hr~~ `wa` : `wa.e` @ä
   * **wä**~~hr~~ `wä` : `b.wä` `G.wä`
     * : **wä**~~hr~~end `wä.ed` ~ `w.ed`
 * walt `wat` : `G.wat` `E.wat`
@@ -3103,3 +3111,8 @@
 * **zweck** `zw` : `Z.iS:zw`
   * ! `zw.ek` : `zw.ek,di.L`
 * zw~~ischen~~ `zw` : `(I)zw`
+
+## TODOs
+
+* @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
+  * These: Vorsilbe und "a" am Wortende -> ä-Symbol
