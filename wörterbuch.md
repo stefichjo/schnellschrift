@@ -1852,7 +1852,7 @@
 * ***recht*** `echt` : `echt.L` `T-s:echt` `(.es):echt` `m.H,wa.echt`
   * ~ *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
-* reg `r.eg` : `.an.r.eg.UNG` `b.So:er-r.ed`
+* reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 * **reg** `r` : `G.r.elt` `r.el.i`
   * : *reg****el*** `(.el)` : `(.el)-UNG` `.il,(.el)` `IN.el`
     * : *reg****el****mäßig****keit*** `(.el).i-T` ! `r.el.ess.i-T`
@@ -2171,9 +2171,9 @@
     * -*besonder* `-S` → ganz in merk
 * sonst ← so
 * ~~s~~onst `(.ost)`
-* *sorg* `So` STS : `b.So` `b.So.is` `UN.b.So` `E.So` `O.So` `O.So.L`
+* *sorg* `S.o` STS : `b.S.o` `b.S.o.is` `UN.b.S.o` `E.S.o` `O.S.o` `O.S.o.L`
   * ! `s.og` : `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `E.s.ogt.e`
-  * : *ver*<i></i>*sorg*er `E.So-er` ~ `E,o-er`
+  * : *ver*<i></i>*sorg*er `E.S.o-er` ~ `E,o-er`
   * -*sorg*- `o` : `f,o-e` `f,o-L` → falt seel
     * : *da*f~~ür~~.*sorg*en `.a-f,o` ~ `.a-f.o`
     * -*fürsorge* `-Ü.o` : `I-Ü.o` → flieh sozi
@@ -2183,7 +2183,7 @@
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`
 * **such** `su` : `.S.su` `b-su` `er.su`
-  * : *unter***such** `UNTER.su` * `UNTER-u` : `O.So=UNTER-u`
+  * : *unter***such** `UNTER.su` * `UNTER-u` : `O.S.o=UNTER-u`
   * : *ver***such** `E.su` * `E-u` STS ! `E-su`
 * sucht ← siech
 * süd `s.üd` : `s.üd-Ü.e`
@@ -2401,7 +2401,7 @@
   * : stärke `st.äk.e`
 * start `stat`
 * statt ← steh
-* staun `st.aun` : `st.aun,(-t)`
+* staun `st.aun` : `st.aun,(-t)` `(er)st.aun`
 * stech `st.ech`
   * : **be**stech*lich* `b.st.ech.L` ~ `b.st.L`
   * stich `st.ich`
