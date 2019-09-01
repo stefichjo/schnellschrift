@@ -2043,19 +2043,11 @@
 * sel `s.el` : `s.el.i-er` `s.el.ist.e` `s.el.T`
   * : sel*ig* `s.el.i` ! `s.el.ig`
     * -*seli****g*** `(g)` : `UN,(g)` → gefühl unglück vertrau
-
----
-* *selb* `l` ! `s.eb`
-  * : *selb*er `l.er` ! `s.eb-er` (E)
-  * : *selb*<i></i>*ig* `l.i` ! `s.eb.i`
-  * : *selb*st `l.st`
-    * *selbst* `-st` : `-st,u-N` `-st-ko`
-  * : *die*<i></i>*selb*en `I.l.en` E
-  * : *de****r****selb*e `(r).l.e` E
+* selb `s.eb` : `s.eb-er` `s.eb.i`
+  * -*selb* `l` : `d.l.e` `(m).l `(n).l` `(r).l.e` `(.es).l` `I.l.e`
+  * *selbst* `-st` : `-st,u-N` `-st-ko` `-st-l.os.i-T`
 * selt `set` : `set-en` `set-Sa`
   * : *seltenheit* `s.H`
----
-
 * *sem****ester*** `(.est-er)`
 * sen `s.en` : `s.en.il` STS `s.en.or`
   * *senat* `s.at`
@@ -2078,7 +2070,6 @@
     * : **kon**<i></i>**serv**e `ko-s.e` × `ko-s`
 * *sich* `CH`
   * : **hat**.*sich* `ha.CH` * `ha°`
-
 * *sicher* `s.i-er` : `s.i-er-er` `si-erst.e` `si-er-UNG`
   * ~~sich~~er*lich* `(er).L`
   * ~~sich~~er*heit* `(er).H` : `UN.(er).H`
@@ -2117,8 +2108,6 @@
 * sit `s.it`
   * : situier `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
-
-
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
   * : be**sitz** `b.e,si` ⇒ `b.s.i` ⇒ `b-si`
@@ -2137,7 +2126,6 @@
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
     * : *er***satz** `er-sa`
     * : **grund**<i></i>**sätz***lich* `gru.s.L`
-
 
 ---
 * *semi****nar*** `(n.ar)`
@@ -2998,7 +2986,7 @@
   * **wuss** `.uss`
     * ! `w.uss` : `w.usst.e`
     * -bew**u**sst ⇒ -*bewusst* `u` → mir pfleg selbst wort
-      * -*bewusst*~~s~~ein : `u-N`
+      * -*bewusst*~~s~~ein : `u-N` → selb
   * **wüss** `.üss`
     * ! `w.üss` : `w.üsst.e`
 * **witw** `wi` : `wi-er`
