@@ -65,8 +65,7 @@
 * arg `.ag`
   * : argument `.ag.met` ! `.ag.u-met`
 * arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
-* **a**rt `(.a)` : `.ab.a` `(r).a.i`
-  * : **gr**oß**a**rt*ig* `gr.a.i` × `gr.a`
+* **a**rt `(.a)` : `.ab.a` `(r).a.i` `.es.a`
   * (art) `.art`
 * art `.at` : `.at.ik.el` @ie
   * : arterie `.at.er.I.e` × `.at.er.e`
@@ -91,7 +90,7 @@
   * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
 * *aus* `.S` : `.S-t-ig` `.S-ts` `n.S` `O.-S`
   * : ***dar****über*<i></i>*hin*<i></i>*aus* `dar-Ü.n.S` ~ `dar-Ü-aY`
-  * : *her*<i></i>*aus* `er.S` ~ `er-s`
+  * *heraus* `rrs`
   * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha`
       * : *äußer* `.äuss` : `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
@@ -640,7 +639,7 @@
   * *frankfurt.an.der.oder* `fra,u.od-er`
 * **frau** `frau`
 * *fr****ei*** `(.ei)` : `(.ei).H`
-* **fremd** `fr.e`
+* **fremd** `fr.e` : `.es.fr` @e
 * fr**eu** `eu` : `eud.e` `er,eu-L`
 * *freund* `.eund` : `.eund.in` `.eund.FT` `b.eund.et`
   * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L` : `UN.eu-L`
@@ -799,6 +798,7 @@
   * : *wir*.***glaub*** `wr.aub` * *wir*.gl**au**b `wr-au`
   * ***gläub*** `.äub` : `.äub.i-er` `UN-äub.i`
 * **gleich** `gl.ei` ~ `gl`
+  * : ***wes***ens**gleich** `.es.gl.ei` : `.es.gl`
   * **glich** `gli` ⇒ `gl.i`
 * gleit `gl.T`
   * glitt `gl.it`
@@ -1342,7 +1342,7 @@
     * : *in*.*zweiter*.*lin****i***e `IN.T-I.e`
 * list `l.ist` : `l.ist-ig`
   * : listen*r****eich*** `l.ist-eich` ~ `l.i-en.eich`
-* **li**st `l.i` : `l.i-e` `l.i-en` `r.ang.l.i`
+* **li**st `l.i` : `l.i-e` `l.i-en` `.an.es.H.l.i` `r.ang.l.i`
 * *liter* `li` : `li.ar.i` `li.ur`
   * : *liter*at `li.at` ! `l.it-er.at`
 * liter `l.it-er`
@@ -1998,16 +1998,9 @@
   * *s****ei*** `(.ei)` : `(.ei)-d`
   * *w****ar*** `(.ar)`
     * : *w****är*** `(.är)` : `(.är).e`
-
----
-  * ***wes*** `.es`
-    * : ***wes***en `.es` ! `w.es`
-    * : ***wes***ent*lich* `.es.L`
-    * : *ge****wes*** `G.es`
-    * : *ge*~~wes~~ `-G`
-      * : X `-G.en` `d G.en.e` `da.G.en`
----
-
+  * ***wes*** `.es` : `.es.ha` `.es.H` `.es.L` `.es.os` `.ab.es.ed` `.ab.es.H` `.an.es.ed` `.an.es.H`
+    * : im.***wes***ent*lich*en `.im.es.L` × `.im.L`
+    * *gewes* `-G` : `da.-G`
 * ***seit*** `T` : `T.e` `T-en` `T.L` `.ad-er.Ts` `b.T-ig` `.eid-er.Ts` `g.T-ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T-en`
   * ***seit***ens `T-s` `s.T-s` @
   * ***seit***wärts `T-wets` ! `s.T-wets`
@@ -3016,10 +3009,10 @@
 
 ## [Z](#wörterbuch)
 
-* **za**~~hl~~ `za` : `za*` `ra.za*` `(b.ei)tra.za*` @ä
-  * **zä**~~hl~~ `zä` STS
-    * : **zä**~~hl~~en `zä` ! `z.el`
-    * : **er**<i></i>**zä**~~hl~~en `er.zä` ~ `er.z`
+* **zahl** `za` : `za*` `ra.za*` `(b.ei)tra.za*` @ä
+  * **zähl** `zä` STS : `UN.z.i`
+    * : **zähl**en `zä` ! `z.el`
+    * : **er**<i></i>**zähl**en `er.zä` ~ `er.z`
 * **za**~~hn~~ `za` @ä
   * **zä**~~hn~~ `zä` STS
     : **zä**~~hn~~e `zä-e` ! `z.en.e`
@@ -3104,5 +3097,7 @@
 ## TODOs
 
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
-  * am Wortende -> ä-Symbol
+  * am Wortende: `-ä`
+* @e
+  * alleinstehend : `.e`
 * @ie `I.e(n)`/`.i-e(n)`
