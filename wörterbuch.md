@@ -186,7 +186,7 @@
 * **blatt** `bla` : `.om.bla`
 * **bleib** `bl.ei`
   * **blieb** `bli` ⇒ `bl.i`
-* bleich `bl.eich` : `bl.eich,u`
+* bleich `bl.eich` : `bl.eich,u` `bl.eich-Ü.i`
 * ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik`
   * augen***blick*** `.aug.ik` * `au.ik` : `au.ik.L`
 * ***boot*** `.ot`
@@ -379,6 +379,7 @@
 * eid `.eid` : `N.eid` STS
 * eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
+  * : eigen*sücht*<i></i>*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ eigennützig
 * ein `N` : `N-t.e` `N.i` `N.i-t.e` `N.ma` `E.N-Sa`
   * : *wieder*.ein**mal** `W.N.ma` × `W.N`
   * : *zunächst*.ein**mal** `-Z-n,N.ma` × `-Z-N`
@@ -1647,7 +1648,7 @@
 * nutz ← nieß
 * **nutz** `nu`
   * **nütz** `nÜ`
-  * : *eigen***nütz***ig* `.eig-Ü.i`
+  * : eigen**nütz***ig* `.eig-Ü.i`
   * : *ge****mein***<i></i>**nütz***ig* `G.N-Ü.i`
 
 ## [O](#wörterbuch)
@@ -2068,6 +2069,8 @@
 * serv `s.ew` : `s.ew.ir`
   * **kon**<i></i>**serv** ⇒ *konserv* `ko-s` : `ko-s.iv` `ko-s.ir`
     * : **kon**<i></i>**serv**e `ko-s.e` × `ko-s`
+* **seuch** `seu` : `seu-e` `eNT.seu` `E.seu` ⇒ `E-seu` ← siech
+  * -*seuche* `eu`
 * *sich* `CH`
   * : **hat**.*sich* `ha.CH` * `ha°`
 * *sicher* `s.i-er` : `s.i-er-er` `si-erst.e` `si-er-UNG`
@@ -2082,19 +2085,17 @@
     * : **prä**sidium `pr.s.id.um` × `pr.um`
   * : *re*sidenz `r.s.id.ez` ~ `r.es.ez`
 * *sie* `sI`
+* siech `s.ich`
+  * sucht `s.ucht` STS * `su`
+    * -*sucht* `u` → bleich eig
+    * sücht `s.ücht` : `s.ücht.i` `s.ücht.i-er` `s.ücht.i-T`
+      * -*sücht* `-Ü`
+* *siedel* `s.i-el`
+* silb `s.ib` : `s.ib-er` `s.ib-ern` `s.ib-r.i` `E.s.ib-ert`
+* silb `s.ib` : `s.ib.e` `N.s.ib.i` `m.s.ib.i` `O.s.ib.en`
+* sind ← sein
 
 ---
-* siech `s.ich`
-  * **sucht** su
-    * -*sucht* `u` → bleich
-    * **sücht** `sÜ` ⇒ `s.ücht`
-      * bleich**sücht***ig* `bl.eich.sÜ.i` ⇒ `bl.eich.sücht.i` * bleichs**ü**cht*ig* `bl.eich-Ü.i`
-      * *eigen***sücht***ig* `.eig.sÜ.i` ⇒ `.eig.sücht.i` * *eigen*s**ü**cht*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ *eigen***nütz***ig*
-* *siedel* `s.i-el`
-* silb `s.ib`
-  * : silbe `s.ib.e`
-  * : silber `s.ib-er`
-* sind ← sein
 * sist `s.i+st`
   * : *in*sistier `IN.s.i+st.ir`
   * : **kon**sistenz `ko-s.i+st.ez`
