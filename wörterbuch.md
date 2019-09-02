@@ -2022,7 +2022,7 @@
     * : *auf***sicht** `AU,si` ~ `AU-i` @-×an
       * : **be***auf***sicht***ig*en `b.AU,si.i` ~ `b.e,AU-i.i` × `b.e,AU-i` ~ `b,AU-i` @-×an
       * : **be***auf***sicht***ig*te `b.AU,si.i-t.e` ~ `b.e,AU-i.i-t.e` ~ `b,AU-i.i-t.e` @-×an
-    * ~ **sicht** ⇒ *sicht* `.icht`
+    * ~ ***sicht*** ⇒ *sicht* `.icht`
       * : **sicht*****bar*** `si.bar` ~ `.icht.bar`
       * : **sicht***lich* `si.L` ~ `.icht.L`
       * : an**sicht** `.an-si` ~ `.an.icht`
@@ -2049,7 +2049,7 @@
         * : *wir*.*sind*.~~der~~.*ansicht* `wr-I.an`
         * : m**ein**~~er~~.*ansicht*.*nach* `m.ei-an:ach`
         * : *nach*.m**ein**~~er~~.*ansicht* `ach.m.ei-an`
-        * : *nach*.*UNS*~~erer~~.*ansicht* `ach.U.an`
+        * : *nach*.*uns*~~erer~~.*ansicht* `ach.U.an`
       * : -*aus*~~sicht~~ ⇒ -*aussicht* `.S`
         * : *in*.*aussicht*.**steh**en `IN.S.st`
         * : *in*.*aussicht*.***stell***en `IN.S.ell`
