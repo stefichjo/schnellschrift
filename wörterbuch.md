@@ -409,8 +409,7 @@
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
 * -el → -ul
-* el `.el` : `.el.eNT.ar`
-  * element `.el.e-met` * `.el.eNT` 
+* el `.el` : `.el.e-met` `.el.e-met.ar`
 * *elektr* `.el` : `.el.i` `.el.if.ir` `.el.ir` `.el.od.e` `.el.on.i`
   * : *elektr*izität `.el.ät`
 * eltern ← alt
@@ -703,7 +702,7 @@
 * **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `ach.fÜ` `Ü.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
     * : *er***füll**en `er.fÜ` ~ `er-Ü.en`
 * **fund** `fu` : `fu.ir` `d.i,fu`
-  * : **fund**ament `fu.a-met` ~ `fu-t`
+  * : **fund***ament* `fu.eNT` ~ `fu-t`
   * **fus** `fu` STS
     * : dif**fus** `d.i,fu` ! `d.i-f.us`
     * : **kon**<i></i>**fus** `ko.fu` ! `ko.f.us`
@@ -1448,7 +1447,8 @@
 * *mensch* `MSCH` : `MSCH.L` `E.MSCH.L`
   * *mensch*<i></i>*heit* `MSCH.H` * `MSCH°`
 * ment `met` : `met-al.ät` `met-or`
-  * -ment `met`/`.eNT` → el test
+  * -ment `met` → el
+    * -ament `eNT` → temp test
 * merk `m.ek` : `m.ek,(.el)`
   * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa`
     * : *auf*merk*sam****keit*** `AU.m.ek-Sa.T` × `AU.T`
@@ -1674,6 +1674,8 @@
   * organ**isch** `.og.i` ! `.og.an.i`
 * *orient* `.or` : `.or.ir` `.or.ir-UNG`
 * *orig* `.og` : `.og.i-aL`
+* orn `.on`
+  * : orn*ament* `.on.eNT` ! `.on.am.eNT`
 * ort `.ot`
   * ört `.öt` : `.öt.L` `er.öt-er`
 * ost `ost` : `w.ost`
@@ -1723,6 +1725,7 @@
   * pens `pe-s`
     * : pens*ion* `pe-s-o` ! `pe-s.iO`
 * **per**- `p`
+* perg `p.eg` : `p.eg.eNT`
 * *peri*- `p` : `p.od.e` `p.od.ät`
   * -*peri****od***e ⇒ -*periode* `.od.e` → gang
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
@@ -1980,6 +1983,8 @@
     * ! `s.eg` : `UN.s.eg.L`
 * *saison* `s.es` : `s.es.al`
 * sait `s.ait` : `s.ait.e`
+* sakr `s.akr` : `s.akr.al`
+  * sakr*ament* `s.akr.eNT` × `s.akr`
 * -*sam* `Sa`
 * *samm* `Sa` : `Z.Sa`
   * → sammel
@@ -2229,7 +2234,7 @@
     * : *da*f~~ür~~.*sorg*en `.a-f,o` ~ `.a-f.o`
     * -*fürsorge* `-Ü.o` : `I-Ü.o` → flieh sozi
 * sort `s.ot` : `s.ot.e` `s.ot.ir` `ko-s.ot.um`
-  * : sortiment `s.ot.met` * `s.ot.eNT`
+  * : sortiment `s.ot.met`
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`
@@ -2560,6 +2565,8 @@
 
 * stroph `str.of`
   * : *katastroph* `k.at` : `k.at.e` `k.at.al`
+* ***strom*** `.om`
+  * ***ström*** `.öm` : `.öm-UNG`
 * str**u** `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * : *in*str**u**ment `IN,u-met` ~ `IN.u-met`
   * str**u**kt `u` : `ko,u-O` `IN,u-O` `IN.fra,u.ur`
@@ -2612,6 +2619,13 @@
     * : **tele**<i></i>**f**on**isch** `t.f.i` ! `t.el.e-f.i` E
 ---
 
+
+* tempel `t.emp.el`
+* *tempelhof* `t.emp.ho`
+
+* temp
+* *temper*
+
 * **tend** `t` : `t.ir` STS
   * *tenden****z*** `(z)`
     * : *tenden****z***iös `(z).ös` ! `t.ez.ös`
@@ -2624,7 +2638,8 @@
   * : deter***min***ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
 ---
 
-* test `t.est` : `t.e+st.a-met` × `t.e+st`
+* test `t.est`
+  * : test*ament* `t.e+st.eNT` × `t.e+st`
 
 ---
 * teuer `t.eu-er` (E)
@@ -3179,6 +3194,7 @@
 * @isier
 * @ü `-ü` statt `-Ü`, wieso?
 * Winkler verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
+* Winkler verwendet auch `.eNT` statt `.met` (sortiment)
 * Winkler erlaubt `(I).iS` statt `IN.iS`
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-×- Ausfall einer Nicht-Kürzung zwischen Vor- und Nachsilbe
