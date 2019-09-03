@@ -2254,6 +2254,9 @@
 
 ### [SCH](#wörterbuch)
 
+| [SCHR](#schr) | [SCHW](#schw) |
+|:-:|:-:|
+
 * ***schad*** `.ad` : `Z.ad.ko`
   * ***schäd*** `.äd`
     * **sach**<i></i>**be**~~schädigung~~ `sa.b`
@@ -2330,6 +2333,18 @@
 * **schön** `schö`
   * : **schön***heit* `schö.H` * `ö-H`
 * ***schöpf*** `.öpf`
+* **schul** `.ul` : `.ul.e` `ho.ul.eif.e`
+  * : **fahr**<i></i>**schul**e `fa.ul.e` ! `fa.sch.ul.e`
+  * : **hoch**<i></i>**schul**e `ho.ul.e` * `ho-u.e` × `ho-u`
+    * : **hoch**<i></i>**schul***reform* `ho.ul.om` * `ho-u.om`
+  * **schül** `.ül` : `.ül-er`
+    * -**schüler** `-Ü.er` : `ho-Ü.er`
+* **schutz** `.uz`
+  * -sch**u**tz `u` : → strahl welt
+  * **schütz** `.üz` ~ `schÜ`
+
+#### [SCHR](#wörterbuch)
+
 * **schrank** `schra` : `kÜ-schra`
   * **schränk** `schr`
 * **schreck** `schr`
@@ -2349,15 +2364,9 @@
     * ! `schr.it` : `G.schr.it`
 	  * : *fort***schritt** `fr.it` ~ `fr-i`
 * schrift ← schreib
-* **schul** `.ul` : `.ul.e` `ho.ul.eif.e`
-  * : **fahr**<i></i>**schul**e `fa.ul.e` ! `fa.sch.ul.e`
-  * : **hoch**<i></i>**schul**e `ho.ul.e` * `ho-u.e` × `ho-u`
-    * : **hoch**<i></i>**schul***reform* `ho.ul.om` * `ho-u.om`
-  * **schül** `.ül` : `.ül-er`
-    * -**schüler** `-Ü.er` : `ho-Ü.er`
-* **schutz** `.uz`
-  * -sch**u**tz `u` : → strahl welt
-  * **schütz** `.üz` ~ `schÜ`
+
+#### [SCHW](#wörterbuch)
+
 * schwed `schw.ed` : `schw.ed.i`
   * : schwede `schw.ed.e` * `schw.e`
   * : schweden `schw.ed` × `schw`
@@ -2376,6 +2385,9 @@
     * : *ver*schwend `E.schw.ed` ~ `E.schw`
 
 ### [SP](#wörterbuch)
+
+| [SPR](#spr) |
+|:-:|
 
 * spalt `spat`
   * spält `spet` : `zw.i-spet-ig`
@@ -2399,6 +2411,10 @@
     * : *in***spekt***ion* `IN.sp*` STS ! `IN.sp.iO
   * spek `sp.ek` : `sp.ek.iO` `sp.ek.ir`
 * *sp****ort*** `(.ot)` : `(.ot).N`
+* spür `sp.ür`
+
+#### [SPR](#wörterbuch)
+
 * **sprech** `spr` : `eNt.spr` @an-aus
   * : *ent***sprech**end : `eNT.spr.ed` × `eNT.ed`
   * ***sprich*** ⇒ **sprich** `.ich` :  `.ich-o`
@@ -2416,9 +2432,11 @@
   * ~~spr~~ung `(.ung)` : `eNT.ung` `.ur.ung` `O.ung` `zr.ung`
     * ~~spr~~üng `(.üng)` STS
 	  * : *ur*~~spr~~üng*lich* `.ur.üng.L` * `.ur-Ü.L`
-* spür `sp.ür`
 
 ### [ST](#wörterbuch)
+
+| [STR](#str) |
+|:-:|
 
 * st `st` : `ko.st.aNT` `ko.st.az` `IN.st.az`
   * ***stat***, ***staat*** `.at` : `.at.ist` `.at.ko`
@@ -2501,6 +2519,21 @@
 * **stoff** `.of` : `(k).of`
   * kunst**stoff** `kust-of` * `ku-s.of` @ t~of
 * **stolz** `.oz`
+* *stück* `Ük` STS : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
+* ***stud*** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um`
+* ***stuf*** `.uf` : `.uf.e`
+* st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
+  * *f****eier****stund*e `(ei-er),u.e` ! `fei-er,u.e`
+  * *stünd* `stÜ` : `stÜ.ch.en` `stÜ.L`
+* sturz `st.uz`
+  * : stürz `st.üz` : `b.st.üz*` `Ü.st.üz*` `.um:st.üz`
+* *stuttgart* `st.u-ga`
+* **stütz** `stÜ` : `stÜ.UNG` `G.stÜ` `.ab.stÜ`
+  * : *unter***stütz**en `UNTER.stÜ` * `UNTER-Ü` : `UNTER-Ü-t.e`
+    * : ~~arbeits~~*los*en*unter***stütz***ung* `(l.os),UNTER.stÜ-UNG` * `(l.os),UNTER-Ü.UNG` × `(.los)-Ü.UNG`
+
+#### [STR](#wörterbuch)
+
 * **straf** `stra` : `stra-e`
   * -*strafe* `(.e)` → geld
 * strahl `str.al` : `str.al.ed` `str.al,u`
@@ -2531,18 +2564,6 @@
   * : *in*str**u**ment `IN,u-met` ~ `IN.u-met`
   * str**u**kt `u` : `ko,u-O` `IN,u-O` `IN.fra,u.ur`
     * : str**u**~~kt~~ur `u.ur` ~ `str.uk` ≠ kultur
-* *stück* `Ük` STS : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
-* ***stud*** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um`
-* ***stuf*** `.uf` : `.uf.e`
-* st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
-  * *f****eier****stund*e `(ei-er),u.e` ! `fei-er,u.e`
-  * *stünd* `stÜ` : `stÜ.ch.en` `stÜ.L`
-* sturz `st.uz`
-  * : stürz `st.üz` : `b.st.üz*` `Ü.st.üz*` `.um:st.üz`
-* *stuttgart* `st.u-ga`
-* **stütz** `stÜ` : `stÜ.UNG` `G.stÜ` `.ab.stÜ`
-  * : *unter***stütz**en `UNTER.stÜ` * `UNTER-Ü` : `UNTER-Ü-t.e`
-    * : ~~arbeits~~*los*en*unter***stütz***ung* `(l.os),UNTER.stÜ-UNG` * `(l.os),UNTER-Ü.UNG` × `(.los)-Ü.UNG`
 
 ## [T](#wörterbuch)
 
@@ -3149,8 +3170,6 @@
 * **zw**ischen `zw` : `(I)zw`
 
 ## TODOs
-
-* @L.T
 
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
   * am Wortende: `-ä`
