@@ -1432,6 +1432,10 @@
   * : schallmauer `sch.all.m.au-er` * `scha.m.au-er`
 * mech `m.ech`
   * : mechan `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
+* med `m.ed` : `m.ed.it.iO` `m.ed.um` `m.ed.I.en` @ie
+  * *medik* `m.ed` : `m.ed.eNT`
+    * : *medik*<i></i>*ament*ös `m.ed.eNT.ös` × `m.ed.ös`
+    * *medizin* `m.ed`
 * **mehr** `m` : `m.H` `m.ko` `m.ma-s` `E.m-UNG` `nu:m` `(.er)m`
   * : *nicht*.**mehr** `-t-m` ~ `-t.m` ≠ irrtum
   * *mehrer* `MR` : `MR.e`
@@ -1447,8 +1451,8 @@
 * *mensch* `MSCH` : `MSCH.L` `E.MSCH.L`
   * *mensch*<i></i>*heit* `MSCH.H` * `MSCH°`
 * ment `met` : `met-al.ät` `met-or`
-  * -ment `met` → el
-    * -ament `eNT` → temp test
+  * *komment* `ko-t` : `ko-t-ar` `ko-t-at.or`
+  * -*ament* `eNT` → perg temp test
 * merk `m.ek` : `m.ek,(.el)`
   * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa`
     * : *auf*merk*sam****keit*** `AU.m.ek-Sa.T` × `AU.T`
