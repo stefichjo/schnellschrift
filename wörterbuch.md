@@ -1223,7 +1223,7 @@
   * : **krim***inal*ität `kri.i-aL.ät` × `kri.ät`
   * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
 * **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `UN,kri.i`
-  * : **krit**isieren `kri.ir` ! `kri.is.ir` @isier
+  * : **krit**isieren `kri.ir` ! `kri.is.ir` @isier @ie
 * kub `k.ub` : `k.ub.i` `k.ub.iS`
 * kub `k.ub` : `k.ub.a`
   * : kuban**isch** `k.ub.i` ! `k.ub.an.i` ≠ kubisch
@@ -1261,7 +1261,7 @@
 ## [L](#wörterbuch)
 
 * lad `l.ad`
-  * **last** `.ast`
+  * ***last*** `.ast`
 * **land** `la` : `la.FT` `la.UNG` `.S.la` `(hi)z.la` `v.at-er.la`
   * *land****es*** `(.es)` : `(.es).ba`
     * : *land****es***<i></i>*amt* `(.es).a` ~ `.es.a`
@@ -2287,7 +2287,7 @@
   * **schied** `.id` : `.ab.id` `b.id` `eNT.id` `E.id`
     * ! `sch.id`
     * : *m****ein****ung*s*ver***schied**en*heit* `(N),E.id.H` ~ `m.ei-H`
-    * : *unter***schied** `UNTER.id` * `UNTER-i`
+    * : *unter***schied** `UNTER.id` ~ `UNTER-i` @-×aus
     * : *ver*ab**schied** `E.ab.id` × `E.ab`
     * : *mit*.*all*er.*ent***schied**en*heit* `M.al.eNT.id.H` × `M.al.eNT`
 * *sch****ein*** `(N)` : `(N).bar` `.an.N.ed` `b.N.i` `wa.N.L`
@@ -3157,6 +3157,8 @@
 
 ## TODOs
 
+* @L.T
+
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
   * am Wortende: `-ä`
 * @e
@@ -3170,7 +3172,7 @@
 * @-×- Ausfall einer Nicht-Kürzung zwischen Vor- und Nachsilbe
 * @-×an Andeutung einer Anlautkürzung nach Vorsilbe
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung
-* @-× Ausfall des Stamms (auch bereits gekürzt) nach einer Vorsilbe -- :(
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
-* @L.T
 
+* @-× Ausfall des Stamms (auch bereits gekürzt) nach einer Vorsilbe -- :(
+* @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
