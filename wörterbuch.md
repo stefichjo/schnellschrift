@@ -1084,7 +1084,7 @@
   * *jetzt* `j°` : `j°.sch` `bi:j°`
 * **j**iz `j` : `(o)j.ir`
   * **j**ekt `j` : `(IN)j.iO` `(o)j` `(o)j.iO`
-    * : pr**o****j**ektil `(o)j.il` ~ `(o)jet-il`
+    * : pr**o**<i></i>**j**ektil `(o)j.il` ~ `(o)jet-il`
 * jubel ← jubil
 * *jubil* `j.ub` : `j.ub.um`
   * *jubel* `j.ub` : `j.ub.d`
@@ -1785,7 +1785,7 @@
   * *posit* `pos` : `pos.iv`
     * *position* `pos`
       * : *dis*<i></i>*position* `(ds)pos` ~ `ds-os`
-      * : *komp**position* `kom-os` ~ `kom-o`
+      * : *komp*<i></i>*position* `kom-os` ~ `kom-o`
     * **post** `po` : `po.ir` `po.al.i` `po.a`
       * : **post**ulat `po.at` ! `p.o+st.at`
       * : **post**ulier `po.ir` ! `po.ul.ir`
@@ -2103,6 +2103,9 @@
 * selt `set` : `set-en` `set-Sa`
   * : *seltenheit* `s.H`
 * *sem****ester*** `(.est-er)`
+* *semi****nar*** `(n.ar)`
+  * *semi****nar****istisch* `(n.ar).iS.i` × `(n.ar).i`
+* setz ← sitz
 * sen `s.en` : `s.en.il` STS `s.en.or`
   * *senat* `s.at`
 * **send** `s` : `.ab.s` ⇒ `.ab-s` `.ab.s.er` ⇒ `.ab-s-er` `N.s` ⇒ `N-s` `N.s.er` ⇒ `N-s-er`
@@ -2147,11 +2150,6 @@
 * silb `s.ib` : `s.ib-er` `s.ib-ern` `s.ib-r.i` `E.s.ib-ert`
 * silb `s.ib` : `s.ib.e` `N.s.ib.i` `m.s.ib.i` `O.s.ib.en`
 * sind ← sein
-
----
-* *semi****nar*** `(n.ar)`
-* setz ← sitz
----
 
 ---
 * sist `s.i+st`
@@ -2873,7 +2871,7 @@
 * volv `v.ow` : `r.w.ow-er`
   * volt `v.ot` : `r.wot.e`
   * *vol****u****t* `u` : `.e,u-O` `r.u-O` `u.ur,r.u-O`
-    * : *konter***re***vol****u****t**ion* `(ko)tr,r.u-O` ~ `ko-t-er,r.u-O`
+    * : *konter***re***vol****u****t*<i></i>*ion* `(ko)tr,r.u-O` ~ `ko-t-er,r.u-O`
 * **von** `v`
   * : *da***von** `.a-v` ~ `a-v`
   * *vom* `v°`
@@ -3058,8 +3056,8 @@
   * **d**ass.*wir* `d.wr` ~ `DR` (3-stufiges R)
 * *wir****k*** `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(k).L`
   * : *wir****k***sam****keit*** `(k)-Sa.T` ! `(k)-s.am.T`
-  * : *ent*<i></i>*gegen**wir****k***en `eNT.g,(k)` × `eNT.k`
-  * : *darauf* *hin**wir****k***en `dar-AU` `hn,(k)` × `dar-AU.k`
+  * : *ent*<i></i>*gegen*<i></i>*wir****k***en `eNT.g,(k)` × `eNT.k`
+  * : *darauf* *hin*<i></i>*wir****k***en `dar-AU` `hn,(k)` × `dar-AU.k`
   * ! `w.ik`
 * **wirt** `wit`
   * *wirt*- `(wr)`
