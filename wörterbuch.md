@@ -1012,8 +1012,8 @@
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
 * -ier- `.ir`
 * -ifik- ← fak
-* -ifik- `.if` : `.if-o`
-  * -ifiz- `.iz` : `.if.ir`
+* -*ifik*- `.if` : `.if-o`
+  * -*ifiz*- `.if` : `.if.ir`
 * -*ig* `.i`/`.ig`
 * ihn `.in` : `.in.en`
   * -*ihnen* `i` → bei mit um dank
@@ -1507,11 +1507,14 @@
   * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
 * mocht ← mög
-* mod `m.od` : `m.od.al` `m.od-er`
-  * modalität `m.od.ät` ! `m.od.al.ät`
-  * *mod****ell*** STS `(.ell)` * `mo.ell` ≠ kartell
+* mod `m.od` : `m.od.e` `m.od.al` `m.od-er.or` `m.od-er.iO` `m.od.if-o` `m.od.ul` `m.od.ul.ar` `m.od.ul.iO` `m.od.us`
+  * : modalität `m.od.ät` ! `m.od.al.ät`
+  * : *mod****ell*** STS `(.ell)` ~ `m.o-ell` : `(.ell).ir` ~ `m.o-ell.ir` ≠ kartell
+  * : modern `m.od-er` : `UN.m.od-er`
+    * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG` @isier
+  * : mod*ifiz*ieren `m.od.if.ir` ! `m.od.if.iz.ir`
 * ***mög*** `.ög`
-  * ~~***mög***~~*lich* `(L)` : `(L)-t` `(o)ba.L` `(o)w.T.L`
+  * ~~***mög***~~*lich* `(L)` : `(o)ba.L` `(o)w.T.L`
     * : ***mög****lich*st `(L)-st` * `(L)-t`
   * ***mag*** `.ag`
     * *macht* `aCHT`
