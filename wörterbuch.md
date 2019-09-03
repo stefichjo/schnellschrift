@@ -2619,13 +2619,13 @@
     * : **tele**<i></i>**f**on**isch** `t.f.i` ! `t.el.e-f.i` E
 ---
 
-
+* *temp* `emp` : `emp.o` `emp.I` `emp.us` `emp.or.al`
+  * : *temp*orär `emp.or.är` × `emp.är`
+  * *temper* `emp` : `emp-ur` `emp.ir`
+    * : *temper*<i></i>*ament* `emp.eNT` ! `t.emp.eNT`
+    * : *temper*<i></i>*ament*<i></i>*voll* `emp.eNT.Ol` ! `t.emp.eNT.Ol` × `t.emp-ol`
 * tempel `t.emp.el`
 * *tempelhof* `t.emp.ho`
-
-* temp
-* *temper*
-
 * **tend** `t` : `t.ir` STS
   * *tenden****z*** `(z)`
     * : *tenden****z***iös `(z).ös` ! `t.ez.ös`
