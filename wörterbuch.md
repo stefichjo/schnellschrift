@@ -1459,7 +1459,7 @@
       * : *mit*.*besonder*er *auf*merk*sam****keit*** `M-S AU.T` × `M-S.T`
   * : **be**merk `b.m.ek` * `b.m`
 * **mess** `ess` : `ess.e` `ess-er`
-  * : -*messer* `(er)` → hoch
+  * : -*messer* `(er)` → hoch strom
   * **miss** `.iss`
     * ! `m.iss`
   * **maß** `ass` : `N.i-er.ass.en` `G.i-ass` `(I)ho.ass.e`
@@ -2150,18 +2150,18 @@
 * silb `s.ib` : `s.ib-er` `s.ib-ern` `s.ib-r.i` `E.s.ib-ert`
 * silb `s.ib` : `s.ib.e` `N.s.ib.i` `m.s.ib.i` `O.s.ib.en`
 * sind ← sein
+* sinn `s.in` : `s.in.os` `s.in.Ol` `b.s.on.H` `er-s.in`
+  * : besinnen `b.s.in` * `b-s.in` : `b-s.in.os`
+  * : *ge*sinn `G.s.in` * `G.in` : `G.int` `G.in.UNG.i`
+  * -*sinn* `.in` : `UN.in.i` `W.in.i` `.IN.iS.in.e` `.im.in.e` `.im.ei-L.in.e` → wahn
+  * sann `s.an` : `er-s.an`
+  * sonn `s.on` : `G.s.on` `er-s.on`
 
 ---
-* sist `s.i+st`
-  * : *in*sistier `IN.s.i+st.ir`
-  * : **kon**sistenz `ko-s.i+st.ez`
-  * : **tran**sistor `tra.i+st.or`
-  * *exist* `.ex` BSA
-    * : *exist*enz `.ex.ez` × `.ex` BSA
-    * : *exist*ier `.ex.ir` (BSA)
-    * : X `.ex.eNT` `.ex.ir.ed` `.ex.irt.e`
-* sit `s.it`
-  * : situier `s.it.ir`
+* sist `s.i+st` : `IN.s.i+st.ir` `ko.s.i+st.ez` `tra.i+st.or`
+  * *exist* `.ex` :  `.ex.eNT` `.ex.ir` `.ex.ir.ed` `.ex.irt.e`
+    * : *exist*enz `.ex.ez` × `.ex`
+* sit `s.it` : `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
@@ -2182,16 +2182,6 @@
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
     * : *er***satz** `er-sa`
     * : **grund**<i></i>**sätz***lich* `gru.s.L`
----
-
-* sinn `s.in` : `s.in.os` `s.in.Ol` `b.s.on.H` `er-s.in`
-  * : besinnen `b.s.in` * `b-s.in` : `b-s.in.os`
-  * : *ge*sinn `G.s.in` * `G.in` : `G.int` `G.in.UNG.i`
-  * -*sinn* `.in` : `UN.in.i` `W.in.i` `.IN.iS.in.e` `.im.in.e` `.im.ei-L.in.e` → wahn
-  * sann `s.an` : `er-s.an`
-  * sonn `s.on` : `G.s.on` `er-s.on`
-
----
 * **skal** `ska` ! `sk.al`
   * : **skal**a `ska.a` ! `sk.al.a`
   * : e**skal**at*ion* `.e-ska.iO`
@@ -2569,7 +2559,7 @@
 
 * stroph `str.of`
   * : *katastroph* `k.at` : `k.at.e` `k.at.al`
-* ***strom*** `.om`
+  * ***strom*** `.om` : `.om,(er)` STS
   * ***ström*** `.öm` : `.öm-UNG`
 * str**u** `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * : *in*str**u**ment `IN,u-met` ~ `IN.u-met`
