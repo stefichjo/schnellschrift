@@ -1494,6 +1494,7 @@
 * mir `m.ir`
   * .***mir*** `.ir` : `(I)-bi.ir,u`
 * *miss*- `ms`
+* miss ← mitt
 * *mit* `M` : `hi:M`
   * : *da*<i></i>*mit* `.a-M` ~ `a-M`
   * : *mitt* `M` : `M.e`
@@ -1503,8 +1504,8 @@
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
   * : *kom*pr**o***mitt*ier `kom.o+M.ir` ~ `kom-p.it.ir`
   * *miss* `ms` : `ms-o` `.e-ms-o`
-    * : *kom*<i></i>*miss*ar `ko-ms.ar` * `ko-i.ar`
-    * : *kom**miss**ion* `ko-ms-o` * `ko-i.iO` × `ko-i` : `(.om).ko`
+    * : *kom*<i></i>*miss*ar `ko+ms.ar` * `ko-i.ar`
+    * : *kom**miss**ion* `ko+ms-o` * `ko-i.iO` × `ko-i` : `(.om).ko`
     * : *kom*pr**o***miss* `ko,(o)ms` ~ `ko-ms` × `ko-m`
     * : *trans**miss**ion* `tra.ms-o` × `tra.ms`
 * mob `m.ob`
@@ -2601,9 +2602,9 @@
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
 * *t****eil*** `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e` `O.eil.ha`
 * tekt ← techn
-* tekt 
-  * : archi**tekt** `.ach.t` ~ `.ach.ekt`
-  * : archi**tekt**ur `.ach.t.ur` × `.ach.ur`
+* **tekt**
+  * *architekt* `.ach` : `.ach.ur`
+  * : *architekt* `.ach` ! `.ach.t` ~ `.ach.ekt`
 
 ---
 * **tele** `t.e` ! `t.el.e` (E)
