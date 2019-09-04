@@ -146,8 +146,8 @@
 * *bibel* `bib`
 * bibl `b.ibl`
   * : bibliograph `b.ibl.gra.I` ! `b.ibl.o+gra.I`
-  * *bibliothek* `(t.ek)`
-    * : *bibliothek*ar**isch** `(t.ek).ar.i` × `(t.ek).i`
+  * *biblio****thek*** `(t.ek)`
+    * : *biblio****thek***ar**isch** `(t.ek).ar.i` × `(t.ek).i`
 * bieg `b.ig`
   * bog `b.og`
 * ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `AU.it` `fa.it` `r.ur.it` `Ü.it`
@@ -184,6 +184,9 @@
   * bat `b.at`
   * bet `b.et` : `G.b.et` `UN-G.b.et`
 * **blatt** `bla` : `.om.bla`
+  * **blätt** `blä` : `bl.ech`
+    * : **blätt**er `bl.er` ! `bl.et-er`
+* **blau** `blau`
 * **bleib** `bl.ei`
   * **blieb** `bli` ⇒ `bl.i`
 * bleich `bl.eich` : `bl.eich,u` `bl.eich-Ü.i`
@@ -572,8 +575,8 @@
   * **fand** `fa` : `b.fa`
     * ! `f.ad`
     * : *emp***fand** `.emp-fa` ⇒ `.emp-a` @-×an
-	* **fänd** `f`
-	  * ! `f.ed` ! `f.äd`
+	* **fänd** `fä` STS @ä
+	  * ! `f.äd`
   * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu`
     * : *emp***fund**en `.emp-fu` ⇒ `.emp-u` @-×an
 * **fing** `fi` : `fi-er`
@@ -619,7 +622,7 @@
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
   * : *er***folg** `er.fo` × *er*~~folg~~ ⇒ *erfolg* `er`
-  * : *er***folg***r****eich*** `er.fo.eich` × *er*~~folg~~***reich*** ⇒ *erfolg****reich*** `er.eich` * *er*~~folg~~**reich** ⇒ *erfolgreich* `er,r.ei`
+  * : *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* `er,r.ei` @~2
   * : *in***folg** `IN.fo` ~ `IN.o`
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er**forder**lich* `er.F.L` ~ `er.o-L`
@@ -1124,7 +1127,7 @@
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
 * **ka**rt `ka` : `ka.ei`
   * : **ka**rte `ka-e` ! k.art.e
-  * : **ka**rtothek `ka.t.ek` ! `k.at.o-t.ek`
+  * : **ka**rtothek `ka.t-t.ek` ! `k.at.o-t.ek`
   * *kart****ell*** `(.ell)`
 * *kartoffel* `ka.of.el`
 * **kass** `ass` : `ass.e` `kra.ass.e`
@@ -1318,7 +1321,7 @@
   * *lehrer* `er-er` : `fa.er-er`
   * *lehrling* `l.ing`
 * **leicht** `l.ei`
-  * : ***viel*****leicht** `.il-l.ei` ⇒ *vielleicht* `v.ei`
+  * : ***viel*****leicht** `.il-l.ei` ~ *vielleicht* `v.ei` @~2
 * leih `l.eih`
   * : anleih `.an.l.eih` ~ `.an.l.ei`
   * : lieh `l.ih`
@@ -2520,7 +2523,7 @@
   * kunst**stoff** `kust-of` * `ku-s.of` @ t~of
 * **stolz** `.oz`
 * *stück* `Ük` STS : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
-* ***stud*** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um`
+* ***stud*** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @ie
 * ***stuf*** `.uf` : `.uf.e`
 * st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
   * *f****eier****stund*e `(ei-er),u.e` ! `fei-er,u.e`
@@ -2570,7 +2573,7 @@
 ## [T](#wörterbuch)
 
 * tab~~ell~~ `t.ab` `t.ab.ar.i` `t.ab.ir`
-  * tab~~ell~~e `t.ab.e` × `t.ab` 
+  * tab~~ell~~e `t.ab.e` × `t.ab`
 * *tag* `-tag` : `bu:-tag` `(.ei-er)-tag` `do-tag` `f.T-tag` `(bst)-tag` `(I)n,(-st)-tag.en`
   * : *arb****eit***s*tag* `(T)-tag` ~ `T-tag`
   * : *fr****ei****tag* `(.ei)-tag` ! `.ei-tag`
@@ -2651,6 +2654,7 @@
   * : theologe `t.e-og.e` ! `t.e-l.og.e`
   * : theologie `t.e-og.I` ~ `t.e-l.o-I`
   * : athe*ismus* `.a-t.e-iS`
+* thek `t.ek` : `t.ek.e` STS
 * theor `t.e-or` : `t.e-or.ik-er` `t.e-or.i`
   * : theorie `t.e-or.I` ~ `t.e-o.I`
   * : quantentheorie `quat,t.e-or.I` ~ `quat,t.e-o.I`
@@ -2832,6 +2836,7 @@
 * **v**id `v`
   * : di**v**idier `d.i-w.ir`
   * : **re**<i></i>**v**idier `r.w.ir`
+  * → video
   * *individ* `IN.d` BSA
     * : *individ*uum `IN.d.um` (BSA)
     * : *individ*uell `IN.d.ell` (BSA)
@@ -2849,6 +2854,7 @@
     * : **re**<i></i>**v**is*ion* `r.w-o`
 ---
 
+* *video* `vi.o` : `vi.os` `vi.o-t.ek` ← vid
 * **vieh** `vi` : `vi.i` `vi:h-er` `vi,u`
   * -***vieh*** `.ih` → rind schlacht
 * ***viel*** `.il`
@@ -3199,3 +3205,5 @@
 
 * @-× Ausfall des Stamms (auch bereits gekürzt) nach einer Vorsilbe -- :(
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
+
+*~2 doppelte Verschattung :/
