@@ -2154,7 +2154,7 @@
   * senz `s.ez` : `pr.s.ez`
 * sent `set` STS
   * sens `s.e-s` : `s.e-s-o`
-* **sequ** `s` : `ko.s.ez` ⇒ `ko-s.ez`
+* **sequ** `s` : `ko-s.ez`
   * ! `s.equ` : `s.equ.ez` × `s.equ`
   * : **kon**<i></i>**sequ**ent `ko-s.eNT` × `ko-s`
   * : **kon**<i></i>**sequ**enzen **zieh**en `ko-s.ez.en .ih` × `ko-s.en.ih`
@@ -2228,7 +2228,7 @@
 * *so* `.o` : `.eb.o`
   * *so*- `o`
   * → sonst
-* sol `s.ol` : `s.ol.id` `ko-s.ol.ir`
+* sol `s.ol` : `s.ol.id` `ko.s.ol.ir`
 * *solch* `(s)ch`
   * -*solch*- `o` ← `IN.ei-em,o,fa` `IN,o,f.en`
 * *soll* `(S)`
@@ -2264,7 +2264,7 @@
   * -*sorg*- `o` : `f,o-e` `f,o-L` → falt seel
     * : *da*f~~ür~~.*sorg*en `.a-f,o` ~ `.a-f.o`
     * -*fürsorge* `-Ü.o` : `I-Ü.o` → flieh sozi
-* sort `s.ot` : `s.ot.e` `s.ot.ir` `ko-s.ot.um`
+* sort `s.ot` : `s.ot.e` `s.ot.ir` `ko.s.ot.um`
   * : sortiment `s.ot.met`
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
@@ -3231,6 +3231,7 @@
 * Winkler verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
 * Winkler verwendet auch `.eNT` statt `.met` (sortiment)
 * Winkler erlaubt `(I).iS` statt `IN.iS`
+* Winkler rollt das `s` nach `ko` immer ein.
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-×- Ausfall einer Nicht-Kürzung zwischen Vor- und Nachsilbe
 * @-×an Andeutung einer Anlautkürzung nach Vorsilbe
