@@ -405,7 +405,7 @@
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
     * *einzel*- `.ei` : `.ei-h-er`
       * : `.ei-ha` ! `.ei-ha.el` ≠ meine damen und herren
-  * *~~ein~~*z `(z)` : `(z).i`
+  * *ein****z*** `(z)` : `(z).i`
 * ein `N` : `h.N`
   * : *hin*ein `n.N` ~ `hi.N` ≠ nein
   * : *von* *vor*n*her*ein `v O.n.h.N` × `v.N`
