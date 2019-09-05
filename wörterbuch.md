@@ -405,13 +405,12 @@
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
     * *einzel*- `.ei` : `.ei-h-er`
       * : `.ei-ha` ! `.ei-ha.el` ≠ meine damen und herren
-  * ~~*ein*~~z `(z)` : `(z).i`
+  * *~~ein~~*z `(z)` : `(z).i`
 * ein `N` : `h.N`
   * : *hin*ein `n.N` ~ `hi.N` ≠ nein
   * : *von* *vor*n*her*ein `v O.n.h.N` × `v.N`
 * eis `.eis`
 * (eisen) ≠ eis `.eis.en`
-* -el → -ul
 * el `.el` : `.el.e-met` `.el.e-met.ar`
 * *elektr* `.el` : `.el.i` `.el.if.ir` `.el.ir` `.el.od.e` `.el.on.i`
   * : *elektr*izität `.el.ät`
@@ -542,6 +541,8 @@
   * fens `fes` : `d.e-fes.iv`
     * : offensiv `.o-fes.iv` * `.o-f.iv`
 * fenster `fest-er`
+* ***fer***n `fer` : `v.n.ah.fer`
+  * ! fern `f.en` : `f.en.er` `eNT.f.en` `IN,(o)f.en` `IN.w.i-f.en` `I eNT.f.en.en` `eNT.f.ent`
 * **fer** `f` : `d.if.eNT` `d.if.ez` `d.if.ez.ir` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
     * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
     * : **kon**<i></i>**fer**enz `ko.f.ez` × `ko.f`
@@ -549,12 +550,12 @@
     * -*ministerkonferenz* `ko` → aus kult
   * → lat
 * *ferien* `f.I.en` : `(.est-er),f.I.en` `s.om.f.I.en` @ie
-* ***fer***n `fer` : `v.n.ah.fer`
-  * ! `f.en` : `f.en.er` `eNT.f.en` `IN,(o)f.en` `IN.w.i-f.en` `I eNT.f.en.en` `eNT.f.ent`
+* fern ← fer
 * *fert* `-t` : `-t-ig` `-t-ig.T` `.an-t-ig` `.S-t-ig` `UN-t-ig`
 * fess ← fat
 * *fest* `f°`
-* **feuer** `feu` : `feu-ig` `feu-er-UNG` `.an.feu`
+* *feuer* `feu` : `feu-ig` `.an.feu`
+  * : *feuer*<i></i>*ung* `feu-UNG` ! `feu-er-UNG`
 * **fig** `fi` : `fi-ur` `ko,fi-ur.iO`
 * fili `f.il.I`
   * : filius `f.il.I.us` ~ `f.il.us`
@@ -579,8 +580,8 @@
 	  * ! `f.äd`
   * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu`
     * : *emp***fund**en `.emp-fu` ⇒ `.emp-u` @-×an
-* **fing** `fi` : `fi-er`
-* *finster* `fi-er`
+* **fing**er `fi-er`
+* **finst**er `fi-er`
 * *firm* `im` : `im.a` `im.en` `im.ir`
   * : *firm*ament `im-met` ! `f.im-met`
   * : **kon***firm*at*ion* `ko,im-o` ! `ko.f.im-o`
@@ -2939,7 +2940,7 @@
 ---
 * ***wehr*** `wer`
   * : **bund**es***wehr*** `bu.wer` * `u-wer`
-  * : **feuer*****wehr*** `feu:wer` ~ `eu:wer`
+  * : *feuer****wehr*** `feu:wer` ~ `eu:wer`
   * : *ge****wehr*** `G.wer`
 * weich `w.eich`
   * : abweich `.ab.w.eich` ~ `.ab.w.ei`
