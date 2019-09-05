@@ -2425,6 +2425,8 @@
 | [SPR](#spr) |
 |:-:|
 
+@an-aus
+
 * spalt `spat`
   * spält `spet` : `zw.i-spet-ig`
 * **spann** `spa`
