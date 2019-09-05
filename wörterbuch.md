@@ -244,13 +244,36 @@
 
 ## [C](#wörterbuch)
 
+| [CH](#ch) | [CHR](#chr) | [CR](#cr) |
+|:-:|:-:|:-:|
+
+* *cicero* `ci.o`
+* *cit****y*** `(y)`
+* **cliqu**e `kli`
+* *cottbus* `c.o`
+
+### [CH](#wörterbuch)
+
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
 * **chem** `ch` : `ch.I` `ch.ik-er` @ie
   * : **chem**<i></i>**isch** `ch.i` ! `ch.em.i`
   * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
+* chlor `chl.or`
+
+### [CHR](#wörterbuch)
+
+* **christ** `kri`
+* **chrom** `kro`
+
+### [CR](#wörterbuch)
+
+* cranach `cr.an.ach`
 
 ## [D](#wörterbuch)
+
+| [DR](#dr) |
+|:-:|
 
 * *d. h.* `d.h°`
 * da `d.a`
@@ -340,23 +363,6 @@
     * *dokument* `d.ok` : `d.ok.ir` `d.ok.irt.e`
       * : *dokument*ar**isch** `d.ok.ar.i` × `d.ok.i`
   * *doktor* `der`
-* dreh `dr.eh`
-  * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
-* **dring** `dri` : `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
-  * **drang** `dra`
-    * **dräng** `drä` STS @ä
-  * **drung** `dru` : `G.dru` `N.dru`
-* **druck** `dru` : `dru.ei` `dru,(.e)` `ach.dru` `N.dru`
-  * : **druck**er `dru.er` ! `dr.uk-er`
-  * : *aus***druck** `.S.dru` ~ `.S-u` @-×an
-    * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
-      * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
-  * **drück** `drÜ`
-    * : **drück**en `drÜ` ! `dr.ük`
-    * : *aus***drück***lich* `.S.drÜ.L` ~ `.S-Y.L`
-    * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
-    * : *nach***drück***lich* `ach.drÜ.L` ~ `ach-Ü.L`
-* **dro**h `dr.o`
 * *du* `dU` : `bi.dU` `ha.dU` `w.dU`
 * **duk** `du`
   * **duz** `du` : `IN.du.ir` `(o)du.ir`
@@ -374,6 +380,26 @@
 * *düsseldorf* `dÜ.o`
 * dutz `d.uz`
   * : dutzend `d.uz.ed` × `d.uz`
+
+### [DR](#wörterbuch)
+
+* dreh `dr.eh`
+  * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
+* **dring** `dri` : `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
+  * **drang** `dra`
+    * **dräng** `drä` STS @ä
+  * **drung** `dru` : `G.dru` `N.dru`
+* **druck** `dru` : `dru.ei` `dru,(.e)` `ach.dru` `N.dru`
+  * : **druck**er `dru.er` ! `dr.uk-er`
+  * : *aus***druck** `.S.dru` ~ `.S-u` @-×an
+    * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
+      * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
+  * **drück** `drÜ`
+    * : **drück**en `drÜ` ! `dr.ük`
+    * : *aus***drück***lich* `.S.drÜ.L` ~ `.S-Y.L`
+    * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
+    * : *nach***drück***lich* `ach.drÜ.L` ~ `ach-Ü.L`
+* **dro**h `dr.o`
 
 ## [E](#wörterbuch)
 
