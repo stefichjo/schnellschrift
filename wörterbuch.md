@@ -98,6 +98,9 @@
 
 ## [B](#wörterbuch)
 
+| [BR](#br) |
+|:-:|
+
 * *baden-würtemberg* `b.ad-Ü`
 * **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
   * : auto**bahn** `.aut.ba` ! `.aut.o-ba`
@@ -200,6 +203,23 @@
     * : kalt**blüt***ig* `kat,blü.i` * `kat-Ü.i`
 * **bod** `bo`
 * börs `b.ös` : `b.ös.e`
+* **buch** `bu` : `bu.ha` `ha,bu` `ha.el,bu` `(.iz).bu`
+  * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
+  * : **hand**els*gesetz***buch** `ha.el-G,bu` × `ha.el.bu`
+  * **büch** `bÜ` : `bÜ-er`
+  * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
+* *bühr* `Ür` : `G-Ür`
+* bunt `but` : `but-er` `but-est` `bu.H`
+* **bür** `bÜ` : `m.ak-er-Ü.o`
+* burg `b.ug` : `b.ug.en`
+  * -*burg* `bu` : `ho.bu`
+  * *bürg* `bÜ` : `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E.bÜ`
+    * : *mit*<i></i>*bürg*er `M.bÜ-er` * `M-Ü-er`
+* bus `b.us`
+  * -*bus* `(.us)` → aut
+
+### [BR](#wörterbuch)
+
 * branch `br.asch` : `br.asch.e` `(t.il),br.asch.e`
 * **brau** `brau`
 * **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `(E)brau.er` `G.brau` `G.brau.eil` `ms.brau`
@@ -221,20 +241,6 @@
   * **bracht** `bra` : `(.an)bra` `(b.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z.Sa.bra`
     * **brächt** `br`
       * : **brächt**e `br.e` ~ `brä-e`
-* **buch** `bu` : `bu.ha` `ha,bu` `ha.el,bu` `(.iz).bu`
-  * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
-  * : **hand**els*gesetz***buch** `ha.el-G,bu` × `ha.el.bu`
-  * **büch** `bÜ` : `bÜ-er`
-  * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
-* *bühr* `Ür` : `G-Ür`
-* bunt `but` : `but-er` `but-est` `bu.H`
-* **bür** `bÜ` : `m.ak-er-Ü.o`
-* burg `b.ug` : `b.ug.en`
-  * -*burg* `bu` : `ho.bu`
-  * *bürg* `bÜ` : `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E.bÜ`
-    * : *mit*<i></i>*bürg*er `M.bÜ-er` * `M-Ü-er`
-* bus `b.us`
-  * -*bus* `(.us)` → aut
 
 ## [C](#wörterbuch)
 
