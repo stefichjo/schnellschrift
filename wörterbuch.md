@@ -2541,7 +2541,7 @@
 * ***steig*** `.eig`
   * ***stieg*** `.ig`
 * stet ← steh
-* *st****euer*** `eu-er` : `eu-er` `eu-er.L` `eu-er,i` `eu-er-UNG`
+* *st****eu***er `eu-er` : `eu-er` `eu-er.L` `eu-er,i` `eu-er-UNG`
 
 ---
 * **stig** `st.i`
