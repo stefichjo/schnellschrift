@@ -270,8 +270,8 @@
       * : **tra**<i></i>**dit***ion* `tra,di-o` ~ `tr.ad-o`
         * : **tra**<i></i>**dit***ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `b.dau.L` `G.dau` `AU.I.dau` `Z.m.ei-em:b.dau` `Z.U°.b.dau`
-* *de****em*** `(m)` : `.auss.m` `(I)m`
-  * : *mit*.*de****em*** `M.m` ~ `MM` P
+* *d****em*** `(m)` : `.auss.m` `(I)m`
+  * : *mit*.*d****em*** `M.m` ~ `MM` P
 * **dem** `d.e`
   * : demokrat ← krat
 * *de****n*** `(n)` : `(I)n`
