@@ -1224,7 +1224,7 @@
     * -**corps** `ko` → diplom
   * → körp
 * **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E.kö.er` ← korp
-  * : **körp**er*schaft*s*st****euer*** `kö.FT,eu-er` × `kö,eu-er`
+  * : **körp**er*schaft*s*st****eu***er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
 * **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN.kost,au.al.e` ← st
   * : **kost**en*los* `kost-l.o` ~ `ko.os`
@@ -2478,6 +2478,8 @@
 | [STR](#str) |
 |:-:|
 
+@an-aus
+
 * st `st` : `ko.st.aNT` `ko.st.az` `IN.st.az`
   * ***stat***, ***staat*** `.at` : `.at.ist` `.at.ko`
     * : ***stat***ik `.at.ik` ! `st.at.ik`
@@ -2486,8 +2488,8 @@
     * ~~***stat***~~*ist* `(.i+st)` : `(.i+st)-ik`
         * : ~~***stat***~~*istisch* `(.i+st)-isch` ~ `sta.iS.i`
     * *statu* `sta.u` : `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
-    * st~~it~~ `st` : `IN.st.ut` `IN.st.ut.iO` `ko.st.ir`
-      * : **kon**st~~it~~ut*ion* `ko.st.ut.iO` ~ `ko.st.it.iO`
+    * **st**it `st` : `IN.st.ut` `IN.st.ut.iO` `ko.st.ir`
+      * : **kon**<i></i>**st**itut*ion* `ko.st.ut.iO` ~ `ko.st.it.iO`
   * ***stab*** `.ab` : `.ab.ät`
   * **stall** `sta`
     * : *in***stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
