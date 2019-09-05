@@ -1790,7 +1790,7 @@
 * **plan** `pla`
   * -***plan*** `.an`
 * **plant** `pla` : `pla.asch.e` `tra.pla.O`
-* ***platz*** `.az` : `(T)-s.az`
+* ***platz*** `.az` : `(T)-s.az` `si:az`
   * ***plätz*** `.ez` : `.ez.e`
 * plett `pl.et` : `kom-pl.et.ir`
   * : *kom*plett `kom-pl.et` ~ `kom-pl`
@@ -2044,8 +2044,8 @@
   * : *in*s*ge*<i></i>*samt* `IN.G.Sa` ~ `(I).G.Sa`
   * *sämt* `s` : `s.L`
 * samt `s.amt`
-* **sass** `.ass` : `IN.ass.en` ← sitz
 * sand `s.ad`
+* ***sass*** `.ass` : `IN.ass.en` ← sitz
 * saß ← sitz
 * saum `s.aum`
   * säum `s.äum` : `E-s.äum.is`
@@ -2198,14 +2198,15 @@
     * : *exist*enz `.ex.ez` × `.ex`
 * sit `s.it` : `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
-
----
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
   * : be**sitz** `b-si` @-an
-  * : *vor***sitz**ender `O-si.ed-er` ~ `O-i.ed-er` @-×an
+  * : *vor***sitz** `O-si` ~ `O-i` : `O-i.er` `O-i.ed-er` @-×an
   * saß `s.ass`
   * → sass
+
+---
+* ...
   * **setz** `s` ! `s.ez` (E)
     * : *aus***setz** `.S-s` ~ `.S.s` E
     * : ein**setz**en `N-s` ! `N.s`
@@ -2219,12 +2220,10 @@
     * : ab**satz** `.ab-sa` ! `.ab.sa` E
     * : *er***satz** `er-sa`
     * : **grund**<i></i>**sätz***lich* `gru.s.L`
-* **skal** `ska` ! `sk.al`
-  * : **skal**a `ska.a` ! `sk.al.a`
-  * : e**skal**at*ion* `.e-ska.iO`
-  * : e**skal**ier `.e-ska-ir`
 ---
 
+* **skal** `ska` : `.e-ska.ir` `.e-ska.iO`
+  * ! `sk.al` : `sk.al.a` `sk.al.en`
 * *so* `.o` : `.eb.o`
   * *so*- `o`
   * → sonst
@@ -2455,7 +2454,7 @@
 
 @an-aus
 
-* **sprech** `spr` : `eNt.spr` @an-aus
+* **sprech** `spr` : `eNt.spr`
   * : *ent***sprech**end : `eNT.spr.ed` × `eNT.ed`
   * ***sprich*** ⇒ **sprich** `.ich` :  `.ich-o`
   * **sprach** `spra` : `spra-e` `g.wat,spra-e`
@@ -2544,7 +2543,7 @@
 * *st****eu***er `eu-er` : `eu-er` `eu-er.L` `eu-er,i` `eu-er-UNG`
 
 ---
-* **stig** `st.i`
+* **stig** `st.i` @i
   * **stinkt** `st.i` BSA
   * : *in***stinkt** `IN.st.i` ! `IN.st.i` (BSA)
     * : X `IN.st.i-l.os` `IN.st.i-iv`
@@ -2562,8 +2561,8 @@
   * kunst**stoff** `kust-of` * `ku-s.of` @ t~of
 * **stolz** `.oz`
 * *stück* `Ük` STS : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
-* ***stud*** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @ie
-* ***stuf*** `.uf` : `.uf.e`
+* **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @ie
+* **stuf** `.uf` : `.uf.e`
 * st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
   * *f****eier****stund*e `(ei-er),u.e` ! `fei-er,u.e`
   * *stünd* `stÜ` : `stÜ.ch.en` `stÜ.L`
@@ -2575,6 +2574,8 @@
     * : ~~arbeits~~*los*en*unter***stütz***ung* `(l.os),UNTER.stÜ-UNG` * `(l.os),UNTER-Ü.UNG` × `(.los)-Ü.UNG`
 
 #### [STR](#wörterbuch)
+
+@an-aus
 
 * **straf** `stra` : `stra-e`
   * -*strafe* `(.e)` → geld
@@ -2602,8 +2603,8 @@
 
 * stroph `str.of`
   * : *katastroph* `k.at` : `k.at.e` `k.at.al`
-  * ***strom*** `.om` : `.om,(er)` STS
-  * ***ström*** `.öm` : `.öm-UNG`
+* **strom** `.om` : `.om,(er)` STS
+* **ström** `.öm` : `.öm-UNG`
 * str**u** `u` : `IN,u-ir` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * : *in*str**u**ment `IN,u-met` ~ `IN.u-met`
   * str**u**kt `u` : `ko,u-O` `IN,u-O` `IN.fra,u.ur`
@@ -3229,8 +3230,8 @@
 
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
   * am Wortende: `-ä`
-* @e
-  * alleinstehendes Stammende, nach Abstrich : `.e` : `k.e` `fr.e` `tr.e`
+* @e - alleinstehendes Stammende, nach Abstrich : `.e` : `k.e` `fr.e` `tr.e`
+* @i - `.i` statt `-i`
 * @ie `I.e(n)`/`.i-e(n)`
 * @isier
 * @ü `-ü` statt `-Ü`, wieso?
