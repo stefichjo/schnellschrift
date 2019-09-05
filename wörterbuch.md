@@ -2196,10 +2196,10 @@
 * sist `s.i+st` : `IN.s.i+st.ir` `ko.s.i+st.ez` `tra.i+st.or`
   * *exist* `.ex` :  `.ex.eNT` `.ex.ir` `.ex.irt.e` `.ex.ir.ed`
     * : *exist*enz `.ex.ez` × `.ex`
-
----
 * sit `s.it` : `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
+
+---
 * **sitz** `si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
   * : be**sitz** `b-si` @-an
