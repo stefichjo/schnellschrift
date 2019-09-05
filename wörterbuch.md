@@ -338,7 +338,7 @@
   * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
 * **dring** `dri` : `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
   * **drang** `dra`
-    * **dräng** `drä` @ä
+    * **dräng** `drä` STS @ä
   * **drung** `dru` : `G.dru` `N.dru`
 * **druck** `dru` : `dru.ei` `dru,(.e)` `ach.dru` `N.dru`
   * : **druck**er `dru.er` ! `dr.uk-er`
@@ -603,14 +603,13 @@
 * **flekt** `fl`
   : ! (flekt) `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.iO`
-* *fl****ieh*** `(.ih)` `eNT.ih`
+* *fl****ieh*** `(.ih)` : `eNT.ih`
   * **flieh** ⇒ *flieh* `fli`
   * *fl****oh*** `(.oh)` ! `.oh`
   * ***flucht*** `.ucht`
     * ***flücht*** `.ücht` : `.S.ücht.e`
       * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = beding
       * -*fl****ü****cht****ling*** ⇒ -*flüchtling* `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
-
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
@@ -631,7 +630,7 @@
 * ***form*** `.om` : `.om.al` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `.om,(.e)` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
   * ***form***alität `.om.ät` ! `.om.al.ät`
   * ***form***al*istisch* `.om.iS.i` ! `.om.al.iS.i`
-  * -*reform* `.om` → schul wahr
+  * → reform
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
 * fracht ← eig
@@ -678,7 +677,7 @@
 * *fühl* `Ül` STS : `G-Ül` `G-Ül,(g)` `G-Ül-Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül`
   * : **be***fühl*en `b-Ül` ! `b.e-Ül`
   * : tuch*fühl*<i></i>*ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
-  * : *fühl*en `Ül` ⇒ `.ül` STS ! `f.ül`
+  * : *fühl*en `Ül` ⇒ `f.ül`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * : **fuhr**e `fu-e` ! `fu.e`
 * *führ* `.ür` : `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`  ← fuhr
@@ -1890,6 +1889,7 @@
 * ***recht*** `echt` : `echt.L` `T-s:echt` `(.es):echt` `m.H,wa.echt`
   * ~ *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
+* -*reform* `.om` → schul wahr ← form
 * reg `r.eg` : `.an.r.eg.UNG` `b.S.o:er-r.ed`
 * **reg** `r` : `G.r.elt` `r.el.i`
   * : *reg****el*** `(.el)` : `(.el)-UNG` `.il,(.el)` `IN.el`
@@ -2100,7 +2100,7 @@
   * *general*<i></i>*sekretar*iat `g-s.ekr.at` ~ `g-s.at`
 * sel `s.el` : `s.el.i-er` `s.el.ist.e` `s.el.i-T`
   * : sel*ig* `s.el.i` ! `s.el.ig`
-    * -*seli****g*** `(g)` : `UN,(g)` → gefühl unglück vertrau
+    * -*seli****g*** `(g)` : `UN,(g)` → fühl glück trau
 * selb `s.eb` : `s.eb-er` `s.eb.i`
   * -*selb* `l` : `d.l.e` `(m).l `(n).l` `(r).l.e` `(.es).l` `I.l.e`
   * *selbst* `-st` : `-st,u-N` `-st-ko` `-st-l.os.i-T`
