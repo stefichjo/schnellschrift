@@ -2885,6 +2885,7 @@
     * : pr**o**<i></i>**v**is*ion* `(o)w-o` ! `(o)w.iO` E
     * : pr**o**<i></i>**v**isor**isch** `(o)w.or.i` E
     * : **re**<i></i>**v**is*ion* `r.w-o`
+    * vue `v.ü` : `r.w.ü`
 ---
 
 * *video* `vi.o` : `vi.os` `vi.o-t.ek` ← vid
