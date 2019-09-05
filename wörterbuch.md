@@ -2210,7 +2210,7 @@
       * : ab**s**olut*istisch* `.ab-s.ut.iS.i` × ab~~sol~~ut*istisch* `.ab.ut.iS.i` (BSA)
 ---
 
-* sommer `s.om`
+* *sommer* `s.om`
 
 ---
 * son `s.on` : `s.on.at.e`
