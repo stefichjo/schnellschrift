@@ -2193,11 +2193,11 @@
   * -*sinn* `.in` : `UN.in.i` `W.in.i` `.IN.iS.in.e` `.im.in.e` `.im.ei-L.in.e` → wahn
   * sann `s.an` : `er-s.an`
   * sonn `s.on` : `G.s.on` `er-s.on`
+* sist `s.i+st` : `IN.s.i+st.ir` `ko.s.i+st.ez` `tra.i+st.or`
+  * *exist* `.ex` :  `.ex.eNT` `.ex.ir` `.ex.irt.e` `.ex.ir.ed`
+    * : *exist*enz `.ex.ez` × `.ex`
 
 ---
-* sist `s.i+st` : `IN.s.i+st.ir` `ko.s.i+st.ez` `tra.i+st.or`
-  * *exist* `.ex` :  `.ex.eNT` `.ex.ir` `.ex.ir.ed` `.ex.irt.e`
-    * : *exist*enz `.ex.ez` × `.ex`
 * sit `s.it` : `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
 * **sitz** `si`
