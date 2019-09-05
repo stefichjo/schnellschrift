@@ -2451,23 +2451,25 @@
 
 #### [SPR](#wörterbuch)
 
+@an-aus
+
 * **sprech** `spr` : `eNt.spr` @an-aus
   * : *ent***sprech**end : `eNT.spr.ed` × `eNT.ed`
   * ***sprich*** ⇒ **sprich** `.ich` :  `.ich-o`
   * **sprach** `spra` : `spra-e` `g.wat,spra-e`
     * **spräch** `spr` : `G.spr`
-  * ***sproch*** ⇒ **sproch** `.och`
-  * ***spruch*** ⇒ **spruch** `.uch`
+  * **sproch** `.och`
+  * **spruch** `.uch`
     * -*spr****u****ch* ⇒ -*spruch* `u` : `.an,u` `N,u`
       * : *wider*<i></i>*spruch* `W,u` ~ `W-u`
-    * ***sprüch*** ⇒ **sprüch** `.üch`
-* ~~spr~~ing `(.ing)` STS : `.ab.ing`
+    * **sprüch** `.üch`
+* *spr****ing*** `(.ing)` STS : `.ab.ing`
   * ! `spr.ing`
-  * ~~spr~~ang `(.ang)` STS
+  * *spr****ang*** `(.ang)` STS
     * ! `spr.ang`
-  * ~~spr~~ung `(.ung)` : `eNT.ung` `.ur.ung` `O.ung` `zr.ung`
-    * ~~spr~~üng `(.üng)` STS
-	  * : *ur*~~spr~~üng*lich* `.ur.üng.L` * `.ur-Ü.L`
+  * *spr****ung*** `(.ung)` : `eNT.ung` `.ur.ung` `O.ung` `zr.ung`
+    * *spr****üng*** `(.üng)` STS
+	  * : ur*spr****üng****lich* `.ur.üng.L` ~ `.ur-Ü.L`
 
 ### [ST](#wörterbuch)
 
