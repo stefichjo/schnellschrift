@@ -2364,13 +2364,13 @@
 * **schiff** `.if`
 * *schilli****ng*** `(ng)`
 * schirm `sch.im`
-* schlacht ← schlag
+* **schlacht** `schla` : `schla.ih` ← schlag
+  * **schlächt** `schl`/`schlä` : `schl.er`
 * schlaf `schl.af`
 * ***schlag*** `.ag` : `.ag-er` `.ag-o` `G.ag` `.an.ag` `AU.ag` `ra.ag` `E.an.ag`
   * ***schläg*** `.äg` : `.äg.e` `.äg-er` `O.äg.e`
   * ***schlug*** `.ug`
-  * **schlacht** `schla` : `schla.ih`
-    * **schlächt** `schl` : `schl.er`
+  * → schlacht
 * **schlecht** `schl`
 * **schließ** `.iss`
   * **schloss** `.oss`
