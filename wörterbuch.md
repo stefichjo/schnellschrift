@@ -2482,8 +2482,8 @@
   * ***sprich*** ⇒ **sprich** `.ich` :  `.ich-o`
   * **sprach** `spra` : `spra-e` `g.wat,spra-e`
     * **spräch** `spr` : `G.spr`
-  * **sproch** `.och`
-  * **spruch** `.uch`
+  * ***sproch*** ⇒ **sproch** `.och`
+  * ***spruch*** ⇒ **spruch** `.uch`
     * -*spr****u****ch* ⇒ -*spruch* `u` : `.an,u` `N,u`
       * : *wider*<i></i>*spruch* `W,u` ~ `W-u`
     * **sprüch** `.üch`
