@@ -811,10 +811,10 @@
   * golt `got` : `G.got`
   * gült `güt` : `güt-ig` `güt-ig.T` `UN,güt-ig` `.ed,güt-ig` `gl,güt-ig` `echt,güt-ig.T`
     * *allgemein*gültig `.a-G,güt-ig` * `.a-G-Ü`
-* *ge****mein*** `G.N` : `G.N.H`
-  * *allgemein* `.a-G` ≠ allein : `.a-G.H` `.im.a-G`
+* *gem****ein*** ⇒ *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG` `la.N.e`
+  * *allgemein* `.a-G` : `.im.a-G`
     * : *ver*<i></i>*allgemein* `E.a-G` ! `E.al.G`
-  * *gemein* `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG` `la.N.e`
+  * ~ *ge****mein*** ⇒ *gemein* `G.N` : `G.N.H`
   * -*gemeinschaft* `N` → arbeit
 * *ge****nau*** `G.au`
 * gen `g.en` : `g.en.iaL`
@@ -1903,7 +1903,7 @@
 
 ## [R](#wörterbuch)
 
-* rad `r.ad`
+* rad `r.ad` : `sp.r.ad`
   * : **fahr**rad `fa.r.ad` ~ `fa.ad`
   * *gerad* `-G.a` : `-G.a.e`
 * rad `r.ad` : `r.ad.al` `r.ad.iS` @?
@@ -2220,7 +2220,7 @@
     * : *exist*enz `.ex.ez` × `.ex`
 * sit `s.it` : `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
-* **sitz** `si`
+* **sitz** `si` : `sp,si`
   * : **sitz***ung* `si.UNG` ~ `.iz*`
   * : be**sitz** `b-si` @-an
   * : *vor***sitz** `O-si` ~ `O-i` : `O-i.er` `O-i.ed-er` @-×an
@@ -2453,11 +2453,13 @@
 * **spar** `spa`
   * **spär** `sp` : `sp.L`
 * spaß `sp.ass`
-* **sp**ät `sp`
+* **sp**ät `sp` : `E.sp*` STS
   * : **sp**äter `sp.er` ! `sp.et-er`
-  * : **sp**ät*est*e `sp.est.e` ! `sp.est.e`
-  * : **sp**ät*est*ens `sp-t-s` ~ `sp.ens`
+  * : **sp**äteste `sp.est.e` ! `sp.est.e`
+  * : **sp**ätestens `sp-t-s` ~ `sp.ens`
 * spend `sp.ed` : `sp.ed.e`
+* **sperr** `sp` : `G.sp` `.ab.sp` `E.sp`
+  * ! `sp.err` : `sp.err.e` `sp.err-UNG`
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.iaL.ist-en` `sp.ieL`
   * : **spez***ifiz*ier `sp.if.ir` ~ `sp.ez.ir`
 * **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il`
@@ -3167,8 +3169,10 @@
 
 ### [WR](#wörterbuch)
 
-* wring `wr.ing` STS
-  * wrung `wr.ung`
+* wrack `wr.ak` : `.ab.wr.akt`
+* wring `wr.ing`
+  * wrang `wr.ang`
+  * wrung `wr.ung` : `G.wr.ung`
 
 ## [X](#wörterbuch)
 
