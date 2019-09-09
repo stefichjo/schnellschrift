@@ -316,9 +316,9 @@
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `.an.deu`
   * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
-* *deut****sch*** `(sch)`
-* *deutschland* `(sch)-a`
-  * : **bund**es*republik*.*deutschland* `bu:r.ik,(sch)-a` ~ `bu,(sch)-a`
+* *deut****sch*** `SCH`
+* *deutschland* `SCH-a`
+  * : **bund**es*republik*.*deutschland* `bu:r.ik,SCH-a` ~ `bu,SCH-a`
 * **di**- `di` STS
 * *dia*- `di`
   * ... `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @
@@ -3024,6 +3024,7 @@
 * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
   * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
+    * : **mehr**.~~oder~~.wen*ig*er `m.w.en.i-er` × `m.w`
 * *w****eis*** `(.eis)` : `b.eis` `b.eis.bar` `b.eis.iaL` `er.eis` `hn.eis` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
   * : *darauf* *hin*<i></i>*w****eis***en `dar-AU hn.eis` ~ `dar-AU-n`
   * : *ich* *m****uss*** *darauf* *hin*<i></i>*w****eis***en `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
@@ -3042,6 +3043,7 @@
 * wen ← wer
 * wen ← wein
 * wend ← wind
+* wenig ← wein
 * w~~enn~~ `w`
 * ***wer*** `wer`
   * wem `w.em`
@@ -3127,7 +3129,7 @@
 * *wir****k*** `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(k).L`
   * : *wir****k***sam****keit*** `(k)-Sa.T` ! `(k)-s.am.T`
   * : *ent*<i></i>*gegen*<i></i>*wir****k***en `eNT.g,(k)` × `eNT.k`
-  * : *darauf* *hin*<i></i>*wir****k***en `dar-AU` `hn,(k)` × `dar-AU.k`
+  * : *darauf* *hin*<i></i>*wir****k***en `dar-AU hn,(k)` × `dar-AU.k`
   * ! `w.ik`
 * **wirt** `wit`
   * *wirt*- `(wr)`
