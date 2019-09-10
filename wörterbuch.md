@@ -134,7 +134,7 @@
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
 * beiß `b.eiss` STS
   * biss `b.iss` STS
-    * → *bisschen* `bi.chen`
+    * *bisschen* `bi.chen`
 * bereit ← reit
 * berg `b.eg` : `b.eg.e` `E.b.eg`
   * birg `b.ig` : `G.b.ig.e`
@@ -151,6 +151,7 @@
   * : bibliograph `b.ibl.gra.I` ! `b.ibl.o+gra.I`
   * *biblio****thek*** `(t.ek)`
     * : *biblio****thek***ar**isch** `(t.ek).ar.i` × `(t.ek).i`
+* bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
 * ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `AU.it` `fa.it` `r.ur.it` `Ü.it`
@@ -185,6 +186,7 @@
 * ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `.I.it.sI` `M-r.it.e` `wr.it.sI`
   * bat `b.at`
   * bet `b.et` : `G.b.et` `UN-G.b.et`
+* bitter `b.it-er`
 * **blatt** `bla` : `.om.bla`
   * **blätt** `blä` : `bl.ech`
     * : **blätt**er `bl.er` ! `bl.et-er`
@@ -216,6 +218,7 @@
     * : *mit*<i></i>*bürg*er `M.bÜ-er` * `M-Ü-er`
 * bus `b.us`
   * -*bus* `(.us)` → aut
+* butter `b.ut-er` @-er
 
 ### [BR](#wörterbuch)
 
@@ -239,6 +242,9 @@
   * *bring* `.ing` : `.an.ing` `.S.ing` `b.ei.ing` `Ü.ing` `UN-W.ing.L` `E.ing` `Z.Sa.ing` `Z.fa.ing`
   * **bracht** `bra` : `(.an)bra` `(b.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z.Sa.bra`
     * **brächt** `br`/`brä` : `brä-e` @ä
+* **brud**er `bru` @-er
+  * **brüd**er `brÜ-er` `brÜ-er.l.N`
+    * **brüd**er*lich* `brÜ-er.L` × `brÜ-L`
 
 ## [C](#wörterbuch)
 
@@ -535,7 +541,7 @@
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
 * farm `f.am`
-* ***fass*** `fass` : `G.fass` `G.fass.H` `.an.fass` @?
+* ***fass*** `fass` : `G.fass` `G.fass.H` `.an.fass` @aus-an
   * ~ *fass* `.ass` : `AU.ass` `b.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
   * ***fäss*** `fess`
     * ! `f.ess` : `f.ess.er` `f.ess.ch.en`
@@ -564,7 +570,7 @@
   * fiehl `f.il` : `b.f.il`
   * fahl `f.al` : `b.f.al`
   * fohl `f.ol` : `b.f.ol`
-* *f****eier*** `(.ei-er)` : `(.ei-er).L` `G.ei-ert` `j.ub.ei-er`
+* *f****eier*** `(.ei-er)` : `(.ei-er).L` `G.ei-ert` `j.ub.ei-er` @-er
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
 * feld `f.ed` : `m.in.f.ed`
@@ -585,7 +591,7 @@
 * *fert* `-t` : `-t-ig` `-t-ig.T` `.an-t-ig` `.S-t-ig` `UN-t-ig`
 * fess ← fat
 * *fest* `f°`
-* *feuer* `feu` : `feu-ig` `.an.feu`
+* *feuer* `feu` : `feu-ig` `.an.feu` @-er
   * : *feuer*<i></i>*ung* `feu-UNG` ! `feu-er-UNG`
 * **fig** `fi` : `fi-ur` `ko,fi-ur.iO`
 * fili `f.il.I`
@@ -859,7 +865,7 @@
     * **günst** `gÜ` : `gÜ.i` `gÜ.i-er` `gÜ.ist` `UN-gÜ.i` `er b.gÜ.i-t.e .in` `I E.gÜ.i` `I E.gÜ.i-en`
 * gunst ← gönn
 * **gut** `gu`
-  * ***bess***er `bes-er`/`br°`
+  * ***bess***er `bes`/`br°`
     * × *besser* : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T`
   * best `b.est`
 
@@ -928,7 +934,7 @@
   * : hielt `hit`
     * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be***hielt* `b,hi` ! `b.e,hi`
-* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha,(.el)` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
+* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
   * : **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `G.ha.elt`
     * : **hand**elt.~~sich~~.um, **hand**elt.~~es~~.~~sich~~.um `ha.el.um` × `ha.um`
     * : **be**<i></i>**hand**eln `b.ha.el` × `b.ha`
@@ -1017,9 +1023,8 @@
     * *imm****er****hin* `(.er).in` ~ `.i-hn`
     * *nach*.außen.*hin* `ach.auss.in` ! `ach.auss:hn`
   * *hinter* `(I)t-er` : `(I)t-er.N.ad-er` `(I)t-er.h` `(I)t-er.m.i`
-* **hind** `hi` : `hi-er`
-  * : -**hind**er- `hi-er` × -**hind**~~er~~- ⇒ -*hinder*- `hi` : `hi.is` `hi.iss.e` `hi.L` `E,hi`
-    * : **be***hinder*n `b.e,hi` ~ `b,hi`
+* **hind** `hi` : `hi-er` `hi.L` `hi.is` `hi.iss.e` `E,hi` @-er
+  * : **be***hinder*n `b.e,hi` ~ `b,hi`
 * hinten, hinter → hin
 * *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er` @ie
   * : *liter*ar*histor***isch** `li.ar,hi-o.i` ! `l.it-er.ar,hi-o.i`
@@ -1203,6 +1208,8 @@
     * -*klausel* `au.el` → zent
 * *kl****ein*** `(N)` : `(N).er` `(N)-st` `(N).H` `(N).i-T` `(N).L.T` `E.N.er` `zr.N.er`
 * **klin** `kli` : `kli.ik`
+* koll
+  * *protokoll* `pr.ot.ok`
 * **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `IN.b.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
   * : *darauf* *zurück***komm**en `dar-AU u-rÜ.ko` ~ `dar-AU-Ü.ko`
   * : *zu*.*hilf*e.**komm**en `Z.hi.ko` ~ `Z.i-ko`
@@ -1210,8 +1217,6 @@
   * kam `k.am`
     * käm `k.äm` : `k.äm.e`
   * → kunft
-* koll
-  * *protokoll* `pr.ot.ok`
 * *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i`
   * : *kommun*<i></i>*ion* `ko-u.iO` * `o-u-O` STS ≠ *kommun*ikat*ion*
   * : *kommun*izieren `ko-u.ir`
@@ -1234,7 +1239,7 @@
   * corps `k.or`
     * -**corps** `ko` → diplom
   * → körp
-* **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E.kö.er` ← korp
+* **körp** `kö` : `kö.er` `kö.L` `kö.FT` `E.kö.er` ← korp @-er
   * : **körp**er*schaft*s*st****eu***er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
 * **kost** `kost` : `kost-en` `kost-bar` `kost-bar.T` `kost-il.i` `.S.kost` `UN-kost-en` `UN.kost,au.al.e` ← st
@@ -1248,10 +1253,8 @@
 * kult `kut` : `kut-iv.ir`
   * *kultur* `u.ur` : `u.ur.ell`
   * *kultus* `.us` : `.us.er` `.us.ko`
-* kumm `k.um`
-  * : kummer `k.um.er` × `k.um`
-  * kümm `k.üm`
-    * : kümmern `k.üm.er` × `k.üm`
+* *kummer* `k.um` @-er
+  * *kümmer* `k.üm`
 * **kund** `ku` : `ku.e` `ku.i` `ku.in` `ku.FT` `ku.FT.er` `er.ku` `er.ku.i` `.ur.ku.L` `UN-ku.i` ← könn
   * : **kund** `ku` ! `k.ud`
   * : ur**kund**e `.ur.ku.e` × `.ur.ku`
@@ -1307,11 +1310,10 @@
 
 * lad `l.ad`
   * ***last*** `.ast`
-* **land** `la` : `la.FT` `la.UNG` `.S.la` `(hi)z.la` `v.at-er.la`
+* **land** `la` : `la.FT` `la.UNG` `.S.la` `(hi)z.la` `(r).la`
   * *land****es*** `(.es)` : `(.es).ba`
     * : *land****es***<i></i>*amt* `(.es).a` ~ `.es.a`
     * -*landes* `-es` : `(.es)-es` `U.es-es`
-  * *vaterland* `(r).la`
   * **länd** `l` : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
     * ! `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
     * *län****der*** : `(d-er)` : `(I).N.el.d-er`
@@ -1450,13 +1452,14 @@
   * : *makl*er `m.ak-er`
 * mal `m.al`
   * -**mal** `ma` → denk ein jed manch
+    * : *manch*es mal `aCH.es m.al` ⇒ *manch*es.**mal** `.aCH.es.ma`
     * : -**mal**s `ma-s` → aber je mehr nie noch oft
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
   * : *manipul* `ma,u-` : `ma,u-O` `ma,u.ir`
   * : **per**<i></i>**man***ent* `p.ma.eNT` ~ `p.m.an.eNT`
-* *manch* `aCH` `aCH.l.ei` `.aCH.es.ma`
+* *manch* `aCH` `aCH.l.ei`
   * : *manch*er `aCH-er` ! `aCH.er`
   * : *manch***mal** `aCH.ma` ! `aCH.m.al`
 * **mand** `ma` : `ma.aNT` `ma.aNT.in`
@@ -1603,14 +1606,16 @@
 * *muster* `.ust`
 * ***mut*** `.ut`
   * : ***müt*** `.üt` : `gr.üt.i` `ho.üt.i`
+* mutter `m.ut-er` @-er
+  * mütter `m.üt-er` : `m.üt-er.L`
 
 ## [N](#wörterbuch)
 
 * *nach* `ach` : `hi:ach` ← nah
   * : *da*<i></i>*nach* `.a-ach` ! `(da)ach`
   * ~~*nach*~~***bar*** `(bar)`
-* *näch****st*** `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
-  * : *zu*<i></i>*näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z-n`
+  * *näch****st*** `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
+    * : *zu*<i></i>*näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z-n`
 * ***nacht*** `acht`
 * nah `n.ah` : `G.n.a-t`
   * *beinahe* `b.ei,(.e)`
@@ -1760,7 +1765,7 @@
   * -*pakt* `pa` → greif
 * pand `p.ad`
   * ***pans*** `pas` : `.e-pas-o`
-  * ***pass*** `pass` : `pass.ir` `pass.us`
+  * ***pass*** `pass` : `pass.ir` `pass.us` @aus-an
 * **par** `pa` : `pa.ad.e` `pa.ad.ir` `pa.ad.is` `.a-pa.at` `.a-pa-ur` `(r)pa.ir` `(r)pa-ur`
   * : **par**ität `pa.ät` ! `p.ar.ät`
   * : *trans***par***ent* `tra.pa.eNT` ~ `tra.pa.eNT`
@@ -2264,7 +2269,7 @@
       * : ab**s**olut*istisch* `.ab-s.ut.iS.i` × ab~~sol~~ut*istisch* `.ab.ut.iS.i` (BSA)
 ---
 
-* *sommer* `s.om`
+* *sommer* `s.om` @-er
 
 ---
 * son `s.on` : `s.on.at.e`
@@ -2428,6 +2433,7 @@
   * : schweden `schw.ed` × `schw`
 * **schwer** `schw`
   * **schwier** `.ir` : `.ir.i`
+* *schwester* `schw.est` @-er
 * schwier ← schwer
 * schwimm `schw.im`
   * schwamm `schw.am`
@@ -2470,7 +2476,7 @@
   * **spekt** `sp` : `(o)sp` `r.sp`
     * : *in***spekt***ion* `IN.sp*` STS ! `IN.sp.iO
   * spek `sp.ek` : `sp.ek.iO` `sp.ek.ir`
-* *sp****ort*** `(.ot)` : `(.ot).N`
+* *sp****ort*** `(.ot)` : `(.ot).N` `wi-er.ot`
 * spür `sp.ür`
 
 #### [SPR](#wörterbuch)
@@ -2517,7 +2523,7 @@
     * : *in***stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
   * → kost
 * stab ← st
-* **stadt** `sta` : `GR,sta` `gr.sta` `hau:sta` ← steh
+* **stadt** `sta` : `GR,sta` `gr.sta` `hau:sta` `(r),sta` ← steh
   * : *land****es***<i></i>**haupt**<i></i>**stadt** `(.es).hau:sta` × `(.es).hau`
   * **städt** `st` : `st.e` `st.i`
 * stall ← steh
@@ -2704,12 +2710,8 @@
 
 * test `t.est`
   * : test*ament* `t.e+st.eNT` × `t.e+st`
-
----
-* teuer `t.eu-er` (E)
-  * : teurer `t.eur-er` (E)
----
-
+* **teu**er `teu` : `b.teu` `E.teu` @-er
+  * : **teu**rer `teu-er` ! `t.eur-er`
 * ***text*** `ext`
   * *tex****til*** `(t.il)` ~ `t.il`
 * theater `t.e-at-er` : `t.e-atr.i`
@@ -2739,7 +2741,7 @@
 * tit `t.it` : `t.it.ur` `t.it.ir-UNG`
   * : titel `t.it.el` × `t.it`
   * *titel*- `ti` : `ti,18`
-* *tochter* `t.ocht`
+* *tochter* `t.ocht` @-er
 * *toler* `t.ol` : `t.ol.aNT` `t.ol.az` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
 * ~~t~~o~~n~~ `(.o)` : `b,(.o)` `er b,(.o)-t.e` `er b,(.o).e`
   * : ~~t~~o~~n~~*los* `(.o)-l.o` ! `(.o)-l.os`
@@ -2790,9 +2792,11 @@
 * trakt ← trah
 * *trans*- `tra`
   * **tran**- `tra`
-* **trau** `trau` : `trau.er`
+* **trau** `trau`
   * *misstrau* `ms-au` : `ms-au.um`
   * *vertrau* `E-au` : `E-au.L` `E-au,(g)` `E-au.um` `E-au-Ü.i`
+* **trau**er `trau.er` @-er
+  * **traur** `trau` : `trau.i` `trau.i-T`
 * traum `tr.aum`
   * träum `tr.äum`
 * **treff** `tr` : `tr.L` `(b)tr` `(Ü)tr` `UN-Ü.tr.L` `(O)tr.L` `Z.tr.ed`
@@ -2801,9 +2805,9 @@
     * ~ ***triff*** `.if` : `Ü.if`
   * **traf** `tra` : `(Ü)tra`
     * ! `tr.af` : `(b)tr.af`
-    * **träf** `tr` STS
-      * **träf**e `tr.e`/`trä` ! `tr.äf.e` @ä @e
-  * **troff** `.of` : `G.of` `.an.of` `b.of` `N.of` `Ü.of` `UN-Ü.of`
+    * **träf** `tr.e`/`trä` STS
+      * : **träf**e `trä-e` ! `tr.äf.e` @ä @e
+  * **troff** `.of` : `G.of` `.an.of` `b.of` `N.of` `Ü.of` `UN-Ü.of` @an-aus
 * ***tret*** `.et` STS
   * : *ver****tret***er `E.et-er` × `E.er`
   * ! `tr.et` : `G.tr.et`
@@ -2818,14 +2822,14 @@
   * ! `tr.eib`
   * **trieb** `tri` ⇒ `tr.i` : `G.tr.i`
     * : **be**<i></i>**trieb** `b,tri` ⇒ `(b)tr.i` ~ `b.ib`
-    * -*betrieb* `.ib` → groß handwerk
+    * -*betrieb* `.ib` → groß hand
 * **treu** `treu`
 * **trug** `tru` : `b.tru`
   * ! `tr.ug`
   * **trüg** `trÜ` : `(b)trÜ` `(b)trÜ-er` `(b)trÜ.ei-en` `(b)trÜ.i`
     * ! `tr.üg` : `tr.üg-er.i` `UN-tr.üg.L`
-  * **trog** `tro` : `(b)tro`
-    * ! `tr.og` : `G.tr.og`
+  * trog ⇒ *trog* `tr.og` : `G.tr.og`
+    * : **be***trog*en `(b)tr.og` × `(b)tr.o`
 
 ## [U](#wörterbuch)
 
@@ -2867,6 +2871,9 @@
 ## [V](#wörterbuch)
 
 * *val****id*** `(.id)` `IN.id.e` `IN.id.ät`
+* vater `v.at-er` @-er
+  * *vate****r***- `(r)` → land
+  * väter `v.ät-er`
 
 ---
 * **ven** `w`
@@ -2997,8 +3004,11 @@
 * wart `wat` : `wat-et.e` `er.wat` `er.wat-Ol`
   * -**wart**, --**wärt** `-t` : `-t-er` `-t-ig` `-ts` → an aus gegen rück seit vor
   * wärt `wet` : `wet-er`
-* ***was*** `was`
-* ***wass***er `was-er`
+* ***was*** `was` @aus-an
+* ***wass***er `was-er` : `was.ek` `was.FT` @aus-an @-er
+  * ***wäss***er `wes-er` : `eNT.wes-UNG`
+  * : ***wäss***rig `wes.i` ! `w.ess.r.i`
+  * : *ge****wäss***er `G.wes` ! `G.wes-er` ≠ gewächs
 * wechsel ← wachs
 * **weg** `w` : `.S.w` `(.es)w` `m.N.w` `U-t-w` `O.w` `AU.m.w`
   * ! `w.eg`
@@ -3010,7 +3020,7 @@
   * wind `w.id`
 
 ---
-* ***wehr*** `wer`
+* ***wehr*** `wer` @aus-an
   * : **bund**es***wehr*** `bu.wer` * `u-wer`
   * : *feuer****wehr*** `feu:wer` ~ `eu:wer`
   * : *ge****wehr*** `G.wer`
@@ -3075,7 +3085,7 @@
       * : *ent***würf**e `eNT.wÜ.e` ~ `eNT-Ü.e` @-×an
       * : *zer***würf***nis* `zer.wÜ.is` ~ `zer-Ü.is` @-×an
 * werk `w.ek` : `b.eg.w.ek` `hi.w.ek`
-  * *handwerk* `ha.ek` : `ha.ek.ib` `ha.ek-er`
+  * -***werk*** ⇒ -*werk* `.ek` → hand wasser
 * wert `wet` : `wet-Ol` `.ab.wet`
   * -*wert* `(-t)` → hoch nahr staun streb
 * wes ← sein
@@ -3123,7 +3133,7 @@
   * : *ge*winn `G.w.in` ~ `G.in`
   * wann `w.an` : `G.w.an`
   * wonn `w.on` : `G.w.on`
-* *winter* `wi-er`
+* *winter* `wi-er` : `wi-er.L` `Ü,wi-er` @-er
 * *wir* `wr`: `wr-I`
   * **d**ass.*wir* `d.wr` ~ `DR` (3-stufiges R)
 * *wir****k*** `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(k).L`
@@ -3182,8 +3192,10 @@
 
 ## [Z](#wörterbuch)
 
-| [ZR](#zr) |
-|:-:|
+| [ZR](#zr) | [ZW](#zw) |
+|:-:|:-:|
+
+@an-aus
 
 * **zahl** `za` : `za*` `ra.za*` `(b.ei)tra.za*`
   * **zähl** `z`/`zä` STS : `UN.z.i` @ä
@@ -3264,6 +3276,15 @@
 * zucht ← zieh
 * zug ← zieh
 * zünd `z.üd` : `IN.it.iaL,z.üd-UNG`
+
+### [ZR](#wörterbuch)
+
+* zr `zr` ← zirkonium
+
+### [ZW](#wörterbuch)
+
+@an-aus
+
 * **zwar** `zwa` : `&:zwa`
 * **zweif** `.eif` : `.eif.el`
   * : **zweif**el*los* `.eif.el.os` ~ `.eif-s`
@@ -3271,10 +3292,6 @@
 * **zweck** `zw` : `Z.iS:zw`
   * ! `zw.ek` : `zw.ek,di.L`
 * **zw**ischen `zw` : `(I)zw`
-
-### [ZR](#wörterbuch)
-
-* zr `zr` ← zirkonium
 
 ## TODOs
 
@@ -3294,8 +3311,14 @@
 * @-×an Andeutung einer Anlautkürzung nach Vorsilbe
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
+* @an-aus Anlautkürzung wird zu Auslautkürzung
 
 * @-× Ausfall des Stamms (auch bereits gekürzt) nach einer Vorsilbe -- :(
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 
-*~2 doppelte Verschattung :/
+* ~2 doppelte Verschattung :/
+* @aus-an Auslautkürzung (auf -s(s) oder -r) mit Anlaut
+  * Der Auslaut "ss"/"ß" wird nach rechtsrunden Zeichen eingerollt. Nach halbstufigem Zeichen wird "s" geschrieben.
+* @-er als Scheinnachsilbe, d.h. es existiert kein Wort ohne -er, z.B. Wasser
+  * "-er" wird nur alleinstehend mit dem Scheinstamm geschrieben: Wasser
+    * Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
