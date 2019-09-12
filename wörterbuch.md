@@ -1092,6 +1092,7 @@
 * init ← it
 * insel `.i-s.el` : `ha.i-s.el`
 * inser ← ser
+* instinkt → stinkt
 * *inter*- `(I)t-er`
   * *intell*- `IN.t`
 * *intrig* `(I)tr.ig` : `(I)tr.ig.e`
@@ -2574,20 +2575,13 @@
 * stet ← steh
 * *st****eu***er `eu-er` : `eu-er.L` `eu-er,i` `eu-er-UNG`
   * : um**satz***st****eu***er `.um-sa,eu-er` × `.um,eu-er` ~ `.um.eu-er`
-
----
-* **stig** `st.i` @i
-  * **stinkt** `st.i` BSA
-  * : *in***stinkt** `IN.st.i` ! `IN.st.i` (BSA)
-    * : X `IN.st.i-l.os` `IN.st.i-iv`
----
-
 * stick `st.ik`
 * stil `st.il`
 * **still** `.ill`
 * **stimm** `.im` : `.im:H`
   * *bestimm* `b°-i` : `b°-i-t`
     * : *mit*<i></i>*stimm* `M,b°-i` ~ `M°`
+* *stinkt* `st.i` : `ds.`IN.st.i` `IN.st.i-iv` `IN.st.i-l.o`  ← sting
 * stock `st.ok`
 * *stockholm* `st.ho`
 * **stoff** `.of` : `(k).of`
