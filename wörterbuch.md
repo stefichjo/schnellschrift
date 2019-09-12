@@ -84,7 +84,7 @@
   * *atlant*ik `.atl.ik` ~ `.atl-t-ik`
 * atlas `.atl.as`
 * *at****om*** `(.om)` : `(.om).ar`
-* auch `.auch`
+* auch `.auch` : `.auch,i`
   * -*auch* → aber oder sondern
 * *auf* `AU` : `.e-AU` `(n)AU`
   * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
@@ -1073,7 +1073,7 @@
 * ihr `.ir`: `.ir-er`
 * *illustr* `.ill` : `.ill.ir` `.ill.iO`
 * im ← in
-* *imm****er*** `(.er)` : `(.er):fr`
+* *imm****er*** `(.er)` : `(.er):fr` `(.er),i`
   * n*imm****er*** `(n.er)` : `(n.er).s.at`
 * in ← inn
 * *in* `IN` : `IN.s`
@@ -1581,6 +1581,7 @@
 * ***mög*** `.ög`
   * ~~***mög***~~*lich* `(L)` : `(o)ba.L` `(o)w.T.L`
     * : ***mög****lich*st `(L)-st` * `(L)-t`
+    * : *so*.weit.~~wie~~.~~***mög***~~*lich* `(o)w.T-L`
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
@@ -1810,7 +1811,7 @@
 * *person*, *persön* `p` : `p.al` `p.al.ko` `p.L`
 * **pfleg** `pfl`
   * **pflog** `pflo`
-* ***pflicht*** `.icht` : `.icht,u`
+* ***pflicht*** `.icht` : `.icht,u` `.icht,i`
   * -*pfl*<i></i>***i***<i></i>*cht* `i` → steuer
 * phon `f.on` : `f.on.ik` `f.on.i`
   * -ph~~on~~ `f` → grammo tele
@@ -2238,14 +2239,11 @@
   * saß `s.ass`
   * → sass
   * **setz** `s` : `er-s` `UN.er-s.L` `O.S-s` `UNTER-r,O-S-s`
-    * ! `s.ez` : `s.ezt.e` `G.s.ezt`
+    * ! `s.ez` : `s.ezt.e` `G.s.ezt` `b.s.ez*` `fr.s.ez*`
       * : `s.ez-er` ! `s.ez.er` : `s.ez.er.ei`
     * : *aus*einander**setz***ung* `.S.ei-ad-er.s.UNG` × `.S.ei-ad-er` @"einander"
     * *setz* `s` : `.ab.s` `b.s` `N.s` @-an
     * -*setz* `-s` : `eNT.g-s` `fr-s`
-    * ***setz****ung* ⇒ *setzung* `.ez*`
-      * : **be***setzung* `b.ez*` ! `b.s.ez*`
-      * : *fort*<i></i>*setzung* `fr.ez*` ! `fr.s.ez*`
     * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `-G,i` `(.es),-G` `UN-G.L`
       * : *gesetz*<i></i>*mäßig* `-G.i` ! `-G.ess.i`
       * : **grund***gesetz* : `gru.-G` ~ `GR`
@@ -2271,11 +2269,11 @@
 * *solch* `(s)ch`
   * -*solch*- `o` ← `IN.ei-em,o,fa` `IN,o,f.en`
 * *soll* `(S)`
+* solv `s.ow` : `s.ow.eNT` `s.ow.ir`
+  * : absolv `.ab.sow` ~ `.ab-s.ow` : `.ab-s.ow.ir` `.ab-s.ow.eNT`
+  * : *in*solvenz `IN.s.ow.ez` * `IN.s.o`
 
 ---
-* solv `s.ow`
-  * : solvier `s.ow.ir`
-  * : absolv*ent* `.ab-s.ow.eNT` ~ `.ab-s.ow.eNT`
   * **s**olut `s.ut`
     * : ab**s**olut `.ab-s.ut` × ab~~sol~~ut `.ab.ut` BSA
       * : ab**s**olut*ismus* `.ab-s.ut.iS` × ab~~sol~~ut*ismus* `.ab.ut.iS` (BSA)
@@ -2780,11 +2778,11 @@
 ### [TR](#wörterbuch)
 
 * tracht ← trakt
-* **trag** `tra` : `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `(b.ei)tra` `(er)tra` `(er)tra.eich` `n.S.tra` `ach.tra` `(Ü)tra`
-  * : *ver***trag** `(E)tra` * `E-a`
-    * : ***kauf****ver***trag** `.auf,(E)tra` × `.auf.tra`
+* **trag** `tra` : `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `(b.ei)tra` `(er)tra` `(er)tra.eich` `n.S.tra` `ach.tra` `(E)tra,i` `(Ü)tra`
+  * : ***kauf****ver***trag** `.auf,(E)tra` × `.auf.tra`
   * : *direkt*<i></i>*über***trag**<i></i>*ung* `di-Ü:tra` ~ `di-t-Ü:tra
   * : *liefer*<i></i>*ung*s*ver***trag** `l.i-er-UNG,(E)tra` × `l.i-er-UNG:tra`
+  * : *ver***trag** `(E)tra` * `E-a`
   * × ~~trag~~ : `b.an` `b.AU` `(r) .an` `.im:b.v`
   * **träg** `tr` : `(.an)tr.e` `(AU)tr.e` `(b)tr` `(b.ei)tr.e` `UN-er.tr.L` `(E)tr.L` `(E)tr.L.T` `UN-E.tr.L.T` @ä @
     * : *nach***träg**t `ach.tr`
@@ -3115,17 +3113,9 @@
 * *wid****m*** `(m)`
 * wie `w.i`
   * -*wie* `I` : `.i-I` `(o)I`
-
----
-* *wieder*, *wider*, *widr* `W` V
-  * .w**ie**der. `i`
-    * : imm***er***.w**ie**der `(.er),i`
-    * : auch.w**ie**der `.auch,i`
-  * -*w****i****drig* `i` → sitz
-    * : ***pflicht****w****i****drig* `.icht,i`
-    * : *ver***trag**s*w****i****drig* `(E)tra,i`
----
-
+* *wieder*, *wider*, *widr* `W`
+  * -w**ie**der ⇒ -*wieder* `i` → auch immer
+  * -*w****i****drig* ⇒ -*widrig* `i` → sitz
 * wieg `w.ig`
   * : *vor*wiegend `O.w.ig.ed` * `O.ig.ed`
   * : *mit* *über*wiegender **mehr***heit* `M Ü.w.ig.ed-er m.H` × `M-Ü.w.ig:H` * `M-Ü.w.H`
