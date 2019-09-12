@@ -132,9 +132,9 @@
   * *da*bei `.a-b.ei` * `a-b.ei`
   * *her*bei `.e-b.ei` * `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
-* beiß `b.eiss` STS
-  * biss `b.iss` STS
-    * *bisschen* `bi.chen`
+* **beiß** `b.ei` STS
+  * **biss** `bi` ⇒ `b.i` STS
+    * : **biss**chen `b.i-ch.en` ~ `bi.ch.en`
 * bereit ← reit
 * berg `b.eg` : `b.eg.e` `E.b.eg`
   * birg `b.ig` : `G.b.ig.e`
@@ -192,7 +192,7 @@
     * : **blätt**er `bl.er` ! `bl.et-er`
 * **blau** `blau`
 * **bleib** `bl.ei`
-  * **blieb** `bli` ⇒ `bl.i`
+  * **blieb** `bli` ⇒ `bl.i` @ei
 * bleich `bl.eich` : `bl.eich,u` `bl.eich-Ü.i`
 * ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik`
   * augen***blick*** `.aug.ik` * `au.ik` : `au.ik.L`
@@ -508,8 +508,8 @@
   * : *arb****eit***s*un***fäh***ig****keit*** `(T),UN-f.i-T` × `(T),UN-T`
 * **fahr** `fa` : `fa.bar` `fat` `G.fa` `G.fa-ol` `.ab.fa` `.ab.fat` `.S.fa` `b.fa.bar` `er.fa` `.if-fat` `UN-er.fa` `UN-er.fa.H` `E.fa` `Z.fat` `u-rÜ:fa`
   * : **fahr**er `fa-er` ! `f.ar-er`
-  * **fähr** `f` : `ft` `er.f` `G.fd` `G.f.L` `G.f.L.T` `G.ft.e` `G.ft.in` `UN-G,f.L` `(.l):f.i` `dU er.f .e`
-    * : **fähr**e `fe` ! `f.är.e`
+  * **fähr** `f`/`fä` STS : `ft` `er.f` `G.fd` `G.f.L` `G.f.L.T` `G.ft.e` `G.ft.in` `UN-G,f.L` `(.l):f.i` `dU er.f .e`
+    * : **fähr**e `fä-e` ! `f.är.e`
     * : *un*<i></i>*ge***fähr** `UN-G.f` × `UN.G`
   * **fuhr** `fu` : `.S.fu` `N.fu`
     * → führ
@@ -579,7 +579,9 @@
     * : offensiv `.o-fes.iv` * `.o-f.iv`
 * fenster `fest-er`
 * ***fer***n `fer` : `v.n.ah.fer`
-  * ! fern `f.en` : `f.en.er` `eNT.f.en` `IN,(o)f.en` `IN.w.i-f.en` `I eNT.f.en.en` `eNT.f.ent`
+  * *in*.~~so~~.***fer***n `IN.fer`
+  * *in*.wie.***fer***n `IN.w.i-fer` ~ `IN.i-fer`
+  * ! fern `f.en` : `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent`
 * **fer** `f` : `d.if.eNT` `d.if.ez` `d.if.ez.ir` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
     * : dif**fer**ier `d.if.ir` ! `d.if.er.ir`
     * : **kon**<i></i>**fer**enz `ko.f.ez` × `ko.f`
@@ -854,7 +856,7 @@
   * : ***wes***ens**gleich** `.es.gl.ei` : `.es.gl`
   * **glich** `gli` ⇒ `gl.i`
 * gleit `gl.T`
-  * glitt `gl.it`
+  * glitt `gl.it` @ei
 * ***glied*** `.id`
   * : *mit****glied*** `M.id` ~ `M-i`
 * ***glück*** `.ük` : `.ük.L` `.ück.L.eis.e` `b.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
@@ -1322,6 +1324,7 @@
   * → niederlande
 * **land**~~*wirt*~~*schaft* `la.FT` ~ *landwirtschaft* `a-(wr).FT` ≠ landschaft ← wirt
 * **lang** `ang` : `ang-Sa` `ang.fr.ist-ig` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
+  * eben~~so~~.*lang*e `.eb.ang.e`
   * **läng** `eng` : `eng-st` `eng-st-es` `eng-st-s`
     * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
     * * *länger* `eNGR` : `E.eNGR`
@@ -1371,6 +1374,8 @@
   * *lehrling* `l.ing`
 * **leicht** `l.ei`
   * : ***viel*****leicht** `.il-l.ei` ~ *vielleicht* `v.ei` @~2
+* leid @ei
+  * litt
 * leih `l.eih`
   * : anleih `.an.l.eih` ~ `.an.l.ei`
   * : lieh `l.ih`
@@ -1851,9 +1856,8 @@
       * : **post**ulier `po.ir` ! `po.ul.ir`
       * : *kom***post** ⇒ *komp****ost*** `kom.ost` : `kom.o+st.ir`
     * → pot
-* port `pot` : `pot-al` `(o)pot-iO`
+* port `pot` : `pot-al` `(o)pot-iO` `tra.pot`
   * : *pro*port*ional* `(o)pot-i-aL` × `(o)pot-al`
-  * : *trans*port `tra.pot`
   * : *un*<i></i>*pro*port*ion*iert `UN.o-pot-iO.irt` × `UN.o-port.irt`
   * *import* `.imp` : `.imp.ir` `.imp.ör`
 * pot `p.o` ← pon
@@ -1866,9 +1870,7 @@
     * : *re*<i></i>*publ*ikaner `(r)p.ub.ik.an-er` × `r.ik.an.er` × `r.ik-er`
     * : **bund**es*republik* `bu:r.ik` × `bu.ik`
 * *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO` `(ko)tra.pt.i` `(ko)tra.pt.iS.i`
-  * -p**u**nkt `u` → hoh kontr
-    * : *ge*<i></i>**sicht**sp**u**nkt `G,si,u` ~ `G,i,u` × `G,u` @-×an
-    * : *stand*p**u**nkt `and,u` ~ `a-pt`
+  * -p**u**nkt `u` → hoh kontr seh steh streit
 * put `p.ut`
   * : amputat*ion* `.am-p.ut.iO` * `.am-p-o`
   * : *comp*uter `kom.ut-er` * `kom-u.er` × `kom-u`
@@ -2074,6 +2076,8 @@
 * sand `s.ad`
 * ***sass*** `.ass` : `IN.ass.en` ← sitz
 * saß ← sitz
+* sau `s.au`
+* sauber `s.aub-er` @-er
 * saum `s.aum`
   * säum `s.äum` : `E-s.äum.is`
 * seel `s.el` : `s.el.e` `s.el,o-e`
@@ -2092,6 +2096,7 @@
       * : **be***auf***sicht***ig*te `b.AU,si.i-t.e` ~ `b.e,AU-i.i-t.e` ~ `b,AU-i.i-t.e` @-×an
     * : *ge***sicht** `G,si` ~ `G,i` : `an-G,si` ~ `an-G,i` @-×an
       * ~ *ge***sicht** `G.icht` ≠ gericht
+      * : *ge*<i></i>**sicht**sp**u**nkt `G,si,u` × `G,u`
     * : *zu*<i></i>*ver***sicht** `(Z)E-i` : `(Z)E-i.L` `(Z)E-i.L.T`
     * ~ ***sicht*** ⇒ *sicht* `.icht`
       * : **sicht*****bar*** `si.bar` ~ `.icht.bar`
@@ -2413,17 +2418,17 @@
   * **schrak** `schra`
   * **schrock** `schro`
 * schrei `schr.ei`
-  * schrie `schr.i`
+  * schrie `schr.i` @ei
 * **schreib** `.eib`
-  * **schrieb** `.ib`
+  * **schrieb** `.ib` @ei
   * **schrift** `.ift`
     * -schr**i**ft ⇒ -*schrift* `i` : `.ab,i` `M,i` `UNTER,i` `UNTER,i-en` `Z,i` → hand kurz schnell
-* **schreit** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
+* ***schreit*** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
   * ! `schr.T` : `schr.T-ed`
-  * : ein**schreit**en `N.T` ~ `N,(T)`
-  * **schritt** `.it` : `rÜ.it` `rÜ.it.L`
+  * : ein***schreit***en `N.T` ~ `N,(T)`
+  * ***schritt*** `.it` : `rÜ.it` `rÜ.it.L` @ei
     * ! `schr.it` : `G.schr.it`
-	  * : *fort***schritt** `fr.it` ~ `fr-i`
+	  * : *fort****schritt*** `fr.it` ~ `fr-i`
 * schrift ← schreib
 
 #### [SCHW](#wörterbuch)
@@ -2500,6 +2505,7 @@
   * *spr****ung*** `(.ung)` : `eNT.ung` `.ur.ung` `O.ung` `zr.ung`
     * *spr****üng*** `(.üng)` STS
 	  * : ur*spr****üng****lich* `.ur.üng.L` ~ `.ur-Ü.L`
+* sprint `spr.it` : `spr.it-er`
 
 ### [ST](#wörterbuch)
 
@@ -2532,6 +2538,7 @@
   * *gestalt* `-G.a-t`
 * stamm `st.am`
 * *stand* `and` : `N.E.and` × `N.E` ← steh
+  * : *stand*p**u**nkt `and,u` ! `and.pt` ~ `a-pt`
   * *ständ* `end` : `end.e`
     * : *selbst*~~ständ~~*ig* `-st-ig`
     * : *selbst*~~verständ~~*lich* `-st-L`
@@ -2607,7 +2614,7 @@
 @an-aus
 
 * **straf** `stra` : `stra-e`
-  * -*strafe* `(.e)` → geld
+  * -*straf****e*** `(.e)` → geld
 * strahl `str.al` : `str.al.ed` `str.al,u`
   * : *aus*strahlen `(.S)str.al` ~ `(.S)stra`
 * **straß** `stra` : `stra-e`
@@ -2622,14 +2629,11 @@
   * ***strich*** `.ich` : `f-er.ich`
 * ***streik*** `.eik`
   * *general****streik*** `g.eik`
-
----
-* string `str.ing`
-  * : stringent `str.ing.eNT`
-  * strikt `str.ikt`
-    * : distrikt `d.i+str.ikt` (BSA) ~ `(ds)tr.ikt` (BSA)
----
-
+* streit `str.T` : `str.T,u`
+  * stritt `str.it` @ei
+* string `str.ing` STS : stringent `str.ing.eNT`
+  * strikt `str.ikt` STS
+    * : distrikt `di:str.ikt` ~ `(ds)tr.ikt`
 * stroph `str.of`
   * : *katastroph* `k.at` : `k.at.e` `k.at.al`
 * **strom** `.om` : `.om,(er)` STS
@@ -2820,7 +2824,7 @@
     * ! `tr.at` : `(E)tr.at`
 * **treib** `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(b.ei)tr.ei`
   * ! `tr.eib`
-  * **trieb** `tri` ⇒ `tr.i` : `G.tr.i`
+  * **trieb** `tri` ⇒ `tr.i` : `G.tr.i` @ei
     * : **be**<i></i>**trieb** `b,tri` ⇒ `(b)tr.i` ~ `b.ib`
     * -*betrieb* `.ib` → groß hand
 * **treu** `treu`
@@ -3146,15 +3150,15 @@
     * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT-er` `FT.N` `FT.L.e,ig`
       * : *ge*werb*lich*e ~~*wirt*~~*schaft* `G.L.e FT` ~ `G.L.FT`
       * : → landwirtschaft
-* **wiss** `.iss` : `.iss-t-L` `.iss,(-t)` `G.iss` `G.iss.H` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
-  * *wissenschaft* `wi.FT`
-  * : *ver*<i></i>*ge***wiss**ern `E.iss-er` ~ `E.-G` : `E.-G-t.e`
-  * **weiß** `.eiss` : `.I.eiss`
-  * **wuss** `.uss`
+* *wiss* `.iss` : `.iss-t-L` `.iss,(-t)` `G.iss` `G.iss.H` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss` @aus-an
+  * **wiss**en*schaft* ⇒ *wissenschaft* `wi.FT`
+  * : *ver*<i></i>*ge*<i></i>*wiss*ern `E.iss-er` ~ `E.-G` : `E.-G-t.e`
+  * *weiß* `.eiss` : `.I.eiss` @ei
+  * *wuss* `.uss`
     * ! `w.uss` : `w.usst.e`
     * -bew**u**sst ⇒ -*bewusst* `u` → mir pfleg selbst wort
       * -*bewusst*~~s~~ein : `u-N` → selb
-  * **wüss** `.üss`
+  * *wüss* `.üss`
     * ! `w.üss` : `w.üsst.e`
 * **witw** `wi` : `wi-er`
 * witz `w.iz` : `w.iz.i` `w.iz.os`
@@ -3215,7 +3219,7 @@
   * : ***zeich***nen `.eich` ! `z.eich` ≠ reichen
 * ***zeig*** `.eig`
 * **zeih** `z.ei` : `E.z.ei`
-  * **zieh** `z.i` STS : `E.z.i`
+  * **zieh** `z.i` STS : `E.z.i` @ei
   * *zicht* `-i-` : `E-i`
     * **be***zicht**ig*en `b-i.i` ~ `b.z.i`
 * zeil `z.eil`
@@ -3322,3 +3326,6 @@
 * @-er als Scheinnachsilbe, d.h. es existiert kein Wort ohne -er, z.B. Wasser
   * "-er" wird nur alleinstehend mit dem Scheinstamm geschrieben: Wasser
     * Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
+
+* @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
+
