@@ -454,13 +454,13 @@
 * em
   * emp
     * *exemp*, *exempl* `.ex` : `.ex.el` `.ex.ar` `.ex.ar.i`
-* emp*f****a****ng* ⇒ *empfang* `.emp-a` ← fang
-  * emp*f****ä****ng* ⇒ *empfäng* `.emp-e`
-  * emp*f****i****ng* ⇒ *empfing* `.emp-i`
+* *empfang* = emp*f****a****ng* `.emp-a` ← fang
+  * *empfäng* = emp*f****ä****ng* `.emp-e`
+  * *empfing* = emp*f****i****ng* `.emp-i`
 * emp*f*<i></i>***e***<i></i>*hl* `.emp-e` ← fehl
   * emp*f*<i></i>***ie***<i></i>*hl* `.emp-i`
   * emp*f*<i></i>***a***<i></i>*hl* `.emp-a`
-  * emp*f*<i></i>***o***<i></i>*hl* ⇒ emp~~fohl~~ `.emp`
+  * emp*f*<i></i>***o***<i></i>*hl* `.emp-o` × `.emp`
 * end `.ed` : `.ed.e` `b.ed.et` `b.ed.i` `Ol.ed` `.ed.L` `UN.ed.L`
   * *un*end*lich*<i></i>*keit* `UN.ed.L.T` × `UN.ed.T`
 * -end `.ed` → dutz jug
@@ -530,12 +530,12 @@
   * : *famili*e `f.am.e` × `f.am`
 * *f****ang*** `(ang)` STS : `N.ang` `fi.ang`
   * ! `f.ang`
-  * ~ **fang** ⇒ *fang* `fa` ≠ gang : `.an.fa` `b.fa` `.um.fa`
+  * ~ *fang* = **fang** `fa` ≠ gang : `.an.fa` `b.fa` `.um.fa`
     * : um**fang***r****eich*** `.um.fa:eich` × `.um:eich`
   * → empfang
   * *f****äng*** `(eng)` : `E.eng.L`
     * ! `f.eng`
-    * ~ **fäng** ⇒ *fäng* `f` : `G.f.is` `.an.f-er`
+    * ~ *fäng* = **fäng** `f` : `G.f.is` `.an.f-er`
   * *f****ing*** `(.ing)`
     * ! `f.ing`
 * fant `fat` : `fat-as.I` `fat-as.ir` `fat-ast` `fat-a+st.i`
@@ -609,17 +609,17 @@
   * → finanz
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
-* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi`
+* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi` @i
   * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
-    * : *emp***find**en `.emp-f.i` ⇒ `.emp-i` @-×an
-    * : *er***find**er `er.f.i-er` ! `er,fi-er`
+    * : emp**find**en `.emp-f.i` ⇒ *empfind*en = emp*f****i****nd***en `.emp-i` @-×an
+    * : *er***find**er `er.f.i-er` ! `er,fi-er` @i
   * **fand** `fa` : `b.fa`
     * ! `f.ad`
-    * : *emp***fand** `.emp-fa` ⇒ `.emp-a` @-×an
+    * : emp**fand** `.emp-fa` ⇒ `.emp-a` @-×an
 	* **fänd** `f`/`fä` STS @ä
 	  * ! `f.äd`
   * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu`
-    * : *emp***fund**en `.emp-fu` ⇒ `.emp-u` @-×an
+    * : emp**fund**en `.emp-fu` ⇒ `.emp-u` @-×an
 * **fing**er `fi-er`
 * **finst**er `fi-er`
 * *firm* `im` : `im.a` `im.en` `im.ir`
@@ -645,12 +645,12 @@
   : ! (flekt) `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.iO`
 * *fl****ieh*** `(.ih)` : `eNT.ih`
-  * **flieh** ⇒ *flieh* `fli`
+  * *flieh* = **flieh** `fli`
   * *fl****oh*** `(.oh)` ! `.oh`
   * ***flucht*** `.ucht`
     * ***flücht*** `.ücht` : `.S.ücht.e`
       * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = beding
-      * -*fl****ü****cht****ling*** ⇒ -*flüchtling* `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
+      * -*flüchtling* = -*fl****ü****cht****ling*** `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
@@ -661,7 +661,7 @@
 * flucht ← flieh
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
-  * : *er***folg** `er.fo` × *er*~~folg~~ ⇒ *erfolg* `er`
+  * : *er***folg** `er.fo` × *erfolg* = *er*~~folg~~ `er`
   * : *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* `er,r.ei` @~2
   * : *in***folg** `IN.fo` ~ `IN.o`
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
@@ -3282,6 +3282,13 @@
   * ! `zw.ek` : `zw.ek,di.L`
 * **zw**ischen `zw` : `(I)zw`
 
+## …
+
+Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem Wörterbuch als *Kürzel* aufgeführt. (~)
+
+* *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei`
+* ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei`
+
 ## TODOs
 
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
@@ -3291,10 +3298,6 @@
 * @ie `I.e(n)`/`.i-e(n)`
 * @isier
 * @ü `-ü` statt `-Ü`, wieso?
-* Winkler verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
-* Winkler verwendet auch `.eNT` statt `.met` (sortiment)
-* Winkler erlaubt `(I).iS` statt `IN.iS`
-* Winkler rollt das `s` nach `ko` immer ein.
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-×- Ausfall einer Nicht-Kürzung zwischen Vor- und Nachsilbe
 * @-×an Andeutung einer Anlautkürzung nach Vorsilbe
@@ -3313,4 +3316,11 @@
     * Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
 
 * @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
+
+### Winkler
+
+* Winkler verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
+* Winkler verwendet auch `.eNT` statt `.met` (sortiment)
+* Winkler erlaubt `(I).iS` statt `IN.iS`
+* Winkler rollt das `s` nach `ko` immer ein.
 
