@@ -2272,23 +2272,13 @@
 * solv `s.ow` : `s.ow.eNT` `s.ow.ir`
   * : absolv `.ab.sow` ~ `.ab-s.ow` : `.ab-s.ow.ir` `.ab-s.ow.eNT`
   * : *in*solvenz `IN.s.ow.ez` * `IN.s.o`
-
----
-  * **s**olut `s.ut`
-    * : ab**s**olut `.ab-s.ut` × ab~~sol~~ut `.ab.ut` BSA
-      * : ab**s**olut*ismus* `.ab-s.ut.iS` × ab~~sol~~ut*ismus* `.ab.ut.iS` (BSA)
-      * : ab**s**olut*istisch* `.ab-s.ut.iS.i` × ab~~sol~~ut*istisch* `.ab.ut.iS.i` (BSA)
----
-
+  * **s**ol `s` : `r.s.ut` `r.s.iO`
+    * × ~~sol~~ : `ab.ut` `.ab.iS`
+      * : ab~~sol~~ut*istisch* `.ab.ut.iS.i` × `.ab.ut.i`
 * *sommer* `s.om` @-er
-
----
 * son `s.on` : `s.on.at.e`
-  * *dis*sonanz `ds.s.on.az` (BSA) ! `d.is-s.on.az` (BSA)
-  * *son* `s`
-    * : **kon***s*onant `ko-s.aNT`
----
-
+  * : *dis*sonanz `ds.s.on.az` ! `d.is-s.on.az` × `d.is-s.o`
+  * **kon***s*on ⇒ *konson* `ko-s` : `ko-s.aNT`
 * *sonder* `S` : `S.bar` `S-au` `S.barst.e`
   * *besonder*, *besonders* `b°`
     * -*besonder* `-S` → ganz in merk
