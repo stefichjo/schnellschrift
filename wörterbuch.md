@@ -1374,8 +1374,8 @@
   * *lehrling* `l.ing`
 * **leicht** `l.ei`
   * : ***viel*****leicht** `.il-l.ei` ~ *vielleicht* `v.ei` @~2
-* leid @ei
-  * litt
+* leid
+  * litt @ei
 * leih `l.eih`
   * : anleih `.an.l.eih` ~ `.an.l.ei`
   * : lieh `l.ih`
@@ -2419,9 +2419,9 @@
   * **schrock** `schro`
 * schrei `schr.ei`
   * schrie `schr.i` @ei
-* **schreib** `.eib`
-  * **schrieb** `.ib` @ei
-  * **schrift** `.ift`
+* ***schreib*** `.eib`
+  * ***schrieb*** `.ib` @ei
+  * ***schrift*** `.ift`
     * -schr**i**ft ⇒ -*schrift* `i` : `.ab,i` `M,i` `UNTER,i` `UNTER,i-en` `Z,i` → hand kurz schnell
 * ***schreit*** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
   * ! `schr.T` : `schr.T-ed`
