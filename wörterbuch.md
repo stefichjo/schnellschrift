@@ -326,7 +326,7 @@
 * *deut****sch*** `SCH`
 * *deutschland* `SCH-a`
   * : **bund**es*republik*.*deutschland* `bu:r.ik,SCH-a` ~ `bu,SCH-a`
-* **di**- `di` STS
+* di- `d.i-` STS
 * *dia*- `di`
   * ... `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @
 * *die* `I`
@@ -643,7 +643,7 @@
   * : rind***fleisch*** `r.id.eisch` ~ `ri.eisch`
 * **flekt** `fl`
   : ! (flekt) `fl.ekt`
-  * **flex** `fl` : `fl.ib.el` `fl.iO`
+  * **flex** `fl` : `fl.ib.el` `fl.ib.ät` `fl.iO`
 * *fl****ieh*** `(.ih)` : `eNT.ih`
   * *flieh* = **flieh** `fli`
   * *fl****oh*** `(.oh)` ! `.oh`
@@ -662,7 +662,7 @@
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
   * : *er***folg** `er.fo` × *erfolg* = *er*~~folg~~ `er`
-  * : *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* `er,r.ei` @~2
+  * : *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei` @~2
   * : *in***folg** `IN.fo` ~ `IN.o`
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er**forder**lich* `er.F.L` ~ `er.o-L`
@@ -1212,7 +1212,7 @@
   * ***klaus*** `.aus` : `.aus.e`
     * -*klausel* `au.el` → zent
 * *kl****ein*** `(N)` : `(N).er` `(N)-st` `(N).H` `(N).i-T` `(N).L.T` `E.N.er` `zr.N.er`
-* **klin** `kli` : `kli.ik`
+* **klin** `kli` : `kli.ik` `.un.ät,kli.ik`
 * koll
   * *protokoll* `pr.ot.ok`
 * **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `IN.b.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
@@ -1376,7 +1376,7 @@
   * *lehrer* `er-er` : `fa.er-er`
   * *lehrling* `l.ing`
 * **leicht** `l.ei`
-  * : ***viel*****leicht** `.il-l.ei` ~ *vielleicht* `v.ei` @~2
+  * : ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei` @~2
 * leid
   * litt @ei
 * leih `l.eih`
@@ -1969,14 +1969,14 @@
     * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
   * : **reg**ulieren `r.ir` ! `r.ul.ir`
     * : **reg***ul*at*ion* `r.ul.iO`
-  * **r**ig ⇒ *rig* `r`
-    * : **di***rig* `di.r` ! di*rig* ⇒ *dirig* `d.ir` : `d.ir.ir` `d.ir.iS.i`
-    * : **di***rig*<i></i>*ent* `di.r.eNT` × `di.eNT`
+  * *rig* = **r**ig `r`
+    * : di*rig* `d.i-r` : `d.i-r.ir` `d.i-r.iS.i`
+    * : di*rig*<i></i>*ent* `d.i-r.eNT` × `d.i-eNT` ~ `di.eNT`
     * : kor*rig*ieren `k.or-r.ir` ! `k.or-r.ig.ir`
   * **rekt** `r` : `r.or` `k.or-r` `k.or-r.H` `k.or-r.ur`
     * : **rekt**orat `r.or.at` ~ `r.ekt-at`
-    * : **di**<i></i>**rekt** `di.r` × **di**~~rekt~~ ⇒ *direkt* `di` : `di.iO` `di.iv.e` `di.or` `di.or.in`
-      * : *direkt* `di` ~ `(d-t)` : `IN.d-t`
+    * : di**rekt** `d.i-r` ~ *direkt* = **di**~~rekt~~ `di` : `di.iO` `di.iv.e` `di.or` `di.or.in` @~2
+      * : *in*<i></i>*direkt* `(IN)di` ~ `IN.d-t`
     * : **kon**<i></i>**rekt**or `ko.r.or` ! `ko.r.ekt-or`
 * *r****eich*** `(.eich)` : `b.eich` `Ü.eich` `hi.eich`
   * : *r****eich****lich* `(.eich).L` ~ `r.ei-L`
@@ -2605,7 +2605,7 @@
 @an-aus
 
 * **straf** `stra` : `stra-e` `stra.bu`
-  * -*straf****e*** `(.e)` → geld
+  * -*straf****e*** `(.e)` → geld ven
 * strahl `str.al` : `str.al.ed` `str.al,u`
   * : *aus*strahlen `(.S)str.al` ~ `(.S)stra`
 * **straß** `stra` : `stra-e`
@@ -2624,7 +2624,7 @@
   * stritt `str.it` @ei
 * string `str.ing` STS : stringent `str.ing.eNT`
   * strikt `str.ikt` STS
-    * : distrikt `di:str.ikt` ~ `(ds)tr.ikt`
+    * : distrikt `d.i:str.ikt` ~ `(ds)tr.ikt`
 * stroph `str.of`
   * : *katastroph* `k.at` : `k.at.e` `k.at.al`
 * **strom** `.om` : `.om,(er)` STS
@@ -2831,39 +2831,24 @@
 * vater `v.at-er` @-er
   * *vate****r***- `(r)` → land
   * väter `v.ät-er`
-
----
-* **ven** `w`
-  * : *inter***ven**ier `(I)t-er.w.ir`
-  * *vent* `v.et`
-    * : e*vent*ualität `.e-w.et.ät` * `.e-v.ät`
-  * **v**ent `w` ! `w.et` E
-    * : e*vent*ualität `.e-w.ät` ! `.e-w.et.al.ät`
-    * : evtl. `.e-v-t-l`
-    * : *in***v**entar `IN.w.ar` ! `IN.w.et.ar` (BSA) ~ `IN-t-ar`
-      * : X `IN.w.et.ar.ir`
-    * : *in***v**entur `IN.w-ur` ! `IN.w.et.ur` (BSA) ~ `IN-t-ur`
-    * : **kon**<i></i>**v**ent*ion* `ko.w-o` ! `ko.w.et.iO` (E)
-    * : *inter***v**ent*ion* `(I)t-er.w-o` ! `(I)t-er.w.et.iO` E
-* *ver*- `E` V
----
-
+* **ven** `v` : `(I)t-er.w.ir` `(I)t-er.w-o` @vw
+  * *vent* `v` : `.e-v.ät` `ko.w-o` `ko.w.i-aL,(.e)`
+    * evtl. `.e-v-t-l`
+    * *invent* = *in**ven****t*** `IN-t` : `IN-t-ar` `IN-t-ar.ir` `IN-t-ur`
+* *ver*- `E`
 * verletz ← letz
 
+* vert `vet` : `ko.wet-ir` `ko.wet-ib.ät`
+  * vers `v.es` : `v.es.irt` `IN.w.es` `IN.w.es.iO` `ko.w.es.iO`
+    * : vers*ion* `v.es.iO` ~ `w.es.iO`
+    * : **kon**versat*ion* `ko.w.es.iO` ! `ko.w.es.at.iO` ≠ konversion
+    * uni~~vers~~ `.un` : `.un.al` `.un.ell` `.un.ät` `.un.um`
+
+`d.i-w.es`
+`d.i-w.es.iO`
+
+
 ---
-* vert `wet`
-  * : **kon**vertier `ko.wet-ir`
-  * vers `v.es`
-    * : divers `d.i-w.es`
-    * : divers*ifik*at*ion* `d.i-wes.if-o` ! `d.i-w.es.if-o`
-    * : *in*vers `IN.wes` ! `IN.w.es`
-    * : *in*vers*ion* `IN.wes-o` ! `IN.w.es.iO`
-    * : **kon**vers*ion* `ko.wes-o` ! `ko.w.es.iO`
-    * *univers* `.un` E
-      * : *univers*al `.un.al` E
-      * : *univers*ell `.un.ell` E
-      * : *univers*ität `.un.ät` E
-      * : *univers*um `.un.um` E
 * **vest** `v`
   * : *in***vest**it*ion* `IN.w-o`
 * **v**id `v`
@@ -3247,6 +3232,7 @@
 
 Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem Wörterbuch als *Kürzel* aufgeführt. (~)
 
+* di**rekt** `d.i-r` ~ *direkt* = **di**~~rekt~~ `di`
 * *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei`
 * ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei`
 
@@ -3277,6 +3263,7 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
     * Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
 
 * @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
+* @vw v wird zu w
 
 ### Winkler
 
