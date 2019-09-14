@@ -516,8 +516,8 @@
     * → führ
 * **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `G.g.fa-s` `gl.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z.fa` `zw.fa` `(AU)j.fa` `f.fa.d` `.im.ad-er:fa` `IN.iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
   * : eben**fall**s `.eb.fa-s` * `.e-fa-s`
-  * : keinesfalls `(K):fa-s` ~ `k.fa-s`
-  * : *auf*.keinen.fall `AU.K.fa` ~ `AU.k.fa`
+  * : keines**fall**s `(K):fa-s` ~ `k.fa-s`
+  * : *auf*.keinen.**fall** `AU.K.fa` ~ `AU.k.fa`
   * **fäll** `f` : `f.e` `f.i` `f.i-T` `G.f.i` `G.f.i-T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G.f.i` `UN-G.f.i-T` `Z.f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
   * **fiel** `fi` STS
     * ! `f.il` : `AU.f.il`
@@ -2167,8 +2167,8 @@
   * v~~on~~ **u**nserer ***seit***e `v u-er-er T.e` ~ `v,u-er-er.T.e`
   * seit `s.T`
 * *sekretar*, *sekretär* `s.ekr` : `s.ekr.at` `s.ekr.in`
-  * *general*<i></i>*sekretär* `g-s.ekr` ~ `g-s.är`
-  * *general*<i></i>*sekretar*iat `g-s.ekr.at` ~ `g-s.at`
+  * *general*<i></i>*sekretär* `g.s.ekr` ~ `g-s.är`
+  * *general*<i></i>*sekretar*iat `g.s.ekr.at` ~ `g-s.at`
 * sel `s.el` : `s.el.i-er` `s.el.ist.e` `s.el.i-T`
   * : sel*ig* `s.el.i` ! `s.el.ig`
     * -*seli****g*** `(g)` : `UN,(g)` → fühl glück trau
@@ -2984,7 +2984,7 @@
   * wen `w.en`
   * wes `w.es` : `w.es.ha`
 * werb `w.eb`
-  * **be**werben `b.w.eb` * `b.w`
+  * **be**werben `b.w.eb` * `b.w` : `b.w-er`
     * : *wettbewerb* `w°` : `w°-er`
   * *er*werben `er.w.eb` * `er.w`
   * *ge*werb `G.w.eb`
@@ -3138,6 +3138,7 @@
 * zeil `z.eil`
 * ***zeit*** `T` : `u-er-er.T` `(I)r.let-T` `IN,(-st)-T`
   * : *arb****eit***s***zeit*** `(T)-s.T` ~ `Ts.T`
+  * : **frag**e.~~der~~.***zeit*** `fra.T`
   * : *vor*.*länger*er.***zeit*** `O.eNGR.T`
 * zend `z.ed` : `tra.z.ed.eNT`
 * zent `zet` : `zet-er`
