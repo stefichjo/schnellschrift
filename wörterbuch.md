@@ -868,6 +868,8 @@
     * **günst** `gÜ` : `gÜ.i` `gÜ.i-er` `gÜ.ist` `UN-gÜ.i` `er b.gÜ.i-t.e .in` `I E.gÜ.i` `I E.gÜ.i-en`
 * gunst ← gönn
 * **gut** `gu`
+  * **güt** `gÜ`
+    * : *in***vest**it*ion*s**güt**er `IN.w-O.gÜ-er` ~ `IN.w-O-Ü.er` @-Ü
   * ***bess***er `bes`/`br°`
     * × *besser* : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T`
   * best `b.est`
@@ -1352,7 +1354,7 @@
   * ***lief*** `.if` : `b.if`
     * ! `l.if`
   * ***läuf*** `.äuf` : `G.äuf.i`
-    * : *vor**läuf**ig* `O.äuf.i` * `O,eu`
+    * : -*läufig* `eu` : `O,eu` → zwang
 * laut `l.aut` : `l.aut-er`
   * : *ver*lauten `E.l.aut` * `E-au` STS
     * : *ver*laut***bar***en `E.l.aut.bar` * `E-au-bar`
@@ -1476,7 +1478,7 @@
   * : **land**s**mann** `la.ma` ! `la-s.ma` ≠ landmann
   * **männ** `m` : `m.er` `m.L` `.auf.m.i`
 * **mann*****heim*** `ma.eim`
-* *mar****kt*** `(kt)` : `vi.kt`
+* *mar****kt*** `(kt)` : `vi.kt` `d.is.kt`
   * : *arb****eit***s*mar****kt*** `(T)-kt` ~ `T-kt`
   * : welt*mar****kt*** `wet.kt` ~ `(-t),(-t)`
 * *marokk* `ma.ok`
@@ -2613,6 +2615,9 @@
     * ***seit***en*straß****e*** : `T,(.e)` ~ `s.T.en,(e)`
 * **streb** `str` : (er)str,(-t)`
   * : **be**<i></i>**streb**t `(b)str-t` × `(b)str`
+* streck `str.ek` : `str.ek.e`
+  * : *er*strecken `(er)str.ek` ~ `(er)str`
+  * *die* **zwang**s*voll*streck*ung* `I ang-Ol.str.ek` × `I ang-Ol`
 * **streng** `str` : `(Ü.an)str`
 * *str****eit*** `(T)`
   * *str****itt*** `(.it)`
@@ -2740,7 +2745,7 @@
 ### [TR](#wörterbuch)
 
 * tracht ← trakt
-* **trag** `tra` : `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `(b.ei)tra` `(er)tra` `(er)tra.eich` `n.S.tra` `ach.tra` `(E)tra,i` `(Ü)tra`
+* **trag** `tra` : `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `(b.ei)tra` `(er)tra` `(er)tra.eich` `n.S.tra` `ach.tra` `v.is.um.an.tra` `(E)tra,i` `(Ü)tra`
   * : ***kauf****ver***trag** `.auf,(E)tra` × `.auf.tra`
   * : *direkt*<i></i>*über***trag**<i></i>*ung* `di-Ü:tra` ~ `di-t-Ü:tra
   * : *liefer*<i></i>*ung*s*ver***trag** `l.i-er-UNG,(E)tra` × `l.i-er-UNG:tra`
@@ -2842,33 +2847,17 @@
     * : vers*ion* `v.es.iO` ~ `w.es.iO`
     * : **kon**versat*ion* `ko.w.es.iO` ! `ko.w.es.at.iO` ≠ konversion
     * uni~~vers~~ `.un` : `.un.al` `.un.ell` `.un.ät` `.un.um`
-
-
----
-* **vest** `v`
-  * : *in***vest**it*ion* `IN.w-o`
-* **v**id `v`
-  * : di**v**idier `d.i-w.ir`
-  * : **re**<i></i>**v**idier `r.w.ir`
+* **vest** `v` : `IN.w.ir` `IN.w-o`
+  * : *in***vest**ment `IN.w.met` × `IN.w` = invest
+* **v**id `v` : `d.i-w.ir` `r.w.ir`
+  * : *~~divi~~****dend***e `(d.ed).e`
+  * *individ* = *in***d**i~~vid~~ : `IN.d.al.ät` `IN.d.ell` `IN.d.um`
   * → video
-  * *individ* `IN.d` BSA
-    * : *individ*uum `IN.d.um` (BSA)
-    * : *individ*uell `IN.d.ell` (BSA)
-    * : *individ*ualität `IN.d.ät` ! `IN.d.al.ät` (BSA)
-    * : `IN.d.iS` ! `IN.d.al.iS`
-  * **v**is `v` ! `v.is`
-    * : **v**is*ion* `v.iO` ! `v.is.iO`
-    * : **v**isite `v.it.e`
-    * : **v**isualisier `v.ir` ! `v.is.al.ir` @isier
-    * : **v**isuell `v.ell` ! `v.is.ell`
-    * : de**v**ise `d.e-w.e` ~ `d.e-is.e` BSA
-      * : de**v**isen `d.e-w.en` ~ `d.e-is.en` (BSA)
-    * : pr**o**<i></i>**v**is*ion* `(o)w-o` ! `(o)w.iO` E
-    * : pr**o**<i></i>**v**isor**isch** `(o)w.or.i` E
-    * : **re**<i></i>**v**is*ion* `r.w-o`
-    * vue `v.ü` : `r.w.ü`
----
-
+  * **v**is `v` : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `r.w-o` `r.w.or`
+    * ! `v.is` : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.is.al.ir` `v.is.um` `v.is.a`
+    * *pro***v**isorien `(o)w.or.I.en` × `(o)w.I.en` @ie
+    * *devis* = de***vis*** `d.e-is` : `d.e-is.e` `d.e-is.en`
+  * vue `v.ü` : `r.w.ü`
 * *video* `vi.o` : `vi.os` `vi.o-t.ek` ← vid
 * **vieh** `vi` : `vi.i` `vi:h-er` `vi,u`
   * -***vieh*** `.ih` → rind schlacht
@@ -3222,6 +3211,14 @@
 * *zw****eig*** `(.eig)`
 * **zweck** `zw` : `Z.iS:zw`
   * ! `zw.ek` : `zw.ek,di.L`
+
+`v.is.um.ang`
+`v.is,kat.e`
+
+* **zwing** `.ing` : `b.ing`  `er.ing`
+  * **zwang** `ang` : `ang,eu`
+  * **zwung** `.ung` : `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H`
+
 * **zw**ischen `zw` : `(I)zw`
 
 ## …
@@ -3232,6 +3229,8 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
 * *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei`
 * ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei`
 
+### @isier
+
 ## TODOs
 
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
@@ -3239,7 +3238,6 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
 * @e - alleinstehendes Stammende, nach Abstrich : `.e` : `k.e` `fr.e` `tr.e`
 * @i - `.i` statt `-i`
 * @ie `I.e(n)`/`.i-e(n)`
-* @isier
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-×- Ausfall einer Nicht-Kürzung zwischen Vor- und Nachsilbe
@@ -3260,11 +3258,12 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
 
 * @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
 * @vw v wird zu w
+* @-Ü In Zusammensetzungen fällt der Anlaut vor Durchkreuzung (`Ü`) aus.
 
-### Winkler
+### Winklers
 
-* Winkler verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
-* Winkler verwendet auch `.eNT` statt `.met` (sortiment)
-* Winkler erlaubt `(I).iS` statt `IN.iS`
-* Winkler rollt das `s` nach `ko` immer ein.
+* Winklers verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
+* Winklers verwendet auch `.eNT` statt `.met` (sortiment)
+* Winklers erlaubt `(I).iS` statt `IN.iS`
+* Winklers rollt das `s` nach `ko` immer ein.
 
