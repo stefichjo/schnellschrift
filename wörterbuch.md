@@ -611,7 +611,7 @@
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi` @i
   * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
-    * : emp**find**en `.emp-f.i` ⇒ *empfind*en = emp*f****i****nd***en `.emp-i` @-×an
+    * : emp**find**en `.emp-f.i` ⇒ *empfind*en = emp*f****i****nd*en `.emp-i` @-×an
     * : *er***find**er `er.f.i-er` ! `er,fi-er` @i
   * **fand** `fa` : `b.fa`
     * ! `f.ad`
@@ -2661,7 +2661,7 @@
   * **täusch** `täu`
 * *tausend* `(I)` : `(I).e`
 * *tech****n*** `(n)` : `(n).ik` `(n).ik-er` `(n).i`
-  * : *elektr*o*tech****n*****isch** `.el,(n).i` ! `.el.o-t.en.i`
+  * : *elektr*o*tech****n***<i></i>**isch** `.el,(n).i` ! `.el.o-t.en.i`
   * : *ter****min***us.*tech****n***icus `(m.in).us,(n).ik.us` × `(m.in).us;us`
   * → tekt
 * **teg** `t` : `(o)t.ir`
@@ -2840,7 +2840,7 @@
 * **ven** `v` : `(I)t-er.w.ir` `(I)t-er.w-o` @vw
   * *vent* `v` : `.e-v.ät` `ko.w-o` `ko.w.i-aL,(.e)`
     * evtl. `.e-v-t-l`
-    * *invent* = *in**ven****t*** `IN-t` : `IN-t-ar` `IN-t-ar.ir` `IN-t-ur`
+    * *invent* = *in*<i></i>*ven****t*** `IN-t` : `IN-t-ar` `IN-t-ar.ir` `IN-t-ur`
 * *ver*- `E`
 * verletz ← letz
 * vert `vet` : `ko.wet-ir` `ko.wet-ib.ät`
