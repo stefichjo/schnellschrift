@@ -335,7 +335,7 @@
 * **dien** `di` : `di.ed` `di-t.e` `di.bar.T` `b.e,di` `E,di`
   * : **dien**er `di-er` ! `di.er`
   * : **dien***lich* `di.L` ! `d.in.L` ≠ **dienst***lich*
-  * **dienst** `di` : `di.L` `.in:di.L` `E,di`
+  * **dienst** `di` : `di.L` `.in:di.L` `E,di` `wer.d.i` @i
     * : *außen***dienst**, *außer*.**dienst** `.auss,di`
     * : *inner***dienst***lich* `.i-d.i-L` ! `.in.d.i-L`
     * : **kund**en**dienst** `ku,di` ~ `ku:d.i`
@@ -1013,7 +1013,7 @@
   * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `b.h.sch` `I -st,b.h.sch` `h.sch.s.ücht.i`
   * : **herr**<i></i>**isch** `h.i` ! `h.err.i`
   * : m**ein**e.~~damen~~.~~und~~.**herr**en `.ei-a-h.en` × `.ei-a-h`
-* *her****z*** `(z)` : `(z).ha` `(z).L` `(z).os` `kust,(z)`
+* *her****z*** `(z)` : `(z).ha` `(z).L` `(z).os` `kust,(z)` `w.eich,(z).i`
   * : *her****z****lich*<i></i>*keit* `(z).L.T` × `(z).T`
 * heuer `h.eu-er` : `UN-G,h.eu-er`
 * **heut** `heu` : `heu-Ü`
@@ -1616,7 +1616,7 @@
   * *m****uss*** `(.uss)` STS * `.uss` : `.usst.e` `dU.uss` `dU.usst-est` `.I.uss` `wr.usst`
 * *muster* `.ust`
 * ***mut*** `.ut`
-  * : ***müt*** `.üt` : `gr.üt.i` `ho.üt.i`
+  * : ***müt*** `.üt` : `gr.üt.i` `ho.üt.i` `w.eich.üt.T`
 * mutter `m.ut-er` @-er
   * mütter `m.üt-er` : `m.üt-er.L`
 
@@ -1815,7 +1815,7 @@
 * **pfleg** `pfl`
   * **pflog** `pflo`
 * ***pflicht*** `.icht` : `.icht,u` `.icht,i`
-  * -*pfl*<i></i>***i***<i></i>*cht* `i` → steuer
+  * -*pfl*<i></i>***i***<i></i>*cht* `i` → steuer wehr
 * phon `f.on` : `f.on.ik` `f.on.i`
   * -ph~~on~~ `f` → grammo tel
 * phras `fr.as`
@@ -2329,6 +2329,7 @@
   * : **schaff***ung* `scha*` ! `scha.UNG` ≠ krankheit
 * schaft `sch.aft`
   * -*schaft* `FT`
+    * : *ge****wehr****schaft* `G.wer.FT` ~ `G.wer.scha`
   * *beschäftig* `b-t-ig` : `b-t-igt.e` `b-t-igt-en` `b-t-ig.l.os` `I n.eb.b-t-ig`
   * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en` `GT,eu`
 * schall `sch.all`
@@ -2945,18 +2946,14 @@
   * -**weg**en `w` → des
 * weh `w.eh`
   * wind `w.id`
-
----
-* ***wehr*** `wer` @aus-an
+* ***wehr*** `wer` : `G.wert` `wer.os` `wer.ha` `.ab.wer` `G.wer` `G.wer.e`
+  * : ***wehr****pflicht* `wer,i` ! `wer.icht`
   * : **bund**es***wehr*** `bu.wer` * `u-wer`
   * : *feuer****wehr*** `feu:wer` ~ `eu:wer`
-  * : *ge****wehr*** `G.wer`
-* weich `w.eich`
-  * : abweich `.ab.w.eich` ~ `.ab.w.ei`
-  * : z**u**<i></i>**rück**weich `u-rÜ:w.eich` ~ `u-rÜ:w.ei`
-* weiger `w.eig-er` (E)
----
-
+* weich `w.eich` : `w.eich.ing` @ei
+  * **weich** `w.ei` : `.ab.w.ei` `u-rÜ:w.ei`
+  * wich `w.ich` : `G.w.ich`
+* weiger `w.eig-er` : `we.di,E.w.eig-er-er` @-er @i
 * weil `w.eil` : `w.eil.e`
 * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
