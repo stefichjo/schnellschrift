@@ -2837,15 +2837,11 @@
     * *invent* = *in**ven****t*** `IN-t` : `IN-t-ar` `IN-t-ar.ir` `IN-t-ur`
 * *ver*- `E`
 * verletz ← letz
-
 * vert `vet` : `ko.wet-ir` `ko.wet-ib.ät`
-  * vers `v.es` : `v.es.irt` `IN.w.es` `IN.w.es.iO` `ko.w.es.iO`
+  * vers `v.es` : `v.es.irt` `d.i-w.es` `d.i-w.es.iO` `IN.w.es` `IN.w.es.iO` `ko.w.es.iO`
     * : vers*ion* `v.es.iO` ~ `w.es.iO`
     * : **kon**versat*ion* `ko.w.es.iO` ! `ko.w.es.at.iO` ≠ konversion
     * uni~~vers~~ `.un` : `.un.al` `.un.ell` `.un.ät` `.un.um`
-
-`d.i-w.es`
-`d.i-w.es.iO`
 
 
 ---
