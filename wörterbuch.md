@@ -3242,6 +3242,7 @@
 
 Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird daher wie eigene Kürzel behandelt.
 
+| | |
 |:-|:-|
 | *arb****eit*** | `(T)` |
 | *ge*<i></i>*arbeit*et | `G.ab.T` |
