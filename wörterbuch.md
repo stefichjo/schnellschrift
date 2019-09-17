@@ -50,8 +50,7 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
-* *arb****eit*** `(T)` : `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `fa.T-er` `ga.T-er` `M.T-er` `O.T-er` `Z.Sa.T`
-  * ! arbeit `.ab.T` : `G.ab.T` `b.ab.T` `E.ab.T`
+* *arb****eit*** `(T)` : `G.T` `(T)-ed` `(T)-er` `(T)-er.in` `(T)-er.FT` `(T)-g` `.S.T` `b.T` `fa.T-er` `ga.T-er` `M.T-er` `E.T` `O.T-er` `Z.Sa.T`
   * ~ `T` : `T-Sa` `T-s.a`
   * : *arbeits****los*** `(l.os)`
   * : *arb****eit***s*gemeinschaft* `(T)-s.N` ~ `Ts.N`
@@ -2001,7 +2000,7 @@
   * *ein*e reihe von `.ei-e r.eih.e v` × `.ei-v`
 * **reis** `r.ei` : `r.ei-e`
 * reit `r.T`
-  * *bereit* `b.T`
+  * *bereit* `b.T` = bearbeiten
     * : *bereit*s `b.Ts` ~ `Ts`
     * : *vor*<i></i>*bereit*en `O.b.T` × `O.b`
   * ritt `r.it`
@@ -3257,22 +3256,22 @@ Kurzformen der Verkehrsschrift gelten als sicher einstudiert und können daher i
 
 Kürzungen auf das Wortende dürfen andere Kurzformen verschatten.
 
-| | |
-|:-|:-|
-| *arb****eit*** `(T)` | *arbeits****los*** `(l.os)` |
-| **ding** `.ing` | *allerdi****ng***s `(ng)-s` |
-| | *bedi****ng*** `(ng)` |
-| ***flücht*** `.ücht` | *flüchtli****ng*** `(ng)` |
-| *gegen* `g` | *geg****end*** `(.ed)` |
-| ***heim*** `.eim` | *heim****at*** `(.at)` |
-| **ka**rt `ka` | *kart****ell*** `(.ell)` |
-| **land** `la` | *land****es*** `(.es)` |
-| **min** `mi` | *min****ut***e `(.ut).e` ⇒ `.ut.e` |
-| *nach* `ach` | *näch****st*** `(-st)` |
-| ***not*** `.ot`| *not****iz*** `(.iz)` |
-| **reg** `r`| *reg****el*** `(.el)` |
-| | *reg****ier***en `(.ir)` |
-| *vor* `O`| *vori****g*** `(g)` |
+| | | | |
+|:-|:-|:-|:-|
+| *arb****eit***     | `(T)`   | *arbeits****los*** | `(l.os)`            |
+| **ding**           | `.ing`  | *allerdi****ng***s | `(ng)-s`            |
+|                    |         | *bedi****ng***     | `(ng)`              |
+| ***flücht***       | `.ücht` | *flüchtli****ng*** | `(ng)`              |
+| *gegen*            | `g`     | *geg****end***     | `(.ed)`             |
+| ***heim***         | `.eim`  | *heim****at***     | `(.at)`             |
+| **ka**rt           | `ka`    | *kart****ell***    | `(.ell)`            |
+| **land**           | `la`    | *land****es***     | `(.es)`             |
+| **min**            | `mi`    | *min****ut***e     | `(.ut).e` ⇒ `.ut.e` |
+| *nach*             | `ach`   | *näch****st***     | `(-st)`             |
+| ***not***          | `.ot`   | *not****iz***      | `(.iz)`             |
+| **reg**            | `r`     | *reg****el***      | `(.el)`             |
+|                    |         | *reg****ier***en   | `(.ir)`             |
+| *vor*              | `O`     | *vori****g***      | `(g)`               |
 
 Ist das Wortende, auf das gekürzt wird, selbst eine Kurzform, so wird der Rest des Wortes durchgestrichen.
 
