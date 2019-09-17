@@ -155,7 +155,7 @@
 * bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
-* ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `AU.it` `fa.it` `r.ur.it` `Ü.it`
+* ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `fa.it` `r.ur.it` `E.it` `Ü.it` . `AU.it`
   * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
   * : *arb****eit***s*ge****biet*** `(T)-s.it` ~ `Ts.it`
   * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` ~ `AU-i.it`
@@ -360,6 +360,8 @@
   * : je*doch* `j.e-d-ch` ~ `j-ch`
 * doktor ← doz
 * *doll****ar*** `(.ar)`
+* dom `d.om` : `d.om.än.e` STS `d.om.il`
+  * *domin* `d.om` : `d.om.ir` `d.om.aNT`
 * **dopp**el `do-el`
   * : *ver***dopp**eln `E.do-el` × `E.do`
 * dorf `d.of`
@@ -532,7 +534,7 @@
     * : *ver****viel***fält*ig*en `E.il.fet-ig` ~ `E.il.f.i`
 * *famili* `f.am` : `f.am.är`
   * : *famili*e `f.am.e` × `f.am`
-* *f****ang*** `(ang)` STS : `N.ang` `fi.ang`
+* *f****ang*** `(ang)` STS : `N.ang` `fi.ang` . `v.an.an`
   * ! `f.ang`
   * ~ *fang* = **fang** `fa` ≠ gang : `.an.fa` `b.fa` `.um.fa`
     * : um**fang***r****eich*** `.um.fa:eich` × `.um:eich`
@@ -668,6 +670,7 @@
   * : *er***folg** `er.fo` × *erfolg* = *er*~~folg~~ `er`
   * : *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei` @~2
   * : *in***folg** `IN.fo` ~ `IN.o`
+* foli `f.ol.I` : `f.ol.I.e` `f.ol.I.en` @ie
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er**forder**lich* `er.F.L` ~ `er.o-L`
   * : *un*<i></i>*bedi****ng***t *er*<i></i>*forder*<i></i>*lich* `UN.(ng)-t er.F.L` × `UN-t.L`
@@ -967,7 +970,7 @@
       * : *in*.*dies*em *zu*<i></i>*samm*en*h****ang*** `IN.iS.em Z.Sa.ang` × `IN.iS.ang`
 * harm `h.am` : `h.am.os`
 * *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i` @ie
-  * *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren @isier
+  * *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
 * ***harr*** `arr`
   * : **be*****harr*** `b.arr.L.T` × `b.arr.T`
 * **hart** `hat`
@@ -1217,6 +1220,7 @@
   * ***klaus*** `.aus` : `.aus.e`
     * -*klausel* `au.el` → zent
 * *kl****ein*** `(N)` : `(N).er` `(N)-st` `(N).H` `(N).i-T` `(N).L.T` `E.N.er` `zr.N.er`
+* ***klim*** `.im` : `.im.a` `.im.i` `.im.ir`
 * **klin** `kli` : `kli.ik` `.un.ät,kli.ik`
 * koll
   * *protokoll* `pr.ot.ok`
@@ -1313,8 +1317,7 @@
 * **krim** `kri` : `kri.I` `kri.i-aL` `kri.i-eL`
   * : **krim***inal*ität `kri.i-aL.ät` × `kri.ät`
   * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
-* **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `UN,kri.i`
-  * : **krit**isieren `kri.ir` ! `kri.is.ir` @isier @ie
+* **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `kri.ir` `UN,kri.i` @ie
 
 ## [L](#wörterbuch)
 
@@ -1402,7 +1405,7 @@
 * *liefer* `l.i-er`
 * **lieg** `li` : `.an,li` `b.ei,li-ed` `er,li` `n.ah,li-ed` `UNTER,li`
   * : an**lieg**er `.an.li-er` ! `.an.l.ig-er`
-  * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `ndr.la-e` `UNTER.la-e` `O.la-e`
+  * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `.im.a.an.la-e` `ndr.la-e` `UNTER.la-e` `O.la-e`
     * : **lag**er `la-er` ⇒ `l.ag-er`
       * ! `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
   * **leg** `l` : `l-t.e` `.ab.l` `b.l` `dar-AU.l` `n.ah.l` `Ü.l` `E.l` `E.l.H` `zr.l-UNG` `f.est-l` `gru.l.ed` `.ar.l` `.an.l.H`
@@ -1497,6 +1500,8 @@
   * *matr* `ma` : `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
 * mauer `m.au-er`
   * : schallmauer `sch.all.m.au-er` * `scha.m.au-er`
+* *maxim* `m.ax` STS
+  * : *maxim*al `m.ax.al` ~ `m.ax.im-a`
 * mech `m.ech`
   * : mechan `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
 * med `m.ed` : `m.ed.it.iO` `m.ed.um` `m.ed.I.en` @ie
@@ -1549,6 +1554,7 @@
 * **min** `mi`
   * : **min**orität `mi.or.ät` ~ `m.in.ät`
   * : pr**o**<i></i>**min***ent* `(o)mi.eNT` × `(o)mi`
+  * *minim* `m.in` : `m.in.al` `m.in.um`
   * → minist
   * *min****ut***e `(.ut).e` ⇒ `.ut.e`
 * *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min @ie
@@ -1583,7 +1589,7 @@
   * : modalität `m.od.ät` ! `m.od.al.ät`
   * : *mod****ell*** STS `(.ell)` ~ `m.o-ell` : `(.ell).ir` ~ `m.o-ell.ir` ≠ kartell
   * : modern `m.od-er` : `UN.m.od-er`
-    * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG` @isier
+    * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG`
   * : mod*ifiz*ieren `m.od.if.ir` ! `m.od.if.iz.ir`
 * ***mög*** `.ög`
   * ~~***mög***~~*lich* `(L)` : `(o)ba.L` `(o)w.T.L`
@@ -1681,7 +1687,7 @@
   * nann `n.an`
     * : **be**nannt `b.n.ant` * `b.na-t`
     * : *er*nannt `er.n.ant` * `er.na-t`
-* **neu** `neu` : `neu-st.e` `neu-er.L` `neu:H` `neu-L`
+* **neu** `neu` : `neu-st.e` `neu-er.L` `neu:H` `neu-ig.T` STS `neu-L`
 * neutr `n.eutr` : `n.eutr.a` `n.eutr.um` `n.eutr.on` `n.eutr.ir`
   * : *neutral* `n.eutr` : `n.eutr.ir`
 * *nicht* `-t`
@@ -1803,7 +1809,7 @@
 * pati `p.az` : `p.az.eNT` `p.az.eNT-in`
   * ***pass*** `pass` : `pass-o`
 * **pausch** `pau` : `pau.al` `pau.al.e`
-  * **pausch**alisieren `pau.ir` ! `pau.al.ir` @isier
+  * **pausch**alisieren `pau.ir` ! `pau.al.ir`
   * -*pauschale* `au.al.e` → kost
 * paz `p.az` : `p.az.ik` `p.az.ist` `p.az.iS`
   * pazif**isch** `p.az.i` ! `p.az.if.i`
@@ -1848,8 +1854,7 @@
   * poesie `p.o-es.I`
 * pol `p.ol`
   * : metropole `m.etr.p.ol.e` * `m.etr.ol.e`
-* *pol****it*** `it` : `it.i` `it.i-er` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
-  * : *pol****it***isieren `it.ir` ! `it.is.ir` @isier
+* *polit* `it` : `it.i` `it.i-er` `it.ir` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `wä-tik` `FT.tik`
     * : **fin**anz*politik* `fi.az.tik` × `fi.tik`
     * : **hand**els*politik* `ha.el-t-ik`
@@ -1906,7 +1911,8 @@
 * *privat* `pri` : `pri.ir`
 * *privileg* `pri.eg`
 * pr**o**- `o`
-* **prob** `.ob`
+* **prob** `.ob` : `.ob.e` `.ob.ir` `G.obt`  er.obt g.ob.e g.en.ob.e hau.ob.e
+
 * *prob****lem*** `(l.em)` : `(l.em).ik`
 * **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
 
@@ -1928,7 +1934,7 @@
 * *raffin* `r.af` : `r.af.irt`
 * rag `r.ag`
   : *her*<i></i>*vor*ragend `.e-O.r.ag.ed` × `.e-O.ed`
-* rahm `r.am`
+* rahmen `r.am`
   * : im.rahmen `.im.r.am` ~ `.im.am`
 * *rak****et*** `(.et)` : `(.et).e`
   * : **träg**er*rak****et***e `tr.er,(.et).e` ! `tr.eg-er,(.et).e`
@@ -1946,7 +1952,7 @@
   * **riet** `ri` ! `r.iet`
 * **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.i-eL` `IN 4 ra.en`
   * : **rat**e `ra-e` ! `ra.e`
-  * : **rat***ional*isier `ra.i-aL.ir` ~ `ra.ir` @isier
+  * : **rat***ional*isier `ra.i-aL.ir` ~ `ra.ir`
   * : **rat***ion*ier `ra.iO.ir` ~ `r.at.ir`
 * rätsel ← rat
 * rauch `r.auch`
@@ -1954,7 +1960,7 @@
   * : welt***raum*** `wet-aum` ~ `w.aum`
   * ***räum*** : `.äum` : `.äum.e`
 * **re** `r` : `r.al`
-  * : **re**alisieren `r.ir` ! `r.al.ir` @isier
+  * : **re**alisieren `r.ir` ! `r.al.ir`
   * : **re**alität `r.ät` ! `r.al.ät`
 * real ← re
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(b)ech`
@@ -2099,7 +2105,7 @@
   * *fernseh* `f-s` : `f-s-er`
   * sieh `s.ih`
   * sah `s.ah`
-  * **sicht** `si` STS : `b-si.i`
+  * **sicht** `si` STS : `b-si.i` `si,u` STS
     * ! `s.icht`
     * : ab**sicht** `.ab-si` ~ `.ab-i` : `.ab-i.L` @-×an
       * : **be**ab**sicht***ig*en `b.ab,si.i` × `b.ab` @--×
@@ -2412,7 +2418,7 @@
   * **schül** `.ül` : `.ül-er`
     * -**schüler** `-Ü.er` : `ho-Ü.er`
 * **schutz** `.uz`
-  * -sch**u**tz `u` : → strahl welt
+  * -sch**u**tz `u` : → sicht strahl welt
   * **schütz** `.üz` ~ `schÜ`
 
 #### [SCHR](#wörterbuch)
@@ -2585,6 +2591,7 @@
 * *st****eu***er `eu-er` : `eu-er.L` `eu-er,i` `eu-er-UNG`
   * : um**satz***st****eu***er `.um-sa,eu-er` × `.um,eu-er` ~ `.um.eu-er`
 * stick `st.ik`
+* ***stift*** `.ift`
 * stil `st.il`
 * **still** `.ill`
 * **stimm** `.im` : `.im:H`
@@ -2801,6 +2808,7 @@
     * : *ent*<i></i>*gegen***tret**en `eNT.g.tr` × `(eNT)tr`
     * : *her*<i></i>*vor*<i></i>*ge***tret**en `.e-O.tr` ~ `(.e-O)tr`
   * ***tritt*** `.it` : `.S.it` `b.ei-it` `N.it` `rÜ.it` `Ü.it` `E.it` `Z.it` `AU.it.it` `b.eim-Ü.it`
+    * *ver****tritt*** `E.it` = verbieten
   * ***trat*** `.at` STS
     * ! `tr.at` : `(E)tr.at`
 * **treib** `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(b.ei)tr.ei`
@@ -2829,7 +2837,7 @@
 * un `.un` : `un.at` `un.um` `.un.if-o`
   * un*ion* `.un.iO` * `u-O`
 * *und* `&`
-* -*ung* `UNG`
+* -*ung* `UNG`/`*`
 * *uns* `.U` : `f.U.e` `v.U.em`
   * -**u**ns `u` STS : `.an,u` STS
   * **u**nser `u-er` STS : `u-er.e` `u-er-er` `u-er.es`
@@ -2966,7 +2974,7 @@
   * wen `w.en` : `w.en.i` `d.est-w.en.i-er`
     * : **mehr**.~~oder~~.wen*ig*er `m.w.en.i-er` × `m.w`
     * *nichtsdestoweniger* `-ts.o`
-* *w****eis*** `(.eis)` : `b.eis` `b.eis.bar` `b.eis.iaL` `er.eis` `hn.eis` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
+* *w****eis*** `(.eis)` : @arbeitsweise @ausnahmsweise `b.eis` `b.eis.bar` `b.eis.iaL` `er.eis` @glücklicherweise `hn.eis` `.ob.eis.e` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
   * : *darauf* *hin*<i></i>*w****eis***en `dar-AU hn.eis` ~ `dar-AU-n`
   * : *ich* *m****uss*** *darauf* *hin*<i></i>*w****eis***en `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
   * -*w****eis***e `.eis.e` → arbeit glück nehm
@@ -3017,7 +3025,7 @@
         * : *gesetz*<i></i>*ent***würf**e `-G-eNT-Ü.e` × `-G-Ü.e`
       * : *zer***würf***nis* `zer.wÜ.is` ~ `zer-Ü.is` @-×an
 * werk `w.ek` : `b.eg.w.ek` `hi.w.ek`
-  * -***werk*** ⇒ -*werk* `.ek` → hand wasser
+  * -*werk* = -***werk*** `.ek` → hand wasser
 * wert `wet` : `wet-Ol` `.ab.wet`
   * -*wert* `(-t)` → hoch nahr staun streb
 * wes ← sein
@@ -3294,7 +3302,33 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
 * *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei`
 * ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei`
 
-### @isier
+### Nachsilben und Endungen
+
+In Fremdwörtern werden Nachsilben in der Regel nur am Wortende geschrieben.
+
+Die Nachsilbe *-is* fällt aus. Winklers schreibt *-is* jedoch in manchen Fällen mit.
+
+* ***klim***atisieren `.im.ir` ! `.im.is.ir`
+* **krit**isieren `kri.ir` ! `kri.is.ir`
+* *polit*isieren `it.ir` ! `it.is.ir`
+
+Besteht Verwechslungsgefahr mit einem anderen Wort ohne *-is*, sollte *-is* mitgeschrieben werden.
+
+* *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
+
+Infinitive werden im Satz ohne die Endung *-en* geschrieben. Substantiviert wird *-en* wieder geschrieben. Substantive auf *-en*, die nicht auf einer Grundform ohne *-en* basieren, werden ohne *-en* geschrieben.
+
+* **bod**en `bo`
+* rahmen `r.am`
+
+### @-er
+
+Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleinstehend mit *-er* geschrieben.
+
+* ***wass***er `was-er`
+  * ***wass***er*werk* `w.as.ek`
+
+* Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
 
 ### Präposition + Infinitiv mit zu
 
@@ -3323,9 +3357,6 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
 * ~2 doppelte Verschattung :/
 * @aus-an Auslautkürzung (auf -s(s) oder -r) mit Anlaut
   * Der Auslaut "ss"/"ß" wird nach rechtsrunden Zeichen eingerollt. Nach halbstufigem Zeichen wird "s" geschrieben.
-* @-er als Scheinnachsilbe, d.h. es existiert kein Wort ohne -er, z.B. Wasser
-  * "-er" wird nur alleinstehend mit dem Scheinstamm geschrieben: Wasser
-    * Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
 
 * @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
 * @vw v wird zu w
