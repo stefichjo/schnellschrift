@@ -2893,7 +2893,7 @@
   * *vom* `v°`
 * *vor* `O` : `O.ts` `O.d-er` `b.O` `.e-O`
   * : ***nach***.~~wie~~.*vor* `ach.O` ~ `ach-o`
-  * : ~~vori~~g `(g)`
+  * : *vori****g*** `(g)`
 * **vot** `v`
   * -*votum* `.um` → trau
 
@@ -3259,14 +3259,19 @@ Kürzungen auf das Wortende dürfen andere Kurzformen verschatten.
 | **ka**rt `ka` | *kart****ell*** `(.ell)` |
 | **land** `la` | *land****es*** `(.es)` |
 | **min** `mi` | *min****ut***e `(.ut).e` ⇒ `.ut.e` |
-| ***mög*** `.ög` | ~~***mög***~~*lich* `(L)` |
-| *nach* `ach`| ~~*nach*~~***bar*** `(bar)` |
 | | *näch****st*** `(-st)` |
 | ***not*** `.ot`| *not****iz*** `(.iz)` |
 | **reg** `r`| *reg****el*** `(.el)` |
 | | *reg****ier***en `(.ir)` |
+| *vor* `O`| : *vori****g*** `(g)` |
+
+Ist das Wortende, auf das gekürzt wird, selbst eine Kurzform, so wird der Rest des Wortes durchgestrichen.
+
+| | |
+|:-|:-|
+| ***mög*** `.ög` | ~~***mög***~~*lich* `(L)` |
+| *nach* `ach`| ~~*nach*~~***bar*** `(bar)` |
 | ***stat*** `.at` | ~~***stat***~~*ist* `(.i+st)` |
-| *vor* `O`| : ~~vori~~g `(g)` |
 
 
 ### …
