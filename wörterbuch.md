@@ -44,6 +44,7 @@
 * an `.an` : `.an-t-er` `dar.an` `wo.an`
 * -an `.an`
 * ander `.ad-er` @-er
+  * *unter*.anderem `UNTER.ad-er` ~ `u.ad-er`
   * *ande****rs*** `(rs)`
   * änder `.äd-er` : `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * *ant*- `aNT`
@@ -158,6 +159,7 @@
   * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
   * : *arb****eit***s*ge****biet*** `(T)-s.it` ~ `Ts.it`
   * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` ~ `AU-i.it`
+  * . bei.**jed**er.*sich*.~~bietenden~~.~~gelegen~~*heit* `(b.ei)j.CH.H`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bil****anz*** `(.az)` STS ~ `(az)` : `(az.ir-UNG)`
 * **bild** `bi` : `bi.ed` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
@@ -194,16 +196,17 @@
 * **bleib** `bl.ei`
   * **blieb** `bli` ⇒ `bl.i` @ei
 * bleich `bl.eich` : `bl.eich,u` `bl.eich-Ü.i`
-* ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `rÜ.ik` `CH .um:ik`
+* ***blick*** `.ik` : `.ik.ed` `.ikt-e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` `CH .um:ik`
   * augen***blick*** `.aug.ik` * `au.ik` : `au.ik.L`
+  * im hinblick auf `.im:AU` @
 * ***boot*** `.ot`
 * **bloß** `.oss`
 * **blut** `blu`
   * **blüt** `blü`
     * : **heiß**<i></i>**blüt***ig* `h.ei,blü.i` * `h.ei-Ü.i` ! `h.eiss-Ü.i`
     * : kalt**blüt***ig* `kat,blü.i` * `kat-Ü.i`
-* **bod** `bo`
-* börs `b.ös` : `b.ös.e`
+* **bod**en `bo`
+* **börs** `bö` : `bö-e` `bö,(l.er)`
 * **buch** `bu` : `bu.ha` `-G.bu` `ha,bu` `ha.el,bu` `(.iz).bu`
   * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
   * -*gesetzbuch* `bu` → burg hand straf
@@ -357,6 +360,8 @@
   * : je*doch* `j.e-d-ch` ~ `j-ch`
 * doktor ← doz
 * *doll****ar*** `(.ar)`
+* **dopp**el `do-el`
+  * : *ver***dopp**eln `E.do-el` × `E.do`
 * dorf `d.of`
 * dort `dot` : `dot-ig`
 * ***dox*** `.ox` : `pa.ox` `pa.ox.I`
@@ -392,7 +397,7 @@
   * **drang** `dra`
     * **dräng** `dr.e`/`drä` STS : `E.drä-UNG` STS @ä @e
   * **drung** `dru` : `G.dru` `N.dru`
-* **druck** `dru` : `dru.ei` `dru,(.e)` `ach.dru` `N.dru`
+* **druck** `dru` : `dru.ei` `dru,(.e)` `ach.dru` `N.dru` . `z.ko`
   * : **druck**er `dru.er` ! `dr.uk-er`
   * : *aus***druck** `.S.dru` ~ `.S-u` @-×an
     * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
@@ -503,8 +508,7 @@
   * : **fäch**er `f-er` ! `f.ech-er`
   * : ein**fach**er `N.fa-er` ! `N.fa.er`
 * faci
-* **fäh** `f` : `f.i` `l.ei-f.i`
-  * : **fäh***ig****keit*** `f.i-T` ! `f.eh.i-T` ≠ fälligkeit
+* **fäh** `f`/`fäh` : `f.i` `f.i-T` `l.ei-f.i` `l.ei-f.i-T`
   * : *arb****eit***s**fäh***ig* `(T)-f.i` ~ `T-f.i`
   * : *arb****eit***s*un***fäh***ig****keit*** `(T),UN-f.i-T` × `(T),UN-T`
 * **fahr** `fa` : `fa.bar` `fat` `G.fa` `G.fa-ol` `.ab.fa` `.ab.fat` `.S.fa` `b.fa.bar` `er.fa` `er.fa.G` `.if-fat` `UN-er.fa` `UN-er.fa.H` `E.fa` `Z.fat` `u-rÜ:fa`
@@ -518,7 +522,7 @@
   * : eben**fall**s `.eb.fa-s` * `.e-fa-s`
   * : keines**fall**s `(K):fa-s` ~ `k.fa-s`
   * : *auf*.keinen.**fall** `AU.K.fa` ~ `AU.k.fa`
-  * **fäll** `f` : `f.e` `f.i` `f.i-T` `G.f.i` `G.f.i-T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G.f.i` `UN-G.f.i-T` `Z.f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
+  * **fäll** `f` : `f.e` `f.i` `f.i-T` `G.f.i` `G.f.i-T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G.f.i` `UN-G.f.i-T` `Z.f.i` . `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
   * **fiel** `fi` STS
     * ! `f.il` : `AU.f.il`
 * falsch `f.asch` : `f.asch.H`
@@ -869,7 +873,7 @@
 * gunst ← gönn
 * **gut** `gu`
   * **güt** `gÜ`
-    * : *in***vest**it*ion*s**güt**er `IN.w-O.gÜ-er` ~ `IN.w-O-Ü.er` @-Ü
+    * : *in***vest**it*ion*s**güt**er `IN.w-O.gÜ-er` ~ `IN.w-O-Ü.er` @-×an
   * ***bess***er `bes`/`br°`
     * × *besser* : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T`
   * best `b.est`
@@ -939,7 +943,7 @@
     * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be***hielt* `b,hi` ! `b.e,hi`
 * hammer @-er
-* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` `.e li:ha` `ha.IN.ha`
+* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` . `li:ha` `ha.IN.ha`
   * : **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `G.ha.elt` `ha.el.bu`
     * : **hand**elt.~~sich~~.um, **hand**elt.~~es~~.~~sich~~.um `ha.el.um` × `ha.um`
     * : **be**<i></i>**hand**eln `b.ha.el` × `b.ha`
@@ -1457,6 +1461,7 @@
 * **mak** `ma` : `ma.el`
   * : **mak**ulatur `ma.ur` ! `m.ak.ur`
 * makel ← mach
+  * -*mak****ler*** `(l.er)` → börs
 * *makel* `m.ak`
   * : *makl*er `m.ak-er`
 * mal `m.al`
@@ -1516,7 +1521,7 @@
   * *komment* `ko-t` : `ko-t-ar` `ko-t-at.or`
   * -*ament* `eNT` → perg temp test
 * merk `m.ek` : `m.ek,(.el)`
-  * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa` @-×-
+  * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa` . `dar-AU.ma` @-×-
     * : *auf*merk*sam****keit*** `AU.m.ek-Sa.T` × `AU.T`
       * : *mit*.*besonder*er *auf*merk*sam****keit*** `M-S AU.T` × `M-S.T`
   * : **be**merk `b.m.ek` * `b.m`
@@ -1656,6 +1661,7 @@
   * : ein*ver*~~nehm~~en `N.E,(en)` × `N.E`
   * : *vor*~~nehm~~ `O` ! `O.n.em`
     * : *vor*~~nehm~~ `O,(-st)`
+  * : *über*~~nehm~~en `Ü,(en)` ~ `Ü.en`
   * : *unter*~~nehm~~en `UNTER,(en)` ~ `UNTER.en`
   * : *unter*~~nehm~~er `UNTER,(er)` ~ `UNTER-er`
   * : *unter*~~nehm~~*ung* `UNTER,UNG` ~ `UNTER-UNG`
@@ -2270,7 +2276,7 @@
   * → sonst
 * sol `s.ol` : `s.ol.id` `ko.s.ol.ir`
 * *solch* `(s)ch`
-  * -*solch*- `o` ← `IN.ei-em,o,fa` `IN,o,f.en`
+  * -*solch*- `o` → fall
 * *soll* `(S)`
 * solv `s.ow` : `s.ow.eNT` `s.ow.ir`
   * : absolv `.ab.sow` ~ `.ab-s.ow` : `.ab-s.ow.ir` `.ab-s.ow.eNT`
@@ -2830,7 +2836,6 @@
   * -*unser* `.U°` : `.an.U°`
 * *unter* `UNTER` : `UNTER.ha` `.e-UNTER`
 * ur- `.ur`
-* -ut- ← -at-
 
 ## [V](#wörterbuch)
 
@@ -3083,7 +3088,7 @@
 * **woch** `wo` : `wo-e`
 * wohl `w.ol` : `G.Sa.w.ol` `.ob.w.ol`
 * **wohn** `wo`
-  * : **wohn***ung* `wo.UNG` * `wo-u`
+  * : **wohn***ung* `wo` ~ `wo-u` ≠ woche
   * **wöhn** `wö` : `G.wö`
   * : *ge***wöhn***lich* `G.wö.L` ~ `G-ö-L`
 * *woll* `(.ol)`
@@ -3223,6 +3228,10 @@
 
 ## …
 
+### Ausfall von Nicht-Kurzformen
+
+* 
+
 ### Verschattung von Kurzformen
 
 Kurzformen der Verkehrsschrift gelten als sicher einstudiert und können daher in der Schnellschrift durch zusätzliche Kurzformen verschattet werden.
@@ -3252,9 +3261,6 @@ Kürzungen auf das Wortende dürfen andere Kurzformen verschatten.
 
 * **land** `la`
   * *land****es*** `(.es)`
-
-* **mess** `ess`
-  * : -*messer* `(er)`
 
 * **min** `mi`
   * *min****ut***e `(.ut).e` ⇒ `.ut.e`
@@ -3307,7 +3313,7 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
 * @ie `I.e(n)`/`.i-e(n)`
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
-* @-×an Andeutung einer Anlautkürzung nach Vorsilbe
+* @-×an Andeutung einer Anlautkürzung - nicht am Wortanfang
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 
@@ -3323,7 +3329,6 @@ Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem 
 
 * @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
 * @vw v wird zu w
-* @-Ü In Zusammensetzungen fällt der Anlaut vor Durchkreuzung (`Ü`) aus.
 
 * @ fassen und passen könnten, wenn sie nicht den Wortanfang bilden, ihren Anlaut wieder verlieren. (Es handelt sich ja eh um "Auslautkürzungen".)
   * Ausgenommen scheinen allein "an" und "ge" (anpassen, gefasst)
