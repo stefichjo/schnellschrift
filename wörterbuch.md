@@ -3248,50 +3248,28 @@ Kurzformen der Verkehrsschrift gelten als sicher einstudiert und können daher i
 
 Kürzungen auf das Wortende dürfen andere Kurzformen verschatten.
 
-* *arb****eit*** `(T)`
-  * : *arbeits****los*** `(l.os)`
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
-* **ding** `.ing`
-  * *allerdi****ng***s `(ng)-s`
-  * *bedi****ng*** `(ng)`
-
-* ***flücht*** `.ücht`
-  * *flüchtli****ng*** `(ng)`
-
-* *gegen* `g`
-  * *geg****end*** `(.ed)`
-
-* ***heim*** `.eim`
-  * *heim****at*** `(.at)`
-
-* **ka**rt `ka`
-  * *kart****ell*** `(.ell)`
-
-* **land** `la`
-  * *land****es*** `(.es)`
-
-* **min** `mi`
-  * *min****ut***e `(.ut).e` ⇒ `.ut.e`
-
-* ***mög*** `.ög`
-  * ~~***mög***~~*lich* `(L)`
-
-* *nach* `ach`
-  * ~~*nach*~~***bar*** `(bar)`
-  * *näch****st*** `(-st)`
-
-* ***not*** `.ot`
-  * *not****iz*** `(.iz)`
-
-* **reg** `r`
-  * : *reg****el*** `(.el)`
-  * : *reg****ier***en `(.ir)`
-
-* ***stat*** `.at`
-    * ~~***stat***~~*ist* `(.i+st)`
-
-* *vor* `O`
-  * : ~~vori~~g `(g)`
+| | |
+|:-|:-|
+| *arb****eit*** `(T)` | *arbeits****los*** `(l.os)` |
+| **ding** `.ing` | *allerdi****ng***s `(ng)-s` |
+| | *bedi****ng*** `(ng)` |
+| ***flücht*** `.ücht` | *flüchtli****ng*** `(ng)` |
+| *gegen* `g` | *geg****end*** `(.ed)` |
+| ***heim*** `.eim` | *heim****at*** `(.at)` |
+| **ka**rt `ka` | *kart****ell*** `(.ell)` |
+| **land** `la` | *land****es*** `(.es)` |
+| **min** `mi` | *min****ut***e `(.ut).e` ⇒ `.ut.e` |
+| ***mög*** `.ög` | ~~***mög***~~*lich* `(L)` |
+| *nach* `ach`| ~~*nach*~~***bar*** `(bar)` |
+| | *näch****st*** `(-st)` |
+| ***not*** `.ot`| *not****iz*** `(.iz)` |
+| **reg** `r`| *reg****el*** `(.el)` |
+| | *reg****ier***en `(.ir)` |
+| ***stat*** `.at` | ~~***stat***~~*ist* `(.i+st)` |
+| *vor* `O`| : ~~vori~~g `(g)` |
 
 
 ### …
