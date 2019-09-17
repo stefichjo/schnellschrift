@@ -1592,9 +1592,9 @@
     * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG`
   * : mod*ifiz*ieren `m.od.if.ir` ! `m.od.if.iz.ir`
 * ***mög*** `.ög`
-  * ~~***mög***~~*lich* `(L)` : `(o)ba.L` `(o)w.T.L`
+  * ~~*mög*~~*lich* `(L)` : `(o)ba.L` `(o)w.T.L`
     * : ***mög****lich*st `(L)-st` * `(L)-t`
-    * : *so*.weit.~~wie~~.~~***mög***~~*lich* `(o)w.T-L`
+    * : *so*.weit.~~wie~~.~~*mög*~~*lich* `(o)w.T-L`
   * ***mag*** `.ag`
     * *macht* `aCHT`
   * ***mocht*** `.ocht`
@@ -2531,7 +2531,7 @@
     * : ***stat***ik `.at.ik` ! `st.at.ik`
     * : ***stat****ion* `.at.iO` ⇒ `sta*` STS
     * : **kon*****stat***ier `ko.at.ir` ~ `ko.sta.ir`
-    * ~~***stat***~~*ist* `(.i+st)` : `(.i+st)-ik`
+    * ~~*stat*~~*ist* `(.i+st)` : `(.i+st)-ik`
         * : ~~***stat***~~*istisch* `(.i+st)-isch` ~ `sta.iS.i`
     * *statu* `sta.u` : `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
     * **st**it `st` : `IN.st.ut` `IN.st.ut.iO` `ko.st.ir`
@@ -3259,19 +3259,19 @@ Kürzungen auf das Wortende dürfen andere Kurzformen verschatten.
 | **ka**rt `ka` | *kart****ell*** `(.ell)` |
 | **land** `la` | *land****es*** `(.es)` |
 | **min** `mi` | *min****ut***e `(.ut).e` ⇒ `.ut.e` |
-| | *näch****st*** `(-st)` |
+| *nach* `ach` | *näch****st*** `(-st)` |
 | ***not*** `.ot`| *not****iz*** `(.iz)` |
 | **reg** `r`| *reg****el*** `(.el)` |
 | | *reg****ier***en `(.ir)` |
-| *vor* `O`| : *vori****g*** `(g)` |
+| *vor* `O`| *vori****g*** `(g)` |
 
 Ist das Wortende, auf das gekürzt wird, selbst eine Kurzform, so wird der Rest des Wortes durchgestrichen.
 
 | | |
 |:-|:-|
-| ***mög*** `.ög` | ~~***mög***~~*lich* `(L)` |
+| ***mög*** `.ög` | ~~*mög*~~*lich* `(L)` |
 | *nach* `ach`| ~~*nach*~~***bar*** `(bar)` |
-| ***stat*** `.at` | ~~***stat***~~*ist* `(.i+st)` |
+| ***stat*** `.at` | ~~*stat*~~*ist* `(.i+st)` |
 
 
 ### …
