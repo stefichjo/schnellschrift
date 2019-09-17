@@ -2532,7 +2532,7 @@
     * : ***stat****ion* `.at.iO` ⇒ `sta*` STS
     * : **kon*****stat***ier `ko.at.ir` ~ `ko.sta.ir`
     * ~~*stat*~~*ist* `(.i+st)` : `(.i+st)-ik`
-        * : ~~***stat***~~*istisch* `(.i+st)-isch` ~ `sta.iS.i`
+        * : ~~*stat*~~*istisch* `(.i+st)-isch` ~ `sta.iS.i`
     * *statu* `sta.u` : `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
     * **st**it `st` : `IN.st.ut` `IN.st.ut.iO` `ko.st.ir`
       * : **kon**<i></i>**st**itut*ion* `ko.st.ut.iO` ~ `ko.st.it.iO`
@@ -2865,7 +2865,7 @@
 * **vest** `v` : `IN.w.ir` `IN.w-o`
   * : *in***vest**ment `IN.w.met` × `IN.w` = invest
 * **v**id `v` : `d.i-w.ir` `r.w.ir`
-  * : *~~divi~~****dend***e `(d.ed).e`
+  * : ~~*divi*~~***dend***e `(d.ed).e`
   * *individ* = *in***d**i~~vid~~ : `IN.d.al.ät` `IN.d.ell` `IN.d.um`
   * → video
   * **v**is `v` : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `r.w-o` `r.w.or`
@@ -3238,7 +3238,15 @@
 
 ### Ausfall von Nicht-Kurzformen
 
-* 
+### Aufheben von Kurzformen
+
+Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird daher wie eigene Kürzel behandelt.
+
+| *arb****eit*** | `(T)` |
+|:-|:-|
+| *ge*<i></i>*arbeit*et | `G.ab.T` |
+| be*arbeit*en | `b.ab.T` |
+| *ver*<i></i>*arbeit*en | `E.ab.T`
 
 ### Verschattung von Kurzformen
 
@@ -3272,7 +3280,6 @@ Ist das Wortende, auf das gekürzt wird, selbst eine Kurzform, so wird der Rest 
 | ***mög*** `.ög` | ~~*mög*~~*lich* `(L)` |
 | *nach* `ach`| ~~*nach*~~***bar*** `(bar)` |
 | ***stat*** `.at` | ~~*stat*~~*ist* `(.i+st)` |
-
 
 ### …
 
