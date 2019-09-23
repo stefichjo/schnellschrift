@@ -3249,7 +3249,7 @@ Kurzformen der Verkehrsschrift dürfen durch Kurzformen der Schnellschrift versc
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| *mitt*el     | `-t-el`   | | *mittel*    | `-t-el`            |
+| *mitt*el     | `M.el`   | | *mittel*    | `-t-el`            |
 
 ### Phase 2
 
