@@ -126,6 +126,7 @@
 * bass `b.ass` : `(ko)tra.b.ass`
 * *bayer*, *bayern* `b.ay`
 * **be**- `b`
+* becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
 * behörde ← hör
 * bei `b.ei` : `b.ei,i`
@@ -509,6 +510,7 @@
   * : **fäch**er `f-er` ! `f.ech-er`
   * : ein**fach**er `N.fa-er` ! `N.fa.er`
 * faci
+* faden `r.ad`
 * **fäh** `f`/`fäh` : `f.i` `f.i-T` `l.ei-f.i` `l.ei-f.i-T`
   * : *arb****eit***s**fäh***ig* `(T)-f.i` ~ `T-f.i`
   * : *arb****eit***s*un***fäh***ig****keit*** `(T),UN-f.i-T` × `(T),UN-T`
@@ -1005,8 +1007,9 @@
 * heiter `h.T-er`
 * helf `h.ef` : `h.ef-er.in` `h.ef-er.h.ef-er` `ach.h.ef`
   * hilf `h.if`
-    * *hilf* `hi` : `.ab,hi.e` `b.ei-hi.e`
-      * : *hilf*e `hi-e` ! `hi.e`
+    * **hilf** `hi` : `.ab,hi.e` `b.ei-hi.e`
+      * : **hilf**e `hi-e` ! `hi.e`
+      * : **hilf***reich* `hi.r.ei` ~ `hi.eich`
   * half `h.af`
   * holf `h.of` : `G.h.of` `.S.h.of`
 * hemm `h.em` : `h.em-UNG.os`
@@ -1204,7 +1207,7 @@
   * kenn `k.en` : `k.en.e` ≠ kennt
   * : aner**kenn**en `.an.er.k` × `.an.er`
   * **kann** `ka` : `ka-t.e` `b.ka-t`
-* **kind** `ki` : `ki.H` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
+* **kind** `ki` : `ki.H` `ki.os` `ki.r.ei` `ki:ki.er` `(N):ki`
   * ! `k.id` : `k.id.i` `k.id.L`
 * *kir****ch*** `(ch)` : `(ch)L` `(ch)T-UNG`
 * ***klag*** `.ag` : `.ag.e` `.ag.bar` `.an.ag` `.an.agt-er` `b.ag`
@@ -1221,11 +1224,12 @@
 * *kl****ein*** `(N)` : `(N).er` `(N)-st` `(N).H` `(N).i-T` `(N).L.T` `E.N.er` `zr.N.er`
 * ***klim*** `.im` : `.im.a` `.im.i` `.im.ir`
 * **klin** `kli` : `kli.ik` `.un.ät,kli.ik`
+* knochen `kn.och`
 * koll
   * *protokoll* `pr.ot.ok`
 * **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `IN.b.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
   * : *darauf* *zurück***komm**en `dar-AU u-rÜ.ko` ~ `dar-AU-Ü.ko`
-  * : *zu*.*hilf*e.**komm**en `Z.hi.ko` ~ `Z.i-ko`
+  * : *zu*.**hilf**e.**komm**en `Z.hi.ko` ~ `Z.i-ko`
   * **kömm** `kö` : `b.kö.L` `.ab.kö.l.ing`
   * kam `k.am`
     * käm `k.äm` : `k.äm.e`
@@ -1425,7 +1429,7 @@
     * : *in*.~erster~.*lin****i***e `IN.I.e`
     * : *in*.*zweiter*.*lin****i***e `IN.T-I.e`
 * list `l.ist` : `l.ist-ig`
-  * : listen*r****eich*** `l.ist-eich` ~ `l.i-en.eich`
+  * : listen*reich* `l.ist.r.ei` ~ `l.i-en.r.ei`
 * **li**st `l.i` : `l.i-e` `l.i-en` `.an.es.H.l.i` `r.ang.l.i`
 * *liter* `li` : `li.ar.i` `li.ur`
   * : *liter*at `li.at` ! `l.it-er.at`
@@ -1457,6 +1461,8 @@
     * *mächt* `eCHT` : `wet,eCHT.e`
   * → makel
 * macht ← mög
+* magen `m.ag`
+  * mägen `m.äg`
 * **mahn** `ma` : `ma-UNG` `.an.ma` `er.ma`
   * ! `m.an`
 * mainz `m.eiz`
@@ -1938,6 +1944,7 @@
 * *rak****et*** `(.et)` : `(.et).e`
   * : **träg**er*rak****et***e `tr.er,(.et).e` ! `tr.eg-er,(.et).e`
 * rang `r.ang` : `r.ang.ir` `O.r.ang`
+* ras `r.as`
 * **rat** `ra` : `ra.os` `G.ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra`
   * : **rat***geber* `ra.g` ! `ra.g.eb-er`
   * : **rat***sam* `ra-Sa` ! `ra-s.am`
@@ -1991,9 +1998,10 @@
       * : *in*<i></i>*direkt* `(IN)di` ~ `IN.d-t`
       * → adress
     * : **kon**<i></i>**rekt**or `ko.r.or` ! `ko.r.ekt-or`
-* *r****eich*** `(.eich)` : `b.eich` `Ü.eich` `hi.eich`
+* *r****eich*** `(.eich)` : `b.eich` `Ü.eich`
   * : *r****eich****lich* `(.eich).L` ~ `r.ei-L`
   * : *er*<i></i>*r****eich***en `er.eich` ~ `(er)r.ei`
+  * : -*reich* = -**reich** `r.ei` STS → hilf kind
 * reif `r.eif`
   * -***reif***e ⇒ -*reife* `.eif.e` → schul
 * reih `r.eih`
@@ -2912,7 +2920,7 @@
     * *wüchs* `wüs`
   * *wechsel* `wes.el`
     * -*wechsel* `S.el` : `.ab.S.el` `.S.S.el` `.um.S.el` `.ift.S.el` `E.S.el`
-* wag `w.ag`
+* wagen `w.ag`
   * -*wagen* `wa` → kraft krank
 * wäg `w.äg`
   * : abwägen `.ab.w.äg` * `.ab.äg`
@@ -3233,28 +3241,36 @@
 
 * **zw**ischen `zw` : `(I)zw`
 
-## …
+## Phasen
 
-### Ausfall von Nicht-Kurzformen
+### Phase 1
 
-### Aufheben von Kurzformen
+Kurzformen der Verkehrsschrift dürfen durch Kurzformen der Schnellschrift verschattet werden.
 
-Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird daher wie eigene Kürzel behandelt.
+| | | | | |
+|:-|:-|:-|:-|:-|
+| *mitt*el     | `-t-el`   | | *mittel*    | `-t-el`            |
 
-| | |
-|:-|:-|
-| *arb****eit*** | `(T)` |
-| *ge*<i></i>*arbeit*et | `G.ab.T` |
-| be*arbeit*en | `b.ab.T` |
-| *ver*<i></i>*arbeit*en | `E.ab.T`
+### Phase 2
 
-### Verschattung von Kurzformen
+Kurzformen der Schnellschrift dürfen einander verschatten, wenn die verschattende Kurzform *spezifischer* ist als die verschattete Kurzform.
 
-Kurzformen der Verkehrsschrift gelten als sicher einstudiert und können daher in der Schnellschrift durch zusätzliche Kurzformen verschattet werden.
+#### Scheinnachsilben
 
-### Kürzung auf Wortende
+Die Anlautkürzung **Jahr** `ja` kann durch die *spezifischere* Auslautkürzung -***jahr*** `.ar` verschattet werden, da -***jahr*** nur als Scheinnachsilbe verwendet wird (z.B. in "im Jahre" `.im.ar.e`).
 
-Kürzungen auf das Wortende dürfen andere Kurzformen verschatten.
+#### Kürzelzeichen
+
+Kürzelzeichen gelten in diesem Sinne immer als *spezifisch*. Beispielsweise darf das (hochgestellte) Kürzelzeichen *bestimm*en `b°-i` die Auslautkürzung ***stimm***en `.im` verschatten. Erstere darf wiederum durch das Kürzelzeichen *mitbestimm*en `M°` verschattet werden.
+
+| | | | | |
+|:-|:-|:-|:-|:-|
+| **stimm**en | `.im` | | *bestimm*en    | `b°-i` |
+|             |       | | *mitbestimm*en | `M°`   |
+
+#### Kürzung auf Wortende
+
+Kürzungen auf das Wortende gelten wie Kürzelzeichen als *spezifisch* und dürfen daher andere Kurzformen der Schnellschrift verschatten.
 
 | | | | | |
 |:-|:-|:-|:-|:-|
@@ -3281,6 +3297,27 @@ Ist das Wortende, auf das gekürzt wird, selbst eine Kurzform, so wird der Rest 
 | *nach*             | `ach`   | | ~~*nach*~~***bar***   | `(bar)`             |
 | ***stat***         | `.at`   | | ~~*stat*~~*ist*       | `(.i+st)`           |
 
+---
+
+## …
+
+### Ausfall von Nicht-Kurzformen
+
+### Aufheben von Kurzformen
+
+Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird daher wie eigene Kürzel behandelt.
+
+| | |
+|:-|:-|
+| *arb****eit*** | `(T)` |
+| *ge*<i></i>*arbeit*et | `G.ab.T` |
+| be*arbeit*en | `b.ab.T` |
+| *ver*<i></i>*arbeit*en | `E.ab.T`
+
+### Verschattung von Kurzformen
+
+Kurzformen der Verkehrsschrift gelten als sicher einstudiert und können daher in der Schnellschrift durch zusätzliche Kurzformen verschattet werden.
+
 ### …
 
 Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem Wörterbuch als *Kürzel* aufgeführt. (~)
@@ -3306,6 +3343,7 @@ Besteht Verwechslungsgefahr mit einem anderen Wort ohne *-is*, sollte *-is* mitg
 Infinitive werden im Satz ohne die Endung *-en* geschrieben. Substantiviert wird *-en* wieder geschrieben. Substantive auf *-en*, die nicht auf einer Grundform ohne *-en* basieren, werden ohne *-en* geschrieben.
 
 * **bod**en `bo`
+* magen `m.ag`
 * rahmen `r.am`
 
 ### @-er
