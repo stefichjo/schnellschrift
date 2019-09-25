@@ -438,7 +438,7 @@
   * : ~~*ein*~~*heit* `(H)` ⇒ `H` : `UN-H.L` `E.H.L`
   * : *irgend*ein `.i-N` ! `.ig.N`
   * : *ver*ein `E.N`
-    * : *ver*ein***bar*** `E.N.bar` × `E.bar` @-×-
+    * : *ver*ein***bar*** `E.N.bar` -×- *vereinbar* = *ver*~~ein~~***bar*** `E.bar`
     * : *ver*ein*ig* `E.N.i` × `E.ig`
       * -*vereinigung* `ig`
         * *wieder*<i></i>*vereinigung* `W,ig` ~ `W.ig`
@@ -1531,7 +1531,7 @@
   * *komment* `ko-t` : `ko-t-ar` `ko-t-at.or`
   * -*ament* `eNT` → perg temp test
 * merk `m.ek` : `m.ek,(.el)`
-  * : *auf*merk*sam* `AU.m.ek-Sa` × `AU-Sa` . `dar-AU.ma` @-×-
+  * : *auf*merk*sam* `AU.m.ek-Sa` -×- *aufmerksam* = *auf*~~merk~~*sam* `AU-Sa` . `dar-AU.ma`
     * : *auf*merk*sam****keit*** `AU.m.ek-Sa.T` × `AU.T`
       * : *mit*.*besonder*er *auf*merk*sam****keit*** `M-S AU.T` × `M-S.T`
   * : **be**merk `b.m.ek` * `b.m`
@@ -2133,8 +2133,8 @@
       * : *vor***sicht** `O-si` ~ `O.icht` : `UN.O-si.i` ~ `UN.O.icht.i`
       * : *über***sicht** `Ü,si` ~ `Ü.icht` : `.ei-e-Ü.icht` `.ei-e-Ü.icht-Ü.n,and`
     * × ~~sicht~~
-      * : *hin*~~sicht~~ ⇒ -*hinsicht* `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn` @-×
-      * : **rück**~~sicht~~ ⇒ -*rücksicht* `rÜ` : `rÜ.os` @-×
+      * : *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn` @-×-
+      * : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
         * : *rücksicht*~~nahm~~e `rÜ,(.e)` ! `rÜ.icht,(.e)` ≠ rücknahme
         * : **be***rücksicht*<i></i>*ig*en `b.rÜ.i` × `b.rÜ` @--×
         * : *mit*.*rücksicht*.*auf* `M-Ü.AU`
@@ -3109,7 +3109,7 @@
 * *woll* `(.ol)`
   * *will* `(.l)`
 * wort `wot`
-  * *antwort* `aNT` : `(b)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
+  * *ant*~~wort~~ = *antwort* `aNT` : `(b)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
   * : **wund**er*voll* `wu-er.Ol` × `wu-ol`
@@ -3251,6 +3251,27 @@ Kurzformen der Verkehrsschrift dürfen durch Kurzformen der Schnellschrift versc
 |:-|:-|:-|:-|:-|
 | *mitt*el     | `M.el`   | | *mittel*    | `-t-el`            |
 
+#### Ausfall zwischen Vor- und Nachsilbe
+*(-×-)*
+
+Zwischen Vor- und Nachsilbe dürfen ungekürzte Wortstämme ausfallen.
+
+| | | | | |
+|:-|:-|:-|:-|:-|
+| *ant*wort | `aNT.wot` | | *antwort* = *ant*~~wort~~ | `aNT` |
+| *auf*merk*sam* | `AU.m.ek-Sa` | | *aufmerksam* = *auf*~~merk~~*sam* | `AU-Sa` |
+| *ver*ein***bar***en | `E.N.bar` | | *vereinbar*en = *ver*~~ein~~***bar***en | `E.bar` |
+
+
+
+* emp**find**en `.emp-fi` ⇒ `.emp-i`
+* *ent***wick**eln `eNT,wi.el` ⇒ `eNT-i`
+* *unter***such**en `UNTER.su` ⇒ `UNTER-u`
+
+
+      * : *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn` @-×-
+      * : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
+
 ### Phase 2
 
 Kurzformen der Schnellschrift dürfen einander verschatten, wenn die verschattende Kurzform *spezifischer* ist als die verschattete Kurzform.
@@ -3357,12 +3378,6 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 
 ### Präposition + Infinitiv mit zu
 
-### @-×-
-*(Ausfall einer Nicht-Kürzung zwischen Vor- und Nachsilbe)*
-
-* aufmerksam
-* vereinbar
-
 ## TODOs
 
 * @ä - Das ä-Symbol (Verstärkung und einstufier Aufstrich) hilft, *ä* von *e* zu unterscheiden.
@@ -3376,7 +3391,6 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 
-* @-× Ausfall des Stamms (auch bereits gekürzt) nach einer Vorsilbe -- :(
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 
 * ~2 doppelte Verschattung :/

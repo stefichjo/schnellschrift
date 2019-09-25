@@ -1,44 +1,7 @@
 # Schnellschrift
 
 * [Wörterbuch](wörterbuch.md)
-* [Beispiele](beispiele.md)
 
-## Legende
-
-| Ausschreibung | [Kurzschreibung](#kurzschreibung) | [Kürzel](#kürzel) |
-|:-:|:-:|:-:|
-| (alt) | wort | *unter* |
-| `[( alt )]` | `[ wort ]` | `[{ unter }]` |
-| `.alt` | `wot` | `UNTER` |
-
-| Anlautkürzung | Auslautkürzung | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
-|:-:|:-:|:-:|:-:|
-| **kurz** | ***flott*** | **f**ür | *deut****sch*** |
-| `[\| kurz \|]` | `[/ flott /]` | `[\| f \| ür \|]` | `[/ deut / sch /]` |
-| `ku` | `.ot` | `f` | `(sch)` |
-
-* möglich: ~~mög~~*lich* `[{ lich }]`
-
-| Inlautkürzung / -el |
-|:-:|
-| ... |
-| `[< schrift >]` |
-| `i` |
-
-* ~~arb~~eit ⇒ arb***eit***
-* inlautkürzung/-kürzel (eigenständig/verschmelzend)
-
-### Verschattung von Kürzungen
-
-#### Vorsilbe + Anlautkürzung
-
-* emp**find**en `.emp-fi` ⇒ `.emp-i`
-* *ent***wick**eln `eNT,wi.el` ⇒ `eNT-i`
-* *unter***such**en `UNTER.su` ⇒ `UNTER-u`
-
-#### Auslautkürzel und Nachsilbenkürzel
-
-* ***mög****lich* `.ög.L` ⇒ `(L)`
 
 ### Kurzschreibung
 
@@ -306,15 +269,6 @@ Im Wortinnern werden die Vorsilben **be**- `b` und *ver*- `E` ausgelassen. So wi
 * *ver*f**ü**gen `E-Ü`
   * *zur*.*ver*f**ü**g~~ung~~ `zr*.E-Ü` × `zr*-Ü`
 
-### Praxis: Fußschleife und die Endung -ung
-
-Um die Endung -*ung* durch Auslassen der Fußschleife anzudeuten, wird in der Praxis die Kürzung des Stamms vor -*ung* so geändert, dass ein Fußschleifenzeichen vor der Endung -*ung* steht.
-
-* ***stell***en `.ell`
-  * ***stell***<i></i>*ung* `.ell-UNG` ⇒ `st*`
-* **sitz**en `si`
-  * **sitz**<i></i>*ung* `si.UNG` ⇒ `.iz*`
-
 ### Praxis: Verschattende Kürzel
 
 Formen, die Kürzungen verschatten, werden als eigenständige Kürzel geführt. So verschattet beispielsweise *erfolgreich* `er,r.ei` sowohl die Anlautkürzung **folg** `fo` als auch die Auslautkürzung ~~r~~eich `.eich`.
@@ -355,84 +309,28 @@ Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
 * weile `w.eil.e`
 * weil `.eil`
 
-### Ascii
 
-| b | br |
-|:-|:-|
-| `│` `·`<br>`│` `·`<br>`│` `·`<br>`└` `·` | `│` `·`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`└` `·` |
+---
 
-| c | cr |
-|:-|:-|
-| `┐`<br>`┘`<br>`┐`<br>`│` | `┐`<br>`┘`<br>`┐`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│` |
+## Legende
 
-| d | dr | d-er |
-|:-|:-|:-|
-| `┌` `┐`<br>`├` `┘`<br>`│` `·`<br>`└` `·` | `┌` `┐`<br>`├` `┘`<br>`│` `·`<br>`│` `·` | `┌` `┐`<br>`├` `┘`<br>`\` `·`<br>`·` `\` |
+| Ausschreibung | [Kurzschreibung](#kurzschreibung) | [Kürzel](#kürzel) |
+|:-:|:-:|:-:|
+| (alt) | wort | *unter* |
+| `[( alt )]` | `[ wort ]` | `[{ unter }]` |
+| `.alt` | `wot` | `UNTER` |
 
-| f | fr | pf | pfr |
-|:-|:-|:-|:-|
-| `┌` `┐`<br>`│` `│`<br>`│` `│`<br>`└` `┘`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`└` `·` | `┌` `┐`<br>`│` `│`<br>`│` `│`<br>`└` `┘`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`│` `·` | `┌` `─` `─` `┐`<br>`│` `·` `·` `│`<br>`│` `·` `·` `│`<br>`└` `─` `─` `┘`<br>`│` `·` `·` `·`<br>`│` `·` `·` `·`<br>`│` `·` `·` `·`<br>`└` `·` `·` `·` | `┌` `─` `─` `┐`<br>`│` `·` `·` `│`<br>`│` `·` `·` `│`<br>`└` `─` `─` `┘`<br>`│` `·` `·` `·`<br>`│` `·` `·` `·`<br>`│` `·` `·` `·`<br>`│` `·` `·` `·` |
+| Anlautkürzung | Auslautkürzung | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
+|:-:|:-:|:-:|:-:|
+| **kurz** | ***flott*** | **f**ür | *deut****sch*** |
+| `[\| kurz \|]` | `[/ flott /]` | `[\| f \| ür \|]` | `[/ deut / sch /]` |
+| `ku` | `.ot` | `f` | `(sch)` |
 
-| g | gr |
-|:-|:-|
-| `┐`<br>`│`<br>`│`<br>`│` | `┐`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│` |
+* möglich: ~~mög~~*lich* `[{ lich }]`
 
-| h | h-er|
-|:-|:-|
-| `┐`<br>`│`<br>`│`<br>`┘` | `┐` `·`<br>`┘` `·`<br>`\` `·`<br>`·` `\` |
+| Inlautkürzung / -el |
+|:-:|
+| ... |
+| `[< schrift >]` |
+| `i` |
 
-| j | j-er |
-|:-|:-|
-| `│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`┘` | `│` `·`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`┘` `·`<br>`\` `·`<br>`·` `\` |
-
-| k | kr | ko |
-|:-|:-|:-|
-| `┐`<br>`│` | `─` `┐`<br>`·` `│`<br>`·` `│`<br>`·` `│` | `─` `┐`<br>`·` `│` |
-
-| m | M | M-er |
-|:-|:-|:-|
-| `┐`<br>`│`<br>`│`<br>`└` | `┐`<br>`│`<br>`│`<br>`│`<br>`│`<br>`└` | `┐` `·` `·`<br>`│` `·` `·`<br>`│` `·` `·`<br>`└` `·` `·`<br>`·` `\` `·`<br>`·` `·` `\` |
-
-| n | ng | N |
-|:-|:-|:-|
-| `┐`<br>`└` | `─` `┐` `·`<br>`·` `│` `·`<br>`·` `│` `·`<br>`·` `└` `─` | `─` `┐` `·`<br>`·` `└` `─` |
-
-| p | pr |
-|:-|:-|
-| `┌`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`└` | `┌`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│` |
-
-| r | rr |
-|:-|:-|
-| `\` `·`<br>`·` `\` | `\` `·` `·` `·`<br>`·` `\` `·` `·`<br>`·` `·` `\` `·`<br>`·` `·` `·` `\` |
-
-| s | ss | rs |
-|:-|:-|:-|
-| `·` `/`<br>`/` `·` | `·` `·` `·` `/`<br>`·` `·` `/` `·`<br>`·` `/` `·` `·`<br>`/` `·` `·` `·` | `\` `/`<br>`/` `\` |
-
-| t | tr |
-|:-|:-|
-| `│`<br>`│`<br>`│`<br>`│` | `│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│` |
-
-| v | AU |
-|:-|:-|
-| `┌`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`│`<br>`┘` | `┌`<br>`│`<br>`│`<br>`┘` |
-
-| w | wr |
-|:-|:-|
-| `┌`<br>`│`<br>`│`<br>`└` | `┌`<br>`│`<br>`│`<br>`│` |
-
-| x |
-|:-|
-| `·` `┐`<br>`·` `│`<br>`·` `│`<br>`·` `┘`<br>`│` `·`<br>`│` `·`<br>`│` `·`<br>`┘` `·` |
-
-| schm |
-|:-|
-| `·` `·` `┐`<br>`·` `·` `│`<br>`·` `·` `│`<br>`·` `·` `┘`<br>`┌` `┤` `·`<br>`│` `│` `·`<br>`│` `│` `·`<br>`└` `┘` `·` |
-
-| E | O |
-|:-|:-|
-| `│`<br>`└` | `│` `·`<br>`└``─` |
-
-| ur | UR |
-|:-|:-|
-| `└` `·`<br>`·` `┐` | `│` `·`<br>`└` `·`<br>`·` `┐`<br>`·` `│` |
