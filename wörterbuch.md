@@ -32,7 +32,7 @@
 * als `.as`
 * also `.as.o`
 * alt `.at` : `.at-er` `.at-er.tum` `ki.at-er` `v.at-er.h`
-  * ! (alt) `.alt` : `.ur.alt`
+  * ! *alt* = (alt) `.alt` : `.ur.alt`
   * ält `.ät` : `.ät-er` `.ät.est`
 * *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
 * amt `.amt` : `.amt-ir`
@@ -60,13 +60,13 @@
 * arch `.ach` : `.ach.og.e`
   * : archäo***log***ie `.ach.og.I` ~ `.ach.o-I`
 * arg `.ag` : `.arg.os` `E.ag`
-  * ! (arg) `.arg`
+  * ! *arg* = (arg) `.arg` ≠ mag schlag
   * : ärg `.äg` : `.äg-er` `.äg-er.L` `.äg-er.is` `E.äg-er` `.am.äg-st`
 * arg `.ag`
   * : argument `.ag.met` ! `.ag.u-met`
 * arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
 * **a**rt `.a` : `.ab.a` `(r).a.i` `.es.a`
-  * (art) `.art`
+  * ! *art* = (art) `.art`
 * art `.at` : `.at.ik.el`
   * : arterie `.at.er.I.e` × `.at.er.e` @ie
   * *artik* `(.ik)` : `(.ik).el` `(.ik).ir` `(.ik).iO` `b.da.ik.el`
@@ -177,7 +177,7 @@
     * -*verband* `ba` → land zentral
     * **bänd** `b`/`bä` : `bä-e` @ä
       * : *ver***bänd**e `E.bä.e` ~ `E.b.e`
-      * ! (bänd) `b.änd` : `b.änd.i`
+      * ! *bänd* = (bänd) `b.änd` : `b.änd.i`
   * **bund** `bu` : `bu.um`
     * **bünd** `bü` : `bü.e` `bü.el` @ü
 * **bis** `bi`
@@ -452,7 +452,7 @@
   * : *hin*ein `n.N` ~ `hi.N` ≠ nein
   * : *von* *vor*n*her*ein `v O.n.h.N` × `v.N`
 * eis `.eis`
-* (eisen) ≠ eis `.eis.en`
+* *eisen* = (eisen) `.eis.en` ≠ eis
 * el `.el` : `.el.e-met` `.el.e-met.ar`
 * *elektr* `.el` : `.el.i` `.el.if.ir` `.el.ir` `.el.od.e` `.el.on.i`
   * : *elektr*izität `.el.ät`
@@ -475,6 +475,7 @@
 * *ener****g*** `(g)` : `(g).I` `(g).i`
 * *ent*- `eNT`
 * *ent*behr ← behr ← bär
+* *ent*e = (ent)e `.ent.e`
 * -*ent* `eNT`
 * *er* `er` @?
 * erb `.eb` : `.eb.e` `.eb.L` `.eb-FT` `G.eb-t` `E.eb-UNG`
@@ -490,7 +491,7 @@
   * *inter*~~ess~~ `(I)t-er`: `(I)t-er.aNT` `(I)t-er.eNT-en` `(I)t-er.ir` `(I)t-er.os.i-T` `UN-(I)t-er.aNT`
     * : *inter*~~ess~~e `(I)t-er.e` × `(I)t-er`
 * *essen* `.ess`
-* *etw****a*** (.a) : (.a)-s
+* *etw****a*** `(.a)` : `(.a)-s`
 * *europa*, *europä* `.eu-p` : `.eu-p-er` `.eu-p.i`
 * **ex**- `.e`
 * exemp ← em
@@ -649,7 +650,7 @@
 * ***fleisch*** `.eisch` : `.eisch.i`
   * : rind***fleisch*** `r.id.eisch` ~ `ri.eisch`
 * **flekt** `fl`
-  : ! (flekt) `fl.ekt`
+  : ! flekt `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.ib.ät` `fl.iO`
 * *fl****ieh*** `(.ih)` : `eNT.ih`
   * *flieh* = **flieh** `fli`
@@ -2380,7 +2381,7 @@
   * **höch**st**wa**hr~~sch~~ein*lich* `hö-t-wa.N.L` ~ `hö-st-N.L`
   * *sch****ien*** `(.in)` : `er.in`
     * *ge*<i></i>*sch****ien*** : `G.in` ~ `(G)(.in)`
-    * (schien) `sch.in`
+    * schien `sch.in`
 * schicht ← scheh
 * **schick** `.ik`
 * ***schieß*** `.iss` : `.iss.ei`
@@ -2634,7 +2635,7 @@
 * **straß** `stra` : `stra-e`
   * -*straß****e*** : `(.e)` `hau,(.e)` `la,(.e)` `m.ich,(.e)`
     * ***seit***en*straß****e*** : `T,(.e)` ~ `s.T.en,(e)`
-* **streb** `str` : (er)str,(-t)`
+* **streb** `str` : `(er)str,(-t)`
   * : **be**<i></i>**streb**t `(b)str-t` × `(b)str`
 * streck `str.ek` : `str.ek.e`
   * : *er*strecken `(er)str.ek` ~ `(er)str`
@@ -3243,13 +3244,58 @@
 
 ## Phasen
 
-### Phase 1
+### Phase: Schnellschrift und Ausnahmen
+
+In der Schnellschrift werden "l", "n" und "r" vor Auslaut nicht geschrieben.
+
+| | | | | | | | |
+|:-|:-|:-|:-|:-|:-|:-|:-|
+| geld | `g.ed` | | bank | `b.ak` | | stark | `st.ak` |
+
+Ausnahmen werden in Klammern geschrieben und müssen als Kŭrzel gelernt werden.
+
+* ! *bänd* = (bänd) `b.änd`
+
+Nach nicht-geschriebenem "l" und "n" bleibt auslautendes "s" linkswendig.
+
+| | | | | |
+|:-|:-|:-|:-|:-|
+| hals | `h.a-s` | | insel | `.i-s.el` |
+
+In Wörtern ohne Anlaut (Selbstlaut + "ls") wird das "s" nach "l" jedoch wieder rechtswendig.
+
+| | |
+|:-|:-|
+| elsass | `.es.ass` |
+
+Nach nicht-geschriebenem "l", "n" und "r" bleibt auslautendes "t" 2-stufig (Aufstrichzeichen). Der Inlaut wird mit dem Anlaut angedeutet.
+
+| | | | | | | | |
+|:-|:-|:-|:-|:-|:-|:-|:-|
+| alt | `kat` | | bunt | `but` | | wort | `wort` |
+
+In Wörtern ohne Anlaut (Selbstlaut + Vorlaut + "t") wird das "t" nach Vorlaut jedoch wieder 1-stufig (Abstrichzeichen).
+
+| | | | | | | | |
+|:-|:-|:-|:-|:-|:-|:-|:-|
+| ält | `.ät` | | bunt | `but` | | wort | `wort` |
+
+* ! *alt* = (alt) `.alt`
+* ! *arg* = (arg) `.arg`
+* ! *art* = (art) `.art`
+
+* fährt `fet` *(mit Endung)*
+* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir` *(Adverb-t vs. Partizip-t)*
+* *dis*<i></i>*kut*iert *wird* `ds-u.irt-wr`
+
+
+### Phase:
 
 Kurzformen der Verkehrsschrift dürfen durch Kurzformen der Schnellschrift verschattet werden.
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| *mitt*el     | `M.el`   | | *mittel*    | `-t-el`            |
+| *mitt*el | `M.el` | | *mittel* | `-t-el` |
 
 #### Ausfall zwischen Vor- und Nachsilbe
 *(-×-)*

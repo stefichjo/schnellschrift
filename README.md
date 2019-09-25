@@ -5,27 +5,6 @@
 
 ### Kurzschreibung
 
-| l | ls | lt |
-|:-:|:-:|:-:|
-| `[ geld ]` | `[ hals ]` | `[ kalt ]` |
-| `g.ed` | `h.a-s` | `kat` |
-
-| n | ns | nt |
-|:-:|:-:|:-:|
-| `[ bank ]` | `[ insel ]` | `[ bunt ]` |
-| `b.ak` | `.i-s.el` | `but` |
-
-| r | rs | rt |
-|:-:|:-:|:-:|
-| `[ stark ]` | `[ kurs ]` | `[ wort ]` |
-| `st.ak` | `ku-s` | `wot` |
-
-* als `.as`
-* tort `t.ot` = tot
-* sport `sp.ot` = spot
-* fährt `fet` *(mit Endung)*
-* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir` *(Adverb-t vs. Partizip-t)*
-* *dis*<i></i>*kut*iert *wird* `ds-u.irt-wr`
 
 ### Kürzel
 
