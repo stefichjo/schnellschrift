@@ -1657,7 +1657,7 @@
     * *ernähr* `er.är` : `er.är-er`
       * : *ernähr*en `er.är` ~ `er.ä` ≠ erklären
 * ~~nam~~ : `(.e)` `(-t-L)` `ach,(.e)`
-  * ! `n.am` : `n.am.ha`
+  * : ~~nam~~**haft** `(ha)` ! `n.am.ha`
   * : im ~~nam~~en `.im (en)` ~ `.im.en`
   * *namentlich* `-t.L`
   * ***näm*** `.äm` : `.äm.L`
@@ -3244,9 +3244,25 @@
 
 ## Phasen
 
-### Phase: Schnellschrift und Ausnahmen
+### Schnellschrift ohne Verschattung
 
-In der Schnellschrift werden "l", "n" und "r" vor Auslaut nicht geschrieben.
+#### Auslassen von Endungen
+
+---
+* fährt `fet` *(mit Endung)*
+* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir` *(Adverb-t vs. Partizip-t)*
+* *dis*<i></i>*kut*iert *wird* `ds-u.irt-wr`
+
+Infinitive werden im Satz ohne die Endung *-en* geschrieben. Substantiviert wird *-en* wieder geschrieben. Substantive auf *-en*, die nicht auf einer Grundform ohne *-en* basieren, werden ohne *-en* geschrieben.
+
+* **bod**en `bo`
+* magen `m.ag`
+* rahmen `r.am`
+---
+
+#### Auslassen der Vorlaute "l", "n" und "r"
+
+In der Schnellschrift werden die Vorlaute "l", "n" und "r" nicht geschrieben.
 
 | | | | | | | | |
 |:-|:-|:-|:-|:-|:-|:-|:-|
@@ -3254,9 +3270,13 @@ In der Schnellschrift werden "l", "n" und "r" vor Auslaut nicht geschrieben.
 
 Ausnahmen werden in Klammern geschrieben und müssen als Kŭrzel gelernt werden.
 
-* ! *bänd* = (bänd) `b.änd`
+* *alt* = (alt) `.alt`
+* *arg* = (arg) `.arg`
+* *art* = (art) `.art`
+* *bänd* = (bänd) `b.änd`
+* *ent*e = (ent)e `.ent.e`
 
-Nach nicht-geschriebenem "l" und "n" bleibt auslautendes "s" linkswendig.
+Verkehrsschriftliches "ls" und "ns" haben ein linkswendiges "s". In der Schnellschrift bleibt "s" nach nicht-geschriebenem "l" und "n" ebenfalls linkswendig.
 
 | | | | | |
 |:-|:-|:-|:-|:-|
@@ -3272,59 +3292,63 @@ Nach nicht-geschriebenem "l", "n" und "r" bleibt auslautendes "t" 2-stufig (Aufs
 
 | | | | | | | | |
 |:-|:-|:-|:-|:-|:-|:-|:-|
-| alt | `kat` | | bunt | `but` | | wort | `wort` |
+| kalt | `kat` | | bunt | `but` | | wort | `wot` |
 
 In Wörtern ohne Anlaut (Selbstlaut + Vorlaut + "t") wird das "t" nach Vorlaut jedoch wieder 1-stufig (Abstrichzeichen).
 
-| | | | | | | | |
-|:-|:-|:-|:-|:-|:-|:-|:-|
-| ält | `.ät` | | bunt | `but` | | wort | `wort` |
+| | | | | |
+|:-|:-|:-|:-|:-|
+| ält | `.ät` | | ort | `.ot` |
 
-* ! *alt* = (alt) `.alt`
-* ! *arg* = (arg) `.arg`
-* ! *art* = (art) `.art`
+#### Kürzung
 
-* fährt `fet` *(mit Endung)*
-* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir` *(Adverb-t vs. Partizip-t)*
-* *dis*<i></i>*kut*iert *wird* `ds-u.irt-wr`
-
-
-### Phase:
-
-Kurzformen der Verkehrsschrift dürfen durch Kurzformen der Schnellschrift verschattet werden.
+Verkehrsschriftliche Kurzformen dürfen durch Kurzformen der Schnellschrift verschattet werden.
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| *mitt*el | `M.el` | | *mittel* | `-t-el` |
+| *mitt*el         | `M.el` | ⇒ | *mittel*      | `-t-el` |
+| *vor*<i></i>*ig* | `O.i`  | ⇒ | *vori****g*** | `(g)`   |
 
-#### Ausfall zwischen Vor- und Nachsilbe
-*(-×-)*
 
-Zwischen Vor- und Nachsilbe dürfen ungekürzte Wortstämme ausfallen.
+#### Ausfall
+
+Zwischen Vor- und Nachsilbe dürfen ungekürzte Wortstämme oder verkehrschriftliche Kurzformen ausfallen.
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| *ant*wort | `aNT.wot` | | *antwort* = *ant*~~wort~~ | `aNT` |
-| *auf*merk*sam* | `AU.m.ek-Sa` | | *aufmerksam* = *auf*~~merk~~*sam* | `AU-Sa` |
-| *ver*ein***bar***en | `E.N.bar` | | *vereinbar*en = *ver*~~ein~~***bar***en | `E.bar` |
+| *auf*merk*sam* | `AU.m.ek-Sa` | ⇒ | *aufmerksam* = *auf*~~merk~~*sam* | `AU-Sa` |
+| *auf*merk*sam*<i></i>*keit* | `AU.m.ek-Sa.T` | ⇒ | *aufmerksamkeit* = *auf*~~merksam~~*keit* | `AU.T` |
+| *ver*ein***bar***en | `E.N.bar` | ⇒ | *vereinbar*en = *ver*~~ein~~***bar***en | `E.bar` |
 
 
+---
+* | *ant*wort | `aNT.wot` | ⇒ | *antwort* = *ant*~~wort~~ | `aNT` |
+* : *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn` @-×-
+* : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
+---
 
-* emp**find**en `.emp-fi` ⇒ `.emp-i`
-* *ent***wick**eln `eNT,wi.el` ⇒ `eNT-i`
-* *unter***such**en `UNTER.su` ⇒ `UNTER-u`
+### Schnellschrift mit Verschattung
 
+Schnellschriftliche Kurzformen dürfen einander verschatten, wenn die verschattende Kurzform *spezifischer* ist als die verschattete Kurzform.
 
-      * : *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn` @-×-
-      * : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
+#### Inlautkürzungen
 
-### Phase 2
+Nach Vorsilbe können Inlautkürzungen Anlautkürzungen verschatten, müssen aber als eigenständiges Kürzel gelernt werden.
 
-Kurzformen der Schnellschrift dürfen einander verschatten, wenn die verschattende Kurzform *spezifischer* ist als die verschattete Kurzform.
+| | | | | |
+|:-|:-|:-|:-|:-|
+| emp**find**en | `.emp-fi` | ⇒ | *empfind*en = emp*f****i****nd*en | `.emp-i` |
+| *ent***wick**eln | `eNT,wi.el` | ⇒ | *entwickel*n = *ent*<i></i>*w****i****ckel*n | `eNT-i` |
+| *unter***such**en | `UNTER.su` | ⇒ | *untersuch*en = *unter*<i></i>*s****u****ch*en | `UNTER-u` |
 
 #### Scheinnachsilben
 
-Die Anlautkürzung **Jahr** `ja` kann durch die *spezifischere* Auslautkürzung -***jahr*** `.ar` verschattet werden, da -***jahr*** nur als Scheinnachsilbe verwendet wird (z.B. in "im Jahre" `.im.ar.e`).
+Kürzungen von Scheinnachsilben können andere Kurzformen verschatten, müssen aber als eigenständiges Kürzel gelernt werden.
+
+| | | | | |
+|:-|:-|:-|:-|:-|
+| **jahr** | `ja` | | | |
+| im **jahr**e | `.im ja-e` | ⇒ | im.***jahr***e | `.im.ar.e` |
 
 #### Kürzelzeichen
 
@@ -3332,8 +3356,9 @@ Kürzelzeichen gelten in diesem Sinne immer als *spezifisch*. Beispielsweise dar
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| **stimm**en | `.im` | | *bestimm*en    | `b°-i` |
-|             |       | | *mitbestimm*en | `M°`   |
+| **stimm**en | `.im` | | | |
+| **be**<i></i>**stimm**en | `b.im` | ⇒ | *bestimm*en | `b°-i` |
+| *mit***be**<i></i>**stimm**en | `M.b.im` | ⇒ | *mitbestimm*en | `M°` |
 
 #### Kürzung auf Wortende
 
@@ -3341,38 +3366,44 @@ Kürzungen auf das Wortende gelten wie Kürzelzeichen als *spezifisch* und dürf
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| *arb****eit***     | `(T)`   | | *arbeits****los***    | `(l.os)`            |
-| **ding**           | `.ing`  | | *allerdi****ng***s    | `(ng)-s`            |
-|                    |         | | *bedi****ng***en      | `(ng)`              |
-| ***flücht***       | `.ücht` | | *flüchtli****ng***    | `(ng)`              |
-| *gegen*            | `g`     | | *geg****end***        | `(.ed)`             |
-| ***heim***         | `.eim`  | | *heim****at***        | `(.at)`             |
-| **ka**rt           | `ka`    | | *kart****ell***       | `(.ell)`            |
-| **land**           | `la`    | | *land****es***        | `(.es)`             |
-| **min**            | `mi`    | | *min****ut***e        | `(.ut).e` ⇒ `.ut.e` |
-| *nach*             | `ach`   | | *näch****st***        | `(-st)`             |
-| ***not***          | `.ot`   | | *not****iz***         | `(.iz)`             |
-| **reg**            | `r`     | | *reg****el***         | `(.el)`             |
-|                    |         | | *reg****ier***en      | `(.ir)`             |
-| *vor*              | `O`     | | *vori****g***         | `(g)`               |
+| *arb****eit***                | `(T)`       | | | |
+| *arb****eit***s*los*          | `(T)-l.o`   | ⇒ | *arbeits****los***    | `(l.os)`            |
+| **ding**                      | `.ing`      | | | |
+| *all*er**ding**s              | `.al.ings`  | ⇒ | *allerdi****ng***s    | `(ng)-s`            |
+| **be**<i></i>**ding**en       | `b.ing`     | ⇒ | *bedi****ng***en      | `(ng)`              |
+| ***flücht***en                | `.ücht`     | | | |
+| ***flücht***<i></i>***ling*** | `.ücht.ing` | ⇒ | *flüchtli****ng***    | `(ng)`              |
+| *gegen*                       | `g`         | | | |
+| *gegen*d                      | `g.d`       | ⇒ | *geg****end***        | `(.ed)`             |
+| ***heim***                    | `.eim`      | | | |
+| ***heim***at                  | `.eim.at`   | ⇒ | *heim****at***        | `(.at)`             |
+| **ka**rt                      | `ka`        | | | |
+| **ka**rtell                   | `ka.ell`    | ⇒ | *kart****ell***       | `(.ell)`            |
+| **land**                      | `la`        | | | |
+| **land**es                    | `la.es`     | ⇒ | *land****es***        | `(.es)`             |
+| ***mög***en                   | `.ög`       | | | |
+| ***mög****lich*               | `.ög.L`     | ⇒ | ~~*mög*~~*lich*       | `(L)`               |
+| **min**                       | `mi`        | | | |
+| **min**ute                    | `mi.ut.e`   | ⇒ | *min****ut***e        | `(.ut).e` ⇒ `.ut.e` |
+| *nach*                        | `ach`       | | | |
+| *näch*st                      | `echst`     | ⇒ | *näch****st***        | `(-st)`             |
+| *nach****bar***               | `ach.bar`   | ⇒ | ~~*nach*~~***bar***   | `(bar)`             |
+| ***not***                     | `.ot`       | | | |
+| ***not***iz                   | `.ot.iz`    | ⇒ | *not****iz***         | `(.iz)`             |
+| **reg**                       | `r`         | | | |
+| **reg**el                     | `r.el`      | ⇒ | *reg****el***         | `(.el)`             |
+| **reg**ieren                  | `r.ir`      | ⇒ | *reg****ier***en      | `(.ir)`             |
+| ***stat***                    | `.at`       | | | |
+| ***stat****ist*               | `.at.i+st`  | ⇒ | ~~*stat*~~*ist*       | `(.i+st)`           |
 
-Ist das Wortende, auf das gekürzt wird, selbst eine Kurzform, so wird der Rest des Wortes durchgestrichen.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| ***mög***en        | `.ög`   | | ~~*mög*~~*lich*       | `(L)`               |
-| *nach*             | `ach`   | | ~~*nach*~~***bar***   | `(bar)`             |
-| ***stat***         | `.at`   | | ~~*stat*~~*ist*       | `(.i+st)`           |
 
 ---
 
 ## …
 
-### Ausfall von Nicht-Kurzformen
-
 ### Aufheben von Kurzformen
 
-Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird daher wie eigene Kürzel behandelt.
+Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird daher wie eigene Kürzel behandelt. Winklers
 
 | | |
 |:-|:-|
@@ -3380,10 +3411,6 @@ Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird 
 | *ge*<i></i>*arbeit*et | `G.ab.T` |
 | be*arbeit*en | `b.ab.T` |
 | *ver*<i></i>*arbeit*en | `E.ab.T`
-
-### Verschattung von Kurzformen
-
-Kurzformen der Verkehrsschrift gelten als sicher einstudiert und können daher in der Schnellschrift durch zusätzliche Kurzformen verschattet werden.
 
 ### …
 
@@ -3407,18 +3434,13 @@ Besteht Verwechslungsgefahr mit einem anderen Wort ohne *-is*, sollte *-is* mitg
 
 * *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
 
-Infinitive werden im Satz ohne die Endung *-en* geschrieben. Substantiviert wird *-en* wieder geschrieben. Substantive auf *-en*, die nicht auf einer Grundform ohne *-en* basieren, werden ohne *-en* geschrieben.
-
-* **bod**en `bo`
-* magen `m.ag`
-* rahmen `r.am`
 
 ### @-er
 
 Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleinstehend mit *-er* geschrieben.
 
 * ***wass***er `was-er`
-  * ***wass***er*werk* `w.as.ek`
+  * ***wass***er*werk* `was.ek`
 
 * Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
 
@@ -3433,7 +3455,6 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * @ie `I.e(n)`/`.i-e(n)`
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
-* @-×an Andeutung einer Anlautkürzung - nicht am Wortanfang
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 
