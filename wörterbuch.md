@@ -47,6 +47,9 @@
   * *unter*.anderem `UNTER.ad-er` ~ `u.ad-er`
   * *ande****rs*** `(rs)`
   * änder `.äd-er` : `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
+* angst `.angst`
+  * -*angst* = -*ang****st*** `(-st)` → tod
+  * ängst `.engst`
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
@@ -307,8 +310,8 @@
       * : **tra**<i></i>**dit***ion* `tra,di-o` ~ `tr.ad-o`
         * : **tra**<i></i>**dit***ionell* `tra,di.i-eL` ~ `tr.ad.i-eL`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `b.dau.L` `G.dau` `AU.I.dau` `Z.m.ei-em:b.dau` `Z.U°.b.dau`
-* *d****em*** `(m)` : `.auss.m` `(I)m`
-  * : *mit*.*d****em*** `M.m` ~ `MM` P
+* *de****m*** `(m)` : `.auss.m` `(I)m`
+  * : *mit*.*de****m*** `M.m` ~ `MM` P
 * **dem** `d.e`
   * : demokrat ← krat
 * *de****n*** `(n)` : `(I)n`
@@ -373,6 +376,7 @@
     * *dokument* `d.ok` : `d.ok.ir` `d.ok.irt.e`
       * : *dokument*ar**isch** `d.ok.ar.i` × `d.ok.i`
   * *doktor* `der`
+* **droh** `dr.o` : `b.dr.o-L`
 * *du* `dU` : `bi.dU` `ha.dU` `w.dU`
 * **duk** `du`
   * **duz** `du` : `IN.du.ir` `(o)du.ir`
@@ -669,9 +673,8 @@
 * flucht ← flieh
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
-  * : *er***folg** `er.fo` × *erfolg* = *er*~~folg~~ `er`
-  * : *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei` @~2
   * : *in***folg** `IN.fo` ~ `IN.o`
+  * *erfolg* = *er*~~folg~~ `er` : `er,r.ei`
 * foli `f.ol.I` : `f.ol.I.e` `f.ol.I.en` @ie
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er**forder**lich* `er.F.L` ~ `er.o-L`
@@ -1207,7 +1210,7 @@
   * *kenn* `k.e` @e
   * kenn `k.en` : `k.en.e` ≠ kennt
   * : aner**kenn**en `.an.er.k` × `.an.er`
-  * **kann** `ka` : `ka-t.e` `b.ka-t`
+  * **kann** `ka` : `ka-t.e` `b.ka-t` `G.ka-t`
 * **kind** `ki` : `ki.H` `ki.os` `ki.r.ei` `ki:ki.er` `(N):ki`
   * ! `k.id` : `k.id.i` `k.id.L`
 * *kir****ch*** `(ch)` : `(ch)L` `(ch)T-UNG`
@@ -2115,6 +2118,7 @@
   * sah `s.ah`
   * **sicht** `si` STS : `b-si.i` `si,u` STS
     * ! `s.icht`
+
     * : ab**sicht** `.ab-si` ~ `.ab-i` : `.ab-i.L` @-×an
       * : **be**ab**sicht***ig*en `b.ab,si.i` × `b.ab` @--×
     * : *auf***sicht** `AU,si` ~ `AU-i` @-×an
@@ -2133,8 +2137,9 @@
       * : ein**sicht** `N-si` ~ `N.icht` : `UN.N-si.i-T` ~ `UN.N.icht.i-T`
       * : *vor***sicht** `O-si` ~ `O.icht` : `UN.O-si.i` ~ `UN.O.icht.i`
       * : *über***sicht** `Ü,si` ~ `Ü.icht` : `.ei-e-Ü.icht` `.ei-e-Ü.icht-Ü.n,and`
+
     * × ~~sicht~~
-      * : *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn` @-×-
+      * : *hin****sicht*** `hn.icht` -× *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
       * : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
         * : *rücksicht*~~nahm~~e `rÜ,(.e)` ! `rÜ.icht,(.e)` ≠ rücknahme
         * : **be***rücksicht*<i></i>*ig*en `b.rÜ.i` × `b.rÜ` @--×
@@ -2601,7 +2606,7 @@
 * stick `st.ik`
 * ***stift*** `.ift`
 * stil `st.il`
-* **still** `.ill`
+* **still** `.ill` : `t.ot.ill.e` @t.o -> t.ot
 * **stimm** `.im` : `.im:H`
   * *bestimm* `b°-i` : `b°-i-t`
     * : *mit*<i></i>*stimm* `M,b°-i` ~ `M°`
@@ -2629,7 +2634,7 @@
 @an-aus
 
 * **straf** `stra` : `stra-e` `stra.bu`
-  * -*straf****e*** `(.e)` → geld ven
+  * -*straf****e*** `(.e)` → geld tod ven
 * strahl `str.al` : `str.al.ed` `str.al,u`
   * : *aus*strahlen `(.S)str.al` ~ `(.S)stra`
 * **straß** `stra` : `stra-e`
@@ -2689,6 +2694,7 @@
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
 * *t****eil*** `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e` `O.eil.ha`
   * **satz***t****eil*** `sa.eil` ! `s.az.eil`
+  * *urteil* = *ur*~~teil~~ `ur` : `ur.e` `t.o.ur`
 * **tekt** ← techn
   * *architekt* `.ach` : `.ach.ur`
   * : *architekt* `.ach` ! `.ach.t` ~ `.ach.ekt`
@@ -2742,6 +2748,8 @@
   * : titel `t.it.el` × `t.it`
   * *titel*- `ti` : `ti,18`
 * *tochter* `t.ocht` @-er
+* **tod** `t.o` : `t.o,(-st)` `t.o,(.e)`
+  * **töd** `t.ö` : `t.ö-L`
 * *toler* `t.ol` : `t.ol.aNT` `t.ol.az` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
 * ~~t~~o~~n~~ `(.o)` : `b,(.o)` `er b,(.o)-t.e` `er b,(.o).e`
   * : ~~t~~o~~n~~*los* `(.o)-l.o` ! `(.o)-l.os`
@@ -2749,7 +2757,9 @@
   * : *in*~~t~~o~~n~~ieren `IN,(.o).ir` ! `IN.t.on.ir`
   * ~~t~~ö~~n~~ `(.ö)`
     * ein~~t~~ö~~n~~*ig* `N,(.ö).i` × `N,(.ö)`
-* to~~t~~ `t.o` : `t.o-al` `t.o-al.är` `t.o-al.ät`
+* **tot** `t.o`
+  * **töt** `t.ö` : `G.t.ö`
+* **tot** `t.o` : `t.o-al` `t.o-al.är` `t.o-al.ät`
 * *tübingen* `t.üb.ing`
 * tuch `t.uch`
   * tüch `t.üch` : `t.üch-er`
@@ -2826,7 +2836,7 @@
     * -*betrieb* `.ib` → groß hand
 * **treu** `treu`
 * **tro**tz : `tr.o` `tr.o-r` `tr.o-es` . `tro-al.em` `tro-al.e,(m)`
-  * *trotzdem* `(o)(m)`
+  * : **tro**tz*de****m*** `tr.o-m` ~ *trotzdem* `(o)(m)`
 * **trug** `tru` : `b.tru`
   * ! `tr.ug`
   * **trüg** `trÜ` : `(b)trÜ` `(b)trÜ-er` `(b)trÜ.ei-en` `(b)trÜ.i`
@@ -3110,7 +3120,7 @@
 * *woll* `(.ol)`
   * *will* `(.l)`
 * wort `wot`
-  * *ant*~~wort~~ = *antwort* `aNT` : `(b)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
+  * *antwort* = *ant*~~wort~~ `aNT` : `(b)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
   * : **wund**er*voll* `wu-er.Ol` × `wu-ol`
@@ -3242,11 +3252,13 @@
 
 * **zw**ischen `zw` : `(I)zw`
 
-## Phasen
+## Schnellschrift: Eilschrift und Redeschrift
 
-### Schnellschrift ohne Verschattung
+* Verschattung
+  * Verkehrsschrift
+  * Schnellschrift
 
-#### Auslassen von Endungen
+### Auslassen von Endungen
 
 ---
 * fährt `fet` *(mit Endung)*
@@ -3260,7 +3272,7 @@ Infinitive werden im Satz ohne die Endung *-en* geschrieben. Substantiviert wird
 * rahmen `r.am`
 ---
 
-#### Auslassen der Vorlaute "l", "n" und "r"
+### Auslassen der Vorlaute "l", "n" und "r"
 
 In der Schnellschrift werden die Vorlaute "l", "n" und "r" nicht geschrieben.
 
@@ -3300,7 +3312,7 @@ In Wörtern ohne Anlaut (Selbstlaut + Vorlaut + "t") wird das "t" nach Vorlaut j
 |:-|:-|:-|:-|:-|
 | ält | `.ät` | | ort | `.ot` |
 
-#### Kürzung
+### Kürzung
 
 Verkehrsschriftliche Kurzformen dürfen durch Kurzformen der Schnellschrift verschattet werden.
 
@@ -3309,23 +3321,37 @@ Verkehrsschriftliche Kurzformen dürfen durch Kurzformen der Schnellschrift vers
 | *mitt*el         | `M.el` | ⇒ | *mittel*      | `-t-el` |
 | *vor*<i></i>*ig* | `O.i`  | ⇒ | *vori****g*** | `(g)`   |
 
-
 #### Ausfall
+
+
+
+antwort
+
+aufgabe
+erfolg
+
+aufmerksamkeit
+
+entsprechend
+
 
 Zwischen Vor- und Nachsilbe dürfen ungekürzte Wortstämme oder verkehrschriftliche Kurzformen ausfallen.
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| *auf*merk*sam* | `AU.m.ek-Sa` | ⇒ | *aufmerksam* = *auf*~~merk~~*sam* | `AU-Sa` |
-| *auf*merk*sam*<i></i>*keit* | `AU.m.ek-Sa.T` | ⇒ | *aufmerksamkeit* = *auf*~~merksam~~*keit* | `AU.T` |
-| *ver*ein***bar***en | `E.N.bar` | ⇒ | *vereinbar*en = *ver*~~ein~~***bar***en | `E.bar` |
+| *auf*merk*sam* | `AU.m.ek-Sa` | -×- | *aufmerksam* = *auf*~~merk~~*sam* | `AU-Sa` |
+| *auf*merk*sam*<i></i>*keit* | `AU.m.ek-Sa.T` | -×- | *aufmerksamkeit* = *auf*~~merksam~~*keit* | `AU.T` |
+| *ver*ein***bar***en | `E.N.bar` | -×- | *vereinbar*en = *ver*~~ein~~***bar***en | `E.bar` |
 
+Nach Vorsilbe dürfen auch gekürzte Wortstämme ausfallen.
 
----
-* | *ant*wort | `aNT.wot` | ⇒ | *antwort* = *ant*~~wort~~ | `aNT` |
-* : *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn` @-×-
-* : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
----
+| | | | | |
+|:-|:-|:-|:-|:-|
+| *ant*wort | `aNT.wot` | ⇒ | *antwort* = *ant*~~wort~~ | `aNT` |
+| *er***folg** | `er.fo` | ⇒ | *erfolg* = *er*~~folg~~ | `er` |
+| *hin****sicht*** | `hn.icht` | ⇒ | *hinsicht* = *hin*~~sicht~~ | `hn` |
+| **rück*****sicht*** | `rÜ.icht` | ⇒ | *rücksicht* = **rück**~~sicht~~ | `rÜ` |
+* ur***teil*** | `ur.eil` | ⇒ | *urteil* = ur~~teil~~ | `ur |
 
 ### Schnellschrift mit Verschattung
 
@@ -3417,7 +3443,6 @@ Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird 
 Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem Wörterbuch als *Kürzel* aufgeführt. (~)
 
 * di**rekt** `d.i-r` ~ *direkt* = **di**~~rekt~~ `di`
-* *er***folg***r****eich*** `er.fo.eich` ~ *erfolgreich* = *er*~~folg~~**reich** `er,r.ei`
 * ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei`
 
 ### Nachsilben und Endungen
