@@ -159,6 +159,7 @@
 * bieg `b.ig`
   * bog `b.og`
 * ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `fa.it` `r.ur.it` `E.it` `Ü.it` . `AU.it`
+  * : *auf****gab***en*ge****biet*** `AU.ab.it` ~ `AU.it` ! `AU.en.it` ≠ auf dem gebiet
   * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
   * : *arb****eit***s*ge****biet*** `(T)-s.it` ~ `Ts.it`
   * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` ~ `AU-i.it`
@@ -215,7 +216,7 @@
   * -*gesetzbuch* `bu` → burg hand straf
   * **büch** `bÜ` : `bÜ-er`
   * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
-* *bühr* `Ür` : `G-Ür`
+* *bühr* `Ür` : `G-Ür` @Ü
 * bunt `but` : `but-er` `but-est` `bu.H`
 * **bür** `bÜ` : `m.ak-er-Ü.o`
 * burg `b.ug` : `b.ug.en`
@@ -696,10 +697,10 @@
     * ~ ***füg*** `.üg` `G.üg` `Z.üg` `Z.Sa.üg`
 * fug `f.ug`
   * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
-* *fühl* `Ül` STS : `G-Ül` `G-Ül,(g)` `G-Ül-Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül`
+* *fühl* `Ül` STS : `G-Ül` `G-Ül,(g)` `G-Ül-Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül` @Ü
+  * : *fühl*en `.ül` ! `f.ül`
   * : **be***fühl*en `b-Ül` ! `b.e-Ül`
   * : tuch*fühl*<i></i>*ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
-  * : *fühl*en `Ül` ⇒ `f.ül`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * : **fuhr**e `fu-e` ! `fu.e`
 * *führ* `.ür` : `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`  ← fuhr
@@ -810,7 +811,8 @@
   * × ~~geb~~ : `.S.ag.ed` `er.is` `er.is.os`
   * ***gib*** `.ib` : `ach.ib.i-T` `er.ib.i`
   * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `b.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
-    * : *auf****gab***e `AU.ab.e` × `AU.e` : `AU.en.it`
+    * *aufgab* = *auf*~~gab~~ `AU` : `AU.e`
+      * : `AU.en.it`
     * : *aus****gab***e `.S.ab.e` × `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
   * → gift
@@ -862,8 +864,8 @@
   * **glänz** `gl`/`glä` : `glä.ed` @ä
 * glas `gl.as`
 * ***glaub*** `.aub` : `.aub.e` `.aubt.e` `.aub.ha` `b.aub.i` `G.aubt` `.ab-er.aub.e`
-  * : *ich*.***glaub*** `.I.aub` * *ich*.gl**au**b `.I-au`
-  * : *wir*.***glaub*** `wr.aub` * *wir*.gl**au**b `wr-au`
+  * : *ich*.***glaub***e `.I.aub` * *ich*.gl**au**b `.I-au`
+  * : *wir*.***glaub***en `wr.aub` * *wir*.gl**au**b `wr-au`
   * ***gläub*** `.äub` : `.äub.i-er` `UN-äub.i`
 * **gleich** `gl.ei` ~ `gl`
   * : ***wes***ens**gleich** `.es.gl.ei` : `.es.gl`
@@ -908,8 +910,8 @@
 * *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(b)GR` `UN-b.GR`
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
-* **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `gr.h-er` `M.gr.H`
-  * *größ* `grö` : `grö.e`
+* *groß* = **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `gr.h-er` `M.gr.H` ≠ grob
+  * **größ** `grö` : `grö.e`
     * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `v.gru.AU`
   * : *aus*.*dies*em.**grund**e `.S-S.gru.e` × `.S-S.e`
@@ -930,6 +932,7 @@
   * *hatt* `t`
     * *hätt* `.ät`
   * **haft** `ha` : `ha,i`
+    * : ~~nam~~**haft** `(ha)` STS
     * : *einzel***haft** `N.el.ha` ~ `.ei-ha`
   * → heb
 * hab `h.ab` :  `h.ab.us`
@@ -1402,7 +1405,7 @@
   * : **schrift**leit*ung* `.ift,l.T-UNG` ~ `i,l.T-UNG`
 * lern `l.en`
 * letz `l.ez` : `E.l.ez` `E.l.ez°`
-  * : *ver*letzt `E.lezt` * `E.let`
+  * : *verletzt* = *ver***letz**t `E.l-t`
 * *letzt* `let`
 * ***leut*** `.eut` : `.eut.e` `fa.eut.e` `la.eut.e`
   * **land**s***leut***e `la.eut.e` ! `la-s.eut.e` ≠ landleute
@@ -2161,7 +2164,7 @@
         * : *in*.*aussicht*.**steh**en `IN.S.st`
         * : *in*.*aussicht*.***stell***en `IN.S.ell`
         * : *vor*<i></i>*aussicht*<i></i>*lich* `O.S.L` @--×
-      * : -*über*~~sicht~~ ⇒ -*übersicht* `Ü` : `Ü.L` `Ü.L.T` `UN-Ü-L`
+      * : -*übersicht* = -*über*~~sicht~~  `Ü` : `Ü.L` `Ü.L.T` `UN-Ü-L`
 * **sehr** `s`
 * sei ← sein
 * seid `s.eid` : `s.eid.e`
@@ -2616,7 +2619,8 @@
 * **stoff** `.of` : `(k).of`
   * kunst**stoff** `kust-of` * `ku-s.of` @ t~of
 * **stolz** `.oz`
-* *stück* `Ük` STS : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
+* *stück* `Ük` : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük` @Ü
+  * : *stück* `.ük`
 * **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @ie
 * **stuf** `.uf` : `.uf.e`
 * st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
@@ -3254,20 +3258,33 @@
 
 ## Verkehrsschrift und Schnellschrift (Eilschrift und Redeschrift)
 
-In der *Kurzschrift* können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die *Kurzschrift* in *Verkehrsschrift* und *Schnellschrift*.
+In der *Kurzschrift* können Kurzformen andere Kurzformen verschatten. Im Groben und Ganzen gliedert sich hierdurch die *Kurzschrift* in *Verkehrsschrift* und *Schnellschrift*.
 
 | Verkehrsschrift | | | Schnellschrift | |
 |:-|:-|:-|:-|:-|
 | *mit* | `M` | | | |
 | *mitt*el | `M.el` | | *mittel* | `-t-el` |
 
-Auch innerhalb der *Schnellschrift* können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die *Schnellschrift* in *Eilschrift* und *Redeschrift*.
+Auch innerhalb der *Schnellschrift* können Kurzformen andere Kurzformen verschatten. Im Großen und Ganzen gliedert sich hierdurch die *Schnellschrift* in *Eilschrift* und *Redeschrift*.
 
 | Eilschrift | | | Redeschrift | |
 |:-|:-|:-|:-|:-|
 | *auf****gab***e | `AU.ab.e` | | *auf*~~gab~~e | `AU.e` |
 
 ### Kurzschreibregeln
+
+#### Verbendungen
+
+| Verkehrsschrift | | | Schnellschrift | |
+|:-|:-|:-|:-|:-|
+| *ich* *kann* sagen | `.I k s.ag.en` | | *ich* *kann* sagen | `.I k s.ag` |
+
+#### Personalpronomen
+
+| Eilschrift | | | Redeschrift | |
+|:-|:-|:-|:-|:-|
+| *ich* **bin** | `.I bi` | | *ich*.**bin** | `(I)bi` |
+| *ich* ***glaub***e | `.I .aub` | | *ich*.gl**au**be | `.I-au` |
 
 ### Auslassen von Endungen
 
@@ -3332,7 +3349,6 @@ In Wörtern ohne Anlaut (Selbstlaut + Vorlaut + "t") wird das "t" nach Vorlaut j
 
 antwort
 
-aufgabe
 erfolg
 
 aufmerksamkeit
@@ -3499,6 +3515,7 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 
 * @ fassen und passen könnten, wenn sie nicht den Wortanfang bilden, ihren Anlaut wieder verlieren. (Es handelt sich ja eh um "Auslautkürzungen".)
   * Ausgenommen scheinen allein "an" und "ge" (anpassen, gefasst)
+@ @Ü
 
 `Z.Sa.fass` `Z.Sa-ass`
 
