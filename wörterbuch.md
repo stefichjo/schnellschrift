@@ -3265,7 +3265,7 @@ Auch innerhalb der *Schnellschrift* können Kurzformen andere Kurzformen verscha
 
 | Eilschrift | | | Redeschrift | |
 |:-|:-|:-|:-|:-|
-| ur***teil*** | `ur.eil` | | ur~~teil~~ | `ur` |
+| *auf****gab***e | `AU.ab.e` | | *auf*~~gab~~e | `AU.e` |
 
 ### Kurzschreibregeln
 
