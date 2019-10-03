@@ -3254,14 +3254,14 @@
 
 ## Verkehrsschrift und Schnellschrift (Eilschrift und Redeschrift)
 
-In der Kurzschrift können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die Kurzschrift in *Verkehrsschrift* und *Schnellschrift*.
+In der *Kurzschrift* können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die *Kurzschrift* in *Verkehrsschrift* und *Schnellschrift*.
 
 | Verkehrsschrift | | | Schnellschrift | |
 |:-|:-|:-|:-|:-|
 | *mit* | `M` | | | |
 | *mitt*el | `M.el` | | *mittel* | `-t-el` |
 
-In der Schnellschrift können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die Schnellschrift in *Eilschrift* und *Redeschrift*.
+Auch innerhalb der *Schnellschrift* können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die *Schnellschrift* in *Eilschrift* und *Redeschrift*.
 
 | Eilschrift | | | Redeschrift | |
 |:-|:-|:-|:-|:-|
