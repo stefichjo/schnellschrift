@@ -3254,9 +3254,20 @@
 
 ## Schnellschrift: Eilschrift und Redeschrift
 
-* Verschattung
-  * Verkehrsschrift
-  * Schnellschrift
+In der Kurzschrift können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die Kurzschrift in *Verkehrsschrift* und *Schnellschrift*. (Außerdem gelten in der Schnellschrift Kurzschreibregeln.)
+
+| Verkehrsschrift | | | Schnellschrift | |
+|:-|:-|:-|:-|:-|
+| *mit* | `M` | | | |
+| *mitt*el | `M.el` | | *mittel* | `-t-el` |
+
+In der Schnellschrift können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die Schnellschrift in *Eilschrift* und *Redeschrift*.
+
+| Eilschrift | | | Redeschrift | |
+|:-|:-|:-|:-|:-|
+| ur***teil*** | `ur.eil` | | ur~~teil~~ | `ur` |
+
+### Kurzschreibregeln
 
 ### Auslassen von Endungen
 
@@ -3314,12 +3325,6 @@ In Wörtern ohne Anlaut (Selbstlaut + Vorlaut + "t") wird das "t" nach Vorlaut j
 
 ### Kürzung
 
-Verkehrsschriftliche Kurzformen dürfen durch Kurzformen der Schnellschrift verschattet werden.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| *mitt*el         | `M.el` | ⇒ | *mittel*      | `-t-el` |
-| *vor*<i></i>*ig* | `O.i`  | ⇒ | *vori****g*** | `(g)`   |
 
 #### Ausfall
 
