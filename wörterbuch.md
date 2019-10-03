@@ -3252,9 +3252,9 @@
 
 * **zw**ischen `zw` : `(I)zw`
 
-## Schnellschrift: Eilschrift und Redeschrift
+## Verkehrsschrift und Schnellschrift (Eilschrift und Redeschrift)
 
-In der Kurzschrift können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die Kurzschrift in *Verkehrsschrift* und *Schnellschrift*. (Außerdem gelten in der Schnellschrift Kurzschreibregeln.)
+In der Kurzschrift können Kurzformen andere Kurzformen verschatten. Hierdurch gliedert sich die Kurzschrift in *Verkehrsschrift* und *Schnellschrift*.
 
 | Verkehrsschrift | | | Schnellschrift | |
 |:-|:-|:-|:-|:-|
