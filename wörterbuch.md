@@ -1516,7 +1516,7 @@
   * : *maxim*al `m.ax.al` ~ `m.ax.im-a`
 * mech `m.ech`
   * : mechan `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
-* med `m.ed` : `m.ed.it.iO` `m.ed.um` `m.ed.I.en` @ie
+* med `m.ed` : `m.ed.it.ir` `m.ed.it.iO` `m.ed.um` `m.ed.I.en` @ie
   * *medik* `m.ed` : `m.ed.eNT`
     * : *medik*<i></i>*ament*ös `m.ed.eNT.ös` × `m.ed.ös`
     * *medizin* `m.ed`
