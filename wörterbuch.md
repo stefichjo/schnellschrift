@@ -1358,10 +1358,11 @@
   * *l****ieß*** `(.iss)` : `(I)t-er.iss`
     * ! `l.iss`
 * last ← lad
-* lat `l.at` : `l.at-er.al` `r.l.at.iv` ← fer
+* lat `l.at` : `l.at-er.al` ← fer
   * -*lateral* `.al` → bi mult
-  * *relat* `r-t` : `r-t-iv`
-    * : *relat*<i></i>*ion* `r-t-O` ! `r.l.at.iO`
+  * *relat* `r` : `r.iv`
+    * : *relat*<i></i>*ion* `r.iO` ! `r.l.at.iO` ≠ region, regulation
+    * : *relat*ivität `r.iv.ät` × `r.ät`
 * laub `l.aub`
   * -*l****au****b* `-au`
     * : *er*<i></i>*l****au****b*en `er-au` : `er-au.is`
@@ -1991,10 +1992,10 @@
     * : *reg****ier****ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
       * ~ `ir-UNG` = richtung
       * : **bund**es*reg****ier****ung* `bu.ir-UNG` ~ `u-r-UNG`
-  * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation
+  * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation, relation
     * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
   * : **reg**ulieren `r.ir` ! `r.ul.ir`
-    * : **reg***ul*at*ion* `r.ul.iO`
+    * : **reg***ul*at*ion* `r.iO` ! `r.ul.iO` ≠ region, relation
   * *rig* = **r**ig `r`
     * : di*rig* `d.i-r` : `d.i-r.ir` `d.i-r.iS.i`
     * : di*rig*<i></i>*ent* `d.i-r.eNT` × `d.i-eNT` ~ `di.eNT`
@@ -2215,7 +2216,7 @@
   * sandt `s.adt` : `G.s.adt`
 * sent `set` : `pr.set-ir`
   * : *prä*sent `pr.set` ! `pr.s.eNT`
-    * *re*<i></i>*prä*~~sent~~ `(re)pr` : `(re)pr.aNT`
+    * *re*<i></i>*prä*~~sent~~ `(r)pr` : `(r)pr.aNT`
   * sens
   * senz `s.ez` : `pr.s.ez`
 * sent `set` STS
