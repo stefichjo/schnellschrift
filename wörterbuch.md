@@ -566,11 +566,13 @@
 * fat, fit
     * : **kon**<i></i>**fess***ion* `ko.f-o` × `ko.f`
     * : *pro***fess***ion* `(o)f-o` ! `(o)f.ess.iO`
+      * : *pro***fess***ion**ell* `(o)f.ieL` ! `(o)f.ess.ieL`
     * : *pro***fess**or `(o)f.or` × `(o)f`
 * **faz** `fa` : `fa.it`
   * **f**iz `f` : `b.en.e-f` `.o-f.ieL`
     * : de**f**izit `d.e-f.it` × `d.e-it`
     * : e**f**izi*ent* `.e-f.eNT` ! `.e-f.iz.eNT`
+    * : o**f**iz `.o-f` : `.o-f.ieL`
   * *fakt* `fat` : `fat-ur.a`
     * **fekt** `f` : `.a-f` `.e-f` `.e-f-Ol`
       * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
@@ -1757,7 +1759,7 @@
   * öff `.öf` STS
     * : öffnen `.öf` * `.ö` : `er.öf` * `er.ö`
     * *öff*- `.ö-` : `.ö-L` `.ö-L.T` `E.ö-L`
-* offiz `.off.iz` : `.of.ieL`
+* offiz → faz
 * oft `.oft`
   * : *eben*<i></i>*so* oft `.eb.o .oft` × `.eb.oft`
   * *oft*- `.o-` STS
@@ -2260,7 +2262,7 @@
   * -*sinn* `.in` : `UN.in.i` `W.in.i` `.IN.iS.in.e` `.im.in.e` `.im.ei-L.in.e` → wahn
   * sann `s.an` : `er-s.an`
   * sonn `s.on` : `G.s.on` `er-s.on`
-* sist `s.i+st` : `IN.s.i+st.ir` `ko.s.i+st.ez` `tra.i+st.or`
+* sist `s.i+st` : `IN.s.i+st.ir` `ko-s.i+st.ez` `tra.i+st.or`
   * *exist* `.ex` :  `.ex.eNT` `.ex.ir` `.ex.irt.e` `.ex.ir.ed`
     * : *exist*enz `.ex.ez` × `.ex`
 * sit `s.it` : `s.it.ir`
@@ -2297,7 +2299,7 @@
 * *so* `.o` : `.eb.o`
   * *so*- `o`
   * → sonst
-* sol `s.ol` : `s.ol.id` `ko.s.ol.ir`
+* sol `s.ol` : `s.ol.id` `ko-s.ol.ir`
 * *solch* `(s)ch`
   * -*solch*- `o` → fall
 * *soll* `(S)`
@@ -2322,7 +2324,7 @@
   * -*sorg*- `o` : `f,o-e` `f,o-L` → falt seel
     * : *da*f~~ür~~.*sorg*en `.a-f,o` ~ `.a-f.o`
     * -*fürsorge* `-Ü.o` : `I-Ü.o` → flieh sozi
-* sort `s.ot` : `s.ot.e` `s.ot.ir` `ko.s.ot.um`
+* sort `s.ot` : `s.ot.e` `s.ot.ir` `ko-s.ot.um`
   * : sortiment `s.ot.met`
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
