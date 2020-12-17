@@ -43,7 +43,8 @@
   * -*ämter* `.ä`
 * an `.an` : `.an-t-er` `dar.an` `wo.an`
 * -an `.an`
-* ander `.ad-er` @-er
+* ander `.ad-er` `N.ad-er` @-er
+  * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
   * *unter*.anderem `UNTER.ad-er` ~ `u.ad-er`
   * *ande****rs*** `(rs)`
   * änder `.äd-er` : `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
@@ -89,9 +90,9 @@
 * *at****om*** `(.om)` : `(.om).ar`
 * auch `.auch` : `.auch,i`
   * -*auch* → aber oder sondern
-* *auf* `AU` : `.e-AU` `(n)AU`
+* *auf* `AU` : `AU.ei-ad-er` `.e-AU` `(n)AU`
   * : *dar*<i></i>*auf* `dar.AU` ~ `dar-AU`
-* *aus* `.S` : `.S-t-ig` `.S-ts` `n.S` `O.-S`
+* *aus* `.S` : `.S.ei-ad-er` `.S-t-ig` `.S-ts` `n.S` `O.-S`
   * : ***dar****über*<i></i>*hin*<i></i>*aus* `dar-Ü.n.S` ~ `dar-Ü-aY`
   * *heraus* `rrs`
   * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha`
@@ -132,7 +133,7 @@
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
 * behörde ← hör
-* bei `b.ei` : `b.ei,i`
+* bei `b.ei` : `b.ei-ei-ad-er` `b.ei,i`
   * *da*bei `.a-b.ei` * `a-b.ei`
   * *her*bei `.e-b.ei` * `h.ei`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
@@ -741,7 +742,7 @@
     * : **funkt***ion*är `fu-o.är` ! `f.uk.t.iO.är`
 * funk `f.uk` : `f.uk.e` `f.uk.el` `f.uk-er`
   * : rundfunk `ru:f.uk` * `u,u`
-* **f**ür `f` : `.a-f`
+* **f**ür `f` : `f.ei-ad-er` `.a-f`
 * furcht `f.ucht` : `f.ucht.bar` `f.ucht.os` `f.ucht-Sa`
   * fürcht `f.ücht` : `f.ücht.et.e` `f.ücht.L` `b.f.ücht`
 * **fuß** `fu` : `ha.fu`
@@ -820,7 +821,7 @@
   * → gift
 * geburt ← gebär ← bär
 * gefahr ← fahr
-* *gegen* `g` : `g-t` `g-t-ig` `b.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
+* *gegen* `g` : `g.ei-ad-er` `g-t` `g-t-ig` `b.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
   * : *da*<i></i>*gegen* `.a-g` ! `da.g` ≠ schlag
   * *geg****end*** `(.ed)` : `.um.ed`
   * *gegn*er `g.er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
@@ -1045,7 +1046,7 @@
     * *darauf* `dar-AU.in` ~ `dar-AU-n`
     * *imm****er****hin* `(.er).in` ~ `.i-hn`
     * *nach*.außen.*hin* `ach.auss.in` ! `ach.auss:hn`
-  * *hinter* `(I)t-er` : `(I)t-er.N.ad-er` `(I)t-er.h` `(I)t-er.m.i`
+  * *hinter* `(I)t-er` : `(I)t-er.ei-ad-er` `(I)t-er.h` `(I)t-er.m.i`
 * **hind** `hi` : `hi-er` `hi.L` `hi.is` `hi.iss.e` `E,hi` @-er
   * : **be***hinder*n `b.e,hi` ~ `b,hi`
 * hinten, hinter → hin
@@ -1095,7 +1096,7 @@
 * *imm****er*** `(.er)` : `(.er):fr` `(.er),i`
   * n*imm****er*** `(n.er)` : `(n.er).s.at`
 * in ← inn
-* *in* `IN` : `IN.s`
+* *in* `IN` : `IN.s` `IN.ei-ad-er`
   * *in*- `(I)` : `(I)-S.e`
   * -*in* `i` → dar
   * im `.im`
@@ -1583,7 +1584,7 @@
   * .***mir*** `.ir` : `(I)-bi.ir,u`
 * *miss*- `ms`
 * miss ← mitt
-* *mit* `M` : `hi:M`
+* *mit* `M` : `M.ei-ad-er` `hi:M`
   * : *da*<i></i>*mit* `.a-M` ~ `a-M`
   * : *mitt* `M` : `M.e`
     * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.är-t-el` `ar-UNG-t-el`
@@ -2867,7 +2868,7 @@
   * -**u**ns `u` STS : `.an,u` STS
   * **u**nser `u-er` STS : `u-er.e` `u-er-er` `u-er.es`
   * -*unser* `.U°` : `.an.U°`
-* *unter* `UNTER` : `UNTER.ha` `.e-UNTER`
+* *unter* `UNTER` : `UNTER.ei-ad-er` `UNTER.ha` `.e-UNTER`
 * ur- `.ur`
 
 ## [V](#wörterbuch)
@@ -3226,7 +3227,7 @@
   * → zr
 * *ziv****il*** `(.il)`
 * zog ← zieh
-* *zu* `Z` : `(.e)Z` `(n)Z` `Z.ma`
+* *zu* `Z` : `Z.ei-ad-er` `(.e)Z` `(n)Z` `Z.ma`
   * *da*<i></i>*zu* `.a-Z` * `a-Z`
   * *nahezu* `(e)Z`
   * **z**um `z`
