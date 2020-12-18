@@ -906,7 +906,8 @@
   * *paragraph* `pa`
   * gramm `gr.am` : `f.on.gr.am` `t.e-gr.am`
     * : *grammophon* `gr.am.f` ~ `gr.am.on`
-    * : *pro*gramm `(o)gr.am` ~ `(o)gra`
+    * : *programm* `(o)gra`
+      * -*programm* `gra` → reg wahl
 * grav `gr.aw` : `gr.aw-ur` `gr.aw-o`
 * ***greif*** `.eif`
   * ***griff*** `.if` : `-t;an.if:pa`
@@ -1991,10 +1992,10 @@
   * : *reg****el*** `(.el)` : `(.el)-UNG` `.il,(.el)` `IN.el`
     * : *reg****el****mäßig****keit*** `(.el).i-T` ! `r.el.ess.i-T`
     * : *in* *de****r*** *reg****el*** `(I)r (.el)` × `IN.el`
-  * : **reg**ieren `r.ir` ~ *reg****ier***en `(.ir)` ≠ regulieren
-    * : *reg****ier****ung* `(.ir)-UNG` STS : `(.es).ir-UNG`
-      * ~ `ir-UNG` = richtung
-      * : **bund**es*reg****ier****ung* `bu.ir-UNG` ~ `u-r-UNG`
+  * *reg****ier***en `(.ir)`
+    * : *reg****ier****ung* `(.ir)-UNG` : `(.es).ir-UNG`
+      * *regierung* `ir-UNG` : `ir-UNG.gra`
+        * : **bund**es*regierung* `bu,ir-UNG` ~ `u-r-UNG`
   * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation, relation
     * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
   * : **reg**ulieren `r.ir` ! `r.ul.ir`
@@ -2033,7 +2034,7 @@
 * *rheinland-pfalz* `(N):pfa`
 * **richt** `ri` : `ri.i` `(b)ach,ri.i` `(er)ri`
   * : **richt**en `ri` ! `r.icht`
-  * : **richt***ung* `ri-UNG` ~ `i-UNG`
+  * : **richt***ung* `ri-UNG` ~ `i-UNG` ≠ regierung@
   * : be**richt** `b.e,ri`
     * : be**richt**~~erstatt~~er `b.e,ri,(er)` ~ `b.e,ri-er`
     * : be**richt**~~erstatt~~*ung* `b.e,ri,UNG` ~ `b.e,ri-UNG`
@@ -2276,7 +2277,7 @@
   * **setz** `s` : `er-s` `UN.er-s.L` `O.S-s` `UNTER-r,O-S-s`
     * ! `s.ez` : `s.ezt.e` `G.s.ezt` `b.s.ez*` `fr.s.ez*`
       * : `s.ez-er` ! `s.ez.er` : `s.ez.er.ei`
-    * : *aus*einander**setz***ung* `.S.ei-ad-er.s.UNG` × `.S.ei-ad-er` @"einander"
+    * : *aus*einander**setz***ung* `.S.ei-ad-er.s.UNG` × `.S.ei-ad-er`
     * *setz* `s` : `.ab.s` `b.s` `N.s` @-an
     * -*setz* `-s` : `eNT.g-s` `fr-s`
     * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `-G,i` `(.es),-G` `UN-G.L`
