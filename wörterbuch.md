@@ -674,6 +674,9 @@
     * : **flüss***ig* `flÜ.i` ~ `.üss.i`
     * : ein**flüss** `N.flÜ` ~ `N,flü`
 * ***flott*** `.ot` : `.ot.e` `ha.el.ot.e`
+* **flu** `flu`
+  * **kon****flu**enz `ko.flu.ez` STS
+  * *in***flu**enza `IN.flu.ez.a` × `IN.flu.a`
 * flucht ← flieh
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
