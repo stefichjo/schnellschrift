@@ -567,7 +567,7 @@
 * fat, fit
     * : **kon**<i></i>**fess***ion* `ko.f-o` × `ko.f`
     * : *pro***fess***ion* `(o)f-o` ! `(o)f.ess.iO`
-      * : *pro***fess***ion**ell* `(o)f.ieL` ! `(o)f.ess.ieL`
+      * : *pro***fess***ion**ell* `(o)f.i-eL` ! `(o)f.ess.i-eL`
     * : *pro***fess**or `(o)f.or` × `(o)f`
 * **faz** `fa` : `fa.it`
   * **f**iz `f` : `b.en.e-f` `.o-f.ieL`
@@ -1265,8 +1265,8 @@
   * *konter* `(ko)t-er` STS ~ `ko-t-er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
   * → kontroll
-* *kontroll* `(ko)tr` STS ~ `ko` : `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
-  * : *kontroll*e `(ko)tr.e` ~ `ko,o` : `ko,o-en`
+* *kontroll* `ko` : `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
+  * : *kontroll*e `ko.e` ~ `ko,o` : `ko,o-en` ≠ kollege
 * korp `k.op` : `k.op-O` `k.op.iv`
   * corps `k.or`
     * -**corps** `ko` → diplom
@@ -1390,7 +1390,7 @@
 * led `l.ed` : `l.ed.i-L`
 * leg ← lieg
 * leg `l.eg` : `l.eg.ed.e`
-  * : **koll**ege `ko.eg.e` × `ko.e`
+  * : **koll**ege `ko.eg.e` × `ko.e` : `ko.eg.in` `ko.eg.iaL.ät` `ko.eg.um`
   * lig : `l.ig:ma.FT`
     * : liga `l.ig.a` × `l.ig`
     * : *intell*igent `IN.t.ig.eNT` ~ `IN.t-t`
@@ -2882,7 +2882,7 @@
 * vater `v.at-er` @-er
   * *vate****r***- `(r)` → land
   * väter `v.ät-er`
-* **ven** `v` : `(I)t-er.w.ir` `(I)t-er.w-o` @vw
+* **ven** `v` : `(I)t-er.w.ir` `(I)t-er.w-o`
   * *vent* `v` : `.e-v.ät` `ko.w-o` `ko.w.i-aL,(.e)`
     * evtl. `.e-v-t-l`
     * *invent* = *in*<i></i>*ven****t*** `IN-t` : `IN-t-ar` `IN-t-ar.ir` `IN-t-ur`
