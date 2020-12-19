@@ -983,6 +983,7 @@
     * ! `h.ang`
     * : *zu*<i></i>*samm*en*h****ang*** `Z.Sa.ang` ~ `u-ang`
       * : *in*.*dies*em *zu*<i></i>*samm*en*h****ang*** `IN.iS.em Z.Sa.ang` × `IN.iS.ang`
+* harf `h.af` : `h.af.e`
 * harm `h.am` : `h.am.os`
 * *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i` @ie
   * *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
@@ -1120,7 +1121,7 @@
 * *inter*- `(I)t-er`
   * *intell*- `IN.t`
 * *intrig* `(I)tr.ig` : `(I)tr.ig.e`
-* -*ion* `.iO`/`-o`
+* -*ion* `.iO`/`-o` ⇒ `*` STS
   * -*ional* `.i-aL`
   * -*ionell* `.i-eL`
 * *irgend* `.i` / `.ig`
@@ -2515,7 +2516,7 @@
 * **spitz** `.iz`
 * **sp**iz `sp` : `IN.sp.ir`
   * **spekt** `sp` : `(o)sp` `r.sp`
-    * : *in***spekt***ion* `IN.sp*` STS ! `IN.sp.iO
+    * : *in***spekt***ion* `IN.sp.iO
   * spek `sp.ek` : `sp.ek.iO` `sp.ek.ir`
 * *sp****ort*** `(.ot)` : `(.ot).N` `wi-er.ot`
 * spür `sp.ür`
@@ -2553,7 +2554,7 @@
 * st `st` : `ko.st.aNT` `ko.st.az` `IN.st.az`
   * ***stat***, ***staat*** `.at` : `.at.ist` `.at.ko`
     * : ***stat***ik `.at.ik` ! `st.at.ik`
-    * : ***stat****ion* `.at.iO` ⇒ `sta*` STS
+    * : ***stat****ion* `.at.iO`
     * : **kon*****stat***ier `ko.at.ir` ~ `ko.sta.ir`
     * ~~*stat*~~*ist* `(.i+st)` : `(.i+st)-ik`
         * : ~~*stat*~~*istisch* `(.i+st)-isch` ~ `sta.iS.i`
@@ -2562,7 +2563,7 @@
       * : **kon**<i></i>**st**itut*ion* `ko.st.ut.iO` ~ `ko.st.it.iO`
   * ***stab*** `.ab` : `.ab.ät`
   * **stall** `sta`
-    * : *in***stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
+    * : *in***stall**at*ion* `IN.sta.iO`
   * → kost
 * stab ← st
 * **stadt** `sta` : `GR,sta` `gr.sta` `hau:sta` `(r),sta` ← steh
@@ -2608,7 +2609,7 @@
     * **stät** `st` : `b.st.i`
 * stell ← steh
 * ***stell*** `.ell`
-  * : **kon*****stell***at*ion* `ko.ell.iO` ⇒ `ko.st*`
+  * : **kon*****stell***at*ion* `ko.ell.iO`
 * ***steig*** `.eig`
   * ***stieg*** `.ig`
 * stet ← steh
@@ -3221,7 +3222,7 @@
     * **prinz** `pri`
   * z~~ept~~ `z` : `r.z`
     * : **kon**z~~ept~~ `ko.z` ~ `ko-t`
-    * : **re**z~~ept~~*ion* `r.z*` STS ! `r.z.iO`
+    * : **re**z~~ept~~*ion* `r.z.iO`
 * zipl `z.ipl`
   * *disziplin* `ds`
 * zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.iO` `z.ik.ir` `z.ik.us`
