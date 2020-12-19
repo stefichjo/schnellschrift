@@ -573,6 +573,7 @@
   * **f**iz `f` : `b.en.e-f` `.o-f.ieL`
     * : de**f**izit `d.e-f.it` × `d.e-it`
     * : e**f**izi*ent* `.e-f.eNT` ! `.e-f.iz.eNT`
+      * : **ko**e**f**izi*ent* `ko.e-f.eNT` ! `ko.e-f.ent`
     * : o**f**iz `.o-f` : `.o-f.ieL`
   * *fakt* `fat` : `fat-ur.a`
     * **fekt** `f` : `.a-f` `.e-f` `.e-f-Ol`
