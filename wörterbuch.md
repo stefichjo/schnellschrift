@@ -16,8 +16,8 @@
 * *adress* ≈ adr~~ess~~ `.adr` ← reg
 * *afrik* `.afr` `.afr.i`
   * : *afrik*a `.afr.a` × `.afr`
-* ag `.ag` : `.ag.eNT`
-  * : ag*ent*ur `.ag.eNT.ur` × `.ag.ur`
+* ag `.ag` : `.ag.eNT` `.ag.eNT.ur`
+  * *agentur* `.ag.ur`
   * akt `.akt` ⇒ `.ak.t` : `r.akt-or`
     * : **re**akt*ion* `r.akt-iO` * `r-t-iO`
     * *akt****i*** `(.I)` : `(.I).e` @ie
@@ -27,6 +27,7 @@
 * akzent ← kan
 * -al `.al`
   * -il `.il`
+    * -ilität `.ät`
 * *all* `.al` : `wet-al`
   * : *vor.allem* `O-a`
 * als `.as`
@@ -459,8 +460,7 @@
 * eis `.eis`
 * *eisen* = (eisen) `.eis.en` ≠ eis
 * el `.el` : `.el.e-met` `.el.e-met.ar`
-* *elektr* `.el` : `.el.i` `.el.if.ir` `.el.ir` `.el.od.e` `.el.on.i`
-  * : *elektr*izität `.el.ät`
+* *elektr* `.el` : `.el.i` `.el.if.ir` `.el.ir` `.el.ät` `.el.od.e` `.el.on.i`
 * eltern ← alt
 * eltern `.et-ern` : `.et-ern.os` `.et-ern.FT` `O.et-ern`
 * em
@@ -618,10 +618,9 @@
   * : *filial* `f.i-aL` : `f.i-aL.e`
 * film `f.im` : `f.imt.e` `G.f.imt` `E.f.im`
 * **filt**er `fit-er` : `fit-r.ir`
-* **fin** `fi`: `fi.al` `fi.al.e`
-  * : **fin**al*ist* `fi.ist` ! `fi.al.ist`
-  * : **fin**al*ist*in `fi.i+st.in` ~ `fi.al.in`
-  * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
+* **fin** `fi`: `fi.al` `fi.al.e` `fi.al.ist`
+  * : de**fin** `d.e,fi` * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
+  * *finalistin* `fi.al.in`
   * → finanz
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
@@ -688,9 +687,7 @@
   * : *un*<i></i>*bedi****ng***t *er*<i></i>*forder*<i></i>*lich* `UN.(ng)-t er.F.L` × `UN-t.L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `I Fö` `I b.Fö.en`
 * *fort* `fr`
-* ***form*** `.om` : `.om.al` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `.om,(.e)` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
-  * ***form***alität `.om.ät` ! `.om.al.ät`
-  * ***form***al*istisch* `.om.iS.i` ! `.om.al.iS.i`
+* ***form*** `.om` : `.om.al` `.om.al.iS.i` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `.om,(.e)` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
   * → reform
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
@@ -709,8 +706,8 @@
   * : tuch*fühl*<i></i>*ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * : **fuhr**e `fu-e` ! `fu.e`
-* *führ* `.ür` : `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`  ← fuhr
-  * ! `f.ür` : `f.ür-er` `f.ür-UNG`
+* *führ* `.ür` : `Ü.ür` `u-rÜ.ür` `Z.Sa.ür` ← fuhr
+  * ! führ : `f.ür` `f.ür-er` `f.ür-UNG`
   * `.ür` ~ `-Ür`
     * : *ge*<i></i>*führ*t `G.ürt` ~ `G-Ürt`
     * : ab*führ*en `.ab.ür` ~ `.ab-Ür`
@@ -805,10 +802,9 @@
 * gastr `g.a+str` : `g.a+str.om`
 * *ge*- `G`
   * *unge*- `UN.G`
-* ge `g.e` : `g.e-m.etr.I` `g.e-m.etr.i`
-  * : geo**graph** : `g.e-gra` ! `g.e-o+gra`
-  * : geo***log***e `g.e-og.e` ! `g.e-l.og.e`
-  * : geo***log***ie `g.e-og.I` ! `g.e-l.og.I`
+* ge `g.e` : `g.e-gra` `g.e-og.e` `g.e-og.I` `g.e-m.etr.I` `g.e-m.etr.i`
+  * *geograph* `g.e-o+gra`
+  * *geolog* `g.e-l.og` : `g.e-l.og.e` `g.e-l.og.I`
 * ***geb*** `.eb` STS
   * ! `g.eb` : `g.eb-er`
   * ~ **geb** `g.e` ⇒ *geb* `g` : `G.g` `G.g.H` `.ab.g` `b.g.H` `er.g` `er.g-st` `-G.g.UNG` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
@@ -847,9 +843,9 @@
   * -*gemeinschaft* `N` → arbeit
 * *ge****nau*** `G.au`
 * gen `g.en` : `g.en.iaL`
-* *gener* `g.en` : `g.en.ell` `g.en.iO`
-  * : *gener*al `g.en.al` × `g.en`
-  * : *general*- `g` → sekret streik
+* *gener* `g.en` : `g.en.al` `g.en.ell` `g.en.iO`
+  * *general* `g.en`
+    * *general*- `g` → sekret streik
 * genug ← nug
 * *ge****nug*** `G.ug`
   * *ge****nüg*** `G.üg` : `b.üg` `E.üg`
@@ -907,7 +903,7 @@
   * : steno**graph** `st.en.gra` ! `st.en.o+gra`
     * ~~*steno*~~**graph** `(gra)`
   * *paragraph* `pa`
-  * gramm `gr.am` : `gr.am.f` `f.on.gr.am` `(o)gr.am` `(o)gr.am.ir` `t.e-gr.am`
+  * gramm `gr.am` : `gr.am.f` `f.on.gr.am` `t.e-gr.am`
     * *grammophon* `gr.am.on`
     * *programm* `(o)gra` : `(o)gra.ir`
       * -*programm* `gra` → reg wahl
@@ -1240,6 +1236,8 @@
 * ***klim*** `.im` : `.im.a` `.im.i` `.im.ir`
 * **klin** `kli` : `kli.ik` `.un.ät,kli.ik`
 * knochen `kn.och`
+* **ko**al `ko.al` : `ko.al.ir` `ko.al.iO` ← al
+  * *koalition* `ko.iO`
 * koll
   * *protokoll* `pr.ot.ok`
 * **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `IN.b.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
@@ -1605,8 +1603,7 @@
   * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
 * mocht ← mög
-* mod `m.od` : `m.od.e` `m.od.al` `m.od-er.or` `m.od-er.iO` `m.od.if-o` `m.od.ul` `m.od.ul.ar` `m.od.ul.iO` `m.od.us`
-  * : modalität `m.od.ät` ! `m.od.al.ät`
+* mod `m.od` : `m.od.e` `m.od.al` `m.od.al.ät` `m.od-er.or` `m.od-er.iO` `m.od.if-o` `m.od.ul` `m.od.ul.ar` `m.od.ul.iO` `m.od.us`
   * : *mod****ell*** STS `(.ell)` ~ `m.o-ell` : `(.ell).ir` ~ `m.o-ell.ir` ≠ kartell
   * : modern `m.od-er` : `UN.m.od-er`
     * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG`
@@ -1858,6 +1855,7 @@
 * **plant** `pla` : `pla.asch.e` `tra.pla.O`
 * ***platz*** `.az` : `(T)-s.az` `si:az`
   * ***plätz*** `.ez` : `.ez.e`
+* plaus `pl.aus` : `pl.aus.ib.el` `pl.aus.ib.ät`
 * plett `pl.et` : `kom-pl.et.ir`
   * : *kom*plett `kom-pl.et` ~ `kom-pl`
 * **pl**ik `pl`
@@ -1892,7 +1890,7 @@
       * : **post**ulier `po.ir` ! `po.ul.ir`
       * : *kom***post** ⇒ *komp****ost*** `kom.ost` : `kom.o+st.ir`
     * → pot
-* port `pot` : `pot-al` `(o)pot-iO` `tra.pot`
+* port `pot` : `pot-al` `(d)pot-ir` `(o)pot-iO` `tra.pot`
   * : *pro*port*ional* `(o)pot-i-aL` × `(o)pot-al`
   * : *un*<i></i>*pro*port*ion*iert `UN.o-pot-iO.irt` × `UN.o-port.irt`
   * *import* `.imp` : `.imp.ir` `.imp.ör`
@@ -1981,9 +1979,8 @@
 * ***raum*** `.aum`
   * : welt***raum*** `wet-aum` ~ `w.aum`
   * ***räum*** : `.äum` : `.äum.e`
-* **re** `r` : `r.al`
-  * : **re**alisieren `r.ir` ! `r.al.ir`
-  * : **re**alität `r.ät` ! `r.al.ät`
+* **re** `r` : `r.al` `r.al.ir` `r.al.ät`
+  * *realisieren* `r.ir`
 * real ← re
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(b)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
@@ -2507,8 +2504,8 @@
 * spend `sp.ed` : `sp.ed.e`
 * **sperr** `sp` : `G.sp` `.ab.sp` `E.sp`
   * ! `sp.err` : `sp.err.e` `sp.err-UNG`
-* **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.iaL.ist-en` `sp.ieL` `sp.if-o` `sp.if.ir` `sp.if.ir-UNG` `sp.if.i` `sp.if.ät`
-  * *spezif* `sp.ez` : `sp.ez.iO` `sp.ez.ir` `sp.ez.ir-UNG` `sp.ez.i` `sp.ez.ät`
+* **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.iaL.ist-en` `sp.ieL`
+  * : **spez**if `sp.if` * *spezif* `sp.ez` : `sp.ez.iO` `sp.ez.ir` `sp.ez.ir-UNG` `sp.ez.i` `sp.ez.ät`
 * **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il`
 * spint `sp.it` STS @?
 * spir `sp.ir` : `sp.ir.al` `IN.sp.ir.ir` `ko.sp.ir.iO`
@@ -2699,9 +2696,9 @@
 * **tausch** `tau` : `tau-t.e` `.S.tau` `.um.tau` `E.tau`
   * **täusch** `täu`
 * *tausend* `(I)` : `(I).e`
-* *tech****n*** `(n)` : `(n).ik` `(n).ik-er` `(n).i`
-  * : *elektr*o*tech****n***<i></i>**isch** `.el,(n).i` ! `.el.o-t.en.i`
-  * : *ter****min***us.*tech****n***icus `(m.in).us,(n).ik.us` × `(m.in).us;us`
+* *tech****n*** `(n)` : `(n).ik` `(n).ik-er` `(n).i` `.el,(n).i` `(m.in).us,(n).ik.us`
+  * *elektrotechnisch** `.el.o-t.en.i`
+  * *terminus.technicus* `(m.in).us;us`
   * → tekt
 * **teg** `t` : `(o)t.ir`
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
@@ -2726,10 +2723,10 @@
   * **tens** `t` : `IN.t.iv` `IN.t.iv.ir-UNG` `IN.t.ät`
     * *intensiv* `(I)t-i`
 * ter***min*** `(m.in)` : `(m.in).al`
-  * ! `t.em.in`
+  * termin `t.em.in`
   * : deter***min***ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
-* test `t.est`
-  * : test*ament* `t.e+st.eNT` × `t.e+st`
+* test `t.est` `t.e+st.eNT`
+  * *testament* `t.e+st`
 * **teu**er `teu` : `b.teu` `E.teu` @-er
   * : **teu**rer `teu-er` ! `t.eur-er`
 * ***text*** `ext`
@@ -2746,11 +2743,10 @@
 * theor `t.e-or` : `t.e-or.ik-er` `t.e-or.i` `t.e-or.I`
   * -*theorie* `t.e-o-I` : `quat,t.e-o-I` `r.iv.ät-t.e-o-I`
 * therm `t.em` : `t.em.al`
-* **tief** `ti`
-  * : *ver***tief**en `(E)ti`
-* **tin** `ti`
-  * : **kon**<i></i>**tin***ent* `ko,ti.eNT` × `ko,ti`
-  * : **kon**<i></i>**tin**uier*lich* `ko,ti.ir.L` × `ko,ti.L`
+* **tief** `ti` : `(E)ti`
+* **tin** `ti` : `ko,ti.eNT` `ko,ti.ir.L`
+  * *kontinent* `ko,ti`
+  * *kontinuierlich* `ko,ti.L`
 * **ti**~~ng~~ `ti`
   * : **kon**<i></i>**ti**~~ng~~*ent* `ko,ti.eNT` × `ko,ti`
   * → tint
@@ -2899,7 +2895,7 @@
   * *individ* = *in***d**i~~vid~~ : `IN.d.al.ät` `IN.d.ell` `IN.d.um`
   * → video
   * **v**is `v` : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `r.w-o` `r.w.or`
-    * ! `v.is` : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.is.al.ir` `v.is.um` `v.is.a`
+    * ! `v.is` : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.isr` `v.is.um` `v.is.a`
     * *pro***v**isorien `(o)w.or.I.en` × `(o)w.I.en` @ie
     * *devis* = de***vis*** `d.e-is` : `d.e-is.e` `d.e-is.en`
   * vue `v.ü` : `r.w.ü`
