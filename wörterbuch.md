@@ -348,6 +348,7 @@
     * : **kund**en**dienst** `ku,di` ~ `ku:d.i`
 * *dies* `.iS` : `.iS.em` `.iS-er` `.iS-es` `.iS:ma`
     * : *aus*.*dies*em `.s.iS.em` * `.s-S` STS
+* **digit** `di` : `di.al` `di.al.ir-UNG`
 * dik `d.ik` : `IN.d.ik.iO`
   * diz `d.iz` : `IN.d.iz`
   * ***dex*** `ex` : `IN.ex`
@@ -654,8 +655,8 @@
 * ***flieg*** `.ig`
   * ***flog*** `.og`
   * ***flug*** `.ug`
-* ***fleisch*** `.eisch` : `.eisch.i`
-  * : rind***fleisch*** `r.id.eisch` ~ `ri.eisch`
+* ***fleisch*** `.eisch` : `.eisch.i` `r.id.eisch`
+  * *rindfleisch* `ri.eisch`
 * **flekt** `fl`
   : ! flekt `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.ib.ät` `fl.iO`
@@ -1825,9 +1826,8 @@
 * *patent* `pa°` Neubauer : `pa°.a`
 * pati `p.az` : `p.az.eNT` `p.az.eNT-in`
   * ***pass*** `pass` : `pass-o`
-* **pausch** `pau` : `pau.al` `pau.al.e`
+* **pausch** `pau` : `pau.al` `pau.al.e` `pau.al.ir`
   * **pausch**alisieren `pau.ir` ! `pau.al.ir`
-  * -*pauschale* `au.al.e` → kost
 * paz `p.az` : `p.az.ik` `p.az.ist` `p.az.iS`
   * pazif**isch** `p.az.i` ! `p.az.if.i`
   * → pakt
