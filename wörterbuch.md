@@ -626,9 +626,9 @@
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi` @i
-  * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
-    * : emp**find**en `.emp-f.i` ⇒ *empfind*en = emp*f*<i></i>***i***<i></i>*nd*en `.emp-i` @-×
-    * : *er***find**er `er.f.i-er` ! `er,fi-er` @i
+  * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
+    * emp*f****i****nd* `.emp-i`
+    * *erfinder* `er,fi-er`
   * **fand** `fa` : `b.fa`
     * ! `f.ad`
     * : emp**fand** `.emp-fa` ⇒ `.emp-a` @-×an
