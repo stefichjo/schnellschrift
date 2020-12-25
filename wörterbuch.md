@@ -50,7 +50,7 @@
   * *ande****rs*** `(rs)`
   * änder `.äd-er` : `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * angst `.angst`
-  * -*angst* = -*ang****st*** `(-st)` → tod
+  * -*ang****st*** `(-st)` → tod
   * ängst `.engst`
 * *ant*- `aNT`
 * -*ant* `aNT`
@@ -406,9 +406,9 @@
   * **drang** `dra`
     * **dräng** `dr.e`/`drä` STS : `E.drä-UNG` STS @ä @e
   * **drung** `dru` : `G.dru` `N.dru`
-* **druck** `dru` : `dru.ei` `dru,(.e)` `ach.dru` `N.dru` . `z.ko`
-  * : **druck**er `dru.er` ! `dr.uk-er`
-  * : *aus***druck** `.S.dru` ~ `.S-u` @-×an
+* **druck** `dru` : `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `ach.dru` `N.dru` . `z.ko`
+  * drucker `dr.uk-er`
+  * *ausdr***u****ck* `.S-u`
     * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
       * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
   * **drück** `drÜ`
@@ -627,7 +627,7 @@
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi` @i
   * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
-    * : emp**find**en `.emp-f.i` ⇒ *empfind*en = emp*f****i****nd*en `.emp-i` @-×an
+    * : emp**find**en `.emp-f.i` ⇒ *empfind*en = emp*f*<i></i>***i***<i></i>*nd*en `.emp-i` @-×
     * : *er***find**er `er.f.i-er` ! `er,fi-er` @i
   * **fand** `fa` : `b.fa`
     * ! `f.ad`
@@ -881,7 +881,7 @@
 * gleit `gl.T`
   * glitt `gl.it` @ei
 * ***glied*** `.id` : `M.id` `M.id-er.Sa.UNG`
-  * *mitglied* `M-i`
+  * *mitglied* = *mit*<i></i>*gl*<i></i>***ie***<i></i>*d* `M-i`
 * ***glück*** `.ük` : `.ük.L` `.ück.L.eis.e` `b.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
 * **gönn** `gö`
   * **gunst** `gu`
@@ -3509,9 +3509,6 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
-* @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
-
-* @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 
 * ~2 doppelte Verschattung :/
 * @aus-an Auslautkürzung (auf -s(s) oder -r) mit Anlaut
@@ -3534,4 +3531,8 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * Winklers verwendet auch `.eNT` statt `.met` (sortiment)
 * Winklers erlaubt `(I).iS` statt `IN.iS`
 * Winklers rollt das `s` nach `ko` immer ein.
+
+* × entfernen
+* @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
+* @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 
