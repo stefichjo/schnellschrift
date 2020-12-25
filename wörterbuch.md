@@ -175,11 +175,10 @@
 * **bill** `bi`
   * : **bill***ig* `bi.i`
 * bin ← sein
-* **bind** `bi` : `UNTER,bi` `bi-o`
-  * : *ver***bind**en `(E)bi` ! `E,bi`
-  * : *ver***bind***lich* `(E)bi.L` ! `E,bi.L`
-  * ! `b.id`
-  * × : `(I)E.M` `(I)E-s`
+* **bind** `bi` : `(E)bi` `(E)bi.L` `UNTER,bi` `bi-o`
+  * bind `b.id`
+  * *verbind* `E,bi` : `E,bi.L`
+  * *in.verbindung.mit* `(I)E.M`
   * **band** `ba`
     * -*verband* `ba` → land zentral
     * **bänd** `b`/`bä` : `bä-e` @ä
@@ -429,7 +428,7 @@
 * ehr `.er`
   * -~~ehr~~ : *ich*.*hab*e.~~die~~.~~ehr~~.e `.I-a,(.e)`
 * eid `.eid` : `N.eid` STS
-* eigen, eign `.eig` : `.eig-s` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
+* eigen, eign `.eig` : `.eig-s` `.eig-Ü.i` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
   * : eigen*sücht*<i></i>*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ eigennützig
 * ein `N` : `N-t.e` `N.i` `N.i-t.e` `N.ma` `E.N-Sa`
@@ -837,13 +836,15 @@
   * galt `gat`
   * golt `got` : `G.got`
   * gült `güt` : `güt-ig` `güt-ig.T` `UN,güt-ig` `.ed,güt-ig` `gl,güt-ig` `echt,güt-ig.T`
-    * *allgemein*gültig `.a-G,güt-ig` * `.a-G-Ü`
+    * -*gültig* `-Ü.i` → gemein
 * *gemein* `G.N` : `G.N.H`
-  * *gem****eind*** `(N)-d` : `(N)-d.e` `(N)-d.e-o` `(N)-d.e.UNG` `la.N-d.e`
+  * *gem****eind*** `(N)-d` : `(N)-d.e` `(N)-d.e-hö` `(N)-d.e-o` `(N)-d.e.UNG` `la.N-d.e`
+  * *gem****einnützig*** `(N)-Ü.i`
   * *gem****einsam*** `(N)-Sa` : `(N)-Sa.T`
   * *gem****einschaft*** `(N).FT`
     * -*gemeinschaft* `N` → arbeit
-  * *allgemein* `.a-G` : `E.a-G.er` `.im.a-G` ≠ allein
+  * *allgemein* `.a-G` : `.a-G-Ü.i` `E.a-G.er` `.im.a-G` ≠ allein
+    * *allgemeingültig* `.a-G-Ü` @Aufstrichüberkreuzung
     * *verallgemeiner* `E.al.G`
 * *ge*
 * *ge****nau*** `G.au`
@@ -879,8 +880,8 @@
   * **glich** `gli` ⇒ `gl.i`
 * gleit `gl.T`
   * glitt `gl.it` @ei
-* ***glied*** `.id`
-  * : *mit****glied*** `M.id` ~ `M-i`
+* ***glied*** `.id` : `M.id` `M.id-er.Sa.UNG`
+  * *mitglied* `M-i`
 * ***glück*** `.ük` : `.ük.L` `.ück.L.eis.e` `b.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
 * **gönn** `gö`
   * **gunst** `gu`
@@ -1073,9 +1074,9 @@
 * *honor* `h.on` : `h.on.ar` `h.on.ir`
 * hor `h.or` : `G.h.or-Sa`
   * horch `h.och` : `h.och-er` `G.h.och`
-* **hör** `hö`
-  * : **be**<i></i>**hör**de `b.hö.d.e` × `b.hö`
-    * : *gemein*de**be**<i></i>**hö**rde `G.N-d.e-b.hö.d.e` ~ `G.N-d.e-hö-e` ~ `(N)-d.e-hö-e`
+* **hör** `hö` : `b.hö.d.e`
+  * *behörde* `b.hö`
+    * -*behörde* `hö` → gemein
 * horch ← hor
 * hort `hot`
 * *hundert* `hu` : `3.hu` `5,hu` `hu.FT`
@@ -1751,8 +1752,7 @@
 * nutz ← nieß
 * **nutz** `nu`
   * **nütz** `nÜ`
-  * : eigen**nütz***ig* `.eig-Ü.i`
-  * : *ge****mein***<i></i>**nütz***ig* `G.N-Ü.i` @@zu erwarten: `(N)-Ü.i`
+    * -*nützig* `-Ü.i` → eigen gemein
 
 ## [O](#wörterbuch)
 
@@ -2109,7 +2109,7 @@
   * → sammel
 * **samm**el `sa.el` : `sa.l-UNG` ← samm
   * *versammel* `E.Sa` : `E.Sa.UNG`
-    * -*versammlung* `Sa.UNG` : `M.id-er.Sa.UNG` @@glied
+    * -*versammlung* `Sa.UNG` → glied
 * *samt* `Sa` : `G.Sa` `G.Sa.H`
   * : *in*s*ge*<i></i>*samt* `IN.G.Sa` ~ `(I).G.Sa`
   * *sämt* `s` : `s.L`
@@ -2915,7 +2915,7 @@
   * → füll
 * volv `v.ow` : `r.w.ow-er`
   * volt `v.ot` : `r.wot.e`
-  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `u-ur,r.u-O` @@kut-ur
+  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `kut-ur,r.u-O`
     * : *konter***re***vol****u****t*<i></i>*ion* `(ko)tr,r.u-O` ~ `ko-t-er,r.u-O`
 * **von** `v`
   * : *da***von** `.a-v` ~ `a-v`
@@ -2948,8 +2948,7 @@
   * : abwägen `.ab.w.äg` * `.ab.äg`
   * : *er*wägen `er.w.äg` * `er.äg`
   * wog `w.og` : `er.w.og`
-* **wahl** `wa` : `wa,(.el)` `er-sa.wa` `l.i=wa`
-  : * *ge****mein***de**wahl**en `G.N-d.e-wa.en` ~ `(N)-d.e:wa.en` @@gemeinde `(N)-d.e`
+* **wahl** `wa` : `wa,(.el)` `er-sa.wa` `(N)-d.e:wa.en` `l.i=wa`
   * **wähl** `w`/`wä` : `G.wä` STS `G.w-t` `w.bar` `w-er` `w-er.FT` @ä
     * ! `w.el`
 * wahn `w.an` : `w.an.in.i` `w.an,(g)`
@@ -2962,7 +2961,7 @@
 * walt `wat` : `G.wat` `E.wat`
   * *anwalt* `.an-t`
     * : *recht*s*anwalt* `R.an-t` × `R.an`
-  * ~~*ver*walt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG` @@gemein kommunal land stadt
+  * *verwalt****ung*** `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG`
   * wält `wet` : `b.wet-ig` `Ü.wet-ig.ed`
 * wand `w.ad`
 * wand ← wind
