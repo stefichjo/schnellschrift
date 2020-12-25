@@ -222,10 +222,10 @@
 * bunt `but` : `but-er` `but-est` `bu.H`
 * **bür** `bÜ` : `m.ak-er-Ü.o`
 * burg `b.ug` : `b.ug.en`
-  * -*burg* `bu` : `ho.bu`
-  * *bürg* `bÜ` : `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E.bÜ`
-    * *bürg*er*lich*es.*gesetzbuch* `bÜ-er.L,bu` × `bÜ-bu`
-    * : *mit*<i></i>*bürg*er `M.bÜ-er` * `M-Ü-er`
+  * -*burg* `bu` → hoch
+  * *bürg* `bÜ` : `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E.bÜ` `M.bÜ-er`
+    * *bürgerliches.gesetzbuch* `bÜ-bu`
+    * *mitbürger* `M-Ü-er`
 * bus `b.us`
   * -*bus* `(.us)` → aut
 * butter `b.ut-er` @-er
@@ -241,8 +241,8 @@
   * **brich** `bri`
   * **brach** `bra`
     * **bräch** `br`
-  * **broch** `bro`
-    * : *un*<i></i>*unter***broch**en `UN-UNTER.bro` × `UN-UNTER`
+  * **broch** `bro` : `UN-UNTER.bro`
+    * *ununterbrochen* `UN-UNTER`
   * **bruch** `bru`
     * **brüch** `brü` ~ `brÜ`
       * *ver***trag**s**brüch***ig* `(E)tra-Ü.i` `(ko)tra-Ü.i`
@@ -253,8 +253,8 @@
   * **bracht** `bra` : `(.an)bra` `(b.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z.Sa.bra`
     * **brächt** `br`/`brä` : `brä-e` @ä
 * **brud**er `bru` @-er
-  * **brüd**er `brÜ-er` `brÜ-er.l.N`
-    * **brüd**er*lich* `brÜ-er.L` × `brÜ-L`
+  * **brüd**er `brÜ-er` `brÜ-er.l.N` `brÜ-er.L`
+    * *brüderlich* `brÜ-L`
 
 ## [C](#wörterbuch)
 
@@ -1059,7 +1059,7 @@
 * hinten, hinter → hin
 * *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er` @ie
   * : *liter*ar*histor***isch** `li.ar,hi-o.i` ! `l.it-er.ar,hi-o.i`
-* **hoch** `ho` : `ho,(g)` `ho-t-ig` `s.ho`
+* **hoch** `ho` : `ho.bu` `ho,(g)` `ho-t-ig` `s.ho`
   * **höch** `hö` : `hö-t`
   * : **höch**stens `hö-t-s` ~ `hö°`
   * **hoh**, **ho** `ho`
