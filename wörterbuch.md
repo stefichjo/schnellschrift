@@ -14,8 +14,8 @@
     * *gutachten* `u.a`
     * *gutachter* `gu,er`
 * *adress* ≈ adr~~ess~~ `.adr` ← reg
-* *afrik* `.afr` `.afr.i`
-  * : *afrik*a `.afr.a` × `.afr`
+* *afrik* `.afr` `.afr.a` `.afr.i`
+  * *afrika* `.afr`
 * ag `.ag` : `.ag.eNT` `.ag.eNT.ur`
   * *agentur* `.ag.ur`
   * akt `.akt` ⇒ `.ak.t` : `r.akt-or`
@@ -37,10 +37,10 @@
   * ält `.ät` : `.ät-er` `.ät.est`
 * *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
 * amt `.amt` : `.amt-ir`
-  * : *aus*wärtiges amt `.S-t-ig.es .amt` × `.S.a`
-  * *beamt*, *beamter*, *beamten* `b.a` : `b.a.in`
-    * : *beamt*en*schaft* `b.a.FT` × `b.FT`
-  * -*amt* `.a` → arbeit finanz haupt land patent post wart
+  * *auswärtiges.amt* `.S.a`
+  * *beamt*, *beamter*, *beamten* `b.a` : `b.a.in` `b.a.FT`
+    * *beamtenschaft* `b.FT`
+  * -*amt* `.a` → arbeit aus finanz haupt land patent post
   * -*ämter* `.ä`
 * an `.an` : `.an-t-er` `dar.an` `wo.an`
 * -an `.an`
@@ -60,8 +60,8 @@
   * : *arbeits****los*** `(l.os)`
   * : *arb****eit***s*gemeinschaft* `(T)-s.N` ~ `Ts.N`
   * : *arb****eit***s*w****eis***e `(T)-s.eis.e` ~ `Ts.eis.e`
-* arch `.ach` : `.ach.iv`
-  * : archivar `.ach.iv.ar` × `.ach.ar`
+* arch `.ach` : `.ach.iv` `.ach.iv.ar`
+  * *archivar* `.ach.ar`
 * arch `.ach` : `.ach.og.e`
   * : archäo***log***ie `.ach.og.I` ~ `.ach.o-I`
 * arg `.ag` : `.arg.os` `E.ag`
@@ -72,8 +72,8 @@
 * arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
 * **a**rt `.a` : `.ab.a` `(r).a.i` `.es.a`
   * ! *art* = (art) `.art`
-* art `.at` : `.at.ik.el`
-  * : arterie `.at.er.I.e` × `.at.er.e` @ie
+* art `.at` : `.at.er.I.e` `.at.ik.el`
+  * *arterie* `.at.er.e` @ie
   * *artik* `(.ik)` : `(.ik).el` `(.ik).ir` `(.ik).iO` `b.da.ik.el`
     * : *artik*el 6 `(.ik).el 6` ~ `(.el),6`
 * arz `.az` : `.az.n.ei` `za.azt`
@@ -126,8 +126,9 @@
   * **behr** `b` : `eNT.b`
 * bär `b.är`
 * **bas** `ba` : `ba.is`
-* **bau** `bau` : `bau.er` `bäu.er.in` `b.au.er.FT` `bau.ko` `IN,u-met,bau`
-  * : **bäu**er*lich* `bäu.er.L` × `bäu.L`
+* **bau** `bau` : `bau.er` `b.au.er.FT` `bau.ko` `IN,u-met,bau`
+  * **bäu** `bäu` : `bäu.er.in` `bäu.er.L`
+    * *bäuerlich* `bäu.L`
 * bass `b.ass` : `(ko)tra.b.ass`
 * *bayer*, *bayern* `b.ay`
 * **be**- `b`
@@ -155,8 +156,8 @@
 * *bibel* `bib`
 * bibl `b.ibl`
   * : bibliograph `b.ibl.gra.I` ! `b.ibl.o+gra.I`
-  * *biblio****thek*** `(t.ek)`
-    * : *biblio****thek***ar**isch** `(t.ek).ar.i` × `(t.ek).i`
+  * *biblio****thek*** `(t.ek)` `(t.ek).ar.i`
+    * : *bibliothekarisch* `(t.ek).i`
 * bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
@@ -837,11 +838,14 @@
   * golt `got` : `G.got`
   * gült `güt` : `güt-ig` `güt-ig.T` `UN,güt-ig` `.ed,güt-ig` `gl,güt-ig` `echt,güt-ig.T`
     * *allgemein*gültig `.a-G,güt-ig` * `.a-G-Ü`
-* *gemein* ≈ *gem****ein*** `(N)` : `(N)-d.e` `(N)-Sa` `(N)-Sa.T` `(N).FT` `(N)-d.e.UNG` `la.N.e`
-  * *allgemein* `.a-G` : `.im.a-G`
-    * : *ver*<i></i>*allgemein* `E.a-G` ! `E.al.G`
-  * ~ *ge****mein*** ⇒ *gemein* `G.N` : `G.N.H`
-  * -*gemeinschaft* `N` → arbeit
+* *gemein* `G.N` : `G.N.H`
+  * *gem****eind*** `(N)-d` : `(N)-d.e` `(N)-d.e-o` `(N)-d.e.UNG` `la.N-d.e`
+  * *gem****einsam*** `(N)-Sa` : `(N)-Sa.T`
+  * *gem****einschaft*** `(N).FT`
+    * -*gemeinschaft* `N` → arbeit
+  * *allgemein* `.a-G` : `E.a-G.er` `.im.a-G` ≠ allein
+    * *verallgemeiner* `E.al.G`
+* *ge*
 * *ge****nau*** `G.au`
 * gen `g.en` : `g.en.iaL`
 * *gener* `g.en` : `g.en.al` `g.en.ell` `g.en.iO`
@@ -858,8 +862,8 @@
 * gift ← geb
 * *gift* `git`
   * **blut***ver**gift* `blu.E,git` * `blu,E.i`
-* **ginn** `gi` STS
-  * : **be**<i></i>**ginn** `b,gi` ~ `b.in`
+* **ginn** `gi` : `b,gi`
+  * *beginn* `b.in`
   * **gann** `ga` : `b.ga`
   * **gonn** `go` : `b.go`
 * *giro* `gi.o`
@@ -1019,9 +1023,7 @@
 * heiter `h.T-er`
 * helf `h.ef` : `h.ef-er.in` `h.ef-er.h.ef-er` `ach.h.ef`
   * hilf `h.if`
-    * **hilf** `hi` : `.ab,hi.e` `b.ei-hi.e`
-      * : **hilf**e `hi-e` ! `hi.e`
-      * : **hilf***reich* `hi.r.ei` ~ `hi.eich`
+    * → hilf
   * half `h.af`
   * holf `h.of` : `G.h.of` `.S.h.of`
 * hemm `h.em` : `h.em-UNG.os`
@@ -1042,6 +1044,8 @@
   * : **hier**bei `(hi)b.ei` ~ `h.i-b.ei`
   * hies `h.is` : `h.is.i`
 * hies ← hier
+* **hilf** `hi` : `hi.e` `hi.r.ei` `.ab,hi.e` `b.ei-hi.e` ← helf
+  * : *hilfreich* `hi.eich`
 * *hin* `hn` : `hnt` `hnt-h.um`
   * *hin*- `n` → auf aus ein zu
   * -*hin* `.in` : `da.in` `T-er.in`
@@ -1228,8 +1232,7 @@
 * ***klar*** `.ar` : `.ar-er` `.am.arst` `.ar.H`
   * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
     * : *er****klär***en `er.är` ~ `er-r` ≠ ernähren
-* **klass** `kla` : `kla-e` `kla.ik-er` `kla.i` `kla.if.ir` `kla.if-o`
-  * : **klass**iz*ismus* `kla.iS`
+* **klass** `kla` : `kla-e` `kla.ik-er` `kla.iS` `kla.i` `kla.if.ir` `kla.if-o`
 * ***klaud*** `.aud` STS
   * ***klaus*** `.aus` : `.aus.e`
     * -*klausel* `au.el` → zent
@@ -1749,7 +1752,7 @@
 * **nutz** `nu`
   * **nütz** `nÜ`
   * : eigen**nütz***ig* `.eig-Ü.i`
-  * : *ge****mein***<i></i>**nütz***ig* `G.N-Ü.i`
+  * : *ge****mein***<i></i>**nütz***ig* `G.N-Ü.i` @@zu erwarten: `(N)-Ü.i`
 
 ## [O](#wörterbuch)
 
@@ -1778,7 +1781,7 @@
 * ord `.od` : `.od.L` `.od.in.är`
   * : ab*ge*ordnet `.ab.od` × `.ab.G`
   * : *außer*ordent*lich* `.auss.od.L` × `.auss.L`
-  * : -*ordnung* `.o` : `G.N-d.e-o` ~ `(N)-d.e-o`
+  * -*ordnung* `.o` → gemein
 * org `.org` : `.og.an` `.og.iO` `.og.ir` `.og.iS.en`
   * organ**isch** `.og.i` ! `.og.an.i`
 * *orient* `.or` : `.or.ir` `.or.ir-UNG`
@@ -2106,7 +2109,7 @@
   * → sammel
 * **samm**el `sa.el` : `sa.l-UNG` ← samm
   * *versammel* `E.Sa` : `E.Sa.UNG`
-    * -*versammlung* `Sa.UNG` : `M.id-er.Sa.UNG`
+    * -*versammlung* `Sa.UNG` : `M.id-er.Sa.UNG` @@glied
 * *samt* `Sa` : `G.Sa` `G.Sa.H`
   * : *in*s*ge*<i></i>*samt* `IN.G.Sa` ~ `(I).G.Sa`
   * *sämt* `s` : `s.L`
@@ -2912,7 +2915,7 @@
   * → füll
 * volv `v.ow` : `r.w.ow-er`
   * volt `v.ot` : `r.wot.e`
-  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `u-ur,r.u-O`
+  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `u-ur,r.u-O` @@kut-ur
     * : *konter***re***vol****u****t*<i></i>*ion* `(ko)tr,r.u-O` ~ `ko-t-er,r.u-O`
 * **von** `v`
   * : *da***von** `.a-v` ~ `a-v`
@@ -2946,7 +2949,7 @@
   * : *er*wägen `er.w.äg` * `er.äg`
   * wog `w.og` : `er.w.og`
 * **wahl** `wa` : `wa,(.el)` `er-sa.wa` `l.i=wa`
-  : * *ge****mein***de**wahl**en `G.N-d.e-wa.en` ~ `(N)-d.e:wa.en`
+  : * *ge****mein***de**wahl**en `G.N-d.e-wa.en` ~ `(N)-d.e:wa.en` @@gemeinde `(N)-d.e`
   * **wähl** `w`/`wä` : `G.wä` STS `G.w-t` `w.bar` `w-er` `w-er.FT` @ä
     * ! `w.el`
 * wahn `w.an` : `w.an.in.i` `w.an,(g)`
@@ -2959,7 +2962,7 @@
 * walt `wat` : `G.wat` `E.wat`
   * *anwalt* `.an-t`
     * : *recht*s*anwalt* `R.an-t` × `R.an`
-  * ~~*ver*walt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG`
+  * ~~*ver*walt~~*ung* `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG` @@gemein kommunal land stadt
   * wält `wet` : `b.wet-ig` `Ü.wet-ig.ed`
 * wand `w.ad`
 * wand ← wind
@@ -3129,6 +3132,7 @@
   * *will* `(.l)`
 * wort `wot`
   * *antwort* = *ant*~~wort~~ `aNT` : `(b)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
+  * -*wort* `o` → bind schlag sprech
 * wund ← wind
 * **wund** `wu` : `wu-er` `b.wu-er`
   * : **wund**er*voll* `wu-er.Ol` × `wu-ol`
