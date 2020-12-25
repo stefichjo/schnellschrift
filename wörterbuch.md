@@ -408,7 +408,7 @@
   * **drung** `dru` : `G.dru` `N.dru`
 * **druck** `dru` : `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `ach.dru` `N.dru` . `z.ko`
   * drucker `dr.uk-er`
-  * *ausdr***u****ck* `.S-u`
+  * *ausdr****u****ck* `.S-u`
     * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
       * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
   * **drück** `drÜ`
