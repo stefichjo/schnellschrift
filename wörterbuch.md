@@ -406,11 +406,11 @@
   * **drang** `dra`
     * **dräng** `dr.e`/`drä` STS : `E.drä-UNG` STS @ä @e
   * **drung** `dru` : `G.dru` `N.dru`
-* **druck** `dru` : `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `ach.dru` `N.dru` . `z.ko`
+* **druck** `dru` : `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `ach.dru` `N.dru`
   * drucker `dr.uk-er`
   * *ausdr****u****ck* `.S-u`
-    * **z**um *aus***druck** `z .S.dru` × `z` : `z.bra` `z.ko`
-      * : **z**um.~~ausdruck~~.**bring**en `z,bri` ⇒ `z.br.i` ~ `z.ing`
+    * *zum.ausdruck.gebracht* `z.bra`
+    * *zum.ausdruck.kommen* `z.ko`
   * **drück** `drÜ`
     * : **drück**en `drÜ` ! `dr.ük`
     * : *aus***drück***lich* `.S.drÜ.L` ~ `.S-Y.L`
