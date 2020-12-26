@@ -712,9 +712,9 @@
 * ***führ*** `.ür` : `.S.ür` `.S.ür.L` `dr.ür` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür` ← fuhr
   * : `.ür-er` `.ür-UNG`
   * : `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `AU,si.ür.ed` `.a-Z .ür`
-  * -*führend* `-Ü.ed` → feder sicht
   * *aus*<i></i>*f****ü****hr* `.S-ü` : `.S-ü.L`
   * *durch*<i></i>*f****ü****hr* `dr-ü` : `dr-ü-t`
+  * -*führend* `-Ü.ed` → feder sicht
   * führ : `f.ür` `f.ür-er` `f.ür-UNG`
   * *führ* `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `.a-Z-Ür`
 * füll ← voll
