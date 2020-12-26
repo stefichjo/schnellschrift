@@ -625,17 +625,17 @@
   * → finanz
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
-* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi` @i
-  * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
+* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi` @i Aufstrich vor fi; `Z.f.i` "zufällig"
+  * ⇒ `.ab.f.i` `AU.f.i` `b.f.i` `b.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
     * emp*f****i****nd* `.emp-i`
-    * *erfinder* `er,fi-er`
-  * **fand** `fa` : `b.fa`
-    * ! `f.ad`
-    * : emp**fand** `.emp-fa` ⇒ `.emp-a` @-×an
-	* **fänd** `f`/`fä` STS @ä
-	  * ! `f.äd`
-  * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu`
-    * : emp**fund**en `.emp-fu` ⇒ `.emp-u` @-×an
+    * *erfinder* `er,fi-er` : `er,fi-er.i`
+  * **fand** `fa` : `b.fa` `.emp-fa`
+    * fand `f.ad`
+    * emp*f****a****nd* `.emp-a`
+      * **fänd** `f`/`fä` STS @ä
+        * fänd `f.äd`
+  * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu` `.emp-fu`
+    * emp*f****a****nd* `.emp-u`
 * **fing**er `fi-er`
 * **finst**er `fi-er`
 * *firm* `im` : `im.a` `im.en` `im.ir`
