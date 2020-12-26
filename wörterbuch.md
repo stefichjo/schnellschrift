@@ -135,9 +135,10 @@
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
 * behörde ← hör
-* bei `b.ei` : `b.ei-ei-ad-er` `b.ei,i`
-  * *da*bei `.a-b.ei` * `a-b.ei`
-  * *her*bei `.e-b.ei` * `h.ei`
+* bei `b.ei` : `b.ei-ei-ad-er` `b.ei,i` `.a-b.ei`
+  * *d****a****bei  `a-b.ei`
+  * *her*bei `.e-b.ei`
+    * *herbei* `h.ei` : `h.ei-Ür`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
 * **beiß** `b.ei` STS
   * **biss** `bi` ⇒ `b.i` STS
@@ -294,6 +295,7 @@
   * *da*- `.a-`
     * : *da*<i></i>*hin* `.a.in` ! `da.hn`
     * : *da***mal**s `.a-ma-s` ~ `da°`
+  * *d****a***- `a-` → bei zu
   * -*da* `da`
 * dach `d.ach`
   * däch `d.ech` : `d.ech-er`
@@ -581,7 +583,7 @@
       * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
       * : **per**<i></i>**fekt** `p.f` ~ `p.fet`
       * fit `f.it` : `(o)f.it`
-* **fed** `f` : `f-er`
+* **fed** `f` : `f-er` : `f-er-Ü.ed`
 * fehl `f.el` : `b.f.el`
   * *fehler* `f-er`
   * → empfehl
@@ -707,26 +709,14 @@
   * : tuch*fühl*<i></i>*ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * : **fuhr**e `fu-e` ! `fu.e`
-* *führ* `.ür` : `Ü.ür` `u-rÜ.ür` `Z.Sa.ür` ← fuhr
-  * ! führ : `f.ür` `f.ür-er` `f.ür-UNG`
-  * `.ür` ~ `-Ür`
-    * : *ge*<i></i>*führ*t `G.ürt` ~ `G-Ürt`
-    * : ab*führ*en `.ab.ür` ~ `.ab-Ür`
-    * : an*führ*er `.an.ür-er` ~ `.an-Ür-er`
-    * : *auf***sicht**<i></i>*führ*end `AU,si.ür.ed` ~ `AU-i.ür.ed` ~ `AU-i-Ür.ed` ~ `AU-i-Ü.ed` @-×an
-    * : *auf*<i></i>*führ*en `AU.ür` ~ `AU-Ür` : `AU-Ür-UNG`
-    * : ein<i></i>*führ*en `N.ür` ~ `N-Ür` : `N-Ürt`
-    * : **fed**er*führ*end `f-er.ür.ed` ~ `f-er-Ür.ed` ~ `f-er-Ü.ed`
-    * : *geschäft*s*führ*er `GT-ür-er` ~ `GT-Ür-er` : `GT-Ür-UNG`
-    * : *her*bei<i></i>*führ*en `.e-b.ei-ür` ~ `.e-b.ei-Ür` ~ `h.ei-Ür`
-    * : *unter*<i></i>*führ*<i></i>*ung* `UNTER.ür-UNG` ~ `UNTER-Ür-UNG`
-    * : *ver*<i></i>*führ*en `E.ür` ~ `E-Ür`
-    * : *vor*<i></i>*führ*en `O.ür` ~ `O-Ür`
-    * : *darauf* *zurück*<i></i>*führ*en `dar-AU u-rÜ.ür` × `dar-AU.ür` ~ `dar-AU-Ür`
-    * : *da*<i></i>*zu* *führ*en `.a-Z .ür` ~ `.a-Z-Ür` ~ `a-Z-Ür`
-  * `.ür` ~ `-ü`
-    * : *aus*<i></i>*führ*en `.S.ür` ~ `.S-ü` : `.S-ü.L`
-    * : *durch*<i></i>*führ*en `dr.ür` ~ `dr-ü` : `dr-ü-t`
+* ***führ*** `.ür` : `.S.ür` `.S.ür.L` `dr.ür` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür` ← fuhr
+  * : `.ür-er` `.ür-UNG`
+  * : `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `AU,si.ür.ed` `.a-Z .ür`
+  * -*führend* `-Ü.ed` → feder sicht
+  * *aus*<i></i>*f****ü****hr* `.S-ü` : `.S-ü.L`
+  * *durch*<i></i>*f****ü****hr* `dr-ü` : `dr-ü-t`
+  * führ : `f.ür` `f.ür-er` `f.ür-UNG`
+  * *führ* `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `.a-Z-Ür`
 * füll ← voll
 * **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `ach.fÜ` `Ü.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
     * : *er***füll**en `er.fÜ` ~ `er-Ü.en`
@@ -2061,7 +2051,8 @@
   * *romant* `r.o+mat` : `r.o+mat-ik` `r.o+mat-isch`
 * **rück** `rÜ` : `rÜ-t-ig`
   * -*r****ü****ck* ⇒ -*rück* `-Ü` @-×an
-  * *zurück* `u-rÜ`
+  * *zurück* `u-rÜ` : `dar-AU u-rÜ.ür`
+    * -~~zurück~~- : `dar-AU-Ür`
 * **rud** `ru` : `ru-er` `ru-er.N`
 * ~~r~~uf `(.uf)` STS : `.S.uf` `b.uf`
   * : *auf*~~r~~uf `AU.uf` ~ `AU-u`
@@ -2128,12 +2119,11 @@
   * *fernseh* `f-s` : `f-s-er`
   * sieh `s.ih`
   * sah `s.ah`
-  * **sicht** `si` STS : `b-si.i` `si,u` STS
+  * **sicht** `si` STS : `AU+si` `b-si.i` `si,u` STS
     * ! `s.icht`
-
     * : ab**sicht** `.ab-si` ~ `.ab-i` : `.ab-i.L` @-×an
       * : **be**ab**sicht***ig*en `b.ab,si.i` × `b.ab` @--×
-    * : *auf***sicht** `AU,si` ~ `AU-i` @-×an
+    * : *auf*<i></i>*s****i****cht* `AU-i` : `AU-i-Ü.ed`
       * : **be***auf***sicht***ig*en `b.AU,si.i` ~ `b.e,AU-i.i` × `b.e,AU-i` ~ `b,AU-i` @-×an
       * : **be***auf***sicht***ig*te `b.AU,si.i-t.e` ~ `b.e,AU-i.i-t.e` ~ `b,AU-i.i-t.e` @-×an
     * : *ge***sicht** `G,si` ~ `G,i` : `an-G,si` ~ `an-G,i` @-×an
@@ -2149,7 +2139,6 @@
       * : ein**sicht** `N-si` ~ `N.icht` : `UN.N-si.i-T` ~ `UN.N.icht.i-T`
       * : *vor***sicht** `O-si` ~ `O.icht` : `UN.O-si.i` ~ `UN.O.icht.i`
       * : *über***sicht** `Ü,si` ~ `Ü.icht` : `.ei-e-Ü.icht` `.ei-e-Ü.icht-Ü.n,and`
-
     * × ~~sicht~~
       * : *hin****sicht*** `hn.icht` -× *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
       * : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
@@ -2596,7 +2585,7 @@
   * → stadt
   * → stand
   * **stall** `sta`
-  * *stell* `.ell` : `GT-ell.e` `.an.ot.ell.e`
+  * *stell* `.ell` : `GT.ell.e` `.an.ot.ell.e`
     * : *stell*<i></i>*ung* `.ell-UNG` ⇒ `st*`
     * -*steller* `(er)` → trag
   * **statt** `sta` : `sta.ha` `sta.L` `er.sta`
@@ -3231,7 +3220,8 @@
 * *ziv****il*** `(.il)`
 * zog ← zieh
 * *zu* `Z` : `Z.ei-ad-er` `(.e)Z` `(n)Z` `Z.ma`
-  * *da*<i></i>*zu* `.a-Z` * `a-Z`
+  * *da*<i></i>*zu* `.a-Z`
+    * *d****a****zu* `a-Z` : `a-Z-Ür`
   * *nahezu* `(e)Z`
   * **z**um `z`
   * *zur* `zr*`
