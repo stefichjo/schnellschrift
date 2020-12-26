@@ -709,14 +709,16 @@
   * : tuch*fühl*<i></i>*ung* `t.uch-Ül-UNG` ~ `tu-Ül-UNG`
 * **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * : **fuhr**e `fu-e` ! `fu.e`
-* ***führ*** `.ür` : `.S.ür` `.S.ür.L` `dr.ür` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür` ← fuhr
-  * : `.ür-er` `.ür-UNG`
-  * : `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `AU,si.ür.ed` `.a-Z .ür`
+* ***führ*** `.ür` ← fuhr
+  * : `.ür-er` `.ür.ed` `.ür-UNG`
+  * : `.S.ür` `.S.ür.L` `dr.ür` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`
+  * : `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `AU,si.ür.ed`
   * *aus*<i></i>*f****ü****hr* `.S-ü` : `.S-ü.L`
   * *durch*<i></i>*f****ü****hr* `dr-ü` : `dr-ü-t`
   * -*führend* `-Ü.ed` → fed sicht
+  * *da*<i></i>*zu*.***führ*** `.a-z.ür` STS
   * führ : `f.ür` `f.ür-er` `f.ür-UNG`
-  * *führ* `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `.a-Z-Ür`
+  * *führ* `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `a-Z-Ür`
 * füll ← voll
 * **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `ach.fÜ` `Ü.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
     * : *er***füll**en `er.fÜ` ~ `er-Ü.en`
@@ -2125,6 +2127,7 @@
       * : **be**ab**sicht***ig*en `b.ab,si.i` × `b.ab` @--×
     * : *auf*<i></i>*s****i****cht* `AU-i` : `AU-i-Ü.ed` `b.e,AU-i.i` `b.e,AU-i.i-t.e`
       * *beaufsichtig* `b,AU-i` : `b,AU-i-t.e` STS
+        * *beaufsichtigte* `b,AU-i.i-t.e`
     * : *ge***sicht** `G,si` ~ `G,i` : `an-G,si` ~ `an-G,i` @-×an
       * ~ *ge***sicht** `G.icht` ≠ gericht
       * : *ge*<i></i>**sicht**sp**u**nkt `G,si,u` × `G,u`
