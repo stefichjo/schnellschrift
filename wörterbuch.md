@@ -1544,17 +1544,17 @@
 * ment `met` : `met-al.ät` `met-or`
   * *komment* `ko-t` : `ko-t-ar` `ko-t-at.or`
   * -*ament* `eNT` → perg temp test
-
 * merk `m.ek` : `m.ek,(.el)`
-
-  * : *auf*merk*sam* `AU.m.ek-Sa` -×- *aufmerksam* = *auf*~~merk~~*sam* `AU-Sa` . `dar-AU.ma`
-
-    * : *auf*merk*sam****keit*** `AU.m.ek-Sa.T` × `AU.T`
-
-      * : *mit*.*besonder*er *auf*merk*sam****keit*** `M-S AU.T` × `M-S.T`
-
-  * : **be**merk `b.m.ek` * `b.m`
-
+  * : `AU.m.ek-Sa` `AU.m.ek-Sa.T` `UN.AU.m.ek-Sa.T`
+  * : `b.m.ek`
+  * : `dar-AU AU.m.ek-Sa ma`
+  * : `M b-S AU.m.ek-Sa.T`
+  * *auf*~~merk~~*sam* `AU-Sa`
+    * : `AU-Sa.T` `UN.AU-Sa.T` `M-S AU-Sa.T`
+    * : `dar-AU AU-Sa ma` `M b-S AU-Sa.T`
+  * *auf*~~merksam~~***keit*** `AU.T` : `UN.AU.T` `M-S AU.T`
+  * -~~aufmerksam~~- : `dar-AU.ma` `M-S.T`
+  * *bemerk* `b.m`
 * **mess** `ess` : `ess.e` `ess-er`
   * : -*messer* `(er)` → hoch strom
   * **miss** `.iss`
