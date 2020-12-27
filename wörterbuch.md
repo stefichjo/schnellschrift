@@ -2147,15 +2147,15 @@
 
     * -~~sicht~~- : `G,u`
     * -~~sicht~~
-      * : `hn` `hn.L` `rÜ` `rÜ.os`
+      * : `hn` `hn.L` `rÜ` `rÜ.os` `b.rÜ.i` STS `b.rÜ.i-t`
       * : `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
+      * *berücksichtig*en `b.rÜ`
       * *rücksichtnahme* `rÜ.icht,(.e)` ≠ rücknahme `rÜ,(.e)`
 
     * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht` `UN.N.icht.i-T` `O.icht` `UN.O.icht.i` `Ü.icht` `.of.icht.L` `.ei-e-Ü.icht-Ü.n,and`
       * *offensichtlich* `.of,i-L`
 
     * × ~~sicht~~
-        * : **be***rücksicht*<i></i>*ig*en `b.rÜ.i` × `b.rÜ` @--×
         * : *mit*.*rücksicht*.*auf* `M-Ü.AU`
         * : *mit*.*rücksicht*.~~auf~~.**d**as `M-Ü.d`
         * : *mit*.*rücksicht*.~~auf~~.*die* `M-Ü.I`
