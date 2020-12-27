@@ -2131,7 +2131,7 @@
   * sieh `s.ih`
   * sah `s.ah`
   * **sicht** `si` STS
-    * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T` `(O)si` `(UN.O)si.i` `(Ü)si` `.of,si.L` `.ei-e (Ü)si Ü.n and`
+    * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T` `(O)si` `(UN.O)si.i` `(Ü)si` `.of,si.L`
     * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `b.e,(.ab)si.i` `(AU)si` `b.e,(AU)si.i` `(b)si.i` `si,u` STS
     * : `(rÜ)si` `(rÜ)si.os` `(rÜ)si,(.e)`
     * -*s****i****cht*
