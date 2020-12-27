@@ -493,7 +493,7 @@
   * aß `.ass`
   * *ge*gess `G.g.ess`
 * ~~ess~~
-  * *inter*~~ess~~ `(I)t-er`: `(I)t-er.aNT` `(I)t-er.eNT-en` `(I)t-er.ir` `(I)t-er.os.i-T` `UN-(I)t-er.aNT`
+  * *inter*~~ess~~ `(I)t-er`: `(I)t-er.aNT` `(I)t-er.eNT-en` `(I)t-er.ir` `(I)t-er.os.i-T` `(UN.I)t-er.aNT`
     * : *inter*~~ess~~e `(I)t-er.e` × `(I)t-er`
 * *essen* `.ess`
 * *etw****a*** `(.a)` : `(.a)-s`
@@ -1349,7 +1349,7 @@
     * länd `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
   * → deutschland
   * → niederlande
-* **land**~~*wirt*~~*schaft* `la.FT` ~ *landwirtschaft* `a-(wr).FT` ≠ landschaft ← wirt
+* **land**~~*wirt*~~*schaft* `la.FT` ~ *landwirtschaft* `(a-wr).FT` ≠ landschaft ← wirt
 * **lang** `ang` : `ang-Sa` `ang.fr.ist-ig` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * eben~~so~~.*lang*e `.eb.ang.e`
   * **läng** `eng` : `eng-st` `eng-st-es` `eng-st-s`
@@ -2132,9 +2132,9 @@
   * sah `s.ah`
 
   * **sicht** `si` STS
-    * : `si.bar` `si.L` `(.an)-si` `(.S)si` `(.S)si.os` `(N)-si`
+    * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T`
     * : `.of,si.L`
-    * : `G,si` `an-G,si` `(.ab)-si` `(.ab)-si.L` `b.e,(.ab)-si.i` `(AU)si` `b.e,(AU)si.i` `(b)-si.i` `si,u` STS
+    * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `b.e,(.ab)si.i` `(AU)si` `b.e,(AU)si.i` `(b)si.i` `si,u` STS
 
     * ab*s****i****cht* `.ab-i` : `.ab-i.L` `b.e,.ab-i.i`
       * *beabsichtig* `b.ab`
@@ -2147,8 +2147,7 @@
 
     * -~~sicht~~- : `G,u`
 
-    * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht`
-      * : ein**sicht** ~ : `(UN.N)-si.i-T` ~ `UN.N.icht.i-T`
+    * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht` `UN.N.icht.i-T`
       * : *vor***sicht** `O-si` ~ `O.icht` : `UN.O-si.i` ~ `UN.O.icht.i`
       * : *über***sicht** `Ü,si` ~ `Ü.icht` : `.ei-e-Ü.icht` `.ei-e-Ü.icht-Ü.n,and`
 
