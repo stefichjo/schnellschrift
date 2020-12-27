@@ -2142,31 +2142,21 @@
     * *ge*<i></i>*s****i****cht* `G,i` STS : `G,i,u` `an-G,i`
       * *gesicht* `G.icht` ≠ gesetzwidrig
     * *zu*<i></i>*ver*<i></i>*s****i****cht* `Z.E-i` : `Z.E-i.L` `Z.E-i.L.T`
-    * -~~sicht~~- : `G,u`
     * -~~sicht~~
-      * : `hn` `hn.L` `rÜ` `rÜ.os` `b.rÜ.i` STS `wr b.rÜ.i-t`
-      * : `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
-      * : `UNTER b.rÜ.i`
+      * *ge*- : `G,u`
+      * *hin*- : `hn` `hn.L` `rÜ` `rÜ.os` `b.rÜ.i` STS `wr b.rÜ.i-t` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
+      * **rück**- : `UNTER b.rÜ.i`
+      * an- : `(I)bi.an` `wr-I.an` `m.ei-an:ach` `ach.m.ei-an` `ach.U.an`
+      * *über*- : `Ü.L` `Ü.L.T` `UN-Ü-L`
+      * *aus*- : `O.S.L` `IN.S.st` `IN.S.ell`
       * *berücksichtig*en `b.rÜ`
       * *rücksichtnahme* `rÜ.icht,(.e)` ≠ rücknahme `rÜ,(.e)`
+
     * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht` `UN.N.icht.i-T` `O.icht` `UN.O.icht.i` `Ü.icht` `.of.icht.L` `.ei-e-Ü.icht-Ü.n,and`
       * *offensichtlich* `.of,i-L`
     * -*r****ü****cksicht*- : `M-Ü.AU` `M-Ü.d` `M-Ü.I` `M-Ü-n` `.o°-Ü.AU`
       * *unter*.*berücksichtigung* `UNTER-Ük`
     
-    * × -~~sicht~~
-      * : -an~~sicht~~ ⇒ -*ansicht* `.an`
-        * : *ich*.**bin**.~~der~~.*ansicht* `(I)bi.an`
-        * : *wir*.*sind*.~~der~~.*ansicht* `wr-I.an`
-        * : m**ein**~~er~~.*ansicht*.*nach* `m.ei-an:ach`
-        * : *nach*.m**ein**~~er~~.*ansicht* `ach.m.ei-an`
-        * : *nach*.*uns*~~erer~~.*ansicht* `ach.U.an`
-      * : -*aus*~~sicht~~ ⇒ -*aussicht* `.S`
-        * : *in*.*aussicht*.**steh**en `IN.S.st`
-        * : *in*.*aussicht*.***stell***en `IN.S.ell`
-        * : *vor*<i></i>*aussicht*<i></i>*lich* `O.S.L` @--×
-      * : -*übersicht* = -*über*~~sicht~~  `Ü` : `Ü.L` `Ü.L.T` `UN-Ü-L`
-
 * **sehr** `s`
 * sei ← sein
 * seid `s.eid` : `s.eid.e`
