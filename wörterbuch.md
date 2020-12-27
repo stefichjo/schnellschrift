@@ -882,8 +882,8 @@
     * **günst** `gÜ` : `gÜ.i` `gÜ.i-er` `gÜ.ist` `UN-gÜ.i` `er b.gÜ.i-t.e .in` `I E.gÜ.i` `I E.gÜ.i-en`
 * gunst ← gönn
 * **gut** `gu`
-  * **güt** `gÜ`
-    * : *in***vest**it*ion*s**güt**er `IN.w-O.gÜ-er` ~ `IN.w-O-Ü.er` @-×an
+  * **güt** `gÜ` : `gÜ-e` `gÜ.i` `gÜ.L` `gÜ.er` `gÜ.E` `E.gÜ` E.gÜ.et.e` `E.gÜ.UNG`
+    * -*g****ü****ter*- `-Ü` : `IN.w-O-Ü.er`
   * ***bess***er `bes`/`br°`
     * × *besser* : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T`
   * best `b.est`
@@ -924,7 +924,7 @@
 
 ## [H](#wörterbuch)
 
-* **hab** `ha` : `G.ha` `im.IN.ha-er`
+* **hab** `ha` : `G.ha` `gu.ha` `im.IN.ha-er`
   * : *ich*.**hab** `.I.ha` ~ `.I-a`
   * : *wir*.**hab** `wr.ha` ~ `wr-a`
   * *hast* `ha`
@@ -1006,7 +1006,8 @@
 * ***heim*** `.eim`
   * *heim****at*** `(.at)`
 * heiß ← heiz
-* **heiß** `h.ei`
+* **heiß** `h.ei` : `gu.h.ei`
+  * *gutheiß* `gu.eiss`
   * **hieß** `hi` ⇒ `h.i` ! `h.iss`
 * heiz `h.eiz`
   * : *zentral*heiz*ung* `zra.h.eiz*` ~ `zra.eiz*`
@@ -1207,9 +1208,13 @@
 * ***kauf*** `.auf` : `.auf.ed` `.auft.e` `.an.auf` `.S.E.auf` `E.auf` `u-rÜ.auf` `N.auf` `rÜ.auf` `UN-E.auft` `wr.auf`
   * ***käuf*** `.äuf` : `.äuf.e` `.äuf-er` `E.äuf-er` `E.äuf-er.in` `UN-E.äuf.L`
 * **kaum** `kau`
-* ***kehr*** `.er` : `b.er` `rÜ.er` `.um.er` `E.er` `W.er` `u-rÜ.er`
-  * ! `k.er`
-  * : um*ge****kehr***t `.um.ert` × `.um.G`
+* ***kehr*** `.er`
+  * : `.er.icht` `b.er`
+  * : `rÜ.er` `.um.er` `.um.ert` `E.er` `E.ert` `W.er` `u-rÜ.er`
+  * -*verkehr* `E` → gut
+  * um*ge*-~~kehrt~~- `.um.G`
+  * kehr `k.er` : `k.er.icht` `b.k.er`
+    * *kehricht* `k.er.i`
 * -***keit*** `T` ← heit
 * **kenn** `k` : `b.k` `b.k.is` `er.k` `er.k.is`
   * *kenn* `k.e` @e
@@ -1239,6 +1244,7 @@
   * *protokoll* `pr.ot.ok`
 * **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `IN.b.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get-UNG.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
   * : *darauf* *zurück***komm**en `dar-AU u-rÜ.ko` ~ `dar-AU-Ü.ko`
+  * *zugute.komm* `Z.u-ko`
   * : *zu*.**hilf**e.**komm**en `Z.hi.ko` ~ `Z.i-ko`
   * **kömm** `kö` : `b.kö.L` `.ab.kö.l.ing`
   * kam `k.am`
@@ -1586,7 +1592,7 @@
 * *mit* `M` : `M.ei-ad-er` `hi:M`
   * : *da*<i></i>*mit* `.a-M` ~ `a-M`
   * : *mitt* `M` : `M.e`
-    * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.är-t-el` `ar-UNG-t-el`
+    * *mittel* `-t-el` : `er-t-el` `G.uss-t-el` `hi-t-el` `n.är-t-el` `ar-UNG-t-el` `E.er-t-el`
       * : *un*<i></i>*mittel****bar*** `UN-t-el.bar` × `UN.bar`
 * *mitt* `M`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
@@ -2382,7 +2388,7 @@
     * *unterschied* `UNTER-i`
     * *verabschied* `E.ab`
     * *mit.aller.entschiedenheit* `M.al.eNT`
-* *sch****ein*** `(N)` : `(N).bar` `.an.N.ed` `b.N.i` `wa.N.L`
+* *sch****ein*** `(N)` : `(N).bar` `.an.N.ed` `b.N.i` `gu.N` `wa.N.L`
   * *er*~~sch~~ein `er.N` ~ `er.(N)`
   * *führ*er~~sch~~ein `.ür-er.N` ! `f.ür-er.N`
   * **höch**st**wa**hr~~sch~~ein*lich* `hö-t-wa.N.L` ~ `hö-st-N.L`
@@ -2446,7 +2452,7 @@
   * **schrock** `schro`
 * schrei `schr.ei`
   * schrie `schr.i` @ei
-* ***schreib*** `.eib`
+* ***schreib*** `.eib` : `gu.eib`
   * ***schrieb*** `.ib` @ei
   * ***schrift*** `.ift`
     * -schr**i**ft ⇒ -*schrift* `i` : `.ab,i` `M,i` `UNTER,i` `UNTER,i-en` `Z,i` → hand kurz schnell
@@ -2687,7 +2693,8 @@
     * *kontakt* `ko.ta`
 * *tarif* `ta.if`
 * tat ← tun
-* **tausch** `tau` : `tau-t.e` `.S.tau` `.um.tau` `E.tau`
+* **tausch** `tau` : `tau-t.e` `.S.tau` `gÜ.S.tau` `.um.tau` `E.tau`
+  * -~~tausch~~- : `gÜ.S`
   * **täusch** `täu`
 * *tausend* `(I)` : `(I).e`
 * *tech****n*** `(n)` : `(n).ik` `(n).ik-er` `(n).i` `.el,(n).i` `(m.in).us,(n).ik.us`
