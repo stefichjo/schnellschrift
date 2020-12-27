@@ -2134,14 +2134,15 @@
     * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T` `(O)si` `(UN.O)si.i` `(Ü)si` `.of,si.L` `.ei-e (Ü)si Ü.n and`
     * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `b.e,(.ab)si.i` `(AU)si` `b.e,(AU)si.i` `(b)si.i` `si,u` STS
     * : `(rÜ)si` `(rÜ)si.os` `(rÜ)si,(.e)`
-    * ab*s****i****cht* `.ab-i` : `.ab-i.L` `b.e,.ab-i.i`
-      * *beabsichtig* `b.ab`
-    * *auf*<i></i>*s****i****cht* `AU-i` : `AU-i-Ü.ed` `b.e,AU-i.i` `b.e,AU-i.i-t.e`
-      * *beaufsichtig* `b,AU-i` : `b,AU-i-t.e` STS
-        * *beaufsichtigte* `b,AU-i.i-t.e`
-    * *ge*<i></i>*s****i****cht* `G,i` STS : `G,i,u` `an-G,i`
-      * *gesicht* `G.icht` ≠ gesetzwidrig
-    * *zu*<i></i>*ver*<i></i>*s****i****cht* `Z.E-i` : `Z.E-i.L` `Z.E-i.L.T`
+    * -*s****i****cht*
+      * ab- `.ab-i` : `.ab-i.L` `b.e,.ab-i.i`
+        * *beabsichtig* `b.ab`
+      * *auf*<i></i>- `AU-i` : `AU-i-Ü.ed` `b.e,AU-i.i` `b.e,AU-i.i-t.e`
+        * *beaufsichtig* `b,AU-i` : `b,AU-i-t.e` STS
+          * *beaufsichtigte* `b,AU-i.i-t.e`
+      * *ge*<i></i>- `G,i` STS : `G,i,u` `an-G,i`
+        * *gesicht* `G.icht` ≠ gesetzwidrig
+      * *zu*<i></i>*ver*<i></i>- `Z.E-i` : `Z.E-i.L` `Z.E-i.L.T`
     * -~~sicht~~
       * an- : `(I)bi.an` `wr-I.an` `m.ei-an:ach` `ach.m.ei-an` `ach.U.an`
       * *aus*- : `O.S.L` `IN.S.st` `IN.S.ell`
