@@ -2147,8 +2147,8 @@
       * an- : `(I)bi.an` `wr-I.an` `m.ei-an:ach` `ach.m.ei-an` `ach.U.an`
       * *aus*- : `O.S.L` `IN.S.st` `IN.S.ell`
       * *ge*- : `G,u`
-      * *hin*- : `hn` `hn.L` `rÜ` `rÜ.os` `b.rÜ.i` STS `wr b.rÜ.i-t` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
-      * **rück**- : `UNTER b.rÜ.i`
+      * *hin*- : `hn` `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
+      * **rück**- : `rÜ` `rÜ.os` `b.rÜ.i` STS `wr b.rÜ.i-t` `UNTER b.rÜ.i`
         * *berücksichtig*en `b.rÜ`
         * *rücksichtnahme* `rÜ.icht,(.e)` ≠ rücknahme `rÜ,(.e)`
       * *über*- : `Ü.L` `Ü.L.T` `UN-Ü-L`
