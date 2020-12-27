@@ -2130,12 +2130,10 @@
   * *fernseh* `f-s` : `f-s-er`
   * sieh `s.ih`
   * sah `s.ah`
-
   * **sicht** `si` STS
     * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T` `(O)si` `(UN.O)si.i` `(Ü)si` `.of,si.L` `.ei-e (Ü)si Ü.n and`
     * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `b.e,(.ab)si.i` `(AU)si` `b.e,(AU)si.i` `(b)si.i` `si,u` STS
     * : `(rÜ)si` `(rÜ)si.os` `(rÜ)si,(.e)`
-
     * ab*s****i****cht* `.ab-i` : `.ab-i.L` `b.e,.ab-i.i`
       * *beabsichtig* `b.ab`
     * *auf*<i></i>*s****i****cht* `AU-i` : `AU-i-Ü.ed` `b.e,AU-i.i` `b.e,AU-i.i-t.e`
@@ -2144,25 +2142,18 @@
     * *ge*<i></i>*s****i****cht* `G,i` STS : `G,i,u` `an-G,i`
       * *gesicht* `G.icht` ≠ gesetzwidrig
     * *zu*<i></i>*ver*<i></i>*s****i****cht* `Z.E-i` : `Z.E-i.L` `Z.E-i.L.T`
-
     * -~~sicht~~- : `G,u`
     * -~~sicht~~
-      * : `hn` `hn.L` `rÜ` `rÜ.os` `b.rÜ.i` STS `b.rÜ.i-t`
+      * : `hn` `hn.L` `rÜ` `rÜ.os` `b.rÜ.i` STS `wr b.rÜ.i-t`
       * : `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
+      * : `UNTER b.rÜ.i`
       * *berücksichtig*en `b.rÜ`
       * *rücksichtnahme* `rÜ.icht,(.e)` ≠ rücknahme `rÜ,(.e)`
-
     * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht` `UN.N.icht.i-T` `O.icht` `UN.O.icht.i` `Ü.icht` `.of.icht.L` `.ei-e-Ü.icht-Ü.n,and`
       * *offensichtlich* `.of,i-L`
-
-    * × ~~sicht~~
-        * : *mit*.*rücksicht*.*auf* `M-Ü.AU`
-        * : *mit*.*rücksicht*.~~auf~~.**d**as `M-Ü.d`
-        * : *mit*.*rücksicht*.~~auf~~.*die* `M-Ü.I`
-        * : *mit*.*rücksicht*.~~auf~~.*de****n*** `M-Ü-n`
-        * : *ohne*.rücksicht*.*auf* `.o°-Ü.AU`
-        * : *unter* **be***rücksicht*<i></i>*ig*<i></i>*ung* `UNTER b.rÜ` ~ `UNTER-Ük`
-        * : *wir*.**be***rücksicht*<i></i>*ig*ten `wr b.rÜ.i-t`
+    * -*r****ü****cksicht*- : `M-Ü.AU` `M-Ü.d` `M-Ü.I` `M-Ü-n` `.o°-Ü.AU`
+      * *unter*.*berücksichtigung* `UNTER-Ük`
+    
     * × -~~sicht~~
       * : -an~~sicht~~ ⇒ -*ansicht* `.an`
         * : *ich*.**bin**.~~der~~.*ansicht* `(I)bi.an`
