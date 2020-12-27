@@ -219,7 +219,7 @@
   * -*gesetzbuch* `bu` → burg hand straf
   * **büch** `bÜ` : `bÜ-er`
   * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
-* *bühr* `Ür` : `G-Ür` @Ü
+* *bühr* `-Ür` : `G-Ür` @Ü
 * bunt `but` : `but-er` `but-est` `bu.H`
 * **bür** `bÜ` : `m.ak-er-Ü.o`
 * burg `b.ug` : `b.ug.en`
@@ -870,7 +870,7 @@
 * gleit `gl.T`
   * glitt `gl.it` @ei
 * ***glied*** `.id` : `M.id` `M.id-er.Sa.UNG`
-  * *mitglied* = *mit*<i></i>*gl*<i></i>***ie***<i></i>*d* `M-i`
+  * *mit*<i></i>*gl****ie****d* `M-i`
 * ***glück*** `.ük` : `.ük.L` `.ück.L.eis.e` `b.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
 * **gönn** `gö`
   * **gunst** `gu`
@@ -949,7 +949,7 @@
   * *häl****t*** `(-t)` : `E-t-is`
     * : *arb****eit***s*ver*<i></i>*häl****t***<i></i>**nis** `(T),E-t-is` ~ `Ts.is`
   * : hielt `hit`
-    * ~ *hielt* `hi` `.ab,hi` `eNT,hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
+    * ~ *hielt* `hi` `.ab,hi` `eNT+hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * : **be***hielt* `b,hi` ! `b.e,hi`
 * hammer @-er
 * **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` . `li:ha` `ha.IN.ha`
@@ -1339,13 +1339,14 @@
 * lad `l.ad`
   * ***last*** `.ast`
 * **land** `la` : `la.FT` `la.UNG` `.S.la` `(hi)z.la` `(r).la`
-  * *land****es*** `(.es)` : `(.es).ba`
-    * : *land****es***<i></i>*amt* `(.es).a` ~ `.es.a`
+  * *land****es*** `(.es)` : `(.es).ba` `(.es).a`
     * -*landes* `-es` : `(.es)-es` `.U.es-es`
-  * **länd** `l` : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
-    * ! `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
-    * *län****der*** : `(d-er)` : `(I).N.el.d-er` . `bu,&`
-      * *ent*<i></i>*wick*l*ung*s*län****der*** `eNT,wi.l.d-er` ~ `eNT-i.d-er` @-×an
+    * *landesamt* `.es.a`
+  * **länd** `l`
+    * : `l.L` `.S.l.er` `G.l.e` `G.l.er`
+    * : `.ab.ed.l.i` `.S.l.i` `IN.l.i` `v.at-er.l.i`
+    * *län****der*** : `(d-er)` : `(eNT)wi.l.d-er` `(I).N.el.d-er` `bu,&`
+    * länd `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
   * → deutschland
   * → niederlande
 * **land**~~*wirt*~~*schaft* `la.FT` ~ *landwirtschaft* `a-(wr).FT` ≠ landschaft ← wirt
@@ -1543,11 +1544,17 @@
 * ment `met` : `met-al.ät` `met-or`
   * *komment* `ko-t` : `ko-t-ar` `ko-t-at.or`
   * -*ament* `eNT` → perg temp test
+
 * merk `m.ek` : `m.ek,(.el)`
+
   * : *auf*merk*sam* `AU.m.ek-Sa` -×- *aufmerksam* = *auf*~~merk~~*sam* `AU-Sa` . `dar-AU.ma`
+
     * : *auf*merk*sam****keit*** `AU.m.ek-Sa.T` × `AU.T`
+
       * : *mit*.*besonder*er *auf*merk*sam****keit*** `M-S AU.T` × `M-S.T`
+
   * : **be**merk `b.m.ek` * `b.m`
+
 * **mess** `ess` : `ess.e` `ess-er`
   * : -*messer* `(er)` → hoch strom
   * **miss** `.iss`
@@ -2124,7 +2131,7 @@
   * *fernseh* `f-s` : `f-s-er`
   * sieh `s.ih`
   * sah `s.ah`
-  * **sicht** `si` STS : `AU+si` `b.e,AU+si.i` `b-si.i` `si,u` STS
+  * **sicht** `si` STS : `(AU)si` `b.e,(AU)si.i` `b-si.i` `si,u` STS
     * ! `s.icht`
     * : ab**sicht** `.ab-si` ~ `.ab-i` : `.ab-i.L` @-×an
       * : **be**ab**sicht***ig*en `b.ab,si.i` × `b.ab` @--×
@@ -3058,8 +3065,8 @@
 * **wicht** `wi` : `wi.i` `wi.i-T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
   * bösewicht `b.ös.e-w.icht` ~ `b.ös.e,wi`
-* **wick** `wi` : `wi.el` `(E)wi.el`
-  * : *ent***wick**el `eNT,wi.el` ~ `eNT-i` @-×an
+* **wick** `wi` : `wi.el` `(eNT)wi.el` `(E)wi.el`
+  * *ent*<i></i>*w****i****ck*el `eNT-i`
 * *wid****m*** `(m)`
 * wie `w.i`
   * -*wie* `I` : `.i-I` `(o)I`
@@ -3388,7 +3395,6 @@ Nach Vorsilbe können Inlautkürzungen Anlautkürzungen verschatten, müssen abe
 | | | | | |
 |:-|:-|:-|:-|:-|
 | emp**find**en | `.emp-fi` | ⇒ | *empfind*en = emp*f****i****nd*en | `.emp-i` |
-| *ent***wick**eln | `eNT,wi.el` | ⇒ | *entwickel*n = *ent*<i></i>*w****i****ckel*n | `eNT-i` |
 | *unter***such**en | `UNTER.su` | ⇒ | *untersuch*en = *unter*<i></i>*s****u****ch*en | `UNTER-u` |
 
 #### Scheinnachsilben
@@ -3532,3 +3538,43 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 
+### Stufen der Schnellschrift
+
+1. Verschattung: Verschattet werden dürfen nur Kürzel aus der Verkehrsschrift.
+
+* dazu `da.Z` `.a-Z`
+
+2. Verschattung: Verschattet werden dürfen Kürzel aus der Schnellschrift durch
+
+) Kurzformen für abgeleitete Wörter
+
+* seite `T.e`
+* seit `s.T`
+
+) "Auslautkürzel" (auf Oberlinie)
+
+* länder `(d-er)`
+
+) "Endungskürzel"
+
+* verkehr `E.er`
+* -verkehr `E`
+
+* schrift `.ift`
+* -schrift `,i`
+
+) Inlautandeutungen auf Vorsilben
+
+* ausdruck `.S.dru` `.S-u`
+
+) Ausschreibungen
+
+* führ `.ür`
+* führ `f.ür`
+
+) alternative Kurzformen
+
+* führ `.ür`
+* führ `-Ür`
+
+) alles andere
