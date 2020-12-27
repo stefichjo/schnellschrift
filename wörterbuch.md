@@ -359,7 +359,7 @@
 * **ding** `.ing`
   * *allerdi****ng***s `(ng)-s`
   * *bedi****ng*** `(ng)` = flüchtling
-    * : *un*<i></i>*bedi****ng***t `UN.(ng)-t` × `UN-t`
+    * : *un*<i></i>*bedi****ng***t `(UN.ng)-t` × `UN-t`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
   * **d**as.*diplom*at**isch**e.**corps** `d,di-om.ko`
@@ -684,7 +684,7 @@
 * foli `f.ol.I` : `f.ol.I.e` `f.ol.I.en` @ie
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er**forder**lich* `er.F.L` ~ `er.o-L`
-  * : *un*<i></i>*bedi****ng***t *er*<i></i>*forder*<i></i>*lich* `UN.(ng)-t er.F.L` × `UN-t.L`
+  * : *un*<i></i>*bedi****ng***t *er*<i></i>*forder*<i></i>*lich* `(UN.ng)-t er.F.L` × `UN-t.L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `I Fö` `I b.Fö.en`
 * *fort* `fr`
 * ***form*** `.om` : `.om.al` `.om.al.iS.i` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `.om,(.e)` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
@@ -1738,7 +1738,7 @@
 * *nordrheinwestfalen* `n.o-fa`
 * norm `n.om` :  `n.om.al` `.e-n.om`
 * ***not*** `.ot`
-  * : *un*<i></i>*bedi****ng***t **not**<i></i>**wend***ig* `UN.(ng)-t .ot.w.i` ~ `UN.b.o-w.i`
+  * : *un*<i></i>*bedi****ng***t **not**<i></i>**wend***ig* `(UN.ng)-t .ot.w.i` ~ `UN.b.o-w.i`
   * ***nöt*** `.öt`
 * ***not*** `.ot` : `.ot.e` `.ot.ir` `.ot.ar` `.ot.ar.at`
   * ***not***ar*iell* `.ot.ar.ieL` × `.ot.ieL`
@@ -2131,7 +2131,10 @@
   * sieh `s.ih`
   * sah `s.ah`
 
-  * **sicht** `si` STS : `G,si` `an-G,si` `(.ab)-si` `(.ab)-si.L` `b.e,(.ab)-si.i` `(AU)si` `b.e,(AU)si.i` `(b)-si.i` `si,u` STS
+  * **sicht** `si` STS
+    * : `si.bar` `si.L` `(.an)-si` `(.S)si` `(.S)si.os` `(N)-si`
+    * : `.of,si.L`
+    * : `G,si` `an-G,si` `(.ab)-si` `(.ab)-si.L` `b.e,(.ab)-si.i` `(AU)si` `b.e,(AU)si.i` `(b)-si.i` `si,u` STS
 
     * ab*s****i****cht* `.ab-i` : `.ab-i.L` `b.e,.ab-i.i`
       * *beabsichtig* `b.ab`
@@ -2144,16 +2147,14 @@
 
     * -~~sicht~~- : `G,u`
 
-
-    * ~ ***sicht*** ⇒ *sicht* `.icht`
-      * : **sicht*****bar*** `si.bar` ~ `.icht.bar`
-      * : **sicht***lich* `si.L` ~ `.icht.L`
-        * : *offen***sicht***lich* `.of,si.L` ~ `.of,i-L`
-      * : an**sicht** `.an-si` ~ `.an.icht`
-      * : *aus***sicht** `.S,si` ~ `.S.icht` : `.S,si.os` ~ `.S.icht.os`
-      * : ein**sicht** `N-si` ~ `N.icht` : `UN.N-si.i-T` ~ `UN.N.icht.i-T`
+    * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht`
+      * : ein**sicht** ~ : `(UN.N)-si.i-T` ~ `UN.N.icht.i-T`
       * : *vor***sicht** `O-si` ~ `O.icht` : `UN.O-si.i` ~ `UN.O.icht.i`
       * : *über***sicht** `Ü,si` ~ `Ü.icht` : `.ei-e-Ü.icht` `.ei-e-Ü.icht-Ü.n,and`
+
+      * : `.of.icht.L`
+      * *offensichtlich* `.of,i-L`
+
     * × ~~sicht~~
       * : *hin****sicht*** `hn.icht` -× *hinsicht* = *hin*~~sicht~~ `hn` : `hn.L` `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
       * : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
@@ -2248,7 +2249,7 @@
   * : **hat**.*sich* `ha.CH` * `ha°`
 * *sicher* `s.i-er` : `s.i-er-er` `s.i-erst.e` `s.i-er-UNG`
   * ~~sich~~er*lich* `(er).L`
-  * ~~sich~~er*heit* `(er).H` : `UN.(er).H`
+  * ~~sich~~er*heit* `(er).H` : `(UN.er).H`
   * *versicher* `E-i`
     * *die* **haft***pflicht*<i></i>*versicher*<i></i>*ung* `I ha,i,E-i` × `ha,E-i`
 * sicht ← seh
@@ -3571,3 +3572,8 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * führ `-Ür`
 
 ) alles andere
+
+###
+
+Sowohl Anstellung (`(E)tra`) als auch Hochstellung (`(N).FT`) verwenden Klammern. Unterscheidungsmerkmal ist der Punkt (`.`) nach den Klammern (`( ... ).` oder ein Bindestrich (`(ng)-s`). Es gibt aber Anstellungen mit Bindestrich. :O
+
