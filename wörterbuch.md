@@ -1547,13 +1547,12 @@
 * merk `m.ek` : `m.ek,(.el)`
   * : `AU.m.ek-Sa` `AU.m.ek-Sa.T` `UN.AU.m.ek-Sa.T`
   * : `b.m.ek`
-  * : `dar-AU AU.m.ek-Sa ma`
-  * : `M b-S AU.m.ek-Sa.T`
+  * : `dar-AU AU.m.ek-Sa ma` `M b-S AU.m.ek-Sa.T`
   * *auf*~~merk~~*sam* `AU-Sa`
-    * : `AU-Sa.T` `UN.AU-Sa.T` `M-S AU-Sa.T`
-    * : `dar-AU AU-Sa ma` `M b-S AU-Sa.T`
-  * *auf*~~merksam~~***keit*** `AU.T` : `UN.AU.T` `M-S AU.T`
-  * -~~aufmerksam~~- : `dar-AU.ma` `M-S.T`
+    * : `AU-Sa.T` `UN.AU-Sa.T`
+    * : `dar-AU AU-Sa ma` `M-S AU-Sa.T`
+    * -~~merksam~~- : `AU.T` `UN.AU.T` `dar-AU AU.ma` `M-S AU.T`
+      * -~~aufmerksam~~- : `dar-AU.ma` `M-S.T`
   * *bemerk* `b.m`
 * **mess** `ess` : `ess.e` `ess-er`
   * : -*messer* `(er)` → hoch strom
