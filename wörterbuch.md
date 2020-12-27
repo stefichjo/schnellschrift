@@ -1547,9 +1547,9 @@
 * merk `m.ek` : `m.ek,(.el)`
   * : `AU.m.ek-Sa` `AU.m.ek-Sa.T` `UN.AU.m.ek-Sa.T`
   * : `b.m.ek`
-  * : `dar-AU AU.m.ek-Sa ma` `M b-S AU.m.ek-Sa.T`
-  * *auf*~~merk~~*sam* `AU-Sa`
-    * : `AU-Sa.T` `UN.AU-Sa.T`
+  * : `dar-AU AU.m.ek-Sa ma` `M b° AU.m.ek-Sa.T`
+  * -~~merk~~-
+    * : `AU-Sa` `AU-Sa.T` `UN.AU-Sa.T`
     * : `dar-AU AU-Sa ma` `M-S AU-Sa.T`
     * -~~merksam~~- : `AU.T` `UN.AU.T` `dar-AU AU.ma` `M-S AU.T`
       * -~~aufmerksam~~- : `dar-AU.ma` `M-S.T`
@@ -1659,7 +1659,7 @@
   * : *da*<i></i>*nach* `.a-ach` ! `(da)ach`
   * ~~*nach*~~***bar*** `(bar)`
   * *näch****st*** `(-st)` : `(-st)-es` `(-st)-e-s` `(m)(-st)` ← nah
-    * : *zu*<i></i>*näch****st*** `(Z)(-st)` ⇒ *zunächst* `-Z-n`
+    * : *zu*<i></i>*näch****st*** `Z(-st)` ⇒ *zunächst* `-Z-n`
 * ***nacht*** `acht`
 * nah `n.ah` : `G.n.a-t`
   * *beinahe* `b.ei,(.e)`
@@ -1908,7 +1908,7 @@
     * : *re*<i></i>*publ*ikaner `(r)p.ub.ik.an-er` × `r.ik.an.er` × `r.ik-er`
     * : **bund**es*republik* `bu:r.ik` × `bu.ik`
 * *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO` `(ko)tra.pt.i` `(ko)tra.pt.iS.i`
-  * -p**u**nkt `u` → hoh kontr seh steh streit
+  * -p**u**nkt `u` → hoh kontr sicht stand streit
 * put `p.ut`
   * : amputat*ion* `.am-p.ut.iO` * `.am-p-o`
   * : *comp*uter `kom.ut-er` * `kom-u.er` × `kom-u`
@@ -2061,7 +2061,7 @@
 * roman `r.om.an` : `r.om.an.i+st.ik` `r.om.an.iS.i`
   * *romant* `r.o+mat` : `r.o+mat-ik` `r.o+mat-isch`
 * **rück** `rÜ` : `rÜ-t-ig`
-  * -*r****ü****ck* ⇒ -*rück* `-Ü` @-×an
+  * -*r****ü****ck* `-Ü`
   * *zurück* `u-rÜ` : `dar-AU u-rÜ.ür`
     * -~~zurück~~- : `dar-AU-Ür`
 * **rud** `ru` : `ru-er` `ru-er.N`
@@ -2130,17 +2130,21 @@
   * *fernseh* `f-s` : `f-s-er`
   * sieh `s.ih`
   * sah `s.ah`
-  * **sicht** `si` STS : `(AU)si` `b.e,(AU)si.i` `b-si.i` `si,u` STS
-    * ! `s.icht`
-    * : ab**sicht** `.ab-si` ~ `.ab-i` : `.ab-i.L` @-×an
-      * : **be**ab**sicht***ig*en `b.ab,si.i` × `b.ab` @--×
-    * : *auf*<i></i>*s****i****cht* `AU-i` : `AU-i-Ü.ed` `b.e,AU-i.i` `b.e,AU-i.i-t.e`
+
+  * **sicht** `si` STS : `G,si` `an-G,si` `(.ab)-si` `(.ab)-si.L` `b.e,(.ab)-si.i` `(AU)si` `b.e,(AU)si.i` `(b)-si.i` `si,u` STS
+
+    * ab*s****i****cht* `.ab-i` : `.ab-i.L` `b.e,.ab-i.i`
+      * *beabsichtig* `b.ab`
+    * *auf*<i></i>*s****i****cht* `AU-i` : `AU-i-Ü.ed` `b.e,AU-i.i` `b.e,AU-i.i-t.e`
       * *beaufsichtig* `b,AU-i` : `b,AU-i-t.e` STS
         * *beaufsichtigte* `b,AU-i.i-t.e`
-    * : *ge***sicht** `G,si` ~ `G,i` : `an-G,si` ~ `an-G,i` @-×an
-      * ~ *ge***sicht** `G.icht` ≠ gericht
-      * : *ge*<i></i>**sicht**sp**u**nkt `G,si,u` × `G,u`
-    * : *zu*<i></i>*ver***sicht** `(Z)E-i` : `(Z)E-i.L` `(Z)E-i.L.T`
+    * *ge*<i></i>*s****i****cht* `G,i` STS : `G,i,u` `an-G,i`
+      * *gesicht* `G.icht` ≠ gesetzwidrig
+    * *zu*<i></i>*ver*<i></i>*s****i****cht* `Z.E-i` : `Z.E-i.L` `Z.E-i.L.T`
+
+    * -~~sicht~~- : `G,u`
+
+
     * ~ ***sicht*** ⇒ *sicht* `.icht`
       * : **sicht*****bar*** `si.bar` ~ `.icht.bar`
       * : **sicht***lich* `si.L` ~ `.icht.L`
@@ -2174,6 +2178,7 @@
         * : *in*.*aussicht*.***stell***en `IN.S.ell`
         * : *vor*<i></i>*aussicht*<i></i>*lich* `O.S.L` @--×
       * : -*übersicht* = -*über*~~sicht~~  `Ü` : `Ü.L` `Ü.L.T` `UN-Ü-L`
+
 * **sehr** `s`
 * sei ← sein
 * seid `s.eid` : `s.eid.e`
@@ -2284,8 +2289,9 @@
     * : *aus*einander**setz***ung* `.S.ei-ad-er.s.UNG` × `.S.ei-ad-er`
     * *setz* `s` : `.ab.s` `b.s` `N.s` @-an
     * -*setz* `-s` : `eNT.g-s` `fr-s`
-    * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `-G,i` `(.es),-G` `UN-G.L`
+    * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `(.es),-G` `UN-G.L`
       * : *gesetz*<i></i>*mäßig* `-G.i` ! `-G.ess.i`
+      * *gesetzwidrig* `-G,i` = gesicht
       * : **grund***gesetz* : `gru.-G` ~ `GR`
     * -*gesetzt* `-G` : `fr-G` `O.S-G`
       * : ein*gesetzt* `N.-G` ~ `N.-G-s`
@@ -3071,7 +3077,6 @@
   * -*wie* `I` : `.i-I` `(o)I`
 * *wieder*, *wider*, *widr* `W` : `W.ig`
   * -w**ie**der ⇒ -*wieder* `i` → auch immer schon
-  * -*w****i****drig* ⇒ -*widrig* `i` → sitz
 * wieg `w.ig`
   * : *vor*wiegend `O.w.ig.ed` * `O.ig.ed`
   * : *mit* *über*wiegender **mehr***heit* `M Ü.w.ig.ed-er m.H` × `M-Ü.w.ig:H` * `M-Ü.w.H`
@@ -3353,17 +3358,6 @@ In Wörtern ohne Anlaut (Selbstlaut + Vorlaut + "t") wird das "t" nach Vorlaut j
 
 
 #### Ausfall
-
-
-
-antwort
-
-erfolg
-
-aufmerksamkeit
-
-entsprechend
-
 
 Zwischen Vor- und Nachsilbe dürfen ungekürzte Wortstämme oder verkehrschriftliche Kurzformen ausfallen.
 
