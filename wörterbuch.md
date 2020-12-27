@@ -2134,6 +2134,7 @@
   * **sicht** `si` STS
     * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T` `(O)si` `(UN.O)si.i` `(Ü)si` `.of,si.L` `.ei-e (Ü)si Ü.n and`
     * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `b.e,(.ab)si.i` `(AU)si` `b.e,(AU)si.i` `(b)si.i` `si,u` STS
+    * : `(rÜ)si` `(rÜ)si.os` `(rÜ)si,(.e)`
 
     * ab*s****i****cht* `.ab-i` : `.ab-i.L` `b.e,.ab-i.i`
       * *beabsichtig* `b.ab`
@@ -2146,15 +2147,15 @@
 
     * -~~sicht~~- : `G,u`
     * -~~sicht~~
-      * : `hn` `hn.L`
+      * : `hn` `hn.L` `rÜ` `rÜ.os`
       * : `IN.iS:hn` `(I)j.hn` `(IN)aCH.hn` `IN.ech.hn`
+      * *rücksichtnahme* `rÜ.icht,(.e)` ≠ rücknahme `rÜ,(.e)`
 
     * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht` `UN.N.icht.i-T` `O.icht` `UN.O.icht.i` `Ü.icht` `.of.icht.L` `.ei-e-Ü.icht-Ü.n,and`
       * *offensichtlich* `.of,i-L`
 
     * × ~~sicht~~
-      * : **rück**~~sicht~~ = -*rücksicht* `rÜ` : `rÜ.os` @-×-
-        * : *rücksicht*~~nahm~~e `rÜ,(.e)` ! `rÜ.icht,(.e)` ≠ rücknahme
+        * : *rücksicht*~~nahm~~e  ! `rÜ.icht,(.e)` ≠ rücknahme
         * : **be***rücksicht*<i></i>*ig*en `b.rÜ.i` × `b.rÜ` @--×
         * : *mit*.*rücksicht*.*auf* `M-Ü.AU`
         * : *mit*.*rücksicht*.~~auf~~.**d**as `M-Ü.d`
