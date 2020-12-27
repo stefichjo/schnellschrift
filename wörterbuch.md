@@ -433,7 +433,7 @@
 * eigen, eign `.eig` : `.eig-s` `.eig-Ü.i` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
   * : eigen*sücht*<i></i>*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ eigennützig
-* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N.ma` `E.N-Sa`
+* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N.ma` `E.N` `E.N-Sa`
   * : *wieder*.ein**mal** `W.N.ma` × `W.N`
   * : *zunächst*.ein**mal** `-Z-n,N.ma` × `-Z-N`
   * -ein `N` : `d.N` `m.N` `s.N`
@@ -446,12 +446,9 @@
       * : s**ein**- `s.ei`
   * : ~~*ein*~~*heit* `(H)` ⇒ `H` : `UN-H.L` `E.H.L`
   * : *irgend*ein `.i-N` ! `.ig.N`
-  * : *ver*ein `E.N`
-    * : *ver*ein***bar*** `E.N.bar` -×- *vereinbar* = *ver*~~ein~~***bar*** `E.bar`
-    * : *ver*ein*ig* `E.N.i` × `E.ig`
-      * -*vereinigung* `ig`
-        * *wieder*<i></i>*vereinigung* `W,ig` ~ `W.ig`
-    * -*verein* `N` → rud sport
+  * -*verein* `N` → rud sport
+  * -*vereinigung* `ig` → wieder
+  * -~~ein~~- : `E.bar` `E.ig`
   * *einst* `.eist` : `.eist-ig` `.eist-ma-s` `.eist-w.eil`
   * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
     * *einzel*- `.ei` : `.ei-h-er`
@@ -3066,7 +3063,7 @@
 * *wid****m*** `(m)`
 * wie `w.i`
   * -*wie* `I` : `.i-I` `(o)I`
-* *wieder*, *wider*, *widr* `W`
+* *wieder*, *wider*, *widr* `W` : `W.ig`
   * -w**ie**der ⇒ -*wieder* `i` → auch immer schon
   * -*w****i****drig* ⇒ -*widrig* `i` → sitz
 * wieg `w.ig`
