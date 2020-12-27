@@ -2155,7 +2155,6 @@
       * *offensichtlich* `.of,i-L`
 
     * × ~~sicht~~
-        * : *rücksicht*~~nahm~~e  ! `rÜ.icht,(.e)` ≠ rücknahme
         * : **be***rücksicht*<i></i>*ig*en `b.rÜ.i` × `b.rÜ` @--×
         * : *mit*.*rücksicht*.*auf* `M-Ü.AU`
         * : *mit*.*rücksicht*.~~auf~~.**d**as `M-Ü.d`
