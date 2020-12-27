@@ -883,7 +883,7 @@
 * gunst ← gönn
 * **gut** `gu`
   * **güt** `gÜ` : `gÜ-e` `gÜ.i` `gÜ.L` `gÜ.er` `gÜ.E` `E.gÜ` `E.gÜ.et.e` `E.gÜ.UNG`
-    * -*g****ü****ter*- `-Ü` : `IN.w-O-Ü.er`
+    * -*g****ü****t*- `-Ü` : `IN.w-O-Ü.er`
   * ***bess***er `bes`/`br°`
     * × *besser* : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T`
   * best `b.est`
