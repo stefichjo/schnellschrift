@@ -330,8 +330,8 @@
 * *de****r*** `(r)` : `.S-er` `(I)-er`
 * *d****es*** `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
-* **deut** `deu` : `deu.L` `.an.deu`
-  * : **be**<i></i>**deut** `b.deu` ~ `b-eu` ~ `b-eu-T`
+* **deut** `deu` : `deu.L` `b.deu` `.an.deu`
+  * *bedeut* `b-eu-T`
 * *deut****sch*** `SCH`
 * *deutschland* `SCH-a`
   * : **bund**es*republik*.*deutschland* `bu:r.ik,SCH-a` ~ `bu,SCH-a`
@@ -1017,6 +1017,7 @@
     * → hilf
   * half `h.af`
   * holf `h.of` : `G.h.of` `.S.h.of`
+* helm `h.em` : `IN.egr.al.h.em`
 * hemm `h.em` : `h.em-UNG.os`
 * **her** `h` : `(bi)h` `.a-h` . `m.as.h`
   * *her*- `.e` → auf bei unter vor
@@ -2405,15 +2406,6 @@
   * **schloss** `.oss`
   * **schluss** `.uss` : `ra.uss` `tr.ug.uss`
   * **schlüss** `.üss`
-* **schmack** : `schma` : `schma.ha` `G.schma` `G.schma.os.i-T` `G.schma,(.e)`
-  * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
-* schmeck ← schmack
-* **schmerz** `schm` : `schm.ha`
-* **schnell** `schn` : `schn,i`
-* *schn****eid*** `(.eid)` : `(.eid)-er`
-  * ! `schn.eid`
-  * *schn****itt*** `(.it)` : `.ab.it`
-    * ! `schn.it`
 * **sch**on `sch` : `sch-Ü-er` `sch,i` STS
 * **schön** `schö`
   * : **schön***heit* `schö.H` * `ö-H`
@@ -2427,6 +2419,22 @@
 * **schutz** `.uz`
   * -sch**u**tz `u` : → sicht strahl welt
   * **schütz** `.üz` ~ `schÜ`
+
+#### [SCHM](#wörterbuch)
+
+* **schmack** : `schma` : `schma.ha` `G.schma` `G.schma.os.i-T` `G.schma,(.e)`
+  * schmeck `schm.ek` : `f.N.schm.ek-er` `w.ol.schm.ek.ed`
+* schmeck ← schmack
+* **schmerz** `schm` : `schm.ha`
+* **schnell** `schn` : `schn,i`
+* schmier `schm.ir`
+
+#### [SCHN](#wörterbuch)
+
+* *schn****eid*** `(.eid)` : `(.eid)-er`
+  * ! `schn.eid`
+  * *schn****itt*** `(.it)` : `.ab.it`
+    * ! `schn.it`
 
 #### [SCHR](#wörterbuch)
 
@@ -2677,6 +2685,7 @@
 * tang `t.ang` : `t.ang.ir` `t.ang.eNT.e`
   * takt `t.akt` : `ko.t.akt`
     * *kontakt* `ko.ta`
+  * → teger
 * *tarif* `ta.if`
 * tat ← tun
 * **tausch** `tau` : `tau-t.e` `.S.tau` `gÜ.S.tau` `.um.tau` `E.tau`
@@ -2684,11 +2693,13 @@
   * **täusch** `täu`
 * *tausend* `(I)` : `(I).e`
 * *tech****n*** `(n)` : `(n).ik` `(n).ik-er` `(n).i` `.el,(n).i` `(m.in).us,(n).ik.us`
-  * *elektrotechnisch** `.el.o-t.en.i`
+  * *elektrotechnisch* `.el.o-t.en.i`
   * *terminus.technicus* `(m.in).us;us`
   * → tekt
 * **teg** `t` : `(o)t.ir`
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
+* teger `t.eg-er`
+  * *integr* `IN.egr` : `IN.egr.al` `IN.egr.ir` `IN.egr.iO` `IN.egr.ät`	
 * *t****eil*** `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `b.eil.i` `ach.eil.e` `O.eil.ha`
   * **satz***t****eil*** `sa.eil` ! `s.az.eil`
   * *urteil* = *ur*~~teil~~ `ur` : `ur.e` `t.o.ur`
