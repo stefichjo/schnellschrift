@@ -2340,8 +2340,8 @@
 
 ### [SCH](#wörterbuch)
 
-| [SCHR](#schr) | [SCHW](#schw) |
-|:-:|:-:|
+| [SCHM](#schm) | [SCHN](#schn) | [SCHR](#schr) | [SCHW](#schw) |
+|:-:|:-:|:-:|:-:|
 
 * ***schad*** `.ad` : `Z.ad.ko`
   * ***schäd*** `.äd`
