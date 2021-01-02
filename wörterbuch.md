@@ -2038,11 +2038,10 @@
 * reih `r.eih`
   * *ein*e reihe von `.ei-e r.eih.e v` × `.ei-v`
 * **reis** `r.ei` : `r.ei-e`
-* reit `r.T`
-  * *bereit* `b.T` = bearbeiten
-    * : *bereit*s `b.Ts` ~ `Ts`
-    * : *vor*<i></i>*bereit*en `O.b.T` × `O.b`
-  * ritt `r.it`
+* -***reit***- `T` : `r.T` `b.T` `O.b.T` `b.Ts`
+  * *bereits* `Ts`
+  * *vorbereiten* `O.b`
+  * -***ritt***- `.it` STS : `r.it`
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.eNT` `k.or-r.ir`
     * : kor**respond**enz `k.or-r.ez` × `k.o-ez`
@@ -3025,8 +3024,11 @@
     * ! `w.is`
 * weiß ← wiss
 * weiß `w.eiss`
-* -***weit***- `T` : `w.T` `T-er` `T-er.in`
+
+* -***weit***- `T` : `w.T` `w.T-er` `w.T-er.in`
   * *und.so.weiter* `&.o`
+  * *weiter* `T-er`
+
 * ***welch*** `.ech` : `.ig.ech.e`
 * welt `wet` : `wet-ha` `E.wet-L`
   * *umwelt* `um-t` : `um-t,eu-L` `.um-t,u`
@@ -3077,8 +3079,8 @@
 * **wicht** `wi` : `wi.i` `wi.i-T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
   * bösewicht `b.ös.e-w.icht` ~ `b.ös.e,wi`
-* **wick** `wi` : `wi.el` `(eNT)wi.el` `(E)wi.el`
-  * *ent*<i></i>*w****i****ck*el `eNT-i`
+* **wick** `wi` : `wi.el` `(eNT)wi.el` `w.T-er:(eNT)wi.el` `(E)wi.el`
+  * *ent*<i></i>*w****i****ck*el `eNT-i` : `T-er:eNT-i`
 * *wid****m*** `(m)`
 * wie `w.i`
   * -*wie* `I` : `.i-I` `(o)I`
