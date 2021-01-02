@@ -341,6 +341,7 @@
 * di- `d.i-` STS
 * *dia*- `di`
   * ... `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @
+* *didakt* `d.id` : `d.id.ik` `d.id.ik-er` `d.id.i`
 * *die* `I`
   * **d**ass.*die* `d.I` ! `d I` ≠ **d**ass.*ich*
   * *für*.*die* `f.I` ~ `fI`
@@ -383,7 +384,6 @@
     * *dokument* `d.ok` : `d.ok.ar.i` `d.ok.iO` `d.ok.ir`
       * *dokumentarisch*  `d.ok.i`
   * *doktor* `der`
-* **droh** `dr.o` : `b.dr.o-L`
 * *du* `dU` : `bi.dU` `ha.dU` `w.dU`
 * **duk** `du`
   * **duz** `du` : `IN.du.ir` `(o)du.ir`
@@ -411,7 +411,8 @@
   * **drang** `dra`
     * **dräng** `dr.e`/`drä` STS : `E.drä-UNG` STS @ä @e
   * **drung** `dru` : `G.dru` `N.dru`
-* **druck** `dru` : `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `ach.dru` `N.dru`
+* **droh** `dr.o` : `b.dr.o-L`
+* **druck** `dru` : `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `N.dru` `ach.dru`
   * drucker `dr.uk-er`
   * *ausdr****u****ck* `.S-u`
     * *zum.ausdruck.gebracht* `z.bra`
@@ -421,7 +422,6 @@
     * : *aus***drück***lich* `.S.drÜ.L` ~ `.S-Y.L`
     * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
     * : *nach***drück***lich* `ach.drÜ.L` ~ `ach-Ü.L`
-* **dro**h `dr.o`
 
 ## [E](#wörterbuch)
 
@@ -789,8 +789,7 @@
   * **gäng** `eng` : `rÜ.eng.i` `UN-E.eng.L` `O.eng.er` `UN-z.eng.L`
 * **ganz** `ga` : `ga.H` `ga-S`
   * **gänz** `g`/`gä` : `g.L` `er.gä` @ä
-* **gar** `ga` : `gat` `(o)ga` `ga.ga`
-  * ! `g.ar`
+* -**gar**- `ga` : `g.ar` `ga-t` `(o)ga` `ga.ga`
 * *garant* `g.ar` : `g.ar.I` `g.ar.ir`
 * garten `gat` : `ki.gat`
 * **gast** `ga` : `ga.L` `ga.ir`
