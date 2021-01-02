@@ -436,7 +436,7 @@
 * eigen, eign `.eig` : `.eig-s` `.eig-Ü.i` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
   * : eigen*sücht*<i></i>*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ eigennützig
-* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N.ma` `E.N` `E.N-Sa`
+* ein `N` : `N-t.e` `N.i` `N.i-t.e` `E.N` `E.N-Sa`
   * : *wieder*.ein**mal** `W.N.ma` × `W.N`
   * : *zunächst*.ein**mal** `-Z-n,N.ma` × `-Z-N`
   * -ein `N` : `d.N` `m.N` `s.N`
@@ -1495,9 +1495,10 @@
   * -*mak****ler*** `(l.er)` → börs
 * *makel* `m.ak`
   * : *makl*er `m.ak-er`
-* -**mal**- `ma` : `m.al` → denk ein jed manch
+* -**mal**- `ma` : `m.al` `m.al.er` `m.al.ei` `G.ma` `N.ma` `.iS.ma` → denk jed manch zu
   * : -**mal**s `ma-s` → aber je mehr nie noch oft
   * : *manch*es.**mal** `.aCH.es.ma`
+  * -***mäl***- `mä` : `G.m.e`
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
@@ -3176,6 +3177,7 @@
     : **zähn**e `zä-e` ! `z.en.e`
 * zart `zat`
   * zärt `zet` : `zet-L.T`
+* zauber `z.aub-er` : `z.aub-er.er` `z.aub-er.ei`
 * ***zed*** `.ed` : `ko.ed.ir`
   * : *pro****zed***ur `(o).ed.ur` ~ `(o)z.ur`
   * ***zess*** `.ess` : `(o).ess` `(o).ess.ir` `(o).ess.iO` `(T),(o).ess`
