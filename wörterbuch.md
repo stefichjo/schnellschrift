@@ -1495,10 +1495,9 @@
   * -*mak****ler*** `(l.er)` → börs
 * *makel* `m.ak`
   * : *makl*er `m.ak-er`
-* mal `m.al`
-  * -**mal** `ma` → denk ein jed manch
-    * : *manch*es.**mal** `.aCH.es.ma`
-    * : -**mal**s `ma-s` → aber je mehr nie noch oft
+* -**mal**- `ma` : `m.al` → denk ein jed manch
+  * : -**mal**s `ma-s` → aber je mehr nie noch oft
+  * : *manch*es.**mal** `.aCH.es.ma`
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
