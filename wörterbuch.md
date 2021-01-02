@@ -545,10 +545,10 @@
 * *famili* `f.am` : `f.am.är`
   * : *famili*e `f.am.e` × `f.am`
 * -***fang***- `ang` : `f.ang` `an.ang` `b.ang` `N.ang` `.um.ang` `.um.ang.r.ei` `fi.ang`
-  * : *von.anfang.an* `v.an.an`
-  * -*fang*- `fa` : `.an.fa` `b.fa` `.um:fa` `.um:fa.r.ei` ≠ gang
-    * *umfangreich* `.um:eich`
   * → empfang
+  * *von.anfang.an* `v.an.an`
+  * *umfangreich* `.um:eich`
+  * -*fang*- `fa` : `.an.fa` `b.fa` `.um:fa` `.um:fa.r.ei` ≠ gang
   * -***fäng***- `eng` : `f.eng` `.an.eng.er` `G.eng.is` `E.eng.L`
     * -*fäng*- `f` : `G.f.is` `.an.f-er`
   * -***fing***- `ing` : `f.ing`
