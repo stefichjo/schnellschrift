@@ -295,11 +295,11 @@
 
 * *d. h.* `d.h°`
 * da `d.a`
-  * *da*- `.a-`
+  * *da*- `.a-` → bei
     * : *da*<i></i>*hin* `.a.in` ! `da.hn`
     * : *da***mal**s `.a-ma-s` ~ `da°`
   * *d****a***- `a-` → bei zu
-  * -*da* `da`
+  * -**da** `da`
 * dach `d.ach`
   * däch `d.ech` : `d.ech-er`
 * dacht ← denk
@@ -544,16 +544,14 @@
     * : *ver****viel***fält*ig*en `E.il.fet-ig` ~ `E.il.f.i`
 * *famili* `f.am` : `f.am.är`
   * : *famili*e `f.am.e` × `f.am`
-* *f****ang*** `(ang)` STS : `N.ang` `fi.ang` . `v.an.an`
-  * ! `f.ang`
-  * ~ *fang* = **fang** `fa` ≠ gang : `.an.fa` `b.fa` `.um.fa`
-    * : um**fang***r****eich*** `.um.fa:eich` × `.um:eich`
+* -***fang***- `ang` : `f.ang` `an.ang` `b.ang` `N.ang` `.um.ang` `.um.ang.r.ei` `fi.ang`
+  * : *von.anfang.an* `v.an.an`
+  * -*fang*- `fa` : `.an.fa` `b.fa` `.um:fa` `.um:fa.r.ei` ≠ gang
+    * *umfangreich* `.um:eich`
   * → empfang
-  * *f****äng*** `(eng)` : `E.eng.L`
-    * ! `f.eng`
-    * ~ *fäng* = **fäng** `f` : `G.f.is` `.an.f-er`
-  * *f****ing*** `(.ing)`
-    * ! `f.ing`
+  * -***fäng***- `eng` : `f.eng` `.an.eng.er` `G.eng.is` `E.eng.L`
+    * -*fäng*- `f` : `G.f.is` `.an.f-er`
+  * -***fing***- `ing` : `f.ing`
 * fant `fat` : `fat-as.I` `fat-as.ir` `fat-ast` `fat-a+st.i`
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
@@ -670,7 +668,7 @@
   * *fl****oh*** `(.oh)` ! `.oh`
   * ***flucht*** `.ucht`
     * ***flücht*** `.ücht` : `.S.ücht.e`
-      * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = beding
+      * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = `ing`; = beding
       * -*flüchtling* = -*fl****ü****cht****ling*** `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
 * **fließ** `fli`
   * **floss** `flo`
@@ -1210,6 +1208,7 @@
 * *kartoffel* `ka.of.el`
 * **kass** `ass` : `ass.e` `kra.ass.e`
 * **kat**a- `ka` : `ka.og`
+* *kateg* `k.at` : `k.at.or.I`, `k.at.or.i`
 * ***kauf*** `.auf` : `.auf.ed` `.auft.e` `.an.auf` `.S.E.auf` `E.auf` `u-rÜ.auf` `N.auf` `rÜ.auf` `UN-E.auft` `wr.auf`
   * ***käuf*** `.äuf` : `.äuf.e` `.äuf-er` `E.äuf-er` `E.äuf-er.in` `UN-E.äuf.L`
 * **kaum** `kau`
@@ -1498,7 +1497,7 @@
   * : *makl*er `m.ak-er`
 * mal `m.al`
   * -**mal** `ma` → denk ein jed manch
-    * : *manch*es mal `aCH.es m.al` ⇒ *manch*es.**mal** `.aCH.es.ma`
+    * : *manch*es.**mal** `.aCH.es.ma`
     * : -**mal**s `ma-s` → aber je mehr nie noch oft
 * **man** `ma`
   * -**mand** `ma` → je nie
