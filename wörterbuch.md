@@ -296,8 +296,8 @@
 * *d. h.* `d.h°`
 * -***da***- `.a` : `d.a` `da.in` `.a-ma-s` → für her hin @dáhin
   * *damals* `da°`
-  * *da*- `da` → hinter nach
-  * *da*- `a` → bei durch mit zu
+  * *da*- `da` → hinter nach zwischen
+  * *da*- `a` → bei durch mit von zu
 * dach `d.ach`
   * däch `d.ech` : `d.ech-er`
 * dacht ← denk
@@ -311,6 +311,7 @@
   * ***dar***- `dar`
 * **d**as `d`: `d.i°`
 * **dat** `da` : `da.ei` `da.en` `da.ir` `da.um`
+  * → kartei
   * **dit** `di` : `ko,di-o` `ko,di.i-aL` `tra,di-o` `tra,di.i-eL`
     * *tradit* `tr.ad` : `tr.ad-o` `tr.ad.i-eL`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `b.dau` `b.dau.L` `G.dau` `AU.I.dau` `Z.m.ei-em:b.dau` `Z.U°.b.dau`
@@ -1020,7 +1021,8 @@
   * holf `h.of` : `G.h.of` `.S.h.of`
 * helm `h.em` : `IN.egr.al.h.em`
 * hemm `h.em` : `h.em-UNG.os`
-* **her** `h` : `(bi)h` `.a-h` `m.as.h`
+* **her** `h` : `(bi)h` `.a-h` `O.h`
+  * *mehr.als.vorher* `m.as.h`
   * *her*- `.e` → auf bei unter vor
 * *her****bst*** `(bst)` : `(bst).L`
 * **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert-h.en`
@@ -1204,10 +1206,11 @@
   * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
     * : *kapit*al `aP.al` × `aP`
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
-* **ka**rt `ka` : `ka.ei`
-  * : **ka**rte `ka-e` ! k.art.e
-  * : **ka**rtothek `ka.t-t.ek` ! `k.at.o-t.ek`
+* kart `kat` : `kat.e` `v.is,kat.e` `kat-t.ek`
   * *kart****ell*** `(.ell)`
+  * → kartei
+  * *kartothek* `k.at.o-t.ek`
+* *kartei* `ka.ei` ← dat kart
 * *kartoffel* `ka.of.el`
 * **kass** `ass` : `ass.e` `kra.ass.e`
 * **kat**a- `ka` : `ka.og`
@@ -2173,7 +2176,7 @@
 * **sehr** `s`
 * sei ← sein
 * seid `s.eid` : `s.eid.e`
-* *s****ein*** `(N)`
+* *s****ein*** `(N)` : `d.a-(N)`
   * **bin** `bi`
   * **bist** `bi`
   * **i**st `i`
@@ -2206,7 +2209,7 @@
   * : sel*ig* `s.el.i` ! `s.el.ig`
     * -*seli****g*** `(g)` : `UN,(g)` → fühl glück trau
 * selb `s.eb` : `s.eb-er` `s.eb.i`
-  * -*selb* `l` : `d.l.e` `(m).l `(n).l` `(r).l.e` `(.es).l` `I.l.e`
+  * -*selb* `l` : `d.l.e` `(m).l` `(n).l` `(r).l.e` `(.es).l` `I.l.e`
   * *selbst* `-st` : `-st,u-N` `-st-ko` `-st-l.os.i-T`
 * selt `set` : `set-en` `set-Sa`
   * : *seltenheit* `s.H`
@@ -2930,8 +2933,8 @@
   * volt `v.ot` : `r.wot.e`
   * *vol****u****t* `u` : `.e,u-O` `r.u-O` `kut-ur,r.u-O`
     * : *konter***re***vol****u****t*<i></i>*ion* `(ko)tr,r.u-O` ~ `ko-t-er,r.u-O`
-* **von** `v`
-  * : *da***von** `.a-v` ~ `a-v`
+* **von** `v` : `.a-v`
+  * *davon* `a-v`
   * *vom* `v°`
 * *vor* `O` : `O.n` `O.ts` `O.d-er` `b.O` `.e-O`
   * : ***nach***.~~wie~~.*vor* `ach.O` ~ `ach-o`
@@ -3269,15 +3272,11 @@
 * *zw****eig*** `(.eig)`
 * **zweck** `zw` : `Z.iS:zw`
   * ! `zw.ek` : `zw.ek,di.L`
-
-`v.is.um.ang`
-`v.is,kat.e`
-
 * **zwing** `.ing` : `b.ing`  `er.ing`
-  * **zwang** `ang` : `ang,eu`
+  * **zwang** `ang` : `ang,eu` `v.is.um.ang`
   * **zwung** `.ung` : `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H`
 
-* **zw**ischen `zw` : `(I)zw`
+* **zw**ischen `zw` : `da.zw` `(I)zw`
 
 ## Verkehrsschrift und Schnellschrift (Eilschrift und Redeschrift)
 
