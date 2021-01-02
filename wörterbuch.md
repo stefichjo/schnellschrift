@@ -1498,7 +1498,7 @@
 * -**mal**- `ma` : `m.al` `m.al.er` `m.al.ei` `G.ma` `N.ma` `.iS.ma` → denk jed manch zu
   * : -**mal**s `ma-s` → aber je mehr nie noch oft
   * : *manch*es.**mal** `.aCH.es.ma`
-  * -***mäl***- `mä` : `G.m.e`
+  * -**mäl**- `mä` : `G.m.e`
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell`
