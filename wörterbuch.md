@@ -2843,8 +2843,8 @@
   * *trefflich* `tr.L`
   * *eintreff* `(N)tr.ef` ≠ eintreten
   * *zusammentreff* `Z.Sa:tr.ef` ≠ zusammentreten
-  * -**triff**- `tri` STS : `b.ift` `Ü.ift`
-    * *triff* `.if` : `.ift`
+  * -**triff**- `tr.i` STS : `tr.if` `(b)tr.i` `(Ü)tr.i` @an-aus
+    * *triff* `.if` : `.ift` `b.ift` `Ü.ift`
   * -**traf**- `tra` : `tr.af` `(b)tra` `(Ü)tra`
     * *betraf* `(b)tr.af`
     * -**träf**- `trä` STS : `tr.äf.e` `N.trä-e` STS
@@ -2868,6 +2868,7 @@
 * **treu** `treu`
 * **tro**tz : `tr.o` `tr.o-r` `tr.o-es` `tro-al.em` `tro-al.e,(m)`
   * : **tro**tz*de****m*** `tr.o-m` ~ *trotzdem* `(o)(m)`
+* trug ← trag
 * **trug** `tru` : `b.tru`
   * ! `tr.ug`
   * **trüg** `trÜ` : `(b)trÜ` `(b)trÜ-er` `(b)trÜ.ei-en` `(b)trÜ.i`
