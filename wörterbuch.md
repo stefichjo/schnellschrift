@@ -810,11 +810,11 @@
   * *geograph* `g.e-o+gra`
   * *geolog* `g.e-l.og` : `g.e-l.og.e` `g.e-l.og.I`
 * ***geb*** `.eb` STS
-  * ! `g.eb` : `g.eb-er`
-  * ~ **geb** `g.e` ⇒ *geb* `g` : `G.g` `G.g.H` `.ab.g` `b.g.H` `er.g` `er.g-st` `-G.g.UNG` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
+  * *geb* `g` : `g.er` `G.g` `G.g.H` `.ab.g` `.an.g.er` `.S.ag.g.ed` `b.g.H` `er.g` `er.g-st` `er.g.is` `er.g.is.os` `-G.g.UNG` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
+    * *geber* `g.eb-er` `.an.g.eb-er`
     * -*geber* `g` → arbeit rat trag
-      * : an*geber* `.an.g` ! `.an.g.eb-er`
-  * × ~~geb~~ : `.S.ag.ed` `er.is` `er.is.os`
+    * *ausschlaggebend* `.S.ag.ed`
+    * *ergebnis* `er.is` : `er.is.os`
   * ***gib*** `.ib` : `ach.ib.i-T` `er.ib.i`
   * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `b.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
     * *aufgab* = *auf*~~gab~~ `AU` : `AU.e`
@@ -828,9 +828,8 @@
   * : *da*<i></i>*gegen* `.a-g` ! `da.g` ≠ schlag
   * *geg****end*** `(.ed)` : `.um.ed`
   * *gegn*er `g.er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
-* **geh** `g.e` ⇒ *geh* `g` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O-Ü.g` `Z.gru.g`
-  * weit*geh*end `w.T-g.ed`
-  * **ging** `.ing` : `O-Ü.ing` `u-rÜ.ing`
+* *geh* `g.e` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O-Ü.g` `w.T-g.ed` `Z.gru.g` @.e
+  * → ging
 * **geist** `g.ei`
 * geld `g.ed` : `g.ed-er` `g.ed,(.e)` `b.ar.g.ed` `.ös.e-g.ed`
   * **kind**ergeld `ki.g.ed` * `ki.g`
@@ -866,6 +865,7 @@
 * gift ← geb
 * *gift* `git`
   * **blut***ver*<i></i>*gift* `blu.E,git` * `blu,E.i`
+* **ging** `.ing` : `O-Ü.ing` `u-rÜ.ing` ← geh
 * **ginn** `gi` : `b,gi`
   * *beginn* `b.in`
   * **gann** `ga` : `b.ga`
