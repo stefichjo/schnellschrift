@@ -21,7 +21,7 @@
   * → akt
 * -age `.asch.e`
 * **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I`
-* -*akt*- `-t` : `.akt` `-t.I.e` `-t.iO` `-t.iO.är` `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO`
+* -*akt*- `-t` : `.akt` `-t.I.e` `-t.iO` `-t.iO.är` `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` ← ag
   * *aktie* `(.I).e`
   * *aktionär* `(.I).är`
   * *reaktor* `r.akt.or` ≠ rentner
@@ -239,6 +239,9 @@
 
 ### [BR](#wörterbuch)
 
+* **bracht** `bra` : `(.an)bra` `(.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z.Sa.bra` ← bring
+  * *beigebracht* `(b.ei)bra`
+  * **brächt** `brä` : `brä-e`
 * branch `br.asch` : `br.asch.e` `(t.il),br.asch.e`
 * **brau** `brau`
 * **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `(E)brau.er` `G.brau` `G.brau.eil` `ms.brau`
@@ -258,8 +261,7 @@
 * **brief** `bri`
 * **bring** `bri` : `er,bri`
   * *bring* `.ing` : `.an.ing` `.S.ing` `b.ei.ing` `Ü.ing` `UN-W.ing.L` `E.ing` `Z.Sa.ing` `Z.fa.ing`
-  * **bracht** `bra` : `(.an)bra` `(b.ei)bra` `(er)bra` `Ü.bra` `UN-an.bra` `(E)bra` `Z.Sa.bra` @`(b.ei)`
-    * **brächt** `brä` : `brä-e`
+  * → bracht
 * **brud**er `bru` @-er
   * **brüd**er `brÜ-er` `brÜ-er.l.N` `brÜ-er.L`
     * *brüderlich* `brÜ-L`
