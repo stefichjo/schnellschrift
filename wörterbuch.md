@@ -259,8 +259,9 @@
 * breit `br.T`
 * *brems* `br-s` : `br-s.e` `G.br-s` `.ab.br-s` `.eib:br-s.e`
 * **brief** `bri`
-* **bring** `bri` : `er,bri`
-  * *bring* `.ing` : `.an.ing` `.S.ing` `b.ei.ing` `Ü.ing` `UN-W.ing.L` `E.ing` `Z.Sa.ing` `Z.fa.ing`
+* -***bring***- `.ing` : `br.ing` `.an.ing` `.S.ing` `b.ei.ing` `er.ing` `Ü.ing` `UN-W.ing.L` `E.ing` `Z.Sa.ing` `Z.fa.ing`
+  * *bring* `bri` : `(er)bri` STS
+    * *erbring* `er,bri`
   * → bracht
 * **brud**er `bru` @-er
   * **brüd**er `brÜ-er` `brÜ-er.l.N` `brÜ-er.L`
@@ -1259,6 +1260,11 @@
 * *kl****ein*** `(N)` : `(N).er` `(N)-st` `(N).H` `(N).i-T` `(N).L.T` `E.N.er` `zr.N.er`
 * ***klim*** `.im` : `.im.a` `.im.i` `.im.ir`
 * **klin** `kli` : `kli.ik` `.un.ät,kli.ik`
+* kling `kl.ing`
+  * klang `kl.ang` : `N.kl.ang`
+    * *in.einklang.bringen* `(I)N.ing`
+    * kläng `kl.eng`
+  * klung `kl.ung`
 * knochen `kn.och`
 * **ko**al `ko.al` : `ko.al.ir` `ko.al.iO` ← al
   * *koalition* `ko.iO`
@@ -2812,7 +2818,7 @@
 
 ### [TR](#wörterbuch)
 
-* **tracht** `tra` : `(b)tra` `(b)tra.et.e``(N)tra` ← trag, trakt
+* **tracht** `tra` : `(b)tra` `(b)tra.et.e` `(N)tra` ← trag trakt
   * **trächt** `tr` : `tr.i` `b.N.tr.i` `b.N.tr.i-t.e` `(N)tr.i` `(ndr)tr.i-T`
 * -**trag**- `tra` : `tr.ag` `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `n.S.tra` `(.ei)tra` `(er)tra` `(er)tra.eich` `ach.tra` `v.is.um.an.tra` `(E)tra` `(E)tra-Ü.i` `.auf,(E)tra` `l.i-er-UNG,(E)tra` `(E)tra-Ü.i` `(E)tra,i` `(Ü)tra` `di-Ü:tra`
   * -*vertrag* `tra` → kauf liefer
