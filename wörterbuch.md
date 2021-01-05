@@ -43,7 +43,8 @@
     * *beamtenschaft* `b.FT`
   * -*amt* `.a` → arbeit aus finanz haupt land patent post
   * -*ämter* `.ä`
-* an `.an` : `.an-t-er` `dar.an` `wo.an`
+* an `.an` : `.an,u` `.an-t-er` `dar.an` `wo.an`
+  * *anspruch* `.an-u` STS ≠ an.uns
 * -an `.an`
 * ander `.ad-er` `N.ad-er` @-er
   * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
@@ -446,7 +447,7 @@
 * eigen, eign `.eig` : `.eig-s` `.eig-Ü.i` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * : eigent*lich* `.eig.L` * `.ei-L`
   * : eigen*sücht*<i></i>*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ eigennützig
-* ein `N` : `N-t.e` `N.i` `N.i-t.e` `E.N` `E.N-Sa`
+* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N,u` `E.N` `E.N-Sa`
   * : *wieder*.ein**mal** `W.N.ma` × `W.N`
   * : *zunächst*.ein**mal** `-Z-n,N.ma` × `-Z-N`
   * -ein `N` : `d.N` `m.N` `s.N`
@@ -663,7 +664,7 @@
       * : *in***flat**<i></i>*ion*<i></i>*istisch* `IN.fla-o.iS.i` × `IN.fla.iS.i` × `IN.fla.i`
 * **flach** `fla`
   * **fläch** `fl`
-* **flamm** `fla` : `fla.e` `AU.fla` `eNT.fla`
+* **flamm** `fla` : `fla-e` `AU.fla` `eNT.fla`
   * flamm : `fl.am.e`
     * flämm : `fl.äm`
 * ***flieg*** `.ig`
@@ -718,8 +719,8 @@
   * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
 * -*fühl*- `Ül` : `f.ül` `b.e-Ül` `G-Ül` `G-Ül,(g)` `G-Ül-Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `t.uch-Ül-UNG` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül` @Ü
   * *tuchfühlung* `tu-Ül-UNG`
-* **fuhr** `fu` : `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
-  * : **fuhr**e `fu-e` ! `fu.e`
+* **fuhr** `fu` : `fu-e` `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
+  * *fuhre* `fu.e`
 * ***führ*** `.ür` ← fuhr
   * : `.ür-er` `.ür.ed` `.ür-UNG`
   * : `.S.ür` `.S.ür.L` `dr.ür` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`
@@ -732,7 +733,7 @@
   * *führ* `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `a-Z-Ür`
 * füll ← voll
 * **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `ach.fÜ` `Ü.fÜ` `I er.fÜ` `.icht.er.fÜ.UNG`
-    * *erfüll* `er-Ü.en`
+    * *erfüllen* `er-Ü.en`
 * **fund** `fu` : `fu.ir` `d.i,fu`
   * : **fund***ament* `fu.eNT` ~ `fu-t`
   * **fus** `fu` STS
@@ -955,7 +956,7 @@
   * -*halb* `ha` : → außer des inner unter wes
   * *halb*- `ha` : → insel jahr wicht
   * **hälft** `h` : `h.e` `.il:h.e`
-* **hall** `ha` : `ha.e` `schw.im:ha.e`
+* *hall* `ha` : `ha.e` `schw.im:ha.e`
 * hals `h.a-s`
 * *hal****t*** `(-t)` : `(-t).bar` `(-t).bar.T` `(-t).l.o` `(-t).ed` `G-t` `.an-t` `.an-t.ed` `AU-t` `.S-t` `N-t` `er-t` `IN-t` `.in-t` `ach-t.ig` `rÜ-t.l.o` `sa.E-t` `E-t.is` `E-t.is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t).et` `sI (-t)`
   * : *haus*<i></i>*hal****t*** `.aus-t` ! `.aus,(-t)`
@@ -1879,7 +1880,7 @@
 * **pfleg** `pfl`
   * **pflog** `pflo`
 * ***pflicht*** `.icht` : `.icht,u` `.icht,i`
-  * -*pfl*<i></i>***i***<i></i>*cht* `i` → haft steuer wehr
+  * -*pflicht* `i` → haft steuer wehr
 * phon `f.on` : `f.on.ik` `f.on.i`
   * -ph~~on~~ `f` → grammo tel
 * phras `fr.as`
@@ -2005,7 +2006,7 @@
     * *land****es****ver*<i></i>*rät*er `(.es),E.ät-er` × `(.es).ät-er`
     * *rätsel* `t-s.el` : `t-s.el.ha`
   * **riet** `ri` ! `r.iet`
-* **rat** `ra` : `ra.if-o` `ra.if.ir` `ra.iO` `ra.iO.ir` `ra.iO.ir-UNG` `ra.i-aL` `ra.i-aL.ir` `ra.i-aL.ir-UNG` `ra.i-aL.iS.i` `ra.iO.ir` `ra.i-eL` `IN 4 ra.en`
+* **rat** `ra` : `ra-e` `ra.if-o` `ra.if.ir` `ra.iO` `ra.iO.ir` `ra.iO.ir-UNG` `ra.i-aL` `ra.i-aL.ir` `ra.i-aL.ir-UNG` `ra.i-aL.iS.i` `ra.iO.ir` `ra.i-eL` `IN 4 ra.en`
   * *rate* `ra.e` ≠ rat
   * *rationalistisch* `ra.i-aL.i`
   * *rationalisierung* `ra.ir-UNG`
@@ -2547,15 +2548,14 @@
 
 @an-aus
 
-* **sprech** `spr` : `eNt.spr`
-  * : *ent***sprech**end : `eNT.spr.ed` × `eNT.ed`
-  * ***sprich*** ⇒ **sprich** `.ich` :  `.ich-o`
+* **sprech** `spr` : `eNt.spr` `eNT.spr.ed`
+  * *entsprechend* `eNT.ed`
+  * **sprich** `.ich` :  `.ich-o` @spr
   * **sprach** `spra` : `spra-e` `g.wat,spra-e`
     * **spräch** `spr` : `G.spr`
-  * ***sproch*** ⇒ **sproch** `.och`
-  * ***spruch*** ⇒ **spruch** `.uch`
-    * -*spr****u****ch* ⇒ -*spruch* `u` : `.an,u` `N,u`
-      * : *wider*<i></i>*spruch* `W,u` ~ `W-u`
+  * **sproch** `.och` @spr
+  * **spruch** `.uch` @spr
+    * -*spruch* `u` → an ein wider
     * **sprüch** `.üch`
 * *spr****ing*** `(.ing)` STS : `.ab.ing`
   * ! `spr.ing`
@@ -2897,7 +2897,8 @@
 * *und* `&`
 * -*ung* `UNG`/`*`
 * *uns* `.U` : `f.U.e` `v.U.em`
-  * -**u**ns `u` STS : `.an,u` STS
+  * -**u**ns `u` STS : `.an,u`
+    * *an.uns* `.an-u` ≠ anspruch
   * **u**nser `u-er` STS : `u-er.e` `u-er-er` `u-er.es`
   * -*unser* `.U°` : `.an.U°`
 * *unter* `UNTER` : `UNTER.ei-ad-er` `UNTER.ha` `.e-UNTER`
@@ -2996,12 +2997,12 @@
 * wand ← wind
 * wandel ← wind
 * wann `w.an` : `.i-w.an`
-* **war** `wa`
-  * : **war**e `wa-e` ! `wa.e`
+* **war** `wa` : `wa-e`
+  * *ware* `wa.e`
 * war ← sein
 * warn `w.an`
 * wart `wat` : `wat.et.e` `er.wat` `er.wat.Ol`
-  * -**wart**, --**wärt** `-t` : `-t.er` `-t.ig` `-ts` → an aus gegen rück seit vor
+  * -**wart**, -**wärt**- `-t` : `-t.er` `-t.ig` `-ts` → an aus gegen rück seit vor
   * wärt `wet` : `wet.er`
 * ***was*** `was` @aus-an
 * ***wass***er `was-er` : `was.ek` `was.FT` @aus-an @-er
@@ -3100,8 +3101,9 @@
 * *wid****m*** `(m)`
 * wie `w.i`
   * -*wie* `I` : `.i-I` `(o)I`
-* *wieder*, *wider*, *widr* `W` : `W.ig`
-  * -w**ie**der ⇒ -*wieder* `i` → auch immer schon
+* *wieder*, *wider*, *widr* `W` : `W.ig` `W,u`
+  * -*wieder* `i` → auch immer schon
+  * *widerspruch* `W-u`
 * wieg `w.ig`
   * : *vor*wiegend `O.w.ig.ed` * `O.ig.ed`
   * : *mit* *über*wiegender **mehr***heit* `M Ü.w.ig.ed-er m.H` × `M-Ü.w.ig:H` * `M-Ü.w.H`
@@ -3193,7 +3195,7 @@
     * *zählen* `z.el`
     * *erzählen* `er.z`
 * **zahn** `za`
-  * **zähn** `zä` STS : `zä-e`
+  * **zähn** `zä` : `zä-e` STS
     * *zähne* `z.en.e`
 * zart `zat`
   * zärt `zet` : `zet.L.T`
@@ -3572,7 +3574,7 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * -verkehr `E`
 
 * schrift `.ift`
-* -schrift `,i`
+* -schrift `i`
 
 ) Inlautandeutungen auf Vorsilben
 
