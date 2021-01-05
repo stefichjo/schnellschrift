@@ -24,7 +24,7 @@
 * -*akt*- `-t` : `.akt` `-t.I.e` `-t.iO` `-t.iO.är` `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO`
   * *aktie* `(.I).e`
   * *aktionär* `(.I).är`
-  * *reaktor* `r.akt.or` ≠ renter
+  * *reaktor* `r.akt.or` ≠ rentner
 * akzent ← kan
 * -al `.al`
   * -il `.il`
