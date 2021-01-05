@@ -731,7 +731,7 @@
   * führ : `f.ür` `f.ür-er` `f.ür-UNG`
   * *führ* `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `a-Z-Ür`
 * füll ← voll
-* **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `er.fÜ` `ach.fÜ` `Ü.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `I er.fÜ` `.icht.er.fÜ.UNG`
+* **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `ach.fÜ` `Ü.fÜ` `I er.fÜ` `.icht.er.fÜ.UNG`
     * *erfüll* `er-Ü.en`
 * **fund** `fu` : `fu.ir` `d.i,fu`
   * : **fund***ament* `fu.eNT` ~ `fu-t`
