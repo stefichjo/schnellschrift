@@ -18,15 +18,13 @@
   * *afrika* `.afr`
 * ag `.ag` : `.ag.eNT` `.ag.eNT.ur`
   * *agentur* `.ag.ur`
-  * akt `.akt` ⇒ `.ak.t` : `r.akt.or`
-    * : **re**akt*ion* `r.akt.iO` * `r-t.iO`
-    * *akt****i*** `(.I)` : `(.I).e` @ie
-      * : *akt****i***onär `(.I).on.är` ~ `(.I).är`
-
-aktion `-t.O
-
+  * → akt
 * -age `.asch.e`
-* **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I` @ie
+* **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I`
+* -*akt*- `-t` : `.akt` `-t.I.e` `-t.iO` `-t.iO.är` `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO`
+  * *aktie* `(.I).e`
+  * *aktionär* `(.I).är`
+  * *reaktor* `r.akt.or` ≠ renter
 * akzent ← kan
 * -al `.al`
   * -il `.il`
@@ -76,12 +74,12 @@ aktion `-t.O
 * **a**rt `.a` : `.ab.a` `(r).a.i` `.es.a`
   * ! *art* = (art) `.art`
 * art `.at` : `.at.er.I.e` `.at.ik.el`
-  * *arterie* `.at.er.e` @ie
+  * *arterie* `.at.er.e`
   * *artik* `(.ik)` : `(.ik).el` `(.ik).ir` `(.ik).iO` `b.da.ik.el`
     * : *artik*el 6 `(.ik).el 6` ~ `(.el),6`
 * arz `.az` : `.az.n.ei` `za.azt`
   * : *ärz* `.ez` : `.ezt.e` `.ezt.L` `.ezt.e-FT`
-* asi `.as.I` @ie
+* asi `.as.I`
   * : asien `.as.I.en` ~ `.as.i-en`
   * : asiat `.as.I.at` ~ `.as.at`
     * : asiat**isch** `.as.I.i` ~ `.as.at.i`
@@ -279,7 +277,7 @@ aktion `-t.O
 ### [CH](#wörterbuch)
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
-* **chem** `ch` : `ch.I` `ch.ik-er` @ie
+* **chem** `ch` : `ch.I` `ch.ik-er`
   * : **chem**<i></i>**isch** `ch.i` ! `ch.em.i`
   * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
   * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
@@ -616,7 +614,7 @@ aktion `-t.O
     * -*konferenz* `ko` → rekt
       * -*ministerkonferenz* `ko` → aus kult
   * → lat
-* *ferien* `f.I.en` : `(.est.er),f.I.en` `s.om.f.I.en` @ie
+* *ferien* `f.I.en` : `(.est.er),f.I.en` `s.om.f.I.en`
 * fern ← fer
 * *fert* `-t` : `-t.ig` `-t.ig.T` `.an-t.ig` `.S-t.ig` `UN-t.ig`
 * fess ← fat
@@ -696,7 +694,7 @@ aktion `-t.O
   * : *in***folg** `IN.fo` ~ `IN.o`
   * *erfolg* `er` : `er.eich`
     * *erfolgreich* `er,r.ei` ≠ erreich
-* foli `f.ol.I` : `f.ol.I.e` `f.ol.I.en` @ie
+* foli `f.ol.I` : `f.ol.I.e` `f.ol.I.en`
 * *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
   * : *er**forder**lich* `er.F.L` ~ `er.o-L`
   * : *un*<i></i>*bedi****ng***t *er*<i></i>*forder*<i></i>*lich* `(UN.ng)-t er.F.L` × `UN-t.L`
@@ -991,7 +989,7 @@ aktion `-t.O
       * : *in*.*dies*em *zu*<i></i>*samm*en*h****ang*** `IN.iS.em Z.Sa.ang` × `IN.iS.ang`
 * harf `h.af` : `h.af.e`
 * harm `h.am` : `h.am.os`
-* *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i` @ie
+* *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i`
   * *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
 * ***harr*** `arr`
   * : **be*****harr*** `b.arr.L.T` × `b.arr.T`
@@ -1064,7 +1062,7 @@ aktion `-t.O
 * hinten ← hin
 * *hinter* `(I)t-er` : `(I)t-er.ei-ad-er` `(I)t-er.h` `(I)t-er.m.i` ← hin
   * *dahinter* `(da)t-er`
-* *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er` @ie
+* *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er`
   * : *liter*ar*histor***isch** `li.ar,hi-o.i` ! `l.it-er.ar,hi-o.i`
 * **hoch** `ho` : `ho.bu` `ho,(g)` `ho-t.ig` `s.ho`
   * **höch** `hö` : `hö-t`
@@ -1212,7 +1210,7 @@ aktion `-t.O
       * akzent `.ak.zet` ! `.ak.z.eNT`
 * *kan****al*** `(.al)` : `(.al).iO`
 * kann → könn
-* *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an` @ie
+* *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
   * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
     * : *kapit*al `aP.al` × `aP`
     * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
@@ -1358,7 +1356,7 @@ aktion `-t.O
 * **krim** `kri` : `kri.I` `kri.i-aL` `kri.i-eL`
   * : **krim***inal*ität `kri.i-aL.ät` × `kri.ät`
   * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
-* **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `kri.ir` `UN,kri.i` @ie
+* **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `kri.ir` `UN,kri.i`
 
 ## [L](#wörterbuch)
 
@@ -1465,7 +1463,7 @@ aktion `-t.O
   * **lust** `lu`
     * : *ver***lust** `E-lu` ~ `E,u` : `E,u.e`
 * -***ling*** `.ing`
-* *lin****i*** `(.I)` : `ri.I.e` @ie
+* *lin****i*** `(.I)` : `ri.I.e`
   * : *lin****i***e `(.I).e` ~ `l.in`
     * : *in*.~erster~.*lin****i***e `IN.I.e`
     * : *in*.*zweiter*.*lin****i***e `IN.T-I.e`
@@ -1541,7 +1539,7 @@ aktion `-t.O
   * ***mass***en**haft** `ass.ha` ! `ass.en.ha`
 * maß ← mess
 * ***mat*** `.at` : `.aut.at` `.aut.at.i` `.aut.at.ir-UNG` `.aut.at.iO`
-* *mater* `ma` : `ma.I.e` `ma.iaL` `ma.iaL.iS` `ma.iaL.ist` `ma.iaL.iS.i` `ma.ieL` @ie
+* *mater* `ma` : `ma.I.e` `ma.iaL` `ma.iaL.iS` `ma.iaL.ist` `ma.iaL.iS.i` `ma.ieL`
   * -*mater* `.iaL` → weis
   * *matr* `ma` : `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
 * mauer `m.au-er`
@@ -1550,7 +1548,7 @@ aktion `-t.O
   * : *maxim*al `m.ax.al` ~ `m.ax.im-a`
 * mech `m.ech`
   * : mechan `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
-* med `m.ed` : `m.ed.it.ir` `m.ed.it.iO` `m.ed.um` `m.ed.I.en` @ie
+* med `m.ed` : `m.ed.it.ir` `m.ed.it.iO` `m.ed.um` `m.ed.I.en`
   * *medik* `m.ed` : `m.ed.eNT`
     * : *medik*<i></i>*ament*ös `m.ed.eNT.ös` × `m.ed.ös`
     * *medizin* `m.ed`
@@ -1608,7 +1606,7 @@ aktion `-t.O
   * *minor* `m.in` : `m.in.ät`
   * *min****ut***e `(.ut).e` ⇒ `.ut.e`
   * *prominent* `(o)mi`
-* *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min @ie
+* *minist* `mi` : `mi.er` `mi.um` `mi.at` `mi.iaL.at` ← min
   * : *minist*erien `mi.I.en` ! `mi.er.I.en`
   * -*minister* `(er)` : `(r),(er)` `(r)h,(er)` → aus bund finanz in just kult wirt
   * -*ministerium* `.um`
@@ -1666,7 +1664,7 @@ aktion `-t.O
 * **müh** `mÜ` : `b.mÜ.en`
 * mult `mut` : `mut.al`
 * *münchen* `mÜ.en`
-* mus `m.us` : `m.us.e` `m.us.i` @ie
+* mus `m.us` : `m.us.e` `m.us.i`
   * : museum `m.us.e-um` × `m.us`
   * *musik* `mu.ik` : `mu.ik-er` `mu.ik.aNT` `mu.ik.i` `mu.ik.ät` `mu.ik.i-en`
     * *musiz* `mu.iz` : `mu.iz.ir`
@@ -1946,7 +1944,7 @@ aktion `-t.O
 
 ### [PR](#wörterbuch)
 
-* ***präm*** `.äm` @ie
+* ***präm*** `.äm`
   * : ***präm***ie `.äm.I.e` × `.äm.e`
   * : ***präm***ien `.äm.I.en` ~ `.äm.i-en`
 * **prax** `pra` : `pra.en` `pra.is`
@@ -2059,7 +2057,7 @@ aktion `-t.O
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.eNT` `k.or-r.ir`
     * : kor**respond**enz `k.or-r.ez` × `k.o-ez`
-* rent `ret` : `ret.ab.ät` `ret.e` `ret.ir` `ret-er`
+* rent `ret` : `ret.ab.ät` `ret.e` `ret.ir` `ret.er`
   * : rentabel `ret.ab.el` × `r.et.ab`
 * *revier* `r.ir` : `li.ei-r.ir`
 * *rheinländisch-westfälisch* `(sch).(sch)`
@@ -2651,7 +2649,7 @@ aktion `-t.O
 * **stolz** `.oz`
 * *stück* `Ük` : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük` @Ü
   * : *stück* `.ük`
-* **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @ie
+* **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um`
 * **stuf** `.uf` : `.uf.e`
 * st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
   * *f****eier****stund*e `(ei-er),u.e` ! `fei-er,u.e`
@@ -2924,7 +2922,7 @@ aktion `-t.O
   * → video
   * **v**is `v` : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `r.w-o` `r.w.or`
     * ! `v.is` : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.isr` `v.is.um` `v.is.a`
-    * *pro***v**isorien `(o)w.or.I.en` × `(o)w.I.en` @ie
+    * *pro***v**isorien `(o)w.or.I.en` × `(o)w.I.en`
     * *devis* = de***vis*** `d.e-is` : `d.e-is.e` `d.e-is.en`
   * vue `v.ü` : `r.w.ü`
 * *video* `vi.o` : `vi.os` `vi.o-t.ek` ← vid
@@ -3515,7 +3513,6 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 
 * @e - alleinstehendes Stammende, nach Abstrich : `.e` : `k.e` `fr.e` `tr.e`
 * @i - `.i` statt `-i`
-* @ie `I.e(n)`/`.i-e(n)`
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
