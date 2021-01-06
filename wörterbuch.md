@@ -197,7 +197,7 @@
       * *bändig* `b.änd.i`
       * *verbände* `E.b.e`
   * **bund** `bu` : `bu.um`
-    * **bünd** `bü` : `bü.e` `bü.el` @ü
+    * **bünd** `bü` : `bü.e` `bü.el`
 * **bis** `bi`
 * *bischof* `bi.of`
   * *land****es****bischof* `(.es):bi.of` ~ `(.es).of`
@@ -230,7 +230,7 @@
   * -*gesetzbuch* `bu` → burg hand straf
   * **büch** `bÜ` : `bÜ-er`
   * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
-* *bühr* `-Ür` : `G-Ür` @Ü
+* *bühr* `-Ür` : `G-Ür`
 * bunt `but` : `but-er` `but.est` `bu.H`
 * **bür** `bÜ` : `m.ak-er-Ü.o`
 * burg `b.ug` : `b.ug.en`
@@ -725,7 +725,7 @@
     * ~ ***füg*** `.üg` `G.üg` `Z.üg` `Z.Sa.üg`
 * fug `f.ug`
   * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
-* -*fühl*- `Ül` : `f.ül` `b.e-Ül` `G-Ül` `G-Ül,(g)` `G-Ül.Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `t.uch-Ül-UNG` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül` @Ü
+* -*fühl*- `Ül` : `f.ül` `b.e-Ül` `G-Ül` `G-Ül,(g)` `G-Ül.Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `t.uch-Ül-UNG` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül`
   * *gefühlvoll* `G-Ü.Ol`
   * *tuchfühlung* `tu-Ül-UNG`
 * **fuhr** `fu` : `fu-e` `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
@@ -761,7 +761,7 @@
   * fürcht `f.ücht` : `f.ücht.et.e` `f.ücht.L` `be.f.ücht`
 * **fuß** `fu` : `ha.fu`
 * **futt** `fu` : `fu-er`
-  * **fütt** `fü` : `fü-er` @ü
+  * **fütt** `fü` : `fü-er`
 
 ### [FR](#wörterbuch)
 
@@ -2649,7 +2649,7 @@
 * **stoff** `.of` : `(k).of` @st
   * kunst**stoff** `kust.of` * `ku-s.of` @@
 * **stolz** `.oz` @st
-* *stück* `Ük` : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük` @Ü
+* *stück* `Ük` : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
   * : *stück* `.ük`
 * **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @st
 * **stuf** `.uf` : `.uf.e` @st
@@ -3285,22 +3285,11 @@
 
 ## TODOs
 
-* @ü `-ü` statt `-Ü`, wieso?
-
-@ @Ü
-
 * @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
 
 * × entfernen
 * ~ entfernen
 * * entfernen
-
-* hing hang
-
-* Winklers verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
-* Winklers verwendet auch `.eNT` statt `.met` (sortiment)
-* Winklers erlaubt `(I).iS` statt `IN.iS`
-* Winklers rollt das `s` nach `ko` immer ein.
 
 * `T-` -> `T.`
 
