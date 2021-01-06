@@ -139,7 +139,7 @@
 * **be**- `be`
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
-* **be**<i></i>**ginn** : `(be)gi`
+* **be**<i></i>**ginn** : `be,gi`
   * *beginn* `be.in`
   * **gann** `ga` : `be.ga`
   * **gonn** `go` : `be.go`
