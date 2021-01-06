@@ -346,7 +346,7 @@
 * *d****es*** `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `be.deu` `.an.deu`
-  * *bedeut* `b-eu-T`
+  * *bedeut* `be-eu-T`
 * *deut****sch*** `SCH`
 * *deutschland* `SCH-a`
   * : **bund**es*republik*.*deutschland* `bu:r.ik,SCH-a` ~ `bu,SCH-a`
@@ -407,7 +407,7 @@
 * *durch* `dr` : `.a-dr`
   * *dadurch* `a-dr` ≠ ander
 * **dürf** `dÜ` : `dÜ-t.e`
-  * *bedürf* `b-Ü` : `b-Ü.is` `b-Ü-t.ig` `hi.b-Ü-t.ig`
+  * *bedürf* `be-Ü` : `be-Ü.is` `be-Ü-t.ig` `hi.be-Ü-t.ig`
     * -*bedürf* `-Ü` → besser dring hohl : `d-Ü.is` `I-Ü.iss.e` `N-Ü.is`
   * **darf** `da` : `be.da`
   * **durf** `du` : `du-t.e` 
@@ -712,7 +712,7 @@
   * → reform
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
-* *fug* `-u` : `b-u.is`
+* *fug* `-u` : `be-u.is`
   * ! `f.ug`
   * *füg* `-Ü` : `.an-Ü` `N-Ü` `G.ing-Ü.i` `E-Ü`
     * : bei*ge*f**ü**gt `b.ei-Ü` ~ `b.ei-Ü-G`
@@ -2280,7 +2280,7 @@
 * silb `s.ib` : `s.ib.e` `N.s.ib.i` `m.s.ib.i` `O.s.ib.en`
 * sind ← sein
 * sinn `s.in` : `s.in.os` `s.in.Ol` `be.s.on.H` `er-s.in`
-  * : besinnen `be.s.in` * `b-s.in` : `b-s.in.os`
+  * : besinnen `be.s.in` * `be-s.in` : `be-s.in.os`
   * : *ge*sinn `G.s.in` * `G.in` : `G.int` `G.in.UNG.i`
   * -*sinn* `.in` : `UN.in.i` `W.in.i` `.IN.iS.in.e` `.im.in.e` `.im.ei-L.in.e` → wahn
   * sann `s.an` : `er-s.an`
@@ -2290,7 +2290,7 @@
     * : *exist*enz `.ex.ez` × `.ex`
 * sit `s.it` : `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
-* **sitz** `si` : `b-si` `sp,si` @-an
+* **sitz** `si` : `be-si` `sp,si` @-an
   * : *vor***sitz** `O-si` ~ `O-i` : `O-i.er` `O-i.ed-er` @-×an
   * ***sitz****ung* ⇒ *sitzung* `.iz*`
   * saß `s.ass`
@@ -2343,7 +2343,7 @@
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`
-* **such** `su` : `.S.su` `b-su` `er.su` @-an
+* **such** `su` : `.S.su` `be-su` `er.su` @-an
   * : *unter***such** `UNTER.su` ~ `UNTER-u` : `O.S.o=UNTER-u` @-×an
   * : *ver***such** `E-su` @-×an
 * sucht ← siech
@@ -2375,7 +2375,7 @@
 * schaft `sch.aft`
   * -*schaft* `FT`
     * : *ge****wehr****schaft* `G.wer.FT` ~ `G.wer.scha`
-  * *beschäftig* `b-t.ig` : `b-t.igt.e` `b-t.igt.en` `b-t.ig.l.os` `I n.eb.b-t.ig`
+  * *beschäftig* `be-t.ig` : `be-t.igt.e` `be-t.igt.en` `be-t.ig.l.os` `I n.eb.be-t.ig`
   * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en` `GT,eu`
 * schall `sch.all`
   * : *ultra*schall `.utra:sch.all` * `.utra:scha`
@@ -3205,7 +3205,7 @@
 * **zeih** `z.ei` : `E.z.ei`
   * **zieh** `z.i` STS : `E.z.i` @ei
   * *zicht* `-i-` : `E-i`
-    * **be***zicht*<i></i>*ig*en `b-i.i` ~ `be.z.i`
+    * **be***zicht*<i></i>*ig*en `be-i.i` ~ `be.z.i`
 * zeil `z.eil`
 * ***zeit*** `T` : `T-UNG` `u-er-er.T` `(I)r.let-T` `IN,(-st)-T`
   * : *arb****eit***s***zeit*** `(T)-s.T` ~ `Ts.T`
