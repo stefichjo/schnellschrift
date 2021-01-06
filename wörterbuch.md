@@ -3284,8 +3284,6 @@
 
 ## TODOs
 
-* @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
-
 * × entfernen
 * ~ entfernen
 * * entfernen
