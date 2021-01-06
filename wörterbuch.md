@@ -327,6 +327,7 @@
   * → kartei
   * **dit** `di` : `ko,di-o` `ko,di.i-aL` `tra,di-o` `tra,di.i-eL`
     * *tradit* `tr.ad` : `tr.ad-o` `tr.ad.i-eL`
+* daub `d.aub` : `f.ass.d.aub.e`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `be.dau` `be.dau.L` `G.dau` `AU.I.dau` `Z.m.ei-em:be.dau` `Z.U°.be.dau`
 * *de****m*** `(m)` : `.auss.m` `(I)m`
   * : *mit*.*de****m*** `M.m` ~ `MM` P
@@ -572,10 +573,13 @@
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
 * farm `f.am`
-* ***fass*** `fass` : `G.fass` `G.fass.H` `.an.fass` @aus-an
-  * ~ *fass* `.ass` : `AU.ass` `be.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
-  * ***fäss*** `fess`
-    * ! `f.ess` : `f.ess.er` `f.ess.ch.en`
+* *f****ass*** `(ass)` STS : `AU.ass` `be.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed`
+  * *fassen* `fass` : `G.fass` `G.fass.H` `.an.fass`
+  * -*auffassung*- `.ass` : `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
+  * → fass
+* fass `f.ass`
+  * fäss `f.ess` : `f.ess.er` `f.ess.ch.en`
+  * → fass
 * fassade ← faci
 * fassade `f.ass.ade`
 * fasson `f.ass.ong`
@@ -3282,21 +3286,13 @@
 
 ## TODOs
 
+* @aus-an
+
 * @ü `-ü` statt `-Ü`, wieso?
 
-* @aus-an Auslautkürzung (auf -s(s) oder -r) mit Anlaut
-  * Der Auslaut "ss"/"ß" wird nach rechtsrunden Zeichen eingerollt. Nach halbstufigem Zeichen wird "s" geschrieben.
-
-* @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
-* @vw v wird zu w
-
-* @ fassen und passen könnten, wenn sie nicht den Wortanfang bilden, ihren Anlaut wieder verlieren. (Es handelt sich ja eh um "Auslautkürzungen".)
-  * Ausgenommen scheinen allein "an" und "ge" (anpassen, gefasst)
 @ @Ü
 
-`Z.Sa.fass` `Z.Sa-ass`
-
-`be.ha.elt.w.kö-t` `be.ha.kö-t`
+* @ei Anlautkürzungen mit Inlaut "ei" sind von Kürzeln auf Anlaut mit Inlaut nicht zu unterscheiden. Wechselt der Inlaut zu "i", wird statt einer Anlautkürzung ein Kürzel auf Anlaut mit Inlaut "i" geschrieben.
 
 * × entfernen
 * ~ entfernen
@@ -3304,10 +3300,10 @@
 
 * hing hang
 
-* `T-` -> `T.`
-
 * Winklers verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
 * Winklers verwendet auch `.eNT` statt `.met` (sortiment)
 * Winklers erlaubt `(I).iS` statt `IN.iS`
 * Winklers rollt das `s` nach `ko` immer ein.
+
+* `T-` -> `T.`
 
