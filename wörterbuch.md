@@ -2351,9 +2351,10 @@
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`
-* **such** `su` : `.S.su` `be-su` `er.su` @-an
-  * : *unter***such** `UNTER.su` ~ `UNTER-u` : `O.S.o=UNTER-u` @-×an
-  * : *ver***such** `E-su` @-×an
+* **such** `su` : `.S.su` `be.su` `er.su` `UNTER.su` `E.su` @-an
+  * *be*<i></i>*s****u****ch* `be-su`
+  * *unter*<i></i>*s****u****ch* `UNTER-u` : `O.S.o=UNTER-u`
+  * *ver*<i></i>*s****u****ch* `E-su`
 * sucht ← siech
 * süd `s.üd` : `s.üd-Ü.e`
 * **sul** `su` : `ko-su`
@@ -3320,6 +3321,7 @@
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 * @-×an
+* @-an
 
 * `T-` -> `T.`
 
