@@ -3018,9 +3018,9 @@
   * : ***wehr****pflicht* `wer,i` ! `wer.icht`
   * : **bund**es***wehr*** `bu.wer` * `u-wer`
   * : *feuer****wehr*** `feu:wer` ~ `eu:wer`
-* weich `w.eich` : `w.eich.ing` @ei
-  * **weich** `w.ei` : `.ab.w.ei` `u-rÜ:w.ei`
-  * wich `w.ich` : `G.w.ich`
+* -**weich**- `wei` : `w.eich` `w.eich.ing` `.ab.wei` `u-rÜ:wei`
+  * -**wich**- `w.i` : `w.ich`
+    * *gewichen* `G.w.ich`
 * weiger `w.eig-er` : `we.d.i,E.w.eig-er-er`
 * weil `w.eil` : `w.eil.e`
 * ***weil*** `.eil` : `.eil.I`
@@ -3036,11 +3036,9 @@
     * ! `w.is`
 * weiß ← wiss
 * weiß `w.eiss`
-
 * -***weit***- `T` : `w.T` `w.T-er` `w.T-er.in` @@
   * *und.so.weiter* `&.o`
   * *weiter* `T-er`
-
 * ***welch*** `.ech` : `.ig.ech.e`
 * welt `wet` : `wet.ha` `E.wet.L`
   * *umwelt* `um-t` : `um-t,eu-L` `.um-t,u`
