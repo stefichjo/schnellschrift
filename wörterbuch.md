@@ -215,22 +215,22 @@
 * **bleib** `blei`
   * **blieb** `bl.i`
 * bleich `bl.eich` : `bl.eich,u` `bl.eich-Ü.i`
-* ***blick*** `.ik` : `.ik.ed` `.ikt.e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` `CH .um:ik`
-  * augen***blick*** `.aug.ik` * `au.ik` : `au.ik.L`
-  * im hinblick auf `.im:AU` @
+* ***blick*** `.ik` : `.ik.ed` `.ikt.e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` `.aug.ik` `.aug.ik.L` `CH .um:ik`
+  * *im.hinblick.auf* `.im:AU`
+  * *augenblick* `au.ik` : `au.ik.L`
 * ***boot*** `.ot`
 * **bloß** `.oss`
 * **blut** `blu`
-  * **blüt** `blü`
-    * : **heiß**<i></i>**blüt***ig* `h.ei,blü.i` * `h.ei-Ü.i` ! `h.eiss-Ü.i`
-    * : kalt**blüt***ig* `kat,blü.i` * `kat-Ü.i`
+  * **blüt** `blü` : `h.ei,blü.i` `kat,blü.i`
+    * *heißblütig* `h.eiss-Ü.i`
+    * *kaltblütig* `kat-Ü.i`
 * **bod**en `bo`
 * **börs** `bö` : `bö-e` `bö,(l.er)`
 * **buch** `bu` : `bu.ha` `-G.bu` `ha,bu` `ha.el,bu` `(.iz).bu`
   * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
   * -*gesetzbuch* `bu` → burg hand straf
-  * **büch** `bÜ` : `bÜ-er`
-  * : *geschäft*s**büch**cher `GT.bÜ-er` * `GT-Ü-er`
+  * **büch** `bÜ` : `bÜ-er` `GT.bÜ-er`
+    * *geschäftsbücher* `GT-Ü-er`
 * *bühr* `-Ür` : `G-Ür`
 * bunt `but` : `but-er` `but.est` `bu.H`
 * **bür** `bÜ` : `m.ak-er-Ü.o`
@@ -250,8 +250,8 @@
   * **brächt** `brä` : `brä-e`
 * branch `br.asch` : `br.asch.e` `(t.il),br.asch.e`
 * **brau** `brau`
-* **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `(E)brau.er` `G.brau` `G.brau.eil` `ms.brau`
-  * : *ver***brauch** `(E)brau` * `E-au`
+* **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `(E)brau` `(E)brau.er` `G.brau` `G.brau.eil` `ms.brau`
+  * *ver* *br****au****ch* `E-au`
   * **bräuch** `bräu` : `G.bräu.L`
 * **brech** `br`
   * **brich** `bri`
@@ -354,7 +354,7 @@
   * : **bund**es*republik*.*deutschland* `bu:r.ik,SCH-a` ~ `bu,SCH-a`
 * di- `d.i-` STS
 * *dia*- `di`
-  * ... `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @
+  * ... `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @@
 * *didakt* `d.id` : `d.id.ik` `d.id.ik-er` `d.id.i`
 * *die* `I`
   * **d**ass.*die* `d.I` ! `d I` ≠ **d**ass.*ich*
@@ -2072,7 +2072,7 @@
 * *rheinland-pfalz* `(N):pfa`
 * **richt** `ri` : `ri.i` `(be)ach,ri.i` `(er)ri`
   * : **richt**en `ri` ! `r.icht`
-  * : **richt***ung* `ri-UNG` ~ `i-UNG` ≠ regierung@
+  * : **richt***ung* `ri-UNG` ~ `i-UNG` ≠ regierung @@
   * : be**richt** `be,ri`
     * : be**richt**~~erstatt~~er `be,ri,(er)` ~ `be,ri-er`
     * : be**richt**~~erstatt~~*ung* `be,ri,UNG` ~ `be,ri-UNG`
@@ -2215,7 +2215,7 @@
     * : im.***wes***ent*lich*en `.im.es.L` × `.im.L`
     * *gewes* `-G` : `da.-G`
 * ***seit*** `T` : `T.e` `T-en` `T.L` `.ad-er.Ts` `be.T-ig` `.eid-er.Ts` `g.T-ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T-en`
-  * ***seit***ens `T-s` `s.T-s` @
+  * ***seit***ens `T-s` `s.T-s` @@
   * ***seit***wärts `T-wets` ! `s.T-wets`
   * ***seit***en**lang** `T-ang` ! `s.T-ang`
   * bei***seit***e `b.ei-T.e` ! `b.ei-s.T.e`
@@ -2626,7 +2626,7 @@
   * stet `st.et`
     * **stät** `st` : `be.st.i`
 * stein `st.N`
-  * -*stein* `N` → bims nier schorn @
+  * -*stein* `N` → bims nier schorn @@
 * stell ← steh
 * ***stell*** `.ell`
   * : **kon*****stell***at*ion* `ko.ell.iO`
