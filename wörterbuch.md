@@ -3082,14 +3082,7 @@
   * wirf `w.if`
   * warf `w.af`
   * worf `w.of`: `O.w.of`
-  * **wurf** `wu` : `O.wu`
-    * ! `w.uf`
-    * : *ent***wurf** `eNT.wu` ~ `eNT-u` : `-G:eNT-u` @-×an
-    * **würf** `wÜ` : `O.wÜ.e`
-      * ! `w.üf`
-      * : *ent***würf**e `eNT.wÜ.e` ~ `eNT-Ü.e` @-×an
-        * : *gesetz*<i></i>*ent***würf**e `-G-eNT-Ü.e` × `-G-Ü.e`
-      * : *zer***würf***nis* `zer.wÜ.is` ~ `zer-Ü.is` @-×an
+  * → wurf
 * werk `w.ek` : `b.eg.w.ek` `hi.w.ek`
   * -*werk* = -***werk*** `.ek` → hand wasser
 * wert `wet` : `wet.Ol` `.ab.wet`
@@ -3176,6 +3169,12 @@
 * **wunsch** `wu`
   * **wünsch** `wÜ` : `er.wÜ`
 * würd `w.üd` : `w.üd.e` `w.üd.i`
+* -**wurf**- `wu` : `w.uf` `eNT.wu` `O.wu` ← werf
+  * *ent*<i></i>*w****u****rf* `eNT-u` : `-G:eNT-u`
+  * -**würf**- `wÜ` : `w.üf` `eNT.wÜ.e` `-G-eNT.wÜ.e` `O.wÜ.e` `zer.wÜ.is`
+    * *entwürf* `eNT-Ü` : `eNT-Ü.e` `-G-eNT-Ü.e`
+      * *gesetzentwürfe* `-G-Ü.e`
+    * *zerwürfnis* `zer-Ü.is`
 
 ### [WR](#wörterbuch)
 
