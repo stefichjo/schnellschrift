@@ -2078,8 +2078,7 @@
     * : **amt**s*ge***richt** `.a,i` `.amt,i`
 * rind `r.id` : `r.id-er`
   * : rind*vieh* `ri.ih` * `(i),(i)`
-* *r****ing*** `(.ing)` STS : `G.ing` `E.ing`
-  * ! `r.ing`
+* -***ring***- `.ing` : `r.ing` `G.ing` `E.ing`
 * *risik* `ri.k` : `ri.k.en`
   * : *risik*o `ri.k.o` * `ri.ko`
 * roll `r.oll`
