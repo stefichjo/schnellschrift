@@ -1945,9 +1945,9 @@
 
 ### [PR](#wörterbuch)
 
-* ***präm*** `.äm`
-  * : ***präm***ie `.äm.I.e` × `.äm.e`
-  * : ***präm***ien `.äm.I.en` ~ `.äm.i-en`
+* ***präm*** `.äm` : `.äm.I.e` `.äm.I.en` `.äm.ir` `.äm.ir-UNG`
+  * *prämie* `.äm.e`
+  * *prämien* `.äm.i-en`
 * **prax** `pra` : `pra.en` `pra.is`
   * **prakt** `pra` : `pra.i` `pra.ik.en` `pra.ik.aNT` `pra.ik.aNT.in` `pra.ik-er` `pra.ir`
   * pragm `pr.agm` : `pr.agm.i` `pr.agm.ik-er` `pr.agm.iS`
@@ -2512,7 +2512,8 @@
 * spalt `spat`
   * spält `spet` : `zw.i-spet.ig`
 * **spann** `spa`
-* **spar** `spa`
+* **spar** `spa` : `.äm:spa`
+  * *sparer* `sp.ar-er` : `.äm:sp.ar-er`
   * **spär** `sp` : `sp.L`
 * spaß `sp.ass`
 * **sp**ät `sp` : `E.sp*` STS
