@@ -376,8 +376,8 @@
     * : **dikt***ion* `di-o` ! `d.ikt.iO` ≠ **dit***ion*
 * **ding** `.ing`
   * *allerdi****ng***s `(ng)-s`
-  * *bedi****ng*** `(ng)` = flüchtling
-    * : *un*<i></i>*bedi****ng***t `(UN.ng)-t` × `UN-t`
+  * *bedi****ng*** `(ng)` : `(UN.ng)-t` = flüchtling
+    * *unbedingt* `UN-t`
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
   * **d**as.*diplom*at**isch**e.**corps** `d,di-om.ko`
@@ -387,13 +387,13 @@
 * *doll****ar*** `(.ar)`
 * dom `d.om` : `d.om.än.e` STS `d.om.il`
   * *domin* `d.om` : `d.om.ir` `d.om.aNT`
-* **dopp**el `do-el`
-  * : *ver***dopp**eln `E.do-el` × `E.do`
+* **dopp**el `do-el` : `E.do.el`
+  * *verdoppel* `E.do`
 * dorf `d.of`
 * dort `dot` : `dot.ig`
 * ***dox*** `.ox` : `pa.ox` `pa.ox.I`
-* doz `d.oz`
-  * : doz*ent* `doz.eNT` × `doz`
+* doz `d.oz` : `doz.eNT`
+  * *dozent* `doz`
   * dok `d.ok`
     * *dokument* `d.ok` : `d.ok.ar.i` `d.ok.iO` `d.ok.ir`
       * *dokumentarisch*  `d.ok.i`
@@ -414,8 +414,8 @@
   * **darf** `da` : `be.da`
   * **durf** `du` : `du-t.e` 
 * *düsseldorf* `dÜ.o`
-* dutz `d.uz`
-  * : dutzend `d.uz.ed` × `d.uz`
+* dutz `d.uz` : `d.uz.ed`
+  * dutzend `d.uz`
 
 ### [DR](#wörterbuch)
 
@@ -1711,8 +1711,8 @@
   * *national* `(n.al)`
     * *international* `(I)t-er-a`
 * ***nau*** → genau
-* *n****aut*** `(.aut)` : `.a+str.aut` `k.osm.aut`
-  * : aero*n****aut***ik `.er.aut.ik` * `.er.o-n.ik`
+* *n****aut*** `(.aut)` : `.er.aut.ik` `.a+str.aut` `k.osm.aut`
+  * *aeronautik* `.er.o-n.ik`
   * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
 * neb `n.eb` : `n.eb.ko` `n.eb,(.e)`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
@@ -3281,9 +3281,10 @@
 
 ## TODOs
 
-* × entfernen
-* ~ entfernen
-* * entfernen
+* entfernen
+  * ` × `
+  * ` ~ `
+  * ` * `
 
 * `T-` -> `T.`
 
