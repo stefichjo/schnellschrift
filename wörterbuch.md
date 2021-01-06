@@ -981,15 +981,12 @@
     * : **händ**ler `h.l-er` × `h-er`
       * -*händler* `h-er` → einzel groß vieh
     * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er` ≠ linkshändler
-* *h****äng*** `(eng)` STS : `ab.eng.i` `.an.eng-er` `.an.eng.i`
-  * ! `h.eng`
-  * : *un*ab*h****äng****ig* `UN-ab.eng.i` × `UN-ab.i`
-  * *h****ing*** `(.ing)` STS
-    * ! `h.ing`
-  * *h****ang*** `(.ang)` STS : `.ab.ang` `.an.ang` `O.ang`
-    * ! `h.ang`
-    * : *zu*<i></i>*samm*en*h****ang*** `Z.Sa.ang` ~ `u-ang`
-      * : *in*.*dies*em *zu*<i></i>*samm*en*h****ang*** `IN.iS.em Z.Sa.ang` × `IN.iS.ang`
+* -***häng***- `eng` : `h.eng` `ab.eng.i` `UN-ab.eng.i` `.an.eng-er` `.an.eng.i`
+  * *unabhängig* `UN-ab.i`
+  * -***häng***- `.ing` : `h.ing`
+  * -***hang***- `ang` : `h.ang` `.ab.ang` `.an.ang` `O.ang` `Z.Sa.ang` `IN.iS.em Z.Sa.ang`
+    * *zusammenhang* `u-ang` : `IN.iS,u-ang`
+      * *in.diesem.zusammenhang* `IN.iS.ang`
 * harf `h.af` : `h.af.e`
 * harm `h.am` : `h.am.os`
 * *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i`
