@@ -2684,7 +2684,7 @@
 * ***streik*** `.eik`
   * *general****streik*** `g.eik`
 * streit `str.T` : `str.T,u`
-  * stritt `str.it` @ei
+  * stritt `str.it`
 * string `str.ing` STS : stringent `str.ing.eNT`
   * strikt `str.ikt` STS
     * : distrikt `d.i:str.ikt` ~ `(ds)tr.ikt`
@@ -2862,11 +2862,11 @@
     * *ver****tritt*** `E.it` = verbieten
   * ***trat*** `.at` STS
     * ! `tr.at` : `(E)tr.at`
-* **treib** `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(.ei)tr.ei`
-  * ! `tr.eib`
-  * **trieb** `tri` ⇒ `tr.i` : `G.tr.i` @ei
-    * : **be**<i></i>**trieb** `b,tri` ⇒ `(be)tr.i` ~ `be.ib`
-    * -*betrieb* `.ib` → groß hand
+* **treib** `trei` : `trei-ed` `trei-er` `(.an)trei` `(AU)trei` `(.ei)trei`
+  * *treib* `tr.eib`
+  * **trieb** `tr.i` : `G.tr.i` `(be)tr.i`
+    * *betrieb* `be.ib`
+      * -*betrieb* `.ib` → groß hand
 * **treu** `treu`
 * **tro**tz : `tr.o` `tr.o-r` `tr.o-es` `tro-al.em` `tro-al.e,(m)`
   * : **tro**tz*de****m*** `tr.o-m` ~ *trotzdem* `(o)(m)`
