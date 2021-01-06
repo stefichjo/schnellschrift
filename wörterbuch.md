@@ -5,7 +5,7 @@
 
 ## [A](#wörterbuch)
 
-* ab `.ab`
+* ab `.ab` : `.ab.a`
 * *ab****end*** `(.ed)`
 * *aber* `ber` : `ber.ma-s` `ber-aY` `ber-r`
 * acht `.acht` : `.acht-Sa` `be.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
@@ -29,12 +29,12 @@
 * -al `.al`
   * -il `.il`
     * -ilität `.ät`
-* *all* `.al` : `wet.al`
-  * : *vor.allem* `O-a`
+* *all* `.al` : `wet.al` `O.al`
+  * *vor.allem* `O-a`
 * als `.as`
 * also `.as.o`
 * alt `.at` : `.at.er` `.at.er.tum` `ki.at-er` `v.at-er.h`
-  * ! *alt* = (alt) `.alt` : `.ur.alt`
+  * *alt* `.alt` : `.ur.alt`
   * ält `.ät` : `.ät-er` `.ät.est`
 * *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
 * amt `.amt` : `.amt.ir`
@@ -46,10 +46,10 @@
 * an `.an` : `.an,u` `.an-t-er` `dar.an` `wo.an`
   * *anspruch* `.an-u` STS ≠ an.uns
 * -an `.an`
-* ander `.ad-er` `N.ad-er`
-  * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
-  * *unter*.anderem `UNTER.ad-er` ~ `u.ad-er`
+* ander `.ad-er` `N.ad-er` `UNTER.ad-er`
   * *ande****rs*** `(rs)`
+  * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
+  * *unter.anderem* `u.ad-er`
   * änder `.äd-er` : `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * angst `.angst`
   * -*ang****st*** `(-st)` → tod
@@ -57,51 +57,51 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
-* *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
+* *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T)-s.N` `(T)-s.eis.e` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * ~ `T` : `T.Sa` `T-s.a`
-  * : *arbeits****los*** `(l.os)`
-  * : *arb****eit***s*gemeinschaft* `(T)-s.N` ~ `Ts.N`
-  * : *arb****eit***s*w****eis***e `(T)-s.eis.e` ~ `Ts.eis.e`
+  * *arbeits****los*** `(l.os)`
+  * *arbeits* `Ts`: `Ts.N` `Ts.eis.e`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
-* arch `.ach` : `.ach.og.e`
-  * : archäo***log***ie `.ach.og.I` ~ `.ach.o-I`
-* arg `.ag` : `.arg.os` `E.ag`
-  * ! *arg* = (arg) `.arg` ≠ mag schlag
-  * : ärg `.äg` : `.äg-er` `.äg-er.L` `.äg-er.is` `E.äg-er` `.am.äg-st`
-* arg `.ag`
-  * : argument `.ag.met` ! `.ag.u-met`
-* arithmetik `.ar.itm.ik` ~ `.ar.it.ik`
-* **a**rt `.a` : `.ab.a` `(r).a.i` `.es.a`
-  * ! *art* = (art) `.art`
+* arch `.ach` : `.ach.og.e` `.ach.og.I`
+  * *archäologie* `.ach.o-I`
+* *arg* `.arg` : `.arg.os` `E.arg` ≠ mag schlag
+  * → ärg
+* arg `.ag` : `.ag.met`
+  * *argument* `.ag.u-met`
+* ärg `.äg` : `.äg-er` `.äg-er.L` `.äg-er.is` `E.äg-er` `.am.äg-st` ← arg
+* arithmetik `.ar.itm.ik`
+  * *arithmetik* `.ar.it.ik`
+* *art* `.art`
+  * -**a**rt `.a` → ab der wes
 * art `.at` : `.at.er.I.e` `.at.ik.el`
   * *arterie* `.at.er.e`
-  * *artik* `(.ik)` : `(.ik).el` `(.ik).ir` `(.ik).iO` `be.da.ik.el`
-    * : *artik*el 6 `(.ik).el 6` ~ `(.el),6`
+  * *artik* `(.ik)` : `(.ik).el` `(.ik).ir` `(.ik).iO` `be.da.ik.el` `(.ik).el 6`
+    * *artikel.6* `(.el),6`
 * arz `.az` : `.az.n.ei` `za.azt`
-  * : *ärz* `.ez` : `.ezt.e` `.ezt.L` `.ezt.e-FT`
-* asi `.as.I`
-  * : asien `.as.I.en` ~ `.as.i-en`
-  * : asiat `.as.I.at` ~ `.as.at`
-    * : asiat**isch** `.as.I.i` ~ `.as.at.i`
-* astr `.a+str` : `.a+str.om.I`
-  * : astro***log***ie `.a+str.og.I` ~ `.a+str.o-l.o-I`
+  * ärz `.ez` : `.ezt.e` `.ezt.L` `.ezt.e-FT`
+* asi `.as.I` : `.as.I.at` `.as.I.i` `.as.I.en`
+  * *asien* `.as.i-en`
+  * *asiat* `.as.at` : `.as.at.i`
+* astr `.a+str` : `.a+str.og.I` `.a+str.om.I`
+  * *astrologie* `.a+str.o-l.o-I`
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
-* *atlant* `.atl` : `.atl.i`
-  * *atlant*ik `.atl.ik` ~ `.atl-t.ik`
+* *atlant* `.atl` : `.atl.ik` `.atl.i` ← atlas
+  * *atlantik* `.at.l-t.ik`
 * atlas `.atl.as`
+  * → atlant
 * *at****om*** `(.om)` : `(.om).ar` `(.om).ko`
 * auch `.auch` : `.auch,i`
   * -*auch* → aber oder sondern
 * *auf* `AU` : `AU.ei-ad-er` `.e-AU` `(n)AU`
   * *darauf* `dar-AU` : `dar-AU.in`
     * *daraufhin* `dar-AU-n`
-* *aus* `.S` : `.S.ei-ad-er` `.S-t.ig` `.S-ts` `n.S` `O.-S`
-  * : ***dar****über*<i></i>*hin*<i></i>*aus* `dar-Ü.n.S` ~ `dar-Ü-aY`
+* *aus* `.S` : `.S.ei-ad-er` `.S-t.ig` `.S-ts` `n.S` `O.-S` `dar-Ü.n.S`
+  * *darüberhinaus* `dar-Ü-aY`
   * *heraus* `rrs`
   * auß `.auss` : `.auss.um` `.auss.ko` `.auss:ha` `ach.auss.in`
     * *nach.außen.hin*`ach.auss:hn`
-    * : *äußer* `.äuss` : `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
+    * äußer `.äuss` : `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
 * aut `.aut` : `.aut.o` `.aut.us` `.aut.om`
 
@@ -344,7 +344,7 @@
   * → dank
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
-* *de****r*** `(r)` : `.S-er` `(I)-er`
+* *de****r*** `(r)` : `(r).a.i` `.S-er` `(I)-er`
 * *d****es*** `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
 * **deut** `deu` : `deu.L` `be.deu` `.an.deu`
@@ -478,7 +478,7 @@
   * *hinein* `hi.N` ≠ nein
   * *von.vornherein* `v.N`
 * eis `.eis`
-* *eisen* = (eisen) `.eis.en` ≠ eis
+* *eisen* `.eis.en` ≠ eis
 * el `.el` : `.el.e-met` `.el.e-met.ar`
 * *elektr* `.el` : `.el.i` `.el.if.ir` `.el.ir` `.el.ät` `.el.od.e` `.el.on.i`
 * eltern ← alt
@@ -500,7 +500,7 @@
 * *ener****g*** `(g)` : `(g).I` `(g).i`
 * *ent*- `eNT`
 * *ent*behr ← behr ← bär
-* *ent*e = (ent)e `.ent.e`
+* ente `.ent.e`
 * -*ent* `eNT`
 * *er* `er` @?
 * erb `.eb` : `.eb.e` `.eb.L` `.eb-FT` `G.eb-t` `E.eb-UNG`
@@ -2208,7 +2208,7 @@
   * *s****ei*** `(.ei)` : `(.ei)-d`
   * *w****ar*** `(.ar)`
     * : *w****är*** `(.är)` : `(.är).e`
-  * ***wes*** `.es` : `.es.ha` `.es.H` `.es.L` `.es.os` `.ab.es.ed` `.ab.es.H` `.an.es.ed` `.an.es.H`
+  * ***wes*** `.es` : `.es.a` `.es.ha` `.es.H` `.es.L` `.es.os` `.ab.es.ed` `.ab.es.H` `.an.es.ed` `.an.es.H`
     * : im.***wes***ent*lich*en `.im.es.L` × `.im.L`
     * *gewes* `-G` : `da.-G`
 * ***seit*** `T` : `T.e` `T.en` `T.L` `.ad-er.Ts` `be.T.ig` `.eid-er.Ts` `g.T.ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T.en`
@@ -3285,4 +3285,6 @@
   * ` × `
   * ` ~ `
   * ` * `
+  * * :
+  * * !
 
