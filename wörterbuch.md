@@ -161,6 +161,7 @@
 * besser ← gut
 * best ← gut
 * bett `b.et` STS
+* *bezichtig* `be.z.i` ← zeih
 * **bi** `bi` : `bi.al`
 * **bi** `bi` STS
   * : **bi**o***log***ie `bi.og.I` ! `b.i-l.og.I`
@@ -646,7 +647,7 @@
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi`
-  * ⇒ `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i` @eigtl. `.ab,fi` usw.
+  * ⇒ `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i` @`.ab,fi` usw.
     * emp*f****i****nd* `.emp-i`
     * *erfinder* `er,fi-er` : `er,fi-er.i`
   * **fand** `fa` : `be.fa` `.emp-fa`
@@ -2915,6 +2916,10 @@
     * : vers*ion* `v.es.iO` ~ `w.es.iO`
     * : **kon**versat*ion* `ko.w.es.iO` ! `ko.w.es.at.iO` ≠ konversion
     * uni~~vers~~ `.un` : `.un.al` `.un.ell` `.un.ät` `.un.um`
+* *ver***zeih** `E.zei` ← zeih
+  * *ver***zieh** `E.z.i`
+  * → verzicht
+* *verzicht* `E-i` ← verzeih
 * **vest** `v` : `IN.w.ir` `IN.w-o`
   * : *in***vest**ment `IN.w.met` × `IN.w` = invest
 * **v**id `v` : `d.i-w.ir` `r.w.ir`
@@ -3124,10 +3129,10 @@
     * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT-er` `FT.N` `FT.L.e,ig`
       * : *ge*werb*lich*e ~~*wirt*~~*schaft* `G.L.e FT` ~ `G.L.FT`
       * : → landwirtschaft
-* *wiss* `.iss` : `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
-  * **wiss**en*schaft* ⇒ *wissenschaft* `wi.FT`
-  * : *ver*<i></i>*ge*<i></i>*wiss*ern `E.iss-er` ~ `E.-G` : `E.-G-t.e`
-  * *weiß* `.eiss` : `.I.eiss` @ei
+* *wiss* `.iss` : `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `E.-G.iss` `E.-G.iss-t.e` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
+  * *vergewisser* `E.-G` : `E.-G-t.e`
+  * *wissenschaft* `wi.FT`
+  * *weiß* `.eiss` : `.I.eiss`
   * *wuss* `.uss`
     * ! `w.uss` : `w.usst.e`
     * -bew**u**sst ⇒ -*bewusst* `u` → mir pfleg selbst wort
@@ -3199,10 +3204,7 @@
   * : ***zeich***nen `.eich` ! `z.eich` ≠ reichen
   * : **satz*****zeich***en `sa.eich` ! `s.az.eich`
 * ***zeig*** `.eig`
-* **zeih** `z.ei` : `E.z.ei`
-  * **zieh** `z.i` STS : `E.z.i` @ei
-  * *zicht* `-i-` : `E-i`
-    * **be***zicht*<i></i>*ig*en `be-i.i` ~ `be.z.i`
+* **zeih** → verzeih bezichtig
 * zeil `z.eil`
 * ***zeit*** `T` : `T-UNG` `u-er-er.T` `(I)r.let-T` `IN,(-st)-T`
   * : *arb****eit***s***zeit*** `(T)-s.T` ~ `Ts.T`
