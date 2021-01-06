@@ -1603,8 +1603,8 @@
     * : `pa.m.et-er` ! `p.ar.a-m.et-er`
 * *mexik* `m.ex` : `m.ex-er` `m.ex.i`
   * : *mexik*o `m.ex.o` × `m.ex`
-* *mich* `m.i`
-  * *l****ass***en.~~sie~~.*mich* `(ass).m.i` ! `ass.m.i`
+* *mich* `m.i` : `.ass.m.i`
+  * *lassen.sie.mich* `ass.m.i`
 * *million* `(I),(I)` : `(I),(I).är` `(I),(I).en`
 * min `m.in` : `m.in.e` `UNTER.m.in.ir`
   * *mine****ral*** : `(r.al)`
@@ -1839,8 +1839,8 @@
   * ! `p.akt`
   * -*pakt* `pa` → greif
 * pand `p.ad`
-  * ***pans*** `pas` : `.e-pas-o`
-  * ***pass*** `pass` : `pass.ir` `pass.us` @aus-an
+  * → pans pass
+* ***pans*** `pas` : `.e-pas-o` ← pand
 * **par** `pa` : `pa.ad.e` `pa.ad.ir` `pa.ad.is` `.a-pa.at` `.a-pa-ur` `(r)pa.ir` `(r)pa-ur`
   * : **par**ität `pa.ät` ! `p.ar.ät`
   * : *trans***par***ent* `tra.pa.eNT` ~ `tra.pa.eNT`
@@ -1855,7 +1855,7 @@
 * part `pat` : `pat.I` `pat.ik.el` `pat.ik.är` `pat-er`
   * *partei* `pa-ei` : `pa.ei-Sa.UNG`
   * -*partei* `.ei` : `I.ei-en` → krat union
-* pass ← pand
+* ***pass*** `pass` : `pass.ir` `pass.us` ← pand
 * pass ← pati
 * **p**at `p` : `kom-p.ib.el` `kom-p.ib.ät`
 * *patent* `pa°` Neubauer : `pa°.a`
@@ -3000,8 +3000,8 @@
 * wart `wat` : `wat.et.e` `er.wat` `er.wat.Ol`
   * -**wart**, -**wärt**- `-t` : `-t.er` `-t.ig` `-ts` → an aus gegen rück seit vor
   * wärt `wet` : `wet.er`
-* ***was*** `was` @aus-an
-* ***wass***er `was-er` : `was.ek` `was.FT` @aus-an @-er
+* ***was*** `was`
+* ***wass***er `was-er` : `was.ek` `was.FT` @-er
   * ***wäss***er `wes-er` : `eNT.wes-UNG`
   * : ***wäss***rig `wes.i` ! `w.ess.r.i`
   * : *ge****wäss***er `G.wes` ! `G.wes-er` ≠ gewächs
@@ -3127,7 +3127,7 @@
     * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT-er` `FT.N` `FT.L.e,ig`
       * : *ge*werb*lich*e ~~*wirt*~~*schaft* `G.L.e FT` ~ `G.L.FT`
       * : → landwirtschaft
-* *wiss* `.iss` : `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss` @aus-an
+* *wiss* `.iss` : `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
   * **wiss**en*schaft* ⇒ *wissenschaft* `wi.FT`
   * : *ver*<i></i>*ge*<i></i>*wiss*ern `E.iss-er` ~ `E.-G` : `E.-G-t.e`
   * *weiß* `.eiss` : `.I.eiss` @ei
@@ -3284,8 +3284,6 @@
 * **zw**ischen `zw` : `da.zw` `(I)zw`
 
 ## TODOs
-
-* @aus-an
 
 * @ü `-ü` statt `-Ü`, wieso?
 
