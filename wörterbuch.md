@@ -13,7 +13,7 @@
   * -*acht* `.a` : `gu.a.en` `gu.a.er`
     * *gutachten* `u.a`
     * *gutachter* `gu,er`
-* *adress* ≈ adr~~ess~~ `.adr` ← reg
+* *adress* ≈ adr~~ess~~ `.adr` ← rekt
 * *afrik* `.afr` `.afr.a` `.afr.i`
   * *afrika* `.afr`
 * ag `.ag` : `.ag.eNT` `.ag.eNT.ur`
@@ -1433,7 +1433,7 @@
   * *lehrer* `er-er` : `fa.er-er`
   * *lehrling* `l.ing`
 * **leicht** `l.ei`
-  * : ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei` @~2
+  * *vielleicht* `v.ei`
 * leid
   * litt @ei
 * leih `l.eih`
@@ -2039,12 +2039,7 @@
     * : di*rig* `d.i-r` : `d.i-r.ir` `d.i-r.iS.i`
     * : di*rig*<i></i>*ent* `d.i-r.eNT` × `d.i-eNT` ~ `di.eNT`
     * : kor*rig*ieren `k.or-r.ir` ! `k.or-r.ig.ir`
-  * **rekt** `r` : `r.or` `r.or.ko` `k.or-r` `k.or-r.H` `k.or-r.ur`
-    * : **rekt**orat `r.or.at` ~ `r.ekt.at`
-    * : di**rekt** `d.i-r` ~ *direkt* = **di**~~rekt~~ `di` : `di.iO` `di.iv.e` `di.or` `di.or.in` @~2
-      * : *in*<i></i>*direkt* `(IN)di` ~ `IN.d-t`
-      * → adress
-    * : **kon**<i></i>**rekt**or `ko.r.or` ! `ko.r.ekt.or`
+  * → rekt
 * ***reich*** `.eich` : `.eich.L` `be.eich` `er.eich` `Ü.eich`
   * *reichlich* `r.ei-L`
   * *erreich* `(er)r.ei`
@@ -2058,6 +2053,14 @@
   * *bereits* `Ts`
   * *vorbereiten* `O.b`
   * -***ritt***- `.it` STS : `r.it`
+* **rekt** `r` ← reg
+  * : `d.i-r` `IN.d.i-r` `d.i-r.iO` `d.i-r.iv.e` `d.i-r.or` `d.i-r.or.in`
+  * : `r.or` `ko.r.or` `r.or.at` `r.or.ko` `k.or-r` `k.or-r.H` `k.or-r.ur`
+  * *direkt* `di` : `IN,di` `di.iO` `di.iv.e` `di.or` `di.or.in`
+    * *indirekt* `IN.d-t`
+  * *rektorat* `r.ekt.at`
+  * *konrektor* `ko.r.ekt.or`
+  * → adress
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.eNT` `k.or-r.ir`
     * : kor**respond**enz `k.or-r.ez` × `k.o-ez`
@@ -3299,7 +3302,6 @@
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
 
-* ~2 doppelte Verschattung :/
 * @aus-an Auslautkürzung (auf -s(s) oder -r) mit Anlaut
   * Der Auslaut "ss"/"ß" wird nach rechtsrunden Zeichen eingerollt. Nach halbstufigem Zeichen wird "s" geschrieben.
 
@@ -3314,20 +3316,15 @@
 
 `be.ha.elt.w.kö-t` `be.ha.kö-t`
 
-### Winklers
+* × entfernen
+* @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
+* @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
+* @-×an
+
+* `T-` -> `T.`
 
 * Winklers verwendet `.aNT`/`.eNT` und `.ant`/`.ent`.
 * Winklers verwendet auch `.eNT` statt `.met` (sortiment)
 * Winklers erlaubt `(I).iS` statt `IN.iS`
 * Winklers rollt das `s` nach `ko` immer ein.
 
-* × entfernen
-* @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
-* @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
-* @-×an
-
-###
-
-Sowohl Anstellung (`(E)tra`) als auch Hochstellung (`(N).FT`) verwenden Klammern. Unterscheidungsmerkmal ist der Punkt (`.`) nach den Klammern (`( ... ).` oder ein Bindestrich (`(ng)-s`). Es gibt aber Anstellungen mit Bindestrich. :O
-
-`T-` -> `T.`
