@@ -136,7 +136,7 @@
     * *bäuerlich* `bäu.L`
 * bass `b.ass` : `(ko)tra.b.ass`
 * *bayer*, *bayern* `b.ay`
-* **be**- `b` @be alleinstehen `b.e`, sonst `b` == `be`
+* **be**- `be`
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
 * **be**<i></i>**ginn** : `(be)gi`
