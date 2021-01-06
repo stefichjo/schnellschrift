@@ -2308,7 +2308,7 @@
     * ! `s.ez` : `s.ezt.e` `G.s.ezt` `be.s.ez*` `fr.s.ez*`
       * : `s.ez-er` ! `s.ez.er` : `s.ez.er.ei`
     * : *aus*einander**setz***ung* `.S.ei-ad-er.s.UNG` × `.S.ei-ad-er`
-    * *setz* `s` : `.ab.s` `be.s` `N.s` @-an
+    * *setz* `s` : `.ab.s` `be.s` `N.s`
     * -*setz* `-s` : `eNT.g-s` `fr-s`
     * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `(.es),-G` `UN-G.L`
       * : *gesetz*<i></i>*mäßig* `-G.i` ! `-G.ess.i`
@@ -2351,10 +2351,10 @@
 * *sozi* `SS`
   * *sozial* `SS` : `SS-Ü.o`
 * **sub** `su:`
-* **such** `su` : `.S.su` `be.su` `er.su` `UNTER.su` `E.su` @-an
-  * *be*<i></i>*s****u****ch* `be-su`
+* **such** `su` : `.S.su` `be.su` `er.su` `UNTER.su` `E.su`
   * *unter*<i></i>*s****u****ch* `UNTER-u` : `O.S.o=UNTER-u`
   * *ver*<i></i>*s****u****ch* `E-su`
+  * *besuch* `be-su`
 * sucht ← siech
 * süd `s.üd` : `s.üd-Ü.e`
 * **sul** `su` : `ko-su`
@@ -3301,7 +3301,6 @@
 
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
-* @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
 
 * @aus-an Auslautkürzung (auf -s(s) oder -r) mit Anlaut
   * Der Auslaut "ss"/"ß" wird nach rechtsrunden Zeichen eingerollt. Nach halbstufigem Zeichen wird "s" geschrieben.
@@ -3321,7 +3320,6 @@
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 * @-×an
-* @-an
 
 * `T-` -> `T.`
 
