@@ -177,7 +177,7 @@
   * : *auf****gab***en*ge****biet*** `AU.ab.it` ~ `AU.it` ! `AU.en.it` ≠ auf dem gebiet
   * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
   * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` ~ `AU-i.it`
-  * . bei.**jed**er.*sich*.~~bietenden~~.~~gelegen~~*heit* `(b.ei)j.CH.H` @`(b.ei)`
+  * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H` @`(b.ei)`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bil****anz*** `(.az)` STS ~ `(az)` : `(az.ir-UNG)`
 * **bild** `bi` : `bi.ed` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
@@ -3200,8 +3200,8 @@
 * ***zeig*** `.eig`
 * **zeih** → verzeih bezichtig
 * zeil `z.eil`
-* ***zeit*** `T` : `T.UNG` `Ts.T` `u-er-er.T` `(I)r.let-T` `IN,(-st)-T`
-  * . `fra-e.T` `O.eNGR.T`
+* ***zeit*** `T` : `T.UNG` `Ts.T` `u-er-er.T` `(I)r.let-T` `IN,(-st)-T` `O.eNGR.T`
+  * *frage.der.zeit* `fra-e.T` 
 * zend `z.ed` : `tra.z.ed.eNT`
 * zent `zet` : `zet.er`
   * *prozent* `o` : `o.al` `3.o` `5.o` `I 5.o,au.el`
@@ -3285,5 +3285,3 @@
   * * ~ 
   * * : 
   * * !
-  * * . 
-
