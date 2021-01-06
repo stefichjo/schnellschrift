@@ -918,7 +918,7 @@
 * grav `gr.aw` : `gr.aw-ur` `gr.aw-o`
 * ***greif*** `.eif`
   * ***griff*** `.if` : `-t;an.if:pa`
-* *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(b)GR` `UN-be.GR`
+* *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(be)GR` `UN-be.GR`
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
 * **gress** `gr` : `(ko)gr` `(o)gr.iv` `(o)gr.iO` `(r)gr` ← grad
@@ -927,7 +927,7 @@
     * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `v.gru.AU`
   * : *aus*.*dies*em.**grund**e `.S-S.gru.e` × `.S-S.e`
-  * : **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.L.T` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(b)grÜ` `UN-be.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (b)grÜ`
+  * : **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.L.T` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(be)grÜ` `UN-be.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (be)grÜ`
     * : **hind**er*ung*s**gründ**e `hi-er-UNG.grÜ.e` ~ `hi-er-UNG-Ü.e`
 * ***gruß*** `.uss`
   * ***grüß*** `.üss`
@@ -2012,7 +2012,7 @@
 * **re** `r` : `r.al` `r.al.ir` `r.al.ät`
   * *realisieren* `r.ir`
 * real ← re
-* *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(b)ech`
+* *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(be)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
 * ***recht*** `echt` : `echt.L` `T-s:echt` `(.es):echt` `m.H,wa.echt`
   * ~ *recht* `r` : `AU-r` `G.r` `O.r`
@@ -2062,7 +2062,7 @@
 * *revier* `r.ir` : `li.ei-r.ir`
 * *rheinländisch-westfälisch* `(sch).(sch)`
 * *rheinland-pfalz* `(N):pfa`
-* **richt** `ri` : `ri.i` `(b)ach,ri.i` `(er)ri`
+* **richt** `ri` : `ri.i` `(be)ach,ri.i` `(er)ri`
   * : **richt**en `ri` ! `r.icht`
   * : **richt***ung* `ri-UNG` ~ `i-UNG` ≠ regierung@
   * : be**richt** `be,ri`
@@ -2167,7 +2167,7 @@
   * sah `s.ah`
   * **sicht** `si` STS
     * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T` `(O)si` `(UN.O)si.i` `(Ü)si` `.of,si.L`
-    * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `be,(.ab)si.i` `(AU)si` `be,(AU)si.i` `(b)si.i` `si,u` STS
+    * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `be,(.ab)si.i` `(AU)si` `be,(AU)si.i` `(be)si.i` `si,u` STS
     * : `(rÜ)si` `(rÜ)si.os` `(rÜ)si,(.e)`
     * -*s****i****cht*
       * ab- `.ab-i` : `.ab-i.L` `be,.ab-i.i`
@@ -2672,7 +2672,7 @@
   * -*straß****e*** : `(.e)` `hau,(.e)` `la,(.e)` `m.ich,(.e)`
     * ***seit***en*straß****e*** : `T,(.e)` ~ `s.T.en,(e)`
 * **streb** `str` : `(er)str,(-t)`
-  * : **be**<i></i>**streb**t `(b)str-t` × `(b)str`
+  * : **be**<i></i>**streb**t `(be)str-t` × `(be)str`
 * streck `str.ek` : `str.ek.e`
   * : *er*strecken `(er)str.ek` ~ `(er)str`
   * *die* **zwang**s*voll*streck*ung* `I ang-Ol.str.ek` × `I ang-Ol`
@@ -2809,7 +2809,7 @@
 
 ### [TR](#wörterbuch)
 
-* **tracht** `tra` : `(b)tra` `(b)tra.et.e` `(N)tra` ← trag trakt
+* **tracht** `tra` : `(be)tra` `(be)tra.et.e` `(N)tra` ← trag trakt
   * **trächt** `tr` : `tr.i` `be.N.tr.i` `be.N.tr.i-t.e` `(N)tr.i` `(ndr)tr.i-T`
 * -**trag**- `tra` : `tr.ag` `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `n.S.tra` `(.ei)tra` `(er)tra` `(er)tra.eich` `ach.tra` `v.is.um.an.tra` `(E)tra` `(E)tra-Ü.i` `.auf,(E)tra` `l.i-er-UNG,(E)tra` `(E)tra-Ü.i` `(E)tra,i` `(Ü)tra` `di-Ü:tra`
   * -*vertrag* `tra` → kauf liefer
@@ -2818,7 +2818,7 @@
   * *trag* `tra`
   * *vertrag* `E-a`
   * *direktübertragung* `di-t-Ü:tra
-  * -**träg**- `tr` : `tr.eg` `tr.egt` `tr.eg.e` `tr.eg-er` `tr.eg.H` `(.an)tr.e` `(AU)tr.e` `(b)tr` `(b)tr.e` `(.ei)tr.e` `UN-er.tr.L` `ach.tr` `ach.tr.er.i` `ach.tr.L` `ach.tr.L.T` `(E)tr` `(E)tr.L` `(E)tr.L.T` `UN-E.tr.L.T` @ä-e
+  * -**träg**- `tr` : `tr.eg` `tr.egt` `tr.eg.e` `tr.eg-er` `tr.eg.H` `(.an)tr.e` `(AU)tr.e` `(be)tr` `(be)tr.e` `(.ei)tr.e` `UN-er.tr.L` `ach.tr` `ach.tr.er.i` `ach.tr.L` `ach.tr.L.T` `(E)tr` `(E)tr.L` `(E)tr.L.T` `UN-E.tr.L.T` @ä-e
     * *nachträgerisch* `ach.tr.eg-er.i`
     * *nachträglich* `ach.L` : `ach.L.T`
     * *verträg* `(E)tr.e`
@@ -2840,14 +2840,14 @@
   * **traur** `trau` : `trau.i` `trau.i-T`
 * traum `tr.aum`
   * träum `tr.äum`
-* -**treff**- `tr` : `tr.ef` `tr.ef-er` `tr.ef.L` `(b)tr` `(b)tr.ed` `(b)tr-s` `(N)tr` `(Ü)tr` `UN-Ü.tr.L` `(O)tr.L` `Z.tr.ed` `Z.Sa:tr`
+* -**treff**- `tr` : `tr.ef` `tr.ef-er` `tr.ef.L` `(be)tr` `(be)tr.ed` `(be)tr-s` `(N)tr` `(Ü)tr` `UN-Ü.tr.L` `(O)tr.L` `Z.tr.ed` `Z.Sa:tr`
   * *trefflich* `tr.L`
   * *eintreff* `(N)tr.ef` ≠ eintreten
   * *zusammentreff* `Z.Sa:tr.ef` ≠ zusammentreten
-  * -**triff**- `tr.i` STS : `tr.if` `(b)tr.i` `(Ü)tr.i` @an-aus
+  * -**triff**- `tr.i` STS : `tr.if` `(be)tr.i` `(Ü)tr.i` @an-aus
     * *triff* `.if` : `.ift` `be.ift` `Ü.ift`
-  * -**traf**- `tra` : `tr.af` `(b)tra` `(Ü)tra`
-    * *betraf* `(b)tr.af`
+  * -**traf**- `tra` : `tr.af` `(be)tra` `(Ü)tra`
+    * *betraf* `(be)tr.af`
     * -**träf**- `trä` STS : `tr.äf.e` `N.trä-e` STS
   * -**troff**- `.of` : `G.of` `.an.of` `be.of` `N.of` `Ü.of` `UN-Ü.of` @an-aus
 * ***tret*** `.et` STS
@@ -2864,7 +2864,7 @@
 * **treib** `tr.ei` : `tr.ei-ed` `tr.ei-er` `(.an)tr.ei` `(AU)tr.ei` `(.ei)tr.ei`
   * ! `tr.eib`
   * **trieb** `tri` ⇒ `tr.i` : `G.tr.i` @ei
-    * : **be**<i></i>**trieb** `b,tri` ⇒ `(b)tr.i` ~ `be.ib`
+    * : **be**<i></i>**trieb** `b,tri` ⇒ `(be)tr.i` ~ `be.ib`
     * -*betrieb* `.ib` → groß hand
 * **treu** `treu`
 * **tro**tz : `tr.o` `tr.o-r` `tr.o-es` `tro-al.em` `tro-al.e,(m)`
@@ -2872,10 +2872,10 @@
 * trug ← trag
 * **trug** `tru` : `be.tru`
   * ! `tr.ug`
-  * **trüg** `trÜ` : `(b)trÜ` `(b)trÜ-er` `(b)trÜ.ei-en` `(b)trÜ.i`
+  * **trüg** `trÜ` : `(be)trÜ` `(be)trÜ-er` `(be)trÜ.ei-en` `(be)trÜ.i`
     * ! `tr.üg` : `tr.üg-er.i` `UN-tr.üg.L`
   * trog ⇒ *trog* `tr.og` : `G.tr.og`
-    * : **be***trog*en `(b)tr.og` × `(b)tr.o`
+    * : **be***trog*en `(be)tr.og` × `(be)tr.o`
 
 ## [U](#wörterbuch)
 
@@ -3156,7 +3156,7 @@
 * *woll* `(.ol)`
   * *will* `(.l)`
 * wort `wot`
-  * *antwort* = *ant*~~wort~~ `aNT` : `(b)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
+  * *antwort* = *ant*~~wort~~ `aNT` : `(be)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
   * -*wort* `o` → bind schlag sprech
 * wund ← wind
 * **wund** `wu` : `wu-er` `be.wu-er`
