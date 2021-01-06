@@ -37,7 +37,7 @@
   * *alt* `.alt` : `.ur.alt`
   * ält `.ät` : `.ät-er` `.ät.est`
 * *amerik* `.am` : `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
-* amt `.amt` : `.amt.ir`
+* amt `.amt` : `.amt.ir` `Ts.a`
   * *auswärtiges.amt* `.S.a`
   * *beamt*, *beamter*, *beamten* `be.a` : `be.a.in` `be.a.FT`
     * *beamtenschaft* `be.FT`
@@ -57,10 +57,10 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
-* *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T)-s.N` `(T)-s.eis.e` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
-  * ~ `T` : `T.Sa` `T-s.a`
+* *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * *arbeits****los*** `(l.os)`
-  * *arbeits* `Ts`: `Ts.N` `Ts.eis.e`
+  * -*arbeits*- `Ts` : `Ts.N` → amt gebiet kreis platz weis zeit
+  * *arbeitsam* `T.Sa`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
 * arch `.ach` : `.ach.og.e` `.ach.og.I`
@@ -173,10 +173,9 @@
 * bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
-* ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `fa.it` `r.ur.it` `E.it` `Ü.it` `AU.it`
+* ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `Ts.it` `fa.it` `r.ur.it` `E.it` `Ü.it` `AU.it`
   * : *auf****gab***en*ge****biet*** `AU.ab.it` ~ `AU.it` ! `AU.en.it` ≠ auf dem gebiet
   * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
-  * : *arb****eit***s*ge****biet*** `(T)-s.it` ~ `Ts.it`
   * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` ~ `AU-i.it`
   * . bei.**jed**er.*sich*.~~bietenden~~.~~gelegen~~*heit* `(b.ei)j.CH.H` @`(b.ei)`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
@@ -1355,8 +1354,7 @@
   * *sozialdemokrat* `SS.d` : `SS.d.I` `SS.d.ei`
 * **kreb** `kr` : `kr-s`
 * **kred** `kr` : `kr.it` `.ak-kr.ir` `.ak-kr.iv`
-* *kr****eis*** `(.eis)` : `la.eis`
-  * : *arb****eit***s*kr****eis*** `(T)-s.eis` ~ `Ts.eis`
+* *kr****eis*** `(.eis)` : `Ts.eis` `la.eis`
 * **kret** `kr` : `ds.kr.iO` `ko.kr` `ko.kr.ir`
 * ***kreuz*** `.euz`
 * **krieg** `kri` : `wet.kri`
@@ -1886,7 +1884,7 @@
 * **plan** `pla`
   * -***plan*** `.an`
 * **plant** `pla` : `pla.asch.e` `tra.pla.O`
-* ***platz*** `.az` : `(T)-s.az` `si:az`
+* ***platz*** `.az` : `Ts.az` `si:az`
   * ***plätz*** `.ez` : `.ez.e`
 * plaus `pl.aus` : `pl.aus.ib.el` `pl.aus.ib.ät`
 * plett `pl.et` : `kom-pl.et.ir`
@@ -2016,7 +2014,7 @@
 * real ← re
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(be)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
-* ***recht*** `echt` : `echt.L` `T-s:echt` `(.es):echt` `m.H,wa.echt`
+* ***recht*** `echt` : `echt.L` `Ts:echt` `(.es):echt` `m.H,wa.echt`
   * ~ *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * -*reform* `.om` → schul wahr ← form
@@ -2617,8 +2615,7 @@
     * -*steller* `(er)` → trag
   * **statt** `sta` : `sta.ha` `sta.L` `er.sta`
     * -~~erstatt~~ → richt
-    * ***stätt*** ⇒ *stätt* `.ät`
-      * : *arb****eit***s*stätt*e `(T)-s.ät.e` ~ `Ts.ät.e`
+    * *stätt* `.ät` : `Ts.ät.e`
     * : *gestatt* `-G-a` : `-G-a.sI-ir` `.I -G-a.ir` `wr -G-a.U`
   * stet `st.et`
     * **stät** `st` : `be.st.i`
@@ -3030,7 +3027,7 @@
   * wen `w.en` : `w.en.i` `d.est.w.en.i-er`
     * : **mehr**.~~oder~~.wen*ig*er `m.w.en.i-er` × `m.w`
     * *nichtsdestoweniger* `-ts.o`
-* *w****eis*** `(.eis)` : @arbeitsweise @ausnahmsweise `be.eis` `be.eis.bar` `be.eis.iaL` `er.eis` @glücklicherweise `hn.eis` `.ob.eis.e` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
+* *w****eis*** `(.eis)` : `Ts.eis.e` @ausnahmsweise `be.eis` `be.eis.bar` `be.eis.iaL` `er.eis` @glücklicherweise `hn.eis` `.ob.eis.e` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
   * : *darauf* *hin*<i></i>*w****eis***en `dar-AU hn.eis` ~ `dar-AU-n`
   * : *ich* *muss* *darauf* *hin*<i></i>*w****eis***en `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
   * -*w****eis***e `.eis.e` → arbeit glück nehm
@@ -3203,8 +3200,7 @@
 * ***zeig*** `.eig`
 * **zeih** → verzeih bezichtig
 * zeil `z.eil`
-* ***zeit*** `T` : `T.UNG` `u-er-er.T` `(I)r.let-T` `IN,(-st)-T`
-  * : *arb****eit***s***zeit*** `(T)-s.T` ~ `Ts.T`
+* ***zeit*** `T` : `T.UNG` `Ts.T` `u-er-er.T` `(I)r.let-T` `IN,(-st)-T`
   * . `fra-e.T` `O.eNGR.T`
 * zend `z.ed` : `tra.z.ed.eNT`
 * zent `zet` : `zet.er`
@@ -3285,6 +3281,9 @@
   * ` × `
   * ` ~ `
   * ` * `
-  * * :
+  * ` ≈ `
+  * * ~ 
+  * * : 
   * * !
+  * * . 
 
