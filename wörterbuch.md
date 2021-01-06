@@ -357,13 +357,13 @@
 * *die* `I`
   * **d**ass.*die* `d.I` ! `d I` ≠ **d**ass.*ich*
   * *für*.*die* `f.I` ~ `fI`
-* **dien** `di` : `di.ed` `di-t.e` `di.bar.T` `be,di` `E,di`
+* **dien** `di` : `di.ed` `di-t.e` `di.bar.T` `di.L` `be,di` `E,di`
   * : **dien**er `di-er` ! `di.er`
-  * : **dien***lich* `di.L` ! `d.in.L` ≠ **dienst***lich*
-  * **dienst** `di` : `di.L` `.in:di.L` `E,di` `wer.d.i` @i
-    * : *außen***dienst**, *außer*.**dienst** `.auss,di`
-    * : *inner***dienst***lich* `.i-d.i-L` ! `.in.d.i-L`
-    * : **kund**en**dienst** `ku,di` ~ `ku:d.i`
+  * *dienlich* `d.in.L` ≠ dienstlich
+  * → dienst
+* **dienst** `di` : `di.bar.T` `di.f.i` `di.L` `be,di.et` `E,di` `E,di-ol` `.auss.d.i` `.auss.d.i-L` `.in.d.i` `.in.d.i-L` `wer.d.i` `.auss,di` `.im,di` `ku:d.i` ← dien
+  * *dienstunfähig* `di.UN`
+  * *im.dienst* `.im.d.i`
 * *dies* `.iS` : `.iS.em` `.iS-er` `.iS-es` `.iS:ma`
     * : *aus*.*dies*em `.s.iS.em` * `.s-S` STS
 * **digit** `di` : `di.al` `di.al.ir-UNG`
@@ -421,7 +421,7 @@
   * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
 * **dring** `dri` : `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
   * **drang** `dra` : `dra.Ol` `dra.s.al`
-    * *drang* `dr.ang` : `dr.ang-Ol` `dr.ang.s.al` ≠ dadurch
+    * *drang* `dr.ang` : `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
     * **dräng** `drä` STS : `dr.el` `be.drä` `be.dr.is` `E.drä` `E.dr.UNG`
       * *dräng* `dr.eng` : `dr.eng.el`
       * *dräng* `dr` : `be.dr` `E.dr`
@@ -592,7 +592,7 @@
       * : **ko**e**f**izi*ent* `ko.e-f.eNT` ! `ko.e-f.ent`
     * : o**f**iz `.o-f` : `.o-f.ieL`
   * *fakt* `fat` : `fat.ur.a`
-    * **fekt** `f` : `.a-f` `.e-f` `.e-f-Ol`
+    * **fekt** `f` : `.a-f` `.e-f` `.e-f-ol`
       * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
       * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
       * : **per**<i></i>**fekt** `p.f` ~ `p.fet`
@@ -721,7 +721,8 @@
     * ~ ***füg*** `.üg` `G.üg` `Z.üg` `Z.Sa.üg`
 * fug `f.ug`
   * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
-* -*fühl*- `Ül` : `f.ül` `b.e-Ül` `G-Ül` `G-Ül,(g)` `G-Ül-Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `t.uch-Ül-UNG` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül` @Ü
+* -*fühl*- `Ül` : `f.ül` `b.e-Ül` `G-Ül` `G-Ül,(g)` `G-Ül.Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `t.uch-Ül-UNG` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül` @Ü
+  * *gefühlvoll* `G-Ü.Ol`
   * *tuchfühlung* `tu-Ül-UNG`
 * **fuhr** `fu` : `fu-e` `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * *fuhre* `fu.e`
@@ -2169,8 +2170,8 @@
   * sieh `s.ih`
   * sah `s.ah`
   * **sicht** `si` STS
-    * : `si.bar` `si.L` `(.an)si` `(.S)si` `(.S)si.os` `(N)si` `(UN.N)si.i-T` `(O)si` `(UN.O)si.i` `(Ü)si` `.of,si.L`
-    * : `G,si` `an-G,si` `(.ab)si` `(.ab)si.L` `be,(.ab)si.i` `(AU)si` `be,(AU)si.i` `(be)si.i` `si,u` STS
+    * : `si.bar` `si.L` `.an,si` `.S,si` `.S,si.os` `N,si` `UN.N,si.i-T` `O,si` `UN.O,si.i` `Ü,si` `.of,si.L`
+    * : `G,si` `an-G,si` `.ab,si` `.ab,si.L` `be.ab,si.i` `AU,si` `be.AU,si.i` `be,si.i` `si,u` STS
     * : `(rÜ)si` `(rÜ)si.os` `(rÜ)si,(.e)`
     * -*s****i****cht*
       * ab- `.ab-i` : `.ab-i.L` `be,.ab-i.i`
@@ -2679,7 +2680,7 @@
   * : **be**<i></i>**streb**t `(be)str-t` × `(be)str`
 * streck `str.ek` : `str.ek.e`
   * : *er*strecken `(er)str.ek` ~ `(er)str`
-  * *die* **zwang**s*voll*streck*ung* `I ang-Ol.str.ek` × `I ang-Ol`
+  * *die* **zwang**s*voll*streck*ung* `I ang-ol.str.ek` × `I ang-ol`
 * **streng** `str` : `(Ü.an)str`
 * *str****eit*** `(T)`
   * *str****itt*** `(.it)`
@@ -2840,7 +2841,7 @@
 * **trau** `trau`
   * *misstrau* `ms-au` : `ms-au.um`
   * *vertrau* `E-au` : `E-au.L` `E-au,(g)` `E-au.um` `E-au-Ü.i`
-* *trauer* `trau.er` ← traur
+* *trauer* `trau.er` ≠ trauung ← traur
 * **traur** `trau` : `trau.i` `trau.i-T`
   * → trauer
 * traum `tr.aum`
@@ -2939,6 +2940,7 @@
   *viert* `vi` : `vi.el`
 * *volk*, *völk*
 * *voll* `Ol`
+  * -*voll* `-ol` → dienst drang effekt
   * *hochachtungsvoll* `ho.o`
   * *völl* `Öl`
     * *völlig* `ö`
