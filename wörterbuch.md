@@ -2294,8 +2294,9 @@
     * : *exist*enz `.ex.ez` × `.ex`
 * sit `s.it` : `s.it.ir`
   * : situat*ion* `s.it.iO` * `s.iO`
-* **sitz** `si` : `be-si` `sp,si` @-an
-  * : *vor***sitz** `O-si` ~ `O-i` : `O-i.er` `O-i.ed-er` @-×an
+* **sitz** `si` : `be,si` `O,si` `sp,si`
+  * *vor*<i></i>*s****i****tz* `O-i` : `O-i.er` `O-i.ed-er`
+  * *besitz* `be.s.i` `be-si`
   * ***sitz****ung* ⇒ *sitzung* `.iz*`
   * saß `s.ass`
   * → sass
@@ -3323,6 +3324,7 @@
 * × entfernen
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
+* @-×an
 
 ###
 
