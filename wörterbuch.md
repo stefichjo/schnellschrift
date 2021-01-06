@@ -136,7 +136,7 @@
     * *bäuerlich* `bäu.L`
 * bass `b.ass` : `(ko)tra.b.ass`
 * *bayer*, *bayern* `b.ay`
-* **be**- `b`
+* **be**- `b` @be? `be` ?
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
 * behörde ← hör
@@ -765,7 +765,7 @@
   * *frankfurt.an.der.oder* `fra,u.od-er`
 * **frau** `frau`
 * *fr****ei*** `(.ei)` : `(.ei).H`
-* **fremd** `fr.e` : `.es.fr` @e
+* **fre**md `fr` : `fr.e` `.es.fr`
 * fr**eu** `eu` : `eud.e` `er,eu-L`
 * *freund* `.eund` : `.eund.in` `.eund.FT` `b.eund.et`
   * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L` : `UN.eu-L`
@@ -828,7 +828,7 @@
   * : *da*<i></i>*gegen* `.a-g` ! `da.g` ≠ schlag
   * *geg****end*** `(.ed)` : `.um.ed`
   * *gegn*er `g.er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
-* **ge**h `g.e` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O-Ü.g` `w.T-g.ed` `Z.gru.g` @.e @be?
+* **ge**h `ge` : `ge.ed` `.S.ge` `N.ge.ed` `eNT.ge` `E.ge` `O-Ü.ge` `w.T-ge.ed` `Z.gru.ge`
   * → ging
 * **geist** `g.ei`
 * geld `g.ed` : `g.ed-er` `g.ed,(.e)` `b.ar.g.ed` `.ös.e-g.ed`
@@ -901,7 +901,7 @@
 ### [GR](#wörterbuch)
 
 * ***grad*** `.ad`
-  * **gress** `gr.e` ⇒ *gress* `gr` : `(ko)gr` `(o)gr.iv` `(o)gr.iO` `(r)gr` @e
+  * → gress
 * gramm ← graph
 * **graph** `gra` : `gra.ik` `gra.i` `gra.it` `f.on.gra.i` `t.e-gra`
   * : **bi**o**graph**ie `bi.gra.I` ! `b.i.o+gra.I` ~ `b.i-o+gra.I`
@@ -921,6 +921,7 @@
 * *grenz* `GR` : `GR.en` `GR-er` `GR.os` `(.an)GR` `(b)GR` `UN-b.GR`
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
+* **gress** `gr` : `(ko)gr` `(o)gr.iv` `(o)gr.iO` `(r)gr` ← grad
 * *groß* = **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `gr.h-er` `M.gr.H` ≠ grob
   * **größ** `grö` : `grö.e`
     * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
@@ -934,7 +935,7 @@
 
 ## [H](#wörterbuch)
 
-* **hab** `ha` : `G.ha` `gu.ha` `im.IN.ha-er`
+* **hab** `ha` : `G.ha` `gu.ha` `im.IN.ha-er` ← heb
   * : *ich*.**hab** `.I.ha` ~ `.I-a`
   * : *wir*.**hab** `wr.ha` ~ `wr-a`
   * *hast* `ha`
@@ -1002,16 +1003,13 @@
   * : **hoh**es.***haus*** `ho.aus` ~ `ho-au`
   * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
     * : *ge****häus***e `G.äus.e` ! `G.h.äus.e`
-* heb ← hab
-* **heb** `h` : `Ü.h.L`
-  * : **heb**e `h.e` ! `h.eb.e` ≠ hebt STS
-  * ~ he~~b~~ `h.e` : `.ab.h.e` `.an.h.e` `AU.h.e` `b.h.e` `er.h.e` @e
-  * : **er**<i></i>**heb***lich* `er.h.L` × `er.L`
-  * **heb**el `h.el` STS
-    * : schalt**heb**el `schat.h.el` ! `schat.h.eb.el`
-  * **hob** `ho` STS
-    * ! `h.ob` : `AU.h.ob` `er.h.ob`
+* heb `h.eb` : `h.eb.e` `h.eb.el` `schat.h.eb.el`
+  * *heb* `h.e` : `.ab.h.e` `.an.h.e` `AU.h.e` `b.h.e` `er.h.e` `er.h.e-L` `Ü.h.e-L`
+  * *erheblich* `er.L`
+  * hob `h.ob` : `AU.h.ob` `er.h.ob`
+  * hub `h.ub`
   * hab `h.ab` : `er.h.ab`
+  * → hab
 * *heidelberg* `h.eid.b`
 * ***heim*** `.eim`
   * *heim****at*** `(.at)`
@@ -1065,8 +1063,8 @@
 * *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er`
   * : *liter*ar*histor***isch** `li.ar,hi-o.i` ! `l.it-er.ar,hi-o.i`
 * **hoch** `ho` : `ho.bu` `ho,(g)` `ho-t.ig` `s.ho`
-  * **höch** `hö` : `hö-t`
-  * : **höch**stens `hö-t.e-s` ~ `hö°`
+  * **höch** `hö` : `hö-t` @-st
+  * : **höch**stens `hö-t.e-s` ~ `hö°` @-st
   * **hoh**, **ho** `ho`
     * : **ho***heit* `ho.H` * `o-H` : `(.es).o-H`
     * **höh** `hö` : `hö-er` `hö-er-er` `hö.e` `hö,(er)` `hö,u` `hö,u.e` `.an.hö.e` `er.hö` `.ei-e 3,(g) er.hö`
@@ -1210,6 +1208,7 @@
       * akzent `.ak.zet` ! `.ak.z.eNT`
 * *kan****al*** `(.al)` : `(.al).iO`
 * kann → könn
+* **kann** `ka` : `kat.e` `b.kat` `G.kat` ← kenn
 * *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
   * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
     * : *kapit*al `aP.al` × `aP`
@@ -1234,11 +1233,10 @@
   * kehr `k.er` : `k.er.icht` `b.k.er`
     * *kehricht* `k.er.i`
 * -***keit*** `T` ← heit
-* **kenn** `k` : `b.k` `b.k.is` `er.k` `er.k.is`
-  * *kenn* `k.e` @e
-  * kenn `k.en` : `k.en.e` ≠ kennt
-  * : aner**kenn**en `.an.er.k` × `.an.er`
-  * **kann** `ka` : `kat.e` `b.kat` `G.kat`
+* **ke**nn `ke` : `b.ke` `b.ke.is` `er.ke` `er.ke.is` `.an.er.ke`
+  * *kenn* `k.en` : `k.en.e` ≠ kennt
+  * *anerkennen*`.an.er`
+  * → kann
 * **kind** `ki` : `ki.H` `ki.i` `ki.L` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
   * *kindisch* `k.id.i`
   * *kindlich* `k.id.L` ≠ wirklich
@@ -1646,9 +1644,7 @@
     * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG`
   * : mod*ifiz*ieren `m.od.if.ir` ! `m.od.if.iz.ir`
 * ***mög*** `.ög`
-  * ~~*mög*~~*lich* `(L)` : `(o)ba.L` `(o)w.T.L`
-    * : ***mög****lich*st `(L)-st` * `(L)-t`
-    * : *so*.weit.~~wie~~.~~*mög*~~*lich* `(o)w.T-L`
+  * ~~*mög*~~*lich* `(L)` : `(L)-t` `(o)ba.L` `(o)w.T.L` @-st
   * ***mag*** `.ag`
     * → macht
   * → mocht
@@ -1956,9 +1952,8 @@
   * **prakt** `pra` : `pra.i` `pra.ik.en` `pra.ik.aNT` `pra.ik.aNT.in` `pra.ik-er` `pra.ir`
   * pragm `pr.agm` : `pr.agm.i` `pr.agm.ik-er` `pr.agm.iS`
 * *pr****eis*** `(.eis)`
-* press → prim
-* prim
-  * **press** `pr.e` ⇒ *press* `pr` : `pr-e` @e
+* **press** `pr` : `pr-e` ← prim
+* prim → press
 * prinz → prinzip
 * prinzip → zip
 * *prior* `pri` : `pri.ät`
@@ -2011,8 +2006,8 @@
   * *rationier* `r.at.ir`
 * rätsel ← rat
 * rauch `r.auch`
-* ***raum*** `.aum`
-  * : welt***raum*** `wet.aum` ~ `w.aum`
+* ***raum*** `.aum` : `h.ub.aum` `wet.aum`
+  * *weltraum* `w.aum`
   * ***räum*** : `.äum` : `.äum.e`
 * **re** `r` : `r.al` `r.al.ir` `r.al.ät`
   * *realisieren* `r.ir`
@@ -2823,7 +2818,7 @@
   * *trag* `tra`
   * *vertrag* `E-a`
   * *direktübertragung* `di-t-Ü:tra
-  * -**träg**- `tr.e` STS : `tr.eg` `tr.egt` `tr.eg.e` `tr.eg-er` `tr.eg.H` `(.an)tr.e` `(AU)tr.e` `(b)tr` `(b)tr.e` `(.ei)tr.e` `UN-er.tr.L` `ach.tr` `ach.tr.er.i` `ach.tr.L` `ach.tr.L.T` `(E)tr` `(E)tr.L` `(E)tr.L.T` `UN-E.tr.L.T` @ä-e
+  * -**träg**- `tr` : `tr.eg` `tr.egt` `tr.eg.e` `tr.eg-er` `tr.eg.H` `(.an)tr.e` `(AU)tr.e` `(b)tr` `(b)tr.e` `(.ei)tr.e` `UN-er.tr.L` `ach.tr` `ach.tr.er.i` `ach.tr.L` `ach.tr.L.T` `(E)tr` `(E)tr.L` `(E)tr.L.T` `UN-E.tr.L.T` @ä-e
     * *nachträgerisch* `ach.tr.eg-er.i`
     * *nachträglich* `ach.L` : `ach.L.T`
     * *verträg* `(E)tr.e`
@@ -3517,7 +3512,6 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 
 ## TODOs
 
-* @e - alleinstehendes Stammende, nach Abstrich : `.e` : `k.e` `fr.e` `tr.e`
 * @i - `.i` statt `-i`
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
