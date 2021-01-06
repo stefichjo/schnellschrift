@@ -139,7 +139,7 @@
 * **be**- `be`
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
-* **be**<i></i>**ginn** : `be,gi`
+* **be**<i></i>**ginn** : `be,gi` ← ginn
   * *beginn* `be.in`
   * **gann** `ga` : `be.ga`
   * **gonn** `go` : `be.go`
@@ -1961,7 +1961,6 @@
 * *privileg* `pri.eg`
 * pr**o**- `o`
 * **prob** `.ob` : `.ob.e` `.ob.ir` `G.obt` @@ er.obt g.ob.e g.en.ob.e hau.ob.e
-
 * *prob****lem*** `(l.em)` : `(l.em).ik`
 * **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
 
@@ -3283,235 +3282,12 @@
 * **zwing** `.ing` : `be.ing`  `er.ing`
   * **zwang** `ang` : `ang,eu` `v.is.um.ang`
   * **zwung** `.ung` : `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H`
-
 * **zw**ischen `zw` : `da.zw` `(I)zw`
-
-## Verkehrsschrift und Schnellschrift (Eilschrift und Redeschrift)
-
-In der *Kurzschrift* können Kurzformen andere Kurzformen verschatten. Im Groben und Ganzen gliedert sich hierdurch die *Kurzschrift* in *Verkehrsschrift* und *Schnellschrift*.
-
-| Verkehrsschrift | | | Schnellschrift | |
-|:-|:-|:-|:-|:-|
-| *mit* | `M` | | | |
-| *mitt*el | `M.el` | | *mittel* | `-t.el` |
-
-Auch innerhalb der *Schnellschrift* können Kurzformen andere Kurzformen verschatten. Im Großen und Ganzen gliedert sich hierdurch die *Schnellschrift* in *Eilschrift* und *Redeschrift*.
-
-| Eilschrift | | | Redeschrift | |
-|:-|:-|:-|:-|:-|
-| *auf****gab***e | `AU.ab.e` | | *auf*~~gab~~e | `AU.e` |
-
-### Kurzschreibregeln
-
-#### Verbendungen
-
-| Verkehrsschrift | | | Schnellschrift | |
-|:-|:-|:-|:-|:-|
-| *ich* *kann* sagen | `.I k s.ag.en` | | *ich* *kann* sagen | `.I k s.ag` |
-
-#### Personalpronomen
-
-| Eilschrift | | | Redeschrift | |
-|:-|:-|:-|:-|:-|
-| *ich* **bin** | `.I bi` | | *ich*.**bin** | `(I)bi` |
-| *ich* ***glaub***e | `.I .aub` | | *ich*.gl**au**be | `.I-au` |
-
-### Auslassen von Endungen
-
----
-* fährt `fet` *(mit Endung)*
-* *sie* **hat** *disziplinier*t *dis*<i></i>*kut*iert `sI ha ds.irt ds-u.ir` *(Adverb-t vs. Partizip-t)*
-* *dis*<i></i>*kut*iert *wird* `ds-u.irt.wr`
-
-Infinitive werden im Satz ohne die Endung *-en* geschrieben. Substantiviert wird *-en* wieder geschrieben. Substantive auf *-en*, die nicht auf einer Grundform ohne *-en* basieren, werden ohne *-en* geschrieben.
-
-* **bod**en `bo`
-* magen `m.ag`
-* rahmen `r.am`
----
-
-### Auslassen der Vorlaute "l", "n" und "r"
-
-In der Schnellschrift werden die Vorlaute "l", "n" und "r" nicht geschrieben.
-
-| | | | | | | | |
-|:-|:-|:-|:-|:-|:-|:-|:-|
-| geld | `g.ed` | | bank | `b.ak` | | stark | `st.ak` |
-
-Ausnahmen werden in Klammern geschrieben und müssen als Kŭrzel gelernt werden.
-
-* *alt* = (alt) `.alt`
-* *arg* = (arg) `.arg`
-* *art* = (art) `.art`
-* *bänd* = (bänd) `b.änd`
-* *ent*e = (ent)e `.ent.e`
-
-Verkehrsschriftliches "ls" und "ns" haben ein linkswendiges "s". In der Schnellschrift bleibt "s" nach nicht-geschriebenem "l" und "n" ebenfalls linkswendig.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| hals | `h.a-s` | | insel | `.i-s.el` |
-
-In Wörtern ohne Anlaut (Selbstlaut + "ls") wird das "s" nach "l" jedoch wieder rechtswendig.
-
-| | |
-|:-|:-|
-| elsass | `.es.ass` |
-
-Nach nicht-geschriebenem "l", "n" und "r" bleibt auslautendes "t" 2-stufig (Aufstrichzeichen). Der Inlaut wird mit dem Anlaut angedeutet.
-
-| | | | | | | | |
-|:-|:-|:-|:-|:-|:-|:-|:-|
-| kalt | `kat` | | bunt | `but` | | wort | `wot` |
-
-In Wörtern ohne Anlaut (Selbstlaut + Vorlaut + "t") wird das "t" nach Vorlaut jedoch wieder 1-stufig (Abstrichzeichen).
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| ält | `.ät` | | ort | `.ot` |
-
-### Kürzung
-
-
-#### Ausfall
-
-Zwischen Vor- und Nachsilbe dürfen ungekürzte Wortstämme oder verkehrschriftliche Kurzformen ausfallen.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| *auf*merk*sam* | `AU.m.ek-Sa` | -×- | *aufmerksam* = *auf*~~merk~~*sam* | `AU-Sa` |
-| *auf*merk*sam*<i></i>*keit* | `AU.m.ek-Sa.T` | -×- | *aufmerksamkeit* = *auf*~~merksam~~*keit* | `AU.T` |
-| *ver*ein***bar***en | `E.N.bar` | -×- | *vereinbar*en = *ver*~~ein~~***bar***en | `E.bar` |
-
-Nach Vorsilbe dürfen auch gekürzte Wortstämme ausfallen.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| *ant*wort | `aNT.wot` | ⇒ | *antwort* = *ant*~~wort~~ | `aNT` |
-| *er***folg** | `er.fo` | ⇒ | *erfolg* = *er*~~folg~~ | `er` |
-| *hin****sicht*** | `hn.icht` | ⇒ | *hinsicht* = *hin*~~sicht~~ | `hn` |
-| **rück*****sicht*** | `rÜ.icht` | ⇒ | *rücksicht* = **rück**~~sicht~~ | `rÜ` |
-| ur***teil*** | `ur.eil` | ⇒ | *urteil* = ur~~teil~~ | `ur` |
-
-### Schnellschrift mit Verschattung
-
-Schnellschriftliche Kurzformen dürfen einander verschatten, wenn die verschattende Kurzform *spezifischer* ist als die verschattete Kurzform.
-
-#### Inlautkürzungen
-
-Nach Vorsilbe können Inlautkürzungen Anlautkürzungen verschatten, müssen aber als eigenständiges Kürzel gelernt werden.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| emp**find**en | `.emp-fi` | ⇒ | *empfind*en = emp*f****i****nd*en | `.emp-i` |
-| *unter***such**en | `UNTER.su` | ⇒ | *untersuch*en = *unter*<i></i>*s****u****ch*en | `UNTER-u` |
-
-#### Scheinnachsilben
-
-Kürzungen von Scheinnachsilben können andere Kurzformen verschatten, müssen aber als eigenständiges Kürzel gelernt werden.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| **jahr** | `ja` | | | |
-| im **jahr**e | `.im ja-e` | ⇒ | im.***jahr***e | `.im.ar.e` |
-
-#### Kürzelzeichen
-
-Kürzelzeichen gelten in diesem Sinne immer als *spezifisch*. Beispielsweise darf das (hochgestellte) Kürzelzeichen *bestimm*en `b°-i` die Auslautkürzung ***stimm***en `.im` verschatten. Erstere darf wiederum durch das Kürzelzeichen *mitbestimm*en `M°` verschattet werden.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| **stimm**en | `.im` | | | |
-| **be**<i></i>**stimm**en | `be.im` | ⇒ | *bestimm*en | `b°-i` |
-| *mit***be**<i></i>**stimm**en | `M.be.im` | ⇒ | *mitbestimm*en | `M°` |
-
-#### Kürzung auf Wortende
-
-Kürzungen auf das Wortende gelten wie Kürzelzeichen als *spezifisch* und dürfen daher andere Kurzformen der Schnellschrift verschatten.
-
-| | | | | |
-|:-|:-|:-|:-|:-|
-| *arb****eit***                | `(T)`       | | | |
-| *arb****eit***s*los*          | `(T)-l.o`   | ⇒ | *arbeits****los***    | `(l.os)`            |
-| **ding**                      | `.ing`      | | | |
-| *all*er**ding**s              | `.al.ings`  | ⇒ | *allerdi****ng***s    | `(ng)-s`            |
-| **be**<i></i>**ding**en       | `be.ing`     | ⇒ | *bedi****ng***en      | `(ng)`              |
-| ***flücht***en                | `.ücht`     | | | |
-| ***flücht***<i></i>***ling*** | `.ücht.ing` | ⇒ | *flüchtli****ng***    | `(ng)`              |
-| *gegen*                       | `g`         | | | |
-| *gegen*d                      | `g.d`       | ⇒ | *geg****end***        | `(.ed)`             |
-| ***heim***                    | `.eim`      | | | |
-| ***heim***at                  | `.eim.at`   | ⇒ | *heim****at***        | `(.at)`             |
-| **ka**rt                      | `ka`        | | | |
-| **ka**rtell                   | `ka.ell`    | ⇒ | *kart****ell***       | `(.ell)`            |
-| **land**                      | `la`        | | | |
-| **land**es                    | `la.es`     | ⇒ | *land****es***        | `(.es)`             |
-| ***mög***en                   | `.ög`       | | | |
-| ***mög****lich*               | `.ög.L`     | ⇒ | ~~*mög*~~*lich*       | `(L)`               |
-| **min**                       | `mi`        | | | |
-| **min**ute                    | `mi.ut.e`   | ⇒ | *min****ut***e        | `(.ut).e` ⇒ `.ut.e` |
-| *nach*                        | `ach`       | | | |
-| *näch*st                      | `echst`     | ⇒ | *näch****st***        | `(-st)`             |
-| *nach****bar***               | `ach.bar`   | ⇒ | ~~*nach*~~***bar***   | `(bar)`             |
-| ***not***                     | `.ot`       | | | |
-| ***not***iz                   | `.ot.iz`    | ⇒ | *not****iz***         | `(.iz)`             |
-| **reg**                       | `r`         | | | |
-| **reg**el                     | `r.el`      | ⇒ | *reg****el***         | `(.el)`             |
-| **reg**ieren                  | `r.ir`      | ⇒ | *reg****ier***en      | `(.ir)`             |
-| ***stat***                    | `.at`       | | | |
-| ***stat****ist*               | `.at.i+st`  | ⇒ | ~~*stat*~~*ist*       | `(.i+st)`           |
-
-
----
-
-## …
-
-### Aufheben von Kurzformen
-
-Das Aufheben von Kurzformen verschattet diese. Das Aufheben von Kurzformen wird daher wie eigene Kürzel behandelt. Winklers
-
-| | |
-|:-|:-|
-| *arb****eit*** | `(T)` |
-| *ge*<i></i>*arbeit*et | `G.ab.T` |
-| be*arbeit*en | `b.ab.T` |
-| *ver*<i></i>*arbeit*en | `E.ab.T`
-
-### …
-
-Verändert sich eine Kurzform in einer Zusammensetzung, so wird diese in diesem Wörterbuch als *Kürzel* aufgeführt. (~)
-
-* di**rekt** `d.i-r` ~ *direkt* = **di**~~rekt~~ `di`
-* ***viel*****leicht** `.il-l.ei` ~ *vielleicht* = **v**iel*l****ei****cht* `v.ei`
-
-### Nachsilben und Endungen
-
-In Fremdwörtern werden Nachsilben in der Regel nur am Wortende geschrieben.
-
-Die Nachsilbe *-is* fällt aus. Winklers schreibt *-is* jedoch in manchen Fällen mit.
-
-* ***klim***atisieren `.im.ir` ! `.im.is.ir`
-* **krit**isieren `kri.ir` ! `kri.is.ir`
-* *polit*isieren `it.ir` ! `it.is.ir`
-
-Besteht Verwechslungsgefahr mit einem anderen Wort ohne *-is*, sollte *-is* mitgeschrieben werden.
-
-* *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
-
-
-### @-er
-
-Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleinstehend mit *-er* geschrieben.
-
-* ***wass***er `was-er`
-  * ***wass***er*werk* `was.ek`
-
-* Adverben/Präpositionen haben auch alleinstehend kein "-er": besser, außer
-
-### Präposition + Infinitiv mit zu
 
 ## TODOs
 
+* @@
+* @-er Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleinstehend mit *-er* geschrieben.
 * @i - `.i` statt `-i`
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
@@ -3543,48 +3319,8 @@ Substantive auf *-er* für die es keine Form ohne *-er* gibt, werden nur alleins
 * @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
 * @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
 
-### Stufen der Schnellschrift
-
-1. Verschattung: Verschattet werden dürfen nur Kürzel aus der Verkehrsschrift.
-
-* dazu `da.Z` `.a-Z`
-
-2. Verschattung: Verschattet werden dürfen Kürzel aus der Schnellschrift durch
-
-) Kurzformen für abgeleitete Wörter
-
-* seite `T.e`
-* seit `s.T`
-
-) "Auslautkürzel" (auf Oberlinie)
-
-* länder `(d-er)`
-
-) "Endungskürzel"
-
-* verkehr `E.er`
-* -verkehr `E`
-
-* schrift `.ift`
-* -schrift `i`
-
-) Inlautandeutungen auf Vorsilben
-
-* ausdruck `.S.dru` `.S-u`
-
-) Ausschreibungen
-
-* führ `.ür`
-* führ `f.ür`
-
-) alternative Kurzformen
-
-* führ `.ür`
-* führ `-Ür`
-
-) alles andere
-
 ###
 
 Sowohl Anstellung (`(E)tra`) als auch Hochstellung (`(N).FT`) verwenden Klammern. Unterscheidungsmerkmal ist der Punkt (`.`) nach den Klammern (`( ... ).` oder ein Bindestrich (`(ng)-s`). Es gibt aber Anstellungen mit Bindestrich. :O
 
+`T-` -> `T.`
