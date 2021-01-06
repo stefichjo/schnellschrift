@@ -90,7 +90,7 @@
 * *atlant* `.atl` : `.atl.i`
   * *atlant*ik `.atl.ik` ~ `.atl-t.ik`
 * atlas `.atl.as`
-* *at****om*** `(.om)` : `(.om).ar`
+* *at****om*** `(.om)` : `(.om).ar` `(.om).ko`
 * auch `.auch` : `.auch,i`
   * -*auch* → aber oder sondern
 * *auf* `AU` : `AU.ei-ad-er` `.e-AU` `(n)AU`
@@ -125,7 +125,7 @@
   * bier `b.ir` STS : `G.b.ir`
   * bar `b.ar` : `G.b.ar`
     * -***bar*** `bar`
-    * bärd `b.äd` STS * `b.ed` : `G.b.ed.e`
+    * bärd `b.ed` : `G.b.ed.e`
   * bor `b.or` : `G.b.or`
   * burt `but` : `G.but`
   * **behr** `b` : `eNT.b`
@@ -1323,8 +1323,8 @@
   * **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z.kÜ.i`
 * kunst `kust` ← könn
   * *künst* `kYst` : `kYst.e` `kYst.L` `kYst.l.er` ⇒ `kYst.er` `kYst.er.i` `G.kYst.elt`
-* kur `k.ur`
-  * : pr**o**kurist `(o)k.ur.ist` * `(o)k.ist`
+* kur `k.ur` : `(o)k.ur.ist`
+  * *prokurist* `(o)k.ist`
 * kurb `k.ub` : `k.ub.el` `.an.k.ub.el`
 * **kurr** `ku`
   * *konkurr* `ko-u` : `ko-u.eNT` `ko-u.ez` `ko-u.ir`
@@ -1343,9 +1343,9 @@
 * **kraft** `kra` : `kra.wa` `M.al.kra`
   * : **kraft***wagen* `kra.wa`
   * **kräft** `kr` : `kr.e` `kr.i` `be.kr.i` `M.al.kr.en` `eNT.kr.et`
-* **krank** `kra` : `kra.ha` `er.kra`
+* **krank** `kra` : `kra.ha` `kra.H` `er.kra`
   * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa` ≠ kraftwagen
-  * : **krank***heit* : `kra.H` * `a-H` = schaffung
+  * *krankheit* `a-H` = schaffung
   * **kränk** `kr` : `kr-st` `kr.L` `kr.L.T`
     * ! `kr.ek` : `kr.ek-er`
 * kranz `kr.az`
@@ -1360,9 +1360,9 @@
 * **kret** `kr` : `ds.kr.iO` `ko.kr` `ko.kr.ir`
 * ***kreuz*** `.euz`
 * **krieg** `kri` : `wet.kri`
-* **krim** `kri` : `kri.I` `kri.i-aL` `kri.i-eL`
-  * : **krim***inal*ität `kri.i-aL.ät` × `kri.ät`
-  * : *dis***krimin**ier `ds,kri.ir` * `ds-i.ir`
+* **krim** `kri` : `kri.I` `kri.i-aL` `kri.i-aL.ät` `kri.i-eL` `ds,kri.ir`
+  * *dis*<i></i>*kr****i****min* `ds-i` : `ds-i.ir`
+  * *kriminalität* `kri.ät`
 * **krit** `kri` : `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `kri.ir` `UN,kri.i`
 
 ## [L](#wörterbuch)
@@ -1409,10 +1409,9 @@
     * ! `l.if`
   * ***läuf*** `.äuf` : `G.äuf.i`
     * : -*läufig* `eu` : `O,eu` → zwang
-* laut `l.aut` : `l.aut-er`
-  * : *ver*lauten `E.l.aut`
-    * : *ver*laut***bar***en `E.l.aut.bar` * `E-au-bar`
-  * läut `l.äut`
+* laut `l.aut` : `l.aut-er` `E.l.aut` `E.l.aut.bar`
+  * *verlautbar* `E-au-bar`
+  * läut `l.äut` : `l.äut-er`
     * *läuter* `.äut-er`
 * leb `l.eb`
 * leer `l.er`
@@ -1548,8 +1547,8 @@
 * *mater* `ma` : `ma.I.e` `ma.iaL` `ma.iaL.iS` `ma.iaL.ist` `ma.iaL.iS.i` `ma.ieL`
   * -*mater* `.iaL` → weis
   * *matr* `ma` : `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
-* mauer `m.au-er`
-  * : schallmauer `sch.all.m.au-er` * `scha.m.au-er`
+* mauer `m.au-er` : `sch.all.m.au-er`
+  * *schallmauer* `scha.m.au-er`
 * *maxim* `m.ax` STS
   * : *maxim*al `m.ax.al` ~ `m.ax.im-a`
 * mech `m.ech`
@@ -1632,11 +1631,11 @@
 * *mitt* `M`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
   * : *kom*pr**o***mitt*ier `kom.o+M.ir` ~ `kom-p.it.ir`
-  * *miss* `ms` : `ms-o` `.e-ms-o`
-    * : *kom*<i></i>*miss*ar `ko+ms.ar` * `ko-i.ar`
-    * : *kom**miss**ion* `ko+ms-o` * `ko-i.iO` × `ko-i` : `(.om).ko`
+  * *miss* `ms` : `ms-o` `.e-ms-o` `ko+ms.ar` `ko+ms-o`
     * : *kom*pr**o***miss* `ko,(o)ms` ~ `ko-ms` × `ko-m`
     * : *trans**miss**ion* `tra.ms-o` × `tra.ms`
+    * *kom*<i></i>*m****i****ss* `ko-i` : `ko-i.ar` `ko-i.iO`
+      * -*kommission* `ko-i` → atom
 * mob `m.ob`
   * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
@@ -1673,10 +1672,10 @@
   * : museum `m.us.e-um` × `m.us`
   * *musik* `mu.ik` : `mu.ik-er` `mu.ik.aNT` `mu.ik.i` `mu.ik.ät` `mu.ik.i-en`
     * *musiz* `mu.iz` : `mu.iz.ir`
-* *m****üss*** `(.üss)` STS * `(yss)` `(yss)-t.e` `wr,yss` `.ir,ysst.et`
-  * : *du*.*m****üsst***est `dU,ysst.est` × `dU,ysst`
-  * : *wir*.*m****üss***en `wr,yss` * `wr.Yss`
-  * *m****uss*** `(.uss)` STS * `.uss` : `.usst.e` `dU.uss` `dU.usst.est` `.I.uss` `wr.usst`
+* *müss* `yss` `yss-t.e` `dU,ysst.est` `.ir,ysst.et` `wr,yss` @y
+  * *du.müsstest* `dU,ysst`
+  * *wir.müssen* `wr.Yss`
+  * *muss* `.uss` : `.usst.e` `dU.uss` `dU.usst.est` `.I.uss` `wr.usst`
 * *muster* `.ust`
 * ***mut*** `.ut`
   * : ***müt*** `.üt` : `gr.üt.i` `ho.üt.i` `w.eich.üt.T`
@@ -2275,11 +2274,7 @@
     * : **prä**sidium `pr.s.id.um` × `pr.um`
   * : *re*sidenz `r.s.id.ez` ~ `r.es.ez`
 * *sie* `sI`
-* siech `s.ich`
-  * sucht `s.ucht` STS * `su`
-    * -*sucht* `u` → bleich eig
-    * sücht `s.ücht` : `s.ücht.i` `s.ücht.i-er` `s.ücht.i-T`
-      * -*sücht* `-Ü`
+* siech `s.ich` → sucht
 * *siedel* `s.i-el`
 * silb `s.ib` : `s.ib-er` `s.ib-ern` `s.ib-r.i` `E.s.ib-ert`
 * silb `s.ib` : `s.ib.e` `N.s.ib.i` `m.s.ib.i` `O.s.ib.en`
@@ -2353,7 +2348,11 @@
   * *unter*<i></i>*s****u****ch* `UNTER-u` : `O.S.o=UNTER-u`
   * *ver*<i></i>*s****u****ch* `E-su`
   * *besuch* `be-su`
-* sucht ← siech
+* sucht `s.ucht` STS ← siech
+  * *sucht* `su`
+  * -*sucht* `u` → bleich eig
+  * *sücht* `s.ücht` : `s.ücht.i` `s.ücht.i-er` `s.ücht.i-T`
+    * -*sücht* `-Ü`
 * süd `s.üd` : `s.üd-Ü.e`
 * **sul** `su` : `ko-su`
   * sult `sut` : `ko-sut.ir` `ko-sut.iO`
@@ -3033,7 +3032,7 @@
     * *nichtsdestoweniger* `-ts.o`
 * *w****eis*** `(.eis)` : @arbeitsweise @ausnahmsweise `be.eis` `be.eis.bar` `be.eis.iaL` `er.eis` @glücklicherweise `hn.eis` `.ob.eis.e` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
   * : *darauf* *hin*<i></i>*w****eis***en `dar-AU hn.eis` ~ `dar-AU-n`
-  * : *ich* *m****uss*** *darauf* *hin*<i></i>*w****eis***en `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
+  * : *ich* *muss* *darauf* *hin*<i></i>*w****eis***en `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
   * -*w****eis***e `.eis.e` → arbeit glück nehm
   * *w****ies*** `(.is)` : `G.is` `.ab.is` `be.is` `er.is` `er.is.ass` `Ü.is` `.I-Ü.is`
     * ! `w.is`
