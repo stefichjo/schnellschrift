@@ -13,7 +13,7 @@
   * -*acht* `.a` : `gu.a.en` `gu.a.er`
     * *gutachten* `u.a`
     * *gutachter* `gu,er`
-* *adress* ≈ adr~~ess~~ `.adr` ← rekt
+* *adress* `.adr` ← rekt
 * *afrik* `.afr` `.afr.a` `.afr.i`
   * *afrika* `.afr`
 * ag `.ag` : `.ag.eNT` `.ag.eNT.ur`
@@ -3278,10 +3278,10 @@
 ## TODOs
 
 * entfernen
-  * ` × `
-  * ` ~ `
-  * ` * `
-  * ` ≈ `
-  * * ~ 
   * * : 
+  * ` ~ `
+  * * ~ 
   * * !
+  * ` × `
+  * ` * `
+
