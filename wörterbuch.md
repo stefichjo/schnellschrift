@@ -641,8 +641,8 @@
   * → finanz
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
-* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi` @i Aufstrich vor fi; `Z.f.i` "zufällig"
-  * ⇒ `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i`
+* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi`
+  * ⇒ `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i` @@eigtl. `.ab,fi` usw.
     * emp*f****i****nd* `.emp-i`
     * *erfinder* `er,fi-er` : `er,fi-er.i`
   * **fand** `fa` : `be.fa` `.emp-fa`
@@ -3026,7 +3026,7 @@
 * weich `w.eich` : `w.eich.ing` @ei
   * **weich** `w.ei` : `.ab.w.ei` `u-rÜ:w.ei`
   * wich `w.ich` : `G.w.ich`
-* weiger `w.eig-er` : `we.di,E.w.eig-er-er` @i
+* weiger `w.eig-er` : `we.d.i,E.w.eig-er-er`
 * weil `w.eil` : `w.eil.e`
 * ***weil*** `.eil` : `.eil.I`
 * wein `w.N`
@@ -3042,7 +3042,7 @@
 * weiß ← wiss
 * weiß `w.eiss`
 
-* -***weit***- `T` : `w.T` `w.T-er` `w.T-er.in`
+* -***weit***- `T` : `w.T` `w.T-er` `w.T-er.in` @@
   * *und.so.weiter* `&.o`
   * *weiter* `T-er`
 
@@ -3294,7 +3294,6 @@
 
 ## TODOs
 
-* @i - `.i` statt `-i`
 * @ü `-ü` statt `-Ü`, wieso?
 * @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 * @-an Engere Verbindung von Vorsilbe und Anlautkürzung bei Anlautkürzung
