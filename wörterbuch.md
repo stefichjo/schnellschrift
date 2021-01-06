@@ -2517,8 +2517,6 @@
 | [SPR](#spr) |
 |:-:|
 
-@an-aus
-
 * spalt `spat`
   * spält `spet` : `zw.i-spet.ig`
 * **spann** `spa`
@@ -2535,10 +2533,10 @@
   * ! `sp.err` : `sp.err.e` `sp.err-UNG`
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.iaL.ist.en` `sp.ieL`
   * : **spez**if `sp.if` * *spezif* `sp.ez` : `sp.ez.iO` `sp.ez.ir` `sp.ez.ir-UNG` `sp.ez.i` `sp.ez.ät`
-* **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il`
-* spint `sp.it` STS @?
+* **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il` @sp
+* spint `sp.it` STS
 * spir `sp.ir` : `sp.ir.al` `IN.sp.ir.ir` `ko.sp.ir.iO`
-* **spitz** `.iz`
+* **spitz** `.iz` @sp
 * **sp**iz `sp` : `IN.sp.ir`
   * **spekt** `sp` : `(o)sp` `r.sp`
     * : *in***spekt***ion* `IN.sp.iO
@@ -2549,8 +2547,6 @@
 
 #### [SPR](#wörterbuch)
 
-@an-aus
-
 * **sprech** `spr` : `eNt.spr` `eNT.spr.ed`
   * *entsprechend* `eNT.ed`
   * **sprich** `.ich` :  `.ich-o` @spr
@@ -2559,22 +2555,20 @@
   * **sproch** `.och` @spr
   * **spruch** `.uch` @spr
     * -*spruch* `u` → an ein wider
-    * **sprüch** `.üch`
-* *spr****ing*** `(.ing)` STS : `.ab.ing`
-  * ! `spr.ing`
-  * *spr****ang*** `(.ang)` STS
-    * ! `spr.ang`
-  * *spr****ung*** `(.ung)` : `eNT.ung` `.ur.ung` `O.ung` `zr.ung`
-    * *spr****üng*** `(.üng)` STS
-	  * : ur*spr****üng****lich* `.ur.üng.L` ~ `.ur-Ü.L`
+    * **sprüch** `.üch` @spr
+* spreng `spr.eng` STS ← spring
+* -**spring**- `.ing` : `spr.ing` `.ab.ing` @spr
+  * -**sprang**- `.ang` : `spr.ang` @spr
+  * -**sprung**- `.ung` : `spr.ung` `spr.ung.ha` `eNT.ung` `.ur.ung` `O.ung` `zr.ung` @spr
+    * -**sprüng**- `.üng` STS : `spr.üng` `.ur.üng.L` `.ur.üng.L.T` @spr
+      * *ursprüng* `.ur-Ü` : `.ur-Ü.L` `.ur-Ü.L.T`
+  * → spreng
 * sprint `spr.it` : `spr.it-er`
 
 ### [ST](#wörterbuch)
 
 | [STR](#str) |
 |:-:|
-
-@an-aus
 
 * st `st` : `IN.st.az` `ko.st.aNT` `ko.st.az`
   * ***stat***, ***staat*** `.at` : `.at.ist` `.at.ko`
@@ -2611,13 +2605,13 @@
 * start `stat`
 * statt ← steh
 * staun `st.aun` : `st.aun,(-t)` `(er)st.aun`
-* stech `st.ech`
-  * : **be**stech*lich* `be.st.ech.L` ~ `be.st.L`
+* stech `st.ech` : `be.st.ech.L`
+  * *bestechlich* `be.st.L`
   * stich `st.ich`
   * stach `st.ach`
   * stoch `st.och`
-  * steck `st.ek`
-* steck ← stech
+  * → steck
+* steck `st.ek` ← stech
 * **steh** `st` : `be.st` `b.ei+st` `E.st` `UN.S.st.L`
   * → stadt
   * → stand
@@ -2644,22 +2638,22 @@
 * *st****eu***er `eu-er` : `eu-er.L` `eu-er,i` `eu-er-UNG`
   * : um**satz***st****eu***er `.um-sa,eu-er` × `.um,eu-er` ~ `.um.eu-er`
 * stick `st.ik`
-* ***stift*** `.ift`
+* **stift** `.ift` @st
 * stil `st.il`
-* **still** `.ill` : `t.ot.ill.e` @t.o -> t.ot
+* **still** `.ill` : `t.ot.ill.e` @t.o -> t.ot @st
 * **stimm** `.im` : `.im:H`
   * *bestimm* `b°-i` : `b°-i-t`
     * : *mit*<i></i>*stimm* `M,b°-i` ~ `M°`
 * *stinkt* `st.i` : `ds.`IN.st.i` `IN.st.i-iv` `IN.st.i-l.o`  ← sting
 * stock `st.ok`
 * *stockholm* `st.ho`
-* **stoff** `.of` : `(k).of`
-  * kunst**stoff** `kust.of` * `ku-s.of` @ t~of
-* **stolz** `.oz`
+* **stoff** `.of` : `(k).of` @st
+  * kunst**stoff** `kust.of` * `ku-s.of` @@
+* **stolz** `.oz` @st
 * *stück* `Ük` : `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük` @Ü
   * : *stück* `.ük`
-* **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um`
-* **stuf** `.uf` : `.uf.e`
+* **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @st
+* **stuf** `.uf` : `.uf.e` @st
 * st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
   * *f****eier****stund*e `(ei-er),u.e` ! `fei-er,u.e`
   * *stünd* `stÜ` : `stÜ.ch.en` `stÜ.L`
@@ -2671,8 +2665,6 @@
     * : ~~arbeits~~*los*en*unter***stütz***ung* `(l.os),UNTER.stÜ-UNG` * `(l.os),UNTER-Ü.UNG` × `(.los)-Ü.UNG`
 
 #### [STR](#wörterbuch)
-
-@an-aus
 
 * **straf** `stra` : `stra-e` `stra.bu`
   * -*straf****e*** `(.e)` → geld tod ven
@@ -2700,8 +2692,8 @@
     * : distrikt `d.i:str.ikt` ~ `(ds)tr.ikt`
 * stroph `str.of`
   * : *katastroph* `k.at` : `k.at.e` `k.at.al`
-* **strom** `.om` : `.om,(er)` STS
-* **ström** `.öm` : `.öm-UNG`
+* **strom** `.om` : `.om,(er)` STS @str
+  * **ström** `.öm` : `.öm-UNG` @str
 * str**u** `u` : `IN,u-ir` `IN,u-met` `IN,u-met.al` `IN,u-met.ar.um` `IN,u-met.O` `IN,u-met.ir-UNG` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * *instrument* `IN.u-met` : `IN.u-met.al` `IN.u-met.ar.um` `IN.u-met.O` `IN.u-met.ir-UNG` `IN.u-met,bau`
   * str**u**kt `u` : `u-ur` `u-ur.ell` `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur`
@@ -2855,12 +2847,12 @@
   * *trefflich* `tr.L`
   * *eintreff* `(N)tr.ef` ≠ eintreten
   * *zusammentreff* `Z.Sa:tr.ef` ≠ zusammentreten
-  * -**triff**- `tr.i` STS : `tr.if` `(be)tr.i` `(Ü)tr.i` @an-aus
+  * -**triff**- `tr.i` STS : `tr.if` `(be)tr.i` `(Ü)tr.i` @tr
     * *triff* `.if` : `.ift` `be.ift` `Ü.ift`
   * -**traf**- `tra` : `tr.af` `(be)tra` `(Ü)tra`
     * *betraf* `(be)tr.af`
     * -**träf**- `trä` STS : `tr.äf.e` `N.trä-e` STS
-  * -**troff**- `.of` : `G.of` `.an.of` `be.of` `N.of` `Ü.of` `UN-Ü.of` @an-aus
+  * -**troff**- `.of` : `G.of` `.an.of` `be.of` `N.of` `Ü.of` `UN-Ü.of` @tr
 * ***tret*** `.et` STS
   * : *ver****tret***er `E.et-er` × `E.er`
   * ! `tr.et` : `G.tr.et`
@@ -3171,7 +3163,7 @@
 * würd `w.üd` : `w.üd.e` `w.üd.i`
 * -**wurf**- `wu` : `w.uf` `eNT.wu` `O.wu` ← werf
   * *ent*<i></i>*w****u****rf* `eNT-u` : `-G:eNT-u`
-  * -**würf**- `wÜ` : `w.üf` `eNT.wÜ.e` `-G-eNT.wÜ.e` `O.wÜ.e` `zer.wÜ.is`
+  * -**würf**- `wÜ` : `w.üf.e` `w.üf.el` `eNT.wÜ.e` `-G-eNT.wÜ.e` `O.wÜ.e` `zer.wÜ.is`
     * *entwürf* `eNT-Ü` : `eNT-Ü.e` `-G-eNT-Ü.e`
       * *gesetzentwürfe* `-G-Ü.e`
     * *zerwürfnis* `zer-Ü.is`
@@ -3191,8 +3183,6 @@
 
 | [ZR](#zr) | [ZW](#zw) |
 |:-:|:-:|
-
-@an-aus
 
 * **zahl** `za` : `za*` `ra.za*` `(.ei)tra.za*`
   * **zähl** `zä` STS : `er.zä` `UN.z.i`
@@ -3283,23 +3273,20 @@
 
 ### [ZW](#wörterbuch)
 
-@an-aus
-
 * **zwar** `zwa` : `&:zwa`
-* **zweif** `.eif` : `.eif.el`
-  * : **zweif**el*los* `.eif.el.os` ~ `.eif-s`
+* **zweif** `.eif` : `.eif.el` `.eif.el.os` @zw
+  * *zweifellos* `.eif-s`
 * *zw****eig*** `(.eig)`
 * **zweck** `zw` : `Z.iS:zw`
   * ! `zw.ek` : `zw.ek,di.L`
-* **zwing** `.ing` : `be.ing`  `er.ing`
-  * **zwang** `ang` : `ang,eu` `v.is.um.ang`
-  * **zwung** `.ung` : `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H`
+* **zwing** `.ing` : `be.ing`  `er.ing` @zw
+  * **zwang** `ang` : `ang,eu` `v.is.um.ang` @zw
+  * **zwung** `.ung` : `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H` @zw
 * **zw**ischen `zw` : `da.zw` `(I)zw`
 
 ## TODOs
 
 * @ü `-ü` statt `-Ü`, wieso?
-* @an-aus Ausweichen auf Auslaut, da Anlaut nicht wölbbar/anstellbar
 
 * @aus-an Auslautkürzung (auf -s(s) oder -r) mit Anlaut
   * Der Auslaut "ss"/"ß" wird nach rechtsrunden Zeichen eingerollt. Nach halbstufigem Zeichen wird "s" geschrieben.
@@ -3316,9 +3303,10 @@
 `be.ha.elt.w.kö-t` `be.ha.kö-t`
 
 * × entfernen
-* @--× Ausfall des Stamms (auch bereits gekürzt) nach zwei Vorsilben
-* @-×aus Andeutung einer Auslautürzung nach Vorsilbe -- :(
-* @-×an
+* ~ entfernen
+* * entfernen
+
+* hing hang
 
 * `T-` -> `T.`
 
