@@ -211,8 +211,8 @@
   * **blätt** `blä` : `bl.er` `bl.ch.en`
     * *blätter* `bl.et-er`
 * **blau** `blau`
-* **bleib** `bl.ei`
-  * **blieb** `bli` ⇒ `bl.i` @ei
+* **bleib** `blei`
+  * **blieb** `bl.i`
 * bleich `bl.eich` : `bl.eich,u` `bl.eich-Ü.i`
 * ***blick*** `.ik` : `.ik.ed` `.ikt.e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` `CH .um:ik`
   * augen***blick*** `.aug.ik` * `au.ik` : `au.ik.L`
@@ -646,7 +646,7 @@
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi`
-  * ⇒ `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i` @@eigtl. `.ab,fi` usw.
+  * ⇒ `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i` @eigtl. `.ab,fi` usw.
     * emp*f****i****nd* `.emp-i`
     * *erfinder* `er,fi-er` : `er,fi-er.i`
   * **fand** `fa` : `be.fa` `.emp-fa`
@@ -886,7 +886,7 @@
   * : ***wes***ens**gleich** `.es.gl.ei` : `.es.gl`
   * **glich** `gli` ⇒ `gl.i`
 * gleit `gl.T`
-  * glitt `gl.it` @ei
+  * glitt `gl.it`
 * ***glied*** `.id` : `M.id` `M.id-er.Sa.UNG`
   * *mit*<i></i>*gl****ie****d* `M-i`
 * ***glück*** `.ük` : `.ük.L` `.ück.L.eis.e` `be.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
@@ -1434,8 +1434,8 @@
   * *lehrling* `l.ing`
 * **leicht** `l.ei`
   * *vielleicht* `v.ei`
-* leid
-  * litt @ei
+* leid `l.eid`
+  * litt `l.it` STS
 * leih `l.eih`
   * : anleih `.an.l.eih` ~ `.an.l.ei`
   * : lieh `l.ih`
@@ -2478,17 +2478,16 @@
   * **schrak** `schra`
   * **schrock** `schro`
 * schrei `schr.ei`
-  * schrie `schr.i` @ei
+  * schrie `schr.i`
 * ***schreib*** `.eib` : `gu.eib`
-  * ***schrieb*** `.ib` @ei
+  * ***schrieb*** `.ib`
   * ***schrift*** `.ift`
     * -schr**i**ft ⇒ -*schrift* `i` : `.ab,i` `M,i` `UNTER,i` `UNTER,i-en` `Z,i` → hand kurz schnell
-* ***schreit*** `T` : `.S.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
-  * ! `schr.T` : `schr.T-ed`
-  * : ein***schreit***en `N.T` ~ `N,(T)`
-  * ***schritt*** `.it` : `rÜ.it` `rÜ.it.L` @ei
-    * ! `schr.it` : `G.schr.it`
-	  * : *fort****schritt*** `fr.it` ~ `fr-i`
+* -***schreit***- `T` : `schr.T` `schr.T-ed` `.S.T` `N.T` `GR-Ü.T-UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
+  * *einschreit* `N,(T)`
+  * -***schritt***- `.it` : `schr.it` `G.it` `fr.it` `rÜ.it` `rÜ.it.L`
+    * *fort**schr****i****tt* `fr-i`
+    * *geschritt* `G.schr.it` ≠ gebiet
 * schrift ← schreib
 
 #### [SCHW](#wörterbuch)
