@@ -139,6 +139,10 @@
 * **be**- `b` @be? `be` ?
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
+* **be**<i></i>**ginn** : `(b)gi`
+  * *beginn* `b.in`
+  * **gann** `ga` : `b.ga`
+  * **gonn** `go` : `b.go`
 * behörde ← hör
 * bei `b.ei` : `b.ei-ei-ad-er` `b.ei,i` `.a-b.ei` `.e-b.ei`
   * *bei*- `.ei`
@@ -860,14 +864,10 @@
   * *gesellschaft*er `G.FT.er` ~ `G.FT-er`
 * gesetz ← sitz
 * *gest*, *gestern* `g.est` : `g.est.r.i` `O.g.est`
-* gift ← geb
-* *gift* `git`
+* *gift* `git` ← geb
   * **blut***ver*<i></i>*gift* `blu.E,git` * `blu,E.i`
 * **ging** `.ing` : `O-Ü.ing` `u-rÜ.ing` ← geh
-* **ginn** `gi` : `b,gi`
-  * *beginn* `b.in`
-  * **gann** `ga` : `b.ga`
-  * **gonn** `go` : `b.go`
+* **ginn** `gi` → beginn
 * *giro* `gi.o`
 * **glanz** `gla` : `gla.O`
   * **glänz** `glä` : `gl.ed` `er.glä`
