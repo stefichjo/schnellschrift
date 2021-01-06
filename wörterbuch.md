@@ -251,7 +251,7 @@
 * branch `br.asch` : `br.asch.e` `(t.il),br.asch.e`
 * **brau** `brau`
 * **brauch** `brau` : `brau-t.e` `brau.bar` `brau.bar.T` `(E)brau` `(E)brau.er` `G.brau` `G.brau.eil` `ms.brau`
-  * *ver* *br****au****ch* `E-au`
+  * *ver*<i></i>*br****au****ch* `E-au`
   * **bräuch** `bräu` : `G.bräu.L`
 * **brech** `br`
   * **brich** `bri`
@@ -1412,7 +1412,7 @@
   * ***läuf*** `.äuf` : `G.äuf.i`
     * : -*läufig* `eu` : `O,eu` → zwang
 * laut `l.aut` : `l.aut-er`
-  * : *ver*lauten `E.l.aut` * `E-au` STS
+  * : *ver*lauten `E.l.aut`
     * : *ver*laut***bar***en `E.l.aut.bar` * `E-au-bar`
   * läut `l.äut`
     * *läuter* `.äut-er`
