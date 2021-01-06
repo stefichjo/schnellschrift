@@ -7,7 +7,7 @@
 
 * ab `.ab`
 * *ab****end*** `(.ed)`
-* *aber* `ber` : `ber.ma-s` `ber-aY`
+* *aber* `ber` : `ber.ma-s` `ber-aY` `ber-r`
 * acht `.acht` : `.acht-Sa` `b.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
   * -*acht* `.a` : `gu.a.en` `gu.a.er`
@@ -828,7 +828,7 @@
   * : *da*<i></i>*gegen* `.a-g` ! `da.g` ≠ schlag
   * *geg****end*** `(.ed)` : `.um.ed`
   * *gegn*er `g.er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
-* *geh* `g.e` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O-Ü.g` `w.T-g.ed` `Z.gru.g` @.e
+* **ge**h `g.e` : `g.ed` `.S.g` `N.g.ed` `eNT.g` `E.g` `O-Ü.g` `w.T-g.ed` `Z.gru.g` @.e @be?
   * → ging
 * **geist** `g.ei`
 * geld `g.ed` : `g.ed-er` `g.ed,(.e)` `b.ar.g.ed` `.ös.e-g.ed`
@@ -848,14 +848,12 @@
   * *allgemein* `.a-G` : `.a-G-Ü.i` `E.a-G.er` `.im.a-G` ≠ allein
     * *allgemeingültig* `.a-G-Ü` @Aufstrichüberkreuzung
     * *verallgemeiner* `E.al.G`
-* *ge*
-* *ge****nau*** `G.au`
+* *ge****nau*** `G.au` ← nau
 * gen `g.en` : `g.en.iaL`
 * *gener* `g.en` : `g.en.al` `g.en.ell` `g.en.iO`
   * *general* `g.en`
     * *general*- `g` → sekret streik
-* genug ← nug
-* *ge****nug*** `G.ug`
+* *ge****nug*** `G.ug` ← nug
   * *ge****nüg*** `G.üg` : `b.üg` `E.üg`
 * gern `g.en` : `s.g.en`
 * *gesellschaft* `G.FT` : `G.FT.L` `E,G.FT` `(.I).en,G.FT`
@@ -1501,12 +1499,12 @@
 
 ## [M](#wörterbuch)
 
-* **mach** `ma` : `b.kat.ma`
-  * : **schritt**<i></i>**mach**er `.it.ma-er` × `.it,(er)`
-  * *macht* `aCHT` :  `aCHT-o`
-    * *mächt* `eCHT` : `wet,eCHT.e`
+* **mach** `ma` : `b.kat.ma` `.it.ma-er`
+  * *schrittmacher* `.it,(er)`
+  * → macht
   * → makel
-* macht ← mög
+* *macht* `aCHT` : `aCHT-o` ← mach mög
+  * *mächt* `eCHT` : `wet,eCHT.e`
 * magen `m.ag`
   * mägen `m.äg`
 * **mahn** `ma` : `ma-UNG` `.an.ma` `er.ma`
@@ -1559,8 +1557,9 @@
   * *medik* `m.ed` : `m.ed.eNT`
     * : *medik*<i></i>*ament*ös `m.ed.eNT.ös` × `m.ed.ös`
     * *medizin* `m.ed`
-* **mehr** `m` : `m.H` `m.ko` `m.ma-s` `E.m-UNG` `nu:m` `(.er)m`
-  * : *nicht*.**mehr** `-t.m` ~ `-t.m` ≠ irrtum
+* **mehr** `m` : `m.H` `m.ko` `m.ma-s` `E.m-UNG` `nu:m` `(.er)m` `-t.m`
+  * *nicht.mehr* `-t.mer` STS ≠ irrtum
+    * *nicht.mehr* `tr.m` @zweistufiges-abstrich-t
   * *mehrer* `MR` : `MR.e`
   * -*mehrheit* `H` → groß stimm wieg
 * meid `m.eid`
@@ -1571,8 +1570,8 @@
   * : **meist**er `m.ei-er`
 * meld `m.ed`
 * meng `m.eng`
-* *mensch* `MSCH` : `MSCH.L` `E.MSCH.L`
-  * *mensch*<i></i>*heit* `MSCH.H` * `MSCH°`
+* *mensch* `MSCH` : `MSCH.H` `MSCH.L` `E.MSCH.L`
+  * *menschheit* `MSCH°`
 * ment `met` : `met.al.ät` `met.or`
   * *komment* `kot` : `kot.ar` `kot.at.or`
   * -*ament* `eNT` → perg temp test
@@ -1640,7 +1639,7 @@
 * mob `m.ob`
   * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
-* mocht ← mög
+* ***mocht*** `.ocht` ← mög
 * mod `m.od` : `m.od.e` `m.od.al` `m.od.al.ät` `m.od-er.or` `m.od-er.iO` `m.od.if-o` `m.od.ul` `m.od.ul.ar` `m.od.ul.iO` `m.od.us`
   * : *mod****ell*** STS `(.ell)` ~ `m.o-ell` : `(.ell).ir` ~ `m.o-ell.ir` ≠ kartell
   * : modern `m.od-er` : `UN.m.od-er`
@@ -1651,10 +1650,9 @@
     * : ***mög****lich*st `(L)-st` * `(L)-t`
     * : *so*.weit.~~wie~~.~~*mög*~~*lich* `(o)w.T-L`
   * ***mag*** `.ag`
-    * *macht* `aCHT`
-  * ***mocht*** `.ocht`
-* mo ← mov
-* *mom****ent*** `(met)` : `tr.eg.H,(met)`
+    * → macht
+  * → mocht
+* *mom****ent*** `(met)` : `tr.eg.H,(met)` ← mov
 * *mon****at*** `(.at)` : `(.at).L` `.im (g).at` `v.at.at`
   * *in*.*de****n***.*näch****st***en.*mon****at***en `(I)n,(-st).at.en` ! `(I)n,-st (.at).en`
   * *in*.~~den~~.*letzt*en.*mon****at***en `(I)let.at.en` ! `(I)let,(.at).en`
@@ -1666,8 +1664,9 @@
 * mont `m.ot` `mot` : `m.ot.asch.e` `m.ot.ir` `m.ot.ör`
 * **morg** `mo` : `mo-Ü`
   * ! morgen `m.og`
-* mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir` `.e-m.ot.iO` `.e-m.ot.i-aL`
-  * : motor `m.ot.or` × `m.ot`
+* mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir` `m.ot.or` `.e-m.ot.iO` `.e-m.ot.i-aL` ← mov
+  * *motor* `m.ot`
+* mov → moment mot
 * **müh** `mÜ` : `b.mÜ.en`
 * mult `mut` : `mut.al`
 * *münchen* `mÜ.en`
@@ -1713,6 +1712,7 @@
 * ~~nat~~ : `(.ur)` `(.Yr).L` `(.iO)` `kut.ur.iO` `(.i-aL)` `(I)t-er.i-aL`
   * *national* `(n.al)`
     * *international* `(I)t-er-a`
+* ***nau*** → genau
 * *n****aut*** `(.aut)` : `.a+str.aut` `k.osm.aut`
   * : aero*n****aut***ik `.er.aut.ik` * `.er.o-n.ik`
   * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
@@ -1745,8 +1745,7 @@
 * **neu** `neu` : `neu-st.e` `neu-er.L` `neu:H` `neu-ig.T` STS `neu-L`
 * neutr `n.eutr` : `n.eutr.a` `n.eutr.um` `n.eutr.on` `n.eutr.ir`
   * : *neutral* `n.eutr` : `n.eutr.ir`
-* *nicht* `-t`
-  * : **gar**.*nicht* `ga-t`
+* *nicht* `-t` : `ga-t` `-t.r`
 * -***nis*** `.is`
 * nie `n.i` : `n.i-ma-s` `n.i-ma`
 * *nieder*, *niedr* `ndr`
@@ -1762,8 +1761,8 @@
   * *niveau*<i></i>*los* `.iw.o-l.o` ! `.iw.o-l.os`
 * **niv**ell `n.iw` : `n.iw.ir-UNG`
   * → niveau
-* *noch* `n-ch`
-  * : *noch***mal**s `n-ch:ma-s` × `n-ch-s`
+* *noch* `n-ch` : `n-ch:ma-s`
+  * *nochmals* `n-ch-s`
 * nom `n.om` : `n.om.i-aL`
   * -***nom*** `.om` → astr aut gastr metr ök
 * nord `n.od`
@@ -1772,15 +1771,14 @@
 * ***not*** `.ot`
   * : *un*<i></i>*bedi****ng***t **not**<i></i>**wend***ig* `(UN.ng)-t .ot.w.i` ~ `UN.b.o-w.i`
   * ***nöt*** `.öt`
-* ***not*** `.ot` : `.ot.e` `.ot.ir` `.ot.ar` `.ot.ar.at`
-  * ***not***ar*iell* `.ot.ar.ieL` × `.ot.ieL`
+* ***not*** `.ot` : `.ot.e` `.ot.ir` `.ot.ar` `.ot.ar.at` `.ot.ar.ieL`
   * *not****iz*** `(.iz)`
-* nug
-  * → genug
+  * *notariell* `.ot.ieL`
+* ***nug*** → genug
 * **numer**, **nummer** `nu` : `nu.er`
 * **nun** `nu`
 * *n****ur*** `(.ur)`
-  * -*nur* `-r` : `ber-r` `-t.r`
+  * -*nur* `-r` → aber nicht
 * *nürnberg* `nÜ.b`
 * nutz ← nieß
 * **nutz** `nu`
