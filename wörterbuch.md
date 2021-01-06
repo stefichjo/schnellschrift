@@ -1960,7 +1960,8 @@
 * *privat* `pri` : `pri.ir`
 * *privileg* `pri.eg`
 * pr**o**- `o`
-* **prob** `.ob` : `.ob.e` `.ob.ir` `G.obt` @@ er.obt g.ob.e g.en.ob.e hau.ob.e
+* **prob** `.ob` : `.ob.e` `.ob.ir` `G.obt` `er.obt` `g.ob.e` `hau.ob.e`
+  * *generalprobe* `g.en.ob.e` ≠ gegenprobe
 * *prob****lem*** `(l.em)` : `(l.em).ik`
 * **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
 
