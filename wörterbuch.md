@@ -573,7 +573,7 @@
 * farb `f.ab` : `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` : `f.eb-UNG`
 * farm `f.am`
-* *f****ass*** `(ass)` STS : `AU.ass` `be.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed`
+* *f****ass*** `(.ass)` STS : `AU.ass` `be.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed`
   * *fassen* `fass` : `G.fass` `G.fass.H` `.an.fass`
   * -*auffassung*- `.ass` : `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
   * → fass
@@ -1388,14 +1388,13 @@
   * **läng** `eng` : `eng-st` `eng-st.es` `eng-st.e-s`
     * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
     * * *länger* `eNGR` : `E.eNGR`
-* *l****ass*** `(ass)` : `(I)t-er.ass`
-  * ! `l.ass` ~ `ass`
-  * × ~~lass~~ : `E.an` `.S.an`
-  * *l****äss*** `(ess)` : `E.ach.ess.i`
-    * ! `l.ess` : `l.ess.i` `fa.l.ess.i`
-    * × ~~läss~~ : `.an.L`
-  * *l****ieß*** `(.iss)` : `(I)t-er.iss`
-    * ! `l.iss`
+* -***lass***- `.ass` : `l.ass` `E.an.ass` `(I)t-er.ass` `.S .an.ass` `.S-s .an.ass`
+  * *aus.anlass* `.S.an`
+  * *aus.diesem.anlass* `.S-s.an`
+  * -***läss***- `.ess` : `l.ess.i` `.an.ess.L` `E.ach.ess.i` `fa.ess.i`
+    * *anlässlich* `.an.L`
+    * *fahrlässig* `fa.l.ess.i`
+  * -***ließ***- `.iss` : `l.iss` `(I)t-er.iss`
 * last ← lad
 * lat `l.at` : `l.at-er.al` ← fer
   * -*lateral* `.al` → bi mult
