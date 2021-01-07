@@ -1094,6 +1094,7 @@
   * *ich*. `(I)`
 * -id
   * -idier `.ir`
+  * -idor `.or`
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
 * -ier- `.ir`
 * -ifik- ← fak
@@ -1209,6 +1210,8 @@
     * zent `zet`
       * akzent `.ak.zet` ! `.ak.z.eNT`
 * *kan****al*** `(.al)` : `(.al).iO`
+* kandid `k.ad.id` : `k.ad.id.at` `k.ad.id-UR` `k.ad.ir`
+    * *kandidat* `k.ad` : `k.ad-UR`
 * kann → könn
 * **kann** `ka` : `kat.e` `be.kat` `G.kat` ← kenn
 * *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
@@ -1477,6 +1480,8 @@
   * : *liter*at `li.at` ! `l.it-er.at`
 * liter `l.it-er`
 * **lohn** `l.o` : `(T).l.o`
+* liquid `l.iqu.id` : `l.iqu.id.e` `l.iqu.ir` `l.iqu.ir-UNG` `l.iqu-o` `l.iqu.or` `l.iqu.id.ät`
+  * *liquid* `l.iqu` : `l.iqu.e` `l.iqu.ät`
 * log `l.og` : `l.og.ik` `l.og.i`
 * -***log*** `.og` → astro bio geo kata phraso polito
 * lok `l.ok` : `l.ok.ir` `l.ok.ät` `l.ok.iv`
@@ -1820,6 +1825,8 @@
   * ört `.öt` : `.öt.L` `er.öt-er`
 * ost `ost` : `w.ost`
 * *österreich* `.ö` : `.ö.i`
+* oxid `.ox.id` STS : `.ox.ir` `.ox.id-o` ← oxyd
+* *oxyd* `.ox` : `.ox.iO` `.ox.ir` ← oxid
 
 ## [P](#wörterbuch)
 
@@ -2903,7 +2910,7 @@
 
 ## [V](#wörterbuch)
 
-* *val****id*** `(.id)` `IN.id.e` `IN.id.ät`
+* *val****id*** `(.id)` : `IN.id.e` `IN.id.ät`
 * vater `v.at-er`
   * *vate****r***- `(r)` → land
   * väter `v.ät-er`
