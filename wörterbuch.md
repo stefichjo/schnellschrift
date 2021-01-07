@@ -57,9 +57,9 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
-* *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
+* *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `(T).N` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * *arbeits****los*** `(l.os)`
-  * -*arbeits*- `Ts` : `Ts.N` → amt gebiet kreis platz weis zeit
+  * *arbeits*- `Ts` : `Ts.N` → amt gebiet kreis platz weis zeit
   * *arbeitsam* `T.Sa`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
@@ -405,6 +405,7 @@
     * *produktion* `o-u-O`
 * duld `d.ud` : `d.ud.ed` `d.ud.et.e` `d.ud-Sa.T` `d.ud-UNG` `G.d.ud` `UN-G.d.ud.i`
 * *dunkel* `d.uk` : `d.uk.H` `E.d.uk` `E.d.uk-t.e`
+* dunst `d.ust` @`dust`
 * *durch* `dr` : `.a-dr`
   * *dadurch* `a-dr` ≠ ander
 * **dürf** `dÜ` : `dÜ-t.e`
@@ -414,7 +415,7 @@
   * **durf** `du` : `du-t.e` 
 * *düsseldorf* `dÜ.o`
 * dutz `d.uz` : `d.uz.ed`
-  * dutzend `d.uz`
+  * *dutzend* `d.uz`
 
 ### [DR](#wörterbuch)
 
@@ -525,10 +526,9 @@
 | [FR](#fr) |
 |:-:|
 
-* **fabr** `fa` : `fa.ik`
-  * : **fabr**izieren `fa.ir`
-  * *fabrik* `fa` : `fa.aNT` `fa.at`
-    * : *fabrik*at*ion* `fa-o` ! `fa.iO`
+* **fabr** `fa` : `fa.ik` `(arr):fa.ik` `fa.ir`
+  * *fabrik* `fa` : `fa.aNT` `fa.at` `fa-o`
+    * *fabrikation* `fa.iO`
 * facette `f.ass.et.e` ← faci
 * **fach** `fa` : `f-er` `fa.L` `fa.FT` `N.fa` `N.fa-er` `N.fa.H` `eNT.fa` `E.N.fa` `ma.i-fa`
   * *fächer* `f.ech-er`
@@ -729,16 +729,14 @@
   * *tuchfühlung* `tu-Ül-UNG`
 * **fuhr** `fu` : `fu-e` `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * *fuhre* `fu.e`
-* ***führ*** `.ür` ← fuhr
-  * : `.ür-er` `.ür.ed` `.ür-UNG`
-  * : `.S.ür` `.S.ür.L` `dr.ür` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`
-  * : `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `AU,si.ür.ed`
+* -*führ*- `.ür`
+  * : `f.ür` `f.ür-er` `f.ür-UNG` ← fuhr
+  * : `.S.ür` `.S.ür.L` `dr.ür` `dr.ürt` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`
+  * : `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `.a-z.ür` STS `AU,si.ür.ed`
   * *aus*<i></i>*f****ü****hr* `.S-ü` : `.S-ü.L`
   * *durch*<i></i>*f****ü****hr* `dr-ü` : `dr-ü-t`
   * -*führend* `-Ü.ed` → fed sicht
-  * *da*<i></i>*zu*.***führ*** `.a-z.ür` STS
-  * führ : `f.ür` `f.ür-er` `f.ür-UNG`
-  * *führ* `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `a-Z-Ür`
+  * -*führ*- `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `a-Z-Ür`
 * füll ← voll
 * **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `ach.fÜ` `Ü.fÜ` `I er.fÜ` `.icht.er.fÜ.UNG`
     * *erfüllen* `er-Ü.en`
@@ -1094,6 +1092,8 @@
   * -*iell* `.ieL`
 * *ich* `.I`
   * *ich*. `(I)`
+* -id
+  * -idier `.ir`
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
 * -ier- `.ir`
 * -ifik- ← fak
@@ -1837,6 +1837,8 @@
 * pand `p.ad`
   * → pans pass
 * ***pans*** `pas` : `.e-pas-o` ← pand
+* **pap**, **papp** STS `pa` : `pa-e` STS `pa.ir` `(ar).et:pa.ir`
+  * *pappe* `p.ap.e`
 * **par** `pa` : `pa.ad.e` `pa.ad.ir` `pa.ad.is` `.a-pa.at` `.a-pa-ur` `(r)pa.ir` `(r)pa-ur`
   * : **par**ität `pa.ät` ! `p.ar.ät`
   * : *trans***par***ent* `tra.pa.eNT` ~ `tra.pa.eNT`
@@ -1962,7 +1964,7 @@
 * pr**o**- `o`
 * **prob** `.ob` : `.ob.e` `.ob.ir` `G.obt` `er.obt` `g.ob.e` `hau.ob.e`
   * *generalprobe* `g.en.ob.e` ≠ gegenprobe
-* *prob****lem*** `(l.em)` : `(l.em).ik`
+* *prob****lem*** `(l.em)` : `(l.em).ik` `(l.em).i`
 * **prüf** `prÜ` : `(bst)-Ü.UNG` (Ü)prÜ` `(en),fa-Ü-Ü`
 
 ## [Q](#wörterbuch)
@@ -2005,10 +2007,12 @@
   * *rationalisierung* `ra.ir-UNG`
   * *rationier* `r.at.ir`
 * rätsel ← rat
-* rauch `r.auch`
+* rauch `r.auch` : `r.auch,eu`
+  * -*rauch* `rau` → zigarr
 * ***raum*** `.aum` : `h.ub.aum` `wet.aum`
   * *weltraum* `w.aum`
   * ***räum*** : `.äum` : `.äum.e`
+* raup `r.aup` : `r.aup.e` `r.aup.eug` `r.aup,(er)`
 * **re** `r` : `r.al` `r.al.ir` `r.al.ät`
   * *realisieren* `r.ir`
 * real ← re
@@ -2147,6 +2151,8 @@
 * sand `s.ad`
 * ***sass*** `.ass` : `IN.ass.en` ← sitz
 * saß ← sitz
+* sattel `s.at.el` : `s.at.l.er` `s.at.l.ei`
+  * sättel `s.ät.el`
 * satz ← sitz
   * -**satz**- `sa` : `s.az` `.ab-sa` `N-sa` `er-sa` `.ad.er-sa` `g.sa` `.um-sa` `Z.sa` `.im:g.sa.Z`
     * *satzung* `.az*` : `.az*.en` `.az*.-G` `.az*.i`
@@ -2158,6 +2164,7 @@
       * *gegensätz* `g-s` : `g-s.e` `g-s.L`
 * sau `s.au`
 * sauber `s.aub-er`
+* -*säule* `eu` → raub wirbel
 * saum `s.aum`
   * säum `s.äum` : `E-s.äum.is`
 * seel `s.el` : `s.el.e` `s.el,o-e`
@@ -2312,7 +2319,7 @@
 * *so* `.o` : `.eb.o`
   * *so*- `o`
   * → sonst
-* sol `s.ol` : `s.ol.id` `ko-s.ol.ir`
+* sol `s.ol` : `s.ol.id` `s.ol.id.ät` `s.ol.id.ar.i` `s.ol.id.ar.ät` `ko-s.ol.ir-UNG`
 * *solch* `(s)ch`
   * -*solch*- `o` → fall
 * *soll* `(S)`
@@ -2431,6 +2438,8 @@
   * ***schlug*** `.ug`
   * → schlacht
 * **schlecht** `schl`
+* schlepp `schl.ep` : `schl.ep.ed` `schl.ep-er` `E.schl.ep-UNG`
+  * -*schlepper* `(er)` → raup
 * **schließ** `.iss`
   * **schloss** `.oss`
   * **schluss** `.uss` : `ra.uss` `tr.ug.uss`
@@ -2754,9 +2763,8 @@
   * *tex****til*** `(t.il)`
     * *textil* `t.il`
 * theater `t.e-at-er` : `t.e-atr.i`
-* **them** `t` : `t.a` 
-  * : **them**at**isch** `t.i` ! `t.em.i`
-  * : **them**en `t.en` ! `t.em.en`
+* them `t` : `t.em.a` `t.em.en` `t.em.i`
+  * *thema* `t.a` 
 * the `t.e` : `t.e-d.or` `t.e-d.ol.it` `t.e-og.e` `t.e-og.I` `.a-t.e-iS`
   * ! `t.e-l.og.e`
   * *theologie* `t.e-l.o-I`
@@ -3113,6 +3121,8 @@
 * *winter* `wi-er` : `wi-er.L` `Ü,wi-er`
 * *wir* `wr`: `wr-I`
   * **d**ass.*wir* `d.wr` ~ `DR` (3-stufiges R)
+* wirbel `w.ib.el` : `G.w.ib.elt` `w.ib.el,eu`
+  * *wirbelsäule* `w.ib,eu`
 * *wir****k*** `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(k).L`
   * : *wir****k***sam****keit*** `(k)-Sa.T` ! `(k)-s.am.T`
   * : *ent*<i></i>*gegen*<i></i>*wir****k***en `eNT.g,(k)` × `eNT.k`
@@ -3233,6 +3243,8 @@
     * **zücht** `.ücht`
 * ***ziel*** `.il` : `.il,u`
 * zie~~m~~ `z.i` : `z.i-L`
+* *zig****ar*** `(ar)` : `(ar).et.e` `(ar).ill.o` ← zigarr
+* *zig****arr*** `(arr)` : `(ar).e` `(arr),rau` → zigar
 * **zil** `.il` : `ko.il`
 * **zip** `.ip` : `ko.ip.ir`
   * *prinzip* `(.ip)` : `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
@@ -3284,4 +3296,7 @@
   * * !
   * ` × `
   * ` * `
+
+fabrik publik
+
 
