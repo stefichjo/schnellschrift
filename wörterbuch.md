@@ -646,17 +646,17 @@
   * → finanz
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
-* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `Z.fi`
-  * ⇒ `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.Sa.f.i` @`.ab,fi`usw.
-    * emp*f****i****nd* `.emp-i`
-    * *erfinder* `er,fi-er` : `er,fi-er.i`
+* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
+  * emp*f****i****nd* `.emp-i`
+  * *zu.finden* `Z.fi` ≠ zufällig
+  * *erfinder* `er,fi-er` : `er,fi-er.i`
   * **fand** `fa` : `be.fa` `.emp-fa`
-    * fand `f.ad`
     * emp*f****a****nd* `.emp-a`
       * **fänd** `fä` STS
         * *fänd* `f.äd`
+    * *fand* `f.ad`
   * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu` `.emp-fu`
-    * emp*f****a****nd* `.emp-u`
+    * emp*f****u****nd* `.emp-u`
 * **fing**er `fi-er`
 * **finst**er `fi-er`
 * *firm* `im` : `im.a` `im.en` `im.ir`
