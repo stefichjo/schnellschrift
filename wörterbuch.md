@@ -650,9 +650,10 @@
   * → finanz
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
-* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
+* **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab,fi` `AU,fi` `be,fi` `be,fi.L` `.emp,fi` `er,fi` `er,fi-er` `er,fi-er.i` `O,fi` `u-rÜ,fi` `Z,fi` `Z.Sa,fi`
   * → empfind
-  * *erfinder* `er,fi-er` : `er,fi-er.i`
+  * -*find*- `f.i`
+    * : `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
   * *zu.finden* `Z.fi` ≠ zufällig
   * **fand** `fa` : `be.fa` `.emp-fa`
     * **fänd** `fä` STS
@@ -741,8 +742,7 @@
   * *durch*<i></i>*f****ü****hr* `dr-ü` : `dr-ü-t`
   * -*führend* `-Ü.ed` → fed sicht
   * -*führ*- `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `a-Z-Ür`
-* füll ← voll
-* **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `ach.fÜ` `Ü.fÜ` `I er.fÜ` `.icht.er.fÜ.UNG`
+* **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `ach.fÜ` `Ü.fÜ` `I er.fÜ` `.icht.er.fÜ.UNG` ← voll
     * *erfüllen* `er-Ü.en`
 * **fund** `fu` : `fu.ir` `d.i,fu`
   * : **fund***ament* `fu.eNT` ~ `fu-t`
@@ -870,6 +870,8 @@
   * *gesellschaft*er `G.FT.er` ~ `G.FT.er`
 * gesetz ← sitz
 * *gest*, *gestern* `g.est` : `g.est.r.i` `O.g.est`
+* gier `g.ir` : `g.ir.i` `be.g.ird.e` `neu=g.ir.i`
+  * *neugierig* `n.eu-g.ir.i`
 * *gift* `git` : `blu.E,git` ← geb
   * *blutvergift* `blu,E.i`
 * **ging** `.ing` : `O-Ü.ing` `u-rÜ.ing` ← geh
@@ -1751,7 +1753,7 @@
   * nann `n.an`
     * : **be**nannt `be.n.ant` * `be.na-t`
     * : *er*nannt `er.n.ant` * `er.na-t`
-* **neu** `neu` : `neu-st.e` `neu-er.L` `neu:H` `neu-ig.T` STS `neu-L`
+* **neu** `neu` : `neu-st.e` `neu-er.L` `neu=H` `neu-ig.T` STS `neu-L`
 * neutr `n.eutr` : `n.eutr.a` `n.eutr.um` `n.eutr.on` `n.eutr.ir`
   * : *neutral* `n.eutr` : `n.eutr.ir`
 * *nicht* `-t` : `ga-t` `-t.r`
@@ -2266,7 +2268,7 @@
 * **sicht** `si` STS ← seh
   * : `si.bar` `si.L` `.an,si` `.S,si` `.S,si.os` `N,si` `UN.N,si.i-T` `O,si` `UN.O,si.i` `Ü,si` `.of,si.L`
   * : `G,si` `an-G,si` `.ab,si` `.ab,si.L` `be.ab,si.i` `AU,si` `be.AU,si.i` `be,si.i` `si,u` STS
-  * : `rÜ,si` `rÜ¸si.os` `rÜ,si,(.e)`
+  * : `rÜ,si` `rÜ,si.os` `rÜ,si,(.e)`
   * -*s****i****cht*
     * ab- `.ab-i` : `.ab-i.L` `be,.ab-i.i`
       * *beabsichtig* `be.ab`
@@ -2285,11 +2287,10 @@
       * *berücksichtig*en `be.rÜ`
       * *rücksichtnahme* `rÜ.icht,(.e)` ≠ rücknahme `rÜ,(.e)`
     * *über*- : `Ü.L` `Ü.L.T` `UN-Ü-L`
-  * *sicht* `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht` `UN.N.icht.i-T` `O.icht` `UN.O.icht.i` `Ü.icht` `.of.icht.L` `.ei-e-Ü.icht-Ü.n,and`
+  * -*sicht*- `.icht` : `.icht.bar` `.icht.L` `.an.icht` `.S.icht` `.S.icht.os` `N.icht` `UN.N.icht.i-T` `O.icht` `UN.O.icht.i` `Ü.icht` `.of.icht.L` `.ei-e-Ü.icht-Ü.n,and`
     * *offensichtlich* `.of,i-L`
   * -*r****ü****cksicht*- : `M-Ü.AU` `M-Ü.d` `M-Ü.I` `M-Ü-n` `.o°-Ü.AU`
     * *unter*.*berücksichtigung* `UNTER-Ük`
-
 * sid `s.id`
   * : **prä**sid `pr.s.id` × `pr`
     * : **prä**sid*ent* `pr.s.id.eNT` × `pr.eNT` × `pr`
@@ -2864,19 +2865,19 @@
   * → trauer
 * traum `tr.aum`
   * träum `tr.äum`
-* -**treff**- `tr` : `tr.ef` `tr.ef-er` `tr.ef.L` `(be)tr` `(be)tr.ed` `(be)tr-s` `(N)tr` `(Ü)tr` `UN-Ü.tr.L` `(O)tr.L` `Z.tr.ed` `Z.Sa:tr`
+* -**treff**- `tr` : `tr.ef` `tr.ef-er` `tr.ef.L` `(be)tr` `(be)tr.ed` `(be)tr-s` `(N)tr` `(Ü)tr` `UN-Ü.tr.L` `(O)tr.L` `Z.tr.ed` `Z.Sa.tr`
   * *trefflich* `tr.L`
   * *eintreff* `(N)tr.ef` ≠ eintreten
-  * *zusammentreff* `Z.Sa:tr.ef` ≠ zusammentreten
-  * -**triff**- `tr.i` STS : `tr.if` `(be)tr.i` `(Ü)tr.i` @tr
+  * *zusammentreff* `Z.Sa.tr.ef` ≠ zusammentreten
+  * -**triff**- `tr.i` STS : `tr.if` `(be)tr.i` `(Ü)tr.i`
     * *triff* `.if` : `.ift` `be.ift` `Ü.ift`
   * -**traf**- `tra` : `tr.af` `(be)tra` `(Ü)tra`
     * *betraf* `(be)tr.af`
     * -**träf**- `trä` STS : `tr.äf.e` `N.trä-e` STS
-  * -**troff**- `.of` : `G.of` `.an.of` `be.of` `N.of` `Ü.of` `UN-Ü.of` @tr
+  * -**troff**- `.of` : `G.of` `.an.of` `be.of` `N.of` `Ü.of` `UN-Ü.of`
 * **treib** `trei` : `trei-ed` `trei-er` `(.an)trei` `(AU)trei` `(.ei)trei`
   * *treib* `tr.eib`
-  * **trieb** `tri` : `tr.i` `G.tr.i` `tr.i-ha` `tr.i-f-er` `tr.i=kra` `tr.i=ess.i` `(.an)tr.i` `(be)tr.i` `(Ü)tr.i` `sta-Ü.tr.i` @tr
+  * **trieb** `tr.i` : `G.tr.i` `tr.i-ha` `tr.i-f-er` `tr.i=kra` `tr.i=ess.i` `(.an)tr.i` `(be)tr.i` `(Ü)tr.i` `sta-Ü.tr.i`
     * *trieb* `.ib` : `be.ib`
       * -*betrieb* `.ib` → groß hand
 * -**tret**- `tr` : `tr.et` `G.tr` `(.an)tr` `(.S)tr` `(.ei)tr` `(eNT.g)tr` `(g-Ü)tr` `(E)tr.er` `(E)tr.UNG` `(.e-O)tr` `.a-zw.tr`
@@ -3316,5 +3317,11 @@
   * ` * `
 
 fabrik publik
+fabrizier publizier
+
+### Nicht einheitlich gekürzte Wortfamilien
+
+* treff
+* sprech
 
 
