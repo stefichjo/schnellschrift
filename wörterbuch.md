@@ -490,10 +490,14 @@
 * *empfang* = emp*f****a****ng* `.emp-a` ← fang
   * *empfäng* = emp*f****ä****ng* `.emp-e`
   * *empfing* = emp*f****i****ng* `.emp-i`
-* emp*f*<i></i>***e***<i></i>*hl* `.emp-e` ← fehl
-  * emp*f*<i></i>***ie***<i></i>*hl* `.emp-i`
-  * emp*f*<i></i>***a***<i></i>*hl* `.emp-a`
-  * emp*f*<i></i>***o***<i></i>*hl* `.emp-o` × `.emp`
+* emp*f****e****hl* `.emp-e` ← fehl
+  * emp*f****ie****hl* `.emp-i`
+  * emp*f****a****hl* `.emp-a`
+  * emp*f****o****hl* `.emp-o` STS
+    * *empfohl* `.emp`
+* emp*f****i****nd* `.emp-i` ← find
+  * emp*f****a****nd* `.emp-a`
+  * emp*f****u****nd* `.emp-u`
 * end `.ed` : `.ed.e` `be.ed.et` `be.ed.i` `Ol.ed` `.ed.L` `UN.ed.L`
   * *un*end*lich*<i></i>*keit* `UN.ed.L.T` × `UN.ed.T`
 * -end `.ed` → dutz jug
@@ -647,16 +651,14 @@
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
-  * emp*f****i****nd* `.emp-i`
+  * → empfind
   * *zu.finden* `Z.fi` ≠ zufällig
   * *erfinder* `er,fi-er` : `er,fi-er.i`
   * **fand** `fa` : `be.fa` `.emp-fa`
-    * emp*f****a****nd* `.emp-a`
-      * **fänd** `fä` STS
-        * *fänd* `f.äd`
+    * **fänd** `fä` STS
+      * *fänd* `f.äd`
     * *fand* `f.ad`
   * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu` `.emp-fu`
-    * emp*f****u****nd* `.emp-u`
 * **fing**er `fi-er`
 * **finst**er `fi-er`
 * *firm* `im` : `im.a` `im.en` `im.ir`
