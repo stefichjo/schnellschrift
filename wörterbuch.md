@@ -145,7 +145,7 @@
   * **gonn** `go` : `be.go`
 * behörde ← hör
 * bei `b.ei` : `b.ei-ei-ad-er` `b.ei,i` `.a-b.ei` `.e-b.ei`
-  * *bei*- `.ei`
+  * *bei*- `(.ei)`
   * *dabei*  `a-b.ei`
   * *herbei* `h.ei` : `h.ei-Ür`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
@@ -652,8 +652,8 @@
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `er.f.i-er` `er.f.i-er.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
   * → empfind
-  * *zu.finden* `Z.fi` ≠ zufällig
   * *erfinder* `er,fi-er` : `er,fi-er.i`
+  * *zu.finden* `Z.fi` ≠ zufällig
   * **fand** `fa` : `be.fa` `.emp-fa`
     * **fänd** `fä` STS
       * *fänd* `f.äd`
@@ -2876,20 +2876,16 @@
   * -**troff**- `.of` : `G.of` `.an.of` `be.of` `N.of` `Ü.of` `UN-Ü.of` @tr
 * **treib** `trei` : `trei-ed` `trei-er` `(.an)trei` `(AU)trei` `(.ei)trei`
   * *treib* `tr.eib`
-  * **trieb** `tr.i` : `G.tr.i` `tr.i-ha` `tr.i-f-er` `tr.i=kra` `tr.i=ess.i` `(.an)tr.i` `(be)tr.i` `(Ü)tr.i` `sta-Ü.tr.i` @tr
+  * **trieb** `tri` : `tr.i` `G.tr.i` `tr.i-ha` `tr.i-f-er` `tr.i=kra` `tr.i=ess.i` `(.an)tr.i` `(be)tr.i` `(Ü)tr.i` `sta-Ü.tr.i` @tr
     * *trieb* `.ib` : `be.ib`
       * -*betrieb* `.ib` → groß hand
-* ***tret*** `.et` STS
-  * : *ver****tret***er `E.et-er` × `E.er`
-  * ! `tr.et` : `G.tr.et`
-  * ~ **tret** `tr` : `(.an)tr` `(.S)tr` `(.ei)tr` `g-Ü.tr` `(E)tr.UNG`
-    * : *da*zw~~ischen~~**tret**en `.a-zw.tr` ~ `a-zw.tr`
-    * : *ent*<i></i>*gegen***tret**en `eNT.g.tr` × `(eNT)tr`
-    * : *her*<i></i>*vor*<i></i>*ge***tret**en `.e-O.tr` ~ `(.e-O)tr`
-  * ***tritt*** `.it` : `.S.it` `b.ei-it` `N.it` `rÜ.it` `Ü.it` `E.it` `Z.it` `AU.it.it` `b.eim-Ü.it`
-    * *ver****tritt*** `E.it` = verbieten
-  * ***trat*** `.at` STS
-    * ! `tr.at` : `(E)tr.at`
+* -**tret**- `tr` : `tr.et` `G.tr` `(.an)tr` `(.S)tr` `(.ei)tr` `(eNT.g)tr` `(g-Ü)tr` `(E)tr.er` `(E)tr.UNG` `(.e-O)tr` `.a-zw.tr`
+  * *dazwischentret* `a-zw.tr`
+  * *entgegentret* `(eNT)tr`
+  * *gegenübertret* `g-Ü.tr`
+  * *vertreter* `E.er`
+  * *tritt* `.it` : `.S.it` `b.ei-it` `N.it` `rÜ.it` `Ü.it` `E.it` `Z.it` `AU.it.it` `b.eim-Ü.it`
+  * *trat* `tr.at` : `(E)tr.at`
 * **treu** `treu`
   * -*treu* `eu` → könig
 * **tro**tz : `tr.o` `tr.o-r` `tr.o-es` `tro-al.em` `tro-al.e,(m)`
@@ -3306,7 +3302,8 @@
 * **zwing** `.ing` : `be.ing`  `er.ing` @zw
   * **zwang** `ang` : `ang,eu` `v.is.um.ang` @zw
   * **zwung** `.ung` : `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H` @zw
-* **zw**ischen `zw` : `da.zw` `(I)zw`
+* **zw**ischen `zw` : `.a-zw` `(I)zw`
+  * *dazwischen* `a-zw`
 
 ## TODOs
 
