@@ -400,7 +400,7 @@
 * *du* `dU` : `bi.dU` `ha.dU` `w.dU`
 * **duk** `du`
   * **duz** `du` : `IN.du.ir` `(o)du.ir`
-  * **dukt** `du` : `IN.du-o` `(o)du` `(o)du.iO` `(o)du.iv`
+  * **dukt** `du` : `IN.du-o` `(o)du` `(o)du-O` `(o)du.iv`
     * *produkt* `(o)dut`
     * *produktion* `o-u-O`
 * duld `d.ud` : `d.ud.ed` `d.ud.et.e` `d.ud-Sa.T` `d.ud-UNG` `G.d.ud` `UN-G.d.ud.i`
@@ -3218,8 +3218,9 @@
 * zauber `z.aub-er` : `z.aub-er.er` `z.aub-er.ei`
 * ***zed*** `.ed` : `ko.ed.ir`
   * : *pro****zed***ur `(o).ed.ur` ~ `(o)z.ur`
-  * ***zess*** `.ess` : `(o).ess` `(o).ess.ir` `(o).ess.iO` `(T),(o).ess`
-    * : **kon*****zess***<i></i>*ion* `ko.ess.iO` × `ko.ess`
+  * ***zess*** `.ess` : `ko.ess.iO` `(o).ess` `(o).ess.ir` `(o).ess.iO` `(T),(o).ess` `(o)du-o,(o).ess`
+    * *konzession* `ko.ess`
+    * *produktionsprozess* `(o)du.iO,(o).ess`
 * zehn `z.en` : `ja.z.ent`
 * ***zeich*** `.eich` : `.eich.UNG` `E.eich.is`
   * : ***zeich***nen `.eich` ! `z.eich` ≠ reichen
