@@ -105,7 +105,8 @@
     * *nach.außen.hin*`ach.auss:hn`
     * äußer `.äuss` : `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
-* aut `.aut` : `.aut.o` `.aut.us` `.aut.om`
+* aut `.aut` : `.aut.o` `.aut.o-us` `.aut.om`
+  * *autobus* `.aut.us`
 
 ## [B](#wörterbuch)
 
@@ -114,8 +115,7 @@
 
 * baby `b.eb.I`
 * *baden-würtemberg* `b.ad-Ü`
-* **bahn** `ba` : `ba-t.e` `.an.ba` `bu:ba` `.eis.ba` `.eis.en.ba`
-  * : auto**bahn** `.aut.ba` ! `.aut.o-ba`
+* **bahn** `ba` : `ba-t.e` `.an.ba` `.aut.o-ba` `bu:ba` `.eis.ba` `.eis.en.ba`
 * **bald** `ba` : `ba.i` `.as.ba` `(o)ba` `s.ba`
 * ball `b.all`
 * *bamberg* `b.am.b`
@@ -151,9 +151,9 @@
   * *dabei*  `a-b.ei`
   * *herbei* `h.ei` : `h.ei-Ür`
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
-* **beiß** `b.ei` STS
-  * **biss** `bi` ⇒ `b.i` STS
-    * : **biss**chen `b.i-ch.en` ~ `bi.ch.en`
+* beiß `b.eiss` STS
+  * biss `b.iss` STS : `b.iss.ch.en`
+    * *bisschen* `bi.ch.en`
 * bereit ← reit
 * berg `b.eg` : `b.eg.e` `E.b.eg`
   * birg `b.ig` : `G.b.ig.e`
@@ -2616,11 +2616,12 @@
 * *stal****t*** `(-t)` : `.an-t` `E.an-t`
   * *gestalt* `-G.a-t`
 * stamm `st.am`
-* *stand* `and` : `N.E.and` × `N.E` ← steh
-  * : *stand*p**u**nkt `and,u` ! `and.pt` ~ `a-pt`
-  * *ständ* `end` : `end.e`
-    * : *selbst*~~ständ~~*ig* `-st.ig`
-    * : *selbst*~~verständ~~*lich* `-st.L`
+* *stand* `and` : `N.E.and` `and,u` ← steh
+  * *einverstanden* `N.E`
+  * *standpunkt* `a-pt`
+  * *ständ* `end` : `end.e` `-st.end.i` `-st.E.end.L`
+    * *selbstständig* `-st.ig`
+    * *selbstverständlich* `-st.L`
   * → stund
 * *standard* `(.ard)`
 * stark `st.ak`
@@ -3317,12 +3318,8 @@
   * ` × `
   * ` * `
 
-fabrik publik
-fabrizier publizier
-
 ### Nicht einheitlich gekürzte Wortfamilien
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
 
-* tret (tritt)
