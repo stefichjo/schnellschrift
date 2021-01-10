@@ -141,7 +141,7 @@
 * **be**- `be`
 * becken `b.ek` STS
 * **behr** `b` : `UN-eNT.b.L`
-* **be**<i></i>**ginn** : `be,gi` ← ginn
+* **be**<i></i>**ginn** `be,gi` ← ginn
   * *beginn* `be.in`
   * **gann** `ga` : `be.ga`
   * **gonn** `go` : `be.go`
@@ -153,7 +153,7 @@
 * ***beid*** `.eid` : `.eid.e` `.eid-er.l.ei`
 * beiß `b.eiss` STS
   * biss `b.iss` STS : `b.iss.ch.en`
-    * *bisschen* `bi.ch.en`
+    * → bisschen
 * bereit ← reit
 * berg `b.eg` : `b.eg.e` `E.b.eg`
   * birg `b.ig` : `G.b.ig.e`
@@ -165,28 +165,27 @@
 * bett `b.et` STS
 * *bezichtig* `be.z.i` ← zeih
 * **bi** `bi` : `bi.al`
-* **bi** `bi` STS
-  * : **bi**o***log***ie `bi.og.I` ! `b.i-l.og.I`
+* **bi** `bi` STS : `bi.og.I`
+  * *biologie* `b.i-l.og.I`
 * *bibel* `bib`
-* bibl `b.ibl`
-  * : bibliograph `b.ibl.gra.I` ! `b.ibl.o+gra.I`
+* bibl `b.ibl` : `b.ibl.gra.I`
   * *biblio****thek*** `(t.ek)` `(t.ek).ar.i`
-    * : *bibliothekarisch* `(t.ek).i`
+    * *bibliothekarisch* `(t.ek).i`
+  * *bibliographie* `b.ibl.o+gra.I`
 * bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
-* ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `Ts.it` `fa.it` `r.ur.it` `E.it` `Ü.it` `AU.it`
-  * : *auf****gab***en*ge****biet*** `AU.ab.it` ~ `AU.it` ! `AU.en.it` ≠ auf dem gebiet
-  * : **ho***heit*s*ge****biet*** `ho.H.it` ~ `o-H.it`
-  * : *auf*.*dies*em.*ge****biet*** `AU.iS.it` ~ `AU-i.it`
-  * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H` @`(b.ei)`
+* ***biet*** `.it` : `.it.ed` `.an.er.it` `G.it` `Ts.it` `AU.ab.it` `fa.it` `ho.H.it` `r.ur.it` `E.it` `Ü.it` `AU.it` `AU.iS.it` `(.ei)j.CH.it.l.H`
+  * *aufgabengebiet* `AU.en.it` ≠ auf dem gebiet
+  * *hoheitsgebiet* `o-H.it`
+  * *auf.diesem.gebiet* `AU-i.it`
+  * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bil****anz*** `(.az)` STS ~ `(az)` : `(az.ir-UNG)`
-* **bild** `bi` : `bi.ed` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
-  * : **bild**er `bi-er` ! `bi.er`
-  * : **bild**ner `bi-er` ! `bi.n.er`
-* **bill** `bi`
-  * : **bill***ig* `bi.i`
+* **bild** `bi` : `bi.ed` `bi-er` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
+  * *bilder* `bi.er` ≠ bildner
+  * *bildner* `bi.n.er` ≠ bilder
+* **bill** `bi` : `bi.i`
 * bin ← sein
 * **bind** `bi` : `(E)bi` `(E)bi.L` `UNTER,bi` `bi-o`
   * bind `b.id`
@@ -201,9 +200,9 @@
   * **bund** `bu` : `bu.um` `bu.ik`
     * **bünd** `bü` : `bü.e` `bü.el`
 * **bis** `bi`
-* *bischof* `bi.of`
-  * *land****es****bischof* `(.es):bi.of` ~ `(.es).of`
-* bisschen ← beiß
+* *bischof* `bi.of` : `(.es):bi.of`
+  * *landesbischof* `(.es).of`
+* *bisschen* `bi.ch.en` ← beiß
 * bist ← sein
 * ***bitt*** `.it` : `.it.e` `.it.ed` `f.it.e` `UN-er.it.L` `.I.it.sI` `M-r.it.e` `wr.it.sI`
   * bat `b.at`
@@ -228,8 +227,8 @@
     * *kaltblütig* `kat-Ü.i`
 * **bod**en `bo`
 * **börs** `bö` : `bö-e` `bö,(l.er)`
-* **buch** `bu` : `bu.ha` `-G.bu` `ha,bu` `ha.el,bu` `(.iz).bu`
-  * : **jahr**<i></i>**buch** `ja,bu` ~ `ja.b.uch`
+* **buch** `bu` : `bu.ha` `-G.bu` `ha,bu` `ha.el,bu` `ja,bu` `(.iz).bu`
+  * *jahrbuch* `ja.b.uch`
   * -*gesetzbuch* `bu` → burg hand straf
   * **büch** `bÜ` : `bÜ-er` `GT.bÜ-er`
     * *geschäftsbücher* `GT-Ü-er`
@@ -262,7 +261,7 @@
   * **broch** `bro` : `UN-UNTER.bro`
     * *ununterbrochen* `UN-UNTER`
   * **bruch** `bru`
-    * **brüch** `brü` ~ `brÜ`
+    * **brüch** `brÜ`
       * -*brüchig* → kontrakt vertrag
 * breit `br.T`
 * *brems* `br-s` : `br-s.e` `G.br-s` `.ab.br-s` `.eib:br-s.e`
@@ -288,10 +287,10 @@
 ### [CH](#wörterbuch)
 
 * *charakter* `ch.ar` : `ch.ar.iS.i` `ch.ar.Ol`
-* **chem** `ch` : `ch.I` `ch.ik-er`
-  * : **chem**<i></i>**isch** `ch.i` ! `ch.em.i`
-  * : **chem**ikalien `ch.ik.I.en` ! `ch.em.ik.I.en`
-  * : **bi**o**chem**ie `bi.ch.I` ! `b.i-ch.I`
+* **chem** `ch` : `ch.I` `ch.ik-er` `ch.ik.I.en` `ch.i` `bi.ch.I`
+  * *chemisch* `ch.em.i`
+  * *chemikalien* `ch.em.ik.I.en`
+  * *biochemie* `b.i-ch.I`
 * **chin** `chi` : `chi.a` `chi.es.e` `chi.es.in` `chi.es.i`
 * chlor `chl.or`
 
@@ -1468,9 +1467,9 @@
   * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `.im.a.an.la-e` `ndr.la-e` `UNTER.la-e` `O.la-e`
     * : **lag**er `la-er` ⇒ `l.ag-er`
       * ! `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
-  * **leg** `l` : `l-t.e` `.ab.l` `be.l` `dar-AU.l` `n.ah.l` `Ü.l` `E.l` `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed` `.ar.l` `.an.l.H`
-    * : *ver***leg**er `E.l-er` ! `E.l.eg-er`
-    * : *ge***leg**en*heit* `G.l.H` × `G.H`
+  * **leg** `l` : `l-t.e` `.ab.l` `be.l` `dar-AU.l` `G.l.H` `.an.l.H` `Ü.l` `E.l` `E.l-er` `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed`  `n.ah.l` `.ar.l`
+    * *verleger* `E.l.eg-er`
+    * *gelegenheit* `G.H`
       * : an*ge***leg**en*heit* `.an.l.H` × `.an.H`
         * : *aus*wertige an*ge***leg**en*heit*en `.S.wet.ig.e .an.l.H.en` × `.S.H.en`
       * : bei.*dies*er *ge***leg**en*heit* `b.ei-iS-er G-l.H` × `b.ei-iS.H`
