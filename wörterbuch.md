@@ -2880,6 +2880,8 @@
   * **trieb** `tr.i` : `G.tr.i` `tr.i-ha` `tr.i-f-er` `tr.i=kra` `tr.i=ess.i` `(.an)tr.i` `(be)tr.i` `(Ü)tr.i` `sta-Ü.tr.i`
     * *trieb* `.ib` : `be.ib`
       * -*betrieb* `.ib` → groß hand
+* trenn `tr.en` : `tr.en.bar` `(.ab)tr.en` `UN.zr.tr.en.L`
+  * *unzertrennlich* `UN.zr.tr.L`
 * -**tret**- `tr` : `tr.et` `G.tr` `(.an)tr` `(.S)tr` `(.ei)tr` `(eNT.g)tr` `(g-Ü)tr` `(E)tr.er` `(E)tr.UNG` `(.e-O)tr` `.a-zw.tr`
   * *dazwischentret* `a-zw.tr`
   * *entgegentret* `(eNT)tr`
@@ -3321,7 +3323,7 @@ fabrizier publizier
 
 ### Nicht einheitlich gekürzte Wortfamilien
 
-* treff
-* sprech
+* treff (triff, troff)
+* sprech (sprich, sproch, spruch)
 
-
+* tret (tritt)
