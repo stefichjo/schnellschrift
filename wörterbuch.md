@@ -46,6 +46,8 @@
 * an `.an` : `.an,u` `.an-t-er` `dar.an` `wo.an`
   * *anspruch* `.an-u` STS ≠ an.uns
 * -an `.an`
+  * -aner `.er`
+  * -an*isch* `.i`
 * ander `.ad-er` `N.ad-er` `UNTER.ad-er`
   * *ande****rs*** `(rs)`
   * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
@@ -196,7 +198,7 @@
       * *bänder* `b.ed-er`
       * *bändig* `b.änd.i`
       * *verbände* `E.b.e`
-  * **bund** `bu` : `bu.um`
+  * **bund** `bu` : `bu.um` `bu.ik`
     * **bünd** `bü` : `bü.e` `bü.el`
 * **bis** `bi`
 * *bischof* `bi.of`
@@ -1948,12 +1950,10 @@
 * pot `p.o` ← pon
   * : depot `(d.e)p.o`
 * puber `p.ub-er` : `p.ub-er.ir` `p.ub-er.ät`
-* *publ* `p.ub` : `p.ub.ir` `p.ub-o` `p.ub.ist` `p.ub.iS.i` `p.ub.ät`
-  * : *publ*ik `p.ub.ik` STS
-  * : *publ*ikum `p.ub.um` × `p.ub`
-  * : *re*<i></i>*publ*ik `(r)p.ub.ik` × `r.ik` : `r.ik.i`
-    * : *re*<i></i>*publ*ikaner `(r)p.ub.ik.an-er` × `r.ik.an.er` × `r.ik-er`
-    * : **bund**es*republik* `bu:r.ik` × `bu.ik`
+* *publ* `p.ub` : `p.ub.ik` STS `p.ub.ir` `p.ub-o` `p.ub.um` `p.ub.ist` `p.ub.iS.i` `p.ub.ät` `(r)p.ub.ik` `(r)p.ub.ik-er` `(r)p.ub.ik.i` `bu:(r)p.ub.ik`
+  * *publikum* `p.ub`
+  * *republik* `r.ik` : `r.ik-er` `r.ik.i` `bu:r.ik`
+    * -*republik* `.ik` → bund
 * *punkt*, *pünkt*, pt. `pt` : `(I)t-er.pt.iO` `(ko)tra.pt.i` `(ko)tra.pt.iS.i`
   * -p**u**nkt `u` → hoh kontr sicht stand streit
 * put `p.ut`
@@ -2998,10 +2998,9 @@
     * -*wechsel* `S.el` : `.ab.S.el` `.S.S.el` `.um.S.el` `.ift.S.el` `E.S.el`
 * wagen `w.ag`
   * -*wagen* `wa` → kraft krank
-* wäg `w.äg`
-  * : abwägen `.ab.w.äg` * `.ab.äg`
-  * : *er*wägen `er.w.äg` * `er.äg`
-  * wog `w.og` : `er.w.og`
+* -***wäg***- `.äg` : `w.äg` `.ab.äg` `er.äg`
+  * -***wog***- `.og` : `er.og`
+    * *erwog* `er.w.og`
 * **wahl** `wa` : `wa,(.el)` `er-sa.wa` `(N)-d.e:wa.en` `l.i=wa`
   * **wähl** `wä` STS : `wä` `G.w-t` `w.bar` `w-er` `w-er.FT`
     * *wähl* `w.el`
