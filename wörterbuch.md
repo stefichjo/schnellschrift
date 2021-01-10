@@ -181,7 +181,8 @@
   * *auf.diesem.gebiet* `AU-i.it`
   * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
   * ***bot*** `.ot` : `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
-* *bil****anz*** `(.az)` STS ~ `(az)` : `(az.ir-UNG)`
+* *bil****anz*** `(.az)` STS : `(.az.ir-UNG)`
+  * *bilanz* `(az)` : `(az.ir-UNG)`
 * **bild** `bi` : `bi.ed` `bi-er` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
   * *bilder* `bi.er` ≠ bildner
   * *bildner* `bi.n.er` ≠ bilder
@@ -318,7 +319,7 @@
 * dacht ← denk
 * dam `d.am` : `d.am.e`
 * dank `d.ak` : `d.ak.ed` `gru.G.d.ak.e` `UN-d.ak` `M.b.est.d.ak` `wr.d.ak,i` ← denk
-  * ~~*dank*~~***bar*** `(bar)` : `(bar).T` `s.bar`
+  * *dank****bar*** `(bar)` : `(bar).T` `s.bar`
   * *gedank* `G.da` : `G.da.e` `G.da.os`
 * *d****ann*** `(.an)`
   * denn `d.en`
@@ -331,13 +332,12 @@
     * *tradit* `tr.ad` : `tr.ad-o` `tr.ad.i-eL`
 * daub `d.aub` : `f.ass.d.aub.e`
 * *dauer* `dau` : `dau.d` `dau-t.e` `dau.ha` `.an.dau.d` `be.dau` `be.dau.L` `G.dau` `AU.I.dau` `Z.m.ei-em:be.dau` `Z.U°.be.dau`
-* *de****m*** `(m)` : `.auss.m` `(I)m`
-  * : *mit*.*de****m*** `M.m` ~ `MM` P
-* **dem** `d.e`
-  * : demokrat ← krat
-* *de****n*** `(n)` : `(I)n`
-  * : *mit*.*de****n*** `M.n` ~ `MN` P (3-stufiges M)
-  * : **von**.*de****n*** `v.n` ~ `VN` P (3-stufiges V)
+* *de****m*** `(m)` : `.auss.m` `(I)m` `M.m`
+  * *mit.dem* `MM` P
+* **dem** `d.e` → krat
+* *de****n*** `(n)` : `(I)n` `M.n` `v.n`
+  * *mit.den* `MN` P (3-stufiges M)@
+  * *von.den* `VN` P (3-stufiges V)@
 * denk `d.ek`: `d.ek.ed` `d.ek-er` `d.ek.ma` `UN-d.ek.bar` `ach.d.ek.L`
   * **dacht** `da` : `E.da`
     * **dächt** `dä` : `dä-e` `G.d.is` `E.d.i`
@@ -351,15 +351,13 @@
 * **deut** `deu` : `deu.L` `be.deu` `.an.deu`
   * *bedeut* `be-eu-T`
 * *deut****sch*** `SCH`
-* *deutschland* `SCH-a`
-  * : **bund**es*republik*.*deutschland* `bu:r.ik,SCH-a` ~ `bu,SCH-a`
+* *deutschland* `SCH-a` : `bu:r.ik,SCH-a`
+  * *bundesrepublik.deutschland* `bu,SCH-a`
 * di- `d.i-` STS
-* *dia*- `di`
-  * ... `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @@
+* *dia*- `di` : `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @@
 * *didakt* `d.id` : `d.id.ik` `d.id.ik-er` `d.id.i`
-* *die* `I`
-  * **d**ass.*die* `d.I` ! `d I` ≠ **d**ass.*ich*
-  * *für*.*die* `f.I` ~ `fI`
+* *die* `I` : `d.I` `f.I`
+  * *dass.die* `d I` ≠ dass.ich
 * **dien** `di` : `di.ed` `di-t.e` `di-er` `di.bar.T` `di.L` `be,di` `E,di`
   * *diener* `di.er`
   * *dienlich* `d.in.L` ≠ dienstlich
@@ -373,8 +371,8 @@
 * dik `d.ik` : `IN.d.ik.iO`
   * diz `d.iz` : `IN.d.iz`
   * ***dex*** `ex` : `IN.ex`
-  * **dikt** `di` : `di.at` `di.at.or` `di.at.or.i` `di-ur` `di.ir`
-    * : **dikt***ion* `di-o` ! `d.ikt.iO` ≠ **dit***ion*
+  * **dikt** `di` : `di.at` `di.at.or` `di.at.or.i` `di-ur` `di.ir` `di-o`
+    * *diktion* `d.ikt.iO` ≠ dition
 * **ding** `.ing`
   * *allerdi****ng***s `(ng)-s`
   * *bedi****ng*** `(ng)` : `(UN.ng)-t` = flüchtling
@@ -382,8 +380,8 @@
 * *dis*- `ds`
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
   * **d**as.*diplom*at**isch**e.**corps** `d,di-om.ko`
-* *doch* `d-ch`
-  * : je*doch* `j.e-d-ch` ~ `j-ch`
+* *doch* `d-ch` : `j.e-d-ch`
+  * *jedoch* `j-ch`
 * doktor ← doz
 * *doll****ar*** `(.ar)`
 * dom `d.om` : `d.om.än.e` STS `d.om.il`
@@ -421,8 +419,8 @@
 
 ### [DR](#wörterbuch)
 
-* dreh `dr.eh`
-  * **hand**umdrehen `ha.um:dr.eh` × `ha.um`
+* dreh `dr.eh` : `ha.um:dr.eh`
+  * *handumdrehen* `ha.um`
 * **dring** `dri` : `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
   * **drang** `dra` : `dra.Ol` `dra.s.al`
     * *drang* `dr.ang` : `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
@@ -432,15 +430,15 @@
   * **drung** `dru` : `G.dru` `N.dru`
 * **droh** `dr.o` : `be.dr.o-L`
 * **druck** `dru` : `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `N.dru` `ach.dru`
-  * drucker `dr.uk-er`
-  * *ausdr****u****ck* `.S-u`
-    * *zum.ausdruck.gebracht* `z.bra`
-    * *zum.ausdruck.kommen* `z.ko`
-  * **drück** `drÜ`
-    * : **drück**en `drÜ` ! `dr.ük`
-    * : *aus***drück***lich* `.S.drÜ.L` ~ `.S-Y.L`
-    * : ein**drück**e `N.drÜ.e` ~ `N-Ük.e`
-    * : *nach***drück***lich* `ach.drÜ.L` ~ `ach-Ü.L`
+  * *drucker* `dr.uk-er`
+  * *aus*<i></i>*dr****u****ck* `.S-u`
+  * *zum.ausdruck.gebracht* `z.bra`
+  * *zum.ausdruck.kommen* `z.ko`
+  * **drück** `drÜ` : `.S.drÜ.L` `N.drÜ.e` `ach.drÜ.L`
+    * *drück* `dr.ük`
+    * *ausdrücklich* `.S-Y.L`
+    * *eindrücke* `N-Ük.e`
+    * *nachdrücklich* `ach-Ü.L`
 
 ## [E](#wörterbuch)
 
@@ -3311,11 +3309,10 @@
 
 * entfernen
   * * : 
-  * ` ~ `
-  * * ~ 
-  * * !
-  * ` × `
-  * ` * `
+  * ~
+  * !
+  * ×
+  *  * `
 
 ### Nicht einheitlich gekürzte Wortfamilien
 
