@@ -650,8 +650,8 @@
   * : de**fin** `d.e,fi` * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
   * *finalistin* `fi.al.in`
   * → finanz
-* *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi.um` `fi.om` `O,fi.ir` ← fin
-  * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
+* *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi,(er)` `fi.um` `fi.om` `O,fi.ir` ← fin
+  * *finanzminister* `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab,fi` `AU,fi` `be,fi` `be,fi.L` `.emp,fi` `er,fi` `er,fi-er` `er,fi-er.i` `O,fi` `u-rÜ,fi` `Z,fi` `Z.Sa,fi`
   * → empfind
   * -*find*- `f.i`
