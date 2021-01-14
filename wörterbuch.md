@@ -506,7 +506,10 @@
 * *ent*behr ← behr ← bär
 * ente `.ent.e`
 * -*ent* `eNT`
-* *er* `er` @?
+* *er* `er`
+* -er `.er`
+  * -erei `.ei` @-erei
+    * *wichtigtuerei* `wi.i,tu.er.ei`
 * erb `.eb` : `.eb.e` `.eb.L` `.eb-FT` `G.eb-t` `E.eb-UNG`
 * erd `.ed` : `.ed.e` `be.ed.i`
   * ird `.id` : `.id.i` `.auss.id.i` `Ü.id.i` `UNTER.id.i`
@@ -562,8 +565,8 @@
 * falt `fat` : `fat.e` `fat.et.e` `N.fat` `eNT.fat` `eNT.fat.UNG` `o:fat`
   * fält `fet` : `N.fet.ig` `hu:fet.ig` `o:fet.ig`
     * : *ver****viel***fält*ig*en `E.il.fet.ig` ~ `E.il.f.i`
-* *famili* `f.am` : `f.am.är`
-  * : *famili*e `f.am.e` × `f.am`
+* *famili* `f.am` : `f.am.är` `f.am.e`
+  * *familie* `f.am`
 * -***fang***- `ang` : `f.ang` `an.ang` `be.ang` `N.ang` `.um.ang` `.um.ang:eich` `fi.ang`
   * → empfang
   * *von.anfang.an* `v.an.an`
@@ -2002,7 +2005,7 @@
 * rad `r.ad` : `sp.r.ad`
   * : **fahr**rad `fa.r.ad` ~ `fa.ad`
   * *gerad* `-G.a` : `-G.a.e`
-* rad `r.ad` : `r.ad.al` `r.ad.iS` @?
+* rad `r.ad` : `r.ad.al` `r.ad.iS`
 * *raffin* `r.af` : `r.af.irt`
 * rag `r.ag`
   : *her*<i></i>*vor*ragend `.e-O.r.ag.ed` × `.e-O.ed`
@@ -2830,12 +2833,10 @@
   * tüch `t.üch` : `t.üch-er`
 * -*tum* `tum`
   * -*tüm* `tYm`
-* **tu** `tu` : `ku.tu` `wi.i,tu.er`
-  * **wicht***ig***tu**erei `wi.i,tu.ei` ! `wi.i,tu.er.ei`
-  * **tat** `ta` : `ta,(.e)` `ta,(en)`
-    * : *mit*.**rat**.~~und~~.**tat** `M.ra.ta`
-		* **tät** `t.e`
-    * : **tät**er `t-er` ! `t.et-er`
+* **tu** `tu` : `ku.tu` `wi.i,tu.er` `wi.i,tu.ei` @-erei
+  * **tat** `ta` : `ta,(.e)` `ta,(en)` `M.ra.ta`
+    * **tät** `tä` STS : `tä-e` `tä-er`
+      * *täter* `t.et-er`
 * turt `tut` STS : `tut.el` STS
 
 ### [TR](#wörterbuch)
