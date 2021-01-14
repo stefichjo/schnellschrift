@@ -647,7 +647,7 @@
   * : de**fin** `d.e,fi` * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
   * *finalistin* `fi.al.in`
   * → finanz
-* *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.um` `fi.om` `O,fi.ir` ← fin
+* *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanz*<i></i>*minister* `fi,(er)` ~ `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab,fi` `AU,fi` `be,fi` `be,fi.L` `.emp,fi` `er,fi` `er,fi-er` `er,fi-er.i` `O,fi` `u-rÜ,fi` `Z,fi` `Z.Sa,fi`
   * → empfind
@@ -689,10 +689,7 @@
 * *fl****ieh*** `(.ih)` : `eNT.ih`
   * *flieh* = **flieh** `fli`
   * *fl****oh*** `(.oh)` ! `.oh`
-  * ***flucht*** `.ucht`
-    * ***flücht*** `.ücht` : `.S.ücht.e`
-      * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = `ing`; = beding
-      * -*flüchtling* = -*fl****ü****cht****ling*** `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
+  * → flucht
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
@@ -703,7 +700,10 @@
 * **flu** `flu`
   * **kon**<i></i>**flu**enz `ko.flu.ez` STS
   * *in***flu**enza `IN.flu.ez.a` × `IN.flu.a`
-* flucht ← flieh
+* ***flucht*** `.ucht` ← flieh
+  * ***flücht*** `.ücht` : `.S.ücht.e`
+    * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = `ing`; = beding
+    * -*flüchtling* = -*fl****ü****cht****ling*** `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `er.fo-eich` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
   * : *in***folg** `IN.fo` ~ `IN.o`
@@ -1002,8 +1002,8 @@
   * : **be*****harr*** `be.arr.L.T` × `be.arr.T`
 * **hart** `hat`
   * **härt** `het` : `het.e` `het.est` `G.het` `.ab.het` `er.het`
-* **haupt** `hau` : `be.hau.et` `hau.a.L` `hau,(.e)` `(.es).hau`
-  * : *ober***haupt** `.o+hau`
+* **haupt** `hau` : `be.hau.et` `hau.a.L` `hau.uss` `hau,(.e)` `(.es).hau`
+  * *oberhaupt* `.o-hau`
   * **häupt** `häu` : `häu-er` `häu.ing`
 * ***haus*** `.aus` : `ho.aus` `ra.aus` `kra.aus` `sta.aus` `.im.aus.e` `v.aus.S`
   * : **hoh**es.***haus*** `ho.aus` ~ `ho-au`
@@ -1084,14 +1084,18 @@
 * *honor* `h.on` : `h.on.ar` `h.on.ir`
 * hor `h.or` : `G.h.or-Sa`
   * horch `h.och` : `h.och-er` `G.h.och`
-* **hör** `hö` : `be.hö.d.e`
+  * → hör
+* **hör** `hö` : `be.hö.d.e` `schwa.hö-er` ← hor
   * *behörde* `be.hö`
     * -*behörde* `hö` → gemein
 * horch ← hor
 * hort `hot`
 * *hundert* `hu` : `3.hu` `5,hu` `hu.FT`
   * : **jahr**<i></i>**hundert** `ja.hu`
-* hut `h.ut`
+* hut `h.ut` : `be.hut-Sa` `be.hut-Sa.T` `.ob.h.ut`
+  * *behutsamkeit* `be.h.ut.T`
+  * *obhut* `.o-h.ut`
+  * hüt `h.üt` : `h.üt-er` `be.h.üt` `E.h.üt`
 
 ## [I](#wörterbuch)
 
@@ -1546,7 +1550,7 @@
   * : **land**s**mann** `la.ma` ! `la-s.ma` ≠ landmann
   * **männ** `m` : `m.er` `m.L` `.auf.m.i`
 * **mann*****heim*** `ma.eim`
-* *mar****kt*** `(kt)` : `vi.kt` `d.is.kt`
+* *mar****kt*** `(kt)` : `vi.kt` `d.is.kt` `schwa.kt`
   * : *arb****eit***s*mar****kt*** `(T).kt` ~ `T.kt`
   * : welt*mar****kt*** `wet.kt` ~ `(-t),(-t)`
 * *marokk* `ma.ok`
@@ -1797,9 +1801,12 @@
 
 ## [O](#wörterbuch)
 
-* oben `.ob`
-  * ober `.ob-er`
+* ob `.ob`
+  * oben `.ob` ← ob
+  * ober `.ob-er` ← ob
     * *ober-* `.o-` → gericht haupt
+* oben ← ob
+* ober ← ob
 * oder `.od-er` : `.od-er-au`
 * off `.of` : `.of,(z).i`
   * *off*- `.o-` : `.o-bar` `.o-H`
@@ -2319,7 +2326,7 @@
   * → satz
   * **setz** `s` : `er-s` `UN.er-s.L` `O.S-s` `UNTER-r,O-S-s`
     * ! `s.ez` : `s.ezt.e` `G.s.ezt` `be.s.ez*` `fr.s.ez*`
-      * : `s.ez-er` ! `s.ez.er` : `s.ez.er.ei`
+      * : `s.ez.er` : `s.ez.er.ei`
     * : *aus*einander**setz***ung* `.S.ei-ad-er.s.UNG` × `.S.ei-ad-er`
     * *setz* `s` : `.ab.s` `be.s` `N.s`
     * -*setz* `-s` : `eNT.g-s` `fr-s`
@@ -2353,12 +2360,12 @@
     * -*besonder*, -*besonders* `-S` → ganz in merk
 * sonn `s.on` : `s.on.e`
 * *s****onst*** `(.ost)` ← so
-* *sorg* `S.o` STS : `b.S.o` `b.S.o.is` `UN.b.S.o` `E.S.o` `O.S.o` `O.S.o.L`
-  * ! `s.og` : `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `E.s.ogt.e`
-  * : *ver*<i></i>*sorg*er `E.S.o-er` ~ `E,o-er`
-  * -*sorg*- `o` : `f,o-e` `f,o-L` → falt seel
-    * : *da*f~~ür~~.*sorg*en `.a-f,o` ~ `.a-f.o`
-    * -*fürsorge* `-Ü.o` : `I-Ü.o` → flieh sozi
+* -*sorg*- `S.o` : `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `b.S.o` `b.S.o.is` `UN.b.S.o` `f.S.o` `f.S.o-L` `E.S.o` `E.S.o-er` `O.S.o` `O.S.o.L` `.a-f-S.o`
+  * *versorgte* `E.s.ogt.e`
+  * *versorger* `E,o-er`
+  * *dafür.sorg* `.a-f.o`
+  * -*sorg* `o` : `f,o-e` `f,o-L` `.a-f,o` → falt seel
+    * -*fürsorge* `-Ü.o` : `I-Ü.o` → flucht sozi
 * sort `s.ot` : `s.ot.e` `s.ot.ir` `ko-s.ot.um`
   * : sortiment `s.ot.met`
 * *sozi* `SS`
@@ -2438,9 +2445,8 @@
 * ***schieß*** `.iss` : `.iss.ei`
   * ***schoss*** `.oss` : `G.oss` `.ab.oss` `er.oss` `Z.oss`
     * ***schöss*** `.öss` : `.öss.ing`
-  * ***schuss*** `.uss` : `.S.fu-Ü.uss` `Ü.uss` `Z.uss` `(r)-Ü.uss` `N-Ü.uss` `(K)-Ü.uss`
-    * *aussch****uss*** `(.uss)` : `fi.uss` `hau.uss`
-      * ! *aus****schuss*** `.S.uss`
+  * ***schuss*** `.uss` : `.S.uss` `Ü.uss` `Z.uss` `(r)-Ü.uss` `N-Ü.uss` `.S.fu-Ü.uss` `(K)-Ü.uss`
+    * -*ausschuss* `.uss` → finanz haupt
     * ***schüss*** `.üss` : `.üss.e` `.üss.el` `.S.üss.e` `Ü-üss.e` `Z.üss.e`
 * **schiff** `.if`
 * *schilli****ng*** `(ng)`
@@ -2514,6 +2520,9 @@
 
 #### [SCHW](#wörterbuch)
 
+* schwarz `schw.az`
+  * *schwarz*- `schwa` → hör markt wald
+  * schwärz `schw.ez` : `schw.ez.er` `schw.ez.est.e` `schw.ez*` `schw.ez.L` @-st
 * schwed `schw.ed` : `schw.ed.i`
   * : schwede `schw.ed.e` * `schw.e`
   * : schweden `schw.ed` × `schw`
@@ -3007,6 +3016,8 @@
     * *erwähn* `(er)wä`
 * **wahr** `wa`
   * **währ** `wä` : `w.ed` `wä-r.om` `be.wä` `G.wä` `I wä`
+* wald `w.ad` : `w.ad-UNG.en` `w.ad.ig` `schwa.w.ad`
+  * wäld `w.ed` : `w.ed-er`
 * walt `wat` : `G.wat` `E.wat`
   * *anwalt* `.an-t`
     * : *recht*s*anwalt* `R.an-t` × `R.an`
@@ -3021,8 +3032,9 @@
 * war ← sein
 * warn `w.an`
 * wart `wat` : `wat.et.e` `er.wat` `er.wat.Ol`
-  * -**wart**, -**wärt**- `-t` : `-t.er` `-t.ig` `-ts` → an aus gegen rück seit vor
+  * -*wart* `-t` → gegen
   * wärt `wet` : `wet.er`
+    * -*wärt* `-t` : `-t.er` `-t.ig` `-ts` → an aus gegen rück seit vor
 * ***was*** `was`
 * ***wass***er `was-er` : `was.ek` `was.FT` @-er
   * ***wäss***er `wes-er` : `eNT.wes-UNG`
