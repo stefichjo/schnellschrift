@@ -724,7 +724,7 @@
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
 * -*fug*- `-u` : `f.ug` `be-u.is`
-  * -*füg*- `-Ü` : `f.üg` `f.üg-Sa` `.an-Ü` `b.ei-Ü` `N-Ü` `G.üg` `G.üg.i` `G.ing-Ü.i` `E-Ü` `Z.üg` `Z.Sa.üg` `zr*.E-Ü` @ü
+  * -*füg*- `-Ü` : `f.üg` `f.üg-Sa` `.an-Ü` `b.ei-Ü` `N-Ü` `G.üg` `G.üg.i` `G.ing-Ü.i` `E-Ü` `Z.üg` `Z.Sa.üg` @ü
     * *beigefügt* `b.ei-Ü-G`
     * *zur.verfügung* `zr*-Ü`
 * fug `f.ug`
