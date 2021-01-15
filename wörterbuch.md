@@ -550,7 +550,7 @@
   * : *arb****eit***s*un***fäh***ig****keit*** `(T),UN-f.i-T` × `(T),UN-T`
 * **fahr** `fa` : `fa.bar` `fat` `G.fa` `G.fa-ol` `.ab.fa` `.ab.fat` `.S.fa` `be.fa.bar` `er.fa` `er.fa.G` `.if-fat` `UN-er.fa` `UN-er.fa.H` `E.fa` `Z.fat` `u-rÜ:fa`
   * : **fahr**er `fa-er` ! `f.ar-er`
-  * **fähr** `fä` STS : `fä-e` `ft` `er.f` `G.fd` `UN-G.fä` `G.f.L` `G.f.L.T` `G.ft.e` `G.ft.in` `UN-G.f.L` `(.l):f.i` `dU er.fä .e`
+  * **fähr** `fä` : `fä-e` `ft` `er.f` `G.fd` `UN-G.fä` `G.f.L` `G.f.L.T` `G.ft.e` `G.ft.in` `UN-G.f.L` `(.l):f.i` `dU er.fä .e`
     * *fähre* `f.är.e`
     * *ungefähr* `UN.G`
     * *du*.*erfährst*.*es* `dU er.f .e`
@@ -559,8 +559,8 @@
 * **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `.eb.fa-s` `G.g.fa-s` `gl.fa-s` `k.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z.fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `IN.iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
   * *ebenfalls* `.e-fa-s`
   * **fäll** `f` : `f.e` `f.i` `f.i-T` `G.f.i` `G.f.i-T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G.f.i` `UN-G.f.i-T` `Z.f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
-  * **fiel** `fi` STS : `AU.f.i`
-    * ! `f.il` : `AU.f.il`
+  * **fiel** `fi` : `AU,fi`
+    * *auffiel* `AU.f.il`
 * falsch `f.asch` : `f.asch.H`
   * fälsch `f.esch` : `f.esch.L`
 * falt `fat` : `fat.e` `fat.et.e` `N.fat` `eNT.fat` `eNT.fat.UNG` `o:fat`
@@ -723,13 +723,10 @@
   * -*reform* `.om` → schul wahr
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
-* *fug* `-u` : `be-u.is`
-  * ! `f.ug`
-  * *füg* `-Ü` : `.an-Ü` `N-Ü` `G.ing-Ü.i` `E-Ü`
-    * : bei*ge*f**ü**gt `b.ei-Ü` ~ `b.ei-Ü-G`
-    * : *zur*.*ver*f**ü**g `zr*.E-Ü` × `zr*-Ü`
-    * ! `f.üg` :  `f.üg-Sa`
-    * ~ ***füg*** `.üg` `G.üg` `Z.üg` `Z.Sa.üg`
+* -*fug*- `-u` : `f.ug` `be-u.is`
+  * -*füg*- `-Ü` : `f.üg` `f.üg-Sa` `.an-Ü` `b.ei-Ü` `N-Ü` `G.üg` `G.üg.i` `G.ing-Ü.i` `E-Ü` `Z.üg` `Z.Sa.üg` `zr*.E-Ü` @ü
+    * *beigefügt* `b.ei-Ü-G`
+    * *zur.verfügung* `zr*-Ü`
 * fug `f.ug`
   * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
 * -*fühl*- `Ül` : `f.ül` `b.e-Ül` `G-Ül` `G-Ül,(g)` `G-Ül.Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `t.uch-Ül-UNG` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül`
