@@ -2403,10 +2403,9 @@
   * *ultraschall* `.utra:scha`
 * schalt `schat`
 * schatt `sch.at`
-* **schatz** `sch.a` : `scha,(er)` `scha.S.el`
-  * ! `sch.atz`
-  * **schätz** `sch` : `G.sch` `.ab.sch` `ho.sch`
-    * ! `sch.ez` : `sch.ez.e` `sch.ez.ch.en` `sch.ez*`
+* -**schatz**- `sch.a` : `sch.az` `scha,(er)` `scha.S.el`
+  * -**schätz**- `sch` : `G.sch` `sch.ez.e` `sch.ez*` `sch.ch.en` `.ab.sch` `ho.sch`
+    * *schätzchen* `sch.ez.ch.en`
 * **schau** `.au` : `G.au`
 * ***scheh*** `.eh`
   * ***schieh*** `.ih`
