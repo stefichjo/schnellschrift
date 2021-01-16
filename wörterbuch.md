@@ -1467,8 +1467,7 @@
 * **lieg** `li` : `.an,li` `b.ei,li-ed` `er,li` `n.ah,li-ed` `UNTER,li`
   * : an**lieg**er `.an.li-er` ! `.an.l.ig-er`
   * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `.im.a.an.la-e` `ndr.la-e` `UNTER.la-e` `O.la-e`
-    * : **lag**er `la-er` ⇒ `l.ag-er`
-      * ! `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
+    * *lager* `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
   * **leg** `l` : `l-t.e` `.ab.l` `be.l` `dar-AU.l` `G.l.H` `.an.l.H` `Ü.l` `E.l` `E.l-er` `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed`  `n.ah.l` `.ar.l`
     * *verleger* `E.l.eg-er`
     * *gelegenheit* `G.H`
@@ -1605,7 +1604,7 @@
 * **mess** `ess` : `ess.e` `ess-er`
   * : -*messer* `(er)` → hoch strom
   * **miss** `.iss`
-    * ! `m.iss`
+    * *miss* `m.iss`
   * **maß** `ass` : `N.i-er.ass.en` `G.i-ass` `(I)ho.ass.e`
     * **mäß** `ess` : `ess.i`
       * -*mäßig* `.i`/`.ess.i` → halt reg sitz
@@ -1847,12 +1846,10 @@
 |:-:|
 
 * **paar** `pa` ← par
-* **pack** `pa` : `(E)pa`
-  * ! `p.ak`
-  * **päck** `p` : `p.ch.en`
-    * *ge***päck** `G.p` ! `G.p.ek`
-* *pakt* `pat` : `pat.ir`
-  * ! `p.akt`
+* -**pack**- `pa` : `p.ak` `(E)pa`
+  * -**päck**- `p` : `p.ch.en` `G.p`
+    * *gepäck* `G.p.ek`
+* -*pakt*- `pat` : `p.akt` `pat.ir`
   * -*pakt* `pa` → greif
 * pand `p.ad`
   * → pans pass
@@ -2112,11 +2109,9 @@
   * *zurück* `u-rÜ` : `dar-AU u-rÜ.ür`
     * -~~zurück~~- : `dar-AU-Ür`
 * **rud** `ru` : `ru-er` `ru-er.N`
-* ~~r~~uf `(.uf)` STS : `.S.uf` `b.uf`
-  * : *auf*~~r~~uf `AU.uf` ~ `AU-u`
-  * ! `r.uf`
-  * ~~r~~ief `(.if)` STS: `.S.if`
-    * ! `r.if`
+* -***ruf***- `.uf` : `r.uf` `AU.uf` `.S.uf` `b.uf`
+  * *aufruf* `AU-u`
+  * -***rief***- `.if` : `r.if` `.S.if`
 * rump ← rupt
 * *rupt* `r.up` : `.e-r.up-o`
   * : e*rupt*iv `.e-r.up.iv` ! `.e-r.upt.iv`
@@ -2331,8 +2326,7 @@
       * : **grund***gesetz* : `gru.-G` ~ `GR`
     * -*gesetzt* `-G` : `fr-G` `O.S-G`
       * : ein*gesetzt* `N.-G` ~ `N.-G-s`
-* **skal** `ska` : `.e-ska.ir` `.e-ska.iO`
-  * ! `sk.al` : `sk.al.a` `sk.al.en`
+* -**skal**- `ska` : `sk.al.a` `sk.al.en` `.e-ska.ir` `.e-ska.iO`
 * *so* `.o` : `.eb.o`
   * *so*- `(o)` → eben gar
   * → sonst
@@ -2418,8 +2412,7 @@
   * ***schieh*** `.ih`
   * ***schah*** `.ah`
   * ***schäh*** `.äh`
-  * ***schicht*** `.icht` : `G.icht.e` `kust:icht.e` @typo im buch?
-    * welt*ge****schicht***e `wet.icht.e` ~ `w.icht.e`
+  * → schicht
 * ***scheib*** `.eib` : `.eib.e` `ba.eib.e`
 * **scheid** `.eid` : `be.eid` `eNT.eid`
   * *entscheid* `eNT.ei`
@@ -2435,7 +2428,7 @@
   * *sch****ien*** `(.in)` : `er.in`
     * *ge*<i></i>*sch****ien*** : `G.in` ~ `(G)(.in)`
     * schien `sch.in`
-* schicht ← scheh
+* ***schicht*** `.icht` : `G.icht.e` `kust-icht.e` `wet-icht.e`
 * **schick** `.ik` : `.ik-s.al` ← scheh
 * ***schieß*** `.iss` : `.iss.ei`
   * ***schoss*** `.oss` : `G.oss` `.ab.oss` `er.oss` `Z.oss`
@@ -3033,9 +3026,8 @@
   * : *ge****wäss***er `G.wes` ! `G.wes-er` ≠ gewächs
 * wasch `w.asch` : `w.esch.e`
 * wechsel ← wachs
-* **weg** `w` : `.S.w` `(.es)w` `m.N.w` `.U-t.w` `O.w` `AU.m.w`
-  * ! `w.eg`
-  * : *kein*es**weg**s `(K).w-s` ~ `k.ws` × `k.w`
+* -**weg**- `w` : `w.eg` `.S.w` `(.es)w` `(K).w-s` `m.N.w` `.U-t.w` `O.w` `AU.m.w`
+  * *keineswegs* `k.w`
   * → wegen
 * wegen `w.eg`
   * -**weg**en `w` → des
@@ -3059,7 +3051,7 @@
   * : *ich* *muss* *darauf* *hin*<i></i>*w****eis***en `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
   * -*w****eis***e `.eis.e` → arbeit glück nehm
   * *w****ies*** `(.is)` : `G.is` `.ab.is` `be.is` `er.is` `er.is.ass` `Ü.is` `.I-Ü.is`
-    * ! `w.is`
+    * *wies* `w.is`
 * weiß ← wiss
 * weiß `w.eiss`
 * -***weit***- `T` : `w.T` `w.T.er` `w.T.er.in` @@
@@ -3100,8 +3092,7 @@
 * wert `wet` : `wet.Ol` `.ab.wet`
   * -*wert* `(-t)` → hoch nahr nenn staun streb
 * wes ← sein
-* **west** `w` : `w.L`
-  * ! west `w.est`
+* -**west**- `w` : `w.est` `w.L`
 * wetter `w.et-er`
 * **wicht** `wi` : `wi.i` `wi.i-T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
@@ -3327,6 +3318,5 @@
   * Verben: 
     * `m.al` `m.al.er` `m.al.ei` `G.ma`
   * sonst:
-    * `g.ar` `ga-t`
-    * `j.ug` `.ug.L`
+    * `w.est` `w.L`
 
