@@ -161,8 +161,9 @@
   * barg `b.ag` : `E.b.ag`
   * borg `b.og` : `G.b.og` `E.b.og`
 * *ber****lin*** `(l.in)` : `(l.in).er.i` `w.l.in`
-* besser ← gut
-* best ← gut
+* *besser* `bes`/`br°` : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T` ← gut @-er
+  * → best
+* best `b.est` ← besser
 * bett `b.et` STS
 * *bezichtig* `be.z.i` ← zeih
 * **bi** `bi` : `bi.al`
@@ -443,8 +444,7 @@
 
 ## [E](#wörterbuch)
 
-* eben `.eb`
-  * : *so*eben `.o.eb` ~ `(o).eb`
+* eben `.eb` : `(o).eb`
 * echt `.echt`
 * ego `.eg.o` STS : `.eg.iS` `.eg.iS.i`
   * : ego*ist* : `.eg.i+st` ~ `.eg.ist`
@@ -624,10 +624,10 @@
 * fens `fes` : `d.e-fes.iv` `.o-fes.iv` ← fend
   * *offensiv* `.o-f.iv`
 * fenster `fest.er`
-* ***fer***n `fer` : `v.n.ah.fer`
-  * *in*.~~so~~.***fer***n `IN.fer`
-  * *in*.wie.***fer***n `IN.w.i-fer` ~ `IN.i-fer`
-  * ! fern `f.en` : `f.en.er` `eNT.f.en` `I eNT.f.en.en` `eNT.f.ent`
+* ***fer***n `fer` : `fer-er` `eNT.fer` `eNT.f-ert` `v.n.ah.fer` `(o)fer` STS `IN,(o)fer` `IN,w.i-fer`
+  * *fern* `f.en` : `f.en.er` `eNT.f.en` `eNT.f.ent`
+  * *insofern* `IN.fer`
+  * *inwiefern* `IN.i-fer`
 * **fer** `f` : `d.if.eNT` `d.if.ez` `d.if.ez.ir` `d.if.ir` `ko.f.ez` `ko.f.ir` `pr.f.ez` `r.f.at` `r.f.eNT` `tra.f`
   * differier `d.if.er.ir`
   * *konferenz* `ko.f`
@@ -724,7 +724,7 @@
   * ***förm*** `.öm` : `.öm.L` `N.öm.i` `UN.öm.i`
 * forsch `f.osch` : `f.osch.er` `er.f.osch` `I ach.f.osch.en`
 * -*fug*- `-u` : `f.ug` `be-u.is`
-  * -*füg*- `-Ü` : `f.üg` `f.üg-Sa` `.an-Ü` `b.ei-Ü` `N-Ü` `G.üg` `G.üg.i` `G.ing-Ü.i` `E-Ü` `Z.üg` `Z.Sa.üg` @ü
+  * -*füg*- `-Ü` : `f.üg` `f.üg-Sa` `.an-Ü` `b.ei-Ü` `N-Ü` `G.üg.e` `G.üg.i` `G.ing-Ü.i` `E-Ü` `Z.üg` `Z.Sa.üg` @ü
     * *beigefügt* `b.ei-Ü-G`
     * *zur.verfügung* `zr*-Ü`
 * fug `f.ug`
@@ -894,17 +894,15 @@
   * *mit*<i></i>*gl****ie****d* `M-i`
 * ***glück*** `.ük` : `.ük.L` `.ück.L.eis.e` `be.ük.ed` `UN-ük` `UN.ück,(g)` `E.UN.ük`
 * **gönn** `gö`
-  * **gunst** `gu`
-    * ! gunst `g.ust`
-    * : X `UN-gu` `Z.gu` `Z.m.ei-en:gu` `Z.U°.gu` `Z.U°.en UN-gu`
+  * **gunst** `gu` : `UN-gu` `Z.gu` `Z.m.ei-en:gu` `Z.U°.gu` `Z.m.ei-en,UN-gu` `Z.U°.en,UN-gu`
+    * *zu.meinen.ungunsten* `Z.m.ei-en.UN-G.gu`
+    * *zu.unseren.ungunsten* `Z.U°.UN-G.gu`
     * **günst** `gÜ` : `gÜ.i` `gÜ.i-er` `gÜ.ist` `UN-gÜ.i` `er be.gÜ.i-t.e .in` `I E.gÜ.i` `I E.gÜ.i-en`
 * gunst ← gönn
 * **gut** `gu`
   * **güt** `gÜ` : `gÜ-e` `gÜ.i` `gÜ.L` `gÜ.er` `gÜ.E` `E.gÜ` `E.gÜ.et.e` `E.gÜ.UNG`
     * -*g****ü****t*- `-Ü` : `IN.w-O-Ü.er`
-  * ***bess***er `bes`/`br°`
-    * × *besser* : `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T`
-  * best `b.est`
+  * → besser
 
 ### [GR](#wörterbuch)
 
@@ -991,7 +989,7 @@
     * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er` ≠ linkshändler
 * -***häng***- `eng` : `h.eng` `ab.eng.i` `UN-ab.eng.i` `.an.eng-er` `.an.eng.i`
   * *unabhängig* `UN-ab.i`
-  * -***häng***- `.ing` : `h.ing`
+  * -***hing***- `.ing` : `h.ing`
   * -***hang***- `ang` : `h.ang` `.ab.ang` `.an.ang` `O.ang` `Z.Sa.ang` `IN.iS.em Z.Sa.ang`
     * *zusammenhang* `u-ang` : `IN.iS,u-ang`
       * *in.diesem.zusammenhang* `IN.iS.ang`
@@ -1191,9 +1189,8 @@
 * jubel ← jubil
 * *jubil* `j.ub` : `j.ub.um`
   * *jubel* `j.ub` : `j.ub.d`
-* ***jug*** `.ug`
-  * : *jugend* `.ug` : `.ug.L` `.ug.L.T` `bu.ug.an` `(.es).ug.an`
-    * ! jugend `j.ug.ed` × `j.ug`
+* ***jug*** `.ug` : `.ug.ed` `.ug.L` `.ug.L.T` `bu.ug.an` `(.es).ug.an`
+  * *jugend* `j.ug`
 * jug `j.ug` : `(ko)j.ug.iO`
   * junkt `j.ukt` : `(ko)j.ukt.iO` `(ko)j.ukt.ur` `ho,(ko)j.ukt.ur`
       * *konjunktur* `o-u-ur` : `ho,o-u-ur`
@@ -1360,11 +1357,12 @@
 * **kraft** `kra` : `kra.wa` `M.al.kra`
   * : **kraft***wagen* `kra.wa`
   * **kräft** `kr` : `kr.e` `kr.i` `be.kr.i` `M.al.kr.en` `eNT.kr.et`
-* **krank** `kra` : `kra.ha` `kra.H` `er.kra`
-  * : **krank**en**wag**en `kra.wa` ! `kr.ak.wa` ≠ kraftwagen
+* **krank** `kra` : `kra.ha` `kra.H` `kra.wa` `er.kra`
+  * *krankenwagen* `kr.ak.wa` ≠ kraftwagen
   * *krankheit* `a-H` = schaffung
-  * **kränk** `kr` : `kr-st` `kr.L` `kr.L.T`
-    * ! `kr.ek` : `kr.ek-er`
+  * **kränk** `kr` : `kr.er` `kr-st` `kr.L` `kr.L.T` @-st
+    * *kränken* `kr.ek`
+    * *kränker* `kr.ek-er`
 * kranz `kr.az`
 * krass `kr.ass`
 * krat `kr.at` : `kr.at-er`
@@ -1402,7 +1400,7 @@
   * eben~~so~~.*lang*e `.eb.ang.e`
   * **läng** `eng` : `eng-st` `eng-st.es` `eng-st.e-s`
     * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
-    * * *länger* `eNGR` : `E.eNGR`
+    * *länger* `eNGR` : `E.eNGR`
 * -***lass***- `.ass` : `l.ass` `E.an.ass` `(I)t-er.ass` `.S .an.ass` `.S-s .an.ass`
   * *aus.anlass* `.S.an`
   * *aus.diesem.anlass* `.S-s.an`
@@ -1422,9 +1420,9 @@
     * : ur<i></i>*l****au****b* `.ur-au` ⇒ `.ur,au`
 * ***lauf*** `.auf`
   * ***lief*** `.if` : `be.if`
-    * ! `l.if`
+    * *lief* `l.if`
   * ***läuf*** `.äuf` : `G.äuf.i`
-    * : -*läufig* `eu` : `O,eu` → zwang
+    * -*läufig* `eu` : `O,eu` → zwang
 * laut `l.aut` : `l.aut-er` `E.l.aut` `E.l.aut.bar`
   * *verlautbar* `E-au-bar`
   * läut `l.äut` : `l.äut-er`
@@ -1441,8 +1439,8 @@
     * : *intell*igenz `IN.t.ig.ez` × `IN.t.ez`
     * **l**i `l` : `l.ir`
   * lekt `l.ekt` : `l.ekt.iO` `l.ekt.or` `l.ekt.ür.e` `IN.t.ekt` `IN.t.ekt.ell` `ko.ekt.iO` `ko.ekt.iv`
-* lehn `l.en`
-  * × ab*ge*~~lehnt~~ : `.ab.G`
+* lehn `l.en` : `.ab.l.en`
+  * *abgelehnt* `.ab.G`
 * lehr `l.er`
   * *lehrer* `er-er` : `fa.er-er`
   * *lehrling* `l.ing`
@@ -1526,7 +1524,8 @@
   * *mächt* `eCHT` : `wet,eCHT.e`
 * magen `m.ag`
   * mägen `m.äg`
-* -**mahn**- `ma` : `m.an` `ma-UNG` `.an.ma` `er.ma`
+* -**mahn**- `ma` : `m.an` `m.an.UNG` `.an.ma` `er.ma`
+  * *mahnung* `ma-UNG`
 * mainz `m.eiz`
 * **mak** `ma` : `ma.el`
   * : **mak**ulatur `ma.ur` ! `m.ak.ur`
@@ -2039,7 +2038,7 @@
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(be)ech`
   * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
 * ***recht*** `echt` : `echt.L` `Ts:echt` `(.es):echt` `m.H,wa.echt`
-  * ~ *recht* `r` : `AU-r` `G.r` `O.r`
+  * *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `be.S.o:er-r.ed`
 * **reg** `r` : `G.r.elt` `r.el.i`
@@ -2186,8 +2185,8 @@
   * säum `s.äum` : `E-s.äum.is`
 * seel `s.el` : `s.el.e` `s.el,o-e`
   * : seel**isch** `s.el.i` ! `s.el.isch`
-* seh `s.eh`
-  * × ~~seh~~ : *un*<i></i>*ver*~~seh~~ens `UN-E-s`
+* seh `s.eh` `UN-E.s.eh.ens`
+  * *unversehens* `UN-E-s`
   * *fernseh* `f-s` : `f-s-er`
   * sieh `s.ih`
   * sah `s.ah`
@@ -2335,7 +2334,7 @@
 * **skal** `ska` : `.e-ska.ir` `.e-ska.iO`
   * ! `sk.al` : `sk.al.a` `sk.al.en`
 * *so* `.o` : `.eb.o`
-  * *so*- `o`
+  * *so*- `(o)` → eben gar
   * → sonst
 * sol `s.ol` : `s.ol.id` `s.ol.id.ät` `s.ol.id.ar.i` `s.ol.id.ar.ät` `ko-s.ol.ir-UNG`
 * *solch* `(s)ch`
@@ -2345,8 +2344,8 @@
   * *absolv* `.ab-s.ow` : `.ab-s.ow.ir` `.ab-s.ow.eNT`
   * *insolvenz* `IN.s.o`
   * **s**ol `s` : `r.s.ut` `r.s.iO`
-    * × ~~sol~~ : `ab.ut` `.ab.iS`
-      * : ab~~sol~~ut*istisch* `.ab.ut.iS.i` × `.ab.ut.i`
+    * *absol* `ab` : `.ab.ut` `.ab.iS` `.ab.iS.i`
+      * *absolutistisch* `.ab.ut.i`
 * *sommer* `s.om`
 * son `s.on` : `s.on.at.e`
   * : *dis*sonanz `ds.s.on.az` ! `d.is-s.on.az` × `d.is-s.o`
@@ -3310,13 +3309,24 @@
 ## TODOs
 
 * entfernen
-  * * : 
+  * : 
   * ~
   * !
   * ×
+
+* `UN-…` → `UN.…`
 
 ### Nicht einheitlich gekürzte Wortfamilien
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
+
+### Stämme in Verbindungen
+
+* germanische Stämme
+  * Verben: 
+    * `m.al` `m.al.er` `m.al.ei` `G.ma`
+  * sonst:
+    * `g.ar` `ga-t`
+    * `j.ug` `.ug.L`
 
