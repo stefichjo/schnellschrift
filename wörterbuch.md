@@ -834,9 +834,8 @@
     * *ergebnis* `er.is` : `er.is.os`
   * ***gib*** `.ib` : `ach.ib.i-T` `er.ib.i`
   * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `AU.ab.e` `AU.ab.it` `.S.ab.e` `be.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
-    * *aufgab* `AU` : `AU.e` `AU.it`
+    * -~~gab~~- : `AU.e` `AU.it` `.S.e`
       * *aufgabengebiet* `AU.en.it` ≠ auf.dem.gebiet
-    * *ausgab* `.S` : `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
   * → gift
 * geburt ← gebär ← bär
@@ -939,11 +938,11 @@
   * **gröb** `grö`
 * **gress** `gr` : `(ko)gr` `(o)gr.iv` `(o)gr.iO` `(r)gr` ← grad
 * *groß* = **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `gr.h-er` `M.gr.H` ≠ grob
-  * **größ** `grö` : `grö.e`
-    * : *ver*<i></i>*größ*ern `(E)grö.er` × `(E)grö`
-* **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `v.gru.AU`
-  * : *aus*.*dies*em.**grund**e `.S-S.gru.e` × `.S-S.e`
-  * : **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.L.T` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(be)grÜ` `UN-be.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (be)grÜ`
+  * **größ** `grö` : `grö.e` `(E)grö.er`
+    * *vergrößern* `(E)grö` @-er
+* **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `.S-S.gru.e` `v.gru.AU`
+  * *aus.diesem.grunde* `.S-S.e`
+  * **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.L.T` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(be)grÜ` `UN-be.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (be)grÜ`
     * : **hind**er*ung*s**gründ**e `hi-er-UNG.grÜ.e` ~ `hi-er-UNG-Ü.e`
 * **grupp** `gru` : `gru.en` `gru.ir-UNG` `gru.eis.e` `.um:gru.ir`
   * *gruppe* `gru.e`
@@ -3170,7 +3169,7 @@
     * *wüsste* `w.üsst.e` ≠ müsste
 * **witw** `wi` : `wi-er`
 * witz `w.iz` : `w.iz.i` `w.iz.os`
-  * -~~witzi~~***g*** `(g)` → wahn
+  * -*witzig* `(g)` → wahn
 * **wo** `wo` : `.i-wo` STS
   * **wo**-, **wor**- `wo`
   * **war** `war` : `war-u`
@@ -3315,7 +3314,7 @@
 ## TODOs
 
 * entfernen
-  * ` × ` (85)
+  * ` × ` (82)
   * ` ~ ` (142)
   * ` ! ` (120)
   * ` : ` (418)
