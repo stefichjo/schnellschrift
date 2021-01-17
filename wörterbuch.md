@@ -714,9 +714,8 @@
     * : **flüss***ig* `flÜ.i` ~ `.üss.i`
     * : ein**flüss** `N.flÜ` ~ `N,flü`
 * ***flott*** `.ot` : `.ot.e` `ha.el.ot.e`
-* **flu** `flu`
-  * **kon**<i></i>**flu**enz `ko.flu.ez` STS
-  * *in***flu**enza `IN.flu.ez.a` × `IN.flu.a`
+* **flu** `flu` : `IN.flu.ez.a` `ko.flu.ez` STS
+  * *influenza* `IN.flu.a`
 * ***flucht*** `.ucht` ← flieh
   * ***flücht*** `.ücht` : `.S.ücht.e`
     * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = `ing`; = beding
@@ -727,9 +726,9 @@
   * *erfolg* `er` : `er.eich`
     * *erfolgreich* `er,r.ei` ≠ erreich
 * foli `f.ol.I` : `f.ol.I.e` `f.ol.I.en`
-* *forder* `F` : `F-d` `F-UNG` `AU.F` `er F` `er F-t.e` `er F.e` `I F` `I F.en`
-  * : *er**forder**lich* `er.F.L` ~ `er.o-L`
-  * : *un*<i></i>*bedi****ng***t *er*<i></i>*forder*<i></i>*lich* `(UN.ng)-t er.F.L` × `UN-t.L`
+* *forder* `F` : `F-d` `F-UNG` `AU.F` `er.F.L` `er F` `er F-t.e` `er F.e` `I F` `I F.en` `(UN.ng)-t er.F.L`
+  * *erforderlich* `er.o-L` : `(UN.ng)-t er.o-L`
+    * *unbedingt.erforderlich* `UN-t.L`
   * *förder* `Fö` : `er Fö` `er Fö-t.e` `I Fö` `I be.Fö.en`
 * *fort* `fr` : `(o)fr`
 * ***form*** `.om` : `.om.al` `.om.al.iS.i` `.om.al.ät` `.om.at` `.om-o` `.om.el` `.om.ell` `.om.ir` `.om.os` `.om.ar` `.om.ul.ir` `.om,(.e)` `IN.om.ik` `IN.om.ik-er` `IN.om-o` `IN.om.iv` `ko.om` `ko.om.ät` `ko.om.iS` `ko.om.iS.i` `r.om` `r.om-o` `r.om.or.i` `r.om.ir` `tra.om.or` `.um.om` `.un.om`
@@ -759,11 +758,7 @@
     * *erfüllen* `er-Ü.en`
 * **fund** `fu` : `fu.ir` `d.i,fu`
   * : **fund***ament* `fu.eNT` ~ `fu-t`
-  * **fus** `fu` STS
-    * : dif**fus** `d.i,fu` ! `d.i-f.us`
-    * : **kon**<i></i>**fus** `ko.fu` ! `ko.f.us`
-    * : **fus***ion* `fu-o` ~ `f.us` ≠ funktion
-    * : *trans***fus***ion* `tra.fu-o` ! `tra.f.us.iO` × `tra.f.us`
+  * → fus
 * fung `f.ung` : `f.ung.ir`
   * **funkt** `fu` : `fu-o` `fu-o.ir`
     * : **funkt**or `fu.or` ! `f.ukt.or`
@@ -773,6 +768,8 @@
 * **f**ür `f` : `f.ei-ad-er` `.a-f`
 * furcht `f.ucht` : `f.ucht.bar` `f.ucht.os` `f.ucht-Sa`
   * fürcht `f.ücht` : `f.ücht.et.e` `f.ücht.L` `be.f.ücht`
+* fus `f.us` : `f.us.iO` `f.us.iO.ir` `d.i-f.us` `ko.f.us` `tra.f.us.iO` ← fund
+  * *fusion* `f.us` : `f.us.ir` `f.us.ha*.en` `tra.f.us`
 * **fuß** `fu` : `ha.fu`
 * **futt** `fu` : `fu-er`
   * **fütt** `fü` : `fü-er`
@@ -794,8 +791,8 @@
   * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L` : `UN.eu-L`
   * : *freund*<i></i>*schaft* `.eund.FT` ~ `eu.FT` : `ga,eu.FT`
   * -fr**eu**nd `eu` : `.an,eu` → schaft welt
-* ***fried*** `.id` : `b.ug.id.e`
-  * : *un*<i></i>*zu****fried***en `UN-z.id.en` × `UN-z.id`
+* ***fried*** `.id` : `b.ug.id.e` `UN-z.id.en`
+  * *unzufrieden* `UN-z.id` @-en
 * frier `fr.ir` STS
   * fror `fr.or` : `Z.fr.or`
   * frost `fr.ost`
@@ -803,9 +800,9 @@
   * : **lang**<i></i>***frist****ig* `ang.ist.ig` ~ `.ang.i`
 * **froh** `fro`
   * **fröh** `frö` : `frö.L`
-* **fro**nt `fr.o`
-  * : **kon**<i></i>**fro**ntier `ko.fr.o.ir` × `ko.fr.o`
-  * : **kon**<i></i>**fro**ntat*ion* `ko.fr.o.iO` ~ `ko.fr.ot.iO`
+* **fro**nt `fr` : `fr.o` `ko.fr.ir` `ko.fr.iO`
+  * *konfrontier* `ko.fr.o`
+  * *konfrontation* `ko.fr.ot.iO`
 * **frucht** `fru` : `fru.bar`
   * **frücht** `frÜ`
     * -*frücht* `-Ü` → süd
@@ -995,7 +992,7 @@
     * : *miss*<i></i>**hand**eln `ms.ha.el` × `ms.ha`
     * -*handel* `ha` → auss buch einzel groß welt
     * : *handlung* `ha*` : `bu:ha*` `E.ha*`
-      * : *ver***trag**s*ver*<i></i>*handlung*en `(E)tra.E.ha*.en` × `(E)tra.ha*.en`
+      * -*verhandlung* `ha*` → fusion vertrag
   * **händ** `h` : `h.e` `.S.h.i`
     * : **händ**ler `h.l-er` × `h-er`
       * -*händler* `h-er` → einzel groß vieh
@@ -2845,7 +2842,7 @@
 
 * **tracht** `tra` : `(be)tra` `(be)tra.et.e` `(N)tra` ← trag trakt
   * **trächt** `tr` : `tr.i` `be.N.tr.i` `be.N.tr.i-t.e` `(N)tr.i` `(ndr)tr.i-T`
-* -**trag**- `tra` : `tr.ag` `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `n.S.tra` `(.ei)tra` `(er)tra` `(er)tra.eich` `ach.tra` `v.is.um.an.tra` `(E)tra` `(E)tra-Ü.i` `.auf,(E)tra` `l.i-er-UNG,(E)tra` `(E)tra-Ü.i` `(E)tra,i` `(Ü)tra` `di-Ü:tra`
+* -**trag**- `tra` : `tr.ag` `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `n.S.tra` `(.ei)tra` `(er)tra` `(er)tra.eich` `ach.tra` `v.is.um.an.tra` `(E)tra` `(E)tra-Ü.i` `(E)tra.ha*.en` `.auf,(E)tra` `l.i-er-UNG,(E)tra` `(E)tra-Ü.i` `(E)tra,i` `(Ü)tra` `di-Ü:tra`
   * -*vertrag* `tra` → kauf liefer
   * ~~trag~~ : `be.an` `be.AU` `(r) .an` `.im:be.v`
     * ~~tragte~~ : `(r),be.AU`
