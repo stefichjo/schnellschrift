@@ -686,17 +686,15 @@
 * **f**iz `f` : `b.en.e-f` `d.e-f.it` `.e-f.eNT` `ko.e-f.eNT` `.o-f.ieL` ← faz @-ent
   * *defizit* `d.e-it`
   * *efizient* `.e-f.iz.eNT`
-* **fl** `fl` STS : `s.u-fl.ir`
-  * **flat** `fla` : `IN.fla.or.i`
-    * *in***flat**or**isch**
-    * *in***flat**<i></i>*ion* `IN.fla-o` × `IN.fla`
-      * : *in***flat**<i></i>*ion*är `IN.fla-o.är` × `IN.fla.är`
-      * : *in***flat**<i></i>*ion*<i></i>*istisch* `IN.fla-o.iS.i` × `IN.fla.iS.i` × `IN.fla.i`
+* fl `fl` STS : `s.u-fl.ir`
+  * → flat
 * **flach** `fla`
   * **fläch** `fl`
 * **flamm** `fla` : `fla-e` `AU.fla` `eNT.fla`
   * flamm : `fl.am.e`
     * flämm : `fl.äm`
+* **flat** `fla` : `IN.fla-o` `IN.fla-o.är` `IN.fla-o.iS.i` `IN.fla.or.i` ← fl
+  * *inflation* `IN.fla` : `IN.fla.är` `IN.fla.iS.i`
 * ***flieg*** `.ig`
   * ***flog*** `.og`
   * ***flug*** `.ug`
@@ -1168,7 +1166,9 @@
 * -**isch** `.i`/`.isch`
 * -*ismus* `.iS`
 * ist ← sein
-* -*istisch* `.iS.i`
+* -ist `.ist`
+  * -*istisch* `.iS.i` @-istisch
+    * *inflationistisch* `IN.fla.i`
 * it `.it` : `IN.it.iaL.e` `IN.it.iaL.en` `tra.it`
   * *in*itiative `IN.it.iv.e` × `IN.iv.e`
   * *in*itiator `IN.it.or` ~ `IN.at.or`
@@ -3318,7 +3318,7 @@
 ## TODOs
 
 * entfernen
-  * ` × ` (109)
+  * ` × ` (91)
   * ` ~ ` (142)
   * ` ! ` (120)
   * ` : ` (418)
