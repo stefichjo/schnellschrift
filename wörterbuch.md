@@ -8,7 +8,7 @@
 * ab `.ab` : `.ab.a`
 * *ab****end*** `(.ed)`
 * *aber* `ber` : `ber.ma-s` `ber,au` STS `ber-r`
-  * *aber.auch* `ber-aY`
+  * *aber.auch* `ber-aY` @au
 * acht `.acht` : `.acht-Sa` `be.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
   * -*acht* `.a` : `gu.a.en` `gu.a.er`
@@ -1672,13 +1672,10 @@
   * *in*.*de****n***.*näch****st***en.*mon****at***en `(I)n,(-st).at.en` ! `(I)n,-st (.at).en`
   * *in*.~~den~~.*letzt*en.*mon****at***en `(I)let.at.en` ! `(I)let,(.at).en`
 * mono- `m.on.o`
-* **monstr** `mo` : `d.e-mo-o` `d.e-mo.ir`
-  * : **monstr**um `mo.um` ! `mo-s.um`
-  * : **monstr**osität `mo.ät` ! `mo-s.ät`
-  * ! monster `most.er`
+* -**monstr**- `mo` : `most.er` `mo.um` `mo.ät` `d.e-mo-o` `d.e-mo.ir`
+  * *monstr* `mo-s` : `mos.um` `mos.ät`
 * mont `m.ot` `mot` : `m.ot.asch.e` `m.ot.ir` `m.ot.ör`
-* **morg** `mo` : `mo-Ü`
-  * ! morgen `m.og`
+* -**morg**- `mo` : `m.og` `mo-s` `Ü.mo` `mo-Ü`
 * mot `m.ot` : `m.ot.iw-o` `m.ot.iv.ir` `m.ot.or` `.e-m.ot.iO` `.e-m.ot.i-aL` ← mov
   * *motor* `m.ot`
 * mov → moment mot
@@ -2107,7 +2104,7 @@
 * roman `r.om.an` : `r.om.an.i+st.ik` `r.om.an.iS.i`
   * *romant* `r.o+mat` : `r.o+mat.ik` `r.o+mat.isch`
 * **rück** `rÜ` : `rÜ-t.ig`
-  * -*r****ü****ck* `-Ü`
+  * -*rück* `-Ü`
   * *zurück* `u-rÜ` : `dar-AU u-rÜ.ür`
     * -~~zurück~~- : `dar-AU-Ür`
 * **rud** `ru` : `ru-er` `ru-er.N`
@@ -2153,6 +2150,7 @@
 * -sal `s.al` → scheu schick @scheu
 * -*sam* `Sa`
 * *samm* `Sa` : `Z.Sa`
+  * *zusamm* `u-Sa` STS
   * → sammel
 * **samm**el `sa.el` : `sa.l-UNG` ← samm
   * *versammel* `E.Sa` : `E.Sa.UNG`
@@ -2349,7 +2347,7 @@
 * *sonder* `S` : `S.bar` `S,au` `S.barst.e`
   * *besonder*, *besonders* `b°`
     * -*besonder*, -*besonders* `-S` → ganz in merk
-  * *sondern.auch* `S-au` `S-aY`
+  * *sondern.auch* `S-au` `S-aY` @au
 * sonn `s.on` : `s.on.e`
 * *s****onst*** `(.ost)` ← so
 * -*sorg*- `S.o` : `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `b.S.o` `b.S.o.is` `UN.b.S.o` `f.S.o` `f.S.o-L` `E.S.o` `E.S.o-er` `O.S.o` `O.S.o.L` `.a-f-S.o`
@@ -3306,10 +3304,10 @@
 ## TODOs
 
 * entfernen
-  * : 
-  * ~
-  * !
-  * ×
+  * `* × ` (0 + 109)
+  * `* ~ ` (0 + 142)
+  * `* ! ` (25 + 127)
+  * `* : ` (418)
 
 * `UN-…` → `UN.…`
 
