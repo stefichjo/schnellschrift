@@ -511,6 +511,7 @@
 * emp*f****i****nd* `.emp-i` ← find
   * emp*f****a****nd* `.emp-a`
   * emp*f****u****nd* `.emp-u`
+* -en `.en`
 * end `.ed` : `.ed.e` `be.ed.et` `be.ed.i` `Ol.ed` `.ed.L` `UN.ed.L` `UN.ed.L.T` @-lichkeit
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
@@ -1049,8 +1050,7 @@
   * *meine.damen.und.herren* `.ei-a-h` = einzelhaft
   * → herrsch
 * **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `be.h.sch` `I -st,be.h.sch` `h.sch.s.ücht.i` ← herr
-* *her****z*** `(z)` : `(z).ha` `(z).L` `(z).os` `kust,(z)` `w.eich,(z).i`
-  * : *her****z****lich*<i></i>*keit* `(z).L.T` × `(z).T`
+* *her****z*** `(z)` : `(z).ha` `(z).L` `(z).L.T` `(z).os` `kust,(z)` `w.eich,(z).i` @-lichkeit
 * heuer `h.eu-er` : `UN-G.h.eu-er`
 * **heut** `heu` : `heu-Ü`
 * **hier** `hi` : `(hi)AU` `hi.S` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER`
@@ -1078,8 +1078,8 @@
   * : **höch**stens `hö-t.e-s` ~ `hö°` @-st
   * **hoh**, **ho** `ho` `ho.H` `(.es).ho.H`
     * *hoheit* `o-H` : `(.es).o-H`
-    * **höh** `hö` : `hö-er` `hö-er-er` `hö.e` `hö,(er)` `hö,u` `hö,u.e` `.an.hö.e` `er.hö` `.ei-e 3,(g) er.hö`
-      * : *die*.**lohn***er***höh***ung* `I l.o-er.hö` × `I l.o-er`
+    * **höh** `hö` : `hö-er` `hö-er-er` `hö.e` `hö,(er)` `hö,u` `hö,u.e` `.an.hö.e` `er.hö` `.ei-e 3,(g) er.hö` `I l.o-er.hö`
+      * *die.lohnerhöhung* `I l.o-er`
 * **hof** `ho` : `ba.ho`
 * hoh ← hoch
 * hohl `h.ol`
@@ -1103,6 +1103,8 @@
 
 ## [I](#wörterbuch)
 
+* -ia
+  * → -ien
 * -*ial* `.iaL`
   * -*iell* `.ieL`
 * *ich* `.I`
@@ -1111,6 +1113,9 @@
   * -idier `.ir`
   * -idor `.or`
 * ide `.id.e` : `.id.e-al` `.id.e-al.iS` `.id.e-al.iS.i` `.id.e-al.ist` `.id.e-ell`
+* -*i*en `I.en` ← -ia
+  * -*i*ener `I.er`
+  * -*i*en*isch* `I.i`
 * -ier- `.ir`
 * -ifik- ← fak
 * -*ifik*- `.if` : `.if-o`
@@ -1161,12 +1166,12 @@
 * -ist `.ist`
   * -*istisch* `.iS.i` @-istisch
     * *inflationistisch* `IN.fla.i`
-* it `.it` : `IN.it.iaL.e` `IN.it.iaL.en` `tra.it`
-  * *in*itiative `IN.it.iv.e` × `IN.iv.e`
-  * *in*itiator `IN.it.or` ~ `IN.at.or`
+* it `.it` : `IN.it.iaL.e` `IN.it.iaL.en` `IN.it.iv.e` `IN.it.or` `tra.it`
+  * *initiative* `IN.iv.e`
+  * *initiator* `IN.at.or`
 * -it- ← -at-
-* *itali* `.it` : `.it.er` `.it.i`
-  * : *itali*en `.it.en` × `.it`
+* *itali* `.it` : `.it.en` `.it.er` `.it.i`
+  * *italien* `.it`
 * -iv `.iv` : `.iw-o` `.iv.ir`
 * iz ← ik
 
@@ -1472,6 +1477,7 @@
   * -*lich*<i></i>*keit* `L.T` @-lichkeit
     * *unendlichkeit* `UN.ed.T`
     * *beharrlichkeit* `be.arr.T`
+    * *herzlichkeit* `(z).T`
 * licht `l.icht`
 * lieb `l.ib`
 * *liefer* `l.i-er` : `l.i-er-UNG:tra`
@@ -1481,10 +1487,10 @@
     * *lager* `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
   * **leg** `l` : `l-t.e` `.ab.l` `be.l` `dar-AU.l` `G.l.H` `.an.l.H` `Ü.l` `E.l` `E.l.er` `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed`  `n.ah.l` `.ar.l`
     * *verleger* `E.l.eg-er`
-    * *gelegenheit* `G.H`
-      * : an*ge***leg**en*heit* `.an.l.H` × `.an.H`
-        * : *aus*wertige an*ge***leg**en*heit*en `.S.wet.ig.e .an.l.H.en` × `.S.H.en`
-      * : bei.*dies*er *ge***leg**en*heit* `b.ei-iS-er G-l.H` × `b.ei-iS.H`
+    * *gelegenheit* `G.H` : `.an.l.H` `.S.wet.ig.e .an.l.H.en` `b.ei-iS-er G.l.H`
+      * *angelegenheit* `.an.H` : `.S.wet.ig.e .an.H.en`
+        * *auswertige.angelegenheiten* `.S.H.en`
+      * *bei.dieser.gelegenheit* `b.ei-iS.H`
 * **lier** `li`
   * : *ver***lier** `E,li` ~ `(E)li`
   * **lor** `lo`
