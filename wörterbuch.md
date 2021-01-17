@@ -963,7 +963,7 @@
   * → heb
 * hab `h.ab` :  `h.ab.us`
   * : habilitier `h.ab.ir` ! `h.ab.il.ir`
-* **haft** `ha` : `ha,i` `.ei-ha` = handschrift ← hab
+* **haft** `ha` : `ha,i` `.ei-ha` = handschrift meine.damen.und.herren ← hab
   * : ~~nam~~**haft** `(ha)` STS
 * halb `h.ab` : `h.ab.ir` `h.ab-er` `h.ab.T` `(r) .od-UNG h.ab-er`
   * -*halb* `ha` : → außer des inner unter wes
@@ -985,7 +985,7 @@
 * **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` `li:ha` `ha.IN.ha` = haftpflicht
   * **hand**el : `ha.el` `ha.el.d` `ha.elt.e` `G.ha.elt` `be.ha.el` `N.ha.el` `.ei-ha.el` `ms.ha.el` `ha.el.bu` `ha.el.um`
     * *handelt.sich.um*, *handelt.es.sich.um* `ha.um`
-    * -*handel* `ha` → auss buch groß welt
+    * -*handel* `ha` → auß buch groß welt
     * -*handel*- `ha` : `be.ha` `N.ha` `ms.ha`
     * *handlung* `ha*` : `bu:ha*` `E.ha*`
       * -*verhandlung* `ha*` → fusion vertrag
@@ -1002,8 +1002,7 @@
 * harm `h.am` : `h.am.os`
 * *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i`
   * *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
-* ***harr*** `arr`
-  * : **be*****harr*** `be.arr.L.T` × `be.arr.T`
+* ***harr*** `arr` : `be.arr.L.T` @-lichkeit
 * **hart** `hat`
   * **härt** `het` : `het.e` `het.est` `G.het` `.ab.het` `er.het`
 * **haupt** `hau` : `be.hau.et` `hau.a.L` `hau.uss` `hau,(.e)` `hau.L` `(.es).hau`
@@ -1044,11 +1043,12 @@
   * *mehr.als.vorher* `m.as.h`
   * *her*- `.e` → auf bei unter vor
 * *her****bst*** `(bst)` : `(bst).L`
-* **herr** `h` : `h.in` `h.L` `h.FT` `m.ei-h.en` `s-G.ert.h.en`
-  * : *de****r***.**herr** `(r)h`
-  * : **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `be.h.sch` `I -st,be.h.sch` `h.sch.s.ücht.i`
-  * : **herr**<i></i>**isch** `h.i` ! `h.err.i`
-  * : m**ein**e.~~damen~~.~~und~~.**herr**en `.ei-a-h.en` × `.ei-a-h`
+* **herr** `h` : `h.in` `h.i` `h.L` `h.FT` `m.ei-h.en` `s-G.ert.h.en` `(r) h` `.ei-a-h.en`
+  * *herrisch* `h.err.i`
+  * *der.herr* `(r)h`
+  * *meine.damen.und.herren* `.ei-a-h` = einzelhaft
+  * → herrsch
+* **herr**sch `h.sch` : `h.scht.e` `h.sch.er` `be.h.sch` `I -st,be.h.sch` `h.sch.s.ücht.i` ← herr
 * *her****z*** `(z)` : `(z).ha` `(z).L` `(z).os` `kust,(z)` `w.eich,(z).i`
   * : *her****z****lich*<i></i>*keit* `(z).L.T` × `(z).T`
 * heuer `h.eu-er` : `UN-G.h.eu-er`
@@ -1471,6 +1471,7 @@
 * -*lich* `L`
   * -*lich*<i></i>*keit* `L.T` @-lichkeit
     * *unendlichkeit* `UN.ed.T`
+    * *beharrlichkeit* `be.arr.T`
 * licht `l.icht`
 * lieb `l.ib`
 * *liefer* `l.i-er` : `l.i-er-UNG:tra`
