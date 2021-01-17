@@ -24,9 +24,14 @@
   * → akt
 * -age `.asch.e`
 * **ak**adem `.ak` : `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I`
-* -*akt*- `-t` : `.akt` `-t.I.e` `-t.iO` `-t.iO.är` `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` `w.eb-t.iO` ← ag
-  * *aktie* `(.I).e`
-  * *aktionär* `(.I).är`
+* -*akt*- `-t` ← ag
+  * : `.akt` `.akt.I.e` `.akt.I.en` `.akt.iO` `.akt.iO.är` `.akt.iv` `.akt.iv.ir` `.akt.al.ät` `.akt.ell`
+  * : `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` `r-t.or` `w.eb-t.iO`
+  * *akti* `(.I)` : `(.I).e` `(.I).en` `(.I).on` `(.I).on.är`
+    * *aktion* `-t.iO` : `-t.iO.är`
+      * *aktionär* `(.I).är`
+  * *aktiv* `-t.iv` : `-t.iv.ir`
+  * *aktu* `-t` : `-t.al.ät` `-t.ell`
   * *reaktor* `r.akt.or` ≠ rentner
 * akzent ← kan
 * -al `.al`
@@ -2942,22 +2947,25 @@
 * *verzicht* `E-i` ← verzeih
 * **vest** `v` : `IN.w.ir` `IN.w-o`
   * : *in***vest**ment `IN.w.met` × `IN.w` = invest
-* **v**id `v` : `d.i-w.ir` `r.w.ir`
+* -**v**id- `v` : `d.i-w.ir` `r.w.ir`
   * : ~~*divi*~~***dend***e `(d.ed).e`
   * *individ* = *in***d**i~~vid~~ : `IN.d.al.ät` `IN.d.ell` `IN.d.um`
   * → video
-  * **v**is `v` : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `r.w-o` `r.w.or`
-    * ! `v.is` : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.isr` `v.is.um` `v.is.a`
-    * *pro***v**isorien `(o)w.or.I.en` × `(o)w.I.en`
-    * *devis* = de***vis*** `d.e-is` : `d.e-is.e` `d.e-is.en`
-  * vue `v.ü` : `r.w.ü`
+  * → vis
+  * → vue
 * *video* `vi.o` : `vi.os` `vi.o-t.ek` ← vid
 * **vieh** `vi` : `vi.i` `vi:h-er` `vi,u`
   * -***vieh*** `.ih` → rind schlacht
 * ***viel*** `.il`
   * : *so****viel*** `.o-il` ~ `.o-l`
 * vier `v.ir`
-  *viert* `vi` : `vi.el`
+  * *viert* `vi` : `vi.el`
+* -**v**is- `v`
+  * : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.isr` `v.is.um` `v.is.a`
+  * : `d.e-w.e` `d.e-w.en`
+  * : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `(o)w.or.I.en` `r.w-o` `r.w.or` ← vid
+  * *devis* `d.e-is` : `d.e-is.e` `d.e-is.en`
+  * *provisorien* `(o)w.I.en`
 * *volk*, *völk*
 * *voll* `Ol`
   * -*voll* `-ol` → dienst drang effekt
@@ -2977,6 +2985,7 @@
   * : *vori****g*** `(g)`
 * **vot** `v`
   * -*votum* `.um` → trau
+* vue `v.ü` : `r.w.ü` ← vid
 
 ## [W](#wörterbuch)
 
@@ -3307,7 +3316,7 @@
 * entfernen
   * `* × ` (0 + 109)
   * `* ~ ` (0 + 142)
-  * `* ! ` (11 + 127)
+  * `* ! ` (5 + 127)
   * `* : ` (418)
 
 * `UN-…` → `UN.…`
