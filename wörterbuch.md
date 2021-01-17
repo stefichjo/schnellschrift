@@ -485,9 +485,8 @@
   * -*vereinigung* `ig` → wieder
   * -~~ein~~- : `E.bar` `E.ig`
   * *einst* `.eist` : `.eist.ig` `.eist.ma-s` `.eist.w.eil`
-  * *einzel*, *einzeln* `N.el` : `N.el.H.en` `E.N.el` `.im.N.el`
-    * *einzel*- `.ei` : `.ei-h-er`
-      * : `.ei-ha` ! `.ei-ha.el` ≠ meine damen und herren
+  * *einzel*, *einzeln* `N.el` : `N.el.H` `E.N.el` `.im.N.el`
+    * *einzel*- `.ei` → haft handel händler
   * *ein****z*** `(z)` : `(z).i`
 * ein `N` : `h.N` `n.N` `v O.n.h.N`
   * *hinein* `hi.N` ≠ nein
@@ -937,7 +936,7 @@
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
 * **gress** `gr` : `(ko)gr` `(o)gr.iv` `(o)gr.iO` `(r)gr` ← grad
-* *groß* = **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `gr.h-er` `M.gr.H` ≠ grob
+* *groß* = **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `M.gr.H` ≠ grob
   * **größ** `grö` : `grö.e` `(E)grö.er`
     * *vergrößern* `(E)grö` @-er
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `.S-S.gru.e` `v.gru.AU`
@@ -960,12 +959,12 @@
     * **hat**.*sich* `ha*`
   * *hatt* `t`
     * *hätt* `.ät`
-  * **haft** `ha` : `ha,i`
-    * : ~~nam~~**haft** `(ha)` STS
-    * : *einzel***haft** `N.el.ha` ~ `.ei-ha`
+  * → haft
   * → heb
 * hab `h.ab` :  `h.ab.us`
   * : habilitier `h.ab.ir` ! `h.ab.il.ir`
+* **haft** `ha` : `ha,i` `.ei-ha` = handschrift ← hab
+  * : ~~nam~~**haft** `(ha)` STS
 * halb `h.ab` : `h.ab.ir` `h.ab-er` `h.ab.T` `(r) .od-UNG h.ab-er`
   * -*halb* `ha` : → außer des inner unter wes
   * *halb*- `ha` : → insel jahr wicht
@@ -983,17 +982,16 @@
       * *behielt* `b,hi`
 * hammer `h.am.er`
   * hämmer `h.em.er`
-* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` `li:ha` `ha.IN.ha`
-  * : **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `G.ha.elt` `be.ha.el` `N.ha.el` `ms.ha.el` `ha.el.bu` `ha.el.um`
+* **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` `li:ha` `ha.IN.ha` = haftpflicht
+  * **hand**el : `ha.el` `ha.el.d` `ha.elt.e` `G.ha.elt` `be.ha.el` `N.ha.el` `.ei-ha.el` `ms.ha.el` `ha.el.bu` `ha.el.um`
     * *handelt.sich.um*, *handelt.es.sich.um* `ha.um`
-    * -*handel* `ha` → auss buch einzel groß welt
+    * -*handel* `ha` → auss buch groß welt
     * -*handel*- `ha` : `be.ha` `N.ha` `ms.ha`
     * *handlung* `ha*` : `bu:ha*` `E.ha*`
       * -*verhandlung* `ha*` → fusion vertrag
-  * **händ** `h` : `h.e` `.S.h.i`
-    * : **händ**ler `h.l-er` × `h-er`
-      * -*händler* `h-er` → einzel groß vieh
-    * : **link**s**händ**er `li.h-er` ~ `li:h.ed-er` ≠ linkshändler
+  * **händ** `h` : `h.e` `h.l.er` `.S.h.i` `li.h-er`
+    * *händler* `h-er` : `.ei-h-er` `gr.h-er` `vi:h-er`
+    * *linkshänder* `li:h.ed-er` ≠ linkshändler
 * -***häng***- `eng` : `h.eng` `ab.eng.i` `UN-ab.eng.i` `.an.eng-er` `.an.eng.i`
   * *unabhängig* `UN-ab.i`
   * -***hing***- `.ing` : `h.ing`
@@ -1480,7 +1478,7 @@
   * : an**lieg**er `.an.li-er` ! `.an.l.ig-er`
   * **lag** `la` : `E.la` `.an.la-e` `gru.la-e` `.im.a.an.la-e` `ndr.la-e` `UNTER.la-e` `O.la-e`
     * *lager* `l.ag-er` : `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
-  * **leg** `l` : `l-t.e` `.ab.l` `be.l` `dar-AU.l` `G.l.H` `.an.l.H` `Ü.l` `E.l` `E.l-er` `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed`  `n.ah.l` `.ar.l`
+  * **leg** `l` : `l-t.e` `.ab.l` `be.l` `dar-AU.l` `G.l.H` `.an.l.H` `Ü.l` `E.l` `E.l.er` `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed`  `n.ah.l` `.ar.l`
     * *verleger* `E.l.eg-er`
     * *gelegenheit* `G.H`
       * : an*ge***leg**en*heit* `.an.l.H` × `.an.H`
@@ -2473,7 +2471,7 @@
 * **schul** `.ul` : `.ul.e` `fa.ul.e` `ho.ul.e` `ho.ul.eif.e`
   * *fahrschule* `fa.sch.ul.e` ≠ fachschule
   * *hochschule* `ho-u` : `ho-u.om`
-  * **schül** `.ül` : `.ül-er`
+  * **schül** `.ül` : `.ül.er` `.ül.er.in`
     * -**schüler** `-Ü.er` : `ho-Ü.er`
 * **schutz** `.uz`
   * -sch**u**tz `u` : → sicht strahl welt
@@ -2953,7 +2951,7 @@
   * → vis
   * → vue
 * *video* `vi.o` : `vi.os` `vi.o-t.ek` ← vid
-* **vieh** `vi` : `vi.i` `vi:h-er` `vi,u`
+* **vieh** `vi` : `vi.i` `vi,u`
   * -***vieh*** `.ih` → rind schlacht
 * ***viel*** `.il`
   * : *so****viel*** `.o-il` ~ `.o-l`
@@ -3260,7 +3258,7 @@
     * **zög** `.ög` : `.ög-er`
   * **zug** `.ug` : `.ug.ug`
     * **züg** `.üg` : `.üg.e` `.üg.el` `.üg.i`
-      * ~~z~~**ü**~~g~~ `Ü` : `gr-Ü.i` `ach-Ü.el-er` `O-Ü.L`
+      * ~~z~~**ü**~~g~~ `Ü` : `gr-Ü.i` `ach-Ü.el.er` `O-Ü.L`
   * **zucht** `.ucht`
     * -z**u**cht `u` : vieh
     * **zücht** `.ücht`
