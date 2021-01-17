@@ -984,13 +984,11 @@
 * hammer `h.am.er`
   * hämmer `h.em.er`
 * **hand** `ha` : `ha.L` `ha,i` `ha,i-L` `ha.ek` `ha.ek-er` `ha.ek.ib` `ha,(.el)` `O.ha` `UN-ha.L` `li:ha` `ha.IN.ha`
-  * : **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `G.ha.elt` `ha.el.bu`
-    * : **hand**elt.~~sich~~.um, **hand**elt.~~es~~.~~sich~~.um `ha.el.um` × `ha.um`
-    * : **be**<i></i>**hand**eln `be.ha.el` × `be.ha`
-    * : ein**hand**eln `N.ha.el` × `N.ha`
-    * : *miss*<i></i>**hand**eln `ms.ha.el` × `ms.ha`
+  * : **hand**el `ha.el` : `ha.el.d` `ha.elt.e` `G.ha.elt` `be.ha.el` `N.ha.el` `ms.ha.el` `ha.el.bu` `ha.el.um`
+    * *handelt.sich.um*, *handelt.es.sich.um* `ha.um`
     * -*handel* `ha` → auss buch einzel groß welt
-    * : *handlung* `ha*` : `bu:ha*` `E.ha*`
+    * -*handel*- `ha` : `be.ha` `N.ha` `ms.ha`
+    * *handlung* `ha*` : `bu:ha*` `E.ha*`
       * -*verhandlung* `ha*` → fusion vertrag
   * **händ** `h` : `h.e` `.S.h.i`
     * : **händ**ler `h.l-er` × `h-er`
@@ -3321,7 +3319,8 @@
 
 * `UN-…` → `UN.…`
 
-* ⇒ 
+* ⇒
+* =
 * STS
 
 * `d.N` `k.N` `m.N` `s.N`
