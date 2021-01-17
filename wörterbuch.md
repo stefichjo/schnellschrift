@@ -1064,7 +1064,7 @@
   * : *hilfreich* `hi.eich`
 * *hin* `hn` : `.a-hn` STS "dahín"
   * : *hin*ten `hn-t` : `hnt` `hnt.h.um`
-  * *hin*- `n` → auf aus ein zu
+  * *hin*- `n` → auf aus ein wirk zu
   * -*hin* `.in` → auf da immer weit
   * → hinter
 * **hind** `hi` : `hi-er` `hi.L` `hi.is` `hi.iss.e` `be,hi-er` `E,hi-er`
@@ -3135,11 +3135,12 @@
   * **d**ass.*wir* `d.wr` ~ `DR` (3-stufiges R)
 * wirbel `w.ib.el` : `G.w.ib.elt` `w.ib.el,eu`
   * *wirbelsäule* `w.ib,eu`
-* *wir****k*** `(k)` : `(k).L` `(k).L.T` `(k).os` `(k).Ol` `(.S)(k)` `b,(k)` `N,(k)` `rÜ-k.ed` `UN,(k).L`
-  * : *wir****k***sam****keit*** `(k)-Sa.T` ! `(k)-s.am.T`
-  * : *ent*<i></i>*gegen*<i></i>*wir****k***en `eNT.g,(k)` × `eNT.k`
-  * : *darauf* *hin*<i></i>*wir****k***en `dar-AU hn,(k)` × `dar-AU.k`
-  * ! `w.ik`
+* *wir****k*** `(k)` : `(k)t` `(k).L` `(k).L.T` `(k)-Sa.T` `(k).os` `(k).Ol` `(.S)(k)` `be,(k)` `N,(k)` `eNT.g,(k)` `rÜ-k.ed` `UN,(k).L` `dar-AU n.k`
+  * *wirk* `w.ik` : `w.ikt` ≠ markt
+  * *wirksamkeit* `(k)-s.am.T`
+  * *bewirk* `b,(k)`
+  * *entgegenwirk* `eNT.k`
+  * *darauf.hinwirken* `dar-AU.k`
 * **wirt** `wit`
   * *wirt*- `(wr)`
     * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT.er` `FT.N` `FT.L.e,ig`
