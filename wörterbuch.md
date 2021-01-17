@@ -7,7 +7,8 @@
 
 * ab `.ab` : `.ab.a`
 * *ab****end*** `(.ed)`
-* *aber* `ber` : `ber.ma-s` `ber-aY` `ber-r`
+* *aber* `ber` : `ber.ma-s` `ber,au` STS `ber-r`
+  * *aber.auch* `ber-aY`
 * acht `.acht` : `.acht-Sa` `be.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
   * -*acht* `.a` : `gu.a.en` `gu.a.er`
@@ -95,7 +96,7 @@
   * → atlant
 * *at****om*** `(.om)` : `(.om).ar` `(.om).ko`
 * auch `.auch` : `.auch,i`
-  * -*auch* → aber oder sondern
+  * -*auch* `au` → aber oder sondern
 * *auf* `AU` : `AU.ei-ad-er` `.e-AU` `(n)AU`
   * *darauf* `dar-AU` : `dar-AU.in`
     * *daraufhin* `dar-AU-n`
@@ -1417,7 +1418,7 @@
 * laub `l.aub`
   * -*l****au****b* `-au`
     * : *er*<i></i>*l****au****b*en `er-au` : `er-au.is`
-    * : ur<i></i>*l****au****b* `.ur-au` ⇒ `.ur,au`
+    * : ur<i></i>*l****au****b* `.ur-au` ⇒ `.ur,au` @au
 * ***lauf*** `.auf`
   * ***lief*** `.if` : `be.if`
     * *lief* `l.if`
@@ -1806,7 +1807,8 @@
     * *ober-* `.o-` → gericht haupt
 * oben ← ob
 * ober ← ob
-* oder `.od-er` : `.od-er-au`
+* oder `.od-er` : `.od-er,au`
+  * *oder.auch* `.od-er-au` `.od-er-aY` @au
 * off `.of` : `.of,(z).i`
   * *off*- `.o-` : `.o-bar` `.o-H`
   * *öffn*, *öffent* `.ö` : `.ö` `.ö-L` `.ö-L.T` `er.ö` `E.ö-L`
@@ -2344,9 +2346,10 @@
 * son `s.on` : `s.on.at.e`
   * : *dis*sonanz `ds.s.on.az` ! `d.is-s.on.az` × `d.is-s.o`
   * **kon***s*on ⇒ *konson* `ko-s` : `ko-s.aNT`
-* *sonder* `S` : `S.bar` `S-au` `S.barst.e`
+* *sonder* `S` : `S.bar` `S,au` `S.barst.e`
   * *besonder*, *besonders* `b°`
     * -*besonder*, -*besonders* `-S` → ganz in merk
+  * *sondern.auch* `S-au` `S-aY`
 * sonn `s.on` : `s.on.e`
 * *s****onst*** `(.ost)` ← so
 * -*sorg*- `S.o` : `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `b.S.o` `b.S.o.is` `UN.b.S.o` `f.S.o` `f.S.o-L` `E.S.o` `E.S.o-er` `O.S.o` `O.S.o.L` `.a-f-S.o`
@@ -2512,6 +2515,10 @@
 * **schwed** `schw` : `schw.e` `schw.en` `schw.i`
   * *schweden* `schw`
   * *schwedisch* `schw.ed.i`
+* schwell `schw.ell` : `schw.ell-UNG` `.an.schw.ell` `.an.schw.ell-UNG`
+  * *schwellung* `schw.ell.UNG` : `.an.schw.ell.UNG`
+  * schwill `schw.ill` : `schw.illt`
+  * schwoll `schw.oll` : `G.schw.oll` `.an.schw.oll`
 * **schwer** `schw`
   * **schwier** `.ir` : `.ir.i`
 * *schwester* `schw.est`
