@@ -833,10 +833,10 @@
     * *ausschlaggebend* `.S.ag.ed`
     * *ergebnis* `er.is` : `er.is.os`
   * ***gib*** `.ib` : `ach.ib.i-T` `er.ib.i`
-  * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `be.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
-    * *aufgab* = *auf*~~gab~~ `AU` : `AU.e`
-      * : `AU.en.it`
-    * : *aus****gab***e `.S.ab.e` × `.S.e`
+  * ***gab*** `.ab` : `.ab.e` `.ab.ab.e` `.an.ab.e` `AU.ab.e` `AU.ab.it` `.S.ab.e` `be.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
+    * *aufgab* `AU` : `AU.e` `AU.it`
+      * *aufgabengebiet* `AU.en.it` ≠ auf.dem.gebiet
+    * *ausgab* `.S` : `.S.e`
     * ***gäb*** `.äb` : `ang.äb.e`
   * → gift
 * geburt ← gebär ← bär
@@ -3315,7 +3315,7 @@
 ## TODOs
 
 * entfernen
-  * ` × ` (91)
+  * ` × ` (85)
   * ` ~ ` (142)
   * ` ! ` (120)
   * ` : ` (418)
