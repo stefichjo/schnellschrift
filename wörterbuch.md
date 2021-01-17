@@ -69,8 +69,10 @@
   * *arbeitsam* `T.Sa`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
-* arch `.ach` : `.ach.og.e` `.ach.og.I`
+* archä `.ach` : `.ach.og.e` `.ach.og.I`
   * *archäologie* `.ach.o-I`
+* archi `.ach` : `.ach.ekt` `.ach.ekt.ur`
+  * *architektur* `.ach.ur`
 * *arg* `.arg` : `.arg.os` `E.arg` ≠ mag schlag
   * → ärg
 * arg `.ag` : `.ag.met`
@@ -873,7 +875,7 @@
 * gern `g.en` : `s.g.en`
 * *gesellschaft* `G.FT` : `G.FT.L` `E,G.FT` `(.I).en,G.FT`
   * *gesellschaft*er `G.FT.er` ~ `G.FT.er`
-* gesetz ← sitz
+* gesetz ← setz
 * *gest*, *gestern* `g.est` : `g.est.r.i` `O.g.est`
 * gier `g.ir` : `g.ir.i` `be.g.ird.e` `neu=g.ir.i`
   * *neugierig* `n.eu-g.ir.i`
@@ -1748,7 +1750,7 @@
     * *nimm* `.im` : `dU .im`
     * ~~nimm~~t `(-t)` : `.ab,(-t)` `N,(-t)` `Ü,(-t)` `O,(-t)` `Z,(-t)`
   * ~~nahm~~ : `.an,(.e)` `.an,(en)` `AU,(.e)` `.S,(.e)` `.S,(en)` `.S.eis.e` `N,(.e)` `N,(en)` `ach,(.e)` `ass,(.e)` `(.eil),(.e)` `Z,(.e)`
-    * ! `n.am`
+    * *nahm* `n.am`
   * ~~n~~omm `(.om)` : `.an.om` `AU.om` `Ü.om` `E.om` `O.om` `IN.auf.om`
     * *vor*ein*ge*~~nommen~~ `O.N.G`
     * *un*<i></i>*vor*ein~~genommen~~ `UN-O.N`
@@ -2146,8 +2148,8 @@
   * : *ver***sag**er `E-sa-er` ! `E-s.ag-er`
   * : wetter*vor***her**<i></i>**sag**e `w.et-er.O.h.sa` × `w.et-er.sa`
   * : **zeug**en*aus***sag**e `.eug.S.sa-e` × `.eug.S`
-  * **säg**
-    * ! `s.eg` : `UN.s.eg.L`
+  * **säg** `s` : `UN.s.L`
+    * *unsäglich* `UN.s.eg.L`
 * *saison* `s.es` : `s.es.al`
 * sait `s.ait` : `s.ait.e`
 * sakr `s.akr` : `s.akr.al`
@@ -2166,7 +2168,7 @@
 * samt `s.amt`
 * sand `s.ad`
 * ***sass*** `.ass` : `IN.ass.en` ← sitz
-* saß ← sitz
+* saß `s.ass` ← sitz
 * sattel `s.at.el` : `s.at.l.er` `s.at.l.ei`
   * sättel `s.ät.el`
 * satz ← sitz
@@ -2234,7 +2236,6 @@
 * *sem****ester*** `(.est.er)`
 * *semi****nar*** `(n.ar)`
   * *semi****nar****istisch* `(n.ar).iS.i` × `(n.ar).i`
-* setz ← sitz
 * sen `s.en` : `s.en.il` STS `s.en.or`
   * *senat* `s.at`
 * **send** `s` : `.ab.s` ⇒ `.ab-s` `.ab.s.er` ⇒ `.ab-s-er` `N.s` ⇒ `N-s` `N.s.er` ⇒ `N-s-er`
@@ -2253,8 +2254,20 @@
   * → exekut
 * **ser** `s` : `IN.s.at` `IN.s.ir`
 * serv `s.ew` : `s.ew.ir`
-  * **kon**<i></i>**serv** ⇒ *konserv* `ko-s` : `ko-s.iv` `ko-s.ir`
-    * : **kon**<i></i>**serv**e `ko-s.e` × `ko-s`
+  * **kon**<i></i>**serv** ⇒ *konserv* `ko-s` : `ko-s.e` `ko-s.iv` `ko-s.ir`
+    * *konserve* `ko-s`
+* -**setz**- `s` : `s.ez` `s.ezt.e` `s.ez.er` `s.ez.er.ei` `.ab.s` `be.s` `N.s` `er-s` `UN.er-s.L` `fr.s` `eNT.g.s` `O.S-s` `UNTER-r,O-S-s` ← sitz @-erei
+  * *entgegensetz* `eNT.g-s`
+  * *fortsetz* `fr-s`
+  * *gesetzt* `G.s.ezt`
+    * -*gesetzt* `-G` : `N.-G` `fr-G` `O.S-G`
+      * *eingesetzt* `N.-G-s`
+  * -*setzung* `s.ez*` : `.S.ei-ad-er.s.ez*` `be.s.ez*`  `fr.s.ez*` 
+    * *auseinandersetzung* `.S.ei-ad-er`
+  * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `-G.i` `gru.-G` `(.es),-G` `UN-G.L`
+    * *gesetzmäßig* `-G.ess.i`
+    * *gesetzwidrig* `-G,i` = gesicht
+    * *grundgesetz* `GR`
 * **seuch** `seu` : `seu-e` `eNT.seu` `E.seu` ⇒ `E-seu` ← siech
   * -*seuche* `eu`
 * *sich* `CH` : `ha.CH`
@@ -2316,21 +2329,10 @@
   * *vor*<i></i>*s****i****tz* `O-i` : `O-i.er` `O-i.ed-er`
   * *besitz* `be.s.i` `be-si`
   * ***sitz****ung* ⇒ *sitzung* `.iz*`
-  * saß `s.ass`
+  * → saß
   * → sass
   * → satz
-  * **setz** `s` : `er-s` `UN.er-s.L` `O.S-s` `UNTER-r,O-S-s`
-    * ! `s.ez` : `s.ezt.e` `G.s.ezt` `be.s.ez*` `fr.s.ez*`
-      * : `s.ez.er` : `s.ez.er.ei`
-    * : *aus*einander**setz***ung* `.S.ei-ad-er.s.UNG` × `.S.ei-ad-er`
-    * *setz* `s` : `.ab.s` `be.s` `N.s`
-    * -*setz* `-s` : `eNT.g-s` `fr-s`
-    * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `(.es),-G` `UN-G.L`
-      * : *gesetz*<i></i>*mäßig* `-G.i` ! `-G.ess.i`
-      * *gesetzwidrig* `-G,i` = gesicht
-      * : **grund***gesetz* : `gru.-G` ~ `GR`
-    * -*gesetzt* `-G` : `fr-G` `O.S-G`
-      * : ein*gesetzt* `N.-G` ~ `N.-G-s`
+  * → setz
 * -**skal**- `ska` : `sk.al.a` `sk.al.en` `.e-ska.ir` `.e-ska.iO`
 * *so* `.o` : `.eb.o`
   * *so*- `(o)` → eben gar
@@ -2483,10 +2485,10 @@
 
 #### [SCHN](#wörterbuch)
 
-* *schn****eid*** `(.eid)` : `(.eid)-er`
-  * ! `schn.eid`
-  * *schn****itt*** `(.it)` : `.ab.it`
-    * ! `schn.it`
+* -***schneid***- `.eid` : `schn.eid` `schn.eid-er` `.ab.eid` `.S.eid`
+  * *schneider* `.eid-er`
+  * *ausschneid* `.S.schn.eid`
+  * -***schnitt***- `.it` : `schn.it` `G.it` `.ab.it` STS
 * **schnell** `schn` : `schn,i`
 
 #### [SCHR](#wörterbuch)
@@ -2554,8 +2556,7 @@
   * : **sp**äteste `sp.est.e` ! `sp.est.e`
   * : **sp**ätestens `sp-t.e-s` ~ `sp.ens`
 * spend `sp.ed` : `sp.ed.e`
-* **sperr** `sp` : `G.sp` `.ab.sp` `E.sp`
-  * ! `sp.err` : `sp.err.e` `sp.err-UNG`
+* -**sperr**- `sp` : `sp.err.e` `sp.err-UNG` `G.sp` `.ab.sp` `E.sp`
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.iaL.ist.en` `sp.ieL`
   * : **spez**if `sp.if` * *spezif* `sp.ez` : `sp.ez.iO` `sp.ez.ir` `sp.ez.ir-UNG` `sp.ez.i` `sp.ez.ät`
 * **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il` @sp
@@ -2758,9 +2759,8 @@
 * *t****eil*** `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `be.eil.i` `ach.eil.e` `O.eil.ha`
   * **satz***t****eil*** `sa.eil` ! `s.az.eil`
   * *urteil* = *ur*~~teil~~ `ur` : `ur.e` `t.o.ur`
-* ***tekt*** `.ekt` : `.ekt.n.ik` `.ekt.n.i` `.ach.ekt` `.ach.ekt.ur` ← techn
-  * ! `t.ek.t` : `t.ek.t.on.ik` `t.ek.t.on.i`
-  * *architektur* `.ach.ur`
+* tekt `t.ek+t` : `t.ek+t.on.ik` `t.ek+t.on.i` ← techn
+  * -*tekt* `.ekt` → arch
 * **tel** `t` : `t.f.at`
   * ! `t.el` : `t.el.e-f` `t.el.e-f.ir` `t.el.e-f.i`
 * *temp* `emp` : `emp.o` `emp.I` `emp.us` `emp.or.al`
@@ -3311,10 +3311,13 @@
 * entfernen
   * `* × ` (0 + 109)
   * `* ~ ` (0 + 142)
-  * `* ! ` (25 + 127)
+  * `* ! ` (14 + 127)
   * `* : ` (418)
 
 * `UN-…` → `UN.…`
+
+* ⇒ 
+* STS
 
 ### Nicht einheitlich gekürzte Wortfamilien
 
