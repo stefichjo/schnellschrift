@@ -35,6 +35,7 @@
   * *reaktor* `r.akt.or` ≠ rentner
 * akzent ← kan
 * -al `.al`
+  * -*alien* `.I.en`
   * -il `.il`
     * -ilität `.ät`
 * *all* `.al` : `wet.al` `O.al`
@@ -1184,8 +1185,8 @@
     * : *in*.**ein**er.reihe.~~von~~.*jahr*en `IN.ei-er-r.eih.ar.en`
     * : im.*ver*~~gang~~enen***jahr*** `.im.E.ar`
   * -*jahre 19****80*** `(80)` : `.im,(80)`
-  * **jähr** `j` : `j.L` `(E)j`
-    * : *dies***jähr***ig* `.is:j.i` × `.is.i`
+  * **jähr** `j` : `j.L` `.is:j.i` `(E)j`
+    * *diesjährig* `.is.i`
 * *japan* `j.ap` : `j.ap.i` `j.ap.er`
 * je `j.e` : `j.e-ma` `j.e-ma-s`
 * **jed** `j` : `j-er` `j.es` `j.es.ma`
@@ -1235,10 +1236,11 @@
     * *kandidat* `k.ad` : `k.ad-UR`
 * kann → könn
 * **kann** `ka` : `kat.e` `be.kat` `G.kat` ← kenn
-* *kap* `aP` : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
-  * *kapit* `aP` : `aP.I.en` `aP.iS` `aP.än` `aP.ul.ir` `aP.el 7`
-    * : *kapit*al `aP.al` × `aP`
-    * *kapit*ell ≠ *kap*ell `aP.ell` ! `aP.it.ell` : `aP.it.ell.e`
+* *kap* `aP`
+  * : `aP.ät` `aP.ell.e` `aP k.en.ed.y` `aP.l.an`
+  * : `aP.al` `aP.al.I.en` `aP.al.iS` `aP.än` `aP.ul.ir` `aP.el 7`
+    * *kapital* `aP` : `aP.I.en` `aP.iS`
+    * *kapitelle* `aP.it.ell.e` ≠ kapelle
 * kart `kat` : `kat.e` `v.is,kat.e` `kat.t.ek`
   * *kart****ell*** `(.ell)`
   * → kartei
