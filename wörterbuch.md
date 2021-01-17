@@ -2893,10 +2893,9 @@
 * **tro**tz : `tr.o` `tr.o-r` `tr.o-es` `tro-al.em` `tro-al.e,(m)`
   * : **tro**tz*de****m*** `tr.o-m` ~ *trotzdem* `(o)(m)`
 * trug ← trag
-* **trug** `tru` : `be.tru`
-  * ! `tr.ug`
-  * **trüg** `trÜ` : `(be)trÜ` `(be)trÜ-er` `(be)trÜ.ei-en` `(be)trÜ.i`
-    * ! `tr.üg` : `tr.üg-er.i` `UN-tr.üg.L`
+* -**trug**- `tru` : `tr.ug` `be.tru`
+  * -**trüg**- `trÜ` : `tr.üg` `tr.üg-er.i` `(be)trÜ` `(be)trÜ-er` `(be)trÜ.ei-en` `(be)trÜ.i` `UN.trÜ.L`
+    * *untrüglich* `UN-tr.üg.L`
   * trog ⇒ *trog* `tr.og` : `G.tr.og`
     * : **be***trog*en `(be)tr.og` × `(be)tr.o`
 
@@ -3071,7 +3070,10 @@
 * wem ← wer
 * wen ← wer
 * wen ← wein
-* wend ← wind
+* -**wend**- `w` : `w.ed` `.an.w` `AU.w` `E.w` `E.w-UNG` ← wind
+  * : *not***wend***ig* `.ot.w.i` ~ `(o)w.i`
+  * -**wandt**- `wa` : `w.ad` `w.adt.e` `be.wa.is` `N.wa` `G.wa` `E.wa`
+    * *bewandtnis* `be.wa-t.is`
 * wenig ← wein
 * w~~enn~~ `w`
 * ***wer*** `wer`
@@ -3123,13 +3125,7 @@
   * wand `w.ad`
     * *wandel* `wa.el`
   * wund `w.ud`
-  * **wend** `w` : `.an.w` `AU.w` `E.w` `E.w-UNG`
-    * ! `w.ed`
-    * : *not***wend***ig* `.ot.w.i` ~ `(o)w.i`
-    * **wandt** `wa` : `N.wa` `G.wa` `E.wa`
-      * ! `w.ad`
-      * : **wandt**e `wa.e` ! `w.adt.e`
-      * : `be.wa.is` ~ `be.wa-t.is`
+  * → wend
 * winn `w.in`
   * : *ge*winn `G.w.in` ~ `G.in`
   * wann `w.an` : `G.w.an`
