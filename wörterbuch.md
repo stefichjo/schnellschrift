@@ -176,6 +176,8 @@
 * best `b.est` ← besser
 * bett `b.et` STS
 * *bezichtig* `be.z.i` ← zeih
+* *bezirk* `be.ik` ← zirk
+  * -*bezirk* `(.ik)` → regier verwalt
 * **bi** `bi` : `bi.al`
 * *bibel* `bib`
 * bibl `b.ibl` : `b.ibl.gra.I`
@@ -2053,7 +2055,7 @@
     * *regelmäßigkeit* `r.el.ess.i-T`
   * *reg****ier***en `(.ir)`
     * : *reg****ier****ung* `(.ir)-UNG` : `(.es).ir-UNG`
-      * *regierung* `ir-UNG` : `ir-UNG.gra`
+      * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra`
         * : **bund**es*regierung* `bu,ir-UNG` ~ `u-r-UNG`
   * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation, relation
     * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
@@ -3021,7 +3023,7 @@
 * walt `wat` : `G.wat` `E.wat`
   * *anwalt* `.an-t`
     * : *recht*s*anwalt* `R.an-t` × `R.an`
-  * *verwalt****ung*** `(UNG)` ⇒ `UNG` : `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG`
+  * *verwalt****ung*** `(UNG)` ⇒ `UNG` : `UNG.ik` `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG`
   * wält `wet` : `be.wet.ig` `Ü.wet.ig.ed`
 * wand `w.ad`
 * wand ← wind
@@ -3111,7 +3113,8 @@
 * wert `wet` : `wet.Ol` `.ab.wet`
   * -*wert* `(-t)` → hoch nahr nenn staun streb
 * wes ← sein
-* -**west**- `w` : `w.est` `w.L`
+* **west** `w` : `w.est` `w.est.L`
+  * *westlich* `w.L`
 * wetter `w.et-er`
 * **wicht** `wi` : `wi.i` `wi.i-T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
 * wicht `w.icht`
@@ -3277,9 +3280,8 @@
     * : **re**z~~ept~~*ion* `r.z.iO`
 * zipl `z.ipl`
   * *disziplin* `ds`
-* zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.iO` `z.ik.ir` `z.ik.us`
-  * *bez****irk*** `(.ik)`
-    * ! `be.z.ik` ~ `be.ik`
+* zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.iO` `z.ik.ir` `z.ik.us` `be.z.ik`
+  * → bezirk
 * zirkonium `z.ik.on.um` STS
   * → zr
 * *ziv****il*** `(.il)`
@@ -3303,8 +3305,7 @@
 * **zweif** `.eif` : `.eif.el` `.eif.el.os` @zw
   * *zweifellos* `.eif-s`
 * *zw****eig*** `(.eig)`
-* **zweck** `zw` : `Z.iS:zw`
-  * ! `zw.ek` : `zw.ek,di.L`
+* -**zweck**- `zw` : `zw.ek` `zw.ek,di.L` `be.zw` `Z.iS:zw`
 * **zwing** `.ing` : `be.ing`  `er.ing` @zw
   * **zwang** `ang` : `ang,eu` `v.is.um.ang` @zw
   * **zwung** `.ung` : `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H` @zw
@@ -3316,7 +3317,7 @@
 * entfernen
   * `* × ` (0 + 109)
   * `* ~ ` (0 + 142)
-  * `* ! ` (5 + 127)
+  * `* ! ` (2 + 121)
   * `* : ` (418)
 
 * `UN-…` → `UN.…`
@@ -3328,12 +3329,4 @@
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
-
-### Stämme in Verbindungen
-
-* germanische Stämme
-  * Verben: 
-    * `m.al` `m.al.er` `m.al.ei` `G.ma`
-  * sonst:
-    * `w.est` `w.L`
 
