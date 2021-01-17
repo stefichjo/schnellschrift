@@ -15,7 +15,7 @@
     * *gutachten* `u.a`
     * *gutachter* `gu,er`
 * *adress* `.adr` ← rekt
-* aer `.er` : `.er.aut.ik`
+* aero `.er` : `.er.aut.ik`
   * *aeronautik* `.er.o-n.ik`
 * *afrik* `.afr` `.afr.a` `.afr.i`
   * *afrika* `.afr`
@@ -91,7 +91,7 @@
 * asi `.as.I` : `.as.I.at` `.as.I.i` `.as.I.en`
   * *asien* `.as.i-en`
   * *asiat* `.as.at` : `.as.at.i`
-* astr `.a+str` : `.a+str.og.I` `.a+str.aut` `.a+str.om.I`
+* astro `.a+str` : `.a+str.og.I` `.a+str.aut` `.a+str.om.I`
   * *astrologie* `.a+str.o-l.o-I`
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` : `.atl.ik` `.atl.i` ← atlas
@@ -172,8 +172,6 @@
 * bett `b.et` STS
 * *bezichtig* `be.z.i` ← zeih
 * **bi** `bi` : `bi.al`
-* **bi** `bi` STS : `bi.og.I`
-  * *biologie* `b.i-l.og.I`
 * *bibel* `bib`
 * bibl `b.ibl` : `b.ibl.gra.I`
   * *biblio****thek*** `(t.ek)` `(t.ek).ar.i`
@@ -207,6 +205,8 @@
       * *verbände* `E.b.e`
   * **bund** `bu` : `bu.um` `bu.ik`
     * **bünd** `bü` : `bü.e` `bü.el`
+* **bi**o `bi` STS : `bi.og.I`
+  * *biologie* `b.i-l.og.I`
 * **bis** `bi`
 * *bischof* `bi.of` : `(.es):bi.of`
   * *landesbischof* `(.es).of`
@@ -823,9 +823,6 @@
 * gastr `g.a+str` : `g.a+str.om`
 * *ge*- `G`
   * *unge*- `UN.G`
-* ge `g.e` : `g.e-gra` `g.e-og.e` `g.e-og.I` `g.e-m.etr.I` `g.e-m.etr.i`
-  * *geograph* `g.e-o+gra`
-  * *geolog* `g.e-l.og` : `g.e-l.og.e` `g.e-l.og.I`
 * ***geb*** `.eb` STS
   * *geb* `g` : `g.er` `G.g` `G.g.H` `.ab.g` `.an.g.er` `.S.ag.g.ed` `be.g.H` `er.g` `er.g-st` `er.g.is` `er.g.is.os` `-G.g.UNG` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
     * *geber* `g.eb-er` `.an.g.eb-er`
@@ -872,6 +869,9 @@
     * *general*- `g` → sekret streik
 * *ge****nug*** `G.ug` ← nug
   * *ge****nüg*** `G.üg` : `b.üg` `E.üg`
+* geo `g.e` : `g.e-gra` `g.e-og.e` `g.e-og.I` `g.e-m.etr.I` `g.e-m.etr.i`
+  * *geograph* `g.e-o+gra`
+  * *geolog* `g.e-l.og` : `g.e-l.og.e` `g.e-l.og.I`
 * gern `g.en` : `s.g.en`
 * *gesellschaft* `G.FT` : `G.FT.L` `E,G.FT` `(.I).en,G.FT`
   * *gesellschaft*er `G.FT.er` ~ `G.FT.er`
@@ -1322,7 +1322,7 @@
   * *körper* `kö.er` : `E.kö.er`
   * : **körp**er*schaft*s*st****eu***er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
-* kosm `k.osm` : `k.osm.os` `k.osm.i` `k.osm.og.I` `k.osm.aut`
+* kosmo `k.osm` : `k.osm.os` `k.osm.i` `k.osm.og.I` `k.osm.aut`
 * **kost** `kost` : `kost.en` `kost.bar` `kost.bar.T` `kost.il.i` `.S.kost` `UN-kost.en` `UN.kost,au.al.e` ← st
   * : **kost**en*los* `kost.l.o` ~ `ko.os`
   * -*kosten* `ko` → bau fracht mehr neb person selb walt
@@ -2786,12 +2786,12 @@
   * *tex****til*** `(t.il)`
     * *textil* `t.il`
 * theater `t.e-at-er` : `t.e-atr.i`
+* thek `t.ek` : `t.ek.e` STS
 * them `t` : `t.em.a` `t.em.en` `t.em.i`
   * *thema* `t.a` 
-* the `t.e` : `t.e-d.or` `t.e-d.ol.it` `t.e-og.e` `t.e-og.I` `.a-t.e-iS`
-  * ! `t.e-l.og.e`
+* theo `t.e` : `t.e-d.or` `t.e-d.ol.it` `t.e-og.e` `t.e-og.I` `.a-t.e-iS`
+  * *theologe* `t.e-l.og.e`
   * *theologie* `t.e-l.o-I`
-* thek `t.ek` : `t.ek.e` STS
 * theor `t.e-or` : `t.e-or.ik-er` `t.e-or.i` `t.e-or.I`
   * -*theorie* `t.e-o-I` : `quat,t.e-o-I` `r.iv.ät-t.e-o-I`
 * therm `t.em` : `t.em.al`
@@ -2850,11 +2850,10 @@
   * -**trug**- `tru` : `tr.ug` `be.tru` `E.tru` `ach.tru`
     * -**trüg**- `trü`
       * *trüg* `tr.üg` : `tr.üg.e`
-* **trah** `tra` : `(ko)tra`
-  * **trakt** `tra` : `(ko)tra` `(ko)tra-Ü.i`
-    * ! `tr.akt`
-    * : at**trakt**iv `.a-tra.iv` ~ `.a-tra-t.iv`
-* trakt ← trah
+* -**trah**- `tra` : `(ko)tra`
+  * → trakt
+* -**trakt**- `tra` : `tr.akt` `.a-tra.iv` `(ko)tra` `(ko)tra-Ü.i` ← trah
+  * *attraktiv* `.a-tra-t.iv`
 * *trans*- `tra`
   * **tran**- `tra`
 * **trau** `trau`
@@ -3311,7 +3310,7 @@
 * entfernen
   * `* × ` (0 + 109)
   * `* ~ ` (0 + 142)
-  * `* ! ` (14 + 127)
+  * `* ! ` (11 + 127)
   * `* : ` (418)
 
 * `UN-…` → `UN.…`
