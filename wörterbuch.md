@@ -15,6 +15,8 @@
     * *gutachten* `u.a`
     * *gutachter* `gu,er`
 * *adress* `.adr` ← rekt
+* aer `.er` : `.er.aut.ik`
+  * *aeronautik* `.er.o-n.ik`
 * *afrik* `.afr` `.afr.a` `.afr.i`
   * *afrika* `.afr`
 * ag `.ag` : `.ag.eNT` `.ag.eNT.ur`
@@ -87,7 +89,7 @@
 * asi `.as.I` : `.as.I.at` `.as.I.i` `.as.I.en`
   * *asien* `.as.i-en`
   * *asiat* `.as.at` : `.as.at.i`
-* astr `.a+str` : `.a+str.og.I` `.a+str.om.I`
+* astr `.a+str` : `.a+str.og.I` `.a+str.aut` `.a+str.om.I`
   * *astrologie* `.a+str.o-l.o-I`
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` : `.atl.ik` `.atl.i` ← atlas
@@ -419,6 +421,8 @@
 * *düsseldorf* `dÜ.o`
 * dutz `d.uz` : `d.uz.ed`
   * *dutzend* `d.uz`
+* *dynam* `d.ün` : `d.ün.ik` `d.ün.it` `d.ün.i` `d.ün.o` `.er.d.ün.i`
+  * *aerodynamisch* `.er.o-d.yn.i`
 
 ### [DR](#wörterbuch)
 
@@ -1316,6 +1320,7 @@
   * *körper* `kö.er` : `E.kö.er`
   * : **körp**er*schaft*s*st****eu***er `kö.FT,eu-er` × `kö,eu-er`
 * kopf `k.opf`
+* kosm `k.osm` : `k.osm.os` `k.osm.i` `k.osm.og.I` `k.osm.aut`
 * **kost** `kost` : `kost.en` `kost.bar` `kost.bar.T` `kost.il.i` `.S.kost` `UN-kost.en` `UN.kost,au.al.e` ← st
   * : **kost**en*los* `kost.l.o` ~ `ko.os`
   * -*kosten* `ko` → bau fracht mehr neb person selb walt
@@ -1725,9 +1730,8 @@
   * *national* `(n.al)`
     * *international* `(I)t-er-a`
 * ***nau*** → genau
-* *n****aut*** `(.aut)` : `.er.aut.ik` `.a+str.aut` `k.osm.aut`
-  * *aeronautik* `.er.o-n.ik`
-  * ! `n.aut` : `n.aut.ik` `n.aut.ik-er`
+* naut `n.aut` : `n.aut.ik` `n.aut.ik-er`
+  * -*naut* `.aut` → aero astro kosmo
 * neb `n.eb` : `n.eb.ko` `n.eb,(.e)`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
 * ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `O.L` `O.w,(en)` `O.l.ib,(en)` `Ü.en` `wa,(en)` `wa,UNG` `IN.auf.en` `AU.CH.en`
@@ -1923,7 +1927,7 @@
   * poesie `p.o-es.I`
 * pol `p.ol` : `m.etr.p.ol.e`
   * *metropole* `m.etr.ol.e`
-* *polit* `it` : `it.i` `it.i-er` `it.ir` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i`
+* *polit* `it` : `it.i` `it.i-er` `it.ir` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i` `k.osm.it` `k.osm.it.iS`f`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `wä-tik` `FT.tik`
     * : **fin**anz*politik* `fi.az.tik` × `fi.tik`
     * : **hand**els*politik* `ha.el-t.ik`
