@@ -146,8 +146,7 @@
 * bär `b.är`
 * **bas** `ba` : `ba.is`
 * **bau** `bau` : `bau.er` `b.au.er.FT` `bau.ko` `IN,u-met,bau`
-  * **bäu** `bäu` : `bäu.er.in` `bäu.er.L`
-    * *bäuerlich* `bäu.L`
+  * **bäu** `bäu` : `bäu.er.in` `bäu.L`
 * bass `b.ass` : `(ko)tra.b.ass`
 * *bayer*, *bayern* `b.ay`
 * **be**- `be`
@@ -526,6 +525,7 @@
 * -er `.er`
   * -erei `.ei` @-erei
     * *wichtigtuerei* `wi.i,tu.er.ei`
+  * -er*lich* `.L` @-erlich → bäuerlich körperlich lächerlich
 * erb `.eb` : `.eb.e` `.eb.L` `.eb-FT` `G.eb-t` `E.eb-UNG`
 * erd `.ed` : `.ed.e` `be.ed.i`
   * ird `.id` : `.id.i` `.auss.id.i` `Ü.id.i` `UNTER.id.i`
@@ -1325,9 +1325,8 @@
   * corps `k.or`
     * -**corps** `ko` → diplom
   * → körp
-* **körp**er `kö` : `kö` `kö.L` `kö.FT` `E.kö` ← korp
-  * *körper* `kö.er` : `E.kö.er`
-  * : **körp**er*schaft*s*st****eu***er `kö.FT,eu-er` × `kö,eu-er`
+* **körp**er `kö.er` : `kö.er` `kö.L` `kö.er.FT` `E.kö.er` ← korp
+  * *körperschaft* `kö.FT`
 * kopf `k.opf`
 * kosmo `k.osm` : `k.osm.os` `k.osm.i` `k.osm.og.I` `k.osm.aut`
 * **kost** `kost` : `kost.en` `kost.bar` `kost.bar.T` `kost.il.i` `.S.kost` `UN-kost.en` `UN.kost,au.al.e` ← st
@@ -1396,7 +1395,8 @@
 
 ## [L](#wörterbuch)
 
-* lach `l.ach`
+* lach `l.ach` : `l.acht`
+  * läch `l.ech` : `l.ech.el` `l.ech.L` `l.ech.L.T` @-erlich @-lichkeit
 * lad `l.ad`
   * ***last*** `.ast`
 * **land** `la` : `la.FT` `la.UNG` `.S.la` `(hi)z.la` `(r).la`
@@ -1480,6 +1480,7 @@
     * *unendlichkeit* `UN.ed.T`
     * *beharrlichkeit* `be.arr.T`
     * *herzlichkeit* `(z).T`
+    * *lächerlichkeit* `l.ech.T`
 * licht `l.icht`
 * lieb `l.ib`
 * *liefer* `l.i-er` : `l.i-er-UNG:tra`
@@ -2672,8 +2673,9 @@
   * *die*.*umsatzsteigerung* `I .um.eig-er`
   * ***stieg*** `.ig`
 * stet ← steh
-* *st****eu***er `eu-er` : `eu-er.L` `eu-er,i` `eu-er-UNG`
-  * : um**satz***st****eu***er `.um-sa,eu-er` × `.um,eu-er` ~ `.um.eu-er`
+* *st****eu***er `eu-er` : `eu-er.L` `eu-er,i` `eu-er-UNG` `kö.er.FT,eu-er` `.um-sa,eu-er`
+  * *körperschaftssteuer* `kö,eu-er` @zu steuer
+  * *umsatzsteuer*`.um.eu-er`
 * stick `st.ik`
 * **stift** `.ift` @st
   * -*stift* `i` → blei
