@@ -2761,8 +2761,8 @@
   * *urteil* = *ur*~~teil~~ `ur` : `ur.e` `t.o.ur`
 * tekt `t.ek+t` : `t.ek+t.on.ik` `t.ek+t.on.i` ← techn
   * -*tekt* `.ekt` → arch
-* **tel** `t` : `t.f.at`
-  * ! `t.el` : `t.el.e-f` `t.el.e-f.ir` `t.el.e-f.i`
+* **tel** `t` : `t.f` `t.f.at` `t.f.ir` `t.f.i`
+  * *telephon* `t.el.e-f` : `t.el.e-f` `t.el.e-f.ir` `t.el.e-f.i`
 * *temp* `emp` : `emp.o` `emp.I` `emp.us` `emp.or.al`
   * : *temp*orär `emp.or.är` × `emp.är`
   * *temper* `emp` : `emp-ur` `emp.ir`
