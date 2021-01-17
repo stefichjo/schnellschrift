@@ -1006,7 +1006,7 @@
   * : **be*****harr*** `be.arr.L.T` × `be.arr.T`
 * **hart** `hat`
   * **härt** `het` : `het.e` `het.est` `G.het` `.ab.het` `er.het`
-* **haupt** `hau` : `be.hau.et` `hau.a.L` `hau.uss` `hau,(.e)` `(.es).hau`
+* **haupt** `hau` : `be.hau.et` `hau.a.L` `hau.uss` `hau,(.e)` `hau.L` `(.es).hau`
   * *oberhaupt* `.o-hau`
   * **häupt** `häu` : `häu-er` `häu.ing`
 * ***haus*** `.aus` : `ho.aus` `ra.aus` `kra.aus` `sta.aus` `.im.aus.e` `v.aus.S`
@@ -1732,7 +1732,7 @@
 * ***nau*** → genau
 * naut `n.aut` : `n.aut.ik` `n.aut.ik-er`
   * -*naut* `.aut` → aero astro kosmo
-* neb `n.eb` : `n.eb.ko` `n.eb,(.e)`
+* neb `n.eb` : `n.eb.ko` `n.eb,(.e)` `n.eb.L`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
 * ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `O.L` `O.w,(en)` `O.l.ib,(en)` `Ü.en` `wa,(en)` `wa,UNG` `IN.auf.en` `AU.CH.en`
   * : ein*ver*~~nehm~~en `N.E,(en)` × `N.E`
@@ -2127,13 +2127,14 @@
 | [SCH](#sch) | [SP](#sp) | [ST](#st) |
 |:-:|:-:|:-:|
 
-* **sach** `sa` : `sa.G` `E.ur-sa`
-  * : **sach**e `sa-e` ~ `(.e)` : `(en)` `.ur,(.e)`
-  * : **sach***lich* `sa.L` ! `s.ach.L`
-  * -~~sach~~ : `.ur,(.e)` → form haupt neb schmack tu
-  * **säch** `s` : `.ur-s.L`
-    * ! `s.ech` : `s.ech.L`
-    * ~~säch~~ : `hau.L` `n.eb.L`
+* **sach** `sa` : `sa-e` `sa.en` `sa.G` `sa.L`
+  * -~~sach~~ : `.ur,(.e)` `E.ur,(en)` → form haupt neb schmack tat
+  * *sache* `(.e)` : `(en)`
+  * *sachlich* `s.ach.L`
+  * *verursach* `E.ur-sa`
+  * **säch** `s` : `s.L` `.ur-s.L`
+    * *sächlich* `s.ech.L`
+    * -*sächlich* `.L` : `.ur.L` → haupt neben
 * **sachs** `sa` : `sa.en`
     * : *nieder***sachs**en `ndr.sa.en` ~ `ndr-a`
 * **sag** `sa` : `G.sa` `.ab.sa` `.an.sa` `.S.sa` `be.sa` `eNT.sa.Ol` `.os.sa` `ach.sa` `UN.sa.bar` `UNTER.sa` `E.sa` `O.S.sa` `O.h.sa` `Z.sa`
