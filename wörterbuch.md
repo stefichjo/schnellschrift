@@ -3162,12 +3162,12 @@
   * *vergewisser* `E.-G` : `E.-G-t.e`
   * *wissenschaft* `wi.FT`
   * *weiß* `.eiss` : `.I.eiss`
-  * *wuss* `.uss`
-    * ! `w.uss` : `w.usst.e`
-    * -bew**u**sst ⇒ -*bewusst* `u` → mir pfleg selbst wort
-      * -*bewusst*~~s~~ein : `u-N` → selb
-  * *wüss* `.üss`
-    * ! `w.üss` : `w.üsst.e`
+  * *wuss* `.uss` : `.usst.e` `be.usst` `be.usst.N`
+    * *wusste* `w.usst.e` ≠ musste
+    * *bewusstsein* `be,u-N`
+    * -*bewusst* `u` : `u-N` → mir pfleg selbst wort
+  * *wüss* `.üss` : `.üsst.e`
+    * *wüsste* `w.üsst.e` ≠ müsste
 * **witw** `wi` : `wi-er`
 * witz `w.iz` : `w.iz.i` `w.iz.os`
   * -~~witzi~~***g*** `(g)` → wahn
