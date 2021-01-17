@@ -468,9 +468,9 @@
 * eigen, eign `.eig` : `.eig.L` `.eig-s` `.eig-Ü.i` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * *eigentlich* `.ei-L`
   * : eigen*sücht*<i></i>*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ eigennützig
-* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N,u` `E.N` `E.N-Sa`
-  * : *wieder*.ein**mal** `W.N.ma` × `W.N`
-  * : *zunächst*.ein**mal** `-Z-n,N.ma` × `-Z-N`
+* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N,u` `E.N` `E.N-Sa` `W.N.ma` `-Z-n,N.ma`
+  * *wieder.einmal* `W.N`
+  * *zunächst.einmal* `-Z-N`
   * -ein `N` : `d.N` `k.N` `m.N` `s.N`
     * *kein* `(K)`
       * -*kein*- `k` → fall weg
@@ -512,8 +512,7 @@
 * emp*f****i****nd* `.emp-i` ← find
   * emp*f****a****nd* `.emp-a`
   * emp*f****u****nd* `.emp-u`
-* end `.ed` : `.ed.e` `be.ed.et` `be.ed.i` `Ol.ed` `.ed.L` `UN.ed.L`
-  * *un*end*lich*<i></i>*keit* `UN.ed.L.T` × `UN.ed.T`
+* end `.ed` : `.ed.e` `be.ed.et` `be.ed.i` `Ol.ed` `.ed.L` `UN.ed.L` `UN.ed.L.T` @-lichkeit
 * -end `.ed` → dutz jug
   * : -nd `.d` → forder
 * *ener****g*** `(g)` : `(g).I` `(g).i`
@@ -535,8 +534,8 @@
   * aß `.ass`
   * *ge*gess `G.g.ess`
 * ~~ess~~
-  * *inter*~~ess~~ `(I)t-er`: `(I)t-er.aNT` `(I)t-er.eNT-en` `(I)t-er.ir` `(I)t-er.os.i-T` `(UN.I)t-er.aNT`
-    * : *inter*~~ess~~e `(I)t-er.e` × `(I)t-er`
+  * *inter*~~ess~~ `(I)t-er`: `(I)t-er.e` `(I)t-er.aNT` `(I)t-er.eNT-en` `(I)t-er.ir` `(I)t-er.os.i-T` `(UN.I)t-er.aNT`
+    * *interesse* `(I)t-er`
 * *essen* `.ess`
 * *etw****a*** `(.a)` : `(.a)-s`
 * *europa*, *europä* `.eu-p` : `.eu-p-er` `.eu-p.i`
@@ -1476,6 +1475,8 @@
 * ***leut*** `.eut` : `.eut.e` `fa.eut.e` `la.eut.e`
   * **land**s***leut***e `la.eut.e` ! `la-s.eut.e` ≠ landleute
 * -*lich* `L`
+  * -*lich*<i></i>*keit* `L.T` @-lichkeit
+    * *unendlichkeit* `UN.ed.T`
 * licht `l.icht`
 * lieb `l.ib`
 * *liefer* `l.i-er` : `l.i-er-UNG:tra`
@@ -3315,17 +3316,17 @@
 ## TODOs
 
 * entfernen
-  * `* × ` (0 + 109)
-  * `* ~ ` (0 + 142)
-  * `* ! ` (2 + 121)
-  * `* : ` (418)
+  * ` × ` (109)
+  * ` ~ ` (142)
+  * ` ! ` (120)
+  * ` : ` (418)
 
 * `UN-…` → `UN.…`
 
 * ⇒ 
 * STS
 
-### Nicht einheitlich gekürzte Wortfamilien
+* `d.N` `k.N` `m.N` `s.N`
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
