@@ -519,7 +519,8 @@
 * *ent*- `eNT`
 * *ent*behr ← behr ← bär
 * ente `.ent.e`
-* -*ent* `eNT`
+* -*ent* `eNT` @-ent
+  * *koeffizient*  `ko.e-f.ent`
 * *er* `er`
 * -er `.er`
   * -erei `.ei` @-erei
@@ -558,9 +559,9 @@
 * faci
   * → facette
 * faden `r.ad`
-* **fäh** `f`/`fäh` : `f.i` `f.i-T` `l.ei-f.i` `l.ei-f.i-T`
-  * : *arb****eit***s**fäh***ig* `(T).f.i` ~ `T.f.i`
-  * : *arb****eit***s*un***fäh***ig****keit*** `(T),UN-f.i-T` × `(T),UN-T`
+* **fäh** `f`/`fäh` : `f.i` `f.i-T` `(T).f.i` `(T),UN-f.i-T` `l.ei-f.i` `l.ei-f.i-T`
+  * *arbeitsfähig* `T.f.i`
+    * *arbeitsunfähigkeit* `(T),UN-T`
 * **fahr** `fa` : `fa.bar` `fat` `G.fa` `G.fa-ol` `.ab.fa` `.ab.fat` `.S.fa` `be.fa.bar` `er.fa` `er.fa.G` `.if-fat` `UN-er.fa` `UN-er.fa.H` `E.fa` `Z.fat` `u-rÜ:fa`
   * : **fahr**er `fa-er` ! `f.ar-er`
   * **fähr** `fä` : `fä-e` `ft` `er.f` `G.fd` `UN-G.fä` `G.f.L` `G.f.L.T` `G.ft.e` `G.ft.in` `UN-G.f.L` `(.l):f.i` `dU er.fä .e`
@@ -569,6 +570,8 @@
     * *du*.*erfährst*.*es* `dU er.f .e`
   * **fuhr** `fu` : `.S.fu` `N.fu`
     * → führ
+* *fakt* `fat` : `fat.ur.a` ← faz
+  * → fekt
 * **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `.eb.fa-s` `G.g.fa-s` `gl.fa-s` `k.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z.fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `IN.iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
   * *ebenfalls* `.e-fa-s`
   * **fäll** `f` : `f.e` `f.i` `f.i-T` `G.f.i` `G.f.i-T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G.f.i` `UN-G.f.i-T` `Z.f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
@@ -604,23 +607,10 @@
 * fassade `f.ass.ade`
 * fasson `f.ass.ong`
 * *fast* `Fa`
-* fat, fit
-    * : **kon**<i></i>**fess***ion* `ko.f-o` × `ko.f`
-    * : *pro***fess***ion* `(o)f-o` ! `(o)f.ess.iO`
-      * : *pro***fess***ion**ell* `(o)f.i-eL` ! `(o)f.ess.i-eL`
-    * : *pro***fess**or `(o)f.or` × `(o)f`
+* fat, fit → fess
 * **faz** `fa` : `fa.it`
-  * **f**iz `f` : `b.en.e-f` `.o-f.ieL`
-    * : de**f**izit `d.e-f.it` × `d.e-it`
-    * : e**f**izi*ent* `.e-f.eNT` ! `.e-f.iz.eNT`
-      * : **ko**e**f**izi*ent* `ko.e-f.eNT` ! `ko.e-f.ent`
-    * : o**f**iz `.o-f` : `.o-f.ieL`
-  * *fakt* `fat` : `fat.ur.a`
-    * **fekt** `f` : `.a-f` `.e-f` `.e-f-ol`
-      * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
-      * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
-      * : **per**<i></i>**fekt** `p.f` ~ `p.fet`
-      * fit `f.it` : `(o)f.it`
+  * → fiz
+  * → fakt
 * **fed** `f` : `f-er` : `f-er-Ü.ed`
 * fehl `f.el` : `be.f.el`
   * *fehler* `f-er`
@@ -631,6 +621,11 @@
 * *f****eier*** `(.ei-er)` : `(.ei-er).L` `G.ei-ert` `j.ub.ei-er`
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
+* **fekt** `f` : `.a-f` `.e-f` `.e-f-ol` ← fekt
+  * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
+  * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
+  * : **per**<i></i>**fekt** `p.f` ~ `p.fet`
+  * → fit
 * feld `f.ed` : `m.in.f.ed`
 * fend `f.ed`
   * → fens
@@ -650,7 +645,10 @@
 * *ferien* `f.I.en` : `(.est.er),f.I.en` `s.om.f.I.en`
 * fern ← fer
 * *fert* `-t` : `-t.ig` `-t.ig.T` `.an-t.ig` `.S-t.ig` `UN-t.ig`
-* fess ← fat
+* **fess** `f` : `ko.f-o` `(o)f-o` `(o)f.i-eL` `(o)f.or` ← fat, fit
+    * *konfession* `ko.f`
+    * *profess* `(o)f.ess` : `(o)f.ess.iO` `(o)f.ess.i-eL` `(o)f.ess.or`
+      * *professor* `(o)f`
 * *fest* `f°`
 * *feuer* `feu` : `feu-ig` `.an.feu`
   * : *feuer*<i></i>*ung* `feu-UNG` ! `feu-er-UNG`
@@ -684,9 +682,13 @@
 * **fisch** `fi` : `fi-er` `fi-er` `fi-er.ei` `ho.s.e,fi-er.ei`
   * *fisch* `f.isch`
 * fit → fat
+* fit `f.it` : `(o)f.it` ← fekt
+* **f**iz `f` : `b.en.e-f` `d.e-f.it` `.e-f.eNT` `ko.e-f.eNT` `.o-f.ieL` ← faz @-ent
+  * *defizit* `d.e-it`
+  * *efizient* `.e-f.iz.eNT`
 * **fl** `fl` STS : `s.u-fl.ir`
-  * **flat** `fla`
-    * *in***flat**or**isch** `IN.fla.or.i`
+  * **flat** `fla` : `IN.fla.or.i`
+    * *in***flat**or**isch**
     * *in***flat**<i></i>*ion* `IN.fla-o` × `IN.fla`
       * : *in***flat**<i></i>*ion*är `IN.fla-o.är` × `IN.fla.är`
       * : *in***flat**<i></i>*ion*<i></i>*istisch* `IN.fla-o.iS.i` × `IN.fla.iS.i` × `IN.fla.i`
