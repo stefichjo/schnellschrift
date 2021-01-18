@@ -1342,11 +1342,11 @@
   * *kultus* `.us` : `.us.er` `.us.ko`
 * *kummer* `k.um`
   * *kümmer* `k.üm`
-* **kund** `ku` : `ku.e` `ku.i` `ku.in` `ku.FT` `ku.FT.er` `er.ku` `er.ku.i` `.ur.ku.L` `UN-ku.i` ← könn
-  * : **kund** `ku` ! `k.ud`
-  * : ur**kund**e `.ur.ku.e` × `.ur.ku`
+* **kund** `ku` : `ku-e` `ku.i` `ku.in` `ku.FT` `ku.FT.er` `er.ku` `er.ku.i` `.ur.ku.L` `UN-ku.i` `.ur.ku-e` ← könn
+  * *kund* `k.ud` ≠ kunde
+  * *kunde* `ku.e` ≠ kund
   * **künd** `kÜ` : `kÜ.i` `kÜ.bar` `.an.kÜ` `E.kÜ` `E.kÜ.i`
-    * : **künd**en `kÜ` ! `k.üd` ≠ kürzen
+    * *künd*en `k.üd` ≠ kürzen
 * **kunft** `ku` : `Ü.N.ku` `Z.ku` `Z.Sa.ku` `.S.ku:g` STS ← komm
   * **künft** `kÜ` : `kÜ.i` `N.kÜ.e` `Z.kÜ.i`
 * kunst `kust` ← könn
@@ -2674,7 +2674,7 @@
   * ***stieg*** `.ig`
 * stet ← steh
 * *st****eu***er `eu-er` : `eu-er.L` `eu-er,i` `eu-er-UNG` `kö.er.FT,eu-er` `.um-sa,eu-er`
-  * *körperschaftssteuer* `kö,eu-er` @zu steuer
+  * *körperschaftssteuer* `kö,eu-er`
   * *umsatzsteuer*`.um.eu-er`
 * stick `st.ik`
 * **stift** `.ift` @st
