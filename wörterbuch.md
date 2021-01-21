@@ -1681,8 +1681,8 @@
   * : *kom*pr**o***mitt*ier `kom.o+M.ir` ~ `kom-p.it.ir`
   * → miss
 * mob `m.ob`
-  * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
-    * : automobil `.aut.m.ob.il` × `.aut.il`
+  * : mobil `m.ob.il` : `.aut.m.ob.il` `m.ob.ar` `m.ob.ir` `m.ob.ät`
+    * *automobil* `.aut.il`
 * ***mocht*** `.ocht` ← mög
 * mod `m.od` : `m.od.e` `m.od.al` `m.od.al.ät` `m.od-er.or` `m.od-er.iO` `m.od.if-o` `m.od.ul` `m.od.ul.ar` `m.od.ul.iO` `m.od.us`
   * : *mod****ell*** STS `(.ell)` ~ `m.o-ell` : `(.ell).ir` ~ `m.o-ell.ir` ≠ kartell
@@ -1709,10 +1709,10 @@
 * **müh** `mÜ` : `be.mÜ.en`
 * mult `mut` : `mut.al`
 * *münchen* `mÜ.en`
-* mus `m.us` : `m.us.e` `m.us.i`
-  * : museum `m.us.e-um` × `m.us`
-  * *musik* `mu.ik` : `mu.ik-er` `mu.ik.aNT` `mu.ik.i` `mu.ik.ät` `mu.ik.i-en`
-    * *musiz* `mu.iz` : `mu.iz.ir`
+* mus `m.us` : `m.us.e` `m.us.e-um` `m.us.i`
+  * *museum* `m.us`
+  * *musik* `mu.ik` : `mu.ik-er` `mu.ik.aNT` `mu.ik.i` `mu.ik.ät` `mu.ik.i-en` @-ik
+    * *musiz* `mu.iz` : `mu.iz.ir` @-iz
 * *müss* `yss` `yss-t.e` `dU,ysst.est` `.ir,ysst.et` `wr,yss` @y
   * *du.müsstest* `dU,ysst`
   * *wir.müssen* `wr.Yss`
@@ -1756,8 +1756,8 @@
   * -*naut* `.aut` → aero astro kosmo
 * neb `n.eb` : `n.eb.ko` `n.eb,(.e)` `n.eb.L`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
-* ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `O.L` `O.w,(en)` `O.l.ib,(en)` `Ü.en` `wa,(en)` `wa,UNG` `IN.auf.en` `AU.CH.en`
-  * : ein*ver*~~nehm~~en `N.E,(en)` × `N.E`
+* ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `N.E,(en)` `O.L` `O.w,(en)` `O.l.ib,(en)` `Ü.en` `wa,(en)` `wa,UNG` `IN.auf.en` `AU.CH.en`
+  * *einvernehmen* `N.E`
   * : *vor*~~nehm~~ `O` ! `O.n.em`
     * : *vor*~~nehm~~ `O,(-st)`
   * : *über*~~nehm~~en `Ü,(en)` ~ `Ü.en`
@@ -1836,8 +1836,7 @@
   * *off*- `.o-` : `.o-bar` `.o-H`
   * *öffn*, *öffent* `.ö` : `.ö` `.ö-L` `.ö-L.T` `er.ö` `E.ö-L`
 * offiz → faz
-* oft `.oft`
-  * : *eben*<i></i>*so* oft `.eb.o .oft` × `.eb.oft`
+* oft `.oft` : `.eb.o-oft`
   * *oft*- `.o-` STS
     * : *oft***mal**s `.o+ma-s` STS ~ `.oft-s`
   * *öfter* `.ö` : `.ö-s` `(.es).ö`
@@ -1848,9 +1847,9 @@
   * → optim
 * *optim* `.op` : `.op.iS` `.op.ist` `.op.iS.i` ← opt
   * : *optim*al `.op.al` ~ `.opt.im-a`
-* ord `.od` : `.od.L` `.od.in.är`
-  * : ab*ge*ordnet `.ab.od` × `.ab.G`
-  * : *außer*ordent*lich* `.auss.od.L` × `.auss.L`
+* ord `.od` : `.od.L` `.auss.od.L` `.od.in.är` `.ab.od.et`
+  * *abgeordnet* `.ab.G`
+  * *außerordentlich* `.auss.L`
   * -*ordnung* `.o` → gemein
 * org `.org` : `.og.an` `.og.iO` `.og.ir` `.og.iS.en`
   * organ**isch** `.og.i` ! `.og.an.i`
@@ -1890,8 +1889,8 @@
 * *parallel* `pa.el` STS ~ `p.ar.el`
 * *paris* `pa.is`
 * parl
-  * *parlament* `Par` : `Par.ar-er`
-    * : *parlament*ar**isch** `Par.ar.i` × `Par.i`
+  * *parlament* `Par` : `Par.ar-er` `Par.ar.i`
+    * *parlamentarisch* `Par.i`
 * part `pat` : `pat.I` `pat.ik.el` `pat.ik.är` `pat-er`
   * *partei* `pa-ei` : `pa.ei-Sa.UNG`
   * -*partei* `.ei` : `I.ei-en` → krat union
@@ -3334,7 +3333,7 @@
 ## TODOs
 
 * entfernen
-  * ` × ` (82)
+  * ` × ` (41)
   * ` ~ ` (142)
   * ` ! ` (120)
   * ` : ` (418)
