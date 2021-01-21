@@ -18,7 +18,7 @@
 * aero `.er` : `.er.aut.ik`
   * *aeronautik* `.er.o-n.ik`
 * *afrik* `.afr` `.afr.a` `.afr.i`
-  * *afrika* `.afr`
+  * *afrika* `.afr` @-a
 * ag `.ag` : `.ag.eNT` `.ag.eNT.ur`
   * *agentur* `.ag.ur`
   * → akt
@@ -769,8 +769,7 @@
 * **f**ür `f` : `f.ei-ad-er` `.a-f`
 * furcht `f.ucht` : `f.ucht.bar` `f.ucht.os` `f.ucht-Sa`
   * fürcht `f.ücht` : `f.ücht.et.e` `f.ücht.L` `be.f.ücht`
-* fus `f.us` : `f.us.iO` `f.us.iO.ir` `d.i-f.us` `ko.f.us` `tra.f.us.iO` ← fund
-  * *fusion* `f.us` : `f.us.ir` `f.us.ha*.en` `tra.f.us`
+* fus `f.us` : `f.us` `f.us.ir` `f.us.ha*.en` `d.i-f.us` `ko.f.us` `tra.f.us` ← fund @-sion
 * **fuß** `fu` : `ha.fu`
 * **futt** `fu` : `fu-er`
   * **fütt** `fü` : `fü-er`
@@ -1007,6 +1006,7 @@
 * ***harr*** `arr` : `be.arr.L.T` @-lichkeit
 * **hart** `hat`
   * **härt** `het` : `het.e` `het.est` `G.het` `.ab.het` `er.het`
+* häs @-sion
 * **haupt** `hau` : `be.hau.et` `hau.a.L` `hau.uss` `hau,(.e)` `hau.L` `(.es).hau`
   * *oberhaupt* `.o-hau`
   * **häupt** `häu` : `häu-er` `häu.ing`
@@ -1148,6 +1148,8 @@
 * insel `.i-s.el` : `ha.i-s.el`
 * inser ← ser
 * instinkt → stinkt
+* *intellig* `IN.t` : `IN.t.eNT` `IN.t.ez` ← lig
+  * *intelligent* `IN.t-t`
 * integer → teger
 * *inter*- `(I)t-er`
   * *intell*- `IN.t`
@@ -1155,6 +1157,7 @@
 * -*ion* `.iO`/`-o` ⇒ `*` STS
   * -*ional* `.i-aL`
   * -*ionell* `.i-eL`
+  * -*sion* `-s` @-sion
 * *irgend* `.i`/`.ig`
   * n*irgend* `n.i`/`n.ig`
 * irr `.irr`
@@ -1293,6 +1296,7 @@
   * *koalition* `ko.iO`
 * koll
   * *protokoll* `pr.ot.ok`
+* *kolleg* `ko` : `ko.e` `ko.in` `ko.iaL.ät` `ko.um` `h.ko.e` `ko.in.en,&` ← leg
 * **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `IN.be.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get.UNG.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
   * : *darauf* *zurück***komm**en `dar-AU u-rÜ.ko` ~ `dar-AU-Ü.ko`
   * *zugute.komm* `Z.u-ko`
@@ -1361,10 +1365,11 @@
     * *konkurs* `ko.us`
 * **kurz** `ku` : `ku.um` `ku,i`
   * **kürz** `kÜ` : `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E.kÜ`
-* kuss `k.uss` STS: `k.üss`
+* kuss `k.uss` STS
+  * küss `k.üss`
+* *kuss* `-u-` : `ds-u` `p-u-o` ← kut @-sion
 * *kut* `-u-` : `ds-u.ir`
-  * *kuss* `-u-` : `p-u-o`
-    * : *dis**kuss**ion* `ds-u-o` × `ds-u`
+  * → kuss
 
 ### [KR](#wörterbuch)
 
@@ -1447,13 +1452,9 @@
 * led `l.ed` : `l.ed.i-L`
 * leg ← lieg
 * leg `l.eg` : `l.eg.ed.e`
-  * : **koll**ege `ko.eg.e` × `ko.e` : `ko.eg.in` `ko.eg.iaL.ät` `ko.eg.um`
-  * lig : `l.ig:ma.FT`
-    * : liga `l.ig.a` × `l.ig`
-    * : *intell*igent `IN.t.ig.eNT` ~ `IN.t-t`
-    * : *intell*igenz `IN.t.ig.ez` × `IN.t.ez`
-    * **l**i `l` : `l.ir`
-  * lekt `l.ekt` : `l.ekt.iO` `l.ekt.or` `l.ekt.ür.e` `IN.t.ekt` `IN.t.ekt.ell` `ko.ekt.iO` `ko.ekt.iv`
+  * → kolleg
+  * → lig
+  * → lekt
 * lehn `l.en` : `.ab.l.en`
   * *abgelehnt* `.ab.G`
 * lehr `l.er`
@@ -1469,12 +1470,14 @@
 * **leist** `l.ei` : `hö-t.l.ei` `I g.l.ei`
 * leit `l.T` : `Ü.la-l.T`
   * : **schrift**leit*ung* `.ift,l.T.UNG` ~ `i,l.T.UNG`
+* lekt `l.ekt` : `l.ekt.iO` `l.ekt.or` `l.ekt.ür.e` `IN.t.ekt` `IN.t.ekt.ell` `ko.ekt.iO` `ko.ekt.iv` ← leg
 * lern `l.en`
 * letz `l.ez` : `E.l.ez` `E.l.ez°`
   * : *verletzt* = *ver***letz**t `E.l-t`
 * *letzt* `let`
 * ***leut*** `.eut` : `.eut.e` `fa.eut.e` `la.eut.e`
   * **land**s***leut***e `la.eut.e` ! `la-s.eut.e` ≠ landleute
+* *li* `l` : `l.ir` ← lig
 * -*lich* `L`
   * -*lich*<i></i>*keit* `L.T` @-lichkeit
     * *unendlichkeit* `UN.ed.T`
@@ -1500,6 +1503,10 @@
     * : *ver***lor** `E.lo` ! `E.l.or`
   * **lust** `lu`
     * : *ver***lust** `E-lu` ~ `E,u` : `E,u.e`
+* lig : `l.ig.a` ← leg
+  * *liga* `l.ig` @-a
+  * → intellig
+  * → li
 * -***ling*** `.ing`
 * *lin****i*** `(.I)` : `ri.I.e`
   * : *lin****i***e `(.I).e` ~ `l.in`
@@ -1516,21 +1523,20 @@
   * *liquid* `l.iqu` : `l.iqu.e` `l.iqu.ät`
 * log `l.og` : `l.og.ik` `l.og.i`
 * -***log*** `.og` → astro bio geo kata phraso polito
-* lok `l.ok` : `l.ok.ir` `l.ok.ät` `l.ok.iv`
-  * : lokal `l.ok.al` × `l.ok`
-* loqu
-  * **koll**oquium `ko.oqu.um` × `ko.oqu`
+* lok `l.ok` : `l.ok.al` `l.ok.ir` `l.ok.ät` `l.ok.iv`
+  * *lokal* `l.ok`
+* loqu `l.oqu` : `ko.oqu.um`
+  * *kolloquium* `ko.oqu`
 * ***los*** `.os` : `.S.os`
   * -*los* `.os` / `l.o`
   * ***lös*** `.ös` : `.ös.bar` `AU.ös` `er.ös` `.os.ös` `UN-ös.L`
 * lösch `l.ösch`
 * lud `l.ud`
-  * lus `l.us`
-    * : illus*ion* `.i-lus.iO` × `.i-lus`
+  * lus `l.us` : `.i-lus` @-sion
 * lust `l.ust` : `l.ust.ig`
-* lux `l.ux`
-  * : luxus `l.ux.us` × `l.ux`
-  * : luxuriös `l.ux.ur.ös` × `l.ux.ös`
+* lux `l.ux` : `l.ux.us` `l.ux.ur.ös`
+  * *luxus* `l.ux`
+  * *luxuriös* `l.ux.ös`
 
 ## [M](#wörterbuch)
 
@@ -1566,7 +1572,7 @@
   * : *manch***mal** `aCH.ma` ! `aCH.m.al`
 * **mand** `ma` : `ma.aNT` `ma.aNT.in`
 * **mang** `ang` : `ang.el`
-* **mann** `ma` : `.auf.ma` `la.ma`
+* **mann** `ma` : `l.ig:ma.FT` `.auf.ma` `la.ma`
   * : **land**s**mann** `la.ma` ! `la-s.ma` ≠ landmann
   * **männ** `m` : `m.er` `m.L` `.auf.m.i`
 * **mann*****heim*** `ma.eim`
@@ -1870,7 +1876,7 @@
   * -*pakt* `pa` → greif
 * pand `p.ad`
   * → pans pass
-* ***pans*** `pas` : `.e-pas-o` ← pand
+* ***pans*** `pas` : `.e-pas-o` ← pand @-sion
 * **pap**, **papp** STS `pa` : `pa-e` STS `pa.ir` `(ar).et:pa.ir`
   * *pappe* `p.ap.e`
 * **par** `pa` : `pa.ad.e` `pa.ad.ir` `pa.ad.is` `.a-pa.at` `.a-pa-ur` `(r)pa.ir` `(r)pa-ur`
@@ -1902,7 +1908,7 @@
   * pend `p.ang` : `p.ang.d.ang`
     * *pendant* `p.ang.da`
   * pens `pe-s` : `pe-s-o` `kom-s.ir` `kom-s-o`
-    * *pension* `pe-s.iO`
+    * *pension* `pe-s.iO` @-sion
 * **per**- `p`
 * perg `p.eg` : `p.eg.eNT`
 * *peri*- `p` : `p.od.e` `p.od.ät`
@@ -1986,6 +1992,7 @@
 * **prax** `pra` : `pra.en` `pra.is`
   * **prakt** `pra` : `pra.i` `pra.ik.en` `pra.ik.aNT` `pra.ik.aNT.in` `pra.ik-er` `pra.ir`
   * pragm `pr.agm` : `pr.agm.i` `pr.agm.ik-er` `pr.agm.iS`
+* präzis @-sion
 * *pr****eis*** `(.eis)`
 * **press** `pr` : `pr-e` ← prim
 * prim → press
@@ -2274,8 +2281,9 @@
   * *gesetzt* `G.s.ezt`
     * -*gesetzt* `-G` : `N.-G` `fr-G` `O.S-G`
       * *eingesetzt* `N.-G-s`
-  * -*setzung* `s.ez*` : `.S.ei-ad-er.s.ez*` `be.s.ez*`  `fr.s.ez*` 
+  * -*setzung* `s.ez*` : `.S.ei-ad-er.s.ez*` `be.s.ez*`  `fr.s.ez*`
     * *auseinandersetzung* `.S.ei-ad-er`
+    * *simultanübersetzung* `s.im.an-Ü`
   * *gesetz* `-G` : `-G.e` `-G.L` `-G.os.i-T` `-G.i` `gru.-G` `(.es),-G` `UN-G.L`
     * *gesetzmäßig* `-G.ess.i`
     * *gesetzwidrig* `-G,i` = gesicht
@@ -2325,6 +2333,9 @@
 * *siedel* `s.i-el`
 * silb `s.ib` : `s.ib-er` `s.ib-ern` `s.ib-r.i` `E.s.ib-ert`
 * silb `s.ib` : `s.ib.e` `N.s.ib.i` `m.s.ib.i` `O.s.ib.en`
+* *simul* `s.im` : `s.im.aNT` `s.im-o` `s.im.or` `s.im.ir` `s.im-t.an`
+  * *simulation* `s.im.ul.iO`
+  * *simultan* `s.im.an`
 * sind ← sein
 * sinn `s.in` : `s.in.os` `s.in.Ol` `be.s.in` `be.s.in.os` `er-s.in` `G.s.int` `G.s.in.UNG.i`
   * *besinn* `be-s.in` : `be-s.in.os`
@@ -2681,7 +2692,7 @@
   * -*stift* `i` → blei
 * stil `st.il`
 * **still** `.ill` : `t.ot.ill.e` @t.o -> t.ot @st
-* **stimm** `.im` : `.im:H`
+* **stimm** `.im` : `.im:H` @st
   * *bestimm* `b°-i` : `b°-i-t`
     * : *mit*<i></i>*stimm* `M,b°-i` ~ `M°`
 * *stinkt* `st.i` : `ds.`IN.st.i` `IN.st.i-iv` `IN.st.i-l.o`  ← sting
@@ -2945,7 +2956,7 @@
 * *ver*- `E`
 * verletz ← letz
 * vert `vet` : `ko.wet.ir` `ko.wet.ib.ät`
-  * vers `v.es` : `v.es.irt` `d.i-w.es` `d.i-w.es.iO` `IN.w.es` `IN.w.es.iO` `ko.w.es.iO`
+  * vers `v.es` : `v.es.irt` `d.i-w.es` `d.i-w.es.iO` `IN.w.es` `IN.w.es.iO` `ko.w.es.iO` @-sion
     * : vers*ion* `v.es.iO` ~ `w.es.iO`
     * : **kon**versat*ion* `ko.w.es.iO` ! `ko.w.es.at.iO` ≠ konversion
     * uni~~vers~~ `.un` : `.un.al` `.un.ell` `.un.ät` `.un.um`
@@ -2968,7 +2979,7 @@
   * : *so****viel*** `.o-il` ~ `.o-l`
 * vier `v.ir`
   * *viert* `vi` : `vi.el`
-* -**v**is- `v`
+* -**v**is- `v` @-sion
   * : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.isr` `v.is.um` `v.is.a`
   * : `d.e-w.e` `d.e-w.en`
   * : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `(o)w.or.I.en` `r.w-o` `r.w.or` ← vid
