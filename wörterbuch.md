@@ -1158,6 +1158,8 @@
   * -*ional* `.i-aL`
   * -*ionell* `.i-eL`
   * -*sion* `-s` @-sion
+    * *mission* `ms-o` : `ms-o.ar` `ms-o.ir`
+    * *emission* `.e-ms-o`
 * *irgend* `.i`/`.ig`
   * n*irgend* `n.i`/`n.ig`
 * irr `.irr`
@@ -1532,7 +1534,8 @@
   * ***lös*** `.ös` : `.ös.bar` `AU.ös` `er.ös` `.os.ös` `UN-ös.L`
 * lösch `l.ösch`
 * lud `l.ud`
-  * lus `l.us` : `.i-lus` @-sion
+  * → lus
+* lus `l.us` : `.i-lus` ← lud @-sion
 * lust `l.ust` : `l.ust.ig`
 * lux `l.ux` : `l.ux.us` `l.ux.ur.ös`
   * *luxus* `l.ux`
@@ -1579,8 +1582,8 @@
 * *mar****kt*** `(kt)` : `vi.kt` `d.is.kt` `schwa.kt`
   * : *arb****eit***s*mar****kt*** `(T).kt` ~ `T.kt`
   * : welt*mar****kt*** `wet.kt` ~ `(-t),(-t)`
-* *marokk* `ma.ok`
-  * : *marokk*o `ma.ok.o` × `ma.ok`
+* *marokk* `ma.ok` : `ma.ok.o`
+  * *marokko* `ma.ok` @-o
 * *masch****in*** `(.in)` : `(.in).e` `(.in).ell` `n.äh,(.in).e`
 * ***mass*** `ass` : `ass.e`
   * ***mass***en**haft** `ass.ha` ! `ass.en.ha`
@@ -1596,8 +1599,8 @@
 * mech `m.ech`
   * : mechan `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
 * med `m.ed` : `m.ed.it.ir` `m.ed.it.iO` `m.ed.um` `m.ed.I.en`
-  * *medik* `m.ed` : `m.ed.eNT`
-    * : *medik*<i></i>*ament*ös `m.ed.eNT.ös` × `m.ed.ös`
+  * *medik* `m.ed` : `m.ed.eNT` `m.ed.eNT.ös` `m.ed.in` @-ik @-iz
+    * *medikamentös* `m.ed.ös`
     * *medizin* `m.ed`
 * **mehr** `m` : `m.H` `m.ko` `m.ma-s` `E.m-UNG` `nu:m` `(.er)m` `-t.m`
   * *nicht.mehr* `-t.mer` STS ≠ irrtum
@@ -1641,8 +1644,8 @@
   * -metrie `m.etr.I` → ge sym
   * meter `m.et-er`
     * : `pa.m.et-er` ! `p.ar.a-m.et-er`
-* *mexik* `m.ex` : `m.ex-er` `m.ex.i`
-  * : *mexik*o `m.ex.o` × `m.ex`
+* *mexik* `m.ex` : `m.ex-er` `m.ex.i` `m.ex.o`
+  * *mexiko* `m.ex` @-o
 * *mich* `m.i` : `.ass.m.i`
   * *lassen.sie.mich* `ass.m.i`
 * *million* `(I),(I)` : `(I),(I).är` `(I),(I).en`
@@ -1664,20 +1667,19 @@
 * mir `m.ir`
   * .***mir*** `.ir` : `(I)-bi.ir,u`
 * *miss*- `ms`
-* miss ← mitt
+* *miss* `ms` : `ms` `ms.ar` `ms.ir` `.e-ms` `ko+ms.ar` `ko+ms` `ko,(o)ms` `tra.ms` ← mitt @-sion
+  * *kompromiss* `ko-m`
+  * *kommiss* `ko-i` : `ko-i.ar` `ko-i` @-sion
+    * -*kommission* `ko` → atom
 * *mit* `M` : `M.ei-ad-er` `.a-M` `hi:M`
   * : *mitt* `M` : `M.e` `M.el`
-    * *mittel* `-t.el` : `er-t.el` `G.uss-t.el` `hi-t.el` `n.är-t.el` `ar-UNG-t.el` `E.er-t.el`
-      * : *un*<i></i>*mittel****bar*** `UN-t.el.bar` × `UN.bar`
+    * *mittel* `-t.el` : `UN-t.el.bar` `er-t.el` `G.uss-t.el` `hi-t.el` `n.är-t.el` `ar-UNG-t.el` `E.er-t.el`
+      * *unmittelbar* `UN.bar`
   * *damit* `a-M`
 * *mitt* `M`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
   * : *kom*pr**o***mitt*ier `kom.o+M.ir` ~ `kom-p.it.ir`
-  * *miss* `ms` : `ms-o` `.e-ms-o` `ko+ms.ar` `ko+ms-o`
-    * : *kom*pr**o***miss* `ko,(o)ms` ~ `ko-ms` × `ko-m`
-    * : *trans**miss**ion* `tra.ms-o` × `tra.ms`
-    * *kom*<i></i>*m****i****ss* `ko-i` : `ko-i.ar` `ko-i.iO`
-      * -*kommission* `ko-i` → atom
+  * → miss
 * mob `m.ob`
   * : mobil `m.ob.il` : `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * : automobil `.aut.m.ob.il` × `.aut.il`
@@ -3336,6 +3338,7 @@
   * ` ~ ` (142)
   * ` ! ` (120)
   * ` : ` (418)
+  * @@
 
 * `UN-…` → `UN.…`
 
