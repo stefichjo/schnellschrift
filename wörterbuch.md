@@ -1118,9 +1118,9 @@
   * -*i*ener `I.er`
   * -*i*en*isch* `I.i`
 * -ier- `.ir`
-* -ifik- ← fak
-* -*ifik*- `.if` : `.if-o`
-  * -*ifiz*- `.if` : `.if.ir`
+* -*ifik*- `.if` : `.if-o` ← fak
+  * -*ifiz*- `.if` : `.if.ir` @-ifiz
+    * *qualifizier* `qu.al.ir`
 * -*ig* `.i`/`.ig`
 * ihn `.in` : `.in.en`
   * -*ihnen* `i` → bei mit um dank
@@ -1130,6 +1130,7 @@
 * *imm****er*** `(.er)` : `(.er):fr` `(.er).in` `(.er),i`
   * : n*imm****er*** `(n.er)` : `(n.er).s.at`
   * *immerhin* `.i-hn`
+* *import* `.imp` : `.imp.ir` `.imp.ör` ← port
 * in ← inn
 * *in* `IN` : `IN.s` `IN.ei-ad-er`
   * *in*- `(I)` : `(I)-S.e`
@@ -1950,7 +1951,6 @@
   * *metropole* `m.etr.ol.e`
 * *polit* `it` : `it.i` `it.i-er` `it.ir` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i` `k.osm.it` `k.osm.it.iS`f`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `wä-tik` `FT.tik`
-    * : **fin**anz*politik* `fi.az.tik` × `fi.tik`
     * : **hand**els*politik* `ha.el-t.ik`
 * *poliz* `li` : `li.ei` `li.ist`
   * *land****es****poliz*ei `(.es),li.ei` ~ `(.es).l.ei`
@@ -1966,10 +1966,10 @@
       * : **post**ulier `po.ir` ! `po.ul.ir`
       * : *kom***post** ⇒ *komp****ost*** `kom.ost` : `kom.o+st.ir`
     * → pot
-* port `pot` : `pot.al` `(d)pot.ir` `(o)pot.iO` `tra.pot`
-  * : *pro*port*ional* `(o)pot.i-aL` × `(o)pot.al`
-  * : *un*<i></i>*pro*port*ion*iert `UN.o-pot.iO.irt` × `UN.o-port.irt`
-  * *import* `.imp` : `.imp.ir` `.imp.ör`
+* port `pot` : `pot.al` `(d)pot.ir` `(o)pot.iO` `UN.o-pot.iO.irt` `(o)pot.i-aL` `tra.pot`
+  * *proportional* `(o)pot.al`
+  * *unproportioniert* `UN.o-port.irt`
+  * → import
 * pot `p.o` ← pon
   * : depot `(d.e)p.o`
 * puber `p.ub-er` : `p.ub-er.ir` `p.ub-er.ät`
@@ -2010,8 +2010,7 @@
 
 ## [Q](#wörterbuch)
 
-* qual `qu.al` : `qu.al.ät`
-  * qual*ifiz*ier `qu.al.if.ir` × `qu.al.ir`
+* qual `qu.al` : `qu.al.ät` `qu.al.if.ir` @-ifiz
 * quant `quat` : `quat.en` `quat.um`
   * *quantit* `(.an)` : `(.an).ät` `(.an).iv`
 * **quell** `qu` : `f-er.qu.e`
@@ -3350,3 +3349,4 @@
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
 
+* fin & finanz
