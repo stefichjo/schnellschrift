@@ -460,8 +460,7 @@
 
 * eben `.eb` : `(o).eb`
 * echt `.echt`
-* ego `.eg.o` STS : `.eg.iS` `.eg.iS.i`
-  * : ego*ist* : `.eg.i+st` ~ `.eg.ist`
+* ego `.eg.o` STS : `.eg.iS` `.eg.ist` `.eg.iS.i` @-ist
 * ehr `.er`
   * -~~ehr~~ : *ich*.*hab*e.~~die~~.~~ehr~~.e `.I-a,(.e)`
 * eid `.eid` : `N.eid` STS
@@ -491,6 +490,8 @@
 * ein `N` : `h.N` `n.N` `v O.n.h.N`
   * *hinein* `hi.N` ≠ nein
   * *von.vornherein* `v.N`
+* *einfluss* `N.uss` ← fluss
+  * *einflüss* `N.üss` : `N.üss.e`
 * eis `.eis`
 * *eisen* `.eis.en` ≠ eis
 * el `.el` : `.el.e-met` `.el.e-met.ar`
@@ -581,8 +582,8 @@
 * falsch `f.asch` : `f.asch.H`
   * fälsch `f.esch` : `f.esch.L`
 * falt `fat` : `fat.e` `fat.et.e` `N.fat` `eNT.fat` `eNT.fat.UNG` `o:fat`
-  * fält `fet` : `N.fet.ig` `hu:fet.ig` `o:fet.ig`
-    * : *ver****viel***fält*ig*en `E.il.fet.ig` ~ `E.il.f.i`
+  * fält `fet` : `N.fet.ig` `hu:fet.ig` `o:fet.ig` `E.il.fet.ig`
+    * *vervielfältigen* `E.il.f.i`
 * *famili* `f.am` : `f.am.är` `f.am.e`
   * *familie* `f.am`
 * -***fang***- `ang` : `f.ang` `an.ang` `be.ang` `N.ang` `.um.ang` `.um.ang:eich` `fi.ang`
@@ -622,10 +623,10 @@
 * *f****eier*** `(.ei-er)` : `(.ei-er).L` `G.ei-ert` `j.ub.ei-er`
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
-* **fekt** `f` : `.a-f` `.e-f` `.e-f-ol` ← fekt
+* **fekt** `f` : `.a-f` `.e-f` `.e-f-ol` `p.f` ← fekt
   * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
   * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
-  * : **per**<i></i>**fekt** `p.f` ~ `p.fet`
+  * *perfekt* `p.fet`
   * → fit
 * feld `f.ed` : `m.in.f.ed`
 * fend `f.ed`
@@ -654,9 +655,9 @@
 * *feuer* `feu` : `feu-ig` `.an.feu`
   * : *feuer*<i></i>*ung* `feu-UNG` ! `feu-er-UNG`
 * **fig** `fi` : `fi-ur` `ko,fi-ur.iO`
-* fili `f.il.I`
-  * : filius `f.il.I.us` ~ `f.il.us`
-  * : *filial* `f.i-aL` : `f.i-aL.e`
+* fili `f.il.I` : `f.il.I.us`
+  * *filius* `f.il.us`
+  * *filial* `f.iaL` : `f.iaL.e`
 * film `f.im` : `f.imt.e` `G.f.imt` `E.f.im`
 * filter `fit.er` : `fit.r.ir`
 * **fin** `fi`: `fi.al` `fi.al.e` `fi.al.ist`
@@ -711,9 +712,9 @@
 * **fließ** `fli`
   * **floss** `flo`
   * **fluss** `flu`
-  * **flüss** `flÜ`
-    * : **flüss***ig* `flÜ.i` ~ `.üss.i`
-    * : ein**flüss** `N.flÜ` ~ `N,flü`
+    * → einfluss
+  * **flüss** `flÜ` : `flÜ.i`
+    * *flüssig* `.üss.i`
 * ***flott*** `.ot` : `.ot.e` `ha.el.ot.e`
 * **flu** `flu` : `IN.flu.ez.a` `ko.flu.ez` STS
   * *influenza* `IN.flu.a`
@@ -722,8 +723,8 @@
     * *flüchtli****ng*** `(ng)` : `(ng)-Ü.o` = `ing`; = beding
     * -*flüchtling* = -*fl****ü****cht****ling*** `Ü.ing` : `(r)-Ü.ing` `N-Ü.ing`
 * *föder* `fö` : `fö.iS` `fö.iS.i` `fö.iO`
-* **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `er.fo-eich` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo` `IN.fo.es.en` `wr fo-t` `zr.fo.ha`
-  * : *in***folg** `IN.fo` ~ `IN.o`
+* **folg** `fo` : `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `er.fo-eich` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo-e` `IN.fo-e.es.en` `wr fo-t` `zr.fo.ha`
+  * *infolge* `IN.o`
   * *erfolg* `er` : `er.eich`
     * *erfolgreich* `er,r.ei` ≠ erreich
 * foli `f.ol.I` : `f.ol.I.e` `f.ol.I.en`
@@ -740,8 +741,8 @@
   * -*füg*- `-Ü` : `f.üg` `f.üg-Sa` `.an-Ü` `b.ei-Ü` `N-Ü` `G.üg.e` `G.üg.i` `G.ing-Ü.i` `E-Ü` `Z.üg` `Z.Sa.üg` @ü
     * *beigefügt* `b.ei-Ü-G`
     * *zur.verfügung* `zr*-Ü`
-* fug `f.ug`
-  * : *zentr*ifugal `zr.f.ug.al` ~ `z.etr.ug.al`
+* fug `f.ug` : `zr.f.ug.al`
+  * *zentrifugal* `z.etr.ug.al`
 * -*fühl*- `Ül` : `f.ül` `b.e-Ül` `G-Ül` `G-Ül,(g)` `G-Ül.Ol` `.angst-Ül` `N-Ül` `M-Ül` `ach-Ül` `O-Ül` `t.uch-Ül-UNG` `d-Ül` `.I-Ül.e` `CH.E.bu-Ül` `CH.E.icht-Ül` `wr-Ül`
   * *gefühlvoll* `G-Ü.Ol`
   * *tuchfühlung* `tu-Ül-UNG`
@@ -757,8 +758,8 @@
   * -*führ*- `-Ür` : `G-Ürt` `.ab-Ür` `.an-Ür-er` `AU-Ür` `AU-Ür-UNG` `N-Ür` `N-Ürt` `f-er-Ür.ed` `GT-Ür-er` `GT-Ür-UNG` `.e-b.ei-Ür` `UNTER-Ür-UNG` `E-Ür` `O-Ür` `AU-i-Ür.ed` `a-Z-Ür`
 * **füll** `fÜ` : `fÜ.e` `fÜ.ed` `fÜ-er` `.S.fÜ` `er.fÜ` `er.fÜ-t.e` `er.fÜ-bar` `er.fÜ.UNG` `ach.fÜ` `Ü.fÜ` `I er.fÜ` `.icht.er.fÜ.UNG` ← voll
     * *erfüllen* `er-Ü.en`
-* **fund** `fu` : `fu.ir` `d.i,fu`
-  * : **fund***ament* `fu.eNT` ~ `fu-t`
+* **fund** `fu` : `fu.eNT` `fu.ir` `d.i,fu`
+  * *fundament* `fu-t`
   * → fus
 * fung `f.ung` : `f.ung.ir`
   * **funkt** `fu` : `fu-o` `fu-o.ir`
@@ -1171,7 +1172,8 @@
 * -**isch** `.i`/`.isch`
 * -*ismus* `.iS`
 * ist ← sein
-* -ist `.ist`
+* -ist `.ist` @-ist
+  * *egoist* `.eg.i+st`
   * -*istisch* `.iS.i` @-istisch
     * *inflationistisch* `IN.fla.i`
     * *seminaristisch* `(n.ar).i`
