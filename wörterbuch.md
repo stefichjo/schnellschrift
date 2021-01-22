@@ -780,25 +780,25 @@
 * fracht ← eig
 * **fracht** `fra` : `fra.ko`
 * **frag** `fra` : `fra-e` `fra.ed` `fra.L` `fra.l.os` `G.fra` `.an.fra` `ach.fra` `rÜ.fra` `I be.fra-t.en` `sI fra` `sI fra-t.e` `sI fra-t.en`
-* *frankfurt* `fra.fu`
-  * : *frankfurt*er `fra.fu-er` ~ `fra.fut.er`, `fra.fru`
+* *frankfurt* `fra.fu` : `fra.fu-er`
+  * *frankfurter* `fra.fru`
   * *frankfurt.am.main* `fra,u-N`
   * *frankfurt.an.der.oder* `fra,u.od-er`
 * **frau** `frau`
 * *fr****ei*** `(.ei)` : `(.ei).H`
 * **fre**md `fr` : `fr.e` `.es.fr`
 * fr**eu** `eu` : `eud.e` `er,eu-L`
-* *freund* `.eund` : `.eund.in` `.eund.FT` `be.eund.et`
-  * : *freund*<i></i>*lich* `.eund.L` ~ `eu-L` : `UN.eu-L`
-  * : *freund*<i></i>*schaft* `.eund.FT` ~ `eu.FT` : `ga,eu.FT`
-  * -fr**eu**nd `eu` : `.an,eu` → schaft welt
+* *freund* `.eund` : `.eund.in` `UN.eund.L` `.eund.FT` `be.eund.et`
+  * *freundlich* `eu-L` : `UN.eu-L`
+  * *freundschaft* `eu.FT` : `ga,eu.FT`
+  * -*freund* `eu` : `.an,eu` → geschäft umwelt
 * ***fried*** `.id` : `b.ug.id.e` `UN-z.id.en`
   * *unzufrieden* `UN-z.id` @-en
 * frier `fr.ir` STS
   * fror `fr.or` : `Z.fr.or`
   * frost `fr.ost`
 * ***frist*** `.ist` `kÜ.ist`
-  * : **lang**<i></i>***frist****ig* `ang.ist.ig` ~ `.ang.i`
+  * -*fristig* `.i` → kurz lang
 * **froh** `fro`
   * **fröh** `frö` : `frö.L`
 * **fro**nt `fr` : `fr.o` `ko.fr.ir` `ko.fr.iO`
@@ -1370,7 +1370,8 @@
   * **kur** `ku` : `ku.ir`
   * **kurs** `ku-s` : `ku-s.ir` `ku-s.iv`
     * *konkurs* `ko.us`
-* **kurz** `ku` : `ku.um` `ku,i`
+* **kurz** `ku` : `ku.um` `ku.i` `ku,i` `ku,i-L`
+  * *kurzschriftlich* `ku.L`
   * **kürz** `kÜ` : `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E.kÜ`
 * kuss `k.uss` STS
   * küss `k.üss`
@@ -1423,7 +1424,7 @@
   * → deutschland
   * → niederlande
 * **land**~~*wirt*~~*schaft* `la.FT` ~ *landwirtschaft* `(a-wr).FT` ≠ landschaft ← wirt
-* **lang** `ang` : `ang-Sa` `ang.fr.ist.ig` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
+* **lang** `ang` : `ang-Sa` `ang.i` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * eben~~so~~.*lang*e `.eb.ang.e`
   * **läng** `eng` : `eng-st` `eng-st.es` `eng-st.e-s`
     * : *un*<i></i>*zu***läng***lich* `UN-z.eng.L` ! `UN-z.l.eng.L`
@@ -3334,8 +3335,8 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (122)
-  * ` ! ` (106)
+  * ` ~ ` (113)
+  * ` ! ` (106) @extra wörterbuch für ausschreibungen?
   * ` : `
   * @@
 
