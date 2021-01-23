@@ -1301,10 +1301,10 @@
 * koll
   * *protokoll* `pr.ot.ok`
 * *kolleg* `ko` : `ko.e` `ko.in` `ko.iaL.ät` `ko.um` `h.ko.e` `ko.in.en,&` ← leg
-* **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `IN.be.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get.UNG.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
-  * : *darauf* *zurück***komm**en `dar-AU u-rÜ.ko` ~ `dar-AU-Ü.ko`
+* **komm** `ko` : `.ab.ha.ko` `.S.ko` `N.ko` `ach.ko` `ach.ko.FT` `.um.ko` `(.l).ko` `u-rÜ.ko` `dar-AU u-rÜ.ko` `IN.be.tra.ko` `IN.fra.ko` `IN.I.la.ko` `Z.ed.ko` `z.ab.uss.ko` `Z.echt.ko` `zr.get.UNG.ko` `Z.hi.ko` `zr.spra.ko` `Z.r Ü.eug.ko`
+  * *darauf.zurückkommen* `dar-AU-Ü.ko`
   * *zugute.komm* `Z.u-ko`
-  * : *zu*.**hilf**e.**komm**en `Z.hi.ko` ~ `Z.i-ko`
+  * *zu.hilfe.kommen* `Z.i-ko`
   * **kömm** `kö` : `be.kö.L` `.ab.kö.l.ing`
   * kam `k.am`
     * käm `k.äm` : `k.äm.e`
@@ -1324,11 +1324,11 @@
 * *kont* `ko` : `ds.ko.ir` ← put
   * *konto* `ko` : `ko.en` `b.ak.ko` `s.ko`
 * *kontr* `(ko)tr` : `(ko)tr.är`
-  * *konter* `(ko)t-er` STS ~ `kot.er`
+  * *konter* `kot.er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
   * → kontroll
-* *kontroll* `ko` : `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
-  * : *kontroll*e `ko.e` ~ `ko,o` : `ko,o-en` ≠ kollege
+* *kontroll* `ko` : `ko.e` `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
+  * *kontroll* `ko,o` : `ko,o-e` `ko,o-en` ≠ kollege
 * korp `k.op` : `k.op-O` `k.op.iv`
   * corps `k.or`
     * -**corps** `ko` → diplom
@@ -1337,8 +1337,8 @@
   * *körperschaft* `kö.FT`
 * kopf `k.opf`
 * kosmo `k.osm` : `k.osm.os` `k.osm.i` `k.osm.og.I` `k.osm.aut`
-* **kost** `kost` : `kost.en` `kost.bar` `kost.bar.T` `kost.il.i` `.S.kost` `UN-kost.en` `UN.kost,au.al.e` ← st
-  * : **kost**en*los* `kost.l.o` ~ `ko.os`
+* **kost** `kost` : `kost.en` `kost.bar` `kost.bar.T` `kost.l.o` `kost.il.i` `.S.kost` `UN-kost.en` `UN.kost,au.al.e` ← st
+  * *kostenlos* `ko.os`
   * -*kosten* `ko` → bau fracht mehr neb person selb walt
   * **köst** `köst` : `köst.L` `köst.L.T` `be.köst.ig`
 * kub `k.ub` : `k.ub.i` `k.ub.iS`
@@ -1420,7 +1420,6 @@
     * länd `l.ed` : `l.ed.L` `.S.l.ed-er` `G.l.ed.e` `G.l.ed-er`
   * → deutschland
   * → niederlande
-* **land**~~*wirt*~~*schaft* `la.FT` ~ *landwirtschaft* `(a-wr).FT` ≠ landschaft ← wirt
 * **lang** `ang` : `ang-Sa` `ang.i` `E.ang` `E.ang-Sa-UNG` `s.ang.e` `w.i-ang` `ja.ang`
   * eben~~so~~.*lang*e `.eb.ang.e`
   * **läng** `eng` : `eng-st` `eng-st.es` `eng-st.e-s`
@@ -1469,12 +1468,12 @@
   * *vielleicht* `v.ei`
 * leid `l.eid`
   * litt `l.it` STS
-* leih `l.eih`
-  * : anleih `.an.l.eih` ~ `.an.l.ei`
-  * : lieh `l.ih`
+* leih `l.eih` : `.an.l.eih`
+  * *anleih* `.an.l.ei`
+  * lieh `l.ih`
 * **leist** `l.ei` : `hö-t.l.ei` `I g.l.ei`
-* leit `l.T` : `Ü.la-l.T`
-  * : **schrift**leit*ung* `.ift,l.T.UNG` ~ `i,l.T.UNG`
+* leit `l.T` : `Ü.la-l.T` : `.ift,l.T.UNG`
+  * *schriftleitung* `i,l.T.UNG`
 * lekt `l.ekt` : `l.ekt.iO` `l.ekt.or` `l.ekt.ür.e` `IN.t.ekt` `IN.t.ekt.ell` `ko.ekt.iO` `ko.ekt.iv` ← leg
 * lern `l.en`
 * letz `l.ez` : `E.l.ez` `E.l.ez°`
@@ -1502,23 +1501,18 @@
       * *angelegenheit* `.an.H` : `.S.wet.ig.e .an.H.en`
         * *auswertige.angelegenheiten* `.S.H.en`
       * *bei.dieser.gelegenheit* `b.ei-iS.H`
-* **lier** `li`
-  * : *ver***lier** `E,li` ~ `(E)li`
-  * **lor** `lo`
-    * : *ver***lor** `E.lo` ! `E.l.or`
-  * **lust** `lu`
-    * : *ver***lust** `E-lu` ~ `E,u` : `E,u.e`
+* lier → verlier
 * lig : `l.ig.a` ← leg
   * *liga* `l.ig` @-a
   * → intellig
   * → li
 * -***ling*** `.ing`
-* *lin****i*** `(.I)` : `ri.I.e`
-  * : *lin****i***e `(.I).e` ~ `l.in`
+* *lin****i*** `(.I)` : `(.I).e` `ri.I.e`
+  * *linie* `l.in`
     * : *in*.~erster~.*lin****i***e `IN.I.e`
     * : *in*.*zweiter*.*lin****i***e `IN.T.I.e`
-* list `l.ist` : `l.ist.ig`
-  * : listen*reich* `l.ist.r.ei` ~ `l.i-en.r.ei`
+* list `l.ist` : `l.ist.r.ei` `l.ist.ig`
+  * *listenreich* `l.i-en.r.ei`
 * **li**st `l.i` : `l.i-e` `l.i-en` `.an.es.H.l.i` `r.ang.l.i`
 * *liter* `li` : `li.ar.i` `li.ur`
   * : *liter*at `li.at` ! `l.it-er.at`
@@ -2956,6 +2950,12 @@
     * *invent* = *in*<i></i>*ven****t*** `IN-t` : `IN-t.ar` `IN-t.ar.ir` `IN-t.ur`
 * *ver*- `E`
 * verletz ← letz
+* *ver***lier** `E,li` ← lier
+  * *verlier* `(E)li`
+  * *ver***lor** `E.lo`
+    * *verlor* `E.l.or`
+  * *ver***lust** `E.lu`
+    * *verlust* `E,u` : `E,u.e`
 * vert `vet` : `ko.wet.ir` `ko.wet.ib.ät`
   * vers `v.es` : `v.es.irt` `d.i-w.es` `d.i-w.es.iO` `IN.w.es` `IN.w.es.iO` `ko.w.es.iO` @-sion
     * : vers*ion* `v.es.iO` ~ `w.es.iO`
@@ -3172,7 +3172,8 @@
   * *darauf.hinwirken* `dar-AU.k`
 * **wirt** `wit`
   * *wirt*- `(wr)`
-    * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT.er` `FT.N` `FT.L.e,ig`
+    * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT.er` `FT.N` `la.FT` `FT.L.e,ig`
+      * *landwirtschaft* `(a-wr).FT` ≠ landschaft
       * : *ge*werb*lich*e ~~*wirt*~~*schaft* `G.L.e FT` ~ `G.L.FT`
       * : → landwirtschaft
 * *wiss* `.iss` : `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `E.-G.iss` `E.-G.iss-t.e` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
@@ -3332,7 +3333,7 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (92)
+  * ` ~ ` (80)
   * ` ! ` (106) @extra wörterbuch für ausschreibungen? schnellschrift light (eilschrift?)
   * ` : `
   * @@
