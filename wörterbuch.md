@@ -213,7 +213,8 @@
   * **bund** `bu` : `bu.um` `bu.ik`
     * **bünd** `bü` : `bü.e` `bü.el`
 * **bi**o `bi` STS : `bi.og.I`
-  * *biologie* `b.i-l.og.I`
+  * bio**graph**ie `b.i-o+gra.I`
+  * biologie `b.i-l.og.I`
 * **bis** `bi`
 * *bischof* `bi.of` : `(.es):bi.of`
   * *landesbischof* `(.es).of`
@@ -282,7 +283,7 @@
 * *brems* `br-s` : `br-s.e` `G.br-s` `.ab.br-s` `.eib:br-s.e`
 * **brief** `bri`
 * -***bring***- `.ing` : `br.ing` `.an.ing` `.S.ing` `b.ei.ing` `er.ing` `Ü.ing` `UN-W.ing.L` `E.ing` `Z.Sa.ing` `Z.fa.ing`
-  * *bring* `bri` : `(er)bri` STS
+  * *bring* `bri` : `(er)bri`
     * *erbring* `er,bri`
   * → bracht
 * **brud**er `bru`
@@ -564,8 +565,8 @@
 * **fäh** `f`/`fäh` : `f.i` `f.i-T` `(T).f.i` `(T),UN-f.i-T` `l.ei-f.i` `l.ei-f.i-T`
   * *arbeitsfähig* `T.f.i`
     * *arbeitsunfähigkeit* `(T),UN-T`
-* **fahr** `fa` : `fa.bar` `fat` `G.fa` `G.fa-ol` `.ab.fa` `.ab.fat` `.S.fa` `be.fa.bar` `er.fa` `er.fa.G` `.if-fat` `UN-er.fa` `UN-er.fa.H` `E.fa` `Z.fat` `u-rÜ:fa`
-  * : **fahr**er `fa-er` ! `f.ar-er`
+* **fahr** `fa` : `fa.bar` `fa-er` `fat` `G.fa` `G.fa-ol` `.ab.fa` `.ab.fat` `.S.fa` `be.fa.bar` `er.fa` `er.fa.G` `.if-fat` `UN-er.fa` `UN-er.fa.H` `E.fa` `Z.fat` `u-rÜ:fa`
+  * fahrer `f.ar-er`
   * **fähr** `fä` : `fä-e` `ft` `er.f` `G.fd` `UN-G.fä` `G.f.L` `G.f.L.T` `G.ft.e` `G.ft.in` `UN-G.f.L` `(.l):f.i` `dU er.fä .e`
     * *fähre* `f.är.e`
     * *ungefähr* `UN.G`
@@ -668,8 +669,7 @@
   * *finanzminister* `fi-er`
 * **find** `fi` : `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab,fi` `AU,fi` `be,fi` `be,fi.L` `.emp,fi` `er,fi` `er,fi-er` `er,fi-er.i` `O,fi` `u-rÜ,fi` `Z,fi` `Z.Sa,fi`
   * → empfind
-  * -*find*- `f.i`
-    * : `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
+  * *find* `f.i` : `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
   * *zu.finden* `Z.fi` ≠ zufällig
   * **fand** `fa` : `be.fa` `.emp-fa`
     * **fänd** `fä` STS
@@ -829,7 +829,7 @@
   * *unge*- `UN.G`
 * ***geb*** `.eb` STS
   * *geb* `g` : `g.er` `G.g` `G.g.H` `.ab.g` `.an.g.er` `.S.ag.g.ed` `be.g.H` `er.g` `er.g-st` `er.g.is` `er.g.is.os` `-G.g.UNG` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
-    * *geber* `g.eb-er` `.an.g.eb-er`
+    * geber `g.eb-er` `.an.g.eb-er`
     * -*geber* `g` → arbeit rat trag
     * *ausschlaggebend* `.S.ag.ed`
     * *ergebnis* `er.is` : `er.is.os`
@@ -877,8 +877,7 @@
   * *geolog* `g.e-l.og` : `g.e-l.og.e` `g.e-l.og.I`
   * *geometr* `g.e-m.etr` : `g.e-m.etr.I` `g.e-m.etr.i`
 * gern `g.en` : `s.g.en`
-* *gesellschaft* `G.FT` : `G.FT.L` `E,G.FT` `(.I).en,G.FT`
-  * *gesellschaft*er `G.FT.er` ~ `G.FT.er`
+* *gesellschaft* `G.FT` : `G.FT-er` `G.FT.L` `E,G.FT` `(.I).en,G.FT`
 * gesetz ← setz
 * *gest*, *gestern* `g.est` : `g.est.r.i` `O.g.est`
 * gier `g.ir` : `g.ir.i` `be.g.ird.e` `neu=g.ir.i`
@@ -896,8 +895,8 @@
   * : *ich*.***glaub***e `.I.aub` * *ich*.gl**au**b `.I-au`
   * : *wir*.***glaub***en `wr.aub` * *wir*.gl**au**b `wr-au`
   * ***gläub*** `.äub` : `.äub.i-er` `UN-äub.i`
-* **gleich** `gl.ei` ~ `gl`
-  * : ***wes***ens**gleich** `.es.gl.ei` : `.es.gl`
+* **gleich** `gl.ei` STS
+  * *gleich* `gl` :`.es.gl`
   * **glich** `gli` ⇒ `gl.i`
 * gleit `gl.T`
   * glitt `gl.it`
@@ -920,8 +919,7 @@
 * ***grad*** `.ad`
   * → gress
 * gramm ← graph
-* **graph** `gra` : `gra.ik` `gra.i` `gra.it` `f.on.gra.i` `t.e-gra`
-  * : **bi**o**graph**ie `bi.gra.I` ! `b.i.o+gra.I` ~ `b.i-o+gra.I`
+* **graph** `gra` : `gra.ik` `gra.i` `gra.it` `bi.gra.I` `f.on.gra.i` `t.e-gra`
   * : biblio**graph**ie `b.ibl.i-gra.I` ! `b.ibl.i-o+gra.I`
   * : **dem**o**graph**ie `d.gra.I` ! `d.o+gra.I`
   * : **ge**o**graph** `ge-gra` ! `g.e-o+gra`
@@ -944,13 +942,13 @@
     * *vergrößern* `(E)grö` @-er
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `.S-S.gru.e` `v.gru.AU`
   * *aus.diesem.grunde* `.S-S.e`
-  * **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.L.T` `grÜ.Lst` `h.id-er:grÜ.e` `m.id-er:grÜ.e` `(be)grÜ` `UN-be.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (be)grÜ`
-    * : **hind**er*ung*s**gründ**e `hi-er-UNG.grÜ.e` ~ `hi-er-UNG-Ü.e`
+  * **gründ** `grÜ` : `grÜ.e` `grÜ.L` `grÜ.L.T` `grÜ.Lst` `hi-er:grÜ.e` `m.id-er:grÜ.e` `(be)grÜ` `UN-be.grÜ` `UN-er.grÜ.L` `grÜ.er` `grÜ-UNG` `.S-S.grÜ.en` `I (be)grÜ`
+    * *hinderungsgründe* `hi-er-UNG-Ü.e`
 * **grupp** `gru` : `gru.en` `gru.ir-UNG` `gru.eis.e` `.um:gru.ir`
   * *gruppe* `gru.e`
 * ***gruß*** `.uss`
-  * ***grüß*** `.üss`
-  * : *mit*.*freund*<i></i>*lich*en.***grüß***en `M.eund.L:üss.en` ~ `M,eu-Ü`
+  * ***grüß*** `.üss` : `M.eund.L:üss.en`
+  * *mit.freundlichen.grüßen* `M,eu-Ü`
 
 ## [H](#wörterbuch)
 
@@ -3335,8 +3333,8 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (113)
-  * ` ! ` (106) @extra wörterbuch für ausschreibungen?
+  * ` ~ ` (109)
+  * ` ! ` (106) @extra wörterbuch für ausschreibungen? schnellschrift light (eilschrift?)
   * ` : `
   * @@
 
@@ -3353,3 +3351,5 @@
 
 * fin & finanz
 * wundervoll
+
+* fügsam @`.üg-Sa` aktion
