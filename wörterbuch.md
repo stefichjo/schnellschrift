@@ -71,7 +71,7 @@
 * *ant*ik `aNT.ik`
 * *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `(T).N` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * *arbeits****los*** `(l.os)`
-  * *arbeits*- `Ts` : `Ts.N` → amt gebiet kreis platz weis zeit
+  * *arbeits*- `Ts` : `Ts.N` `Ts.is` → amt gebiet kreis platz weis zeit
   * *arbeitsam* `T.Sa`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
@@ -948,13 +948,13 @@
   * *gruppe* `gru.e`
 * ***gruß*** `.uss`
   * ***grüß*** `.üss` : `M.eund.L:üss.en`
-  * *mit.freundlichen.grüßen* `M,eu-Ü`
+    * *mit.freundlichen.grüßen* `M,eu-Ü`
 
 ## [H](#wörterbuch)
 
 * **hab** `ha` : `G.ha` `gu.ha` `im.IN.ha-er` ← heb
-  * : *ich*.**hab** `.I.ha` ~ `.I-a`
-  * : *wir*.**hab** `wr.ha` ~ `wr-a`
+  * *ich.hab* `.I-a`
+  * *wir.hab* `wr-a`
   * *hast* `ha`
   * **hat** `ha`
     * **hat**.*sich* `ha*`
@@ -973,11 +973,11 @@
   * **hälft** `h` : `h.e` `.il:h.e`
 * *hall* `ha` : `ha.e` `schw.im:ha.e`
 * hals `h.a-s`
-* *hal****t*** `(-t)` : `(-t).bar` `(-t).bar.T` `(-t).l.o` `(-t).ed` `G-t` `.an-t` `.an-t.ed` `AU-t` `.S-t` `N-t` `er-t` `IN-t` `.in-t` `ach-t.ig` `rÜ-t.l.o` `sa.E-t` `E-t.is` `E-t.is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t).et` `sI (-t)`
+* *hal****t*** `(-t)` : `(-t).bar` `(-t).bar.T` `(-t).l.o` `(-t).ed` `(-t).UNG` `G-t` `.an-t` `.an-t.ed` `AU-t` `.S-t` `N-t` `er-t` `IN-t` `.in-t` `ach-t.ig` `rÜ-t.l.o` `sa.E-t` `E-t.is` `E-t.is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t).et` `sI (-t)`
   * : *haus*<i></i>*hal****t*** `.aus-t` ! `.aus,(-t)`
-  * : *hal****t****ung* `(-t).UNG` ~ `-t.UNG`
+  * *haltung* `-t.UNG`
   * *häl****t*** `(-t)` : `E-t.is`
-    * : *arb****eit***s*ver*<i></i>*häl****t***<i></i>**nis** `(T),E-t.is` ~ `Ts.is`
+    * -*verhältnis* `.is` → arbeits
   * : hielt `hit`
     * *hielt* `hi` : `.ab,hi` `be,hi` `eNT+hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
       * *behielt* `b,hi`
@@ -1010,8 +1010,8 @@
 * **haupt** `hau` : `be.hau.et` `hau.a.L` `hau.uss` `hau,(.e)` `hau.L` `(.es).hau`
   * *oberhaupt* `.o-hau`
   * **häupt** `häu` : `häu-er` `häu.ing`
-* ***haus*** `.aus` : `ho.aus` `ra.aus` `kra.aus` `sta.aus` `.im.aus.e` `v.aus.S`
-  * : **hoh**es.***haus*** `ho.aus` ~ `ho-au`
+* ***haus*** `.aus` : `ho.aus` `ra.aus` `kra.aus` `sta.aus` `.im.aus.e` `v.aus.S` `ho.aus`
+  * *hohes.haus* `ho-au` ≠ hochhaus
   * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
     * : *ge****häus***e `G.äus.e` ! `G.h.äus.e`
 * heb `h.eb` : `h.eb.e` `h.eb.el` `schat.h.eb.el`
@@ -1028,8 +1028,8 @@
 * **heiß** `h.ei` : `gu.h.ei`
   * *gutheiß* `gu.eiss`
   * **hieß** `hi` ⇒ `h.i` ! `h.iss`
-* heiz `h.eiz`
-  * : *zentral*heiz*ung* `zra.h.eiz*` ~ `zra.eiz*`
+* heiz `h.eiz` : `zra.h.eiz*`
+  * *zentralheizung* `zra.eiz*`
   * **heiß** `h.ei`
 * -*heit* `H`
   * → keit
@@ -1054,9 +1054,8 @@
 * *her****z*** `(z)` : `(z).ha` `(z).L` `(z).L.T` `(z).os` `kust,(z)` `w.eich,(z).i` @-lichkeit
 * heuer `h.eu-er` : `UN-G.h.eu-er`
 * **heut** `heu` : `heu-Ü`
-* **hier** `hi` : `(hi)AU` `hi.S` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER`
-  * : **hier***zu* `(hi)-Z` ~ `h.i-Z`
-  * : **hier**bei `(hi)b.ei` ~ `h.i-b.ei`
+* **hier** `hi` : `(hi)AU` `hi.S` `(hi)b.ei` `(hi)dr` `(hi)h` `hi.IN` `hi:M` `h:v` `hi:UNTER` `(hi)-Z`
+  * *hier*- `h.i` : `h.i-b.ei` `h.i-Z`
   * hies `h.is` : `h.is.i`
 * hies ← hier
 * **hilf** `hi` : `hi.e` `hi.r.ei` `.ab,hi.e` `b.ei-hi.e` ← helf
@@ -1075,8 +1074,8 @@
 * *histor* `hi-o` : `hi-o.I.e` `hi-o.i` `hi-o.ik-er`
   * : *liter*ar*histor***isch** `li.ar,hi-o.i` ! `l.it-er.ar,hi-o.i`
 * **hoch** `ho` : `ho.bu` `ho,(g)` `ho-t.ig` `s.ho`
-  * **höch** `hö` : `hö-t` @-st
-  * : **höch**stens `hö-t.e-s` ~ `hö°` @-st
+  * **höch** `hö` : `hö-t` `hö-t.e-s` @-st
+  * *höchstens* `hö°` @-st
   * **hoh**, **ho** `ho` `ho.H` `(.es).ho.H`
     * *hoheit* `o-H` : `(.es).o-H`
     * **höh** `hö` : `hö-er` `hö-er-er` `hö.e` `hö,(er)` `hö,u` `hö,u.e` `.an.hö.e` `er.hö` `.ei-e 3,(g) er.hö` `I l.o-er.hö`
@@ -1084,8 +1083,8 @@
 * **hof** `ho` : `ba.ho`
 * hoh ← hoch
 * hohl `h.ol`
-* **hol** `ho` : `er.ho-Ü.is`
-  * : *wieder***hol**en `W.ho` ~ `W-o`
+* **hol** `ho` : `er.ho-Ü.is` `W.ho`
+  * *wiederholen* `W-o`
 * *honor* `h.on` : `h.on.ar` `h.on.ir`
 * hor `h.or` : `G.h.or-Sa`
   * horch `h.och` : `h.och-er` `G.h.och`
@@ -1142,8 +1141,8 @@
 * -in-
   * -*inal* `.i-aL`
   * -*inell* `.i-eL`
-* *industr* `IN` : `IN.iaL.ir-UNG` `IN.ieL`
-  * : *industr*ie `IN.I` STS ~ `IN.u-I` : `m.et.IN.u-I`
+* *industr* `IN` : `IN.I` `IN.iaL.ir-UNG` `IN.ieL`
+  * *industrie* `IN.u-I` : `m.et.IN.u-I`
 * *ingenieur* `IN.ör` : `d.ipl.IN.ör`
 * init ← it
 * insel `.i-s.el` : `ha.i-s.el`
@@ -1282,8 +1281,8 @@
   * ***kläg*** `.eg` : `.eg-er` `.eg-er.in` `.an.eg-er` `n.eb.eg-er`
 * ***klam*** `.am` : `r.am-o` `r.am.e`
 * ***klar*** `.ar` : `.ar-er` `.am.arst` `.ar.H`
-  * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är.L` `I er.är-UNG`
-    * : *er****klär***en `er.är` ~ `er-r` ≠ ernähren
+  * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är` `er.är.L` `I er.är-UNG`
+    * *erklären* `er-r` ≠ ernähren
 * **klass** `kla` : `kla-e` `kla.ik-er` `kla.iS` `kla.i` `kla.if.ir` `kla.if-o`
 * ***klaud*** `.aud` STS
   * ***klaus*** `.aus` : `.aus.e`
@@ -3333,7 +3332,7 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (109)
+  * ` ~ ` (92)
   * ` ! ` (106) @extra wörterbuch für ausschreibungen? schnellschrift light (eilschrift?)
   * ` : `
   * @@
@@ -3353,3 +3352,9 @@
 * wundervoll
 
 * fügsam @`.üg-Sa` aktion
+
+* *alt* `.alt` ⇒ (alt)/"alt"/'alt' `.alt` (Verkehrsschrift)
+* **jed**e `j.e` ! `j.ed.e` ⇒ jede `j.ed.e` (Eilschrift)
+* *schönheit* `ö-H` (Verschattung, Redeschrift (?))
+* ? (Verschattung + Red Herring, Praxis (?))
+
