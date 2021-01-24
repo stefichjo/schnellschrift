@@ -209,7 +209,7 @@
       * *bänder* `b.ed-er`
       * *bändig* `b.änd.i`
       * *verbände* `E.b.e`
-  * **bund** `bu` : `bu.um` `bu.ik`
+  * **bund** `bu` : `bu.um` `bu.ik` `G.w.ek.FT.bu`
     * **bünd** `bü` : `bü.e` `bü.el`
 * **bi**o `bi` : `bi.o-I` `bi.og.i`
   * bio**graph**ie `b.i-o+gra.I`
@@ -2078,6 +2078,7 @@
   * -*reife* `.eif.e` → schul
 * reih `r.eih` : `.ei-e r.eih.e v`
   * *eine.reihe.von* `.ei-v`
+* rein `r.N`
 * **reis** `r.ei` : `r.ei-e`
 * -***reit***- `T` : `r.T` `be.T` `O.be.T` `be.Ts`
   * *bereits* `Ts`
@@ -2230,9 +2231,8 @@
   * *auf.der.anderen.seite* `AU-a.T.e`
   * → seit
 * seit `s.T` ← seit
-* *sekretar*, *sekretär* `s.ekr` : `s.ekr.at` `s.ekr.in`
-  * *general*<i></i>*sekretär* `g.s.ekr` ~ `g-s.är`
-  * *general*<i></i>*sekretar*iat `g.s.ekr.at` ~ `g-s.at`
+* *sekretar*, *sekretär* `s.ekr` : `s.ekr.at` `s.ekr.in` `g.s.ekr` `g.s.ekr.at`
+  * *generalsekret* `g-s` : `g-s.är` `g-s.at`
 * sel `s.el` : `s.el.i-er` `s.el.ist.e` `s.el.i-T`
   * : sel*ig* `s.el.i` ! `s.el.ig`
     * -*seli****g*** `(g)` : `UN,(g)` → fühl glück trau
@@ -2313,7 +2313,7 @@
     * *unter*.*berücksichtigung* `UNTER-Ük`
 * sid `s.id` : `pr.s.id` `pr.s.id.ir` `pr.s.id.um` `r.s.id.ez`
   * → präsid
-  * : *re*sidenz ~ `r.es.ez`
+  * *residenz* `r.es.ez`
 * *sie* `sI`
 * siech `s.ich` → sucht
 * *siedel* `s.i-el`
@@ -2411,8 +2411,8 @@
 * **schaff** `scha`
   * : **schaff***ung* `scha*` ! `scha.UNG` ≠ krankheit
 * schaft `sch.aft`
-  * -*schaft* `FT`
-    * : *ge****wehr****schaft* `G.wer.FT` ~ `G.wer.scha`
+  * -*schaft* `FT` @-schaft
+    * *gewerkschaft* `G.wer.scha`
   * *beschäftig* `be-t.ig` : `be-t.igt.e` `be-t.igt.en` `be-t.ig.l.os` `I n.eb.be-t.ig`
   * *geschäft* `GT` : `GT.e` `GT.L` `GT.ch.en` `GT,eu`
 * schall `sch.all` : `.utra:sch.all`
@@ -2436,12 +2436,12 @@
     * *unterschied* `UNTER-i`
     * *verabschied* `E.ab`
     * *mit.aller.entschiedenheit* `M.al.eNT`
-* *sch****ein*** `(N)` : `(N).bar` `.an.N.ed` `be.N.i` `gu.N` `wa.N.L`
-  * *er*~~sch~~ein `er.N` ~ `er.(N)`
+* *sch****ein*** `(N)` : `(N).bar` `.an.N.ed` `be.N.i` `er.N` `gu.N` `wa.N.L` `hö-t.wa.N.L`
+  * *erschein*en `er.(N)` ≠ rein
   * *führ*er~~sch~~ein `.ür-er.N` ! `f.ür-er.N`
-  * **höch**st**wa**hr~~sch~~ein*lich* `hö-t.wa.N.L` ~ `hö-st.N.L`
-  * *sch****ien*** `(.in)` : `er.in`
-    * *ge*<i></i>*sch****ien*** : `G.in` ~ `(G)(.in)`
+  * *höchstwahrscheinlich* `hö-st.N.L`
+  * *sch****ien*** `(.in)` : `G.in` `er.in`
+    * *geschien*en : `(G)(.in)`
     * schien `sch.in`
 * ***schicht*** `.icht` : `G.icht.e` `kust-icht.e` `wet-icht.e`
 * **schick** `.ik` : `.ik-s.al` ← scheh
@@ -2481,7 +2481,8 @@
     * -**schüler** `-Ü.er` : `ho-Ü.er`
 * **schutz** `.uz`
   * -sch**u**tz `u` : → sicht strahl welt
-  * **schütz** `.üz` ~ `schÜ`
+  * **schütz** `.üz`
+    * *schütz* `schÜ`
 
 #### [SCHM](#wörterbuch)
 
@@ -2544,8 +2545,8 @@
 * schwind `schw.id`
   * schwand `schw.ad`
   * schwund `schw.ud`
-  * schwend `schw.ed`
-    * : *ver*schwend `E.schw.ed` ~ `E.schw`
+  * schwend `schw.ed` : `E.schw.ed`
+    * *verschwend* `E.schw`
 
 ### [SP](#wörterbuch)
 
@@ -2559,10 +2560,10 @@
   * *sparer* `sp.ar-er` : `.äm:sp.ar-er`
   * **spär** `sp` : `sp.L`
 * spaß `sp.ass`
-* **sp**ät `sp` : `E.sp*` STS
-  * : **sp**äter `sp.er` ! `sp.et-er`
-  * : **sp**äteste `sp.est.e` ! `sp.est.e`
-  * : **sp**ätestens `sp-t.e-s` ~ `sp.ens`
+* **sp**ät `sp` : `sp.er` `sp.est.e` `sp-t.e-s` `E.sp*` STS
+  * später `sp.et-er` ≠ speer
+  * *spätestens* `sp.ens`
+* speer `sp.er`
 * spend `sp.ed` : `sp.ed.e`
 * -**sperr**- `sp` : `sp.err.e` `sp.err-UNG` `G.sp` `.ab.sp` `E.sp`
 * **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.iaL.ist.en` `sp.ieL`
@@ -2605,10 +2606,9 @@
 |:-:|
 
 * st `st` : `IN.st.az` `ko.st.aNT` `ko.st.az`
-  * ***stat***, ***staat*** `.at` : `.at.ist` `.at.ko`
-    * : ***stat***ik `.at.ik` ! `st.at.ik`
-    * : ***stat****ion* `.at.iO`
-    * : **kon*****stat***ier `ko.at.ir` ~ `ko.sta.ir`
+  * ***stat***, ***staat*** `.at` : `.at.iO` `.at.ik` `.at.ist` `.at.ko` `ko.at.ir`
+    * statik `st.at.ik`
+    * *konstatier* `ko.sta.ir`
     * ~~*stat*~~*ist* `(.i+st)` : `(.i+st).ik`
         * : ~~*stat*~~*istisch* `(.i+st).isch` ~ `sta.iS.i`
     * *statu* `sta.u` : `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
@@ -3114,7 +3114,8 @@
   * warf `w.af`
   * worf `w.of`: `O.w.of`
   * → wurf
-* werk `w.ek` : `b.eg.w.ek` `hi.w.ek`
+* werk `w.ek` : `b.eg.w.ek` `G.w.ek.FT` `hi.w.ek`
+  * *gewerkschaft* `(k).FT`
   * -*werk* = -***werk*** `.ek` → hand wasser
 * wert `wet` : `wet.Ol` `.ab.wet`
   * -*wert* `(-t)` → hoch nahr nenn staun streb
@@ -3322,7 +3323,7 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (51)
+  * ` ~ ` (26)
   * ` ! ` (106)
   * ` : `
   * @@
