@@ -467,8 +467,8 @@
 * eid `.eid` : `N.eid` STS
 * eigen, eign `.eig` : `.eig.L` `.eig-s` `.eig-Ü.i` `.eig.FT` `.eig.tYm.er` `er.eig.is` `G.eig.et` `UN-G.eig`
   * *eigentlich* `.ei-L`
-  * : eigen*sücht*<i></i>*ig* `.eig-Ü.i` ! `.eig.ücht.i` ≠ eigennützig
-* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N,u` `E.N` `E.N-Sa` `W.N.ma` `-Z-n,N.ma`
+* ein `N` : `N-t.e` `N.i` `N.i-t.e` `N,u` `.i-N` `E.N` `E.N-Sa` `W.N.ma` `-Z-n,N.ma`
+  * irgendein `.ig.N`
   * *wieder.einmal* `W.N`
   * *zunächst.einmal* `-Z-N`
   * -ein `N` : `d.N` `k.N` `m.N` `s.N`
@@ -480,7 +480,6 @@
       * : m**ein**- `m.ei`
       * : s**ein**- `s.ei`
   * : ~~*ein*~~*heit* `(H)` ⇒ `H` : `UN.H.L` `E.H.L`
-  * : *irgend*ein `.i-N` ! `.ig.N`
   * -*verein* `N` → rud sport
   * -*vereinigung* `ig` → wieder
   * -~~ein~~- : `E.bar` `E.ig`
@@ -2385,11 +2384,9 @@
   * *unter*<i></i>*s****u****ch* `UNTER-u` : `O.S.o=UNTER-u`
   * *ver*<i></i>*s****u****ch* `E-su`
   * *besuch* `be-su`
-* sucht `s.ucht` STS ← siech
-  * *sucht* `su`
-  * -*sucht* `u` → bleich eig
-  * *sücht* `s.ücht` : `s.ücht.i` `s.ücht.i-er` `s.ücht.i-T`
-    * -*sücht* `-Ü`
+* **sucht** `su` ← siech
+  * -*sucht* `u` -*sücht* `-Ü` → bleich
+  * -*sücht*- `.ücht` : `s.ücht.i` `s.ücht.i-er` `s.ücht.i-T` `.eig.ücht.i`
 * süd `s.üd` : `s.üd-Ü.e`
 * **sul** `su` : `ko-su`
   * sult `sut` : `ko-sut.ir` `ko-sut.iO`
@@ -2844,7 +2841,7 @@
 
 * **tracht** `tra` : `(be)tra` `(be)tra.et.e` `(N)tra` ← trag trakt
   * **trächt** `tr` : `tr.i` `be.N.tr.i` `be.N.tr.i-t.e` `(N)tr.i` `(ndr)tr.i-T`
-* -**trag**- `tra` : `tr.ag` `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `n.S.tra` `(.ei)tra` `(er)tra` `(er)tra.eich` `ach.tra` `v.is.um.an.tra` `(E)tra` `(E)tra-Ü.i` `(E)tra.ha*.en` `.auf,(E)tra` `l.i-er-UNG,(E)tra` `(E)tra-Ü.i` `(E)tra,i` `(Ü)tra` `di-Ü:tra`
+* -**trag**- `tra` : `tr.ag` `G.tra` `(.an)tra` `(.an)tra,(er)` `(.an)tra.G` `(AU)tra` `(AU)tra.G` `(AU)tra.g` `n.S.tra` `(.ei)tra` `(er)tra` `(er)tra.eich` `ach.tra` `v.is.um.an.tra` `(E)tra` `(E)tra-Ü.i` `(E)tra.ha*.en` `.auf,(E)tra` `l.i-er-UNG,(E)tra` `(E)tra,i` `(Ü)tra` `di-Ü:tra`
   * -*vertrag* `tra` → kauf liefer
   * ~~trag~~ : `be.an` `be.AU` `(r) .an` `.im:be.v`
     * ~~tragte~~ : `(r),be.AU`
@@ -3340,7 +3337,7 @@
 
 * fügsam @`.üg-Sa` aktion
 
-* *alt* `.alt` ⇒ (alt)/"alt"/'alt'/«alt»/»alt« `.alt` (Verkehrsschrift)
+* *alt* `.alt` ⇒ (alt)/"alt"/'alt'/«alt»/»alt«/_alt_/ALT `.alt` (Verkehrsschrift)
 * **jed**e `j.e` ! `j.ed.e` ⇒ jede `j.ed.e` (Eilschrift)
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
