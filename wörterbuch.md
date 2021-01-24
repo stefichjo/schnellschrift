@@ -72,6 +72,7 @@
 * *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `(T).N` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * *arbeits****los*** `(l.os)`
   * *arbeits*- `Ts` : `Ts.N` `Ts.is` → amt gebiet kreis markt platz weis zeit
+    * arbeits*tag* `.ab.T-tag`
   * *arbeitsam* `T.Sa`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
@@ -391,6 +392,7 @@
   * *bedi****ng*** `(ng)` : `(UN.ng)-t` = flüchtling
     * *unbedingt* `UN-t`
 * *dis*- `ds`
+* *distrikt* `(ds)tr.ikt` ← strikt
 * *diplom* `di.om` : `di.om.at` `di.om.I` `di.om.isch`
   * **d**as.*diplom*at**isch**e.**corps** `d,di-om.ko`
 * *doch* `d-ch` : `j.e-d-ch`
@@ -1157,7 +1159,8 @@
   * -*ionell* `.i-eL`
   * -*sion* `-s` @-sion
     * *mission* `ms-o` : `ms-o.ar` `ms-o.ir`
-    * *emission* `.e-ms-o`
+      * *emission* `.e-ms-o`
+    * *version* `w.es.iO` : `w.es.iO.ir` STS `d.i-w.es.iO` `IN.w.es.iO` `ko.w.es.iO` ≠ vers versiert divers invers konvers wes
 * *irgend* `.i`/`.ig`
   * n*irgend* `n.i`/`n.ig`
 * irr `.irr`
@@ -2609,11 +2612,10 @@
   * ***stat***, ***staat*** `.at` : `.at.iO` `.at.ik` `.at.ist` `.at.ko` `ko.at.ir`
     * statik `st.at.ik`
     * *konstatier* `ko.sta.ir`
-    * ~~*stat*~~*ist* `(.i+st)` : `(.i+st).ik`
-        * : ~~*stat*~~*istisch* `(.i+st).isch` ~ `sta.iS.i`
-    * *statu* `sta.u` : `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
-    * **st**it `st` : `IN.st.ut` `IN.st.ut.iO` `ko.st.ir`
-      * : **kon**<i></i>**st**itut*ion* `ko.st.ut.iO` ~ `ko.st.it.iO`
+    * ~~stat~~*ist* `(.i+st)` : `(.i+st).ik` `(.i+st).isch`
+    * *stat* `sta` : `sta.iS.i` `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
+    * **st**it `st` : `IN.st.ut` `IN.st.iO` `ko.st.ir` `ko.st.iO`
+      * *konstitution* `ko.st.it.iO`
   * ***stab*** `.ab` : `.ab.ät`
   * **stall** `sta`
     * : *in***stall**at*ion* `IN.sta.iO`
@@ -2678,8 +2680,8 @@
 * stil `st.il`
 * **still** `.ill` : `t.ot.ill.e` @t.o -> t.ot @st
 * **stimm** `.im` : `.im:H` @st
-  * *bestimm* `b°-i` : `b°-i-t`
-    * : *mit*<i></i>*stimm* `M,b°-i` ~ `M°`
+  * *bestimm* `b°-i` : `b°-i-t` `M,b°-i`
+    * *mitstimm* `M°`
 * *stinkt* `st.i` : `ds.`IN.st.i` `IN.st.i-iv` `IN.st.i-l.o`  ← sting
 * stock `st.ok`
 * *stockholm* `st.ho`
@@ -2703,16 +2705,14 @@
 
 * **straf** `stra` : `stra-e` `stra.bu`
   * -*straf****e*** `(.e)` → geld tod ven
-* strahl `str.al` : `str.al.ed` `str.al,u`
-  * : *aus*strahlen `(.S)str.al` ~ `(.S)stra`
+* -**strahl**- `str.al` : `str.al.ed` `str.al,u` `(.S)stra`
 * **straß** `stra` : `stra-e`
-  * -*straß****e*** : `(.e)` `hau,(.e)` `la,(.e)` `m.ich,(.e)`
-    * ***seit***en*straß****e*** : `T,(.e)` ~ `s.T.en,(e)`
+  * -*straß****e*** : `(.e)` `hau,(.e)` `la,(.e)` `m.ich,(.e)` `T,(.e)`
+    * *seitenstraße* `s.T.en,(e)`
 * **streb** `str` : `(be)str-t` `(er)str,(-t)`
   * *bestrebt* `(be)str`
-* streck `str.ek` : `str.ek.e` `I ang-ol.str.ek`
-  * : *er*strecken `(er)str.ek` ~ `(er)str`
-  * *die.zwangsvollstreckung* `I ang-ol`
+* -**streck**- `str.ek` : `str.ek.e` `(er)str` `ang-ol.str`
+  * *zwangsvollstreckung* `ang-ol`
 * **streng** `str` : `(Ü.an)str`
 * *str****eit*** `(T)`
   * *str****itt*** `(.it)`
@@ -2722,9 +2722,10 @@
   * *general****streik*** `g.eik`
 * streit `str.T` : `str.T,u`
   * stritt `str.it`
-* string `str.ing` STS : stringent `str.ing.eNT`
-  * strikt `str.ikt` STS
-    * : distrikt `d.i:str.ikt` ~ `(ds)tr.ikt`
+* string `str.ing` : `str.ing.eNT`
+  * → strikt
+* strikt `str.ikt` STS : `d.i:str.ikt` ← string
+  * → distrikt
 * stroph `str.of`
   * : *katastroph* `k.at` : `k.at.e` `k.at.al`
 * **strom** `.om` : `.om,(er)` STS @str
@@ -2742,8 +2743,7 @@
 
 * tab~~ell~~ `t.ab` : `t.ab.e` `t.ab.ar.i` `t.ab.ir`
   * *tabelle* `t.ab`
-* *tag* `-tag` : `bu:-tag` `(.ei-er)-tag` `do-tag` `f.T.tag` `(bst)-tag` `(I)n,(-st)-tag.en`
-  * : *arb****eit***s*tag* `(T)-tag` ~ `T.tag`
+* *tag* `-tag` : `Ts-tag` `bu:-tag` `(.ei-er)-tag` `do-tag` `f.T.tag` `(bst)-tag` `(I)n,(-st)-tag.en`
   * : *fr****ei****tag* `(.ei)-tag` ! `.ei-tag`
   * : *tag*.~~für~~.*tag* `tag-tag` STS
   * *täg* `teg` : `teg.L`
@@ -2819,9 +2819,9 @@
 * **tod** `t.o` : `t.o,(-st)` `t.o,(.e)`
   * **töd** `t.ö` : `t.ö-L`
 * *toler* `t.ol` : `t.ol.aNT` `t.ol.az` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
-* ~~t~~o~~n~~ `(.o)` : `b,(.o)` `er b,(.o)-t.e` `er b,(.o).e`
+* ~~t~~o~~n~~ `(.o)` : `b,(.o)` `d.e,(.o).ir` `er b,(.o)-t.e` `er b,(.o).e`
   * : ~~t~~o~~n~~*los* `(.o)-l.o` ! `(.o)-l.os`
-  * : de~~t~~o~~n~~ieren `d.e,(.o).ir` ~ `d.e-t.o`
+  * *detonieren* `d.e-t.o`
   * : *in*~~t~~o~~n~~ieren `IN,(.o).ir` ! `IN.t.on.ir`
   * ~~t~~ö~~n~~ `(.ö)` : `N,(.ö).i`
     * *eintönig* `N,(.ö)` @-ig
@@ -2898,8 +2898,8 @@
   * *trat* `tr.at` : `(E)tr.at`
 * **treu** `treu`
   * -*treu* `eu` → könig
-* **tro**tz : `tr.o` `tr.o-r` `tr.o-es` `tro-al.em` `tro-al.e,(m)`
-  * : **tro**tz*de****m*** `tr.o-m` ~ *trotzdem* `(o)(m)`
+* **tro**tz : `tr.o` `tr.o-r` `tr.o-es` `tr.o-m` `tro-al.em` `tro-al.e,(m)`
+  * *trotzdem* `(o)(m)`
 * trug ← trag
 * -**trug**- `tru` : `tr.ug` `be.tru`
   * -**trüg**- `trÜ` : `tr.üg` `tr.üg-er.i` `(be)trÜ` `(be)trÜ-er` `(be)trÜ.ei-en` `(be)trÜ.i` `UN.trÜ.L`
@@ -2945,11 +2945,11 @@
     * *verlor* `E.l.or`
   * *ver***lust** `E.lu`
     * *verlust* `E,u` : `E,u.e`
+* vers `v.es` : `v.es.irt` `v.es.ir.H` `v.es` `d.i-w.es` `d.i-w.es.if-o` STS `IN.w.es` `ko.w.es` `ko.w.es.iO` ← vert @-sion
+  * **kon**versat*ion* `ko.w.es.at.iO` ≠ konversion
+  * uni~~vers~~ `.un` : `.un.al` `.un.ell` `.un.ät` `.un.um`
 * vert `vet` : `ko.wet.ir` `ko.wet.ib.ät`
-  * vers `v.es` : `v.es.irt` `d.i-w.es` `d.i-w.es.iO` `IN.w.es` `IN.w.es.iO` `ko.w.es.iO` @-sion
-    * : vers*ion* `v.es.iO` ~ `w.es.iO`
-    * : **kon**versat*ion* `ko.w.es.iO` ! `ko.w.es.at.iO` ≠ konversion
-    * uni~~vers~~ `.un` : `.un.al` `.un.ell` `.un.ät` `.un.um`
+  * → vers
 * *ver***zeih** `E.zei` ← zeih
   * *ver***zieh** `E.z.i`
   * → verzicht
@@ -2965,8 +2965,8 @@
 * *video* `vi.o` : `vi.os` `vi.o-t.ek` ← vid
 * **vieh** `vi` : `vi.i` `vi,u`
   * -***vieh*** `.ih` → rind schlacht
-* ***viel*** `.il`
-  * : *so****viel*** `.o-il` ~ `.o-l`
+* ***viel*** `.il` : `.o-il`
+  * *soviel* `.o-l` ≠ weil
 * vier `v.ir`
   * *viert* `vi` : `vi.el`
 * -**v**is- `v` @-sion
@@ -2984,13 +2984,12 @@
   * → füll
 * volv `v.ow` : `r.w.ow-er`
   * volt `v.ot` : `r.wot.e`
-  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `kut.ur,r.u-O`
-    * : *konter***re***vol****u****t*<i></i>*ion* `(ko)tr,r.u-O` ~ `kot.er,r.u-O`
+  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `kot.er,r.u-O` `kut.ur,r.u-O`
 * **von** `v` : `.a-v` @da-
   * *davon* `a-v` : `a-v.ab.ra`
   * *vom* `v°`
-* *vor* `O` : `O.n` `O.ts` `O.d-er` `be.O` `.e-O`
-  * : ***nach***.~~wie~~.*vor* `ach.O` ~ `ach-o`
+* *vor* `O` : `O.n` `O.ts` `O.d-er` `be.O` `.e-O` `ach.O`
+  * *nach.wie.vor* `ach-o`
   * : *vori****g*** `(g)`
 * **vot** `v`
   * -*votum* `.um` → trau
@@ -3323,7 +3322,7 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (26)
+  * ` ~ ` (12)
   * ` ! ` (106)
   * ` : `
   * @@
