@@ -7,7 +7,7 @@
 
 * ab `.ab` : `.ab.a`
 * *ab****end*** `(.ed)`
-* *aber* `ber` : `ber.ma-s` `ber,au` STS `ber-r`
+* *aber* `ber` : `ber.ma-s` `ber,au` STS `ber+r` @r+r
   * *aber.auch* `ber-aY` @au
 * acht `.acht` : `.acht-Sa` `be.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
@@ -71,7 +71,7 @@
 * *ant*ik `aNT.ik`
 * *arb****eit*** `(T)` : `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `(T).N` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * *arbeits****los*** `(l.os)`
-  * *arbeits*- `Ts` : `Ts.N` `Ts.is` → amt gebiet kreis platz weis zeit
+  * *arbeits*- `Ts` : `Ts.N` `Ts.is` → amt gebiet kreis markt platz weis zeit
   * *arbeitsam* `T.Sa`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
@@ -575,7 +575,7 @@
     * → führ
 * *fakt* `fat` : `fat.ur.a` ← faz
   * → fekt
-* **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `.eb.fa-s` `G.g.fa-s` `gl.fa-s` `k.fa-s` `n.ot.i-fa-s` `rÜ.fa` `UN-fa` `Z.fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `IN.iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
+* **fall** `fa` : `fa.ed` `fa-s` `G.fa` `.al.fa-s` `.S.fa` `b.ei-fa` `.eb.fa-s` `G.g.fa-s` `gl.fa-s` `k.fa-s` `m.o-ell.fa` `n.ot.fa-s` `n.öt.i-fa-s` `rÜ.fa` `UN-fa` `Z.fa` `zw.fa` `(AU)j.fa` `AU.k.fa` `f.fa.d` `.im.ad-er:fa` `IN.iS:fa` `(I)j.fa` `IN.ei-em,o,fa` `v.fa.fa` `W.i-fa-s`
   * *ebenfalls* `.e-fa-s`
   * **fäll** `f` : `f.e` `f.i` `f.i-T` `G.f.i` `G.f.i-T` `rÜ.f.i` `schw.f.i` `Ü.f.i` `UN-G.f.i` `UN-G.f.i-T` `Z.f.i` `AU.al.f.e` `er fet` `IN.eid:f.en` `(I).en.m.ei=f.en` `IN,o,f.en` `IN.il:f.en`
   * **fiel** `fi` : `AU,fi`
@@ -1282,7 +1282,7 @@
 * ***klam*** `.am` : `r.am-o` `r.am.e`
 * ***klar*** `.ar` : `.ar-er` `.am.arst` `.ar.H`
   * ***klär*** `.är` : `.är-UNG` `AU.är-UNG` `er.är` `er.är.L` `I er.är-UNG`
-    * *erklären* `er-r` ≠ ernähren
+    * *erklären* `er+r` ≠ ernähren @r+r
 * **klass** `kla` : `kla-e` `kla.ik-er` `kla.iS` `kla.i` `kla.if.ir` `kla.if-o`
 * ***klaud*** `.aud` STS
   * ***klaus*** `.aus` : `.aus.e`
@@ -1564,9 +1564,9 @@
   * -**mäl**- `mä` : `G.m.ed.e`
 * **man** `ma`
   * -**mand** `ma` → je nie
-* **man** `ma` : `ma.ell`
+* **man** `ma` : `ma.ell` `p.ma.eNT`
   * : *manipul* `ma,u-` : `ma,u-O` `ma,u.ir`
-  * : **per**<i></i>**man***ent* `p.ma.eNT` ~ `p.m.an.eNT`
+  * *permanent* `p.m.an.eNT`
 * *manch* `aCH` `aCH.l.ei`
   * : *manch*er `aCH-er` ! `aCH.er`
   * : *manch***mal** `aCH.ma` ! `aCH.m.al`
@@ -1576,9 +1576,9 @@
   * : **land**s**mann** `la.ma` ! `la-s.ma` ≠ landmann
   * **männ** `m` : `m.er` `m.L` `.auf.m.i`
 * **mann*****heim*** `ma.eim`
-* *mar****kt*** `(kt)` : `vi.kt` `d.is.kt` `schwa.kt`
-  * : *arb****eit***s*mar****kt*** `(T).kt` ~ `T.kt`
-  * : welt*mar****kt*** `wet.kt` ~ `(-t),(-t)`
+* *mar****kt*** `(kt)` : `Ts.kt` `d.is.kt` `schwa.kt` `vi.kt` `wet.kt`
+  * *arbeitsmarkt* `T.kt`
+  * *weltmarkt* `(-t),(-t)`
 * *marokk* `ma.ok` : `ma.ok.o`
   * *marokko* `ma.ok` @-o
 * *masch****in*** `(.in)` : `(.in).e` `(.in).ell` `n.äh,(.in).e`
@@ -1591,8 +1591,8 @@
   * *matr* `ma` : `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
 * mauer `m.au-er` : `sch.all.m.au-er`
   * *schallmauer* `scha.m.au-er`
-* *maxim* `m.ax` STS
-  * : *maxim*al `m.ax.al` ~ `m.ax.im-a`
+* *maxim* `m.ax` STS : `m.ax.al`
+  * *maximal* `m.ax.im-a`
 * mech `m.ech`
   * : mechan `m.ech` : `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
 * med `m.ed` : `m.ed.it.ir` `m.ed.it.iO` `m.ed.um` `m.ed.I.en`
@@ -1673,19 +1673,20 @@
     * *mittel* `-t.el` : `UN-t.el.bar` `er-t.el` `G.uss-t.el` `hi-t.el` `n.är-t.el` `ar-UNG-t.el` `E.er-t.el`
       * *unmittelbar* `UN.bar`
   * *damit* `a-M`
-* *mitt* `M`
+* *mitt* `M` : `kom.o+M.ir`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
-  * : *kom*pr**o***mitt*ier `kom.o+M.ir` ~ `kom-p.it.ir`
+  * *kompromitt* `kom-p.it` : `kom-p.it.ir`
   * → miss
 * mob `m.ob`
   * : mobil `m.ob.il` : `.aut.m.ob.il` `m.ob.ar` `m.ob.ir` `m.ob.ät`
     * *automobil* `.aut.il`
 * ***mocht*** `.ocht` ← mög
 * mod `m.od` : `m.od.e` `m.od.al` `m.od.al.ät` `m.od-er.or` `m.od-er.iO` `m.od.if-o` `m.od.ul` `m.od.ul.ar` `m.od.ul.iO` `m.od.us`
-  * : *mod****ell*** STS `(.ell)` ~ `m.o-ell` : `(.ell).ir` ~ `m.o-ell.ir` ≠ kartell
+  * → modell
   * : modern `m.od-er` : `UN.m.od-er`
-    * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG`
+    * : modernisier*ung* `m.od-er.ir-UNG` ! `m.od-ern.ir-UNG` ≠ moderieren
   * : mod*ifiz*ieren `m.od.if.ir` ! `m.od.if.iz.ir`
+* *modell* `m.o-ell` : `m.o-ell.ir`
 * ***mög*** `.ög`
   * ~~*mög*~~*lich* `(L)` : `(L)-t` `(o)ba.L` `(o)w.T.L` @-st
   * ***mag*** `.ag`
@@ -1737,13 +1738,12 @@
   * → nach
 * nahr `n.ar` : `n.ar.ha`
   * *nahrung* : `ar-UNG`
-  * nähr `n.är` : `n.är,-t`
-    * *ernähr* `er.är` : `er.är-er`
-      * : *ernähr*en `er.är` ~ `er.ä` ≠ erklären
-* ~~nam~~ : `(.e)` `(-t.L)` `ach,(.e)`
-  * : ~~nam~~**haft** `(ha)` ! `n.am.ha`
-  * : im ~~nam~~en `.im (en)` ~ `.im.en`
+  * **nähr** `.är` : `n.är` `n.är,-t` `er.är` `er.är-er`
+    * *ernähr*en `er.ä` ≠ erklären
+* ~~nam~~ : `(.e)` `(-t).L` `ach,(.e)` `.im (en)`
+  * nam**haft** `(ha)`
   * *namentlich* `-t.L`
+  * *im.namen* `.im.en`
   * ***näm*** `.äm` : `.äm.L`
 * ~~nat~~ : `(.ur)` `(.Yr).L` `(.iO)` `kut.ur.iO` `(.i-aL)` `(I)t-er.i-aL`
   * *national* `(n.al)`
@@ -1753,15 +1753,11 @@
   * -*naut* `.aut` → aero astro kosmo
 * neb `n.eb` : `n.eb.ko` `n.eb,(.e)` `n.eb.L`
 * neg `n.eg` : `n.eg.ir` `n.eg.iO` `n.eg.iv`
-* ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `N.E,(en)` `O.L` `O.w,(en)` `O.l.ib,(en)` `Ü.en` `wa,(en)` `wa,UNG` `IN.auf.en` `AU.CH.en`
+* ~~nehm~~ : `(.e)` `.ab,(en)` `AU,(en)` `.an.bar` `.an.L.T` `.an.G` `(T),(er)` `(.eil),(en)` `(.eil),(er)` `UN.an-G` `E,(en)` `E.L` `N.E,(en)` `O.n.em` `O,(-st)` `O.L` `O.w,(en)` `O.l.ib,(en)` `Ü,(en)` `UNTER,(en)` `UNTER,(er)` `UNTER,UNG` `wa,(en)` `wa,UNG` `IN.acht.en` `IN.auf.en` `AU.CH.en` @-nehm
   * *einvernehmen* `N.E`
-  * : *vor*~~nehm~~ `O` ! `O.n.em`
-    * : *vor*~~nehm~~ `O,(-st)`
-  * : *über*~~nehm~~en `Ü,(en)` ~ `Ü.en`
-  * : *unter*~~nehm~~en `UNTER,(en)` ~ `UNTER.en`
-  * : *unter*~~nehm~~er `UNTER,(er)` ~ `UNTER-er`
-  * : *unter*~~nehm~~*ung* `UNTER,UNG` ~ `UNTER-UNG`
-  * : *in*.acht.~~nehm~~en `IN.acht,(en)` ~ `IN.acht.en`
+  * ~~nehm~~ : `Ü.en` `UNTER.en`
+    * *unternehmer* `UNTER-er`
+    * *unternehmung* `UNTER-UNG`
   * *genehm* `G.n` : `G.n.i`
   * ~~n~~imm `(.im)` STS
     * *nimm* `.im` : `dU .im`
@@ -1954,9 +1950,9 @@
   * : de***pon***ieren `d.e-on.ir` ! `(d.e)p.on.ir`
   * : *komp****on****ent*e `kom.on.eNT.e` ~ `kom.o-nt.e`
   * *posit* `pos` : `pos.iv`
-    * *position* `pos`
-      * : *dis*<i></i>*position* `(ds)pos` ~ `ds-os`
-      * : *komp*<i></i>*position* `kom-os` ~ `kom-o`
+    * *position* `pos` : `(ds)pos` `kom-os`
+      * *disposition* `ds-os`
+      * *komposition* `kom-o`
     * **post** `po` : `po.ir` `po.al.i` `po.a`
       * : **post**ulat `po.at` ! `p.o+st.at`
       * : **post**ulier `po.ir` ! `po.ul.ir`
@@ -3333,8 +3329,8 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (80)
-  * ` ! ` (106) @extra wörterbuch für ausschreibungen? schnellschrift light (eilschrift?)
+  * ` ~ ` (79)
+  * ` ! ` (106)
   * ` : `
   * @@
 
@@ -3354,8 +3350,8 @@
 
 * fügsam @`.üg-Sa` aktion
 
-* *alt* `.alt` ⇒ (alt)/"alt"/'alt' `.alt` (Verkehrsschrift)
+* *alt* `.alt` ⇒ (alt)/"alt"/'alt'/«alt»/»alt« `.alt` (Verkehrsschrift)
 * **jed**e `j.e` ! `j.ed.e` ⇒ jede `j.ed.e` (Eilschrift)
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
-
+* Ausweichen in beide Richtungen: erklären, ernähren
