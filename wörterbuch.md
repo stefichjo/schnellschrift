@@ -1160,6 +1160,7 @@
   * -*sion* `-s` @-sion
     * *mission* `ms-o` : `ms-o.ar` `ms-o.ir`
       * *emission* `.e-ms-o`
+    * *prozession* `(o).ess.iO` ≠ prozess
     * *version* `w.es.iO` : `w.es.iO.ir` STS `d.i-w.es.iO` `IN.w.es.iO` `ko.w.es.iO` ≠ vers versiert divers invers konvers wes
 * *irgend* `.i`/`.ig`
   * n*irgend* `n.i`/`n.ig`
@@ -1331,7 +1332,7 @@
 * *kont* `ko` : `ds.ko.ir` ← put
   * *konto* `ko` : `ko.en` `b.ak.ko` `s.ko`
 * *kontr* `(ko)tr` : `(ko)tr.är`
-  * *konter* `kot.er`
+  * *konter* `ko-t.er`
   * *kontra* `(ko)tra` : `(ko)tra,u`
   * → kontroll
 * *kontroll* `ko` : `ko.e` `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
@@ -1625,7 +1626,7 @@
 * *mensch* `MSCH` : `MSCH.H` `MSCH.L` `E.MSCH.L`
   * *menschheit* `MSCH°`
 * ment `met` : `met.al.ät` `met.or`
-  * *komment* `kot` : `kot.ar` `kot.at.or`
+  * *komment* `ko-t` : `ko-t.ar` `ko-t.at.or`
   * -*ament* `eNT` → perg temp test
 * merk `m.ek` : `m.ek,(.el)`
   * : `AU.m.ek-Sa` `AU.m.ek-Sa.T` `UN.AU.m.ek-Sa.T`
@@ -2984,7 +2985,7 @@
   * → füll
 * volv `v.ow` : `r.w.ow-er`
   * volt `v.ot` : `r.wot.e`
-  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `kot.er,r.u-O` `kut.ur,r.u-O`
+  * *vol****u****t* `u` : `.e,u-O` `r.u-O` `ko-t.er,r.u-O` `kut.ur,r.u-O`
 * **von** `v` : `.a-v` @da-
   * *davon* `a-v` : `a-v.ab.ra`
   * *vom* `v°`
@@ -3056,9 +3057,9 @@
   * -**weg**en `w` → des
 * weh `w.eh`
   * wind `w.id`
-* ***wehr*** `wer` : `G.wert` `wer.os` `wer.ha` `.ab.wer` `G.wer` `G.wer.e` `wer,i` `bu.wer`
+* ***wehr*** `wer` : `G.wert` `wer.os` `wer.ha` `.ab.wer` `G.wer` `G.wer.e` `wer,i` `bu.wer` `feu:wer`
   * *bundeswehr* `u-wer`
-  * : *feuer****wehr*** `feu:wer` ~ `eu:wer`
+  * *feuerwehr* `eu:wer`
 * -**weich**- `wei` : `w.eich` `w.eich.ing` `.ab.wei` `u-rÜ:wei`
   * -**wich**- `w.i` : `w.ich`
     * *gewichen* `G.w.ich`
@@ -3069,9 +3070,9 @@
   * wen `w.en` : `w.en.i` `d.est.w.en.i-er` `m.w.en.i-er`
     * *nichtsdestoweniger* `-ts.o`
     * *mehr.oder.weniger* `m.w`
-* *w****eis*** `(.eis)` : `Ts.eis.e` @ausnahmsweise `be.eis` `be.eis.bar` `be.eis.iaL` `er.eis` @glücklicherweise `hn.eis` `.ob.eis.e` `Ü.eis` `I b.ak-Ü.eis` `I-Ü.eis` `wr-Ü.eis` `Z-Ü.eis`
-  * : *darauf* *hin*<i></i>*w****eis***en `dar-AU hn.eis` ~ `dar-AU-n`
-  * : *ich* *muss* *darauf* *hin*<i></i>*w****eis***en `.I.uss dar-AU hn.eis` ~ `I.uss.eis`
+* *w****eis*** `(.eis)` : `Ts.eis.e` @ausnahmsweise `be.eis` `be.eis.bar` `be.eis.iaL` `er.eis` @glücklicherweise `hn.eis` `.ob.eis.e` `Ü.eis` `b.ak-Ü.eis` `dar-AU hn.eis` `Z-Ü.eis` `I-Ü.eis` `wr-Ü.eis`
+  * *darauf.hinweis*en `dar-AU-n` : `.I.uss dar-AU-n`
+    * *ich.muss.darauf.hinweisen* `I.uss.eis`
   * -*w****eis***e `.eis.e` → arbeit glück nehm
   * *w****ies*** `(.is)` : `G.is` `.ab.is` `be.is` `er.is` `er.is.ass` `Ü.is` `.I-Ü.is`
     * *wies* `w.is`
@@ -3086,8 +3087,8 @@
 * wem ← wer
 * wen ← wer
 * wen ← wein
-* -**wend**- `w` : `w.ed` `.an.w` `AU.w` `E.w` `E.w-UNG` ← wind
-  * : *not***wend***ig* `.ot.w.i` ~ `(o)w.i`
+* -**wend**- `w` : `w.ed` `.an.w` `AU.w` `E.w` `E.w-UNG` `.ot.w.i` ← wind
+  * *notwendig* `(o)w.i`
   * -**wandt**- `wa` : `w.ad` `w.adt.e` `be.wa.is` `N.wa` `G.wa` `E.wa`
     * *bewandtnis* `be.wa-t.is`
 * wenig ← wein
@@ -3123,8 +3124,8 @@
   * *westlich* `w.L`
 * wetter `w.et-er`
 * **wicht** `wi` : `wi.i` `wi.i-T` `bru-o,wi` `G,wi` `ha.schw,wi` `schla,wi` `UN,wi.i`
-* wicht `w.icht`
-  * bösewicht `b.ös.e-w.icht` ~ `b.ös.e,wi`
+* wicht `w.icht` : `b.ös.w.icht`
+  * bösewicht* `b.ös.e,wi`
 * **wick** `wi` : `wi.el` `(eNT)wi.el` `w.T.er:(eNT)wi.el` `(E)wi.el`
   * *ent*<i></i>*w****i****ck*el `eNT-i` : `T.er:eNT-i`
 * *wid****m*** `(m)`
@@ -3144,13 +3145,13 @@
     * *wandel* `wa.el`
   * wund `w.ud`
   * → wend
-* winn `w.in`
-  * : *ge*winn `G.w.in` ~ `G.in`
+* winn `w.in` : `G.w.in`
+  * *gewinn* `G.in`
   * wann `w.an` : `G.w.an`
   * wonn `w.on` : `G.w.on`
 * *winter* `wi-er` : `wi-er.L` `Ü,wi-er`
-* *wir* `wr`: `wr-I`
-  * **d**ass.*wir* `d.wr` ~ `DR` (3-stufiges R)
+* *wir* `wr`: `wr-I` `d.wr`
+  * *dass.wir* `DR` @(3-stufiges R)
 * wirbel `w.ib.el` : `G.w.ib.elt` `w.ib.el,eu`
   * *wirbelsäule* `w.ib,eu`
 * *wir****k*** `(k)` : `(k)t` `(k).L` `(k).L.T` `(k)-Sa.T` `(k).os` `(k).Ol` `(.S)(k)` `be,(k)` `N,(k)` `eNT.g,(k)` `rÜ-k.ed` `UN,(k).L` `dar-AU n.k`
@@ -3161,10 +3162,9 @@
   * *darauf.hinwirken* `dar-AU.k`
 * **wirt** `wit`
   * *wirt*- `(wr)`
-    * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT.er` `FT.N` `la.FT` `FT.L.e,ig`
+    * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` : `FT.er` `FT.N` `la.FT` `FT.L.e,ig` `G.L.e FT`
       * *landwirtschaft* `(a-wr).FT` ≠ landschaft
-      * : *ge*werb*lich*e ~~*wirt*~~*schaft* `G.L.e FT` ~ `G.L.FT`
-      * : → landwirtschaft
+      * *gewerbliche.wirtschaft* `G.L.FT`
 * *wiss* `.iss` : `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `E.-G.iss` `E.-G.iss-t.e` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
   * *vergewisser* `E.-G` : `E.-G-t.e`
   * *wissenschaft* `wi.FT`
@@ -3183,10 +3183,10 @@
   * **war** `war` : `war-u`
 * **woch** `wo` : `wo-e`
 * wohl `w.ol` : `G.Sa.w.ol` `.ob.w.ol`
-* **wohn** `wo`
-  * : **wohn***ung* `wo` ~ `wo-u` ≠ woche
-  * **wöhn** `wö` : `G.wö`
-  * : *ge***wöhn***lich* `G.wö.L` ~ `G-ö-L`
+* **wohn** `wo` : `wo-UNG`
+  * *wohnung* `wo-u` ≠ woche
+  * **wöhn** `wö` : `G.wö` `G.wö.L`
+  * *gewöhnlich* `G-ö-L`
 * *woll* `(.ol)`
   * *will* `(.l)`
 * wort `wot`
@@ -3231,11 +3231,9 @@
 * zart `zat`
   * zärt `zet` : `zet.L.T`
 * zauber `z.aub-er` : `z.aub-er.er` `z.aub-er.ei`
-* ***zed*** `.ed` : `ko.ed.ir`
-  * : *pro****zed***ur `(o).ed.ur` ~ `(o)z.ur`
-  * ***zess*** `.ess` : `ko.ess.iO` `(o).ess` `(o).ess.ir` `(o).ess.iO` `(T),(o).ess` `(o)du-o,(o).ess`
-    * *konzession* `ko.ess`
-    * *produktionsprozess* `(o)du.iO,(o).ess`
+* ***zed*** `.ed` : `ko.ed.ir` `(o).ed.ur`
+  * *prozedur* `(o)z.ur`
+  * → zess
 * zehn `z.en` : `ja.z.ent`
 * ***zeich*** `.eich` : `.eich.UNG` `E.eich.is`
   * : ***zeich***nen `.eich` ! `z.eich` ≠ reichen
@@ -3254,10 +3252,14 @@
   * : *zentr*ieren `zr.ir` ! `z.etr.ir`
   * : *ex*<i></i>*zentr*iker `.e-zr.ik-er` ! `.e-z.etr.ik-er`
   * *zentral* `zra` : `zra.e` `zra.ir` `zra.ir-UNG` `zra.iO` `zra.iS` `zra.iS.i` `zra.ba` `(d.e)zra.ir` `(d.e)zra.iO`
+* **zept** `z` : `ko.z` `ko.z.iO` `r.z` `r.z.iO` ← zip
+  * *konzept* `ko-t` : `ko-t.iO`
 * *zer*- `zer`
 * zern `z.en` : `ko.z.en`
   * *zert* `zer` : `zer.if.at` `zer.if.ir`
     * : **kon***zert* `(ko)zer` ! `ko.zet`
+* ***zess*** `.ess` : `ko.ess` `(o).ess` `(o).ess.ir` `(T),(o).ess` `(o)du-o,(o).ess` ← zed @-sion
+  * *produktionsprozess* `(o)du.iO,(o).ess`
 * zettel `z.et.el`
   * -*zett****el*** `(.el)` → hand merk wahl
 * **zeug** `.eug` : `fa.eug` `kra.fa.eug` `er.eug.iss.e` `Ü.eug` `ach.m.ei-er-Ü.eug`
@@ -3282,9 +3284,7 @@
 * **zip** `.ip` : `ko.ip.ir`
   * *prinzip* `(.ip)` : `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
     * **prinz** `pri`
-  * z~~ept~~ `z` : `r.z`
-    * : **kon**z~~ept~~ `ko.z` ~ `kot`
-    * : **re**z~~ept~~*ion* `r.z.iO`
+  * → zept
 * zipl `z.ipl`
   * *disziplin* `ds`
 * zirk `z.ik` : `z.ik.a` `z.ik.el` `z.ik.iO` `z.ik.ir` `z.ik.us` `be.z.ik`
@@ -3322,7 +3322,6 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (12)
   * ` ! ` (106)
   * ` : `
   * @@
