@@ -75,8 +75,7 @@
   * *arbeitsam* `T.Sa`
 * arch `.ach` : `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
-* archä `.ach` : `.ach.og.e` `.ach.og.I`
-  * *archäologie* `.ach.o-I`
+* archä `.ach` : `.ach.og.e` `.ach.o-I`
 * archi `.ach` : `.ach.ekt` `.ach.ekt.ur`
   * *architektur* `.ach.ur`
 * *arg* `.arg` : `.arg.os` `E.arg` ≠ mag schlag
@@ -97,8 +96,8 @@
 * asi `.as.I` : `.as.I.at` `.as.I.i` `.as.I.en`
   * *asien* `.as.i-en`
   * *asiat* `.as.at` : `.as.at.i`
-* astro `.a+str` : `.a+str.og.I` `.a+str.aut` `.a+str.om.I`
-  * *astrologie* `.a+str.o-l.o-I`
+* astro `.a+str` : `.a+str.o-I` `.a+str.aut` `.a+str.om.I`
+  * astrologie → log
 * athl `.atl` : `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` : `.atl.ik` `.atl.i` ← atlas
   * *atlantik* `.at.l-t.ik`
@@ -212,9 +211,8 @@
       * *verbände* `E.b.e`
   * **bund** `bu` : `bu.um` `bu.ik`
     * **bünd** `bü` : `bü.e` `bü.el`
-* **bi**o `bi` STS : `bi.og.I`
+* **bi**o `bi` : `bi.o-I` `bi.og.i`
   * bio**graph**ie `b.i-o+gra.I`
-  * biologie `b.i-l.og.I`
 * **bis** `bi`
 * *bischof* `bi.of` : `(.es):bi.of`
   * *landesbischof* `(.es).of`
@@ -872,9 +870,9 @@
     * *general*- `g` → sekret streik
 * *ge****nug*** `G.ug` ← nug
   * *ge****nüg*** `G.üg` : `b.üg` `E.üg`
-* geo `g.e` : `g.e-gra` `g.e-og.e` `g.e-og.I` `g.e-I` `g.i`
+* geo `g.e` : `g.e-gra` `g.e-I` `g.i`
   * *geograph* `g.e-o+gra`
-  * *geolog* `g.e-l.og` : `g.e-l.og.e` `g.e-l.og.I`
+  * → log
   * *geometr* `g.e-m.etr` : `g.e-m.etr.I` `g.e-m.etr.i`
 * gern `g.en` : `s.g.en`
 * *gesellschaft* `G.FT` : `G.FT-er` `G.FT.L` `E,G.FT` `(.I).en,G.FT`
@@ -1521,7 +1519,10 @@
 * liquid `l.iqu.id` : `l.iqu.id.e` `l.iqu.ir` `l.iqu.ir-UNG` `l.iqu-o` `l.iqu.or` `l.iqu.id.ät`
   * *liquid* `l.iqu` : `l.iqu.e` `l.iqu.ät`
 * log `l.og` : `l.og.ik` `l.og.i`
-* -***log*** `.og` → astro bio geo kata phraso polito
+  * -*log* `.og` -*logie* `.o-I` → archäo astro bio geo kata phraso polito theo
+    * *astrologie* `.a+str.o-l.o-I` ← astro
+    * *geolog* `g.e-l.og` : `g.e-l.og.e` `g.e-l.og.I` ← geo
+    * *theolog* `t.e-l.og` : `t.e-l.og.e` `t.e-l.og.I` `t.e-l.og.i` ≠ theorie ← theo
 * lok `l.ok` : `l.ok.al` `l.ok.ir` `l.ok.ät` `l.ok.iv`
   * *lokal* `l.ok`
 * loqu `l.oqu` : `ko.oqu.um`
@@ -1872,13 +1873,12 @@
 * ***pans*** `pas` : `.e-pas-o` ← pand @-sion
 * **pap**, **papp** STS `pa` : `pa-e` STS `pa.ir` `(ar).et:pa.ir`
   * *pappe* `p.ap.e`
-* **par** `pa` : `pa.ad.e` `pa.ad.ir` `pa.ad.is` `.a-pa.at` `.a-pa-ur` `(r)pa.ir` `(r)pa-ur`
+* **par** `pa` : `pa.ad.e` `pa.ad.ir` `pa.ad.is` `.a-pa.at` `.a-pa-ur` `(r)pa.ir` `(r)pa-ur` `tra.pa.eNT` `tra.pa.ez`
   * : **par**ität `pa.ät` ! `p.ar.ät`
-  * : *trans***par***ent* `tra.pa.eNT` ~ `tra.pa.eNT`
   * → paar
 * *paris* `pa.is`
 * *para*- `pa-`
-* *parallel* `pa.el` STS ~ `p.ar.el`
+* *parallel* `p.ar.el`
 * *paris* `pa.is`
 * parl
   * *parlament* `Par` : `Par.ar-er` `Par.ar.i`
@@ -1913,8 +1913,7 @@
   * -*pflicht* `i` → haft steuer wehr
 * phon `f.on` : `f.on.ik` `f.on.i`
   * -ph~~on~~ `f` → grammo tel
-* phras `fr.as`
-  * : phraso***log***ie `fr.as.og.I` ~ `fr.as.o-I`
+* phras `fr.as` : `fr.as.o-I`
 * **phys** `fy` : `fy.ik` `fy.ik.i`
   * : **phys**<i></i>**isch** `fy.i` ! `f.ys.i`
 * **plan** `pla`
@@ -1940,7 +1939,7 @@
   * poesie `p.o-es.I`
 * pol `p.ol` : `m.etr.p.ol.e`
   * *metropole* `m.etr.ol.e`
-* *polit* `it` : `it.i` `it.i-er` `it.ir` `it.og.e` `it.og.I` `.auss.it.i` `fi.it.i` `.in.it.i` `k.osm.it` `k.osm.it.iS`f`
+* *polit* `it` : `it.i` `it.i-er` `it.ir` `it.og.e` `it.o-I` `.auss.it.i` `fi.it.i` `.in.it.i` `k.osm.it` `k.osm.it.iS`f`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `wä-tik` `FT.tik`
     * : **hand**els*politik* `ha.el-t.ik`
 * *poliz* `li` : `li.ei` `li.ist`
@@ -2803,11 +2802,10 @@
 * thek `t.ek` : `t.ek.e` STS
 * them `t` : `t.em.a` `t.em.en` `t.em.i`
   * *thema* `t.a` 
-* theo `t.e` : `t.e-d.or` `t.e-d.ol.it` `t.e-og.e` `t.e-og.I` `.a-t.e-iS`
-  * *theologe* `t.e-l.og.e`
-  * *theologie* `t.e-l.o-I`
-* theor `t.e-or` : `t.e-or.ik-er` `t.e-or.i` `t.e-or.I`
-  * -*theorie* `t.e-o-I` : `quat,t.e-o-I` `r.iv.ät-t.e-o-I`
+* theo `t.e` : `t.e-d.or` `t.e-d.ol.it` `.a-t.e-iS`
+  * → log
+* theor `t.e-or` : `t.e-or.ik-er` `t.e-or.i`
+  * *theorie* `t.e-o-I` : `t.e-o-I.en` `quat,t.e-o-I` `r.iv.ät-t.e-o-I`
 * therm `t.em` : `t.em.al`
 * **tief** `ti` : `(E)ti`
 * **tin** `ti` : `ko,ti.eNT` `ko,ti.ir.L`
