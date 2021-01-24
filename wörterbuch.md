@@ -2059,8 +2059,8 @@
     * *regelmäßigkeit* `r.el.ess.i-T`
   * *reg****ier***en `(.ir)`
     * : *reg****ier****ung* `(.ir)-UNG` : `(.es).ir-UNG`
-      * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra`
-        * : **bund**es*regierung* `bu,ir-UNG` ~ `u-r-UNG`
+      * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG`
+        * *bundesregierung* `u-r-UNG`
   * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation, relation
     * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
   * : **reg**ulieren `r.ir` ! `r.ul.ir`
@@ -2099,15 +2099,15 @@
 * *revier* `r.ir` : `li.ei-r.ir`
 * *rheinländisch-westfälisch* `(sch).(sch)`
 * *rheinland-pfalz* `(N):pfa`
-* **richt** `ri` : `ri.i` `(be)ach,ri.i` `(er)ri` `IN.iS-er ri-UNG`
+* **richt** `ri` : `ri.i` `ri-UNG` `be,ri,(er)` `be,ri,er.sta*` `(be)ach,ri.i` `(er)ri` `IN.iS-er ri-UNG`
   * : **richt**en `ri` ! `r.icht`
-  * : **richt***ung* `ri-UNG` ~ `i-UNG` ≠ regierung @@
+  * *richtung* `i-UNG` ≠ regierung
   * : be**richt** `be,ri`
-    * : be**richt**~~erstatt~~er `be,ri,(er)` ~ `be,ri-er`
-    * : be**richt**~~erstatt~~*ung* `be,ri,UNG` ~ `be,ri-UNG`
+    * *berichterstatter* `be,ri-er`
+    * *berichterstattung* `be,ri-UNG`
   * *in.dieser.richtung* `IN.iS-er-UNG`
-  * *gericht* `G,i` : `la,i` `.o-la,i`
-    * : *gericht*<i></i>*lich* `G,i-L` ~ `(G)i-L`
+  * *gericht* `G,i` : `G,i-L` `la,i` `.o-la,i`
+    * *gerichtlich* `(G)i-L`
     * : **amt**s*ge***richt** `.a,i` `.amt,i`
 * rind `r.id` : `r.id-er`
   * *rindvieh* `ri.ih` `(i),(i)`
@@ -2148,8 +2148,8 @@
   * **säch** `s` : `s.L` `.ur-s.L`
     * *sächlich* `s.ech.L`
     * -*sächlich* `.L` : `.ur.L` → haupt neben
-* **sachs** `sa` : `sa.en`
-    * : *nieder***sachs**en `ndr.sa.en` ~ `ndr-a`
+* **sachs** `sa` : `sa.en` `ndr.sa.en`
+    * *niedersachsen* `ndr-a`
 * **sag** `sa` : `G.sa` `.ab.sa` `.an.sa` `.S.sa` `.eug.S.sa-e` `be.sa` `eNT.sa.Ol` `.os.sa` `ach.sa` `UN.sa.bar` `UNTER.sa` `E.sa` `O.S.sa` `O.h.sa` `w.et-er.O.h.sa` `Z.sa`
   * : **sag**e `sa-e` ! `s.ag.e`
   * : **sag**en `sa` ! `s.ag`
@@ -2173,8 +2173,8 @@
 * **samm**el `sa.el` : `sa.l-UNG` ← samm
   * *versammel* `E.Sa` : `E.Sa.UNG`
     * -*versammlung* `Sa.UNG` → glied
-* *samt* `Sa` : `G.Sa` `G.Sa.H`
-  * : *in*s*ge*<i></i>*samt* `IN.G.Sa` ~ `(I).G.Sa`
+* *samt* `Sa` : `G.Sa` `G.Sa.H` `IN.G.Sa`
+  * *insgesamt* `(I).G.Sa`
   * *sämt* `s` : `s.L`
 * samt `s.amt`
 * sand `s.ad`
@@ -2220,19 +2220,16 @@
   * ***wes*** `.es` : `.es.a` `.es.ha` `.es.H` `.es.L` `.es.os` `.ab.es.ed` `.ab.es.H` `.an.es.ed` `.an.es.H` `.im.es.L`
     * *gewes* `-G` : `da.-G`
     * *im.wesentlichen* `.im.L`
-* ***seit*** `T` : `T.e` `T.en` `T.L` `.ad-er.Ts` `be.T.ig` `.eid-er.Ts` `g.T.ig` `.ir-er.Ts` `rÜ.T.e` `AU.al.T.en`
+* ***seit*** `T` : `T.e` `T.en` `T.L` `.ad-er.Ts` `be.T.ig` `.eid-er.Ts` `g.T.ig` `.ir-er.Ts` `rÜ.T.e` `AU-er .ad-er.en T.e` `AU.al.T.en` `AU.eid.T.en` `v.eid.T.en` `AU.iS-er T.e` `AU-er .ei-en T.e` `v.MR.T.en` `v,u-er-er.T.e`
   * ***seit***ens `T.e-s` `s.T.e-s` @@
   * ***seit***wärts `T.wets` ! `s.T.wets`
   * ***seit***en**lang** `T.ang` ! `s.T.ang`
   * bei***seit***e `b.ei-T.e` ! `b.ei-s.T.e`
-  * *auf*.***beid***en.***seit***en `AU .eid T.en` ~ `AU.eid.T.en`
-  * *auf* *dies*er ***seit***e `AU.iS-er T.e` ~ `AU-i.T.e`
-  * *auf* *de****r*** *ein*en ***seit***e `AU-er .ei-en T.e` ~ `AU.ei-en.T.e`
-  * *auf* *de****r*** anderen ***seit***e `AU-er .ad-er.en T.e` ~ `AU-a.T.e`
-  * v~~on~~ ***beid***en ***seit***en `v .eid T.en` ~ `v.eid.T.en`
-  * v~~on~~ *mehrer*en ***seit***en `v MR T.en` ~ `v.MR.T.en`
-  * v~~on~~ **u**nserer ***seit***e `v u-er-er T.e` ~ `v,u-er-er.T.e`
-  * seit `s.T`
+  * *auf.dieser.seite* `AU-i.T.e`
+  * *auf.der.einen.seite* `AU.ei-en.T.e`
+  * *auf.der.anderen.seite* `AU-a.T.e`
+  * → seit
+* seit `s.T` ← seit
 * *sekretar*, *sekretär* `s.ekr` : `s.ekr.at` `s.ekr.in`
   * *general*<i></i>*sekretär* `g.s.ekr` ~ `g-s.är`
   * *general*<i></i>*sekretar*iat `g.s.ekr.at` ~ `g-s.at`
@@ -2658,7 +2655,7 @@
     * : *stell*<i></i>*ung* `.ell-UNG` ⇒ `st*`
     * -*steller* `(er)` → trag
   * **statt** `sta` : `sta.ha` `sta.L` `er.sta`
-    * -~~erstatt~~ → richt
+    * -*erstatter* → bericht
     * *stätt* `.ät` : `Ts.ät.e`
     * : *gestatt* `-G-a` : `-G-a.sI-ir` `.I -G-a.ir` `wr -G-a.U`
   * stet `st.et`
