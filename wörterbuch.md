@@ -1310,6 +1310,12 @@
 * *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i` `ko-u.ir`
   * : *kommun*<i></i>*ion* `ko-u.iO`
   * *kommunikation* `ko-u-o` ≠ kommunion
+* **kom**plett `kom-pl.et` : `kom-pl.et.ir` ← plett
+  * *komplett* `kom-pl`
+* **kom**<i></i>**pl**ik `kom-pl` : `kom-pl-o`
+  * **kom**<i></i>**pl**iz `kom-pl.ir`
+  * **kom**<i></i>**pl**ex `kom-pl`
+    * *komplex* `(ko)ex` ≠ komplett
 * **kon**- `ko`
   * : **koll**- `ko`
 * *konsum* `ko-su` `ko-su.FT`
@@ -1922,14 +1928,8 @@
 * ***platz*** `.az` : `Ts.az` `si:az`
   * ***plätz*** `.ez` : `.ez.e`
 * plaus `pl.aus` : `pl.aus.ib.el` `pl.aus.ib.ät`
-* plett `pl.et` : `kom-pl.et.ir`
-  * : *kom*plett `kom-pl.et` ~ `kom-pl`
-* **pl**ik `pl`
-  * : *kom***pl**ikat*ion* `kom-pl-o`
-  * **pl**iz `pl`
-    * : *kom***pl**izier `kom-pl.ir`
-  * **pl**ex `pl`
-    * : *kom***pl**ex `kom-pl` ~ `(ko)ex` ≠ komplett
+* plett → komlett
+* plik pliz plex → komplik
 * plod `p.lod`
   * : *ex*plodier `.e-pl.od.ir`
   * *plos* `pl` : `.e-pl-o`
@@ -3326,7 +3326,7 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (61)
+  * ` ~ ` (56)
   * ` ! ` (106)
   * ` : `
   * @@
