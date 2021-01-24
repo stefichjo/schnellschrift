@@ -1798,8 +1798,8 @@
 * nord `n.od`
 * *nordrheinwestfalen* `n.o-fa`
 * norm `n.om` :  `n.om.al` `.e-n.om`
-* ***not*** `.ot`
-  * : *un*<i></i>*bedi****ng***t **not**<i></i>**wend***ig* `(UN.ng)-t .ot.w.i` ~ `UN.be.o-w.i`
+* ***not*** `.ot` : `(UN.ng)-t .ot.w.i`
+  * *unbedingt.notwendig* `UN.be.o-w.i`
   * ***nöt*** `.öt`
 * ***not*** `.ot` : `.ot.e` `.ot.ir` `.ot.ar` `.ot.ar.at` `.ot.ar.ieL`
   * *not****iz*** `(.iz)`
@@ -1829,17 +1829,16 @@
   * *off*- `.o-` : `.o-bar` `.o-H`
   * *öffn*, *öffent* `.ö` : `.ö` `.ö-L` `.ö-L.T` `er.ö` `E.ö-L`
 * offiz → faz
-* oft `.oft` : `.eb.o-oft`
-  * *oft*- `.o-` STS
-    * : *oft***mal**s `.o+ma-s` STS ~ `.oft-s`
+* oft `.oft` : `.oft.ma-s` `.eb.o-oft`
+  * *oftmals* `.oft-s`
   * *öfter* `.ö` : `.ö-s` `(.es).ö`
 * *ohn*, *ohne* `.o°`
 * ohr `.or`
 * ök `.ök` : `.ök.om`
 * opt `.opt` : `.opt.ir` `.opt.iO`
   * → optim
-* *optim* `.op` : `.op.iS` `.op.ist` `.op.iS.i` ← opt
-  * : *optim*al `.op.al` ~ `.opt.im-a`
+* *optim* `.op` : `.op.al` `.op.iS` `.op.ist` `.op.iS.i` ← opt
+  * *optimal* `.opt.im-a`
 * ord `.od` : `.od.L` `.auss.od.L` `.od.in.är` `.ab.od.et`
   * *abgeordnet* `.ab.G`
   * *außerordentlich* `.auss.L`
@@ -3329,7 +3328,7 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (79)
+  * ` ~ ` (61)
   * ` ! ` (106)
   * ` : `
   * @@
