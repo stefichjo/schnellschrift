@@ -1942,11 +1942,11 @@
 * *polit* `it` : `it.i` `it.i-er` `it.ir` `it.og.e` `it.o-I` `.auss.it.i` `fi.it.i` `.in.it.i` `k.osm.it` `k.osm.it.iS`f`
   * *politik* `tik` : `tik-er` `tik.um` `.auss.tik` `bi.tik` `fi.tik` `ha.tik` `eu-er.tik` `wä-tik` `FT.tik`
     * : **hand**els*politik* `ha.el-t.ik`
-* *poliz* `li` : `li.ei` `li.ist`
-  * *land****es****poliz*ei `(.es),li.ei` ~ `(.es).l.ei`
-* ***pon*** `.on` : `ds.on.ir` `kom.on.ir` `tra.on.ir`
+* *poliz* `li` : `li.ei` `li.ist` `(.es),li.ei`
+  * *landespolizei* `(.es).l.ei`
+* ***pon*** `.on` : `ds.on.ir` `kom.on.eNT.e` `kom.on.ir` `tra.on.ir`
   * : de***pon***ieren `d.e-on.ir` ! `(d.e)p.on.ir`
-  * : *komp****on****ent*e `kom.on.eNT.e` ~ `kom.o-nt.e`
+  * *komponente* `kom.o-nt.e`
   * *posit* `pos` : `pos.iv`
     * *position* `pos` : `(ds)pos` `kom-os`
       * *disposition* `ds-os`
@@ -2011,23 +2011,22 @@
 
 ## [R](#wörterbuch)
 
-* rad `r.ad` : `sp.r.ad`
-  * : **fahr**rad `fa.r.ad` ~ `fa.ad`
+* rad `r.ad` : `fa.r.ad` `sp.r.ad`
+  * *fahrrad* `fa.ad`
   * *gerad* `-G.a` : `-G.a.e`
 * rad `r.ad` : `r.ad.al` `r.ad.iS`
 * *raffin* `r.af` : `r.af.irt`
 * rag `r.ag` : `.e-O.r.ag.ed`
   * *hervorragend* `.e-O.ed`
-* rahmen `r.am`
-  * : im.rahmen `.im.r.am` ~ `.im.am`
+* rahmen `r.am` : `.im.r.am`
+  * im.rahmen `.im.am`
 * *rak****et*** `(.et)` : `(.et).e` `tr.eg-er,(.et).e`
 * rang `r.ang` : `r.ang.ir` `O.r.ang`
 * ras `r.as`
-* **rat** `ra` : `ra.os` `G.ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra`
+* **rat** `ra` : `ra.os` `G.ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da-
   * : **rat***geber* `ra.g` ! `ra.g.eb-er`
   * : **rat***sam* `ra-Sa` ! `ra-s.am`
   * : *er***rat**en `er-ra` ! `er-r.at`
-  * : *da*<i></i>*von*.ab**rat**en `.a-v.ab.ra` ~ `a-v.ab.ra`
   * -*rat* `.at`
   * *berat* `Ra`
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät` `(.es),E.ät-er`
@@ -2990,8 +2989,8 @@
   * volt `v.ot` : `r.wot.e`
   * *vol****u****t* `u` : `.e,u-O` `r.u-O` `kut.ur,r.u-O`
     * : *konter***re***vol****u****t*<i></i>*ion* `(ko)tr,r.u-O` ~ `kot.er,r.u-O`
-* **von** `v` : `.a-v`
-  * *davon* `a-v`
+* **von** `v` : `.a-v` @da-
+  * *davon* `a-v` : `a-v.ab.ra`
   * *vom* `v°`
 * *vor* `O` : `O.n` `O.ts` `O.d-er` `be.O` `.e-O`
   * : ***nach***.~~wie~~.*vor* `ach.O` ~ `ach-o`
@@ -3326,7 +3325,7 @@
 ## TODOs
 
 * entfernen
-  * ` ~ ` (56)
+  * ` ~ ` (51)
   * ` ! ` (106)
   * ` : `
   * @@
