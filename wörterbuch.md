@@ -703,9 +703,9 @@
 * **flekt** `fl`
   * flekt `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.ib.ät` `fl.iO`
-* *fl****ieh*** `(.ih)` : `eNT.ih`
-  * *flieh* = **flieh** `fli`
-  * *fl****oh*** `(.oh)` ! `.oh`
+* -***flieh***- `.ih` : `fl.ih` STS `eNT.ih`
+  * *flieh* `fli` = fließ
+  * -***floh***- `.oh` : `fl.oh` STS `G.oh`
   * → flucht
 * **fließ** `fli`
   * **floss** `flo`
@@ -1386,8 +1386,7 @@
 
 ### [KR](#wörterbuch)
 
-* **kraft** `kra` : `kra.wa` `M.al.kra`
-  * : **kraft***wagen* `kra.wa`
+* **kraft** `kra` : `kra.wa` `fli.kra` `M.al.kra`
   * **kräft** `kr` : `kr.e` `kr.i` `be.kr.i` `M.al.kr.en` `eNT.kr.et`
 * **krank** `kra` : `kra.ha` `kra.H` `kra.wa` `er.kra`
   * *krankenwagen* `kr.ak.wa` ≠ kraftwagen
