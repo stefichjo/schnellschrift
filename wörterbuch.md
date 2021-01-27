@@ -623,9 +623,9 @@
 * *f****eier*** `(.ei-er)` : `(.ei-er).L` `G.ei-ert` `j.ub.ei-er`
 * fein `f.N` : `f.N.H`
 * **feind** `f.ei` : `f.ei.e` `f.ei-L` `f.ei-FT` `f.ei,(g)` `f.ei,(g).T`
-* **fekt** `f` : `.a-f` `.e-f` `.e-f-ol` `p.f` ← fekt
-  * : ef**fekt**iv `.e-f.iv` ! `.e-f.ekt.iv`
-  * : **kon**<i></i>**fekt** `ko.f` ! `ko.f.ekt`
+* **fekt** `f` : `.a-f` `.e-f` `.e-f.iv` `.e-f-ol` `ko.f` `p.f` ← fekt
+  * effektiv `.e-f.ekt.iv`
+  * **kon**fekt `ko.f.ekt`
   * *perfekt* `p.fet`
   * → fit
 * feld `f.ed` : `m.in.f.ed`
@@ -652,8 +652,8 @@
     * *profess* `(o)f.ess` : `(o)f.ess.iO` `(o)f.ess.i-eL` `(o)f.ess.or`
       * *professor* `(o)f`
 * *fest* `f°`
-* *feuer* `feu` : `feu-ig` `.an.feu`
-  * : *feuer*<i></i>*ung* `feu-UNG` ! `feu-er-UNG`
+* *feuer* `feu` : `feu-UNG` `feu-ig` `.an.feu`
+  * *feuerung* `feu-er-UNG`
 * **fig** `fi` : `fi-ur` `ko,fi-ur.iO`
 * fili `f.il.I` : `f.il.I.us`
   * *filius* `f.il.us`
@@ -677,9 +677,8 @@
   * **fund** `fu` : `G.fu` `.ab.fu` `AU.fu` `.emp-fu`
 * **fing**er `fi-er`
 * **finst**er `fi-er`
-* *firm* `im` : `im.a` `im.en` `im.ir`
-  * : *firm*ament `im-met` ! `f.im-met`
-  * : **kon***firm*at*ion* `ko,im-o` ! `ko.f.im-o`
+* *firm* `im` : `im.a` `im.en` `im-met` `im.ir` `ko,im-o`
+  * firm `f.im` : `f.im-met` `ko.f.im-o`
 * **fisch** `fi` : `fi-er` `fi-er` `fi-er.ei` `ho.s.e,fi-er.ei`
   * *fisch* `f.isch`
 * fit → fat
@@ -702,7 +701,7 @@
 * ***fleisch*** `.eisch` : `.eisch.i` `r.id.eisch`
   * *rindfleisch* `ri.eisch`
 * **flekt** `fl`
-  : ! flekt `fl.ekt`
+  * flekt `fl.ekt`
   * **flex** `fl` : `fl.ib.el` `fl.ib.ät` `fl.iO`
 * *fl****ieh*** `(.ih)` : `eNT.ih`
   * *flieh* = **flieh** `fli`
@@ -1128,6 +1127,7 @@
 * *imm****er*** `(.er)` : `(.er):fr` `(.er).in` `(.er),i`
   * : n*imm****er*** `(n.er)` : `(n.er).s.at`
   * *immerhin* `.i-hn`
+* imple*ment* `.impl.e-met` STS : `.impl.e-met.ir` `.impl.e-met.ir-UNG` ← pl
 * *import* `.imp` : `.imp.ir` `.imp.ör` ← port
 * in ← inn
 * *in* `IN` : `IN.s` `IN.ei-ad-er`
@@ -1313,11 +1313,12 @@
 * *kommun* `ko-u` : `ko-u.al` `ko-u.iS` `ko-u.iS.i` `ko-u.ir`
   * : *kommun*<i></i>*ion* `ko-u.iO`
   * *kommunikation* `ko-u-o` ≠ kommunion
-* **kom**plett `kom-pl.et` : `kom-pl.et.ir` ← plett
-  * *komplett* `kom-pl`
-* **kom**<i></i>**pl**ik `kom-pl` : `kom-pl-o`
-  * **kom**<i></i>**pl**iz `kom-pl.ir`
-  * **kom**<i></i>**pl**ex `kom-pl`
+* **kom**plement `kom-l.e-met` : `kom-l.e-met.är` ← pl
+* **kom**plett `kom-l.et` : `kom-l.et.ir` ← pl
+  * *komplett* `kom-l`
+* **kom**<i></i>**pl**ik `kom-l` : `kom-l-o`
+  * **kom**<i></i>**pl**iz `kom-l.ir`
+  * **kom**<i></i>**pl**ex `kom-l`
     * *komplex* `(ko)ex` ≠ komplett
 * **kon**- `ko`
   * : **koll**- `ko`
@@ -1351,7 +1352,7 @@
 * kub `k.ub` : `k.ub.i` `k.ub.iS`
 * kub `k.ub` : `k.ub.a`
   * : kuban**isch** `k.ub.i` ! `k.ub.an.i` ≠ kubisch
-* **küch** `kÜ`
+* **küch** `kÜ` : `kÜ.e`
 * kult `kut` : `kut.iv.ir` `kut.ur` `kut.ur.ell` @-t.iv.ir
   * *kultur* `u-ur` = struktur : `u-ur.ell` `u-ur.iO`
   * *kultus* `.us` : `.us.er` `.us.ko`
@@ -1685,7 +1686,7 @@
   * *damit* `a-M`
 * *mitt* `M` : `kom.o+M.ir`
   * : e*mitt*ier `.e-M.ir` ! `.e-m.it.ir`
-  * *kompromitt* `kom-p.it` : `kom-p.it.ir`
+  * *kompromitt* `kom.it` : `kom.it.ir`
   * → miss
 * mob `m.ob`
   * : mobil `m.ob.il` : `.aut.m.ob.il` `m.ob.ar` `m.ob.ir` `m.ob.ät`
@@ -1811,7 +1812,7 @@
 * ***not*** `.ot` : `(UN.ng)-t .ot.w.i`
   * *unbedingt.notwendig* `UN.be.o-w.i`
   * ***nöt*** `.öt`
-* ***not*** `.ot` : `.ot.e` `.ot.ir` `.ot.ar` `.ot.ar.at` `.ot.ar.ieL`
+* ***not*** `.ot` : `.ot.e` `.ot.ir` `.ot.if-o` STS `.ot.ar` `.ot.ar.at` `.ot.ar.ieL`
   * *not****iz*** `(.iz)`
   * *notariell* `.ot.ieL`
 * ***nug*** → genug
@@ -1897,7 +1898,7 @@
   * -*partei* `.ei` : `I.ei-en` → krat union
 * ***pass*** `pass` : `pass.ir` `pass.us` ← pand
 * pass ← pati
-* **p**at `p` : `kom-p.ib.el` `kom-p.ib.ät`
+* **p**at `p` : `kom.ib.el` `kom.ib.ät`
 * *patent* `pa°` Neubauer : `pa°.a`
 * pati `p.az` : `p.az.eNT` `p.az.eNT-in`
   * ***pass*** `pass` : `pass-o`
@@ -1925,13 +1926,13 @@
 * phras `fr.as` : `fr.as.o-I`
 * **phys** `fy` : `fy.ik` `fy.ik.i`
   * : **phys**<i></i>**isch** `fy.i` ! `f.ys.i`
+* pl → komplement komplett implement
 * **plan** `pla`
   * -***plan*** `.an`
 * **plant** `pla` : `pla.asch.e` `tra.pla.O`
 * ***platz*** `.az` : `Ts.az` `si:az`
   * ***plätz*** `.ez` : `.ez.e`
 * plaus `pl.aus` : `pl.aus.ib.el` `pl.aus.ib.ät`
-* plett → komlett
 * plik pliz plex → komplik
 * plod `p.lod`
   * : *ex*plodier `.e-pl.od.ir`
@@ -2663,8 +2664,7 @@
 * stein `st.N`
   * -*stein* `N` → bims nier schorn @@
 * stell ← steh
-* ***stell*** `.ell`
-  * : **kon*****stell***at*ion* `ko.ell.iO`
+* ***stell*** `.ell` : `ko.ell.iO`
 * ***steig*** `.eig` : `I .um-sa.eig-er`
   * *die*.*umsatzsteigerung* `I .um.eig-er`
   * ***stieg*** `.ig`
@@ -3273,11 +3273,12 @@
   * **zucht** `.ucht`
     * -z**u**cht `u` : vieh
     * **zücht** `.ücht`
-* ***ziel*** `.il` : `.il,u`
-* zie~~m~~ `z.i` : `z.i-L`
+* ***ziel*** `.il` : `.il,u
+* zie~~m~~ `z.i` : `z.i-L` = zimm
 * *zig****ar*** `(ar)` : `(ar).et.e` `(ar).ill.o` ← zigarr
 * *zig****arr*** `(arr)` : `(ar).e` `(arr),rau` → zigar
 * **zil** `.il` : `ko.il`
+* zi~~mm~~ `z.i` = ziem
 * **zip** `.ip` : `ko.ip.ir`
   * *prinzip* `(.ip)` : `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
     * **prinz** `pri`
