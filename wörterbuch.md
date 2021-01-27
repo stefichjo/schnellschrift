@@ -713,6 +713,7 @@
     * → einfluss
   * **flüss** `flÜ` : `flÜ.i`
     * *flüssig* `.üss.i`
+* floh `fl.oh` STS
 * ***flott*** `.ot` : `.ot.e` `ha.el.ot.e`
 * **flu** `flu` : `IN.flu.ez.a` `ko.flu.ez` STS
   * *influenza* `IN.flu.a`
@@ -760,11 +761,10 @@
   * *fundament* `fu-t`
   * → fus
 * fung `f.ung` : `f.ung.ir`
-  * **funkt** `fu` : `fu-o` `fu-o.ir`
-    * : **funkt**or `fu.or` ! `f.ukt.or`
-    * : **funkt***ion*är `fu-o.är` ! `f.uk.t.iO.är`
+  * → funkt
 * funk `f.uk` : `f.uk.e` `f.uk.el` `f.uk-er` `ru:f.uk`
   * *rundfunk* `u,u`
+* **funkt** `fu` : `fu-o` `fu-o.är` `fu-o.ir` ← fung
 * **f**ür `f` : `f.ei-ad-er` `.a-f`
 * furcht `f.ucht` : `f.ucht.bar` `f.ucht.os` `f.ucht-Sa`
   * fürcht `f.ücht` : `f.ücht.et.e` `f.ücht.L` `be.f.ücht`
@@ -839,10 +839,12 @@
   * → gift
 * geburt ← gebär ← bär
 * gefahr ← fahr
-* *gegen* `g` : `g.ei-ad-er` `g-t` `g-t.ig` `be.g` `eNT.g` `hn.g` `g.I` `g.d` `g.m.i` `g.U`
-  * : *da*<i></i>*gegen* `.a-g` ! `da.g` ≠ schlag
+* *gegen* `g`
+  * : `g.ei-ad-er` `g-t` `g-t.ig` `be.g` `eNT.g` `hn.g` `.a-g` `g.I` `g.d` `g.m.i` `g.U`
+  * : `g-er` `g-er.in` `g-er.i` `g-er.FT`
+  * **da***gegen* `da.g` ≠ schlag
   * *geg****end*** `(.ed)` : `.um.ed`
-  * *gegn*er `g.er` ! `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
+  * *gegner* `g.eg-er` : `g.eg-er.in` `g.eg-er.i` `g.eg-er.FT`
 * **ge**h `ge` : `ge.ed` `.S.ge` `N.ge.ed` `eNT.ge` `E.ge` `O-Ü.ge` `w.T.ge.ed` `Z.gru.ge`
   * → ging
 * **geist** `g.ei`
