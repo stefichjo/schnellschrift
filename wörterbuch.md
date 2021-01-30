@@ -38,6 +38,8 @@
   * -*alien* `.I.en`
   * -il `.il`
     * -ilität `.ät`
+    * -ilitier `.ir` @-ilitier
+      * habilitier `h.ab.il.ir`
 * *all* `.al` : `wet.al` `O.al`
   * *vor.allem* `O-a`
 * als `.as`
@@ -57,6 +59,7 @@
 * -an `.an`
   * -aner `.er`
   * -an*isch* `.i` @-anisch
+    * *organisch* `.og.an.i`
     * *romanisch* `r.om.an.i`
 * ander `.ad-er` `N.ad-er` `UNTER.ad-er`
   * *ande****rs*** `(rs)`
@@ -851,7 +854,7 @@
 * geld `g.ed` : `g.ed-er` `g.ed,(.e)` `b.ar.g.ed` `ki.g.ed` `.ös.e-g.ed`
   * *kindergeld* `ki.g`
 * gelt `get` : `get.ed` `eNT.get` `UN.eNT.get.L`
-  * gilt `git` : `E.git` ! `E,git`
+  * gilt `git` : `E,git`
   * galt `gat`
   * golt `got` : `G.got`
   * gült `güt` : `güt.ig` `güt.ig.T` `UN,güt.ig` `.ed,güt.ig` `gl,güt.ig` `echt,güt.ig.T`
@@ -919,12 +922,8 @@
 * ***grad*** `.ad`
   * → gress
 * gramm ← graph
-* **graph** `gra` : `gra.ik` `gra.i` `gra.it` `bi.gra.I` `f.on.gra.i` `t.e-gra`
-  * : biblio**graph**ie `b.ibl.i-gra.I` ! `b.ibl.i-o+gra.I`
-  * : **dem**o**graph**ie `d.gra.I` ! `d.o+gra.I`
-  * : **ge**o**graph** `ge-gra` ! `g.e-o+gra`
-  * : steno**graph** `st.en.gra` ! `st.en.o+gra`
-    * ~~*steno*~~**graph** `(gra)`
+* **graph** `gra` : `gra.ik` `gra.i` `gra.it` `bi.gra.I` `b.ibl.i-gra.I` `d.gra.I` `f.on.gra.i` `ge-gra` `st.en.gra` `t.e-gra` @-o
+  * ~~*steno*~~**graph** `(gra)`
   * *paragraph* `pa`
   * gramm `gr.am` : `gr.am.f` `f.on.gr.am` `t.e-gr.am`
     * *grammophon* `gr.am.on`
@@ -962,8 +961,7 @@
     * *hätt* `.ät`
   * → haft
   * → heb
-* hab `h.ab` :  `h.ab.us`
-  * : habilitier `h.ab.ir` ! `h.ab.il.ir`
+* hab `h.ab` : `h.ab.ir`  `h.ab.us` @ilitier
 * **haft** `ha` : `ha,i` `.ei-ha` = handschrift meine.damen.und.herren ← hab
   * : ~~nam~~**haft** `(ha)` STS
 * halb `h.ab` : `h.ab.ir` `h.ab-er` `h.ab.T` `(r) .od-UNG h.ab-er`
@@ -973,10 +971,10 @@
   * **hälft** `h` : `h.e` `.il:h.e`
 * *hall* `ha` : `ha.e` `schw.im:ha.e`
 * hals `h.a-s`
-* *hal****t*** `(-t)` : `(-t).bar` `(-t).bar.T` `(-t).l.o` `(-t).ed` `(-t).UNG` `G-t` `.an-t` `.an-t.ed` `AU-t` `.S-t` `N-t` `er-t` `IN-t` `.in-t` `ach-t.ig` `rÜ-t.l.o` `sa.E-t` `E-t.is` `E-t.is.i` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t).et` `sI (-t)`
-  * : *haus*<i></i>*hal****t*** `.aus-t` ! `.aus,(-t)`
+* *hal****t*** `(-t)` : `(-t).bar` `(-t).bar.T` `(-t).l.o` `(-t).ed` `(-t).UNG` `G-t` `.an-t` `.an-t.ed` `AU-t` `.S-t` `N-t` `er-t` `IN-t` `.in-t` `ach-t.ig` `rÜ-t.l.o` `sa.E-t` `.aus-t` `(-t).I` `(-t):wr` `dU (-t)` `er (-t)` `.ir (-t).et` `sI (-t)`
+  * *haushalt* `.aus,(-t)`
   * *haltung* `-t.UNG`
-  * *häl****t*** `(-t)` : `E-t.is`
+  * *häl****t*** `(-t)` : `E-t.is` `E-t.is.i`
     * -*verhältnis* `.is` → arbeits
   * : hielt `hit`
     * *hielt* `hi` : `.ab,hi` `be,hi` `eNT+hi` `(er)hi` `UNTER,hi` `u-rÜ,hi`
@@ -1001,8 +999,7 @@
       * *in.diesem.zusammenhang* `IN.iS.ang`
 * harf `h.af` : `h.af.e`
 * harm `h.am` : `h.am.os`
-* *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i`
-  * *harmon*isieren `h.am.ir` ! `h.am.is.ir` ≠ harmonieren
+* *harmon* `h.am` : `h.am.I` `h.am.ir` `h.am.i` @-isier
 * ***harr*** `arr` : `be.arr.L.T` @-lichkeit
 * **hart** `hat`
   * **härt** `het` : `het.e` `het.est` `G.het` `.ab.het` `er.het`
@@ -1012,8 +1009,8 @@
   * **häupt** `häu` : `häu-er` `häu.ing`
 * ***haus*** `.aus` : `ho.aus` `ra.aus` `kra.aus` `sta.aus` `.im.aus.e` `v.aus.S` `ho.aus`
   * *hohes.haus* `ho-au` ≠ hochhaus
-  * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en`
-    * : *ge****häus***e `G.äus.e` ! `G.h.äus.e`
+  * ***häus*** `.äus` : `.äus.er` `.äus.L` `.äus.ch.en` `G.äus.e`
+    * *ge*häuse `G.h.äus.e`
 * heb `h.eb` : `h.eb.e` `h.eb.el` `schat.h.eb.el`
   * *heb* `h.e` : `.ab.h.e` `.an.h.e` `AU.h.e` `be.h.e` `er.h.e` `er.h.e-L` `Ü.h.e-L`
   * *erheblich* `er.L`
@@ -1168,7 +1165,9 @@
 * irr `.irr`
   * ~~irr~~*tum* `(tum)` ⇒ `tum`
 * irrit `.irr.it` : `.irr.it.ir` `.irr.it.iO`
-* -is- : `.iO`/`-o` `.ir`
+* -is- : `.iO`/`-o`
+  * -isier `.ir`
+    * *harmonisieren* `h.am.is.ir` ≠ harmonieren
 * -**isch** `.i`/`.isch`
 * -*ismus* `.iS`
 * ist ← sein
@@ -1577,7 +1576,7 @@
 * **man** `ma`
   * -**mand** `ma` → je nie
 * **man** `ma` : `ma.ell` `p.ma.eNT`
-  * : *manipul* `ma,u-` : `ma,u-O` `ma,u.ir`
+  * *manipul* `ma,u-` : `ma,u-O` `ma,u.ir`
   * *permanent* `p.m.an.eNT`
 * *manch* `aCH` `aCH.l.ei`
   * : *manch*er `aCH-er` ! `aCH.er`
@@ -1829,6 +1828,8 @@
 
 ## [O](#wörterbuch)
 
+* -o @-o
+  * -o**graph** `-o+gra` : `b.ibl.i-o+gra.I` `d.o+gra.I` `g.e-o+gra` `st.en.o+gra`
 * ob `.ob`
   * oben `.ob` ← ob
   * ober `.ob-er` ← ob
@@ -1855,8 +1856,7 @@
   * *abgeordnet* `.ab.G`
   * *außerordentlich* `.auss.L`
   * -*ordnung* `.o` → gemein
-* org `.org` : `.og.an` `.og.iO` `.og.ir` `.og.iS.en`
-  * organ**isch** `.og.i` ! `.og.an.i`
+* org `.org` : `.og.an` `.og.i` `.og.iO` `.og.ir` `.og.iS.en` @-anisch
 * *orient* `.or` : `.or.ir` `.or.ir-UNG`
 * *orig* `.og` : `.og.i-aL`
 * orn `.on`
@@ -3321,7 +3321,7 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (98)
+  * ` ! ` (74)
   * ` : `
   * @@
 
