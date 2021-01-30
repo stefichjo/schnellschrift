@@ -260,7 +260,7 @@
     * *bürgerliches.gesetzbuch* `bÜ-bu`
     * *mitbürger* `M-Ü-er`
 * bus `b.us`
-  * -*bus* `(.us)` → aut
+  * -*bus* `(.us)` ⇒ `.us` → aut
 * butter `b.ut-er`
 
 ### [BR](#wörterbuch)
@@ -2062,8 +2062,7 @@
   * *weltraum* `w.aum`
   * ***räum*** : `.äum` : `.äum.e`
 * raup `r.aup` : `r.aup.e` `r.aup.eug` `r.aup,(er)`
-* **re** `r` : `r.al` `r.al.ir` `r.al.ät`
-  * *realisieren* `r.ir`
+* **re** `r` : `r.al` `r.al.ir` `r.al.ät` STS
 * real ← re
 * *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(be)ech` `(er)ech` STS
   * : *er*rech `(er)r.ech`
@@ -2071,17 +2070,17 @@
   * *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `be.S.o:er-r.ed`
-* **reg** `r` : `G.r.elt` `r.iO` `r.i-aL`
+* reg `r.eg` : `r.är` `r.iv` `r.ir`
   * *reg****el*** `(.el)`
-    * : `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` @STS
-    * : `(.el)-UNG` `.il,(.el)` `IN.el`
-    * *regel* `r.el` : `G.r.elt` `r.el.os` `r.el.i` `r.el.i-T`
+    * `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` @STS
+      * *regel* `r.el` : `G.r.elt` `r.el.os` `r.el.i` `r.el.i-T`
+    * `(.el)-UNG` `.il,(.el)` `IN.el`
   * *reg****ier***en `(.ir)` : `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
     * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
       * *landesregierung* `(.es).ir-UNG`
-  * reg*ion* `r.eg.iO` : `r.eg.i-aL` ≠ religion
-  * *regul*ier `r.ul.ir` ≠ regier
+  * *reg****ion*** `(.iO)` : `(.i-aL)` = nation national @STS
+  * *regul* `r.ul` : `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ @STS
   * → rig
   * → rekt
 * ***reich*** `.eich` : `.eich.L` `be.eich` `er.eich` `Ü.eich`
@@ -2107,7 +2106,7 @@
   * *konrektor* `ko.r.ekt.or`
   * → adress
 * *relat* `r` : `r.iO` `r.iv` `r.iv.ät` ← lat
-  * relat*ion* `r.l.at.iO` ≠ region
+  * (relat*ion*) `r.e-l.at.iO` ≠ religion
   * *relativität* `r.ät`
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.eNT` `k.or-r.ez` `k.or-r.ir`
@@ -3364,4 +3363,6 @@
 * Ausweichen in beide Richtungen: erklären, ernähren
 
 * *regelmäßigkeit* `r.el.ess.i-T` @STS
+  * reg*ion* `r.eg.iO` : `r.eg.i-aL` ≠ religion @STS
+  * *realisieren* `r.ir`
 
