@@ -2071,7 +2071,7 @@
   * *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `be.S.o:er-r.ed`
-* reg `r.eg` : `r.är` `r.iv`
+* **reg** `r` : `r.är` `r.iv`
   * *reg****el*** `(.el)`
     * `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` @STS
     * `(.el)-UNG` `.il,(.el)` `IN.el`
@@ -2125,10 +2125,9 @@
   * *gericht* `G,i` : `G,i-L` `la,i` `.o-la,i`
     * *gerichtlich* `(G)i-L`
     * : **amt**s*ge***richt** `.a,i` `.amt,i`
-* *rig* = **r**ig `r` ← reg
-  * : di*rig* `d.i-r` : `d.i-r.eNT` `d.i-r.ir` `d.i-r.iS.i`
-    * *dirigent* `di.eNT`
-  * : kor*rig*ieren `k.or-r.ir` ! `k.or-r.ig.ir`
+* **r**ig `r` : `d.i-r` `d.i-r.eNT` `d.i-r.ir` `d.i-r.iS.i` `k.or-r.ir` ← reg
+  * korrigier `k.or-r.ig.ir`
+  * *dirigent* `di.eNT`
 * rind `r.id` : `r.id-er`
   * *rindvieh* `ri.ih` `(i),(i)`
 * -***ring***- `.ing` : `r.ing` `G.ing` `E.ing`
