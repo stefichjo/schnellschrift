@@ -138,6 +138,7 @@
 * band ← bind
 * bank `b.ak` : `b.ak.en` `bu:b.ak` `zra.b.ak`
   * bänk `b.ek` : `b.ek.e`
+* bankrott `b.ak-r.ot` ← rupt
 * bar `b.ar` : `b.ar.FT`
 * bär `b.är` : `G.b.är`
   * bier `b.ir` STS : `G.b.ir`
@@ -2147,10 +2148,11 @@
 * -***ruf***- `.uf` : `r.uf` `AU.uf` `.S.uf` `b.uf`
   * *aufruf* `AU-u`
   * -***rief***- `.if` : `r.if` `.S.if`
-* rump ← rupt
-* *rupt* `r.up` : `.e-r.up-o`
-  * : e*rupt*iv `.e-r.up.iv` ! `.e-r.upt.iv`
-  * *rott* `-r.ot` : `b.ak-r.ot`
+* *rump* `r.up` STS : `k.or-r.up.ir`
+  * → rupt
+* *rupt* `r.up` : `.e-r.up-o` `.e-r.up.iv` `k.or-r.up-o` ← rump
+  * eruptiv `.e-r.upt.iv`
+  * → bankrott
 * **rund** `ru`
 * *russ* `russ`
 
