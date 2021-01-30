@@ -2148,9 +2148,7 @@
 * -***ruf***- `.uf` : `r.uf` `AU.uf` `.S.uf` `b.uf`
   * *aufruf* `AU-u`
   * -***rief***- `.if` : `r.if` `.S.if`
-* *rump* `r.up` STS : `k.or-r.up.ir`
-  * → rupt
-* *rupt* `r.up` : `.e-r.up-o` `.e-r.up.iv` `k.or-r.up-o` ← rump
+* *rump* STS, *rupt* `r.up` : `.e-r.up-o` `.e-r.up.iv` `k.or-r.up.ir` `k.or-r.up-o`
   * eruptiv `.e-r.upt.iv`
   * → bankrott
 * **rund** `ru`
