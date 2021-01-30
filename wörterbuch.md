@@ -1776,7 +1776,7 @@
       * *kulturnation* `kut.ur.iO`
   * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional @STS
     * *international* `(I)t-er-a`
-  * *nat****ur** `(.ur)` : `(.Yr).L`
+  * *nat****ur*** `(.ur)` : `(.Yr).L`
 * ***nau*** → genau
 * naut `n.aut` : `n.aut.ik` `n.aut.ik-er`
   * -*naut* `.aut` → aero astro kosmo
@@ -3334,10 +3334,11 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (38)
+  * ` ! ` (30)
   * ` : `
   * @@
 
+* ` * ` (z.B. "ich glaube")
 * ⇒
 * =
 * STS
