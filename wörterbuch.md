@@ -1,5 +1,3 @@
-
-
 # Wörterbuch
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
@@ -365,6 +363,7 @@
   * → dank
 * denn ← dann
 * dens `d.e-s` : `ko.d.e-s.at` `ko.d.e-s.ir`
+* depot `(d.e)p.o` ← post
 * *de****r*** `(r)` : `(r).a.i` `.S-er` `(I)-er`
 * *d****es*** `(.es)` : `(.es)ha` `(.es)w`
 * *desto* `d.est`
@@ -1119,6 +1118,8 @@
   * -*i*en*isch* `I.i`
 * -ier- `.ir`
 * -*ifik*- `.if` : `.if-o` ← fak
+  * -*ifisch* `.i` @-ifisch
+    * *pazifisch* `p.az.if.i`
   * -*ifiz*- `.if` : `.if.ir` @-ifizier
     * modifizieren `m.od.if.iz.ir`
     * *qualifizier* `qu.al.ir`
@@ -1127,6 +1128,8 @@
   * -*ihnen* `i` → bei mit um dank
 * ihr `.ir`: `.ir-er`
 * *illustr* `.ill` : `.ill.ir` `.ill.iO`
+* -ik `.ik`
+  * -*ikalisch* `.ik.i`
 * im ← in
 * *imm****er*** `(.er)` : `(.er):fr` `(.er).in` `(.er),i`
   * : n*imm****er*** `(n.er)` : `(n.er).s.at`
@@ -1910,8 +1913,7 @@
 * pati `p.az` : `p.az.eNT` `p.az.eNT-in`
   * ***pass*** `pass` : `pass-o`
 * **pausch** `pau` : `pau.al` `pau.al.e` `pau.al.ir` @-isier
-* paz `p.az` : `p.az.ik` `p.az.ist` `p.az.iS`
-  * pazif**isch** `p.az.i` ! `p.az.if.i`
+* paz `p.az` : `p.az.ik` `p.az.ist` `p.az.iS` @-ifisch
   * → pakt
 * pend `p.ed` : `p.ed.el`
   * pend `p.ang` : `p.ang.d.ang`
@@ -1930,8 +1932,8 @@
 * phon `f.on` : `f.on.ik` `f.on.i`
   * -ph~~on~~ `f` → grammo tel
 * phras `fr.as` : `fr.as.o-I`
-* **phys** `fy` : `fy.ik` `fy.ik.i`
-  * : **phys**<i></i>**isch** `fy.i` ! `f.ys.i`
+* **phys** `fy` : `fy.ik` `fy.ik.i` `fy.i`
+  * phys**isch** `f.ys.i`
 * pl → komplement komplett implement
 * **plan** `pla`
   * -***plan*** `.an`
@@ -1954,24 +1956,24 @@
     * : **hand**els*politik* `ha.el-t.ik`
 * *poliz* `li` : `li.ei` `li.ist` `(.es),li.ei`
   * *landespolizei* `(.es).l.ei`
-* ***pon*** `.on` : `ds.on.ir` `kom.on.eNT.e` `kom.on.ir` `tra.on.ir`
-  * : de***pon***ieren `d.e-on.ir` ! `(d.e)p.on.ir`
+* ***pon*** `.on` : `d.e-on.ir` `ds.on.ir` `kom.on.eNT.e` `kom.on.ir` `tra.on.ir`
+  * deponier `(d.e)p.on.ir` ⟸ depot
   * *komponente* `kom.o-nt.e`
   * *posit* `pos` : `pos.iv`
     * *position* `pos` : `(ds)pos` `kom-os`
       * *disposition* `ds-os`
       * *komposition* `kom-o`
-    * **post** `po` : `po.ir` `po.al.i` `po.a`
-      * : **post**ulat `po.at` ! `p.o+st.at`
-      * : **post**ulier `po.ir` ! `po.ul.ir`
-      * : *kom***post** ⇒ *komp****ost*** `kom.ost` : `kom.o+st.ir`
-    * → pot
+    * → post
 * port `pot` : `pot.al` `(d)pot.ir` `(o)pot.iO` `UN.o-pot.iO.irt` `(o)pot.i-aL` `tra.pot`
   * *proportional* `(o)pot.al`
   * *unproportioniert* `UN.o-port.irt`
   * → import
-* pot `p.o` ← pon
-  * : depot `(d.e)p.o`
+* **post** `po` : `po.al.i` `po.at` `po.ir` `po.a` ← pon
+  * postier `p.o+st.ir` STS ≠ postulieren
+  * postulier `p.o+st.ul.ir` ≠ postieren
+  * *postulat* `p.o+st.at`
+  * : *kom***post** ⇒ *komp****ost*** `kom.ost` : `kom.o+st.ir`
+  * → depot
 * puber `p.ub-er` : `p.ub-er.ir` `p.ub-er.ät`
 * *publ* `p.ub` : `p.ub.ik` STS `p.ub.ir` `p.ub-o` `p.ub.um` `p.ub.ist` `p.ub.iS.i` `p.ub.ät` `(r)p.ub.ik` `(r)p.ub.ik-er` `(r)p.ub.ik.i` `bu:(r)p.ub.ik`
   * *publikum* `p.ub`
@@ -2033,12 +2035,12 @@
 * *rak****et*** `(.et)` : `(.et).e` `tr.eg-er,(.et).e`
 * rang `r.ang` : `r.ang.ir` `O.r.ang`
 * ras `r.as`
-* **rat** `ra` : `ra.os` `G.ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da-
-  * : **rat***geber* `ra.g` ! `ra.g.eb-er`
-  * : **rat***sam* `ra-Sa` ! `ra-s.am`
-  * : *er***rat**en `er-ra` ! `er-r.at`
+* **rat** `ra` : `ra.g` `ra.os` `ra-Sa` `G.ra` `be.ra` STS `er-ra` STS `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da-
+  * **rat**geber `ra.g.eb-er`
+  * **rat**sam `ra-s.am`
+  * *er*rat `er-r.at` ≠ beraten
+  * *berat* `Ra` = errat STS
   * -*rat* `.at`
-  * *berat* `Ra`
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät` `(.es),E.ät-er`
     * *landesverräter* `(.es).ät-er`
     * *rätsel* `t-s.el` : `t-s.el.ha`
@@ -3334,6 +3336,7 @@
 * ⇒
 * =
 * STS
+* ⟸
 
 * `d.N` `k.N` `m.N` `s.N`
 
