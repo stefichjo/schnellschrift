@@ -2043,11 +2043,9 @@
 * *rak****et*** `(.et)` : `(.et).e` `tr.eg-er,(.et).e`
 * rang `r.ang` : `r.ang.ir` `O.r.ang`
 * ras `r.as`
-* **rat** `ra` : `ra.g` `ra.os` `ra-Sa` `G.ra` `be.ra` STS `er-ra` STS `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da-
+* **rat** `ra` : `ra.g` `ra.os` `ra-Sa` `G.ra` `be.ra` `er-ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da- @STS
   * **rat**geber `ra.g.eb-er`
   * **rat**sam `ra-s.am`
-  * *er*rat `er-r.at` ≠ beraten
-  * *berat* `Ra` = errat STS
   * -*rat* `.at`
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät` `(.es),E.ät-er`
     * *landesverräter* `(.es).ät-er`
@@ -3369,4 +3367,6 @@
 * *relig* `r.i` : `r.i-iO` `r.i.ös` `r.i.os.ät`
 * relat*ion* `r.l.at.iO` ≠ religion
 * *regul* `r.ul` : `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ
+* *er*rat `er-r.at` ≠ beraten
+* *berat* `Ra` = errat STS
 
