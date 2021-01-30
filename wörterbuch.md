@@ -2071,8 +2071,11 @@
   * *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `be.S.o:er-r.ed`
-* **reg** `r` : `G.r.elt` `r.el.i` `r.iO` `r.i-aL`
-  * *reg****el*** `(.el)` : `(.el)-UNG` `(.el).i` `(.el).i-T` @STS `.il,(.el)` `IN.el`
+* **reg** `r` : `G.r.elt` `r.iO` `r.i-aL`
+  * *reg****el*** `(.el)`
+    * : `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` @STS
+    * : `(.el)-UNG` `.il,(.el)` `IN.el`
+    * *regel* `r.el` : `G.r.elt` `r.el.os` `r.el.i` `r.el.i-T`
   * *reg****ier***en `(.ir)` : `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
     * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
