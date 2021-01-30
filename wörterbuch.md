@@ -1188,7 +1188,10 @@
 * -ist `.ist` @-ist
   * *egoist* `.eg.i+st`
   * -*istisch* `.iS.i` @-istisch
+    * *absolutistisch* `.ab.ut.i`
     * *inflationistisch* `IN.fla.i`
+    * *nationalistisch* `(n.al).i`
+    * *rationalistisch* `ra.i-aL.i`
     * *seminaristisch* `(n.ar).i`
 * it `.it` : `IN.it.iaL.e` `IN.it.iaL.en` `IN.it.iv.e` `IN.it.or` `tra.it`
   * *initiative* `IN.iv.e`
@@ -1765,15 +1768,13 @@
   * *namentlich* `-t.L`
   * *im.namen* `.im.en`
   * ***näm*** `.äm` : `.äm.L`
-* nat
-  * *nat****ur** `(.ur)` : `(.Yr).L`
-  * *nat****ional** `(.i-aL)`
-  * -*national* `.i-aL` : `(I)t-er.i-aL`
-
-* ~~nat~~ : `(.ur)` `(.iO)` `kut.ur.iO`
-
-  * *national* `(n.al)`
+* **nat** `na` STS : `na.iO` `na.iO.ch.en` `na.i-aL` `na.i-al.ät` `(I)t-er.na.i-aL` `kut.ur.na.iO`
+  * *nati****on*** `(.on)` STS : `(.ön).ch.en` `kut.ur+(.on)`
+    * *nat****ion** `(.iO)` : `(.iO).ch.en` `kut.ur,(.iO)` = region STS
+      * *kulturnation* `kut.ur.iO`
+  * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional @STS
     * *international* `(I)t-er-a`
+  * *nat****ur** `(.ur)` : `(.Yr).L`
 * ***nau*** → genau
 * naut `n.aut` : `n.aut.ik` `n.aut.ik-er`
   * -*naut* `.aut` → aero astro kosmo
@@ -2050,9 +2051,8 @@
     * *landesverräter* `(.es).ät-er`
     * *rätsel* `t-s.el` : `t-s.el.ha`
   * riet `r.iet`
-* **rat** `ra` : `ra-e` `ra.if-o` `ra.if.ir` `ra.iO` `ra.iO.ir` `ra.iO.ir-UNG` `ra.i-aL` `ra.i-aL.ir` `ra.i-aL.ir-UNG` `ra.i-aL.iS.i` `ra.iO.ir` `ra.i-eL` `IN 4 ra.en`
+* **rat** `ra` : `ra-e` `ra.if-o` `ra.if.ir` `ra.iO` `ra.iO.ir` `ra.iO.ir-UNG` `ra.i-aL` `ra.i-aL.ir` `ra.i-aL.ir-UNG` `ra.i-aL.iS.i` `ra.iO.ir` `ra.i-eL` `IN 4 ra.en` @-istisch
   * *rate* `ra.e` ≠ rat
-  * *rationalistisch* `ra.i-aL.i`
   * *rationalisierung* `ra.ir-UNG`
   * *rationier* `r.at.ir`
 * rätsel ← rat
@@ -2075,11 +2075,11 @@
     * `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` @STS
       * *regel* `r.el` : `G.r.elt` `r.el.os` `r.el.i` `r.el.i-T`
     * `(.el)-UNG` `.il,(.el)` `IN.el`
-  * *reg****ier***en `(.ir)` : `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
+  * *reg****ier*** `(.ir)` : `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
     * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
       * *landesregierung* `(.es).ir-UNG`
-  * *reg****ion*** `(.iO)` : `(.i-aL)` = nation national @STS
+  * *reg****ion*** `(.iO)` : `(.i-aL)` = nation @STS
   * *regul* `r.ul` : `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ @STS
   * → rig
   * → rekt
@@ -2374,8 +2374,7 @@
   * *absolv* `.ab-s.ow` : `.ab-s.ow.ir` `.ab-s.ow.eNT`
   * *insolvenz* `IN.s.o`
   * **s**ol `s` : `r.s.ut` `r.s.iO`
-    * *absol* `ab` : `.ab.ut` `.ab.iS` `.ab.iS.i`
-      * *absolutistisch* `.ab.ut.i`
+    * *absol* `ab` : `.ab.ut` `.ab.iS` `.ab.iS.i` @-istisch
 * *sommer* `s.om`
 * son `s.on` : `s.on.at.e` `ds.s.on.az`
   * *dissonanz* `d.is-s.o`
