@@ -181,7 +181,7 @@
 * bett `b.et` STS
 * *bezichtig* `be.z.i` ← zeih
 * *bezirk* `be.ik` ← zirk
-  * -*bezirk* `(.ik)` → regier verwalt
+  * -*bezirk* `(.ik)` → regierung verwalt
 * **bi** `bi` : `bi.al`
 * *bibel* `bib`
 * bibl `b.ibl` : `b.ibl.gra.I`
@@ -310,6 +310,8 @@
   * *chemisch* `ch.em.i`
   * *chemikalien* `ch.em.ik.I.en`
   * *biochemie* `b.i-ch.I`
+* chef `sch.ef` : `sch.ef.in` `(.ir)-UNG:sch.ef`
+  * *regierung*schef `ir-UNG.sch.ef`
 * **chin** `chi` : `chi.a` `chi.es.e` `chi.es.in` `chi.es.i`
 * chlor `chl.or`
 
@@ -930,7 +932,7 @@
   * gramm `gr.am` : `gr.am.f` `f.on.gr.am` `t.e-gr.am`
     * *grammophon* `gr.am.on`
     * *programm* `(o)gra` : `(o)gra.ir`
-      * -*programm* `gra` → reg wahl
+      * -*programm* `gra` → regierung wahl
 * grav `gr.aw` : `gr.aw-ur` `gr.aw-o`
 * ***greif*** `.eif`
   * ***griff*** `.if` : `-t;an.if:pa`
@@ -1454,9 +1456,7 @@
 * last ← lad
 * lat `l.at` : `l.at-er.al` ← fer
   * -*lateral* `.al` → bi mult
-  * *relat* `r` : `r.iO` `r.iv` `r.iv.ät`
-    * relat*ion* `r.l.at.iO` ≠ region, regulation
-    * : *relativität* `r.ät`
+  * → relat
 * laub `l.aub`
   * -*l****au****b* `-au`
     * : *er*<i></i>*l****au****b*en `er-au` : `er-au.is`
@@ -1714,9 +1714,8 @@
     * → macht
   * → mocht
 * *mom****ent*** `(met)` : `tr.eg.H,(met)` ← mov
-* *mon****at*** `(.at)` : `(.at).L` `.im (g).at` `(I)let.at.en` `(I)n,(-st).at.en` `v.at.at`
-  * *in.den.nächsten.monaten* `(I)n,-st (.at).en`
-  * *in.den.letzten.monaten* `(I)let,(.at).en`
+* *mon****at*** `(.at)` : `(.at).L` `.im (g)+(.at)` `(I)let,(.at).en` `(I)n,(-st),(.at).en` `v (.at) Z (.at)`
+  * *von.monat.zu.monat* `v.at.at`
 * mono- `m.on.o`
 * -**monstr**- `mo` : `most.er` `mo.um` `mo.ät` `d.e-mo-o` `d.e-mo.ir`
   * *monstr* `mo-s` : `mos.um` `mos.ät`
@@ -1766,7 +1765,13 @@
   * *namentlich* `-t.L`
   * *im.namen* `.im.en`
   * ***näm*** `.äm` : `.äm.L`
-* ~~nat~~ : `(.ur)` `(.Yr).L` `(.iO)` `kut.ur.iO` `(.i-aL)` `(I)t-er.i-aL`
+* nat
+  * *nat****ur** `(.ur)` : `(.Yr).L`
+  * *nat****ional** `(.i-aL)`
+  * -*national* `.i-aL` : `(I)t-er.i-aL`
+
+* ~~nat~~ : `(.ur)` `(.iO)` `kut.ur.iO`
+
   * *national* `(n.al)`
     * *international* `(I)t-er-a`
 * ***nau*** → genau
@@ -2044,7 +2049,7 @@
   * *rät* `.ät` : `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät` `(.es),E.ät-er`
     * *landesverräter* `(.es).ät-er`
     * *rätsel* `t-s.el` : `t-s.el.ha`
-  * **riet** `ri` ! `r.iet`
+  * riet `r.iet`
 * **rat** `ra` : `ra-e` `ra.if-o` `ra.if.ir` `ra.iO` `ra.iO.ir` `ra.iO.ir-UNG` `ra.i-aL` `ra.i-aL.ir` `ra.i-aL.ir-UNG` `ra.i-aL.iS.i` `ra.iO.ir` `ra.i-eL` `IN 4 ra.en`
   * *rate* `ra.e` ≠ rat
   * *rationalistisch* `ra.i-aL.i`
@@ -2060,27 +2065,21 @@
 * **re** `r` : `r.al` `r.al.ir` `r.al.ät`
   * *realisieren* `r.ir`
 * real ← re
-* *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(be)ech`
-  * : *er*<i></i>*rech*nen `(er)ech` ! `(er)r.ech`
+* *rech* `ech` : `ech.et.e` `ech-er` `ech-er.i` `G.ech` `(.S)ech` `(be)ech` `(er)ech` STS
+  * : *er*rech `(er)r.ech`
 * ***recht*** `echt` : `echt.L` `Ts:echt` `(.es):echt` `m.H,wa.echt`
   * *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `be.S.o:er-r.ed`
-* **reg** `r` : `G.r.elt` `r.el.i`
-  * *reg****el*** `(.el)` : `(.el)-UNG` `(.el).i` `(.el).i-T` `.il,(.el)` `IN.el`
-    * *regelmäßigkeit* `r.el.ess.i-T`
-  * *reg****ier***en `(.ir)`
-    * : *reg****ier****ung* `(.ir)-UNG` : `(.es).ir-UNG`
-      * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG`
-        * *bundesregierung* `u-r-UNG`
-  * : **reg***ion* `r.iO` ! `r.eg.iO` ≠ regulation, relation
-    * : **reg***ional* `r.i-aL` ! `r.eg.i-aL`
-  * : **reg**ulieren `r.ir` ! `r.ul.ir`
-    * : **reg***ul*at*ion* `r.iO` ! `r.ul.iO` ≠ region, relation
-  * *rig* = **r**ig `r`
-    * : di*rig* `d.i-r` : `d.i-r.eNT` `d.i-r.ir` `d.i-r.iS.i`
-      * *dirigent* `di.eNT`
-    * : kor*rig*ieren `k.or-r.ir` ! `k.or-r.ig.ir`
+* **reg** `r` : `G.r.elt` `r.el.i` `r.iO` `r.i-aL`
+  * *reg****el*** `(.el)` : `(.el)-UNG` `(.el).i` `(.el).i-T` @STS `.il,(.el)` `IN.el`
+  * *reg****ier***en `(.ir)` : `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
+    * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
+      * *bundesregierung* `u-r-UNG`
+      * *landesregierung* `(.es).ir-UNG`
+  * reg*ion* `r.eg.iO` : `r.eg.i-aL` ≠ religion
+  * *regul*ier `r.ul.ir` ≠ regier
+  * → rig
   * → rekt
 * ***reich*** `.eich` : `.eich.L` `be.eich` `er.eich` `Ü.eich`
   * *reichlich* `r.ei-L`
@@ -2104,6 +2103,9 @@
   * *rektorat* `r.ekt.at`
   * *konrektor* `ko.r.ekt.or`
   * → adress
+* *relat* `r` : `r.iO` `r.iv` `r.iv.ät` ← lat
+  * relat*ion* `r.l.at.iO` ≠ region
+  * *relativität* `r.ät`
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.eNT` `k.or-r.ez` `k.or-r.ir`
   * *korrespondenz* `k.o-ez`
@@ -2113,7 +2115,7 @@
 * *rheinländisch-westfälisch* `(sch).(sch)`
 * *rheinland-pfalz* `(N):pfa`
 * **richt** `ri` : `ri.i` `ri-UNG` `be,ri,(er)` `be,ri,er.sta*` `(be)ach,ri.i` `(er)ri` `IN.iS-er ri-UNG`
-  * : **richt**en `ri` ! `r.icht`
+  * richten `r.icht` ≠ der
   * *richtung* `i-UNG` ≠ regierung
   * : be**richt** `be,ri`
     * *berichterstatter* `be,ri-er`
@@ -2122,6 +2124,10 @@
   * *gericht* `G,i` : `G,i-L` `la,i` `.o-la,i`
     * *gerichtlich* `(G)i-L`
     * : **amt**s*ge***richt** `.a,i` `.amt,i`
+* *rig* = **r**ig `r` ← reg
+  * : di*rig* `d.i-r` : `d.i-r.eNT` `d.i-r.ir` `d.i-r.iS.i`
+    * *dirigent* `di.eNT`
+  * : kor*rig*ieren `k.or-r.ir` ! `k.or-r.ig.ir`
 * rind `r.id` : `r.id-er`
   * *rindvieh* `ri.ih` `(i),(i)`
 * -***ring***- `.ing` : `r.ing` `G.ing` `E.ing`
@@ -3329,7 +3335,7 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (74)
+  * ` ! ` (38)
   * ` : `
   * @@
 
@@ -3353,3 +3359,6 @@
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
 * Ausweichen in beide Richtungen: erklären, ernähren
+
+* *regelmäßigkeit* `r.el.ess.i-T` @STS
+
