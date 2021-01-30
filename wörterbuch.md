@@ -1770,7 +1770,7 @@
   * ***näm*** `.äm` : `.äm.L`
 * **nat** `na` STS : `na.iO` `na.iO.ch.en` `na.i-aL` `na.i-al.ät` `(I)t-er.na.i-aL` `kut.ur.na.iO`
   * *nati****on*** `(.on)` STS : `(.ön).ch.en` `kut.ur+(.on)`
-    * *nat****ion** `(.iO)` : `(.iO).ch.en` `kut.ur,(.iO)` = region STS
+    * *nat****ion*** `(.iO)` : `(.iO).ch.en` `kut.ur,(.iO)` = region STS
       * *kulturnation* `kut.ur.iO`
   * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional @STS
     * *international* `(I)t-er-a`
