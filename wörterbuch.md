@@ -1528,6 +1528,7 @@
   * *liga* `l.ig` @-a
   * → intellig
   * → li
+  * → relig
 * -***ling*** `.ing`
 * *lin****i*** `(.I)` : `(.I).e` `ri.I.e`
   * *linie* `l.in`
@@ -2070,17 +2071,15 @@
   * *recht* `r` : `AU-r` `G.r` `O.r`
 * red `r.ed` : `r.ed.e` `r.ed-er`
 * reg `r.eg` : `.an.r.eg.UNG` `be.S.o:er-r.ed`
-* reg `r.eg` : `r.är` `r.iv` `r.ir`
+* reg `r.eg` : `r.är` `r.iv`
   * *reg****el*** `(.el)`
     * `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` @STS
-      * *regel* `r.el` : `G.r.elt` `r.el.os` `r.el.i` `r.el.i-T`
     * `(.el)-UNG` `.il,(.el)` `IN.el`
   * *reg****ier*** `(.ir)` : `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
     * *regierung* `ir-UNG` : `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
       * *landesregierung* `(.es).ir-UNG`
   * *reg****ion*** `(.iO)` : `(.i-aL)` = nation @STS
-  * *regul* `r.ul` : `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ @STS
   * → rig
   * → rekt
 * ***reich*** `.eich` : `.eich.L` `be.eich` `er.eich` `Ü.eich`
@@ -2105,9 +2104,9 @@
   * *rektorat* `r.ekt.at`
   * *konrektor* `ko.r.ekt.or`
   * → adress
-* *relat* `r` : `r.iO` `r.iv` `r.iv.ät` ← lat
-  * (relat*ion*) `r.e-l.at.iO` ≠ religion
+* *relat* `r` : `r.iO` `r.iv` `r.iv.ät` ← lat @STS
   * *relativität* `r.ät`
+* relig `r.l.ig` STS : `r.l.ig.iO` `r.l.ig.ös` `r.l.ig.os.ät` ← lig @STS
 * renn `r.en`
 * **respond** `r` : `k.or-r` `k.or-r.eNT` `k.or-r.ez` `k.or-r.ir`
   * *korrespondenz* `k.o-ez`
@@ -3343,6 +3342,7 @@
 * ⇒
 * =
 * STS
+* @STS
 * ⟸
 
 * `d.N` `k.N` `m.N` `s.N`
@@ -3361,7 +3361,12 @@
 * ? (Verschattung + Red Herring, Praxis (?))
 * Ausweichen in beide Richtungen: erklären, ernähren
 
-* *regelmäßigkeit* `r.el.ess.i-T` @STS
-  * reg*ion* `r.eg.iO` : `r.eg.i-aL` ≠ religion @STS
-  * *realisieren* `r.ir`
+
+* *regelmäßigkeit* `r.el.ess.i-T`
+* reg*ion* `r.eg.iO` : `r.eg.i-aL` ≠ religion
+* *realisieren* `r.ir`
+* *regel* `r.el` : `G.r.elt` `r.el.os` `r.el.i` `r.el.i-T`
+* *relig* `r.i` : `r.i-iO` `r.i.ös` `r.i.os.ät`
+* relat*ion* `r.l.at.iO` ≠ religion
+* *regul* `r.ul` : `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ
 
