@@ -941,7 +941,7 @@
 * **grob** `gro` : `gro.H`
   * **gröb** `grö`
 * **gress** `gr` : `(ko)gr` `(o)gr.iv` `(o)gr.iO` `(r)gr` ← grad
-* *groß* = **gr**oß `gr` : `s.gr` `gr.ib` `gr.ha` `M.gr.H` ≠ grob
+* *groß* `gr` : `s.gr` `gr.ib` `gr.ha` `M.gr.H` ≠ grob
   * **größ** `grö` : `grö.e` `(E)grö.er`
     * *vergrößern* `(E)grö` @-er
 * **grund** `gru` : `gru.os` `.ab.gru` `hi-er-UNG:gru` `(I)t-er.gru` `kÜ.gru` `UNTER.gru` `O.d-er.gru` `.S-S.gru.e` `v.gru.AU`
@@ -3050,10 +3050,11 @@
   * wärt `wet` : `wet.er`
     * -*wärt* `-t` : `-t.er` `-t.ig` `-ts` → an aus gegen rück seit vor
 * ***was*** `was`
-* ***wass***er `was-er` : `was.ek` `was.FT` @-er
-  * ***wäss***er `wes-er` : `eNT.wes-UNG`
-  * : ***wäss***rig `wes.i` ! `w.ess.r.i`
-  * : *ge****wäss***er `G.wes` ! `G.wes-er` ≠ gewächs
+* *wasser* `was` : `was.ek` `was.FT` @-er
+  * *wass*er `was-er` ≠ was
+  * *wässer* `wes` : `wes.i` `eNT.wes-UNG` `G.wes`
+    * wässr*ig* `w.ess.r.i` @STS
+    * *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
 * wasch `w.asch` : `w.esch.e`
 * wechsel ← wachs
 * -**weg**- `w` : `w.eg` `.S.w` `(.es)w` `(K).w-s` `m.N.w` `.U-t.w` `O.w` `AU.m.w`
@@ -3328,7 +3329,6 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (2)
   * ` : `
   * @@
 
@@ -3350,7 +3350,7 @@
 * fügsam @`.üg-Sa` aktion
 
 * *alt* `.alt` ⇒ (alt)/"alt"/'alt'/«alt»/»alt«/_alt_/ALT `.alt` (Verkehrsschrift)
-* **jed**e `j.e` ! `j.ed.e` ⇒ jede `j.ed.e` (Eilschrift)
+* **jed**e `j.e` (Eilschrift)
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
 * Ausweichen in beide Richtungen: (erklären, ernähren), (seelisch, selig)
