@@ -756,9 +756,9 @@
 * **fuhr** `fu` : `fu-e` `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * *fuhre* `fu.e`
 * -*führ*- `.ür`
-  * : `f.ür` `f.ür-er` `f.ür-UNG` ← fuhr
-  * : `.S.ür` `.S.ür.L` `dr.ür` `dr.ürt` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`
-  * : `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `.a-z.ür` STS `AU,si.ür.ed`
+  * `f.ür` `f.ür-er` `f.ür-UNG` ← fuhr
+  * `.S.ür` `.S.ür.L` `dr.ür` `dr.ürt` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`
+  * `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` `.a-z.ür` STS `AU,si.ür.ed`
   * *aus*<i></i>*f****ü****hr* `.S-ü` : `.S-ü.L`
   * *durch*<i></i>*f****ü****hr* `dr-ü` : `dr-ü-t`
   * -*führend* `-Ü.ed` → fed sicht
@@ -2440,16 +2440,16 @@
   * ***schäh*** `.äh`
   * → schicht
 * ***scheib*** `.eib` : `.eib.e` `ba.eib.e`
-* **scheid** `.eid` : `be.eid` `eNT.eid`
+* -**scheid**- `.eid` : `sch.eid` `be.eid` `eNT.eid`
+  * *scheid* `.eid`
   * *entscheid* `eNT.ei`
-  * **schied** `.id` ! `sch.id` : `.ab.id` `E.ab.id` `be.id` `eNT.id` `UNTER.id` `E.id` `(N),E.id.H` `M.al.eNT.id.H`
+  * -**schied**- `.id` : `sch.id` `.ab.id` `E.ab.id` `be.id` `eNT.id` `UNTER.id` `E.id` `(N),E.id.H` `M.al.eNT.id.H`
     * *meinungsverschiedenheit* `m.ei-H`
     * *unterschied* `UNTER-i`
     * *verabschied* `E.ab`
     * *mit.aller.entschiedenheit* `M.al.eNT`
-* *sch****ein*** `(N)` : `(N).bar` `.an.N.ed` `be.N.i` `er.N` `gu.N` `wa.N.L` `hö-t.wa.N.L`
+* *sch****ein*** `(N)` : `(N).bar` `.an.N.ed` `be.N.i` `er.N` `f.ür-er.N` `gu.N` `wa.N.L` `hö-t.wa.N.L`
   * *erschein*en `er.(N)` ≠ rein
-  * *führ*er~~sch~~ein `.ür-er.N` ! `f.ür-er.N`
   * *höchstwahrscheinlich* `hö-st.N.L`
   * *sch****ien*** `(.in)` : `G.in` `er.in`
     * *geschien*en : `(G)(.in)`
@@ -2698,8 +2698,8 @@
   * : *stück* `.ük`
 * **stud** `.ud` : `.ud.ir` `.ud.I.e` `.ud.um` @st
 * **stuf** `.uf` : `.uf.e` @st
-* st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `UNTER,ri,u.en` ← steh
-  * *f****eier****stund*e `(ei-er),u.e` ! `fei-er,u.e`
+* st**u**nd `u` : `u.e` `u.en` `u-UNG` `(l.ei),u.e` `(ei-er),u.e` `UNTER,ri,u.en` ← steh
+  * feier*stund*e `fei-er,u.e`
   * *stünd* `stÜ` : `stÜ.ch.en` `stÜ.L`
 * sturz `st.uz`
   * : stürz `st.üz` : `be.st.üz*` `Ü.st.üz*` `.um:st.üz`
@@ -2750,8 +2750,8 @@
 
 * tab~~ell~~ `t.ab` : `t.ab.e` `t.ab.ar.i` `t.ab.ir`
   * *tabelle* `t.ab`
-* *tag* `-tag` : `Ts-tag` `bu:-tag` `(.ei-er)-tag` `do-tag` `f.T.tag` `(bst)-tag` `(I)n,(-st)-tag.en`
-  * : *fr****ei****tag* `(.ei)-tag` ! `.ei-tag`
+* *tag* `-tag` : `Ts-tag` `bu:-tag` `do-tag` `(.ei-er)-tag` `(.ei)-tag` `f.T.tag` `(bst)-tag` `(I)n,(-st)-tag.en`
+  * : *freitag* `.ei-tag`
   * : *tag*.~~für~~.*tag* `tag-tag` STS
   * *täg* `teg` : `teg.L`
 * tang `t.ang` : `t.ang.ir` `t.ang.eNT.e`
@@ -2772,8 +2772,7 @@
   * **tekt** `t` : `(o)t.iO` `(o)t.or` `(o)t.or.at`
 * teger `t.eg-er` : `IN.t.eg-er` ← tang
   * *integr* `IN.egr` : `IN.egr.al` `IN.egr.ir` `IN.egr.iO` `IN.egr.ät`	
-* *t****eil*** `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `be.eil.i` `ach.eil.e` `O.eil.ha`
-  * **satz***t****eil*** `sa.eil` ! `s.az.eil`
+* *t****eil*** `(.eil)` : `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `be.eil.i` `ach.eil.e` `O.eil.ha` `s.az.eil`
   * *urteil* = *ur*~~teil~~ `ur` : `ur.e` `t.o.ur`
 * tekt `t.ek+t` : `t.ek+t.on.ik` `t.ek+t.on.i` ← techn
   * -*tekt* `.ekt` → arch
@@ -3330,7 +3329,7 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (17)
+  * ` ! ` (12)
   * ` : `
   * @@
 
