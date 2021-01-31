@@ -2167,17 +2167,15 @@
     * -*sächlich* `.L` : `.ur.L` → haupt neben
 * **sachs** `sa` : `sa.en` `ndr.sa.en`
     * *niedersachsen* `ndr-a`
-* **sag** `sa` : `G.sa` `.ab.sa` `.an.sa` `.S.sa` `.eug.S.sa-e` `be.sa` `eNT.sa.Ol` `.os.sa` `ach.sa` `UN.sa.bar` `UNTER.sa` `E.sa` `O.S.sa` `O.h.sa` `w.et-er.O.h.sa` `Z.sa`
-  * : **sag**e `sa-e` ! `s.ag.e`
-  * : **sag**en `sa` ! `s.ag`
-  * : **sag**te `sa-t.e` ! `s.agt.e`
-  * : an**sag**er `.an.sa-er` ! `.an.s.ag-er`
-  * : *aus***sag**e `.S.sa-e` ! `.S.sa.e`
-  * : *ver***sag**er `E-sa-er` ! `E-s.ag-er`
+* -**sag**- `sa` : `s.ag` `s.agt.e` `s.ag.e` `G.sa` `.ab.sa` `.an.sa` `.an.sa.er` `.S.sa` `.S.sa-e` `.eug.S.sa-e` `be.sa` `eNT.sa.Ol` `.os.sa` `ach.sa` `UN.sa.bar` `UNTER.sa` `E.sa` `E.sa.er` `O.S.sa` `O.h.sa` `w.et-er.O.h.sa` `Z.sa`
+  * ansager `.an.s.ag-er`
+  * *ver*sager `E.s.ag-er`
+  * *aussage* `.S.sa.e`
   * *wettervorhersage* `w.et-er.sa`
   * *zeugenaussage* `.eug.S`
-  * **säg** `s` : `UN.s.L`
+  * -**säg**- `s` : `UN.s.L`
     * *unsäglich* `UN.s.eg.L`
+* säg `s.äg` : `s.äg.e`
 * *saison* `s.es` : `s.es.al`
 * sait `s.ait` : `s.ait.e`
 * sakr `s.akr` : `s.akr.al` `s.akr.eNT`
@@ -2213,8 +2211,8 @@
 * -*säule* `eu` → raub wirbel
 * saum `s.aum`
   * säum `s.äum` : `E-s.äum.is`
-* seel `s.el` : `s.el.e` `s.el,o-e`
-  * : seel**isch** `s.el.i` ! `s.el.isch`
+* seel `s.el` : `s.el.e` `s.el.i` `s.el,o-e`
+  * seelisch `s.el.isch` ≠ selig
 * seh `s.eh` `UN.E.s.eh.ens`
   * *unversehens* `UN.E-s`
   * *fernseh* `f-s` : `f-s-er`
@@ -2250,7 +2248,7 @@
 * *sekretar*, *sekretär* `s.ekr` : `s.ekr.at` `s.ekr.in` `g.s.ekr` `g.s.ekr.at`
   * *generalsekret* `g-s` : `g-s.är` `g-s.at`
 * sel `s.el` : `s.el.i-er` `s.el.ist.e` `s.el.i-T`
-  * : sel*ig* `s.el.i` ! `s.el.ig`
+  * : sel*ig* `s.el.i` ! `s.el.ig` ≠ seelisch
     * -*seli****g*** `(g)` : `UN,(g)` → fühl glück trau
 * selb `s.eb` : `s.eb-er` `s.eb.i`
   * -*selb* `l` : `d.l.e` `(m).l` `(n).l` `(r).l.e` `(.es).l` `I.l.e`
@@ -3357,7 +3355,7 @@
 * **jed**e `j.e` ! `j.ed.e` ⇒ jede `j.ed.e` (Eilschrift)
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
-* Ausweichen in beide Richtungen: erklären, ernähren
+* Ausweichen in beide Richtungen: (erklären, ernähren), (seelisch, selig)
 
 
 * *regelmäßigkeit* `r.el.ess.i-T`
@@ -3369,4 +3367,3 @@
 * *regul* `r.ul` : `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ
 * *er*rat `er-r.at` ≠ beraten
 * *berat* `Ra` = errat STS
-
