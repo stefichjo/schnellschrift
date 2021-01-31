@@ -2235,11 +2235,11 @@
   * ***wes*** `.es` : `.es.a` `.es.ha` `.es.H` `.es.L` `.es.os` `.ab.es.ed` `.ab.es.H` `.an.es.ed` `.an.es.H` `.im.es.L`
     * *gewes* `-G` : `da.-G`
     * *im.wesentlichen* `.im.L`
-* ***seit*** `T` : `T.e` `T.en` `T.L` `.ad-er.Ts` `be.T.ig` `.eid-er.Ts` `g.T.ig` `.ir-er.Ts` `rÜ.T.e` `AU-er .ad-er.en T.e` `AU.al.T.en` `AU.eid.T.en` `v.eid.T.en` `AU.iS-er T.e` `AU-er .ei-en T.e` `v.MR.T.en` `v,u-er-er.T.e`
+* ***seit*** `T` : `T.e` `T.en` `T.ang` `T.L` `T.wets` `.ad-er.Ts` `be.T.ig` `b.ei-T.e` `.eid-er.Ts` `g.T.ig` `.ir-er.Ts` `rÜ.T.e` `AU-er .ad-er.en T.e` `AU.al.T.en` `AU.eid.T.en` `v.eid.T.en` `AU.iS-er T.e` `AU-er .ei-en T.e` `v.MR.T.en` `v,u-er-er.T.e`
+  * seiten**lang** `s.T.ang`
+  * seitwärts `s.T.wets`
+  * beiseite `b.ei-s.T.e`
   * ***seit***ens `T.e-s` `s.T.e-s` @@
-  * ***seit***wärts `T.wets` ! `s.T.wets`
-  * ***seit***en**lang** `T.ang` ! `s.T.ang`
-  * bei***seit***e `b.ei-T.e` ! `b.ei-s.T.e`
   * *auf.dieser.seite* `AU-i.T.e`
   * *auf.der.einen.seite* `AU.ei-en.T.e`
   * *auf.der.anderen.seite* `AU-a.T.e`
@@ -2247,9 +2247,9 @@
 * seit `s.T` ← seit
 * *sekretar*, *sekretär* `s.ekr` : `s.ekr.at` `s.ekr.in` `g.s.ekr` `g.s.ekr.at`
   * *generalsekret* `g-s` : `g-s.är` `g-s.at`
-* sel `s.el` : `s.el.i-er` `s.el.ist.e` `s.el.i-T`
-  * : sel*ig* `s.el.i` ! `s.el.ig` ≠ seelisch
-    * -*seli****g*** `(g)` : `UN,(g)` → fühl glück trau
+* sel `s.el` : `s.el.i` `s.el.i-er` `s.el.ist.e` `s.el.i-T`
+  * selig `s.el.ig` ≠ seelisch
+  * -*seli****g*** `(g)` : `UN,(g)` → fühl glück trau
 * selb `s.eb` : `s.eb-er` `s.eb.i`
   * -*selb* `l` : `d.l.e` `(m).l` `(n).l` `(r).l.e` `(.es).l` `I.l.e`
   * *selbst* `-st` : `-st,u-N` `-st.ko` `-st.l.os.i-T`
@@ -2261,9 +2261,9 @@
   * *senat* `s.at`
 * **send** `s` : `.ab.s` ⇒ `.ab-s` `.ab.s.er` ⇒ `.ab-s-er` `N.s` ⇒ `N-s` `N.s.er` ⇒ `N-s-er`
   * sandt `s.adt` : `G.s.adt`
-* sent `set` : `pr.set.ir`
-  * : *prä*sent `pr.set` ! `pr.s.eNT`
-    * *re*<i></i>*prä*~~sent~~ `(r)pr` : `(r)pr.aNT`
+* sent `set` : `pr.set` `pr.set.ir` `(r)pr.set.aNT`
+  * : *präsent* `pr.s.eNT`
+    * *repräsentant* `(r)pr.aNT`
   * sens
   * senz `s.ez` : `pr.s.ez`
 * sent `set` STS
@@ -2419,8 +2419,8 @@
 * ***schad*** `.ad` : `Z.ad.ko`
   * ***schäd*** `.äd`
     * **sach**<i></i>**be**~~schädigung~~ `sa.b`
-* **schaff** `scha`
-  * : **schaff***ung* `scha*` ! `scha.UNG` ≠ krankheit
+* **schaff** `scha` : `scha*`
+  * **schaff***ung* `scha.UNG` ≠ krankheit @Eilschrift
 * schaft `sch.aft`
   * -*schaft* `FT` @-schaft
     * *gewerkschaft* `G.wer.scha`
@@ -3330,7 +3330,7 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (30)
+  * ` ! ` (17)
   * ` : `
   * @@
 
