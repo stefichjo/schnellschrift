@@ -1341,6 +1341,8 @@
     * *komplex* `(ko)ex` ≠ komplett
 * **kon**- `ko`
   * : **koll**- `ko`
+* *konkurr* `ko-u` : `ko-u.eNT` `ko-u.ez` `ko-u.ir` ← kurr
+  * *konkurs* `ko.us` ← kurs
 * *konsum* `ko-su` `ko-su.FT`
 * **kön** `kö` : `kö.i` `kö.ig.in` `kö.i-L` `kö.i,eu`
   * *königin* `kö.i-in`
@@ -1389,10 +1391,11 @@
   * *prokurist* `(o)k.ist`
 * kurb `k.ub` : `k.ub.el` `.an.k.ub.el`
 * **kurr** `ku`
-  * *konkurr* `ko-u` : `ko-u.eNT` `ko-u.ez` `ko-u.ir`
+  * → konkurr
   * **kur** `ku` : `ku.ir`
-  * **kurs** `ku-s` : `ku-s.ir` `ku-s.iv`
-    * *konkurs* `ko.us`
+  * → kurs
+* **kurs** `ku-s` : `ku-s.ir` `ku-s.iv` ← kurr
+  * → konkurs
 * **kurz** `ku` : `ku.um` `ku.i` `ku,i` `ku,i-L`
   * *kurzschriftlich* `ku.L`
   * **kürz** `kÜ` : `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E.kÜ`
@@ -3259,14 +3262,13 @@
   * *konzept* `ko-t` : `ko-t.iO`
 * *zer*- `zer`
 * zern `z.en` : `ko.z.en`
-  * *zert* `zer` : `zer.if.at` `zer.if.ir`
-    * : **kon***zert* `(ko)zer` ! `ko.zet`
+  * *zert* `zer` : `zer.if.at` `zer.if.ir` `(ko)zer`
+    * **kon**zert `ko.zet` @STS
 * ***zess*** `.ess` : `ko.ess` `(o).ess` `(o).ess.ir` `(T),(o).ess` `(o)du-o,(o).ess` ← zed @-sion
   * *produktionsprozess* `(o)du.iO,(o).ess`
 * zettel `z.et.el`
   * -*zett****el*** `(.el)` → hand merk wahl
-* **zeug** `.eug` : `fa.eug` `kra.fa.eug` `er.eug.iss.e` `Ü.eug` `ach.m.ei-er-Ü.eug`
-  * : *führ*<i></i>*ung*s**zeug*****nis*** `.ür-UNG.eug.is` ! `f.ür-UNG.eug.is`
+* **zeug** `.eug` : `fa.eug` `kra.fa.eug` `er.eug.iss.e` `Ü.eug` `f.ür-UNG.eug.is` `ach.m.ei-er-Ü.eug`
   * *kraftfahrzeug* `kra.eug`
   * *nach.meiner.überzeugung* `ach.m.ei-er-Ü`
 * **zieh** `.ih` : `Z.ra.ih` `I ha.el.be.ih.en`
@@ -3326,7 +3328,7 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (4)
+  * ` ! ` (2)
   * ` : `
   * @@
 
