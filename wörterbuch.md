@@ -557,7 +557,7 @@
 |:-:|
 
 * **fabr** `fa` : `fa.ik` `(arr):fa.ik` `fa.ir`
-  * *fabrik* `fa` : `fa.aNT` `fa.at` `fa-o`
+  * *fabrik* `fa` : `fa.aNT` `fa.at` `fa-o` @-ikation
     * *fabrikation* `fa.iO`
 * facette `f.ass.et.e` ← faci
 * **fach** `fa` : `f-er` `fa.L` `fa.FT` `N.fa` `N.fa-er` `N.fa.H` `eNT.fa` `E.N.fa` `ma.i-fa`
@@ -666,7 +666,7 @@
 * film `f.im` : `f.imt.e` `G.f.imt` `E.f.im`
 * filter `fit.er` : `fit.r.ir`
 * **fin** `fi`
-  * `fi.al` `fi.al.e` `fi.al.ist`
+  * `fi.al` `fi.al.e` `fi.al.ist` `fi.al.i+st.in`
   * `d.e,fi.ir` `d.e,fi.iv` `d.e,fi-o`
   * *finalistin* `fi.al.in`
   * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
@@ -1131,6 +1131,7 @@
 * *illustr* `.ill` : `.ill.ir` `.ill.iO`
 * -ik `.ik`
   * -*ikalisch* `.ik.i`
+  * -*ikation* `.iO`
 * im ← in
 * *imm****er*** `(.er)` : `(.er):fr` `(.er).in` `(.er),i`
   * n*imm****er*** `(n.er)` : `(n.er).s.at`
@@ -1980,7 +1981,7 @@
   * : *kom***post** ⇒ *komp****ost*** `kom.ost` : `kom.o+st.ir`
   * → depot
 * puber `p.ub-er` : `p.ub-er.ir` `p.ub-er.ät`
-* *publ* `p.ub` : `p.ub.ik` STS `p.ub.ir` `p.ub-o` `p.ub.um` `p.ub.ist` `p.ub.iS.i` `p.ub.ät` `(r)p.ub.ik` `(r)p.ub.ik-er` `(r)p.ub.ik.i` `bu:(r)p.ub.ik`
+* *publ* `p.ub` : `p.ub.ik` STS `p.ub.ir` `p.ub-o` `p.ub.um` `p.ub.ist` `p.ub.iS.i` `p.ub.ät` `(r)p.ub.ik` `(r)p.ub.ik-er` `(r)p.ub.ik.i` `bu:(r)p.ub.ik` @-ikation
   * *publikum* `p.ub`
   * *republik* `r.ik` : `r.ik-er` `r.ik.i` `bu:r.ik`
     * -*republik* `.ik` → bund
@@ -2574,8 +2575,10 @@
 * speer `sp.er`
 * spend `sp.ed` : `sp.ed.e`
 * -**sperr**- `sp` : `sp.err.e` `sp.err-UNG` `G.sp` `.ab.sp` `E.sp`
-* **spez** `sp` : `sp.iaL` `sp.iaL.ir` `sp.iaL.ist.en` `sp.ieL`
-  * : **spez**if `sp.if` * *spezif* `sp.ez` : `sp.ez.iO` `sp.ez.ir` `sp.ez.ir-UNG` `sp.ez.i` `sp.ez.ät`
+* **spez** `sp`
+  * `sp.iaL` `sp.iaL.ir` `sp.iaL.ist.en` `sp.ieL`
+  * `sp.if`
+  * *spezif* `sp.ez` : `sp.ez.iO` `sp.ez.ir` `sp.ez.ir-UNG` `sp.ez.i` `sp.ez.ät` @-ikation @-izier
 * **spiel** `.il` : `.il.er` `b.ei-il` `trau.er.il` @sp
 * spint `sp.it` STS
 * spir `sp.ir` : `sp.ir.al` `IN.sp.ir.ir` `ko.sp.ir.iO`
@@ -3326,7 +3329,6 @@
   * _* : `_ (69)
   * @@
 
-* ` * ` (z.B. "ich glaube")
 * ⇒
 * =
 * STS
