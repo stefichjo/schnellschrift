@@ -482,12 +482,10 @@
   * -ein `N` : `d.N` `k.N` `m.N` `s.N`
     * *kein* `(K)`
       * -*kein*- `k` → fall weg
-    * -**ein**- `.ei` : `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
-      * : d**ein**- `d.ei`
-      * : k**ein**- `k.ei`
-      * : m**ein**- `m.ei`
-      * : s**ein**- `s.ei`
-  * : ~~*ein*~~*heit* `(H)` ⇒ `H` : `UN.H.L` `E.H.L`
+    * -**ein**- `.ei`
+      * `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
+      * `d.ei` `k.ei` `m.ei` `s.ei`
+  * ~~*ein*~~*heit* `(H)` ⇒ `H` : `UN.H.L` `E.H.L`
   * -*verein* `N` → rud sport
   * -*vereinigung* `ig` → wieder
   * -~~ein~~- : `E.bar` `E.ig`
@@ -523,7 +521,6 @@
 * -en `.en`
 * end `.ed` : `.ed.e` `be.ed.et` `be.ed.i` `Ol.ed` `.ed.L` `UN.ed.L` `UN.ed.L.T` @-lichkeit
 * -end `.ed` → dutz jug
-  * : -nd `.d` → forder
 * *ener****g*** `(g)` : `(g).I` `(g).i`
 * *ent*- `eNT`
 * *ent*behr ← behr ← bär
@@ -668,9 +665,11 @@
   * *filial* `f.iaL` : `f.iaL.e`
 * film `f.im` : `f.imt.e` `G.f.imt` `E.f.im`
 * filter `fit.er` : `fit.r.ir`
-* **fin** `fi`: `fi.al` `fi.al.e` `fi.al.ist`
-  * : de**fin** `d.e,fi` * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
+* **fin** `fi`
+  * `fi.al` `fi.al.e` `fi.al.ist`
+  * `d.e,fi.ir` `d.e,fi.iv` `d.e,fi-o`
   * *finalistin* `fi.al.in`
+  * *defin* `d.ef` : `d.ef.ir` `d.ef.iv` `d.ef-o`
   * → finanz
 * *finanz* `fi` : `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi,(er)` `fi.um` `fi.om` `O,fi.ir` ← fin
   * *finanzminister* `fi-er`
@@ -799,7 +798,7 @@
   * *freundschaft* `eu.FT` : `ga,eu.FT`
   * -*freund* `eu` : `.an,eu` → geschäft umwelt
 * ***fried*** `.id` : `b.ug.id.e` `UN.z.id.en`
-  * *unzufrieden* `UN.z.id` @-en
+  * *unzufried*en `UN.z.id` @-en
 * frier `fr.ir` STS
   * fror `fr.or` : `Z.fr.or`
   * frost `fr.ost`
@@ -1134,7 +1133,7 @@
   * -*ikalisch* `.ik.i`
 * im ← in
 * *imm****er*** `(.er)` : `(.er):fr` `(.er).in` `(.er),i`
-  * : n*imm****er*** `(n.er)` : `(n.er).s.at`
+  * n*imm****er*** `(n.er)` : `(n.er).s.at`
   * *immerhin* `.i-hn`
 * imple*ment* `.impl.e-met` STS : `.impl.e-met.ir` `.impl.e-met.ir-UNG` ← pl
 * *import* `.imp` : `.imp.ir` `.imp.ör` ← port
@@ -1143,9 +1142,8 @@
   * *in*- `(I)` : `(I)-S.e`
   * -*in* `i` → dar
   * im `.im`
-* inn `.in`
-  * : innen `.in` : `in.um`
-  * : *inner* `.i` : `.i-ha` `.i-L` `er.i` `er.i-t.e` `er.i-L` `.im.i`
+* innen `.in` : `in.um` @-en
+* *inner* `.i` : `.i-ha` `.i-L` `er.i` `er.i-t.e` `er.i-L` `.im.i`
 * -in-
   * -*inal* `.i-aL`
   * -*inell* `.i-eL`
@@ -3325,7 +3323,7 @@
 ## TODOs
 
 * entfernen
-  * * : ` (29)
+  * _* : `_ (69)
   * @@
 
 * ` * ` (z.B. "ich glaube")
