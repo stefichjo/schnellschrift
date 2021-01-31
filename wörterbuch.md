@@ -2786,13 +2786,12 @@
 * tempel `t.emp.el`
 * *tempelhof* `t.emp.ho`
 * **tend** `t` : `t.ir` STS
-  * *tenden****z*** `(z)`
-    * : *tenden****z***iös `(z).ös` ! `t.ez.ös`
+  * *tenden****z*** `(z)` : `(z).ös`
+    * *tendenziös* `t.ez.ös`
   * **tens** `t` : `IN.t.iv` `IN.t.iv.ir-UNG` `IN.t.ät`
     * *intensiv* `(I)t-i`
-* ter***min*** `(m.in)` : `(m.in).al`
-  * termin `t.em.in`
-  * : deter***min***ier `d.e,(m.in).ir` ! `d.e-t.em.ir`
+* ter***min*** `(m.in)` : `(m.in).al` `d.e,(m.in).ir`
+  * *determinier* `d.e-t.em.ir`
 * test `t.est` `t.e+st.eNT`
   * *testament* `t.e+st`
 * **teuer** `teu` : `teu-er` `be.teu` `E.teu`
@@ -2825,10 +2824,10 @@
 * **tod** `t.o` : `t.o,(-st)` `t.o,(.e)`
   * **töd** `t.ö` : `t.ö-L`
 * *toler* `t.ol` : `t.ol.aNT` `t.ol.az` `t.ol.ir` `t.ol.ir-UNG` `IN.t.ol.aNT` `IN.t.ol.az`
-* ~~t~~o~~n~~ `(.o)` : `b,(.o)` `d.e,(.o).ir` `er b,(.o)-t.e` `er b,(.o).e`
-  * : ~~t~~o~~n~~*los* `(.o)-l.o` ! `(.o)-l.os`
+* ~~t~~o~~n~~ `(.o)` : `(.o)-l.o` `b,(.o)` `d.e,(.o).ir` `IN,(.o).ir` `er b,(.o)-t.e` `er b,(.o).e`
+  * : ~~t~~o~~n~~los `(.o)-l.os`
+  * *in*tonier `IN.t.on.ir`
   * *detonieren* `d.e-t.o`
-  * : *in*~~t~~o~~n~~ieren `IN,(.o).ir` ! `IN.t.on.ir`
   * ~~t~~ö~~n~~ `(.ö)` : `N,(.ö).i`
     * *eintönig* `N,(.ö)` @-ig
 * **tot** `t.o`
@@ -3239,9 +3238,8 @@
   * *prozedur* `(o)z.ur`
   * → zess
 * zehn `z.en` : `ja.z.ent`
-* ***zeich*** `.eich` : `.eich.UNG` `E.eich.is`
-  * : ***zeich***nen `.eich` ! `z.eich` ≠ reichen
-  * : **satz*****zeich***en `sa.eich` ! `s.az.eich`
+* ***zeich*** `.eich` : `.eich.UNG` `E.eich.is` `s.az.eich`
+  * zeichn `z.eich` ≠ reichen
 * ***zeig*** `.eig`
 * **zeih** → verzeih bezichtig
 * zeil `z.eil`
@@ -3254,9 +3252,8 @@
 * zent `zet` : `.ak.zet` ← kant
   * *akzent* `.ak.z.eNT` @-ent
 * zentaur `zet.aur`
-* *zentr* `zr` : `zr.um` `(ko)zr.iO` `(ko)zr.ir`
-  * : *zentr*ieren `zr.ir` ! `z.etr.ir`
-  * : *ex*<i></i>*zentr*iker `.e-zr.ik-er` ! `.e-z.etr.ik-er`
+* *zentr* `zr` : `zr.ir` `zr.um` `.e-zr.ik-er` `(ko)zr.iO` `(ko)zr.ir`
+  * zentr `z.etr` : `z.etr.ir` `.e-z.etr.ik-er`
   * *zentral* `zra` : `zra.e` `zra.ir` `zra.ir-UNG` `zra.iO` `zra.iS` `zra.iS.i` `zra.ba` `(d.e)zra.ir` `(d.e)zra.iO`
 * **zept** `z` : `ko.z` `ko.z.iO` `r.z` `r.z.iO` ← zip
   * *konzept* `ko-t` : `ko-t.iO`
@@ -3329,7 +3326,7 @@
 ## TODOs
 
 * entfernen
-  * ` ! ` (12)
+  * ` ! ` (4)
   * ` : `
   * @@
 
