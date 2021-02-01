@@ -141,7 +141,7 @@
 * bankrott `b.ak-r.ot` ← rupt
 * bar `b.ar` `b.ar.FT`
 * bär `b.är` `G.b.är`
-  * bier `b.ir` STS : `G.b.ir`
+  * bier `b.ir` STS `G.b.ir`
   * bar `b.ar` `G.b.ar`
     * -***bar*** `bar`
     * bärd `b.ed` `G.b.ed.e`
@@ -168,7 +168,7 @@
   * *herbei* `h.ei` `h.ei-Ür`
 * ***beid*** `.eid` `.eid.e` `.eid-er.l.ei`
 * beiß `b.eiss` STS
-  * biss `b.iss` STS : `b.iss.ch.en`
+  * biss `b.iss` STS `b.iss.ch.en`
     * → bisschen
 * bereit ← reit
 * berg `b.eg` `b.eg.e` `E.b.eg`
@@ -198,7 +198,7 @@
   * *auf.diesem.gebiet* `AU-i.it`
   * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
   * ***bot*** `.ot` `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
-* *bil****anz*** `(.az)` STS : `(.az.ir-UNG)`
+* *bil****anz*** `(.az)` STS `(.az.ir-UNG)`
   * *bilanz* `(az)` `(az.ir-UNG)`
 * **bild** `bi` `bi.ed` `bi-er` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
   * *bilder* `bi.er` ≠ bildner
@@ -234,7 +234,7 @@
 * **blau** `blau`
 * blei `bl.ei` `bl.ei,(.ei)` `bl.ei,i`
 * **bleib** `blei` `.S.blei` `E.blei`
-  * **blieb** `bli` STS : `G.bl.i` `.S.bl.i` `(I)t-er.bl.i` `E.bl.i`
+  * **blieb** `bli` STS `G.bl.i` `.S.bl.i` `(I)t-er.bl.i` `E.bl.i`
 * bleich `bl.eich` `bl.eich,u` `bl.eich-Ü.i`
 * ***blick*** `.ik` `.ik.ed` `.ikt.e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` `.aug.ik` `.aug.ik.L` `CH .um:ik`
   * *im.hinblick.auf* `.im:AU`
@@ -449,7 +449,7 @@
 * **dring** `dri` `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
   * **drang** `dra` `dra.Ol` `dra.s.al`
     * *drang* `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
-    * **dräng** `drä` STS : `dr.el` `be.drä` `be.dr.is` `E.drä` `E.dr.UNG`
+    * **dräng** `drä` STS `dr.el` `be.drä` `be.dr.is` `E.drä` `E.dr.UNG`
       * *dräng* `dr.eng` `dr.eng.el`
       * *dräng* `dr` `be.dr` `E.dr`
   * **drung** `dru` `G.dru` `N.dru`
@@ -469,7 +469,7 @@
 
 * eben `.eb` `(o).eb`
 * echt `.echt`
-* ego `.eg.o` STS : `.eg.iS` `.eg.ist` `.eg.iS.i` @-ist
+* ego `.eg.o` STS `.eg.iS` `.eg.ist` `.eg.iS.i` @-ist
 * ehr `.er`
   * -~~ehr~~ : *ich*.*hab*e.~~die~~.~~ehr~~.e `.I-a,(.e)`
 * eid `.eid` `N.eid` STS
@@ -548,7 +548,7 @@
 * *etw****a*** `(.a)` `(.a)-s`
 * *europa*, *europä* `.eu-p` `.eu-p-er` `.eu-p.i`
 * **ex**- `.e`
-* *exekut* `.ex.ut` STS : `.ex.ut.ir` `.ex.ut.iv.e` `.ex.ut.iO` ← sequ
+* *exekut* `.ex.ut` STS `.ex.ut.ir` `.ex.ut.iv.e` `.ex.ut.iO` ← sequ
 * exemp ← em
 
 ## [F](#wörterbuch)
@@ -603,7 +603,7 @@
 * farb `f.ab` `f.ab.e` `f.ab.i` `f.ab.os`
   * färb `f.eb` `f.eb-UNG`
 * farm `f.am`
-* *f****ass*** `(.ass)` STS : `AU.ass` `be.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed`
+* *f****ass*** `(.ass)` STS `AU.ass` `be.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed`
   * *fassen* `fass` `G.fass` `G.fass.H` `.an.fass`
   * -*auffassung*- `.ass` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
   * → fass
@@ -693,7 +693,7 @@
 * **f**iz `f` `b.en.e-f` `d.e-f.it` `.e-f.eNT` `ko.e-f.eNT` `.o-f.ieL` ← faz @-ent
   * *defizit* `d.e-it`
   * *efizient* `.e-f.iz.eNT`
-* fl `fl` STS : `s.u-fl.ir`
+* fl `fl` STS `s.u-fl.ir`
   * → flat
 * **flach** `fla`
   * **fläch** `fl`
@@ -1136,7 +1136,7 @@
 * *imm****er*** `(.er)` `(.er):fr` `(.er).in` `(.er),i`
   * n*imm****er*** `(n.er)` `(n.er).s.at`
   * *immerhin* `.i-hn`
-* imple*ment* `.impl.e-met` STS : `.impl.e-met.ir` `.impl.e-met.ir-UNG` ← pl
+* imple*ment* `.impl.e-met` STS `.impl.e-met.ir` `.impl.e-met.ir-UNG` ← pl
 * *import* `.imp` `.imp.ir` `.imp.ör` ← port
 * in ← inn
 * *in* `IN` `IN.s` `IN.ei-ad-er`
@@ -1619,7 +1619,7 @@
   * *matr* `ma` `ma.az.e` `ma.ik.el` `ma.ix` `ma.iz.e`
 * mauer `m.au-er` `sch.all.m.au-er`
   * *schallmauer* `scha.m.au-er`
-* *maxim* `m.ax` STS : `m.ax.al`
+* *maxim* `m.ax` STS `m.ax.al`
   * *maximal* `m.ax.im-a`
 * mech `m.ech`
   * : mechan `m.ech` `m.ech.ik` `m.ech.ik-er` `m.ech.iS` `m.ech.ir` `m.ech.i` `m.ech.iS.i`
@@ -1768,8 +1768,8 @@
   * *namentlich* `-t.L`
   * *im.namen* `.im.en`
   * ***näm*** `.äm` `.äm.L`
-* **nat** `na` STS : `na.iO` `na.iO.ch.en` `na.i-aL` `na.i-al.ät` `(I)t-er.na.i-aL` `kut.ur.na.iO`
-  * *nati****on*** `(.on)` STS : `(.ön).ch.en` `kut.ur+(.on)`
+* **nat** `na` STS `na.iO` `na.iO.ch.en` `na.i-aL` `na.i-al.ät` `(I)t-er.na.i-aL` `kut.ur.na.iO`
+  * *nati****on*** `(.on)` STS `(.ön).ch.en` `kut.ur+(.on)`
     * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = region STS
       * *kulturnation* `kut.ur.iO`
   * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional @STS
@@ -1880,7 +1880,7 @@
   * ört `.öt` `.öt.L` `er.öt-er`
 * ost `ost` `w.ost`
 * *österreich* `.ö` `.ö.i`
-* oxid `.ox.id` STS : `.ox.ir` `.ox.id-o` ← oxyd
+* oxid `.ox.id` STS `.ox.ir` `.ox.id-o` ← oxyd
 * *oxyd* `.ox` `.ox.iO` `.ox.ir` ← oxid
 
 ## [P](#wörterbuch)
@@ -2092,7 +2092,7 @@
 * -***reit***- `T` `r.T` `be.T` `O.be.T` `be.Ts`
   * *bereits* `Ts`
   * *vorbereiten* `O.b`
-  * -***ritt***- `.it` STS : `r.it`
+  * -***ritt***- `.it` STS `r.it`
 * **rekt** `r` ← reg
   * `d.i-r` `IN.d.i-r` `d.i-r.iO` `d.i-r.iv.e` `d.i-r.or` `d.i-r.or.in`
   * `r.or` `ko.r.or` `r.or.at` `r.or.ko` `k.or-r` `k.or-r.H` `k.or-r.ur`
@@ -2103,7 +2103,7 @@
   * → adress
 * *relat* `r` `r.iO` `r.iv` `r.iv.ät` ← lat @STS
   * *relativität* `r.ät`
-* relig `r.l.ig` STS : `r.l.ig.iO` `r.l.ig.ös` `r.l.ig.os.ät` ← lig @STS
+* relig `r.l.ig` STS `r.l.ig.iO` `r.l.ig.ös` `r.l.ig.os.ät` ← lig @STS
 * renn `r.en`
 * **respond** `r` `k.or-r` `k.or-r.eNT` `k.or-r.ez` `k.or-r.ir`
   * *korrespondenz* `k.o-ez`
@@ -2307,7 +2307,7 @@
     * *auf*<i></i>- `AU-i` `AU-i-Ü.ed` `be,AU-i.i` `be,AU-i.i-t.e`
       * *beaufsichtig* `b,AU-i` `b,AU-i-t.e` STS
         * *beaufsichtigte* `b,AU-i.i-t.e`
-    * *ge*<i></i>- `G,i` STS : `G,i,u` `an-G,i`
+    * *ge*<i></i>- `G,i` STS `G,i,u` `an-G,i`
       * *gesicht* `G.icht` ≠ gesetzwidrig
     * *zu*<i></i>*ver*<i></i>- `Z.E-i` `Z.E-i.L` `Z.E-i.L.T`
   * -~~sicht~~
@@ -2606,7 +2606,7 @@
 * -**spring**- `.ing` `spr.ing` `.ab.ing` @spr
   * -**sprang**- `.ang` `spr.ang` @spr
   * -**sprung**- `.ung` `spr.ung` `spr.ung.ha` `eNT.ung` `.ur.ung` `O.ung` `zr.ung` @spr
-    * -**sprüng**- `.üng` STS : `spr.üng` `.ur.üng.L` `.ur.üng.L.T` @spr
+    * -**sprüng**- `.üng` STS `spr.üng` `.ur.üng.L` `.ur.üng.L.T` @spr
       * *ursprüng* `.ur-Ü` `.ur-Ü.L` `.ur-Ü.L.T`
   * → spreng
 * sprint `spr.it` `spr.it-er`
@@ -2731,7 +2731,7 @@
   * stritt `str.it`
 * string `str.ing` `str.ing.eNT`
   * → strikt
-* strikt `str.ikt` STS : `d.i:str.ikt` ← string
+* strikt `str.ikt` STS `d.i:str.ikt` ← string
   * → distrikt
 * stroph `str.of`
   * : *katastroph* `k.at` `k.at.e` `k.at.al`
@@ -2815,7 +2815,7 @@
 * **ti**~~ng~~ `ti` `ko,ti.eNT`
   * *kontingent* `ko,ti`
   * → tint
-* tint `tit` STS : `tit.e` ← ting
+* tint `tit` STS `tit.e` ← ting
 * tisch `t.isch`
 * tit `t.it` `t.it.el` `t.it.ur` `t.it.ir-UNG`
   * *titel* `t.it`
@@ -2842,7 +2842,7 @@
   * **tat** `ta` `ta,(.e)` `ta,(en)` `M.ra.ta`
     * **tät** `t` STS: `t.e` `t.er` `t.i` `t.i-T` `be.t.i`
       * *täter* `t.et-er`
-* turt `tut` STS : `tut.el` STS
+* turt `tut` STS `tut.el` STS
 
 ### [TR](#wörterbuch)
 
@@ -2881,11 +2881,11 @@
   * *trefflich* `tr.L`
   * *eintreff* `(N)tr.ef` ≠ eintreten
   * *zusammentreff* `Z.Sa.tr.ef` ≠ zusammentreten
-  * -**triff**- `tr.i` STS : `tr.if` `(be)tr.i` `(Ü)tr.i`
+  * -**triff**- `tr.i` STS `tr.if` `(be)tr.i` `(Ü)tr.i`
     * *triff* `.if` `.ift` `be.ift` `Ü.ift`
   * -**traf**- `tra` `tr.af` `(be)tra` `(Ü)tra`
     * *betraf* `(be)tr.af`
-    * -**träf**- `trä` STS : `tr.äf.e` `N.trä-e` STS
+    * -**träf**- `trä` STS `tr.äf.e` `N.trä-e` STS
   * -**troff**- `.of` `G.of` `.an.of` `be.of` `N.of` `Ü.of` `UN-Ü.of`
 * **treib** `trei` `trei-ed` `trei-er` `(.an)trei` `(AU)trei` `(.ei)trei`
   * *treib* `tr.eib`
@@ -2925,9 +2925,9 @@
 * *und* `&`
 * -*ung* `UNG`/`*`
 * *uns* `.U` `f.U.e` `v.U.em`
-  * -**u**ns `u` STS : `.an,u`
+  * -**u**ns `u` STS `.an,u`
     * *an.uns* `.an-u` ≠ anspruch
-  * **u**nser `u-er` STS : `u-er.e` `u-er-er` `u-er.es`
+  * **u**nser `u-er` STS `u-er.e` `u-er-er` `u-er.es`
   * -*unser* `.U°` `.an.U°`
 * *unter* `UNTER` `UNTER.ei-ad-er` `UNTER.ha` `.e-UNTER`
 * ur- `.ur`
@@ -3024,7 +3024,7 @@
   * -***wog***- `.og` `er.og`
     * *erwog* `er.w.og`
 * **wahl** `wa` `wa,(.el)` `er-sa.wa` `(N)-d.e:wa.en` `l.i=wa`
-  * **wähl** `wä` STS : `wä` `G.w-t` `w.bar` `w-er` `w-er.FT`
+  * **wähl** `wä` STS `wä` `G.w-t` `w.bar` `w-er` `w-er.FT`
     * *wähl* `w.el`
 * -**wahn**- `wa` `w.an.in.i` `w.an,(g)`
   * -**wähn**- `wä` `er.wä`
@@ -3230,7 +3230,7 @@
 |:-:|:-:|
 
 * **zahl** `za` `za*` `ra.za*` `(.ei)tra.za*`
-  * **zähl** `zä` STS : `er.zä` `UN.z.i`
+  * **zähl** `zä` STS `er.zä` `UN.z.i`
     * *zählen* `z.el`
     * *erzählen* `er.z`
 * **zahn** `za`
