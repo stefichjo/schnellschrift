@@ -261,7 +261,7 @@
     * *bürgerliches.gesetzbuch* `bÜ-bu`
     * *mitbürger* `M-Ü-er`
 * bus `b.us`
-  * -*bus* `(.us)` ⇒ `.us` → aut
+  * -*bus* `.us` → aut
 * butter `b.ut-er`
 
 ### [BR](#wörterbuch)
@@ -485,7 +485,7 @@
     * -**ein**- `.ei`
       * `.ei-e` `.ei-em` `.ei-en` `.ei-er` `.ei-es` `.ig.ei-e`
       * `d.ei` `k.ei` `m.ei` `s.ei`
-  * ~~*ein*~~*heit* `(H)` ⇒ `H` `UN.H.L` `E.H.L`
+  * *ein****heit*** `H` `UN.H.L` `E.H.L` @H
   * -*verein* `N` → rud sport
   * -*vereinigung* `ig` → wieder
   * -~~ein~~- `E.bar` `E.ig`
@@ -927,7 +927,7 @@
   * → gress
 * gramm ← graph
 * **graph** `gra` `gra.ik` `gra.i` `gra.it` `bi.gra.I` `b.ibl.i-gra.I` `d.gra.I` `f.on.gra.i` `ge-gra` `st.en.gra` `t.e-gra` @-o
-  * ~~*steno*~~**graph** `(gra)`
+  * *steno****graph*** `(gra)`
   * *paragraph* `pa`
   * gramm `gr.am` `gr.am.f` `f.on.gr.am` `t.e-gr.am`
     * *grammophon* `gr.am.on`
@@ -967,7 +967,7 @@
   * → heb
 * hab `h.ab` `h.ab.ir`  `h.ab.us` @ilitier
 * **haft** `ha` `ha,i` `.ei-ha` = handschrift meine.damen.und.herren ← hab
-  * ~~nam~~**haft** `(ha)` STS
+  * *nam****haft*** `(ha)` STS
 * halb `h.ab` `h.ab.ir` `h.ab-er` `h.ab.T` `(r) .od-UNG h.ab-er`
   * -*halb* `ha` → außer des inner unter wes
   * *halb*- `ha` → insel jahr wicht
@@ -1173,7 +1173,7 @@
 * *irgend* `.i`/`.ig`
   * n*irgend* `n.i`/`n.ig`
 * irr `.irr`
-  * ~~irr~~*tum* `(tum)` ⇒ `tum`
+  * *irr****tum*** `tum` @tum
 * irrit `.irr.it` `.irr.it.ir` `.irr.it.iO`
 * -is- `.iO`/`-o`
   * -isier `.ir` @-isier
@@ -1710,7 +1710,7 @@
   * modern `m.od-er` `UN.m.od-er` `m.od-er.ir`
 * *modell* `m.o-ell` `m.o-ell.ir`
 * ***mög*** `.ög`
-  * ~~*mög*~~*lich* `(L)` `(L)-t` `(o)ba.L` `(o)w.T.L` @-st
+  * *mög****lich*** `(L)` `(L)-t` `(o)ba.L` `(o)w.T.L` @-st
   * ***mag*** `.ag`
     * → macht
   * → mocht
@@ -1745,7 +1745,7 @@
 ## [N](#wörterbuch)
 
 * *nach* `ach` `.a-ach` `hi:ach` `ach.bar` ← nah
-  * ~~*nach*~~***bar*** `(bar)`
+  * *nach****bar*** `(bar)`
   * *danach* `(da)ach`
   * *näch****st*** `(-st)` `(-st).es` `(-st).e-s` `(m)(-st)` ← nah
     * *zu*<i></i>*näch****st*** `Z(-st)` ⇒ *zunächst* `-Z-n`
@@ -2615,7 +2615,7 @@
   * ***stat***, ***staat*** `.at` `.at.iO` `.at.ik` `.at.ist` `.at.ko` `ko.at.ir`
     * statik `st.at.ik`
     * *konstatier* `ko.sta.ir`
-    * ~~stat~~*ist* `(.i+st)` `(.i+st).ik` `(.i+st).isch`
+    * *stat****ist*** `(.i+st)` `(.i+st).ik` `(.i+st).isch`
     * *stat* `sta` `sta.iS.i` `sta.u.e` `sta.u.ir` `sta.us` `sta.ut`
     * **st**it `st` `IN.st.ut` `IN.st.iO` `ko.st.ir` `ko.st.iO`
       * *konstitution* `ko.st.it.iO`
@@ -2666,7 +2666,7 @@
   * stet `st.et`
     * **stät** `st` `be.st.i`
 * stein `st.N`
-  * -*stein* `N` → bims nier schorn @@
+  * -*stein* `N` → bims nier schorn
 * stell ← steh
 * ***stell*** `.ell` `ko.ell.iO`
 * ***steig*** `.eig` `I .um-sa.eig-er`
@@ -3081,7 +3081,7 @@
     * *wies* `w.is`
 * weiß ← wiss
 * weiß `w.eiss`
-* -***weit***- `T` `w.T` `w.T.er` `w.T.er.in` @@
+* -***weit***- `T` `w.T` `w.T.er` `w.T.er.in`
   * *und.so.weiter* `&.o`
   * *weiter* `T.er`
 * ***welch*** `.ech` `.ig.ech.e`
@@ -3165,7 +3165,7 @@
   * *darauf.hinwirken* `dar-AU.k`
 * **wirt** `wit`
   * *wirt*- `(wr)`
-    * ~~*wirt*~~*schaft* `(FT)` ⇒ `FT` `FT.er` `FT.N` `la.FT` `FT.L.e,ig` `G.L.e FT`
+    * *wirt****schaft*** `(FT)` ⇒ `FT` `FT.er` `FT.N` `la.FT` `FT.L.e,ig` `G.L.e FT`
       * *landwirtschaft* `(a-wr).FT` ≠ landschaft
       * *gewerbliche.wirtschaft* `G.L.FT`
 * *wiss* `.iss` `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `E.-G.iss` `E.-G.iss-t.e` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
@@ -3324,7 +3324,6 @@
 
 ## TODOs
 
-* @@
 * ⇒
 * =
 * STS
