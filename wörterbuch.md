@@ -233,7 +233,7 @@
     * *blätter* `bl.et-er`
 * **blau** `blau`
 * blei `bl.ei` `bl.ei,(.ei)` `bl.ei,i`
-* **bleib** `blei` `.S.blei` `E.blei`
+* **bleib** `blei` `.S.blei` `E.blei` @eiie
   * **blieb** `bli` STS `G.bl.i` `.S.bl.i` `(I)t-er.bl.i` `E.bl.i`
 * bleich `bl.eich` `bl.eich,u` `bl.eich-Ü.i`
 * ***blick*** `.ik` `.ik.ed` `.ikt.e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` `.aug.ik` `.aug.ik.L` `CH .um:ik`
@@ -902,9 +902,8 @@
   * *ich*.gl**au**b `.I-au`
   * *wir*.gl**au**b `wr-au`
   * ***gläub*** `.äub` `.äub.i-er` `UN.äub.i`
-* **gleich** `gl.ei` STS
-  * *gleich* `gl` :`.es.gl`
-  * **glich** `gli` ⇒ `gl.i`
+* *gleich* `gl` :`.es.gl`
+  * *glich* `gl.i`
 * gleit `gl.T`
   * glitt `gl.it`
 * ***glied*** `.id` `M.id` `M.id-er.Sa.UNG`
@@ -1161,7 +1160,7 @@
 * *inter*- `(I)t-er`
   * *intell*- `IN.t`
 * *intrig* `(I)tr.ig` `(I)tr.ig.e`
-* -*ion* `.iO`/`-o` ⇒ `*` STS
+* -*ion* `.iO`/`-o`
   * -*ional* `.i-aL`
   * -*ionell* `.i-eL`
   * -*sion* `-s` @-sion
@@ -1384,7 +1383,7 @@
 * **kunft** `ku` `Ü.N.ku` `Z.ku` `Z.Sa.ku` `.S.ku:g` STS ← komm
   * **künft** `kÜ` `kÜ.i` `N.kÜ.e` `Z.kÜ.i`
 * kunst `kust` ← könn
-  * *künst* `kYst` `kYst.e` `kYst.L` `kYst.l.er` ⇒ `kYst.er` `kYst.er.i` `G.kYst.elt`
+  * *künst* `kYst` `kYst.e` `kYst.L` `kYst.er` `kYst.er.i` `G.kYst.elt` @-ler
 * kur `k.ur` `(o)k.ur.ist`
   * *prokurist* `(o)k.ist`
 * kurb `k.ub` `k.ub.el` `.an.k.ub.el`
@@ -1463,7 +1462,7 @@
 * laub `l.aub`
   * -*l****au****b* `-au`
     * *er*<i></i>*l****au****b*en `er-au` `er-au.is`
-    * ur<i></i>*l****au****b* `.ur-au` ⇒ `.ur,au` @au
+    * ur<i></i>*l****au****b* `.ur,au` @au
 * ***lauf*** `.auf`
   * ***lief*** `.if` `be.if`
     * *lief* `l.if`
@@ -1676,7 +1675,7 @@
   * *minim* `m.in` `m.in.al` `m.in.um`
   * → minist
   * *minor* `m.in` `m.in.ät`
-  * *min****ut***e `(.ut).e` ⇒ `.ut.e`
+  * *min****ut*** `.ut` `.ut.e` @u
   * *prominent* `(o)mi`
 * *minist* `mi` `mi.er` `mi.I.en` `mi.um` `mi.at` `mi.iaL.at` ← min
   * *ministerien* `mi.er.I.en`
@@ -1747,8 +1746,8 @@
 * *nach* `ach` `.a-ach` `hi:ach` `ach.bar` ← nah
   * *nach****bar*** `(bar)`
   * *danach* `(da)ach`
-  * *näch****st*** `(-st)` `(-st).es` `(-st).e-s` `(m)(-st)` ← nah
-    * *zu*<i></i>*näch****st*** `Z(-st)` ⇒ *zunächst* `-Z-n`
+  * *näch****st*** `(-st)` `(-st).es` `(-st).e-s` `(m)(-st)` `Z(-st)` ← nah
+    * *zunächst* `-Z-n`
 * ***nacht*** `acht` `g.est.acht`
 * nah `n.ah` `G.n.a-t`
   * *beinahe* `b.ei,(.e)`
@@ -1927,7 +1926,7 @@
 * **per**- `p`
 * perg `p.eg` `p.eg.eNT`
 * *peri*- `p` `p.od.e` `p.od.ät`
-  * -*peri****od***e ⇒ -*periode* `.od.e` → gang
+  * -*periode* `.od.e` → gang
 * *person*, *persön* `p` `p.al` `p.al.ko` `p.L`
 * **pfleg** `pfl`
   * **pflog** `pflo`
