@@ -2973,10 +2973,14 @@
   * *soviel* `.o-l` ≠ weil
 * vier `v.ir`
   * *viert* `vi` : `vi.el`
-* -**v**is- `v` @-sion
-  * : `v.is.iO` `v.is.iO.är` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` `v.is.ell` `v.isr` `v.is.um` `v.is.a`
-  * : `d.e-w.e` `d.e-w.en`
-  * : `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `(o)w.or.I.en` `r.w-o` `r.w.or` ← vid
+* -**v**is- `v` ← vid @-sion
+  * `v.is` `v.is.är`
+  * `v.is.e` `v.is.ir` `v.is.iO`
+  * `v.is.ir` `v.is.ell` `v.is.um` `v.is.a`
+  * `d.e-w.e` `d.e-w.en`
+  * `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `(o)w.or.I.en` `r.w-o` `r.w.or`
+  * visit `v.is.it` : `v.is.it.e` `v.is.it.ir` `v.is.it.iO` @verkehrsschrift
+  * vis*ion* `v.is.iO` : `v.is.iO.är` @verkehrsschrift
   * *devis* `d.e-is` : `d.e-is.e` `d.e-is.en`
   * *provisorien* `(o)w.I.en`
 * *volk*, *völk*
@@ -3326,7 +3330,7 @@
 ## TODOs
 
 * entfernen
-  * _* : `_ (69)
+  * _:_ ()
   * @@
 
 * ⇒
