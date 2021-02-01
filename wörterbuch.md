@@ -376,7 +376,7 @@
 * *deutschland* `SCH-a` `bu:r.ik,SCH-a`
   * *bundesrepublik.deutschland* `bu,SCH-a`
 * di- `d.i-` STS
-* *dia*- `di` `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op` @@
+* *dia*- `di` `d.i-b.es` `d.ib.ik-er` `di.os.e` `di.on.al` `d.al.ekt` `d.al.ik` `d.al.i` `di.og` `di.m.aNT` `di.op`
 * *didakt* `d.id` `d.id.ik` `d.id.ik-er` `d.id.i`
 * *die* `I` `d.I` `f.I`
   * *dass.die* `d I` ≠ dass.ich
@@ -1399,9 +1399,7 @@
   * **kürz** `kÜ` `kÜ.e` `kÜ.er` `.am.kÜ.est` `kÜ-t.e` `kÜ.el` `kÜ.L` `kÜ.UNG` `.ab.kÜ` `E.kÜ`
 * kuss `k.uss` STS
   * küss `k.üss`
-* *kuss* `-u-` `ds-u` `p-u-o` ← kut @-sion
-* *kut* `-u-` `ds-u.ir`
-  * → kuss
+* *kut*, *kuss* `-u-` `ds-u.ir` `ds-u` `p-u` @-sion
 
 ### [KR](#wörterbuch)
 
@@ -2233,11 +2231,8 @@
   * ***wes*** `.es` `.es.a` `.es.ha` `.es.H` `.es.L` `.es.os` `.ab.es.ed` `.ab.es.H` `.an.es.ed` `.an.es.H` `.im.es.L`
     * *gewes* `-G` `da.-G`
     * *im.wesentlichen* `.im.L`
-* ***seit*** `T` `T.e` `T.en` `T.ang` `T.L` `T,(.e)` `T.wets` `.ad-er.Ts` `be.T.ig` `b.ei-T.e` `.eid-er.Ts` `g.T.ig` `.ir-er.Ts` `rÜ.T.e` `AU-er .ad-er.en T.e` `AU.al.T.en` `AU.eid.T.en` `v.eid.T.en` `AU.iS-er T.e` `AU-er .ei-en T.e` `v.MR.T.en` `v,u-er-er.T.e`
-  * seiten**lang** `s.T.ang`
-  * seitwärts `s.T.wets`
-  * beiseite `b.ei-s.T.e`
-  * ***seit***ens `T.e-s` `s.T.e-s` @@
+* ***seit*** `T` `T.e` `T.en` `T.e-s` `T.ang` `T.L` `T,(.e)` `T.wets` `.ad-er.Ts` `be.T.ig` `b.ei-T.e` `.eid-er.Ts` `g.T.ig` `.ir-er.Ts` `rÜ.T.e` `AU-er .ad-er.en T.e` `AU.al.T.en` `AU.eid.T.en` `v.eid.T.en` `AU.iS-er T.e` `AU-er .ei-en T.e` `v.MR.T.en` `v,u-er-er.T.e`
+  * seit `s.eit` `s.T.ang` `s.T.e-s` `s.T.wets` `b.ei-s.T.e` ≠ zeitlang bearbeite bereite
   * *auf.dieser.seite* `AU-i.T.e`
   * *auf.der.einen.seite* `AU.ei-en.T.e`
   * *auf.der.anderen.seite* `AU-a.T.e`
@@ -3329,17 +3324,12 @@
 
 ## TODOs
 
-* entfernen
-  * _:_ ()
-  * @@
-
+* @@
 * ⇒
 * =
 * STS
 * @STS
 * ⟸
-
-* `d.N` `k.N` `m.N` `s.N`
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
@@ -3354,7 +3344,6 @@
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
 * Ausweichen in beide Richtungen: (erklären, ernähren), (seelisch, selig)
-
 
 * *regelmäßigkeit* `r.el.ess.i-T`
 * reg*ion* `r.eg.iO` `r.eg.i-aL` ≠ religion
