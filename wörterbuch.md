@@ -2284,7 +2284,8 @@
     * *gesetzmäßig* `-G.ess.i`
     * *gesetzwidrig* `-G,i` = gesicht
     * *grundgesetz* `GR`
-* **seuch** `seu` `seu-e` `eNT.seu` `E.seu` ⇒ `E-seu` ← siech
+* **seuch** `seu` `seu-e` `eNT.seu` __`E.seu`__ ← siech
+  * *verseuch* `E-seu`
   * -*seuche* `eu`
 * *sich* `CH` `ha.CH`
   * *hat.sich* `ha°`
@@ -2345,7 +2346,7 @@
 * **sitz** `si` `be,si` `O,si` `sp,si`
   * *vor*<i></i>*s****i****tz* `O-i` `O-i.er` `O-i.ed-er`
   * *besitz* `be.s.i` `be-si`
-  * ***sitz****ung* ⇒ *sitzung* `.iz*`
+  * *sitzung* `.iz*`
   * → saß
   * → sass
   * → satz
@@ -2364,9 +2365,9 @@
   * **s**ol `s` `r.s.ut` `r.s.iO`
     * *absol* `ab` `.ab.ut` `.ab.iS` `.ab.iS.i` @-istisch
 * *sommer* `s.om`
-* son `s.on` `s.on.at.e` `ds.s.on.az`
+* son `s.on` `s.on.at.e` __`ds.s.on.az`__ __`ko.s.on.aNT`__
   * *dissonanz* `d.is-s.o`
-  * **kon***s*on ⇒ *konson* `ko-s` `ko-s.aNT`
+  * *konson* `ko-s` `ko-s.aNT`
 * *sonder* `S` `S.bar` `S,au` `S.barst.e`
   * *besonder*, *besonders* `b°`
     * -*besonder*, -*besonders* `-S` → ganz in merk
@@ -2416,8 +2417,7 @@
 * **schaff** `scha` `scha*`
   * **schaff***ung* `scha.UNG` ≠ krankheit @Eilschrift
 * schaft `sch.aft`
-  * -*schaft* `FT` @-schaft
-    * *gewerkschaft* `G.wer.scha`
+  * -*schaft* `FT`
   * *beschäftig* `be-t.ig` `be-t.igt.e` `be-t.igt.en` `be-t.ig.l.os` `I n.eb.be-t.ig`
   * *geschäft* `GT` `GT.e` `GT.L` `GT.ch.en` `GT,eu`
 * schall `sch.all` `.utra:sch.all`
@@ -2518,7 +2518,7 @@
 * ***schreib*** `.eib` `gu.eib`
   * ***schrieb*** `.ib`
   * ***schrift*** `.ift`
-    * -schr**i**ft ⇒ -*schrift* `i` `.ab,i` `M,i` `UNTER,i` `UNTER,i-en` `Z,i` → hand kurz schnell
+    * -*schrift* `i` `.ab,i` `M,i` `UNTER,i` `UNTER,i-en` `Z,i` → hand kurz schnell
 * -***schreit***- `T` `schr.T` `schr.T.ed` `.S.T` `N.T` `GR-Ü.T.UNG` `Ü.T` `O-ts.T` `-t-Ü.T`
   * *einschreit* `N,(T)`
   * -***schritt***- `.it` `schr.it` `G.it` `fr.it` `rÜ.it` `rÜ.it.L`
@@ -2657,8 +2657,8 @@
   * → stadt
   * → stand
   * **stall** `sta`
-  * *stell* `.ell` `GT.ell.e` `.an.ot.ell.e`
-    * *stell*<i></i>*ung* `.ell-UNG` ⇒ `st*`
+  * *stell* `.ell` `.ell-UNG` `GT.ell.e` `.an.ot.ell.e`
+    * *stellung* `st*`
     * -*steller* `(er)` → trag
   * **statt** `sta` `sta.ha` `sta.L` `er.sta`
     * -*erstatter* → bericht
@@ -2690,8 +2690,7 @@
 * *stockholm* `st.ho`
 * **stoff** `.of` `kust-of` `(k).of` @st
 * **stolz** `.oz` @st
-* *stück* `Ük` `frÜ-Ük` ⇒ `frÜ.ük` `G.p-Ük`
-  * *stück* `.ük`
+* *stück* `Ük` `.ük` `frÜ.ük` `G.p-Ük` @Ü
 * **stud** `.ud` `.ud.ir` `.ud.I.e` `.ud.um` @st
 * **stuf** `.uf` `.uf.e` @st
 * st**u**nd `u` `u.e` `u.en` `u-UNG` `(l.ei),u.e` `(ei-er),u.e` `UNTER,ri,u.en` ← steh
@@ -2899,14 +2898,14 @@
   * *trat* `tr.at` `(E)tr.at`
 * **treu** `treu`
   * -*treu* `eu` → könig
-* **tro**tz `tr.o` `tr.o-r` `tr.o-es` `tr.o-m` `tro-al.em` `tro-al.e,(m)`
+* **trotz** `tr.o` __`G.tr.o`__ `tr.o-r` `tr.o-es` `tr.o-m` `tro-al.em` `tro-al.e,(m)`
   * *trotzdem* `(o)(m)`
 * trug ← trag
 * -**trug**- `tru` `tr.ug` `be.tru`
   * -**trüg**- `trÜ` `tr.üg` `tr.üg-er.i` `(be)trÜ` `(be)trÜ-er` `(be)trÜ.ei-en` `(be)trÜ.i` `UN.trÜ.L`
     * *untrüglich* `UN.tr.üg.L`
-  * trog ⇒ *trog* `tr.og` `G.tr.og` `(be)tr.og`
-    * *betrogen* `(be)tr.o`
+  * -**trog**- `tr.o` `G.tr.o` `(be)tr.o`
+    * *ge*trog `G.tr.og` ≠ getrotzt
 
 ## [U](#wörterbuch)
 
@@ -3032,7 +3031,7 @@
 * walt `wat` `G.wat` `pr.iaL:wat` `E.wat`
   * *anwalt* `.an-t` `R.an-t`
     * *rechtsanwalt* `R.an`
-  * *verwalt****ung*** `(UNG)` ⇒ `UNG` `UNG.ik` `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG`
+  * *verwalt****ung*** `UNG` `UNG.ik` `UNG.ko` `ko-u.al-UNG` `(.es).UNG` `sta.UNG` @-ung
   * wält `wet` `be.wet.ig` `Ü.wet.ig.ed`
 * wand `w.ad`
 * wand ← wind
@@ -3166,7 +3165,7 @@
   * *darauf.hinwirken* `dar-AU.k`
 * **wirt** `wit`
   * *wirt*- `(wr)`
-    * *wirt****schaft*** `(FT)` ⇒ `FT` `FT.er` `FT.N` `la.FT` `FT.L.e,ig` `G.L.e FT`
+    * *wirt****schaft*** `FT` `FT.er` `FT.N` `la.FT` `FT.L.e,ig` `G.L.e FT` @-schaft
       * *landwirtschaft* `(a-wr).FT` ≠ landschaft
       * *gewerbliche.wirtschaft* `G.L.FT`
 * *wiss* `.iss` `.iss-t.L` `.iss,(-t)` `G.iss` `G.iss.H` `E.-G.iss` `E.-G.iss-t.e` `s.ig.iss` `UN.iss.ed` `UN.iss.H` `UN-G.iss` `UN-G.iss.H` `sI=iss` `w.i-sI=iss` `ga.iss`
@@ -3325,7 +3324,6 @@
 
 ## TODOs
 
-* ⇒
 * =
 * STS
 * @STS
@@ -3339,7 +3337,7 @@
 
 * fügsam @`.üg-Sa` aktion
 
-* *alt* `.alt` ⇒ (alt)/"alt"/'alt'/«alt»/»alt«/_alt_/ALT `.alt` (Verkehrsschrift)
+* *alt* `.alt` `.ur.alt` @verkehrsschrift
 * **jed**e `j.e` (Eilschrift)
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
