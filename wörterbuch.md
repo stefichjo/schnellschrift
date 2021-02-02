@@ -1403,7 +1403,7 @@
 
 ---
 
-* *kultur* `u-ur` `u-ur.ell` = __struktur__
+* *kultur* `u-ur` `u-ur.ell` = __struktur__ __strukturell__
 
 
 ### [KR](#wörterbuch)
@@ -2741,8 +2741,8 @@
 
 ---
 
-* *struktur* `str.uk` ≠ kultur
-* *strukturell* `str.ell` ≠ kulturell
+* *struktur* `str.uk` `str.uk.ell` ≠ kultur kulturell
+  * *strukturell* `str.ell`
 
 ## [T](#wörterbuch)
 
