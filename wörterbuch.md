@@ -1403,7 +1403,7 @@
 
 ---
 
-* *kultur* `u-ur` `u-ur.ell` = struktur
+* *kultur* `u-ur` `u-ur.ell` = __struktur__
 
 
 ### [KR](#wörterbuch)
@@ -2737,9 +2737,12 @@
   * **ström** `.öm` `.öm-UNG` @str
 * str**u** `u` `IN,u-ir` `IN,u-met` `IN,u-met.al` `IN,u-met.ar.um` `IN,u-met.O` `IN,u-met.ir-UNG` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * *instrument* `IN.u-met` `IN.u-met.al` `IN.u-met.ar.um` `IN.u-met.O` `IN.u-met.ir-UNG` `IN.u-met,bau`
-  * str**u**kt `u` `u-ur` `u-ur.ell` `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur`
-    * *struktur* `str.uk` ≠ kultur
-      * *strukturell* `str.ell`
+  * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur` @
+
+---
+
+* *struktur* `str.uk` ≠ kultur
+* *strukturell* `str.ell` ≠ kulturell
 
 ## [T](#wörterbuch)
 
