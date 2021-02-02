@@ -7,8 +7,7 @@
 
 * ab `.ab` `.ab.a`
 * *ab****end*** `(.ed)`
-* *aber* `ber` `ber.ma-s` __`ber,au`__ `ber+r` @r+r
-  * *aber.auch* `ber-aY` @au
+* *aber* `ber` `ber.ma-s` __`ber,au`__ `ber+r` @au @r+r @STS
 * acht `.acht` `.acht-Sa` `be.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
   * -*acht* `.a` `gu.a.en` `gu.a.er`
@@ -278,7 +277,8 @@
 * **brech** `br`
   * **brich** `bri`
   * **brach** `bra`
-    * **bräch** `br`
+    * **bräch** __`brä`__ @-ä
+      * `br` ≠ brächte
   * **broch** `bro` `UN.UNTER.bro`
     * *ununterbrochen* `UN.UNTER`
   * **bruch** `bru`
@@ -402,7 +402,7 @@
 * *dis*- `ds`
 * *distrikt* `(ds)tr.ikt` ← strikt
 * *diplom* `di.om` `di.om.at` `di.om.I` `di.om.isch`
-  * **d**as.*diplom*at**isch**e.**corps** `d,di-om.ko`
+  * *das.diplomatische.corps* `d,di-om.ko`
 * *doch* `d-ch` `j.e-d-ch`
   * *jedoch* `j-ch`
 * doktor ← doz
@@ -449,7 +449,7 @@
 * **dring** `dri` `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
   * **drang** `dra` `dra.Ol` `dra.s.al`
     * *drang* `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
-    * **dräng** __`drä`__ `dr.el` __`be.drä`__ `be.dr.is` __`E.drä`__ `E.dr.UNG` @STS
+    * **dräng** __`drä`__ `dr.el` __`be.drä`__ `be.dr.is` __`E.drä`__ `E.dr.UNG` @-ä @STS
   * **drung** `dru` `G.dru` `N.dru`
 * **droh** `dr.o` `be.dr.o-L`
 * **druck** `dru` `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `N.dru` `ach.dru`
@@ -511,7 +511,7 @@
 * emp*f****e****hl* `.emp-e` ← fehl
   * emp*f****ie****hl* `.emp-i`
   * emp*f****a****hl* `.emp-a`
-  * emp*f****o****hl* __`.emp-o`__
+  * emp*f****o****hl* __`.emp.o`__ @-o
     * *empfohl* `.emp`
 * emp*f****i****nd* `.emp-i` ← find
   * emp*f****a****nd* `.emp-a`
@@ -2579,7 +2579,7 @@
 * **spitz** `.iz` @sp
 * **sp**iz `sp` `IN.sp.ir`
   * **spekt** `sp` `(o)sp` `r.sp`
-    * *in***spekt***ion* `IN.sp.iO
+    * *in***spekt***ion* `IN.sp.iO`
   * spek `sp.ek` `sp.ek.iO` `sp.ek.ir`
 * spontan `sp.ot.an` `sp.ot.an.ät`
 * *sp****ort*** `(.ot)` `(.ot).N` `wi-er.ot`
@@ -3351,4 +3351,5 @@
 * *berat* `Ra` = __errat__
 * *dräng* `dr.eng` `dr.eng.el`
 * *dräng* `dr` `be.dr` `E.dr`
+* *aber.auch* `ber-aY`
 
