@@ -2741,7 +2741,7 @@
 
 ---
 
-* *struktur* `str.uk` `str.uk.ell` ≠ kultur kulturell
+* *struktur* `str.uk` `str.uk.ell` ≠ __kultur__ __kulturell__
   * *strukturell* `str.ell`
 
 ## [T](#wörterbuch)
