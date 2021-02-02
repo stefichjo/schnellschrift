@@ -550,6 +550,9 @@
 * **ex**- `.e`
 * *exekut* `.ex.ut` STS `.ex.ut.ir` `.ex.ut.iv.e` `.ex.ut.iO` ← sequ
 * exemp ← em
+* *ex*plodier `.e-pl.od.ir` ← plod
+  * *ex*<i></i>*plos* `pl` `.e-pl` `.e-pl.iv` ← plos @-sion
+    * *explosion* `.e-pl-o`
 
 ## [F](#wörterbuch)
 
@@ -1926,7 +1929,7 @@
 * **per**- `p`
 * perg `p.eg` `p.eg.eNT`
 * *peri*- `p` `p.od.e` `p.od.ät`
-  * -*periode* `.od.e` → gang
+  * -*periode* `.od.e` → übergang
 * *person*, *persön* `p` `p.al` `p.al.ko` `p.L`
 * **pfleg** `pfl`
   * **pflog** `pflo`
@@ -1945,10 +1948,8 @@
   * ***plätz*** `.ez` `.ez.e`
 * plaus `pl.aus` `pl.aus.ib.el` `pl.aus.ib.ät`
 * plik pliz plex → komplik
-* plod `p.lod`
-  * *ex*plodier `.e-pl.od.ir`
-  * *plos* `pl` `.e-pl-o`
-    * *ex*<i></i>*plos*iv `.e-pl.iv`
+* plod → explod
+  * plos → explos
 * ***plötz*** `.oz` `.oz.L`
 * po `p.o`
   * poesie `p.o-es.I`
@@ -1960,7 +1961,7 @@
 * *poliz* `li` `li.ei` `li.ist` `(.es),li.ei`
   * *landespolizei* `(.es).l.ei`
 * ***pon*** `.on` `d.e-on.ir` `ds.on.ir` `kom.on.eNT.e` `kom.on.ir` `tra.on.ir`
-  * deponier `(d.e)p.on.ir` ⟸ depot
+  * deponier `(d.e)p.on.ir` ⇐ depot
   * *komponente* `kom.o-nt.e`
   * *posit* `pos` `pos.iv`
     * *position* `pos` `(ds)pos` `kom-os`
@@ -1975,7 +1976,7 @@
   * postier `p.o+st.ir` STS ≠ postulieren
   * postulier `p.o+st.ul.ir` ≠ postieren
   * *postulat* `p.o+st.at`
-  * *kom***post** ⇒ *komp****ost*** `kom.ost` `kom.o+st.ir`
+  * *kom***post** `kom.ost` `kom.o+st.ir`
   * → depot
 * puber `p.ub-er` `p.ub-er.ir` `p.ub-er.ät`
 * *publ* `p.ub` `p.ub.ik` STS `p.ub.ir` `p.ub-o` `p.ub.um` `p.ub.ist` `p.ub.iS.i` `p.ub.ät` `(r)p.ub.ik` `(r)p.ub.ik-er` `(r)p.ub.ik.i` `bu:(r)p.ub.ik` @-ikation
@@ -2251,8 +2252,9 @@
 * *semi****nar*** `(n.ar)` `(n.ar).iS.i` @-istisch
 * sen `s.en` `s.en.il` STS `s.en.or`
   * *senat* `s.at`
-* **send** `s` `.ab.s` ⇒ `.ab-s` `.ab.s.er` ⇒ `.ab-s-er` `N.s` ⇒ `N-s` `N.s.er` ⇒ `N-s-er`
-  * sandt `s.adt` `G.s.adt`
+* send `s.ed` _`s.ed-er`_ `.ab.s.ed` `N.s.ed`
+  * -*sender* `-s-er` `.ab-s-er` `N-s-er`
+  * sand `s.ad` `s.adt.e` `G.s.adt`
 * sent `set` `pr.set` `pr.set.ir` `(r)pr.set.aNT`
   * *präsent* `pr.s.eNT`
     * *repräsentant* `(r)pr.aNT`
@@ -2267,7 +2269,7 @@
   * → exekut
 * **ser** `s` `IN.s.at` `IN.s.ir`
 * serv `s.ew` `s.ew.ir`
-  * **kon**<i></i>**serv** ⇒ *konserv* `ko-s` `ko-s.e` `ko-s.iv` `ko-s.ir`
+  * *konserv* `ko-s` `ko-s.e` `ko-s.iv` `ko-s.ir`
     * *konserve* `ko-s`
 * -**setz**- `s` `s.ez` `s.ezt.e` `s.ez.er` `s.ez.er.ei` `.ab.s` `be.s` `N.s` `er-s` `UN.er-s.L` `fr.s` `eNT.g.s` `O.S-s` `UNTER-r,O-S-s` ← sitz @-erei
   * *entgegensetz* `eNT.g-s`
@@ -3327,7 +3329,7 @@
 * =
 * STS
 * @STS
-* ⟸
+* ⇐
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
