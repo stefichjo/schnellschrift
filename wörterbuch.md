@@ -507,13 +507,13 @@
 * em
   * emp
     * *exemp*, *exempl* `.ex` `.ex.el` `.ex.ar` `.ex.ar.i`
-* *empfang* = emp*f****a****ng* `.emp-a` ← fang
-  * *empfäng* = emp*f****ä****ng* `.emp-e`
-  * *empfing* = emp*f****i****ng* `.emp-i`
+* emp*f****a****ng* `.emp-a` ← fang
+  * emp*f****ä****ng* `.emp-e`
+  * emp*f****i****ng* `.emp-i`
 * emp*f****e****hl* `.emp-e` ← fehl
   * emp*f****ie****hl* `.emp-i`
   * emp*f****a****hl* `.emp-a`
-  * emp*f****o****hl* `.emp-o` STS
+  * emp*f****o****hl* __`.emp-o`__
     * *empfohl* `.emp`
 * emp*f****i****nd* `.emp-i` ← find
   * emp*f****a****nd* `.emp-a`
@@ -713,9 +713,9 @@
 * **flekt** `fl`
   * flekt `fl.ekt`
   * **flex** `fl` `fl.ib.el` `fl.ib.ät` `fl.iO`
-* -***flieh***- `.ih` `fl.ih` STS `eNT.ih`
-  * *flieh* `fli` = fließ
-  * -***floh***- `.oh` `fl.oh` STS `G.oh`
+* -***flieh***- `.ih` __`fl.ih`__ `eNT.ih`
+  * *flieh* `fli`
+  * -***floh***- `.oh` __`fl.oh`__ `G.oh`
   * → flucht
 * **fließ** `fli`
   * **floss** `flo`
@@ -729,8 +729,8 @@
   * *influenza* `IN.flu.a`
 * ***flucht*** `.ucht` ← flieh
   * ***flücht*** `.ücht` `.S.ücht.e`
-    * *flüchtli****ng*** `(ng)` `(ng)-Ü.o` = `ing`; = beding
-    * -*flüchtling* = -*fl****ü****cht****ling*** `Ü.ing` `(r)-Ü.ing` `N-Ü.ing`
+    * *flüchtli****ng*** `(ng)` `(ng)-Ü.o` = beding
+    * -*flüchtling* `-Ü.ing` `(r)-Ü.ing` `N-Ü.ing`
 * *föder* `fö` `fö.iS` `fö.iS.i` `fö.iO`
 * **folg** `fo` `fo.L` `fo-Sa` `fo.er-UNG` `G.fo` `er.fo` `er.fo-eich` `ach.fo.er` `ach.fo.FT` `ms.er.fo` `er fo` `er fo-t.e` `IN.fo-e` `IN.fo-e.es.en` `wr fo-t` `zr.fo.ha`
   * *infolge* `IN.o`
@@ -969,7 +969,7 @@
   * → heb
 * hab `h.ab` `h.ab.ir`  `h.ab.us` @ilitier
 * **haft** `ha` `ha,i` `.ei-ha` = handschrift meine.damen.und.herren ← hab
-  * *nam****haft*** `(ha)` STS
+  * *nam****haft*** __`(ha)`__
 * halb `h.ab` `h.ab.ir` `h.ab-er` `h.ab.T` `(r) .od-UNG h.ab-er`
   * -*halb* `ha` → außer des inner unter wes
   * *halb*- `ha` → insel jahr wicht
@@ -1208,7 +1208,7 @@
 * ja `j.a`
 * **jahr** `ja` `GTs:ja` `frÜ.ja` `ha.ja` `ja.S ja.N`
   * **jahr**.~~für~~.**jahr** `ja.ja`
-  * -*jahr* = -***jahr*** `.ar` `.im.ar.e` `.im.let.ar` `.im(-st).ar` `.im-o.ar` `.im (g).ar` `(I)let.ar.en` `(I)n,(-st).ar.en` `IN.iS.ar`
+  * -*jahr* `.ar` `.im.ar.e` `.im.let.ar` `.im(-st).ar` `.im-o.ar` `.im (g).ar` `(I)let.ar.en` `(I)n,(-st).ar.en` `IN.iS.ar`
     * *in*.**ein**er.reihe.~~von~~.*jahr*en `IN.ei-er-r.eih.ar.en`
     * im.*ver*~~gang~~enen***jahr*** `.im.E.ar`
   * -*jahre 19****80*** `(80)` `.im,(80)`
@@ -1501,7 +1501,7 @@
 * lekt `l.ekt` `l.ekt.iO` `l.ekt.or` `l.ekt.ür.e` `IN.t.ekt` `IN.t.ekt.ell` `ko.ekt.iO` `ko.ekt.iv` ← leg
 * lern `l.en`
 * letz `l.ez` `E.l.ez` `E.l.ez°`
-  * *verletzt* = *ver***letz**t `E.l-t`
+  * → verletz
 * *letzt* `let`
 * ***leut*** `.eut` `.eut.e` `fa.eut.e` `la.eut.e`
   * *landsleute* `la-s.eut.e` ≠ landleute
@@ -1755,7 +1755,7 @@
 * nah `n.ah` `G.n.a-t`
   * *beinahe* `b.ei,(.e)`
   * näh `n.äh` `G.n.ä-t` `n.äh.er-er`
-    * *näher* = näh~~er~~ `n.äh` `G.n.äh` `n.äh.es`
+    * *näher* `n.äh` `G.n.äh` `n.äh.es` @-er
       * *annäher* `.an,(er)` `.an,(er).d`
     * → nächst
   * → nach
@@ -1770,7 +1770,7 @@
   * ***näm*** `.äm` `.äm.L`
 * **nat** `na` STS `na.iO` `na.iO.ch.en` `na.i-aL` `na.i-al.ät` `(I)t-er.na.i-aL` `kut.ur.na.iO`
   * *nati****on*** `(.on)` STS `(.ön).ch.en` `kut.ur+(.on)`
-    * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = region STS
+    * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
       * *kulturnation* `kut.ur.iO`
   * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional @STS
     * *international* `(I)t-er-a`
@@ -1961,7 +1961,7 @@
 * *poliz* `li` `li.ei` `li.ist` `(.es),li.ei`
   * *landespolizei* `(.es).l.ei`
 * ***pon*** `.on` `d.e-on.ir` `ds.on.ir` `kom.on.eNT.e` `kom.on.ir` `tra.on.ir`
-  * deponier `(d.e)p.on.ir` ⇐ depot
+  * deponier `(d.e)p.on.ir` @depot
   * *komponente* `kom.o-nt.e`
   * *posit* `pos` `pos.iv`
     * *position* `pos` `(ds)pos` `kom-os`
@@ -2074,7 +2074,7 @@
     * *regierung* `ir-UNG` `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
       * *landesregierung* `(.es).ir-UNG`
-  * *reg****ion*** `(.iO)` `(.i-aL)` = nation @STS
+  * *reg****ion*** __`(.iO)`__ `(.i-aL)` = nation @STS
   * → rig
   * → rekt
 * ***reich*** `.eich` `.eich.L` `be.eich` `er.eich` `Ü.eich`
@@ -2768,7 +2768,7 @@
 * teger `t.eg-er` `IN.t.eg-er` ← tang
   * *integr* `IN.egr` `IN.egr.al` `IN.egr.ir` `IN.egr.iO` `IN.egr.ät`	
 * *t****eil*** `(.eil)` `(.eil).bar` `(.eil).er` `(.eil)-s` `.ab.eil-UNG` `be.eil.i` `ach.eil.e` `O.eil.ha` `s.az.eil`
-  * *urteil* = *ur*~~teil~~ `ur` `ur.e` `t.o.ur`
+  * *ur*~~teil~~ `ur` `ur.e` `t.o.ur`
 * tekt `t.ek+t` `t.ek+t.on.ik` `t.ek+t.on.i` ← techn
   * -*tekt* `.ekt` → arch
 * **tel** `t` `t.f` `t.f.at` `t.f.ir` `t.f.i`
@@ -2934,11 +2934,12 @@
   * *vate****r***- `(r)` → land
   * väter `v.ät-er`
 * **ven** `v` `(I)t-er.w.ir` `(I)t-er.w-o`
-  * *vent* `v` `.e-v.ät` `ko.w-o` `ko.w.i-aL,(.e)`
-    * evtl. `.evt.l`
-    * *invent* = *in*<i></i>*ven****t*** `IN-t` `IN-t.ar` `IN-t.ar.ir` `IN-t.ur`
+  * → vent
+* *vent* `v` `.e-v.ät` `ko.w-o` `ko.w.i-aL,(.e)` ← ven
+  * evtl. `.evt.l`
+  * *invent* `IN-t` `IN-t.ar` `IN-t.ar.ir` `IN-t.ur`
 * *ver*- `E`
-* verletz ← letz
+* *ver***letz** `E.l` `E.l-t` ← letz
 * *ver***lier** `E,li` ← lier
   * *verlier* `(E)li`
   * *ver***lor** `E.lo`
@@ -3119,7 +3120,7 @@
   * → wurf
 * werk `w.ek` `b.eg.w.ek` `G.w.ek.FT` `hi.w.ek`
   * *gewerkschaft* `(k).FT`
-  * -*werk* = -***werk*** `.ek` → hand wasser
+  * -*werk* `.ek` → hand wasser
 * wert `wet` `wet.Ol` `.ab.wet`
   * -*wert* `(-t)` → hoch nahr nenn staun streb
 * wes ← sein
@@ -3193,7 +3194,7 @@
 * *woll* `(.ol)`
   * *will* `(.l)`
 * wort `wot`
-  * *antwort* = *ant*~~wort~~ `aNT` `(be)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
+  * *ant*~~wort~~ `aNT` `(be)aNT` `(E)aNT` `(E)aNT.L` `(E)aNT,u-N`
   * -*wort* `o` → bind schlag sprech
 * wund ← wind
 * **wund** `wu` `wu-er` `wu-er.Ol` `be.wu-er`
@@ -3324,10 +3325,8 @@
 
 ## TODOs
 
-* =
 * STS
 * @STS
-* ⇐
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
