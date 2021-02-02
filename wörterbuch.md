@@ -2252,7 +2252,7 @@
 * *semi****nar*** `(n.ar)` `(n.ar).iS.i` @-istisch
 * sen `s.en` `s.en.il` STS `s.en.or`
   * *senat* `s.at`
-* send `s.ed` _`s.ed-er`_ `.ab.s.ed` `N.s.ed`
+* send `s.ed` __`s.ed-er`__ `.ab.s.ed` `N.s.ed`
   * -*sender* `-s-er` `.ab-s-er` `N-s-er`
   * sand `s.ad` `s.adt.e` `G.s.adt`
 * sent `set` `pr.set` `pr.set.ir` `(r)pr.set.aNT`
