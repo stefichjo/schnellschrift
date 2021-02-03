@@ -119,10 +119,10 @@
 
 * *aber.auch* `ber-aY`
 * akt `.akt`
-  * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
-    * *aktionär* `(.I).är`
-      * *aktionär* `(.är)`
-  * reaktor `r.akt.or` ≠ rentner
+* *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
+* *aktionär* `(.I).är`
+* *aktionär* `(.är)`
+* reaktor `r.akt.or` ≠ rentner
 
 ## [B](#wörterbuch)
 
@@ -359,8 +359,8 @@
   * *mit.dem* `MM` P
 * **dem** `d.e` → krat
 * *de****n*** `(n)` `(I)n` `M.n` `v.n`
-  * *mit.den* `MN` P (3-stufiges M)…
-  * *von.den* `VN` P (3-stufiges V)…
+  * *mit.den* `MN` P @3-stufiges-m
+  * *von.den* `VN` P @3-stufiges-v
 * denk `d.ek` `d.ek.ed` `d.ek-er` `d.ek.ma` `UN.d.ek.bar` `ach.d.ek.L`
   * **dacht** `da` `E.da`
     * **dächt** `dä` `dä-e` `G.d.is` `E.d.i`
@@ -430,8 +430,7 @@
 * duld `d.ud` `d.ud.ed` `d.ud.et.e` `d.ud-Sa.T` `d.ud-UNG` `G.d.ud` `UN-G.d.ud.i`
 * *dunkel* `d.uk` `d.uk.H` `E.d.uk` `E.d.uk-t.e`
 * dunst `d.ust` @`dust`
-* *durch* `dr` `.a-dr`
-  * *dadurch* `a-dr` ≠ ander
+* *durch* `dr` `.a-dr` …
 * **dürf** `dÜ` `dÜ-t.e`
   * *bedürf* `be-Ü` `be-Ü.is` `be-Ü-t.ig` `hi.be-Ü-t.ig`
     * -*bedürf* `-Ü` `d-Ü.is` `I-Ü.iss.e` `N-Ü.is` → besser dring hohl
@@ -443,13 +442,16 @@
 * *dynam* `d.ün` `d.ün.ik` `d.ün.it` `d.ün.i` `d.ün.o` `.er.d.ün.i`
   * *aerodynamisch* `.er.o-d.yn.i`
 
+---
+
+* *dadurch* `a-dr` ≠ ander = __drang__
+
 ### [DR](#wörterbuch)
 
 * dreh `dr.eh` `ha.um:dr.eh`
   * *handumdrehen* `ha.um`
 * **dring** `dri` `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
-  * **drang** `dra` `dra.Ol` `dra.s.al`
-    * *drang* `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
+  * **drang** __`dra`__ __`dra.Ol`__ __`dra.s.al`__
     * **dräng** __`drä`__ `dr.el` __`be.drä`__ `be.dr.is` __`E.drä`__ `E.dr.UNG` @-ä …
   * **drung** `dru` `G.dru` `N.dru`
 * **droh** `dr.o` `be.dr.o-L`
@@ -463,6 +465,13 @@
     * *ausdrücklich* `.S-Y.L`
     * *eindrücke* `N-Ük.e`
     * *nachdrücklich* `ach-Ü.L`
+
+---
+
+* *drang* `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
+  * *dräng* `dr.eng` `dr.eng.el`
+  * be*dräng* `be.dr`
+  * *ver*<i></i>*dräng* `E.dr`
 
 ## [E](#wörterbuch)
 
@@ -1772,11 +1781,8 @@
   * *namentlich* `-t.L`
   * *im.namen* `.im.en`
   * ***näm*** `.äm` `.äm.L`
-* **nat** __`na`__ `na.iO` `na.iO.ch.en` `na.i-aL` `na.i-al.ät` `(I)t-er.na.i-aL` `kut.ur.na.iO`
-  * *nati****on*** __`(.on)`__ `(.ön).ch.en` `kut.ur+(.on)`
-    * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
-      * *kulturnation* `u-ur.iO`
-  * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional …
+* **nat** __`na`__ __`na.iO`__ __`na.iO.ch.en`__ __`na.i-aL`__ __`na.i-al.ät`__ __`(I)t-er.na.i-aL`__ __`kut.ur.na.iO`__ …
+  * *natio****nal*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional
     * *international* `(I)t-er-a`
   * *nat****ur*** `(.ur)` `(.Yr).L`
 * ***nau*** → genau
@@ -1845,6 +1851,12 @@
 * **nutz** `nu`
   * **nütz** `nÜ`
     * -*nützig* `-Ü.i` → eigen gemein
+
+---
+
+* *kulturnation* `u-ur.iO`
+* *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
+* *nati****on*** __`(.on)`__ __`(.ön).ch.en`__ __`kut.ur+(.on)`__
 
 ## [O](#wörterbuch)
 
@@ -3357,6 +3369,4 @@
 * *regul* `r.ul` `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ
 * *er*rat `er-r.at` ≠ beraten
 * *berat* `Ra` = __errat__
-* *dräng* `dr.eng` `dr.eng.el`
-* *dräng* `dr` `be.dr` `E.dr`
 
