@@ -45,8 +45,7 @@
     * *beamtenschaft* `be.FT`
   * -*amt* `.a` → arbeit aus finanz haupt land patent post
   * -*ämter* `.ä`
-* an `.an` `.an,u` `.an-t-er` `dar.an` `wo.an`
-  * *anspruch* __`.an-u`__ ≠ an.uns
+* an `.an` `.an,u` `.an-t-er` `dar.an` `wo.an` …
 * -an `.an`
   * -aner `.er`
   * -an*isch* `.i` @-anisch
@@ -74,7 +73,7 @@
 * archä `.ach` `.ach.og.e` `.ach.o-I`
 * archi `.ach` `.ach.ekt` `.ach.ekt.ur`
   * *architektur* `.ach.ur`
-* *arg* `.arg` `.arg.os` `E.arg` ≠ mag schlag
+* *arg* `.arg` `.arg.os` `E.arg` ≠ mag schlag @verkehrsschrift
   * → ärg
 * arg `.ag` `.ag.met`
   * *argument* `.ag.u-met`
@@ -192,11 +191,7 @@
 * bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
-* ***biet*** `.it` `.it.ed` `.an.er.it` `G.it` `Ts.it` `AU.ab.it` `fa.it` `ho.H.it` `r.ur.it` `E.it` `Ü.it` `AU.it` `AU.iS.it` `(.ei)j.CH.it.l.H`
-  * *aufgabengebiet* `AU.en.it` ≠ auf dem gebiet
-  * *hoheitsgebiet* `o-H.it`
-  * *auf.diesem.gebiet* `AU-i.it`
-  * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
+* ***biet*** `.it` `.it.ed` `.an.er.it` `G.it` `Ts.it` __`AU.ab.it`__ `fa.it` __`ho.H.it`__ `r.ur.it` `E.it` `Ü.it` `AU.it` __`AU.m.it`__ __`AU.iS.it`__ __`(.ei)j.CH.it.l.H`__ …
   * ***bot*** `.ot` `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bil****anz*** __`(.az)`__ `(.az.ir-UNG)`
   * *bilanz* `(az)` `(az.ir-UNG)`
@@ -264,6 +259,14 @@
 * bus `b.us`
   * -*bus* `.us` → aut
 * butter `b.ut-er`
+
+---
+
+* *auf.dem.gebiet* `AU.it`
+* *auf.diesem.gebiet* `AU-i.it`
+* *aufgabengebiet* `AU.en.it`
+* *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
+* *hoheitsgebiet* `o-H.it`
 
 ### [BR](#wörterbuch)
 
@@ -1419,12 +1422,8 @@
 
 * **kraft** `kra` `kra.wa` `fli.kra` `M.al.kra`
   * **kräft** `kr` `kr.e` `kr.i` `be.kr.i` `M.al.kr.en` `eNT.kr.et`
-* **krank** `kra` `kra.ha` `kra.H` `kra.wa` `er.kra`
-  * *krankenwagen* `kr.ak.wa` ≠ kraftwagen
-  * *krankheit* `a-H` = schaffung
-  * **kränk** `kr` `kr.er` `kr-st` `kr.L` `kr.L.T` @-st
-    * *kränken* `kr.ek`
-    * *kränker* `kr.ek-er`
+* **krank** `kra` `kra.ha` __`kra.H`__ __`kra.wa`__ `er.kra` …
+  * **kränk** __`kr`__ __`kr.er`__ `kr-st` `kr.L` `kr.L.T` @-st …
 * kranz `kr.az`
 * krass `kr.ass`
 * krat `kr.at` `kr.at-er`
@@ -1440,6 +1439,13 @@
   * *dis*<i></i>*kr****i****min* `ds-i` `ds-i.ir`
   * *kriminalität* `kri.ät`
 * **krit** `kri` `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `kri.ir` `UN,kri.i`
+
+---
+
+* *kränken* `kr.ek`
+* *krankenwagen* `kr.ak.wa` ≠ kraftwagen
+* *kränker* `kr.ek-er`
+* *krankheit* `a-H` = schaffung
 
 ## [L](#wörterbuch)
 
@@ -1670,7 +1676,8 @@
     * *miss* `m.iss`
   * **maß** `ass` `N.i-er.ass.en` `G.i-ass` `(I)ho.ass.e`
     * **mäß** `ess` `ess.i`
-      * -*mäßig* `.i`/`.ess.i` → halt reg sitz
+      * -*mäßig* `.i`/`.ess.i` → verhältnis regel @-mäßig
+        * *gesetzmäßig* `-G.ess.i`
       * -*gemäß* `.G` → fahr sitz
 * *metall* `m.et` `m.et.i`
 * *meth****od*** `(.od)` `(.od).e`
@@ -2088,7 +2095,7 @@
     * *regierung* `ir-UNG` `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
       * *landesregierung* `(.es).ir-UNG`
-  * *reg****ion*** __`(.iO)`__ `(.i-aL)` = _nation_ …
+  * *reg****ion*** __`(.iO)`__ `(.i-aL)` …
   * → rig
   * → rekt
 * ***reich*** `.eich` `.eich.L` `be.eich` `er.eich` `Ü.eich`
@@ -2113,7 +2120,7 @@
   * *rektorat* `r.ekt.at`
   * *konrektor* `ko.r.ekt.or`
   * → adress
-* *relat* `r` __`r.iO`__ `r.iv` `r.iv.ät` ← lat = _religion_ …
+* *relat* `r` __`r.iO`__ `r.iv` `r.iv.ät` ← lat …
   * *relativität* `r.ät`
 * relig __`r.l.ig`__ __`r.l.ig.iO`__ __`r.l.ig.ös`__ __`r.l.ig.os.ät`__ ← lig ≠ __relation__ …
 * renn `r.en`
@@ -2306,9 +2313,7 @@
   * -*setzung* `s.ez*` `.S.ei-ad-er.s.ez*` `be.s.ez*`  `fr.s.ez*`
     * *auseinandersetzung* `.S.ei-ad-er`
     * *simultanübersetzung* `s.im.an-Ü`
-  * *gesetz* `-G` `-G.e` `-G.L` `-G.os.i-T` `-G.i` `gru.-G` `(.es),-G` `UN-G.L`
-    * *gesetzmäßig* `-G.ess.i`
-    * *gesetzwidrig* `-G,i` = gesicht
+  * *gesetz* `-G` `-G.e` `-G.L` `-G.os.i-T` __`-G.i`__ `-G,i` `gru.-G` `(.es),-G` `UN-G.L` @-mäßig
     * *grundgesetz* `GR`
 * **seuch** `seu` `seu-e` `eNT.seu` __`E.seu`__ ← siech
   * *verseuch* `E-seu`
@@ -2330,8 +2335,7 @@
     * *auf*<i></i>- `AU-i` `AU-i-Ü.ed` `be,AU-i.i` `be,AU-i.i-t.e`
       * *beaufsichtig* `b,AU-i` __`b,AU-i-t.e`__
         * *beaufsichtigte* `b,AU-i.i-t.e`
-    * *ge*<i></i>- __`G,i`__ `G,i,u` `an-G,i`
-      * *gesicht* `G.icht` ≠ gesetzwidrig
+    * *ge*<i></i>- __`G,i`__ `G,i,u` `an-G,i` …
     * *zu*<i></i>*ver*<i></i>- `Z.E-i` `Z.E-i.L` `Z.E-i.L.T`
   * -~~sicht~~
     * an- `(I)bi.an` `wr-I.an` `m.ei-an:ach` `ach.m.ei-an` `ach.U.an`
@@ -2431,6 +2435,10 @@
 * sym `s.ym` `s.ym.I` `s.ym.i`
 * *sym****bol*** `(b.ol)` `(b.ol).ir`
 * *syst****em*** `(.em)` `pr.iaL,(.em)` `(.em).ik` `(.em).i` `(.em).ir`
+
+---
+
+* *gesicht* `G.icht` ≠ gesetzwidrig
 
 ### [SCH](#wörterbuch)
 
@@ -2760,7 +2768,7 @@
   * **ström** `.öm` `.öm-UNG` @str
 * str**u** `u` `IN,u-ir` `IN,u-met` `IN,u-met.al` `IN,u-met.ar.um` `IN,u-met.O` `IN,u-met.ir-UNG` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * *instrument* `IN.u-met` `IN.u-met.al` `IN.u-met.ar.um` `IN.u-met.O` `IN.u-met.ir-UNG` `IN.u-met,bau`
-  * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur` = _kultur_ _kulturell_ …
+  * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur` …
 
 ---
 
@@ -2983,8 +2991,7 @@
   * *ver***zieh** `E.z.i`
   * → verzicht
 * *verzicht* `E-i` ← verzeih
-* **vest** `v` `IN.w.ir` `IN.w-o` `IN.w.met`
-  * *investment* `IN.w` = invest
+* **vest** `v` `IN.w.ir` `IN.w-o` __`IN.w.met`__
 * -**v**id- `v` `d.i-w.ir` `r.w.ir`
   * *divi****dend*** `(d.ed)` `(d.ed).e`
   * *individ* `IN.d` `IN.d.al.ät` `IN.d.ell` `IN.d.um`
@@ -3027,6 +3034,10 @@
 * **vot** `v`
   * -*votum* `.um` → trau
 * vue `v.ü` `r.w.ü` ← vid
+
+---
+
+* *investment* `IN.w` = invest
 
 ## [W](#wörterbuch)
 
@@ -3078,7 +3089,7 @@
 * ***was*** `was`
 * *wasser* `was` `was.ek` `was.FT` @-er
   * *wass*er `was-er` ≠ was
-  * *wässer* `wes` __`wes.i`__ `eNT.wes-UNG` __`G.wes`__ = gewächs …
+  * *wässer* `wes` __`wes.i`__ `eNT.wes-UNG` __`G.wes`__ …
 * wasch `w.asch` `w.esch.e`
 * wechsel ← wachs
 * -**weg**- `w` `w.eg` `.S.w` `(.es)w` `(K).w-s` `m.N.w` `.U-t.w` `O.w` `AU.m.w`
@@ -3165,6 +3176,7 @@
 * *wieder*, *wider*, *widr* `W` `W.ig` `W,u`
   * -*wieder* `i` → auch immer schon
   * *widerspruch* `W-u`
+  * -*widrig* `i` → gesetz
 * wieg `w.ig` `O.w.ig.ed` `M Ü.w.ig.ed-er m.H`
   * *vorwiegend* `O.ig.ed`
   * *mit.überwiegender.mehrheit* `M-Ü.w.H`
@@ -3312,11 +3324,11 @@
     * -z**u**cht `u` → vieh
     * **zücht** `.ücht`
 * ***ziel*** `.il` `.il,u
-* zie~~m~~ `z.i` `z.i-L` = zimm
+* zie~~m~~ `z.i` `z.i-L`
 * *zig****ar*** `(ar)` `(ar).et.e` `(ar).ill.o` ← zigarr
 * *zig****arr*** `(arr)` `(ar).e` `(arr),rau` → zigar
 * **zil** `.il` `ko.il`
-* zi~~mm~~ `z.i` = ziem
+* zi~~mm~~ `z.i`
 * **zip** `.ip` `ko.ip.ir`
   * *prinzip* `(.ip)` `(.ip).i-en` `(.ip).al` `(.ip).ieL` `gru.ip` `.im.ip`
     * **prinz** `pri`
