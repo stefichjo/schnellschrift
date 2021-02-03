@@ -1309,7 +1309,7 @@
   * ***kläg*** `.eg` `.eg-er` `.eg-er.in` `.an.eg-er` `n.eb.eg-er`
 * ***klam*** `.am` `r.am-o` `r.am.e`
 * ***klar*** `.ar` `.ar-er` `.am.arst` `.ar.H`
-  * ***klär*** `.är` `.är-UNG` `AU.är-UNG` `er.är` `er.är.L` `I er.är-UNG` …
+  * ***klär*** `.är` `.är-UNG` `AU.är-UNG` __`er.är`__ `er.är.L` `I er.är-UNG` …
 * **klass** `kla` `kla-e` `kla.ik-er` `kla.iS` `kla.i` `kla.if.ir` `kla.if-o`
 * ***klaud*** __`.aud`__
   * → klaus
@@ -1773,7 +1773,7 @@
   * → nach
 * nahr `n.ar` `n.ar.ha`
   * *nahrung* `ar-UNG`
-  * **nähr** `.är` `n.är` `n.är,-t` `er.är` `er.är-er` …
+  * **nähr** `.är` `n.är` `n.är,-t` __`er.är`__ `er.är-er` …
 * ~~nam~~ `(.e)` `(-t).L` `ach,(.e)` `.im (en)`
   * nam**haft** `(ha)`
   * *namentlich* `-t.L`
