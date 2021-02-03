@@ -23,7 +23,7 @@
   * → akt
 * -age `.asch.e`
 * **ak**adem `.ak` `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I`
-* *akt* __`-t`__ `-t.I.e` `-t.I.en` `-t.iO` __`-t.iO.är`__ `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` __`r-t.or`__ `w.eb-t.iO` ← ag …
+* *akt* __`-t`__ __`-t.I.e`__ __`-t.I.en`__ `-t.iO` __`-t.iO.är`__ `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` __`r-t.or`__ `w.eb-t.iO` ← ag …
 * akzent ← zent
 * -al `.al`
   * -*alien* `.I.en`
