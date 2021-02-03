@@ -119,7 +119,7 @@
 
 * *aber.auch* `ber-aY`
 * akt `.akt`
-  * *akti* `(.I)` `(.I).e` `(.I).en` `(.I).on` `(.I).on.är`
+  * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
     * *aktionär* `(.I).är`
       * *aktionär* `(.är)`
   * reaktor `r.akt.or` ≠ rentner
