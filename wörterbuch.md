@@ -468,10 +468,10 @@
 
 ---
 
+* be*dräng* `be.dr`
 * *drang* `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
-  * *dräng* `dr.eng` `dr.eng.el`
-  * be*dräng* `be.dr`
-  * *ver*<i></i>*dräng* `E.dr`
+* *dräng* `dr.eng` `dr.eng.el`
+* *ver*<i></i>*dräng* `E.dr`
 
 ## [E](#wörterbuch)
 
@@ -1309,8 +1309,7 @@
   * ***kläg*** `.eg` `.eg-er` `.eg-er.in` `.an.eg-er` `n.eb.eg-er`
 * ***klam*** `.am` `r.am-o` `r.am.e`
 * ***klar*** `.ar` `.ar-er` `.am.arst` `.ar.H`
-  * ***klär*** `.är` `.är-UNG` `AU.är-UNG` `er.är` `er.är.L` `I er.är-UNG`
-    * *erklären* `er+r` ≠ ernähren @r+r
+  * ***klär*** `.är` `.är-UNG` `AU.är-UNG` `er.är` `er.är.L` `I er.är-UNG` …
 * **klass** `kla` `kla-e` `kla.ik-er` `kla.iS` `kla.i` `kla.if.ir` `kla.if-o`
 * ***klaud*** __`.aud`__
   * → klaus
@@ -1413,8 +1412,8 @@
 
 ---
 
+* *erklär* `er+r` ≠ __ernähren__ @r+r
 * *kultur* `u-ur` `u-ur.ell` = __struktur__ __strukturell__
-
 
 ### [KR](#wörterbuch)
 
@@ -1774,8 +1773,7 @@
   * → nach
 * nahr `n.ar` `n.ar.ha`
   * *nahrung* `ar-UNG`
-  * **nähr** `.är` `n.är` `n.är,-t` `er.är` `er.är-er`
-    * *ernähr*en `er.ä` ≠ erklären
+  * **nähr** `.är` `n.är` `n.är,-t` `er.är` `er.är-er` …
 * ~~nam~~ `(.e)` `(-t).L` `ach,(.e)` `.im (en)`
   * nam**haft** `(ha)`
   * *namentlich* `-t.L`
@@ -1854,6 +1852,7 @@
 
 ---
 
+* *ernähr* `er.ä` ≠ __erklären__
 * *kulturnation* `u-ur.iO`
 * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
 * *nati****on*** __`(.on)`__ __`(.ön).ch.en`__ __`kut.ur+(.on)`__
@@ -2082,15 +2081,14 @@
   * *recht* `r` `AU-r` `G.r` `O.r`
 * red `r.ed` `r.ed.e` `r.ed-er`
 * reg `r.eg` `.an.r.eg.UNG` `be.S.o:er-r.ed`
-* **reg** `r` `r.är` `r.iv`
-  * *reg****el*** `(.el)`
-    * `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` …
-    * `(.el)-UNG` `.il,(.el)` `IN.el`
+* **reg** __`r`__ __`r.är`__ __`r.iv`__
+  * *reg****el*** `(.el)` __`(G)(.el)-t`__ __`(.el).os`__ __`(.el).i`__ __`(.el).i-T`__ `(.el)-UNG` `.il,(.el)` …
+    * *in.der.regel* `IN.el`
   * *reg****ier*** `(.ir)` `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
     * *regierung* `ir-UNG` `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
       * *landesregierung* `(.es).ir-UNG`
-  * *reg****ion*** __`(.iO)`__ `(.i-aL)` = nation …
+  * *reg****ion*** __`(.iO)`__ `(.i-aL)` = _nation_ …
   * → rig
   * → rekt
 * ***reich*** `.eich` `.eich.L` `be.eich` `er.eich` `Ü.eich`
@@ -2115,9 +2113,9 @@
   * *rektorat* `r.ekt.at`
   * *konrektor* `ko.r.ekt.or`
   * → adress
-* *relat* `r` `r.iO` `r.iv` `r.iv.ät` ← lat …
+* *relat* `r` __`r.iO`__ `r.iv` `r.iv.ät` ← lat = _religion_ …
   * *relativität* `r.ät`
-* relig __`r.l.ig`__ `r.l.ig.iO` `r.l.ig.ös` `r.l.ig.os.ät` ← lig …
+* relig __`r.l.ig`__ __`r.l.ig.iO`__ __`r.l.ig.ös`__ __`r.l.ig.os.ät`__ ← lig ≠ __relation__ …
 * renn `r.en`
 * **respond** `r` `k.or-r` `k.or-r.eNT` `k.or-r.ez` `k.or-r.ir`
   * *korrespondenz* `k.o-ez`
@@ -2163,6 +2161,18 @@
   * → bankrott
 * **rund** `ru`
 * *russ* `russ`
+
+---
+
+* *berat* `Ra` = __errat__
+* *er*rat `er-r.at` ≠ _beraten_
+* *realisieren* `r.ir`
+* *regel* `r.el` `G.r.elt` `r.el.os` `r.el.i` __`r.el.i-T`__
+* *regelmäßigkeit* `r.el.ess.i-T`
+* reg*ion* `r.eg.iO` `r.eg.i-aL` ≠ religion
+* *regul* `r.ul` `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklären ernähren relativ
+* relat*ion* `r.l.at.iO` ≠ _religion_
+* *relig* `r.i` `r.i-iO` `r.i.ös` `r.i.os.ät` = __relation__
 
 ## [S](#wörterbuch)
 
@@ -2750,11 +2760,11 @@
   * **ström** `.öm` `.öm-UNG` @str
 * str**u** `u` `IN,u-ir` `IN,u-met` `IN,u-met.al` `IN,u-met.ar.um` `IN,u-met.O` `IN,u-met.ir-UNG` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * *instrument* `IN.u-met` `IN.u-met.al` `IN.u-met.ar.um` `IN.u-met.O` `IN.u-met.ir-UNG` `IN.u-met,bau`
-  * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur` …
+  * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur` = _kultur_ _kulturell_ …
 
 ---
 
-* *struktur* `str.uk` `str.uk.ell` ≠ kultur kulturell
+* *struktur* `str.uk` __`str.uk.ell`__ ≠ _kultur _kulturell_
   * *strukturell* `str.ell`
 
 ## [T](#wörterbuch)
@@ -3068,9 +3078,7 @@
 * ***was*** `was`
 * *wasser* `was` `was.ek` `was.FT` @-er
   * *wass*er `was-er` ≠ was
-  * *wässer* `wes` `wes.i` `eNT.wes-UNG` `G.wes`
-    * wässr*ig* `w.ess.r.i` …
-    * *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
+  * *wässer* `wes` __`wes.i`__ `eNT.wes-UNG` __`G.wes`__ = gewächs …
 * wasch `w.asch` `w.esch.e`
 * wechsel ← wachs
 * -**weg**- `w` `w.eg` `.S.w` `(.es)w` `(K).w-s` `m.N.w` `.U-t.w` `O.w` `AU.m.w`
@@ -3228,6 +3236,11 @@
       * *gesetzentwürfe* `-G-Ü.e`
     * *zerwürfnis* `zer-Ü.is`
 
+---
+
+* *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
+* wässr*ig* `w.ess.r.i`
+
 ### [WR](#wörterbuch)
 
 * wrack `wr.ak` `.ab.wr.akt`
@@ -3279,8 +3292,8 @@
   * *konzept* `ko-t` `ko-t.iO`
 * *zer*- `zer`
 * zern `z.en` `ko.z.en`
-  * *zert* `zer` `zer.if.at` `zer.if.ir` `(ko)zer`
-    * **kon**zert `ko.zet` …
+  * → zert
+* *zert* `zer` `zer.if.at` `zer.if.ir` __`(ko)zer`__ ← zern …
 * ***zess*** `.ess` `ko.ess` `(o).ess` `(o).ess.ir` `(T),(o).ess` `(o)du-o,(o).ess` ← zed @-sion
   * *produktionsprozess* `(o)du.iO,(o).ess`
 * zettel `z.et.el`
@@ -3325,6 +3338,10 @@
 * zug ← zieh
 * zünd `z.üd` `IN.it.iaL,z.üd-UNG`
 
+---
+
+* **kon**zert `ko.zet`
+
 ### [ZR](#wörterbuch)
 
 * zr `zr` ← zirkonium
@@ -3344,8 +3361,6 @@
 
 ## TODOs
 
-* …
-
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
 
@@ -3360,13 +3375,4 @@
 * ? (Verschattung + Red Herring, Praxis (?))
 * Ausweichen in beide Richtungen: (erklären, ernähren), (seelisch, selig)
 
-* *regelmäßigkeit* `r.el.ess.i-T`
-* reg*ion* `r.eg.iO` `r.eg.i-aL` ≠ religion
-* *realisieren* `r.ir`
-* *regel* `r.el` `G.r.elt` `r.el.os` `r.el.i` `r.el.i-T`
-* *relig* `r.i` `r.i-iO` `r.i.ös` `r.i.os.ät`
-* relat*ion* `r.l.at.iO` ≠ religion
-* *regul* `r.ul` `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklaren ernähren relativ
-* *er*rat `er-r.at` ≠ beraten
-* *berat* `Ra` = __errat__
 
