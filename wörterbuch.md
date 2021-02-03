@@ -7,7 +7,7 @@
 
 * ab `.ab` `.ab.a`
 * *ab****end*** `(.ed)`
-* *aber* `ber` `ber.ma-s` __`ber,au`__ `ber+r` @au @r+r @
+* *aber* `ber` `ber.ma-s` __`ber,au`__ `ber+r` @au @r+r …
 * acht `.acht` `.acht-Sa` `be.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
   * -*acht* `.a` `gu.a.en` `gu.a.er`
@@ -23,15 +23,7 @@
   * → akt
 * -age `.asch.e`
 * **ak**adem `.ak` `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I`
-* -*akt*- `-t` ← ag
-  * `.akt` `.akt.I.e` `.akt.I.en` `.akt.iO` `.akt.iO.är` `.akt.iv` `.akt.iv.ir` `.akt.al.ät` `.akt.ell`
-  * `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` `r-t.or` `w.eb-t.iO`
-  * *akti* `(.I)` `(.I).e` `(.I).en` `(.I).on` `(.I).on.är`
-    * *aktion* `-t.iO` `-t.iO.är`
-      * *aktionär* `(.I).är`
-  * *aktiv* `-t.iv` `-t.iv.ir` @
-  * *aktu* `-t` `-t.al.ät` `-t.ell` @
-  * *reaktor* `r.akt.or` ≠ rentner
+* *akt* __`-t`__ `-t.I.e` `-t.I.en` `-t.iO` __`-t.iO.är`__ `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` __`r-t.or`__ `w.eb-t.iO` ← ag …
 * akzent ← zent
 * -al `.al`
   * -*alien* `.I.en`
@@ -122,6 +114,15 @@
 * auß → aus
 * aut `.aut` `.aut.o` `.aut.o-us` `.aut.om`
   * *autobus* `.aut.us`
+
+---
+
+* *aber.auch* `ber-aY`
+* akt `.akt`
+  * *akti* `(.I)` `(.I).e` `(.I).en` `(.I).on` `(.I).on.är`
+    * *aktionär* `(.I).är`
+      * *aktionär* `(.är)`
+  * reaktor `r.akt.or` ≠ rentner
 
 ## [B](#wörterbuch)
 
@@ -358,8 +359,8 @@
   * *mit.dem* `MM` P
 * **dem** `d.e` → krat
 * *de****n*** `(n)` `(I)n` `M.n` `v.n`
-  * *mit.den* `MN` P (3-stufiges M)@
-  * *von.den* `VN` P (3-stufiges V)@
+  * *mit.den* `MN` P (3-stufiges M)…
+  * *von.den* `VN` P (3-stufiges V)…
 * denk `d.ek` `d.ek.ed` `d.ek-er` `d.ek.ma` `UN.d.ek.bar` `ach.d.ek.L`
   * **dacht** `da` `E.da`
     * **dächt** `dä` `dä-e` `G.d.is` `E.d.i`
@@ -449,7 +450,7 @@
 * **dring** `dri` `dri.ed` `dri-est.e` `dri.L` `dri.L.T` `N,dri` `N,dri.L` `O,dri` `O,dri.L` `Z.dri.L` `dri-Ü.is`
   * **drang** `dra` `dra.Ol` `dra.s.al`
     * *drang* `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
-    * **dräng** __`drä`__ `dr.el` __`be.drä`__ `be.dr.is` __`E.drä`__ `E.dr.UNG` @-ä @
+    * **dräng** __`drä`__ `dr.el` __`be.drä`__ `be.dr.is` __`E.drä`__ `E.dr.UNG` @-ä …
   * **drung** `dru` `G.dru` `N.dru`
 * **droh** `dr.o` `be.dr.o-L`
 * **druck** `dru` `dru.er` `dru.ei` `dru,(.e)` `.S.dru` `N.dru` `ach.dru`
@@ -1372,7 +1373,7 @@
 * kub `k.ub` `k.ub.i` `k.ub.iS`
 * kub `k.ub` `k.ub.a` `k.ub.i` @-anisch
 * **küch** `kÜ` `kÜ.e`
-* kult `kut` `kut.iv.ir` `kut.ur` `kut.ur.ell` @-t.iv.ir @
+* kult `kut` `kut.iv.ir` `kut.ur` `kut.ur.ell` @-t.iv.ir …
   * *kultus* `.us` `.us.er` `.us.ko`
 * *kummer* `k.um`
   * *kümmer* `k.üm`
@@ -1775,7 +1776,7 @@
   * *nati****on*** __`(.on)`__ `(.ön).ch.en` `kut.ur+(.on)`
     * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
       * *kulturnation* `u-ur.iO`
-  * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional @
+  * *nation****al*** `(n.al)` `(n.al).ist` `(n.al).iS.i` `(n.al).ät` ≠ regional …
     * *international* `(I)t-er-a`
   * *nat****ur*** `(.ur)` `(.Yr).L`
 * ***nau*** → genau
@@ -2042,7 +2043,7 @@
 * *rak****et*** `(.et)` `(.et).e` `tr.eg-er,(.et).e`
 * rang `r.ang` `r.ang.ir` `O.r.ang`
 * ras `r.as`
-* **rat** `ra` `ra.g` `ra.os` `ra-Sa` `G.ra` `be.ra` `er-ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da- @
+* **rat** `ra` `ra.g` `ra.os` `ra-Sa` `G.ra` `be.ra` `er-ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da- …
   * **rat**geber `ra.g.eb-er`
   * **rat**sam `ra-s.am`
   * -*rat* `.at`
@@ -2071,13 +2072,13 @@
 * reg `r.eg` `.an.r.eg.UNG` `be.S.o:er-r.ed`
 * **reg** `r` `r.är` `r.iv`
   * *reg****el*** `(.el)`
-    * `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` @
+    * `(G)(.el)-t` `(.el).os` `(.el).i` `(.el).i-T` …
     * `(.el)-UNG` `.il,(.el)` `IN.el`
   * *reg****ier*** `(.ir)` `(.ir)-UNG` `(.ir)-UNG.ik` `(.ir)-UNG:gra` `bu,(.ir)-UNG` `(.es),(.ir)-UNG`
     * *regierung* `ir-UNG` `ir-UNG.ik` `ir-UNG.gra` `bu,ir-UNG` `(.es),ir-UNG`
       * *bundesregierung* `u-r-UNG`
       * *landesregierung* `(.es).ir-UNG`
-  * *reg****ion*** __`(.iO)`__ `(.i-aL)` = nation @
+  * *reg****ion*** __`(.iO)`__ `(.i-aL)` = nation …
   * → rig
   * → rekt
 * ***reich*** `.eich` `.eich.L` `be.eich` `er.eich` `Ü.eich`
@@ -2102,9 +2103,9 @@
   * *rektorat* `r.ekt.at`
   * *konrektor* `ko.r.ekt.or`
   * → adress
-* *relat* `r` `r.iO` `r.iv` `r.iv.ät` ← lat @
+* *relat* `r` `r.iO` `r.iv` `r.iv.ät` ← lat …
   * *relativität* `r.ät`
-* relig __`r.l.ig`__ `r.l.ig.iO` `r.l.ig.ös` `r.l.ig.os.ät` ← lig @
+* relig __`r.l.ig`__ `r.l.ig.iO` `r.l.ig.ös` `r.l.ig.os.ät` ← lig …
 * renn `r.en`
 * **respond** `r` `k.or-r` `k.or-r.eNT` `k.or-r.ez` `k.or-r.ir`
   * *korrespondenz* `k.o-ez`
@@ -2737,11 +2738,11 @@
   * **ström** `.öm` `.öm-UNG` @str
 * str**u** `u` `IN,u-ir` `IN,u-met` `IN,u-met.al` `IN,u-met.ar.um` `IN,u-met.O` `IN,u-met.ir-UNG` `ko,u.ir` `ko,u.iv` `ko,u.ör` `r.ko,u.irt.e`
   * *instrument* `IN.u-met` `IN.u-met.al` `IN.u-met.ar.um` `IN.u-met.O` `IN.u-met.ir-UNG` `IN.u-met,bau`
-  * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur` @
+  * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur` …
 
 ---
 
-* *struktur* `str.uk` `str.uk.ell` ≠ __kultur__ __kulturell__
+* *struktur* `str.uk` `str.uk.ell` ≠ kultur kulturell
   * *strukturell* `str.ell`
 
 ## [T](#wörterbuch)
@@ -3056,7 +3057,7 @@
 * *wasser* `was` `was.ek` `was.FT` @-er
   * *wass*er `was-er` ≠ was
   * *wässer* `wes` `wes.i` `eNT.wes-UNG` `G.wes`
-    * wässr*ig* `w.ess.r.i` @
+    * wässr*ig* `w.ess.r.i` …
     * *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
 * wasch `w.asch` `w.esch.e`
 * wechsel ← wachs
@@ -3267,7 +3268,7 @@
 * *zer*- `zer`
 * zern `z.en` `ko.z.en`
   * *zert* `zer` `zer.if.at` `zer.if.ir` `(ko)zer`
-    * **kon**zert `ko.zet` @
+    * **kon**zert `ko.zet` …
 * ***zess*** `.ess` `ko.ess` `(o).ess` `(o).ess.ir` `(T),(o).ess` `(o)du-o,(o).ess` ← zed @-sion
   * *produktionsprozess* `(o)du.iO,(o).ess`
 * zettel `z.et.el`
@@ -3331,7 +3332,7 @@
 
 ## TODOs
 
-* @
+* …
 
 * treff (triff, troff)
 * sprech (sprich, sproch, spruch)
@@ -3358,5 +3359,4 @@
 * *berat* `Ra` = __errat__
 * *dräng* `dr.eng` `dr.eng.el`
 * *dräng* `dr` `be.dr` `E.dr`
-* *aber.auch* `ber-aY`
 
