@@ -176,7 +176,6 @@
   * borg `b.og` `G.b.og` `E.b.og`
 * *ber****lin*** `(l.in)` `(l.in).er.i` `w.l.in`
 * *besser* `bes`/`br°` `bes-UNG` `G.bes` `.S.bes` `E.bes` `E.bes-Ü-ig.T` ← gut @-er
-  * → best
 * best `b.est` ← besser
 * bett __`b.et`__
 * *bezichtig* `be.z.i` ← zeih
@@ -388,7 +387,6 @@
 * **dien** `di` `di.ed` `di-t.e` `di-er` `di.bar.T` `di.L` `be,di` `E,di`
   * *diener* `di.er`
   * *dienlich* `d.in.L` ≠ dienstlich
-  * → dienst
 * **dienst** `di` `di.bar.T` `di.f.i` `di.L` `be,di.et` `E,di` `E,di-ol` `.auss.d.i` `.auss.d.i-L` `.in.d.i` `.in.d.i-L` `wer.d.i` `.auss,di` `.im,di` `ku:d.i` ← dien
   * *dienstunfähig* `di.UN`
   * *im.dienst* `.im.d.i`
@@ -650,7 +648,6 @@
   * → fit
 * feld `f.ed` `m.in.f.ed`
 * fend `f.ed`
-  * → fens
 * fens `fes` `d.e-fes.iv` `.o-fes.iv` ← fend
   * *offensiv* `.o-f.iv`
 * fenster `fest.er`
@@ -675,13 +672,11 @@
 * *feuer* `feu` `feu-UNG` `feu-ig` `.an.feu`
   * *feuerung* `feu-er-UNG`
 * **fig** `fi` `fi-ur` `ko,fi-ur.iO`
-* fili `f.il.I` `f.il.I.us`
-  * *filius* `f.il.us`
+* fili `f.il.I` `f.il.us`
   * *filial* `f.iaL` `f.iaL.e`
 * film `f.im` `f.imt.e` `G.f.imt` `E.f.im`
 * filter `fit.er` `fit.r.ir`
 * **fin** `fi` `fi.al` `fi.al.e` `fi.al.ist` `fi.al.i+st.in` __`d.e,fi.ir`__ __`d.e,fi.iv`__ __`d.e,fi-o`__ …
-  * → finanz
 * *finanz* `fi` `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi,(er)` `fi.um` `fi.om` `O,fi.ir` ← fin …
 * **find** `fi` `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab,fi` `AU,fi` `be,fi` `be,fi.L` `.emp,fi` `er,fi` `er,fi-er` `er,fi-er.i` `O,fi` `u-rÜ,fi` `Z,fi` `Z.Sa,fi`
   * → empfind
@@ -1067,7 +1062,6 @@
   * *herrisch* `h.err.i`
   * *der.herr* `(r)h`
   * *meine.damen.und.herren* `.ei-a-h` = einzelhaft
-  * → herrsch
 * **herr**sch `h.sch` `h.scht.e` `h.sch.er` `be.h.sch` `I -st,be.h.sch` `h.sch.s.ücht.i` ← herr
 * *her****z*** `(z)` `(z).ha` `(z).L` `(z).L.T` `(z).os` `kust,(z)` `w.eich,(z).i` @-lichkeit
 * heuer `h.eu-er` `UN-G.h.eu-er`
@@ -1106,7 +1100,6 @@
 * *honor* `h.on` `h.on.ar` `h.on.ir`
 * hor `h.or` `G.h.or-Sa`
   * horch `h.och` `h.och-er` `G.h.och`
-  * → hör
 * **hör** `hö` `be.hö.d.e` `schwa.hö-er` ← hor
   * *behörde* `be.hö`
     * -*behörde* `hö` → gemein
@@ -1318,7 +1311,6 @@
   * ***klär*** `.är` `.är-UNG` `AU.är-UNG` __`er.är`__ `er.är.L` `I er.är-UNG` …
 * **klass** `kla` `kla-e` `kla.ik-er` `kla.iS` `kla.i` `kla.if.ir` `kla.if-o`
 * ***klaud*** __`.aud`__
-  * → klaus
 * ***klaus*** `.aus` `.aus.e` ← klaud
   * -*klausel* `au.el` → zent
 * *kl****ein*** `(N)` `(N).er` `(N)-st` `(N).H` `(N).i-T` `(N).L.T` `E.N.er` `zr.N.er`
@@ -1369,13 +1361,11 @@
 * *kontr* `(ko)tr` `(ko)tr.är`
   * *konter* `ko-t.er`
   * *kontra* `(ko)tra` `(ko)tra,u`
-  * → kontroll
 * *kontroll* `ko` `ko.e` `ko.ir` `ko.ir.bar` `ko.ör` ← kontr
   * *kontroll* `ko,o` `ko,o-e` `ko,o-en` ≠ kollege
 * korp `k.op` `k.op-O` `k.op.iv`
   * corps `k.or`
     * -**corps** `ko` → diplom
-  * → körp
 * **körp**er `kö.er` `kö.er` `kö.L` `kö.er.FT` `E.kö.er` ← korp
   * *körperschaft* `kö.FT`
 * kopf `k.opf`
@@ -1571,7 +1561,6 @@
     * *geolog* `g.e-l.og` `g.e-l.og.e` `g.e-l.og.I` ← geo
     * *theolog* `t.e-l.og` `t.e-l.og.e` `t.e-l.og.I` `t.e-l.og.i` ≠ theorie ← theo
 * lok `l.ok` `l.ok.iv`
-  * → lokal
 * *lokal* `l.ok` `l.ok.ir` `l.ok.ät` ← lok
 * loqu `l.oqu` `ko.oqu.um`
   * *kolloquium* `ko.oqu`
@@ -1580,7 +1569,6 @@
   * ***lös*** `.ös` `.ös.bar` `AU.ös` `er.ös` `.os.ös` `UN.ös.L`
 * lösch `l.ösch`
 * lud `l.ud`
-  * → lus
 * lus `l.us` `.i-lus` ← lud @-sion
 * lust `l.ust` `l.ust.ig`
 * lux `l.ux` `l.ux.us` `l.ux.ur.ös`
@@ -1706,7 +1694,6 @@
   * *mine****ral*** `(r.al)`
 * **min** `mi` `mi.im.al` `mi.im.um` `mi.or.ät` `(o)mi.eNT` `(o)mi.ez`
   * *minim* `m.in` `m.in.al` `m.in.um`
-  * → minist
   * *minor* `m.in` `m.in.ät`
   * *min****ut*** `.ut` `.ut.e` @u
   * *prominent* `(o)mi`
@@ -1738,7 +1725,6 @@
     * *automobil* `.aut.il`
 * ***mocht*** `.ocht` ← mög
 * mod `m.od` `m.od.e` `m.od.al` `m.od.al.ät` `m.od-er.or` `m.od-er.iO` __`m.od-er.ir`__ `m.od.if-o` `m.od.if.ir` `m.od.ul` `m.od.ul.ar` `m.od.ul.iO` `m.od.us` @-isier @-ifizier
-  * → modell
   * modern `m.od-er` `UN.m.od-er` `m.od-er.ir`
 * *modell* `m.o-ell` `m.o-ell.ir`
 * ***mög*** `.ög`
@@ -1899,7 +1885,6 @@
 * ohr `.or`
 * ök `.ök` `.ök.om`
 * opt `.opt` `.opt.ir` `.opt.iO`
-  * → optim
 * *optim* `.op` `.op.al` `.op.iS` `.op.ist` `.op.iS.i` ← opt
   * *optimal* `.opt.im-a`
 * ord `.od` `.od.L` `.auss.od.L` `.od.in.är` `.ab.od.et`
@@ -1929,7 +1914,7 @@
 * -*pakt*- `pat` `p.akt` `pat.ir`
   * -*pakt* `pa` → greif
 * pand `p.ad`
-  * → pans pass
+  * → pass
 * ***pans*** `pas` `.e-pas-o` ← pand @-sion
 * **pap**, **papp** `pa` __`pa-e`__ `pa.ir` `(ar).et:pa.ir`
   * *pappe* `p.ap.e`
@@ -1983,7 +1968,7 @@
 * plaus `pl.aus` `pl.aus.ib.el` `pl.aus.ib.ät`
 * plik pliz plex → komplik
 * plod → explod
-  * plos → explos
+* plos → explos ← plod
 * ***plötz*** `.oz` `.oz.L`
 * po `p.o`
   * poesie `p.o-es.I`
@@ -2086,7 +2071,7 @@
   * *rationalisierung* `ra.ir-UNG`
   * *rationier* `r.at.ir`
 * rätsel ← rat
-* rauch `r.auch` `r.auch,eu`
+* rauch `r.auch` `r.auch,eu-e`
   * -*rauch* `rau` → zigarr
 * ***raum*** `.aum` `h.ub.aum` `wet.aum`
   * *weltraum* `w.aum`
@@ -2230,7 +2215,6 @@
 * -*sam* `Sa`
 * *samm* `Sa` `Z.Sa`
   * *zusamm* __`u-Sa`__
-  * → sammel
 * **samm**el `sa.el` `sa.l-UNG` ← samm
   * *versammel* `E.Sa` `E.Sa.UNG`
     * -*versammlung* `Sa.UNG` → glied
@@ -2254,7 +2238,7 @@
       * *gegensätz* `g-s` `g-s.e` `g-s.L`
 * sau `s.au`
 * sauber `s.aub-er`
-* -*säule* `eu` → raub wirbel
+* -*säul* `eu` `eu-e` → rauch wirbel
 * saum `s.aum`
   * säum `s.äum` `E-s.äum.is`
 * seel `s.el` `s.el.e` `s.el.i` `s.el,o-e`
@@ -2703,7 +2687,6 @@
   * stich `st.ich`
   * stach `st.ach`
   * stoch `st.och`
-  * → steck
 * steck `st.ek` ← stech
 * **steh** `st` `be.st` `b.ei+st` `E.st` `UN.S.st.L`
   * → stadt
@@ -2777,7 +2760,6 @@
 * streit `str.T` `str.T,u`
   * stritt `str.it`
 * string `str.ing` `str.ing.eNT`
-  * → strikt
 * strikt __`str.ikt`__ `d.i:str.ikt` ← string
   * → distrikt
 * stroph `str.of`
@@ -2864,7 +2846,6 @@
   * *kontinuierlich* `ko,ti.L`
 * **ti**~~ng~~ `ti` `ko,ti.eNT`
   * *kontingent* `ko,ti`
-  * → tint
 * tint __`tit`__ `tit.e` ← ting
 * tisch `t.isch`
 * tit `t.it` `t.it.el` `t.it.ur` `t.it.ir-UNG`
@@ -2914,7 +2895,6 @@
     * -**trüg**- `trü`
       * *trüg* `tr.üg` `tr.üg.e`
 * -**trah**- `tra` `(ko)tra`
-  * → trakt
 * -**trakt**- `tra` `tr.akt` `.a-tra.iv` `(ko)tra` `(ko)tra-Ü.i` ← trah
   * *attraktiv* `.a-tra-t.iv`
 * *trans*- `tra`
@@ -2981,6 +2961,8 @@
   * -*unser* `.U°` `.an.U°`
 * *unter* `UNTER` `UNTER.ei-ad-er` `UNTER.ha` `.e-UNTER`
 * ur- `.ur`
+* -us `.us`
+  * -ius `I.us` ⇒ `.us` @⇒
 
 ## [V](#wörterbuch)
 
@@ -2989,7 +2971,6 @@
   * *vate****r***- `(r)` → land
   * väter `v.ät-er`
 * **ven** `v` `(I)t-er.w.ir` `(I)t-er.w-o`
-  * → vent
 * *vent* `v` `.e-v.ät` `ko.w-o` `ko.w.i-aL,(.e)` ← ven
   * evtl. `.evt.l`
   * *invent* `IN-t` `IN-t.ar` `IN-t.ar.ir` `IN-t.ur`
@@ -3007,13 +2988,11 @@
   * → vers
 * *ver***zeih** `E.zei` ← zeih
   * *ver***zieh** `E.z.i`
-  * → verzicht
 * *verzicht* `E-i` ← verzeih
 * **vest** `v` `IN.w.ir` `IN.w-o` __`IN.w.met`__
 * -**v**id- `v` `d.i-w.ir` `r.w.ir`
   * *divi****dend*** `(d.ed)` `(d.ed).e`
   * *individ* `IN.d` `IN.d.al.ät` `IN.d.ell` `IN.d.um`
-  * → video
   * → vis
   * → vue
 * *video* `vi.o` `vi.os` `vi.o-t.ek` ← vid
@@ -3113,8 +3092,7 @@
 * wechsel ← wachs
 * -**weg**- `w` `w.eg` `.S.w` `(.es)w` `(K).w-s` `m.N.w` `.U-t.w` `O.w` `AU.m.w`
   * *keineswegs* `k.w`
-  * → wegen
-* wegen `w.eg`
+* wegen `w.eg` ← weg
   * -**weg**en `w` → des
 * weh `w.eh`
   * wind `w.id`
@@ -3324,7 +3302,6 @@
   * *konzept* `ko-t` `ko-t.iO`
 * *zer*- `zer`
 * zern `z.en` `ko.z.en`
-  * → zert
 * *zert* `zer` `zer.if.at` `zer.if.ir` __`(ko)zer`__ ← zern …
 * ***zess*** `.ess` `ko.ess` `(o).ess` `(o).ess.ir` `(T),(o).ess` `(o)du-o,(o).ess` ← zed @-sion
   * *produktionsprozess* `(o)du.iO,(o).ess`
