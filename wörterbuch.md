@@ -116,12 +116,12 @@
 
 ---
 
-* *aber.auch* `ber-aY`
-* akt `.akt`
-* *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
-* *aktionär* `(.I).är`
-* *aktionär* `(.är)`
-* reaktor `r.akt.or` ≠ rentner
+* aber
+  * *aber.auch* `ber-aY`
+* akt `.akt` `r.akt.or` ≠ rentner
+  * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
+  * *aktionär* `(.I).är`
+  * *aktionär* `(.är)`
 
 ## [B](#wörterbuch)
 
@@ -191,7 +191,7 @@
 * bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
-* ***biet*** `.it` `.it.ed` `.an.er.it` `G.it` `Ts.it` __`AU.ab.it`__ `fa.it` __`ho.H.it`__ `r.ur.it` `E.it` `Ü.it` `AU.it` __`AU.m.it`__ __`AU.iS.it`__ __`(.ei)j.CH.it.l.H`__ …
+* ***biet*** `.it` `.it.ed` `.an.er.it` `G.it` `Ts.it` __`AU.ab.it`__ `fa.it` __`ho.H.it`__ `r.ur.it` `E.it` `Ü.it` `AU.it` __`AU.m.it`__ __`AU.iS.it`__ …
   * ***bot*** `.ot` `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bil****anz*** __`(.az)`__ `(.az.ir-UNG)`
   * *bilanz* `(az)` `(az.ir-UNG)`
@@ -262,11 +262,11 @@
 
 ---
 
-* *auf.dem.gebiet* `AU.it`
-* *auf.diesem.gebiet* `AU-i.it`
-* *aufgabengebiet* `AU.en.it`
-* *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
-* *hoheitsgebiet* `o-H.it`
+* biet
+  * *hoheitsgebiet* `o-H.it`
+  * *aufgabengebiet* `AU.en.it`
+  * *auf.dem.gebiet* `AU.it`
+  * *auf.diesem.gebiet* `AU-i.it`
 
 ### [BR](#wörterbuch)
 
@@ -1537,12 +1537,9 @@
   * anlieger `.an.l.ig-er`
   * **lag** `la` `E.la` `.an.la-e` `gru.la-e` `.im.a.an.la-e` `ndr.la-e` `UNTER.la-e` `O.la-e`
     * *lager* `l.ag-er` `l.ag-er-UNG` `.ab.l.ag-er` `G.l.ag-ert` `E.l.ag-er`
-  * **leg** `l` `l-t.e` `.ab.l` `be.l` `dar-AU.l` `G.l.H` `.an.l.H` `Ü.l` `E.l` `E.l.er` `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed`  `n.ah.l` `.ar.l`
-    * *verleger* `E.l.eg-er`
-    * *gelegenheit* `G.H` `.an.l.H` `.S.wet.ig.e .an.l.H.en` `b.ei-iS-er G.l.H`
-      * *angelegenheit* `.an.H` `.S.wet.ig.e .an.H.en`
-        * *auswertige.angelegenheiten* `.S.H.en`
-      * *bei.dieser.gelegenheit* `b.ei-iS.H`
+  * **leg** `l` `l-t.e` `G.l` `.ab.l` `be.l` `dar-AU.l` `Ü.l` `E.l` __`E.l.er`__ `E.l.H` `zr.l-UNG` `f.est.l` `gru.l.ed`  `n.ah.l` `.ar.l` … @-l
+    * *geleg* __`-G.l`__ `.an-G.l.L` `b.ei-G.l` `O-G.l` `.an-G.l (N).ass`
+    * *ge*<i></i>*legenheit* `G.H` `.an.H` __`.S.wet.ig.an.H.en`__ `b.ei-iS.H` __`(b.ei)j.CH.it.H`__
 * lier → verlier
 * lig `l.ig.a` ← leg
   * *liga* `l.ig` @-a
@@ -1583,6 +1580,14 @@
 * lux `l.ux` `l.ux.us` `l.ux.ur.ös`
   * *luxus* `l.ux`
   * *luxuriös* `l.ux.ös`
+
+---
+
+* leg
+  * *ver*leger `E.l.eg-er`
+  * *angelen.sein.lass* `.an-G.ass`
+  * *auswertige.angelegenheiten* `.S.H.en`
+  * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
 
 ## [M](#wörterbuch)
 
