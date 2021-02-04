@@ -680,14 +680,9 @@
   * *filial* `f.iaL` `f.iaL.e`
 * film `f.im` `f.imt.e` `G.f.imt` `E.f.im`
 * filter `fit.er` `fit.r.ir`
-* **fin** `fi`
-  * `fi.al` `fi.al.e` `fi.al.ist` `fi.al.i+st.in`
-  * `d.e,fi.ir` `d.e,fi.iv` `d.e,fi-o`
-  * *finalistin* `fi.al.in`
-  * *defin* `d.ef` `d.ef.ir` `d.ef.iv` `d.ef-o`
+* **fin** `fi` `fi.al` `fi.al.e` `fi.al.ist` `fi.al.i+st.in` __`d.e,fi.ir`__ __`d.e,fi.iv`__ __`d.e,fi-o`__ …
   * → finanz
-* *finanz* `fi` `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi,(er)` `fi.um` `fi.om` `O,fi.ir` ← fin
-  * *finanzminister* `fi-er`
+* *finanz* `fi` `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi,(er)` `fi.um` `fi.om` `O,fi.ir` ← fin …
 * **find** `fi` `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab,fi` `AU,fi` `be,fi` `be,fi.L` `.emp,fi` `er,fi` `er,fi-er` `er,fi-er.i` `O,fi` `u-rÜ,fi` `Z,fi` `Z.Sa,fi`
   * → empfind
   * *find* `f.i` `.ab.f.i` `AU.f.i` `be.f.i` `be.f.i-L` `.emp-f.i` `er.f.i` `O.f.i` `u-rÜ:f.i` `Z.f.i` `Z.Sa.f.i`
@@ -794,6 +789,13 @@
 * **fuß** `fu` `ha.fu`
 * **futt** `fu` `fu-er`
   * **fütt** `fü` `fü-er`
+
+---
+
+* fin
+  * *finalistin* `fi.al.in`
+  * *finanzminister* `fi-er`
+  * *defin* `d.ef` `d.ef.ir` `d.ef.iv` `d.ef-o`
 
 ### [FR](#wörterbuch)
 
@@ -3395,7 +3397,6 @@
 * sprech (sprich, sproch, spruch)
 
 * fin & finanz
-* wundervoll
 
 * fügsam @`.üg-Sa` aktion
 
