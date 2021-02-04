@@ -447,7 +447,8 @@
 
 ---
 
-* *dadurch* `a-dr` ≠ ander = __drang__
+* durch
+  * *dadurch* `a-dr` ≠ ander = __drang__
 
 ### [DR](#wörterbuch)
 
@@ -471,10 +472,10 @@
 
 ---
 
-* be*dräng* `be.dr`
-* *drang* `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
-* *dräng* `dr.eng` `dr.eng.el`
-* *ver*<i></i>*dräng* `E.dr`
+* drang `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
+  * *dräng* `dr.eng` `dr.eng.el`
+    * be*dräng* `be.dr`
+    * *ver*<i></i>*dräng* `E.dr`
 
 ## [E](#wörterbuch)
 
@@ -1415,7 +1416,8 @@
 
 ---
 
-* *erklär* `er+r` ≠ __ernähren__ @r+r
+* klar
+  * *erklär* `er+r` ≠ __ernähren__ @r+r
 * *kultur* `u-ur` `u-ur.ell` = __struktur__ __strukturell__
 
 ### [KR](#wörterbuch)
@@ -1442,10 +1444,11 @@
 
 ---
 
-* *kränken* `kr.ek`
-* *krankenwagen* `kr.ak.wa` ≠ kraftwagen
-* *kränker* `kr.ek-er`
-* *krankheit* `a-H` = schaffung
+* krank
+  * *krankenwagen* `kr.ak.wa` ≠ kraftwagen
+  * *krankheit* `a-H` = schaffung
+  * *kränk* `kr.ek`
+    * *kränker* `kr.ek-er`
 
 ## [L](#wörterbuch)
 
@@ -1565,8 +1568,9 @@
     * *astrologie* `.a+str.o-l.o-I` ← astro
     * *geolog* `g.e-l.og` `g.e-l.og.e` `g.e-l.og.I` ← geo
     * *theolog* `t.e-l.og` `t.e-l.og.e` `t.e-l.og.I` `t.e-l.og.i` ≠ theorie ← theo
-* lok `l.ok` `l.ok.al` `l.ok.ir` `l.ok.ät` `l.ok.iv`
-  * *lokal* `l.ok`
+* lok `l.ok` `l.ok.iv`
+  * → lokal
+* *lokal* `l.ok` `l.ok.ir` `l.ok.ät` ← lok
 * loqu `l.oqu` `ko.oqu.um`
   * *kolloquium* `ko.oqu`
 * ***los*** `.os` `.S.os`
@@ -1864,10 +1868,11 @@
 
 ---
 
-* *ernähr* `er.ä` ≠ __erklären__
-* *kulturnation* `u-ur.iO`
-* *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
+* nahr
+  * *ernähr* `er.ä` ≠ __erklären__
 * *nati****on*** __`(.on)`__ __`(.ön).ch.en`__ __`kut.ur+(.on)`__
+  * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
+    * *kulturnation* `u-ur.iO`
 
 ## [O](#wörterbuch)
 
@@ -2176,15 +2181,20 @@
 
 ---
 
-* *berat* `Ra` = __errat__
-* *er*rat `er-r.at` ≠ _beraten_
-* *realisieren* `r.ir`
-* *regel* `r.el` `G.r.elt` `r.el.os` `r.el.i` __`r.el.i-T`__
-* *regelmäßigkeit* `r.el.ess.i-T`
-* reg*ion* `r.eg.iO` `r.eg.i-aL` ≠ religion
-* *regul* `r.ul` `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklären ernähren relativ
-* relat*ion* `r.l.at.iO` ≠ _religion_
-* *relig* `r.i` `r.i-iO` `r.i.ös` `r.i.os.ät` = __relation__
+* lat
+  * relat*ion* `r.l.at.iO` ≠ _religion_ ← lat
+* lig
+  * *relig* `r.i` `r.i-iO` `r.i.ös` `r.i.os.ät` = __relation__ ← lig
+* rat
+  * *berat* `Ra` = __errat__
+  * *er*rat `er-r.at` ≠ _beraten_
+* re
+  * *realisieren* `r.ir`
+* reg
+  * *regel* `r.el` `G.r.elt` `r.el.os` `r.el.i` __`r.el.i-T`__
+    * *regelmäßigkeit* `r.el.ess.i-T`
+  * reg*ion* `r.eg.iO` `r.eg.i-aL` ≠ religion
+  * *regul* `r.ul` `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklären ernähren relativ
 
 ## [S](#wörterbuch)
 
@@ -2443,7 +2453,8 @@
 
 ---
 
-* *gesicht* `G.icht` ≠ gesetzwidrig
+* sicht
+  * *gesicht* `G.icht` ≠ gesetzwidrig
 
 ### [SCH](#wörterbuch)
 
@@ -3042,7 +3053,8 @@
 
 ---
 
-* *investment* `IN.w` = invest
+* vest
+  * *investment* `IN.w` = invest
 
 ## [W](#wörterbuch)
 
@@ -3255,8 +3267,9 @@
 
 ---
 
-* *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
-* wässr*ig* `w.ess.r.i`
+* wasser
+  * *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
+  * wässr*ig* `w.ess.r.i`
 
 ### [WR](#wörterbuch)
 
