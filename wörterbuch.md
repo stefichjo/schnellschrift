@@ -676,7 +676,7 @@
   * *filial* `f.iaL` `f.iaL.e`
 * film `f.im` `f.imt.e` `G.f.imt` `E.f.im`
 * filter `fit.er` `fit.r.ir`
-* **fin** `fi` `fi.al` `fi.al.e` `fi.al.ist` `fi.al.i+st.in` __`d.e,fi.ir`__ __`d.e,fi.iv`__ __`d.e,fi-o`__ …
+* **fin** `fi` `fi.al` `fi.al.e` `fi.al.ist` __`fi.al.i+st.in`__ __`d.e,fi.ir`__ __`d.e,fi.iv`__ __`d.e,fi-o`__ …
 * *finanz* `fi` `fi.en` `fi.ieL` `fi.ir` `fi.ir-UNG` `fi.a` `fi.uss` `fi,(er)` `fi.um` `fi.om` `O,fi.ir` ← fin …
 * **find** `fi` `fi-er` `fi.i` `fi.i-T` `fi.ing` `.ab,fi` `AU,fi` `be,fi` `be,fi.L` `.emp,fi` `er,fi` `er,fi-er` `er,fi-er.i` `O,fi` `u-rÜ,fi` `Z,fi` `Z.Sa,fi`
   * → empfind
@@ -759,8 +759,8 @@
   * *tuchfühlung* `tu-Ül-UNG`
 * **fuhr** `fu` `fu-e` `er.fu` `.S.fu` `N.fu` `Z.fu` ← fahr
   * *fuhre* `fu.e`
-* -*führ*- `.ür`
-  * `f.ür` `f.ür-er` `f.ür-UNG` ← fuhr
+* -*führ*- `.ür` ← fuhr
+  * `f.ür` `f.ür-er` `f.ür-UNG`
   * `.S.ür` `.S.ür.L` `dr.ür` `dr.ürt` `Ü.ür` `u-rÜ.ür` `Z.Sa.ür`
   * `G.ürt` `.ab.ür` `.an.ür-er` `AU.ür` `AU.ür-UNG` `N.ür` `N.ürt` `GT.ür-er` `GT.ür-UNG` `.e-b.ei-ür` `UNTER.ür-UNG` `E.ür` `O.ür` __`.a-z.ür`__ `AU,si.ür.ed`
   * *aus*<i></i>*f****ü****hr* `.S-ü` `.S-ü.L`
@@ -818,14 +818,18 @@
   * -*fristig* `.i` → kurz lang
 * **froh** `fro`
   * **fröh** `frö` `frö.L`
-* **fro**nt `fr` `fr.o` `ko.fr.ir` `ko.fr.iO`
-  * *konfrontier* `ko.fr.o`
-  * *konfrontation* `ko.fr.ot.iO`
+* **fro**nt `fr` `fr.o` `ko.fr.ir` `ko.fr.iO` @o …
 * **frucht** `fru` `fru.bar`
   * **frücht** `frÜ`
     * -*frücht* `-Ü` → süd
 * **früh** `frÜ` `frÜ.er` `frÜ.er-er` `frÜ.est.es` `frÜ.est.e-s` `frÜ.ing`
   * -*früh* `-Ü` → heut morg schon
+
+---
+
+* front
+  * *konfrontation* `ko.fr.ot.iO`
+  * *konfrontier* `ko.fr.o`
 
 ## [G](#wörterbuch)
 
@@ -844,12 +848,13 @@
 * gastr `g.a+str` `g.a+str.om`
 * *ge*- `G`
   * *unge*- `UN.G`
-* ***geb*** __`.eb`__
-  * *geb* `g` `g.er` `G.g` `G.g.H` `.ab.g` `.an.g.er` `.S.ag.g.ed` `be.g.H` `er.g` `er.g-st` `er.g.is` `er.g.is.os` `-G.g.UNG` `ku:g` `ach.g` `Ü.g` `E.g-s` `E.g.L` `u-rÜ:g` `n.S.ag.g`
-    * geber `g.eb-er` `.an.g.eb-er`
-    * -*geber* `g` → arbeit rat trag
-    * *ausschlaggebend* `.S.ag.ed`
-    * *ergebnis* `er.is` `er.is.os`
+* ***geb*** …
+  * __`.eb-er`__ __`.an.eb-er`__
+  * __`.eb`__ __`G.eb`__ __`G.eb.H`__ __`.ab.eb`__ __`be.eb.H`__ __`er.eb`__ __`er.eb-st`__ __`ach.eb`__ __`Ü.eb`__ __`E.eb-s`__ __`E.eb.L`__ __`u-rÜ.eb`__
+    * __`er.eb.is`__ __`er.eb.is.os`__
+  * __`-G.eb-UNG`__ __`ku.eb`__
+  * __`.S.ag.eb.ed`__ __`n.S.ag.eb`__
+  * -*geber* `g` → arbeit rat trag
   * ***gib*** `.ib` `ach.ib.i-T` `er.ib.i`
   * ***gab*** `.ab` `.ab.e` `.ab.ab.e` `.an.ab.e` `AU.ab.e` `AU.ab.it` `.S.ab.e` `be.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
     * -~~gab~~- `AU.e` `AU.it` `.S.e`
@@ -931,6 +936,18 @@
   * **güt** `gÜ` `gÜ-e` `gÜ.i` `gÜ.L` `gÜ.er` `gÜ.E` `E.gÜ` `E.gÜ.et.e` `E.gÜ.UNG`
     * -*g****ü****t*- `-Ü` `IN.w-O-Ü.er`
   * → besser
+
+---
+
+* geb
+  * geber `g.eb-er` `.an.g.eb-er`
+  * ~~geb~~
+    * *ausschlaggebend* `.S.ag.ed`
+    * *ergebnis* `er.is` `er.is.os`
+  * *geb*
+    * `g` `G.g` `G.g.H` `.ab.g` `be.g.H` `er.g` `er.g-st` `ach.g` `Ü.g`  `E.g-s` `E.g.L` `u-rÜ:g`
+    * `-G.g.UNG` `ku:g`
+    * `n.S.ag.g` __`n.S.ag.g`__
 
 ### [GR](#wörterbuch)
 
