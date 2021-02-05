@@ -854,11 +854,9 @@
     * __`er.eb.is`__ __`er.eb.is.os`__
   * __`-G.eb-UNG`__ __`ku.eb`__
   * __`.S.ag.eb.ed`__ __`n.S.ag.eb`__
-  * -*geber* `g` → arbeit rat trag
+  * -*geber* `g` → arbeit __rat__ trag
   * ***gib*** `.ib` `ach.ib.i-T` `er.ib.i`
-  * ***gab*** `.ab` `.ab.e` `.ab.ab.e` `.an.ab.e` `AU.ab.e` `AU.ab.it` `.S.ab.e` `be.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
-    * -~~gab~~- `AU.e` `AU.it` `.S.e`
-      * *aufgabengebiet* `AU.en.it` ≠ auf.dem.gebiet
+  * ***gab*** `.ab` `.ab.e` `.ab.ab.e` `.an.ab.e` __`AU.ab.e`__ __`AU.ab.it`__ __`.S.ab.e`__ `be.ab-UNG` `b.ei-ab.e` `N.ab.e` `er.ab` `hn.ab.e` `rÜ.ab.e` `Ü.ab.e` `O.ab.e` `Z.ab.e`
     * ***gäb*** `.äb` `ang.äb.e`
   * → gift
 * geburt ← gebär ← bär
@@ -947,7 +945,10 @@
   * *geb*
     * `g` `G.g` `G.g.H` `.ab.g` `be.g.H` `er.g` `er.g-st` `ach.g` `Ü.g`  `E.g-s` `E.g.L` `u-rÜ:g`
     * `-G.g.UNG` `ku:g`
-    * `n.S.ag.g` __`n.S.ag.g`__
+    * __`n.S.ag.g`__
+  * gab
+    * -~~gab~~- `AU.e` `AU.it` `.S.e`
+      * *aufgabengebiet* `AU.en.it` ≠ auf.dem.gebiet
 
 ### [GR](#wörterbuch)
 
