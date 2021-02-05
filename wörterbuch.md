@@ -848,9 +848,9 @@
 * gastr `g.a+str` `g.a+str.om`
 * *ge*- `G`
   * *unge*- `UN.G`
-* ***geb*** …
+* ***geb*** __`.eb.`__ …
   * __`.eb-er`__ __`.an.eb-er`__
-  * __`.eb`__ __`G.eb`__ __`G.eb.H`__ __`.ab.eb`__ __`be.eb.H`__ __`er.eb`__ __`er.eb-st`__ __`ach.eb`__ __`Ü.eb`__ __`E.eb-s`__ __`E.eb.L`__ __`u-rÜ.eb`__
+  * __`G.eb`__ __`G.eb.H`__ __`.ab.eb`__ __`be.eb.H`__ __`er.eb`__ __`er.eb-st`__ __`ach.eb`__ __`Ü.eb`__ __`E.eb-s`__ __`E.eb.L`__ __`u-rÜ.eb`__
     * __`er.eb.is`__ __`er.eb.is.os`__
   * __`-G.eb-UNG`__ __`ku.eb`__
   * __`.S.ag.eb.ed`__ __`n.S.ag.eb`__
@@ -940,7 +940,7 @@
 ---
 
 * geb
-  * geber `g.eb-er` `.an.g.eb-er`
+  * geber `g.eb-er` `.an.g.eb-er` → rat
   * ~~geb~~
     * *ausschlaggebend* `.S.ag.ed`
     * *ergebnis* `er.is` `er.is.os`
@@ -2075,8 +2075,7 @@
 * *rak****et*** `(.et)` `(.et).e` `tr.eg-er,(.et).e`
 * rang `r.ang` `r.ang.ir` `O.r.ang`
 * ras `r.as`
-* **rat** `ra` `ra.g` `ra.os` `ra-Sa` `G.ra` `be.ra` `er-ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da- …
-  * **rat**geber `ra.g.eb-er`
+* **rat** `ra` __`ra.g`__ `ra.os` `ra-Sa` `G.ra` `be.ra` `er-ra` `O.ra` `AU-i.ra` `bu.ra` `la.ra` `.a-v.ab.ra` @da- …
   * **rat**sam `ra-s.am`
   * -*rat* `.at`
   * *rät* `.ät` `.ät.e` `.eib.ät` `o=ba.ät` `di.ir.ät` `(.es),E.ät-er`
@@ -2190,6 +2189,7 @@
 * lig
   * *relig* `r.i` `r.i-iO` `r.i.ös` `r.i.os.ät` = __relation__ ← lig
 * rat
+  * ***rat***geber `ra.g.eb-er`
   * *berat* `Ra` = __errat__
   * *er*rat `er-r.at` ≠ _beraten_
 * re
