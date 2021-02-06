@@ -11,10 +11,8 @@
 * acht `.acht` `.acht-Sa` `be.acht` `ho.acht-UNG` __`M.O.üg.L:ho.acht-UNG`__ …
   * -*acht* `.a` __`gu.a.en`__ __`gu.a.er`__
 * *adress* `.adr` ← rekt
-* aero `.er` `.er.aut.ik`
-  * *aeronautik* `.er.o-n.ik`
-* *afrik* `.afr` `.afr.a` `.afr.i`
-  * *afrika* `.afr` @-a
+* aero `.er` __`.er.aut.ik`__ …
+* *afrik* `.afr` `.afr.i`
 * ag `.ag` `.ag.eNT` `.ag.eNT.ur`
   * *agentur* `.ag.ur`
   * → akt
@@ -113,12 +111,12 @@
 
 ---
 
-* aber
-  * *aber.auch* `ber-aY`
+* *aber.auch* `ber-aY`
 * acht
   * *gutachten* `u.a`
   * *gutachter* `gu,er`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
+* *aeronautik* `.er.o-n.ik`
 * akt `.akt` `r.akt.or` ≠ rentner
   * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
   * *aktionär* `(.I).är`
@@ -3405,4 +3403,4 @@
 * ? (Verschattung + Red Herring, Praxis (?))
 * Ausweichen in beide Richtungen: (erklären, ernähren), (seelisch, selig)
 
-
+@-a → afrika
