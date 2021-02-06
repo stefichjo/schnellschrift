@@ -40,12 +40,9 @@
   * -*amt* `.a` → arbeit aus finanz haupt land patent post
   * -*ämter* `.ä`
 * an `.an` `.an,u` `.an-t-er` `dar.an` `wo.an` …
-* -an `.an`
+* -an `.an` …
   * -aner `.er`
-  * -an*isch* `.i` @-anisch
-    * *kubanisch* `k.ub.an.i` ≠ kubisch
-    * *organisch* `.og.an.i`
-    * *romanisch* `r.om.an.i`
+  * -an*isch* `.i`
 * ander `.ad-er` `N.ad-er` `UNTER.ad-er`
   * *ande****rs*** `(rs)`
   * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
@@ -121,6 +118,10 @@
   * *aktionär* `(.I).är`
   * *aktionär* `(.är)`
 * *amerika* `.am.a` `I E.ig .at.en v .am.a`
+* -ANISCH `.an.isch` @-anisch
+  * *kubanisch* `k.ub.an.i` ≠ kubisch
+  * *organisch* `.og.an.i`
+  * *romanisch* `r.om.an.i`
 * *argument* `.ag.u-met`
 
 ## [B](#wörterbuch)
@@ -1394,7 +1395,7 @@
   * -*kosten* `ko` → bau fracht mehr neb person selb walt
   * **köst** `köst` `köst.L` `köst.L.T` `be.köst.ig`
 * kub `k.ub` `k.ub.i` `k.ub.iS`
-* kub `k.ub` `k.ub.a` `k.ub.i` @-anisch
+* kub `k.ub` `k.ub.a` __`k.ub.i`__
 * **küch** `kÜ` `kÜ.e`
 * kult `kut` `kut.iv.ir` `kut.ur` `kut.ur.ell` @-t.iv.ir …
   * *kultus* `.us` `.us.er` `.us.ko`
@@ -1910,7 +1911,7 @@
   * *abgeordnet* `.ab.G`
   * *außerordentlich* `.auss.L`
   * -*ordnung* `.o` → gemein
-* org `.org` `.og.an` `.og.i` `.og.iO` `.og.ir` `.og.iS.en` @-anisch
+* org `.org` `.og.an` __`.og.i`__ `.og.iO` `.og.ir` `.og.iS.en`
 * *orient* `.or` `.or.ir` `.or.ir-UNG`
 * *orig* `.og` `.og.i-aL`
 * orn `.on` `.on.eNT` @-ament
@@ -2166,7 +2167,7 @@
   * *risiko* `ri.ko`
 * roll `r.oll` `.ei r.oll.e .il`
   * *eine.rolle.spielen* `.ei,o,i`
-* rom `r.om` `r.om.i` @-anisch
+* rom `r.om` __`r.om.i`__
   * röm `r.öm` `r.öm.i`
 * roman `r.om.an` `r.om.an.i+st.ik` `r.om.an.iS.i`
   * *romant* `r.o+mat` `r.o+mat.ik` `r.o+mat.isch`
@@ -3027,8 +3028,8 @@
   * `v.is.ir` `v.is.ell` `v.is.um` `v.is.a`
   * `d.e-w.e` `d.e-w.en`
   * `.im-p.o-w.ir` `(o)w-o` `(o)w.or.i` `(o)w.or.um` `(o)w.or.I.en` `r.w-o` `r.w.or`
-  * visit `v.is.it` `v.is.it.e` `v.is.it.ir` `v.is.it.iO` @verkehrsschrift
-  * vis*ion* `v.is.iO` `v.is.iO.är` @verkehrsschrift
+  * VISIT `v.is.it` `v.is.it.e` `v.is.it.ir` `v.is.it.iO`
+  * VISION `v.is.iO` `v.is.iO.är`
   * *devis* `d.e-is` `d.e-is.e` `d.e-is.en`
   * *provisorien* `(o)w.I.en`
 * *volk*, *völk*
@@ -3404,5 +3405,5 @@
 * Ausweichen in beide Richtungen: (erklären, ernähren), (seelisch, selig)
 
 @-a → afrika amerika
-
-@verkehrsschrift → alt
+@verkehrsschrift → alt arg visit vision
+@-anisch → -ANISCH
