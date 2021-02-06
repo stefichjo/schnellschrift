@@ -205,34 +205,27 @@
 
 ### [BR](#wörterbuch)
 
-* **bracht** `bra` `(.an)bra` `(.ei)bra` `(er)bra` `Ü.bra` `UN.an.bra` `(E)bra` `Z.Sa.bra` ← bring
-  * *beigebracht* `(b.ei)bra`
-  * **brächt** `brä` `brä-e`
+* **bracht** `bra` `(.an)bra` __`(.ei)bra`__ `(er)bra` `Ü.bra` `UN.an.bra` `(E)bra` `Z.Sa.bra` ← bring
+  * **brächt** `brä` `brä-e` @-ä
 * branch `br.asch` `br.asch.e` `(t.il),br.asch.e`
 * **brau** `brau`
-* **brauch** `brau` `brau-t.e` `brau.bar` `brau.bar.T` `(E)brau` `(E)brau.er` `G.brau` `G.brau.eil` `ms.brau`
-  * *ver*<i></i>*br****au****ch* `E-au`
+* **brauch** `brau` `brau-t.e` `brau.bar` `brau.bar.T` __`(E)brau`__ `(E)brau.er` `G.brau` `G.brau.eil` `ms.brau`
   * **bräuch** `bräu` `G.bräu.L`
 * **brech** `br`
   * **brich** `bri`
   * **brach** `bra`
     * **bräch** __`brä`__ @-ä
-      * `br` ≠ brächte
-  * **broch** `bro` `UN.UNTER.bro`
-    * *ununterbrochen* `UN.UNTER`
+  * **broch** `bro` __`UN.UNTER.bro`__
   * **bruch** `bru`
     * **brüch** `brÜ`
       * -*brüchig* → kontrakt vertrag
 * breit `br.T`
 * *brems* `br-s` `br-s.e` `G.br-s` `.ab.br-s` `.eib:br-s.e`
 * **brief** `bri`
-* -***bring***- `.ing` `br.ing` `.an.ing` `.S.ing` `b.ei.ing` `er.ing` `Ü.ing` `UN.W.ing.L` `E.ing` `Z.Sa.ing` `Z.fa.ing`
-  * *bring* `bri` `(er)bri`
-    * *erbring* `er,bri`
+* -***bring***- `.ing` __`br.ing`__ `.an.ing` `.S.ing` `b.ei.ing` __`er.ing`__ `Ü.ing` `UN.W.ing.L` `E.ing` `Z.Sa.ing` `Z.fa.ing`
   * → bracht
-* **brud**er `bru`
-  * **brüd**er `brÜ-er` `brÜ-er.l.N` `brÜ-er.L`
-    * *brüderlich* `brÜ-L`
+* **brud**er `bru` @-er
+  * **brüd**er `brÜ-er` `brÜ-er.l.N` __`brÜ-er.L`__
 
 ## [C](#wörterbuch)
 
@@ -3404,6 +3397,17 @@
 * blick
   * *im.hinblick.auf* `.im:AU`
   * *augenblick* `au.ik` `au.ik.L`
+* bracht
+  * *beigebracht* `(b.ei)bra`
+  * *bräch* `br` ≠ brächte
+* brauch
+  * *ver*<i></i>*br****au****ch* `E-au`
+* brech
+  * *ununterbrochen* `UN.UNTER`
+* bring
+  * *bring* `bri` __`(er)bri`__
+    * *erbring* `er,bri`
+* *brüderlich* `brÜ-L`
 * buch
   * *geschäftsbücher* `GT-Ü-er`
   * *jahrbuch* `ja.b.uch`
