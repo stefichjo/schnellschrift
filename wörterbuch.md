@@ -88,47 +88,6 @@
 * auß → aus
 * aut `.aut` `.aut.o` __`.aut.o-us`__ `.aut.om`
 
----
-
-* *aber.auch* `ber-aY`
-* acht
-  * *gutachten* `u.a` = __unter.anderem__
-  * *gutachter* `gu,er`
-  * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
-* *aeronautik* `.er.o-n.ik`
-* *agentur* `.ag.ur`
-* akt `.akt` `r.akt.or` ≠ rentner
-  * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
-    * *aktionär* `(.I).är`
-      * *aktionär* `(.är)`
-* *akzent* `.ak.z.eNT`
-* *amerika* `.am.a` `I E.ig .at.en v .am.a`
-* amt
-  * *beamtenschaft* `be.FT`
-* ander
-  * *unter.anderem* `u.ad-er`
-* -ANISCH `.an.isch`
-  * *kubanisch* `k.ub.an.i` ≠ kubisch
-  * *organisch* `.og.an.i`
-  * *romanisch* `r.om.an.i`
-* *arbeitsam* `T.Sa`
-* *archivar* `.ach.ar`
-* *architektur* `.ach.ur`
-* *argument* `.ag.u-met`
-* *arithmetik* `.ar.it.ik`
-* *arterie* `.at.er.e`
-* *asien* `.as.i-en`
-  * *asiat* `.as.at` `.as.at.i`
-* *atlantik* `.at.l-t.ik`
-* auf
-  * *daraufhin* `dar-AU-n`
-* aus
-  * *auswärtiges.amt* `.S.a`
-  * *darüberhinaus* `dar-Ü-aY`
-* *autobus* `.aut.us`
-
----
-
 ## [B](#wörterbuch)
 
 | [BR](#br) |
@@ -3399,6 +3358,46 @@
   * **zwung** `.ung` `G.ung` `er.ung` `UN-G.ung` `UN-G.ung.H` @zw
 * **zw**ischen `zw` `.a-zw` `(I)zw`
   * *dazwischen* `a-zw`
+
+# Ausnahmen
+
+* *aber.auch* `ber-aY`
+* acht
+  * *gutachten* `u.a` = __unter.anderem__
+  * *gutachter* `gu,er`
+  * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
+* *aeronautik* `.er.o-n.ik`
+* *agentur* `.ag.ur`
+* akt `.akt` `r.akt.or` ≠ rentner
+  * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
+    * *aktionär* `(.I).är`
+      * *aktionär* `(.är)`
+* *akzent* `.ak.z.eNT`
+* *amerika* `.am.a` `I E.ig .at.en v .am.a`
+* amt
+  * *beamtenschaft* `be.FT`
+* ander
+  * *unter.anderem* `u.ad-er`
+* -ANISCH `.an.isch`
+  * *kubanisch* `k.ub.an.i` ≠ kubisch
+  * *organisch* `.og.an.i`
+  * *romanisch* `r.om.an.i`
+* *arbeitsam* `T.Sa`
+* *archivar* `.ach.ar`
+* *architektur* `.ach.ur`
+* *argument* `.ag.u-met`
+* *arithmetik* `.ar.it.ik`
+* *arterie* `.at.er.e`
+* *asien* `.as.i-en`
+  * *asiat* `.as.at` `.as.at.i`
+* *atlantik* `.at.l-t.ik`
+* auf
+  * *daraufhin* `dar-AU-n`
+* aus
+  * *auswärtiges.amt* `.S.a`
+  * *darüberhinaus* `dar-Ü-aY`
+* *autobus* `.aut.us`
+
 
 ## TODOs
 
