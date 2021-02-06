@@ -73,21 +73,17 @@
 * asi __`.as.I`__ __`.as.I.at`__ __`.as.I.i`__ __`.as.I.en`__
 * astro `.a+str` __`.a+str.o-I`__ `.a+str.aut` `.a+str.om.I`
 * athl `.atl` `.atl.et` `.atl.ik` `.atl.i`
-* *atlant* `.atl` `.atl.ik` `.atl.i` ← atlas
-  * *atlantik* `.at.l-t.ik`
+* *atlant* `.atl` __`.atl.ik`__ `.atl.i` ← atlas
 * atlas `.atl.as`
   * → atlant
 * *at****om*** `(.om)` `(.om).ar` `(.om).ko`
 * auch `.auch` `.auch,i`
   * -*auch* `au` → aber oder sondern
 * *auf* `AU` `AU.ei-ad-er` `.e-AU` `(n)AU`
-  * *darauf* `dar-AU` `dar-AU.in`
-    * *daraufhin* `dar-AU-n`
-* *aus* `.S` `.S.ei-ad-er` `.S-t.ig` __`.S-t.ig.a`__ `.S-ts` `n.S` `O.-S` `dar-Ü.n.S`
-  * *darüberhinaus* `dar-Ü-aY`
-  * *heraus* `rrs`
+  * *darauf* `dar-AU` __`dar-AU.in`__
+* *aus* `.S` `.S.ei-ad-er` `.S-t.ig` __`.S-t.ig.a`__ `.S-ts` `n.S` `O.-S` __`dar-Ü.n.S`__
   * auß `.auss` `.auss.um` `.auss.ko` `.auss:ha` `ach.auss.in`
-    * *nach.außen.hin*`ach.auss:hn`
+    * *nach.außen.hin* `ach.auss:hn`
     * äußer `.äuss` `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
 * aut `.aut` `.aut.o` `.aut.o-us` `.aut.om`
@@ -124,7 +120,12 @@
 * *arterie* `.at.er.e`
 * *asien* `.as.i-en`
   * *asiat* `.as.at` `.as.at.i`
-* *auswärtiges.amt* `.S.a`
+* *atlantik* `.at.l-t.ik`
+* auf
+  * *daraufhin* `dar-AU-n`
+* aus
+  * *auswärtiges.amt* `.S.a`
+  * *darüberhinaus* `dar-Ü-aY`
 
 ## [B](#wörterbuch)
 
@@ -1079,6 +1080,7 @@
 * **her** `h` `(bi)h` `.a-h` `O.h`
   * *mehr.als.vorher* `m.as.h`
   * *her*- `.e` → auf bei unter vor
+    * *heraus* `rrs`
 * *her****bst*** `(bst)` `(bst).L`
 * **herr** `h` `h.in` `h.i` `h.L` `h.FT` `m.ei-h.en` `s-G.ert.h.en` `(r) h` `.ei-a-h.en`
   * *herrisch* `h.err.i`
@@ -1319,7 +1321,7 @@
 * -***keit*** `T` ← heit
 * **ke**nn `ke` `be.ke` `be.ke.is` `er.ke` `er.ke.is` `.an.er.ke`
   * *kenn* `k.en` `k.en.e` ≠ kennt
-  * *anerkennen*`.an.er`
+  * *anerkennen* `.an.er`
   * → kann
 * **kind** `ki` `ki.H` `ki.i` `ki.L` `ki.os` `ki.eich` `ki:ki.er` `(N):ki`
   * *kindisch* `k.id.i`
@@ -2733,7 +2735,7 @@
 * stet ← steh
 * *st****eu***er `eu-er` `eu-er.L` `eu-er,i` `eu-er-UNG` `kö.er.FT,eu-er` `.um-sa,eu-er`
   * *körperschaftssteuer* `kö,eu-er`
-  * *umsatzsteuer*`.um.eu-er`
+  * *umsatzsteuer* `.um.eu-er`
 * stick `st.ik`
 * **stift** `.ift` @st
   * -*stift* `i` → blei
