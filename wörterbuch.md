@@ -47,15 +47,14 @@
   * *unter.anderem* __`u.a`__
   * änder `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * angst `.angst`
-  * -*ang****st*** `(-st)` → tod
+  * -*angst* `(-st)` → tod
   * ängst `.engst`
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
 * *arb****eit*** `(T)` `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `(T).N` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * *arbeits****los*** `(l.os)`
-  * *arbeits*- `Ts` `Ts.N` `Ts.is` → amt gebiet kreis markt platz weis zeit
-    * arbeits*tag* `.ab.T-tag`
+  * *arbeits*- `Ts` `Ts.N` `Ts.is` → amt gebiet kreis markt platz __tag__ weis zeit
   * *arbeitsam* `T.Sa`
 * arch `.ach` `.ach.iv` `.ach.iv.ar`
   * *archivar* `.ach.ar`
@@ -2806,8 +2805,7 @@
 
 * tab~~ell~~ `t.ab` __`t.ab.e`__ `t.ab.ar.i` `t.ab.ir`
   * *tabelle* `t.ab`
-* *tag* `-tag` `Ts-tag` `bu:-tag` `do-tag` `(.ei-er)-tag` `(.ei)-tag` `f.T.tag` `(bst)-tag` `(I)n,(-st)-tag.en`
-  * *freitag* `.ei-tag`
+* *tag* `-tag` __`Ts-tag`__ `bu:-tag` `do-tag` `(.ei-er)-tag` `(.ei)-tag` `f.T.tag` `(bst)-tag` `(I)n,(-st)-tag.en` …
   * *tag.für.tag* __`tag-tag`__
   * *täg* `teg` `teg.L`
 * tang `t.ang` `t.ang.ir` `t.ang.eNT.e`
@@ -2898,6 +2896,12 @@
     * **tät** __`t`__ `t.e` `t.er` `t.i` `t.i-T` `be.t.i`
       * *täter* `t.et-er`
 * turt __`tut`__ __`tut.el`__
+
+---
+
+* tag
+  * arbeits*tag* `.ab.T-tag`
+  * *freitag* `.ei-tag`
 
 ### [TR](#wörterbuch)
 
