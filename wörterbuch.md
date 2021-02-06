@@ -70,11 +70,8 @@
     * *artikel*- `(.el)` `(.el),6`
 * arz `.az` `.az.n.ei` `za.azt`
   * ärz `.ez` `.ezt.e` `.ezt.L` `.ezt.e-FT`
-* asi `.as.I` `.as.I.at` `.as.I.i` `.as.I.en`
-  * *asien* `.as.i-en`
-  * *asiat* `.as.at` `.as.at.i`
-* astro `.a+str` `.a+str.o-I` `.a+str.aut` `.a+str.om.I`
-  * astrologie → log
+* asi __`.as.I`__ __`.as.I.at`__ __`.as.I.i`__ __`.as.I.en`__
+* astro `.a+str` __`.a+str.o-I`__ `.a+str.aut` `.a+str.om.I`
 * athl `.atl` `.atl.et` `.atl.ik` `.atl.i`
 * *atlant* `.atl` `.atl.ik` `.atl.i` ← atlas
   * *atlantik* `.at.l-t.ik`
@@ -125,6 +122,8 @@
 * *argument* `.ag.u-met`
 * *arithmetik* `.ar.it.ik`
 * *arterie* `.at.er.e`
+* *asien* `.as.i-en`
+  * *asiat* `.as.at` `.as.at.i`
 * *auswärtiges.amt* `.S.a`
 
 ## [B](#wörterbuch)
@@ -896,10 +895,7 @@
     * *general*- `g` → sekret streik
 * *ge****nug*** `G.ug` ← nug
   * *ge****nüg*** `G.üg` `b.üg` `E.üg`
-* geo `g.e` `g.e-gra` `g.e-I` `g.i`
-  * *geograph* `g.e-o+gra`
-  * → log
-  * *geometr* `g.e-m.etr` `g.e-m.etr.I` `g.e-m.etr.i`
+* geo `g.e` __`g.e-gra`__ __`g.e-og.e`__ __`g.e-o-I`__ __`g.e-I`__ __`g.i`__
 * gern `g.en` `s.g.en`
 * *gesellschaft* `G.FT` `G.FT-er` `G.FT.L` `E,G.FT` `(.I).en,G.FT`
 * gesetz ← setz
@@ -954,6 +950,9 @@
 * gemein
   * *allgemeingültig* `.a-G-Ü` @Aufstrichüberkreuzung
   * *verallgemeiner* `E.al.G`
+* geo
+  * *geograph* `g.e-o+gra`
+  * *geometr* `g.e-m.etr` `g.e-m.etr.I` `g.e-m.etr.i`
 
 ### [GR](#wörterbuch)
 
@@ -1580,8 +1579,8 @@
   * *liquid* `l.iqu` `l.iqu.e` `l.iqu.ät`
 * log `l.og` `l.og.ik` `l.og.i`
   * -*log* `.og` -*logie* `.o-I` → archäo astro bio geo kata phraso polito theo
-    * *astrologie* `.a+str.o-l.o-I` ← astro
-    * *geolog* `g.e-l.og` `g.e-l.og.e` `g.e-l.og.I` ← geo
+    * *astrologie* `.a+str.o-l.o-I`
+    * *geolog* `g.e-l.og` `g.e-l.og.e` `g.e-l.og.I`
     * *theolog* `t.e-l.og` `t.e-l.og.e` `t.e-l.og.I` `t.e-l.og.i` ≠ theorie ← theo
 * lok `l.ok` `l.ok.iv`
 * *lokal* `l.ok` `l.ok.ir` `l.ok.ät` ← lok
