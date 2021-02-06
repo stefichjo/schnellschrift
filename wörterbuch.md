@@ -7,7 +7,7 @@
 
 * ab `.ab` `.ab.a`
 * *ab****end*** `(.ed)`
-* *aber* `ber` `ber.ma-s` __`ber,au`__ `ber+r` @au @r+r
+* *aber* `ber` `ber.ma-s` __`ber,au`__ `ber+r`
 * acht `.acht` `.acht-Sa` `be.acht` `ho.acht-UNG` __`M.O.üg.L:ho.acht-UNG`__
   * -*acht* `.a` __`gu.a.en`__ __`gu.a.er`__
 * *adress* `.adr` ← rekt
@@ -23,7 +23,7 @@
   * -*alien* `.I.en`
   * -il `.il`
     * -ilität `.ät`
-    * -ilitier `.ir` @-ilitier
+    * -ilitier `.ir`
       * habilitier `h.ab.il.ir`
 * *all* `.al` `wet.al` `O.al`
   * *vor.allem* `O-a`
@@ -1394,7 +1394,7 @@
 ---
 
 * klar
-  * *erklär* `er+r` ≠ __ernähren__ @r+r
+  * *erklär* `er+r` ≠ __ernähren__
 * *kultur* `u-ur` `u-ur.ell` = __struktur__ __strukturell__
 
 ### [KR](#wörterbuch)
@@ -1463,7 +1463,7 @@
 * laub `l.aub`
   * -*l****au****b* `-au`
     * *er*<i></i>*l****au****b*en `er-au` `er-au.is`
-    * ur<i></i>*l****au****b* `.ur,au` @au
+    * ur<i></i>*l****au****b* `.ur,au`
 * ***lauf*** `.auf`
   * ***lief*** `.if` `be.if`
     * *lief* `l.if`
@@ -1857,8 +1857,7 @@
     * *ober-* `.o-` → gericht haupt
 * oben ← ob
 * ober ← ob
-* oder `.od-er` `.od-er,au`
-  * *oder.auch* `.od-er-au` `.od-er-aY` @au
+* oder `.od-er` __`.od-er,au`__
 * off `.of` `.of,(z).i`
   * *off*- `.o-` `.o-bar` `.o-H`
   * *öffn*, *öffent* `.ö` `.ö` `.ö-L` `.ö-L.T` `er.ö` `E.ö-L`
@@ -1886,6 +1885,10 @@
 * *österreich* `.ö` `.ö.i`
 * oxid __`.ox.id`__ `.ox.ir` `.ox.id-o` ← oxyd
 * *oxyd* `.ox` `.ox.iO` `.ox.ir` ← oxid
+
+---
+
+* *oder.auch* `.od-er-au` `.od-er-aY`
 
 ## [P](#wörterbuch)
 
@@ -2384,10 +2387,10 @@
 * son `s.on` `s.on.at.e` __`ds.s.on.az`__ __`ko.s.on.aNT`__
   * *dissonanz* `d.is-s.o`
   * *konson* `ko-s` `ko-s.aNT`
-* *sonder* `S` `S.bar` `S,au` `S.barst.e`
+* *sonder* `S` `S.bar` __`S,au`__ `S.barst.e`
   * *besonder*, *besonders* `b°`
     * -*besonder*, -*besonders* `-S` → ganz in merk
-  * *sondern.auch* `S-au` `S-aY` @au
+  * *sondern.auch* `S-au` `S-aY`
 * sonn `s.on` `s.on.e`
 * *s****onst*** `(.ost)` ← so
 * -*sorg*- `S.o` `s.og.e` `s.og.ed` `s.ogt.e` `s.og.os` `b.S.o` `b.S.o.is` `UN.b.S.o` `f.S.o` `f.S.o-L` `E.S.o` `E.S.o-er` `O.S.o` `O.S.o.L` `.a-f-S.o`
@@ -3417,3 +3420,5 @@
 @verkehrsschrift → alt arg visit vision
 @-anisch → -ANISCH
 @-ent → akzent
+@r+r → erklär aber
+@au → aber oder sondern urlaub
