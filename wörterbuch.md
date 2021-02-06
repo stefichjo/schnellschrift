@@ -86,8 +86,7 @@
     * *nach.außen.hin* `ach.auss:hn`
     * äußer `.äuss` `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
-* aut `.aut` `.aut.o` `.aut.o-us` `.aut.om`
-  * *autobus* `.aut.us`
+* aut `.aut` `.aut.o` __`.aut.o-us`__ `.aut.om`
 
 ---
 
@@ -126,6 +125,9 @@
 * aus
   * *auswärtiges.amt* `.S.a`
   * *darüberhinaus* `dar-Ü-aY`
+* *autobus* `.aut.us`
+
+---
 
 ## [B](#wörterbuch)
 
