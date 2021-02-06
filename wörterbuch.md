@@ -18,7 +18,7 @@
 * -age `.asch.e`
 * **ak**adem `.ak` `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I`
 * *akt* __`-t`__ __`-t.I.e`__ __`-t.I.en`__ `-t.iO` __`-t.iO.är`__ `-t.iv` `-t.iv.ir` `-t.al.ät` `-t.ell` `IN-t.iv` `IN-t.iv.ät` `r-t.iO.är` `r-t.iO` __`r-t.or`__ `w.eb-t.iO` ← ag …
-* akzent ← zent
+* akzent __`.ak.zet`__ ← kant …
 * -al `.al`
   * -*alien* `.I.en`
   * -il `.il`
@@ -115,10 +115,11 @@
 * *agentur* `.ag.ur`
 * akt `.akt` `r.akt.or` ≠ rentner
   * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
-  * *aktionär* `(.I).är`
-  * *aktionär* `(.är)`
+    * *aktionär* `(.I).är`
+      * *aktionär* `(.är)`
+* *akzent* `.ak.z.eNT`
 * *amerika* `.am.a` `I E.ig .at.en v .am.a`
-* -ANISCH `.an.isch` @-anisch
+* -ANISCH `.an.isch`
   * *kubanisch* `k.ub.an.i` ≠ kubisch
   * *organisch* `.og.an.i`
   * *romanisch* `r.om.an.i`
@@ -1284,7 +1285,7 @@
   * ***kämpf*** `empf` `empf.e`
 * kan `k.an` __`k.an.on`__
   * kant `kat` __`kat.at.e`__
-    * → zent
+    * → akzent
 * *kan****al*** `(.al)` `(.al).iO`
 * kandid `k.ad.id` `k.ad.id.at` `k.ad.id-UR` `k.ad.ir`
     * *kandidat* `k.ad` `k.ad-UR`
@@ -3311,9 +3312,8 @@
 * zend `z.ed` `tra.z.ed.eNT`
 * zent `zet` `zet.er`
   * *prozent* `o` `o.al` `3.o` `5.o` `I 5.o,au.el`
-    * -*prozentig* `(g)` 
-* zent `zet` `.ak.zet` ← kant
-  * *akzent* `.ak.z.eNT` @-ent
+    * -*prozentig* `(g)`
+* zent ← kant → akzent
 * zentaur `zet.aur`
 * *zentr* `zr` `zr.ir` `zr.um` `.e-zr.ik-er` `(ko)zr.iO` `(ko)zr.ir`
   * zentr `z.etr` `z.etr.ir` `.e-z.etr.ik-er`
@@ -3407,3 +3407,4 @@
 @-a → afrika amerika
 @verkehrsschrift → alt arg visit vision
 @-anisch → -ANISCH
+@-ent → akzent
