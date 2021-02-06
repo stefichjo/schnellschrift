@@ -41,9 +41,10 @@
 * -an `.an` …
   * -aner `.er`
   * -an*isch* `.i`
-* ander `.ad-er` `N.ad-er` __`UNTER.ad-er`__ …
+* ander `.ad-er` `N.ad-er` …
   * *ande****rs*** `(rs)`
   * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
+  * *unter.anderem* __`u.a`__
   * änder `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * angst `.angst`
   * -*ang****st*** `(-st)` → tod
@@ -105,7 +106,7 @@
 
 * *aber.auch* `ber-aY`
 * acht
-  * *gutachten* `u.a`
+  * *gutachten* `u.a` = __unter.anderem__
   * *gutachter* `gu,er`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
 * *aeronautik* `.er.o-n.ik`
