@@ -13,8 +13,7 @@
 * *adress* `.adr` ← rekt
 * aero `.er` __`.er.aut.ik`__ …
 * *afrik* `.afr` `.afr.i`
-* ag `.ag` `.ag.eNT` `.ag.eNT.ur`
-  * *agentur* `.ag.ur`
+* ag `.ag` `.ag.eNT` __`.ag.eNT.ur`__ …
   * → akt
 * -age `.asch.e`
 * **ak**adem `.ak` `.ak.I` `.ak.I.en` `.ak.ik-er` `.ak.i` `kust.ak.I`
@@ -31,9 +30,9 @@
 * als `.as`
 * also `.as.o`
 * alt `.at` `.at-er` `.at-er.tum` `ki.at-er` `v.at-er.h`
-  * *alt* `.alt` `.ur.alt` @verkehrsschrift
+  * ALT `.alt` `.ur.alt`
   * ält `.ät` `.ät-er` `.ät.est`
-* *amerik* `.am` `.am.a` `.am.er` `.am.i` `I E.ig .at.en v .am.a`
+* *amerik* __`.am`__ `.am.er` `.am.i` __`I E.ig .at.en v .am`__ …
 * amt `.amt` `.amt.ir` `Ts.a`
   * *auswärtiges.amt* `.S.a`
   * *beamt*, *beamter*, *beamten* `be.a` `be.a.in` `be.a.FT`
@@ -68,10 +67,9 @@
 * archä `.ach` `.ach.og.e` `.ach.o-I`
 * archi `.ach` `.ach.ekt` `.ach.ekt.ur`
   * *architektur* `.ach.ur`
-* *arg* `.arg` `.arg.os` `E.arg` ≠ mag schlag @verkehrsschrift
+* ARG `.arg` `.arg.os` `E.arg` ≠ mag schlag
   * → ärg
-* arg `.ag` `.ag.met`
-  * *argument* `.ag.u-met`
+* arg `.ag` __`.ag.met`__ …
 * ärg `.äg` `.äg-er` `.äg-er.L` `.äg-er.is` `E.äg-er` `.am.äg-st` ← arg
 * arithmetik `.ar.itm.ik`
   * *arithmetik* `.ar.it.ik`
@@ -117,10 +115,13 @@
   * *gutachter* `gu,er`
   * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
 * *aeronautik* `.er.o-n.ik`
+* *agentur* `.ag.ur`
 * akt `.akt` `r.akt.or` ≠ rentner
   * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
   * *aktionär* `(.I).är`
   * *aktionär* `(.är)`
+* *amerika* `.am.a` `I E.ig .at.en v .am.a`
+* *argument* `.ag.u-met`
 
 ## [B](#wörterbuch)
 
@@ -3397,10 +3398,11 @@
 
 * fügsam @`.üg-Sa` aktion
 
-* *alt* `.alt` `.ur.alt` @verkehrsschrift
 * **jed**e `j.e` (Eilschrift)
 * *schönheit* `ö-H` (Verschattung, Redeschrift (?))
 * ? (Verschattung + Red Herring, Praxis (?))
 * Ausweichen in beide Richtungen: (erklären, ernähren), (seelisch, selig)
 
-@-a → afrika
+@-a → afrika amerika
+
+@verkehrsschrift → alt
