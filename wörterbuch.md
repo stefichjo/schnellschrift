@@ -82,8 +82,7 @@
 * *auf* `AU` `AU.ei-ad-er` `.e-AU` `(n)AU`
   * *darauf* `dar-AU` __`dar-AU.in`__
 * *aus* `.S` `.S.ei-ad-er` `.S-t.ig` __`.S-t.ig.a`__ `.S-ts` `n.S` `O.-S` __`dar-Ü.n.S`__
-  * auß `.auss` `.auss.um` `.auss.ko` `.auss:ha` `ach.auss.in`
-    * *nach.außen.hin* `ach.auss:hn`
+  * auß `.auss` `.auss.um` `.auss.ko` `.auss:ha` __`ach.auss.in`__
     * äußer `.äuss` `.äuss.L` `äuss-st` `G.äuss` `E.äuss` `AU-s.äuss.-st` `(bi)z.äuss.-st`
 * auß → aus
 * aut `.aut` `.aut.o` __`.aut.o-us`__ `.aut.om`
@@ -3399,6 +3398,7 @@
 * aus
   * *auswärtiges.amt* `.S.a`
   * *darüberhinaus* `dar-Ü-aY`
+  * *nach.außen.hin* `ach.auss:hn`
 * *autobus* `.aut.us`
 
 
