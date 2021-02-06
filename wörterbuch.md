@@ -103,10 +103,11 @@
   * bänk `b.ek` `b.ek.e`
 * bankrott `b.ak-r.ot` ← rupt
 * bar `b.ar` `b.ar.FT`
+* -*bar* `bar` ← bär
 * bär `b.är` `G.b.är`
   * bier `b.ir` `G.b.ir`
   * bar `b.ar` `G.b.ar`
-    * -***bar*** `bar`
+    * → -bar
     * bärd `b.ed` `G.b.ed.e`
   * bor `b.or` `G.b.or`
   * burt `but` `G.but`
@@ -120,19 +121,16 @@
 * **be**- `be`
 * becken __`b.ek`__ @-en
 * **behr** `b` `UN.eNT.b.L`
-* **be**<i></i>**ginn** `be,gi` ← ginn
-  * *beginn* `be.in`
-  * **gann** `ga` `be.ga`
-  * **gonn** `go` `be.go`
+* **be**<i></i>**ginn** __`be,gi`__ ← ginn
+  * **be**<i></i>**gann** `be.ga`
+  * **be**<i></i>**gonn** `be.go`
 * behörde ← hör
-* bei `b.ei` `b.ei-ei-ad-er` `b.ei,i` `.a-b.ei` `.e-b.ei`
+* bei `b.ei` `b.ei-ei-ad-er` `b.ei,i` __`.a-b.ei`__ __`.e-b.ei`__
   * *bei*- `(.ei)`
-  * *dabei*  `a-b.ei`
-  * *herbei* `h.ei` `h.ei-Ür`
 * ***beid*** `.eid` `.eid.e` `.eid-er.l.ei`
 * beiß __`b.eiss`__
-  * biss __`b.iss`__ `b.iss.ch.en`
-    * → bisschen
+  * biss __`b.iss`__
+    * *bisschen* `bi.ch.en` ← beiß
 * bereit ← reit
 * berg `b.eg` `b.eg.e` `E.b.eg`
   * birg `b.ig` `G.b.ig.e`
@@ -144,13 +142,11 @@
 * bett __`b.et`__
 * *bezichtig* `be.z.i` ← zeih
 * *bezirk* `be.ik` ← zirk
-  * -*bezirk* `(.ik)` → regierung verwalt
+  * -*bezirk* `.ik` → regierung verwalt
 * **bi** `bi` `bi.al`
 * *bibel* `bib`
-* bibl `b.ibl` `b.ibl.gra.I`
-  * *biblio****thek*** `(t.ek)` `(t.ek).ar.i`
-    * *bibliothekarisch* `(t.ek).i`
-  * *bibliographie* `b.ibl.o+gra.I`
+* bibl `b.ibl` __`b.ibl.gra.I`__
+  * *biblio****thek*** `(t.ek)` __`(t.ek).ar.i`__
 * bieder `b.id-er`
 * bieg `b.ig`
   * bog `b.og`
@@ -158,78 +154,54 @@
   * ***bot*** `.ot` `.ot.e` `.ot.FT` `G.ot` `.an.ot` `Ü.ot` `E.ot`
 * *bil****anz*** __`(.az)`__ `(.az.ir-UNG)`
   * *bilanz* `(az)` `(az.ir-UNG)`
-* **bild** `bi` `bi.ed` `bi-er` `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
-  * *bilder* `bi.er` ≠ bildner
-  * *bildner* `bi.n.er` ≠ bilder
+* **bild** `bi` `bi.ed` __`bi-er`__ `bi.is` `bi-UNG` `G,bi.e` `.S,bi` `fr,bi` `O,bi.L`
 * **bill** `bi` `bi.i`
 * bin ← sein
-* **bind** `bi` `(E)bi` `(E)bi.L` `UNTER,bi` `bi-o`
-  * bind `b.id`
+* **bind** __`bi`__ `(E)bi` `(E)bi.L` `UNTER,bi` `bi-o`
   * *verbind* `E,bi` `E,bi.L`
   * *in.verbindung.mit* `(I)E.M`
   * **band** `ba`
     * -*verband* `ba` → land zentral
-    * **bänd** `bä` `bä-e` `b-er` `b.i` `E.bä-e`
-      * *bänder* `b.ed-er`
-      * *bändig* `b.änd.i`
-      * *verbände* `E.b.e`
+    * **bänd** `bä` `bä-e` __`b-er`__ __`b.i`__ __`E.bä-e`__
   * **bund** `bu` `bu.um` `bu.ik` `G.w.ek.FT.bu`
     * **bünd** `bü` `bü.e` `bü.el`
-* **bi**o `bi` `bi.o-I` `bi.og.i`
-  * bio**graph**ie `b.i-o+gra.I`
+* **bi**o `bi` `bi.o-I` __`bi.og.i`__
 * **bis** `bi`
 * *bischof* `bi.of` `(.es):bi.of`
-  * *landesbischof* `(.es).of`
-* *bisschen* `bi.ch.en` ← beiß
+  * -*bischof* `.of` → landes
+* bisschen ← beiß
 * bist ← sein
-* ***bitt*** `.it` `.it.e` `.it.ed` `f.it.e` `UN.er.it.L` `.I.it.sI` `M-r.it.e` `wr.it.sI`
+* bitt __`b.it`__ __`b.it.e`__ __`b.it.ed`__ __`f.b.it.e`__ __`UN.er.b.it.L`__
+  * -*bitt* `.it` `.I.it.sI` `M-r.it.e` `wr.it.sI`
   * bat `b.at`
   * bet `b.et` `G.b.et` `UN-G.b.et`
 * bitter `b.it-er`
 * **blatt** `bla` `.om.bla`
-  * **blätt** `blä` `bl.er` `bl.ch.en`
-    * *blätter* `bl.et-er`
+  * **blätt** `blä` __`bl.er`__ `bl.ch.en`
 * **blau** `blau`
 * blei `bl.ei` `bl.ei,(.ei)` `bl.ei,i`
 * **bleib** `blei` `.S.blei` `E.blei` @eiie
   * **blieb** __`bli`__ `G.bl.i` `.S.bl.i` `(I)t-er.bl.i` `E.bl.i`
-    * *blieb* `bl.i`
 * bleich `bl.eich` `bl.eich,u` `bl.eich-Ü.i`
-* ***blick*** `.ik` `.ik.ed` `.ikt.e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` `.aug.ik` `.aug.ik.L` `CH .um:ik`
-  * *im.hinblick.auf* `.im:AU`
-  * *augenblick* `au.ik` `au.ik.L`
+* ***blick*** `.ik` `.ik.ed` `.ikt.e` `.S.ik` `er.ik` `hn.ik` `rÜ.ik` __`.aug.ik`__ __`.aug.ik.L`__ `CH .um:ik`
 * ***boot*** `.ot`
 * **bloß** `.oss`
 * **blut** `blu`
-  * **blüt** `blü` `h.ei,blü.i` `kat,blü.i`
-    * *heißblütig* `h.eiss-Ü.i`
-    * *kaltblütig* `kat-Ü.i`
+  * -*blütig* `-Ü.i` → heiß kalt
 * **bod**en `bo`
 * **börs** `bö` `bö-e` `bö,(l.er)`
-* **buch** `bu` `bu.ha` `-G.bu` `ha,bu` `ha.el,bu` `ja,bu` `(.iz).bu`
-  * *jahrbuch* `ja.b.uch`
+* **buch** `bu` `bu.ha` `-G.bu` `ha,bu` `ha.el,bu` __`ja,bu`__ `(.iz).bu`
   * -*gesetzbuch* `bu` → burg hand straf
-  * **büch** `bÜ` `bÜ-er` `GT.bÜ-er`
-    * *geschäftsbücher* `GT-Ü-er`
+  * **büch** `bÜ` `bÜ-er` __`GT.bÜ-er`__
 * *bühr* `-Ür` `G-Ür`
 * bunt `but` `but-er` `but.est` `bu.H`
 * **bür** `bÜ` `m.ak-er-Ü.o`
 * burg `b.ug` `b.ug.en`
   * -*burg* `bu` → hoch
-  * *bürg* `bÜ` `bÜ-er` `bÜ-er.L` `bÜ.FT` `N.bÜ-er` `E.bÜ` `M.bÜ-er`
-    * *bürgerliches.gesetzbuch* `bÜ-bu`
-    * *mitbürger* `M-Ü-er`
+  * *bürg* `bÜ` `bÜ-er` `bÜ-er.L` __`bÜ-er.L.bu`__ `bÜ.FT` `N.bÜ-er` `E.bÜ` __`M.bÜ-er`__
 * bus `b.us`
   * -*bus* `.us` → aut
 * butter `b.ut-er`
-
----
-
-* biet
-  * *hoheitsgebiet* `o-H.it`
-  * *aufgabengebiet* `AU.en.it`
-  * *auf.dem.gebiet* `AU.it`
-  * *auf.diesem.gebiet* `AU-i.it`
 
 ### [BR](#wörterbuch)
 
@@ -308,7 +280,7 @@
 * dacht ← denk
 * dam `d.am` `d.am.e`
 * dank `d.ak` `d.ak.ed` `gru.G.d.ak.e` `UN.d.ak` `M.b.est.d.ak` `wr.d.ak,i` ← denk
-  * *dank****bar*** `(bar)` `(bar).T` `s.bar`
+  * *dank*<i></i>*bar* `(bar)` `(bar).T` `s.bar`
   * *gedank* `G.da` `G.da.e` `G.da.os`
 * *d****ann*** `(.an)`
   * denn `d.en`
@@ -1024,9 +996,10 @@
   * *gutheiß* `gu.eiss`
   * **hieß** `h.i`
     * hieß `h.iss`
+* **heiß** `h.ei` __`h.ei-Ü.i`__ ← heiz
 * heiz `h.eiz` `zra.h.eiz*`
   * *zentralheizung* `zra.eiz*`
-  * **heiß** `h.ei`
+  * → heiß
 * -*heit* `H`
   * → keit
 * heiter `h.T.er`
@@ -1094,6 +1067,11 @@
   * *behutsamkeit* `be.h.ut.T`
   * *obhut* `.o-h.ut`
   * hüt `h.üt` `h.üt-er` `be.h.üt` `E.h.üt`
+
+---
+
+
+* *heißblütig* `h.eiss-Ü.i`
 
 ## [I](#wörterbuch)
 
@@ -1239,7 +1217,7 @@
   * kalender `k.al.ed-er`
 * kalk `k.ak`
 * *kalkul* `ka,u` `ka,u-O` `ka,u.ir` `ka,u.or.i` 
-* kalt `kat` `er.kat`
+* kalt `kat` `kat-Ü.i` `er.kat`
   * kält `ket` `ket.e` `ket.er`
 * **kamm**er `ka` `ha.ek.ka`
   * *handelskammer* `ha.ka`
@@ -1433,7 +1411,7 @@
 * lad `l.ad`
   * ***last*** `.ast`
 * **land** `la` `la.FT` `la,(.e)` `la.UNG` `.S.la` `(hi)z.la` `(r).la`
-  * *land****es*** `(.es)` `(.es).ba` `(.es).a`
+  * *land****es*** `(.es)` `(.es).ba` `(.es).a` `(.es).of`
     * -*landes* `-es` `(.es)-es` `.U.es-es`
     * *landesamt* `.es.a`
   * **länd** `l`
@@ -1747,7 +1725,7 @@
 ## [N](#wörterbuch)
 
 * *nach* `ach` `.a-ach` `hi:ach` `ach.bar` ← nah
-  * *nach****bar*** `(bar)`
+  * *nach*<i></i>*bar* `(bar)`
   * *danach* `(da)ach`
   * *näch****st*** `(-st)` `(-st).es` `(-st).e-s` `(m)(-st)` `Z(-st)` ← nah
     * *zunächst* `-Z-n`
@@ -3400,7 +3378,38 @@
   * *darüberhinaus* `dar-Ü-aY`
   * *nach.außen.hin* `ach.auss:hn`
 * *autobus* `.aut.us`
-
+* *beginn* `be.in`
+* bei
+  * *dabei*  `a-b.ei`
+  * *herbei* `h.ei` `h.ei-Ür`
+* *bibliographie* `b.ibl.o+gra.I`
+* *bibliothekarisch* `(t.ek).i`
+* biet
+  * *hoheitsgebiet* `o-H.it`
+  * *aufgabengebiet* `AU.en.it`
+  * *auf.dem.gebiet* `AU.it`
+  * *auf.diesem.gebiet* `AU-i.it`
+* bild
+  * *bilder* `bi.er` ≠ bildner
+  * *bildner* `bi.n.er` ≠ bilder
+* bind `b.id`
+   * *bänder* `b.ed-er` ≠ aber
+   * *bändig* `b.änd.i`
+   * *verbände* `E.b.e`
+* *biographie* `b.i-o+gra.I`
+* *bitt* `.it` `.it.e` `.it.ed` `f.it.e` `UN.er.it.L`
+* *blätter* `bl.et-er`
+* bleib
+  * *blieb* `bl.i`
+* blick
+  * *im.hinblick.auf* `.im:AU`
+  * *augenblick* `au.ik` `au.ik.L`
+* buch
+  * *geschäftsbücher* `GT-Ü-er`
+  * *jahrbuch* `ja.b.uch`
+* bürg
+  * *bürgerliches.gesetzbuch* `bÜ.bu`
+  * *mitbürger* `M-Ü-er`
 
 ## TODOs
 
