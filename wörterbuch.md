@@ -33,20 +33,17 @@
   * ALT `.alt` `.ur.alt`
   * ält `.ät` `.ät-er` `.ät.est`
 * *amerik* __`.am`__ `.am.er` `.am.i` __`I E.ig .at.en v .am`__ …
-* amt `.amt` `.amt.ir` `Ts.a`
-  * *auswärtiges.amt* `.S.a`
-  * *beamt*, *beamter*, *beamten* `be.a` `be.a.in` `be.a.FT`
-    * *beamtenschaft* `be.FT`
-  * -*amt* `.a` → arbeit aus finanz haupt land patent post
+* amt `.amt` `.amt.ir` …
+  * *beamt*, *beamter*, *beamten* `be.a` `be.a.in` __`be.a.FT`__
+  * -*amt* `.a` `Ts.a` → auswärtig finanz haupt land patent post
   * -*ämter* `.ä`
 * an `.an` `.an,u` `.an-t-er` `dar.an` `wo.an` …
 * -an `.an` …
   * -aner `.er`
   * -an*isch* `.i`
-* ander `.ad-er` `N.ad-er` `UNTER.ad-er`
+* ander `.ad-er` `N.ad-er` __`UNTER.ad-er`__ …
   * *ande****rs*** `(rs)`
   * -*einander* `.ei-ad-er` → auf aus bei für gegen hinter in mit unter zu
-  * *unter.anderem* `u.ad-er`
   * änder `.äd-er` `.äd-erd` `.äd-ert.e` `.um.äd-er` `UN.ab.äd-er.L` `E.äd-er` `E.äd-er.L`
 * angst `.angst`
   * -*ang****st*** `(-st)` → tod
@@ -94,7 +91,7 @@
 * *auf* `AU` `AU.ei-ad-er` `.e-AU` `(n)AU`
   * *darauf* `dar-AU` `dar-AU.in`
     * *daraufhin* `dar-AU-n`
-* *aus* `.S` `.S.ei-ad-er` `.S-t.ig` `.S-ts` `n.S` `O.-S` `dar-Ü.n.S`
+* *aus* `.S` `.S.ei-ad-er` `.S-t.ig` __`.S-t.ig.a`__ `.S-ts` `n.S` `O.-S` `dar-Ü.n.S` …
   * *darüberhinaus* `dar-Ü-aY`
   * *heraus* `rrs`
   * auß `.auss` `.auss.um` `.auss.ko` `.auss:ha` `ach.auss.in`
@@ -119,11 +116,16 @@
       * *aktionär* `(.är)`
 * *akzent* `.ak.z.eNT`
 * *amerika* `.am.a` `I E.ig .at.en v .am.a`
+* amt
+  * *beamtenschaft* `be.FT`
+* ander
+  * *unter.anderem* `u.ad-er`
 * -ANISCH `.an.isch`
   * *kubanisch* `k.ub.an.i` ≠ kubisch
   * *organisch* `.og.an.i`
   * *romanisch* `r.om.an.i`
 * *argument* `.ag.u-met`
+* *auswärtiges.amt* `.S.a`
 
 ## [B](#wörterbuch)
 
