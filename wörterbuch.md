@@ -52,27 +52,22 @@
 * *ant*- `aNT`
 * -*ant* `aNT`
 * *ant*ik `aNT.ik`
-* *arb****eit*** `(T)` `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` `(T).Sa` `(T).N` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
+* *arb****eit*** `(T)` `G.T` `(T).ed` `(T).er` `(T).er.in` `(T).er.FT` `(T).g` __`(T).Sa`__ `(T).N` `.S.T` `be.T` `fa.T.er` `ga.T.er` `M.T.er` `E.T` `O.T.er` `Z.Sa.T`
   * *arbeits****los*** `(l.os)`
   * *arbeits*- `Ts` `Ts.N` `Ts.is` → amt gebiet kreis markt platz __tag__ weis zeit
-  * *arbeitsam* `T.Sa`
-* arch `.ach` `.ach.iv` `.ach.iv.ar`
-  * *archivar* `.ach.ar`
+* arch `.ach` `.ach.iv` __`.ach.iv.ar`__ …
 * archä `.ach` `.ach.og.e` `.ach.o-I`
-* archi `.ach` `.ach.ekt` `.ach.ekt.ur`
-  * *architektur* `.ach.ur`
+* archi `.ach` `.ach.ekt` __`.ach.ekt.ur`__
 * ARG `.arg` `.arg.os` `E.arg` ≠ mag schlag
   * → ärg
 * arg `.ag` __`.ag.met`__ …
 * ärg `.äg` `.äg-er` `.äg-er.L` `.äg-er.is` `E.äg-er` `.am.äg-st` ← arg
-* arithmetik `.ar.itm.ik`
-  * *arithmetik* `.ar.it.ik`
+* arithmetik __`.ar.itm.ik`__ …
 * *art* `.art`
-  * -**a**rt `.a` → ab der wes
-* art `.at` `.at.er.I.e` `.at.ik.el`
-  * *arterie* `.at.er.e`
-  * *artik* `(.ik)` `(.ik).el` `(.ik).ir` `(.ik).iO` `be.da.ik.el` `(.ik).el 6`
-    * *artikel.6* `(.el),6`
+  * -*art* `.a` → ab der wes
+* art `.at` __`.at.er.I.e`__
+  * *art****ik*** `(.ik)` `(.ik).el` `(.ik).ir` `(.ik).iO` `be.da.ik.el`
+    * *artikel*- `(.el)` `(.el),6`
 * arz `.az` `.az.n.ei` `za.azt`
   * ärz `.ez` `.ezt.e` `.ezt.L` `.ezt.e-FT`
 * asi `.as.I` `.as.I.at` `.as.I.i` `.as.I.en`
@@ -124,7 +119,12 @@
   * *kubanisch* `k.ub.an.i` ≠ kubisch
   * *organisch* `.og.an.i`
   * *romanisch* `r.om.an.i`
+* *arbeitsam* `T.Sa`
+* *archivar* `.ach.ar`
+* *architektur* `.ach.ur`
 * *argument* `.ag.u-met`
+* *arithmetik* `.ar.it.ik`
+* *arterie* `.at.er.e`
 * *auswärtiges.amt* `.S.a`
 
 ## [B](#wörterbuch)
