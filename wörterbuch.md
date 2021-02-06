@@ -8,11 +8,8 @@
 * ab `.ab` `.ab.a`
 * *ab****end*** `(.ed)`
 * *aber* `ber` `ber.ma-s` __`ber,au`__ `ber+r` @au @r+r …
-* acht `.acht` `.acht-Sa` `be.acht` `ho.acht-UNG` `M.O.üg.L.ho.acht`
-  * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
-  * -*acht* `.a` `gu.a.en` `gu.a.er`
-    * *gutachten* `u.a`
-    * *gutachter* `gu,er`
+* acht `.acht` `.acht-Sa` `be.acht` `ho.acht-UNG` __`M.O.üg.L:ho.acht-UNG`__ …
+  * -*acht* `.a` __`gu.a.en`__ __`gu.a.er`__
 * *adress* `.adr` ← rekt
 * aero `.er` `.er.aut.ik`
   * *aeronautik* `.er.o-n.ik`
@@ -118,6 +115,10 @@
 
 * aber
   * *aber.auch* `ber-aY`
+* acht
+  * *gutachten* `u.a`
+  * *gutachter* `gu,er`
+  * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
 * akt `.akt` `r.akt.or` ≠ rentner
   * *akti* `(.I)` `(.I).e` `(.I).en` __`(.I).on.är`__
   * *aktionär* `(.I).är`
@@ -877,16 +878,14 @@
   * galt `gat`
   * golt `got` `G.got`
   * gült `güt` `güt.ig` `güt.ig.T` `UN,güt.ig` `.ed,güt.ig` `gl,güt.ig` `echt,güt.ig.T`
-    * -*gültig* `-Ü.i` → gemein
-* *gemein* `G.N` `G.N.H`
+    * -*gültig* `-Ü.i` → allgemein
+* *gemein* `G.N` `G.N.H` …
   * *gem****eind*** `(N)-d` `(N)-d.e` `(N)-d.e-hö` `(N)-d.e-o` `(N)-d.e.UNG` `la.N-d.e`
   * *gem****einnützig*** `(N)-Ü.i`
   * *gem****einsam*** `(N)-Sa` `(N)-Sa.T`
   * *gem****einschaft*** `(N).FT`
     * -*gemeinschaft* `N` → arbeit
   * *allgemein* `.a-G` `.a-G-Ü.i` `E.a-G.er` `.im.a-G` ≠ allein
-    * *allgemeingültig* `.a-G-Ü` @Aufstrichüberkreuzung
-    * *verallgemeiner* `E.al.G`
 * *ge****nau*** `G.au` ← nau
 * gen `g.en` `g.en.iaL`
 * *gener* `g.en` `g.en.al` `g.en.ell` `g.en.iO`
@@ -949,6 +948,9 @@
   * gab
     * -~~gab~~- `AU.e` `AU.it` `.S.e`
       * *aufgabengebiet* `AU.en.it` ≠ auf.dem.gebiet
+* gemein
+  * *allgemeingültig* `.a-G-Ü` @Aufstrichüberkreuzung
+  * *verallgemeiner* `E.al.G`
 
 ### [GR](#wörterbuch)
 
@@ -3333,8 +3335,7 @@
   * **zog** `.og`
     * **zög** `.ög` `.ög-er`
   * **zug** `.ug` `.ug.ug`
-    * **züg** `.üg` `.üg.e` `.üg.el` `.üg.i`
-      * ~~z~~**ü**~~g~~ `Ü` `gr-Ü.i` `ach-Ü.el.er` `O-Ü.L`
+    * **züg** `.üg` `.üg.e` `.üg.el` `.üg.i` __`gr.üg.i`__ __`ach.üg.el.er`__ __`O.üg.L`__
   * **zucht** `.ucht`
     * -z**u**cht `u` → vieh
     * **zücht** `.ücht`
@@ -3367,7 +3368,10 @@
 
 ---
 
-* **kon**zert `ko.zet`
+* zert
+  * **kon**zert `ko.zet`
+* zug
+  * ~~z~~**ü**~~g~~ `Ü` `gr-Ü.i` `ach-Ü.el.er` `O-Ü.L` → acht
 
 ### [ZR](#wörterbuch)
 
