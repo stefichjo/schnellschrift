@@ -372,11 +372,6 @@
 * *dynam* `d.ün` `d.ün.ik` `d.ün.it` `d.ün.i` `d.ün.o` `.er.d.ün.i`
   * *aerodynamisch* `.er.o-d.yn.i`
 
----
-
-* durch
-  * *dadurch* `a-dr` ≠ ander = __drang__
-
 ### [DR](#wörterbuch)
 
 * dreh `dr.eh` `ha.um:dr.eh`
@@ -396,13 +391,6 @@
     * *ausdrücklich* `.S-Y.L`
     * *eindrücke* `N-Ük.e`
     * *nachdrücklich* `ach-Ü.L`
-
----
-
-* drang `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
-  * *dräng* `dr.eng` `dr.eng.el`
-    * be*dräng* `be.dr`
-    * *ver*<i></i>*dräng* `E.dr`
 
 ## [E](#wörterbuch)
 
@@ -714,13 +702,6 @@
 * **futt** `fu` `fu-er`
   * **fütt** `fü` `fü-er`
 
----
-
-* fin
-  * *finalistin* `fi.al.in`
-  * *finanzminister* `fi-er`
-  * *defin* `d.ef` `d.ef.ir` `d.ef.iv` `d.ef-o`
-
 ### [FR](#wörterbuch)
 
 * fracht ← eig
@@ -753,12 +734,6 @@
     * -*frücht* `-Ü` → süd
 * **früh** `frÜ` `frÜ.er` `frÜ.er-er` `frÜ.est.es` `frÜ.est.e-s` `frÜ.ing`
   * -*früh* `-Ü` → heut morg schon
-
----
-
-* front
-  * *konfrontation* `ko.fr.ot.iO`
-  * *konfrontier* `ko.fr.o`
 
 ## [G](#wörterbuch)
 
@@ -858,27 +833,6 @@
   * **güt** `gÜ` `gÜ-e` `gÜ.i` `gÜ.L` `gÜ.er` `gÜ.E` `E.gÜ` `E.gÜ.et.e` `E.gÜ.UNG`
     * -*g****ü****t*- `-Ü` `IN.w-O-Ü.er`
   * → besser
-
----
-
-* geb
-  * geber `g.eb-er` `.an.g.eb-er` → rat
-  * ~~geb~~
-    * *ausschlaggebend* `.S.ag.ed`
-    * *ergebnis* `er.is` `er.is.os`
-  * *geb*
-    * `g` `G.g` `G.g.H` `.ab.g` `be.g.H` `er.g` `er.g-st` `ach.g` `Ü.g`  `E.g-s` `E.g.L` `u-rÜ:g`
-    * `-G.g.UNG` `ku:g`
-    * __`n.S.ag.g`__
-  * gab
-    * -~~gab~~- `AU.e` `AU.it` `.S.e`
-      * *aufgabengebiet* `AU.en.it` ≠ auf.dem.gebiet
-* gemein
-  * *allgemeingültig* `.a-G-Ü` @Aufstrichüberkreuzung
-  * *verallgemeiner* `E.al.G`
-* geo
-  * *geograph* `g.e-o+gra`
-  * *geometr* `g.e-m.etr` `g.e-m.etr.I` `g.e-m.etr.i`
 
 ### [GR](#wörterbuch)
 
@@ -1060,11 +1014,6 @@
   * *behutsamkeit* `be.h.ut.T`
   * *obhut* `.o-h.ut`
   * hüt `h.üt` `h.üt-er` `be.h.üt` `E.h.üt`
-
----
-
-
-* *heißblütig* `h.eiss-Ü.i`
 
 ## [I](#wörterbuch)
 
@@ -1361,12 +1310,6 @@
   * küss `k.üss`
 * *kut*, *kuss* `-u-` `ds-u.ir` `ds-u` `p-u` @-sion
 
----
-
-* klar
-  * *erklär* `er+r` ≠ __ernähren__
-* *kultur* `u-ur` `u-ur.ell` = __struktur__ __strukturell__
-
 ### [KR](#wörterbuch)
 
 * **kraft** `kra` `kra.wa` `fli.kra` `M.al.kra`
@@ -1388,14 +1331,6 @@
   * *dis*<i></i>*kr****i****min* `ds-i` `ds-i.ir`
   * *kriminalität* `kri.ät`
 * **krit** `kri` `kri.er.um` `kri.er.en` `kri.ik` `kri.ik-er` `kri.ik.os` `kri.i` `kri.ir` `UN,kri.i`
-
----
-
-* krank
-  * *krankenwagen* `kr.ak.wa` ≠ kraftwagen
-  * *krankheit* `a-H` = schaffung
-  * *kränk* `kr.ek`
-    * *kränker* `kr.ek-er`
 
 ## [L](#wörterbuch)
 
@@ -1529,14 +1464,6 @@
 * lux `l.ux` `l.ux.us` `l.ux.ur.ös`
   * *luxus* `l.ux`
   * *luxuriös* `l.ux.ös`
-
----
-
-* leg
-  * *ver*leger `E.l.eg-er`
-  * *angelen.sein.lass* `.an-G.ass`
-  * *auswertige.angelegenheiten* `.S.H.en`
-  * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
 
 ## [M](#wörterbuch)
 
@@ -1809,14 +1736,6 @@
   * **nütz** `nÜ`
     * -*nützig* `-Ü.i` → eigen gemein
 
----
-
-* nahr
-  * *ernähr* `er.ä` ≠ __erklären__
-* *nati****on*** __`(.on)`__ __`(.ön).ch.en`__ __`kut.ur+(.on)`__
-  * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
-    * *kulturnation* `u-ur.iO`
-
 ## [O](#wörterbuch)
 
 * -o @-o
@@ -1855,10 +1774,6 @@
 * *österreich* `.ö` `.ö.i`
 * oxid __`.ox.id`__ `.ox.ir` `.ox.id-o` ← oxyd
 * *oxyd* `.ox` `.ox.iO` `.ox.ir` ← oxid
-
----
-
-* *oder.auch* `.od-er-au` `.od-er-aY`
 
 ## [P](#wörterbuch)
 
@@ -2123,24 +2038,6 @@
 * **rund** `ru`
 * *russ* `russ`
 
----
-
-* lat
-  * relat*ion* `r.l.at.iO` ≠ _religion_ ← lat
-* lig
-  * *relig* `r.i` `r.i-iO` `r.i.ös` `r.i.os.ät` = __relation__ ← lig
-* rat
-  * ***rat***geber `ra.g.eb-er`
-  * *berat* `Ra` = __errat__
-  * *er*rat `er-r.at` ≠ _beraten_
-* re
-  * *realisieren* `r.ir`
-* reg
-  * *regel* `r.el` `G.r.elt` `r.el.os` `r.el.i` __`r.el.i-T`__
-    * *regelmäßigkeit* `r.el.ess.i-T`
-  * reg*ion* `r.eg.iO` `r.eg.i-aL` ≠ religion
-  * *regul* `r.ul` `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklären ernähren relativ
-
 ## [S](#wörterbuch)
 
 | [SCH](#sch) | [SP](#sp) | [ST](#st) |
@@ -2394,11 +2291,6 @@
 * sym `s.ym` `s.ym.I` `s.ym.i`
 * *sym****bol*** `(b.ol)` `(b.ol).ir`
 * *syst****em*** `(.em)` `pr.iaL,(.em)` `(.em).ik` `(.em).i` `(.em).ir`
-
----
-
-* sicht
-  * *gesicht* `G.icht` ≠ gesetzwidrig
 
 ### [SCH](#wörterbuch)
 
@@ -2728,11 +2620,6 @@
   * *instrument* `IN.u-met` `IN.u-met.al` `IN.u-met.ar.um` `IN.u-met.O` `IN.u-met.ir-UNG` `IN.u-met,bau`
   * str**u**kt `u` __`u-ur`__ __`u-ur.ell`__ `IN,u-O` `ko,u-O` `ko,u-ör` `IN.fra,u-ur`
 
----
-
-* *struktur* `str.uk` __`str.uk.ell`__ ≠ _kultur _kulturell_
-  * *strukturell* `str.ell`
-
 ## [T](#wörterbuch)
 
 | [TR](#tr) |
@@ -2831,12 +2718,6 @@
     * **tät** __`t`__ `t.e` `t.er` `t.i` `t.i-T` `be.t.i`
       * *täter* `t.et-er`
 * turt __`tut`__ __`tut.el`__
-
----
-
-* tag
-  * arbeits*tag* `.ab.T-tag`
-  * *freitag* `.ei-tag`
 
 ### [TR](#wörterbuch)
 
@@ -2994,11 +2875,6 @@
 * **vot** `v`
   * -*votum* `.um` → trau
 * vue `v.ü` `r.w.ü` ← vid
-
----
-
-* vest
-  * *investment* `IN.w` = invest
 
 ## [W](#wörterbuch)
 
@@ -3208,12 +3084,6 @@
       * *gesetzentwürfe* `-G-Ü.e`
     * *zerwürfnis* `zer-Ü.is`
 
----
-
-* wasser
-  * *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
-  * wässr*ig* `w.ess.r.i`
-
 ### [WR](#wörterbuch)
 
 * wrack `wr.ak` `.ab.wr.akt`
@@ -3308,13 +3178,6 @@
 * zug ← zieh
 * zünd `z.üd` `IN.it.iaL,z.üd-UNG`
 
----
-
-* zert
-  * **kon**zert `ko.zet`
-* zug
-  * ~~z~~**ü**~~g~~ `Ü` `gr-Ü.i` `ach-Ü.el.er` `O-Ü.L` → acht
-
 ### [ZR](#wörterbuch)
 
 * zr `zr` ← zirkonium
@@ -3335,10 +3198,8 @@
 # Ausnahmen
 
 * *aber.auch* `ber-aY`
-* acht
-  * *gutachten* `u.a` = __unter.anderem__
-  * *gutachter* `gu,er`
-  * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
+* auch → aber.auch oder.auch
+* acht → gutachten gutachter hochachtung
 * *aeronautik* `.er.o-n.ik`
 * *agentur* `.ag.ur`
 * akt `.akt` `r.akt.or` ≠ rentner
@@ -3414,6 +3275,95 @@
 * bürg
   * *bürgerliches.gesetzbuch* `bÜ.bu`
   * *mitbürger* `M-Ü-er`
+
+* drang `dr.ang` `dr.ang-ol` `dr.ang.s.al` ≠ dadurch
+  * *dräng* `dr.eng` `dr.eng.el`
+    * be*dräng* `be.dr`
+    * *ver*<i></i>*dräng* `E.dr`
+* durch
+  * *dadurch* `a-dr` ≠ ander = __drang__
+
+* fin
+  * *finalistin* `fi.al.in`
+  * *finanzminister* `fi-er`
+  * *defin* `d.ef` `d.ef.ir` `d.ef.iv` `d.ef-o`
+
+* front
+  * *konfrontation* `ko.fr.ot.iO`
+  * *konfrontier* `ko.fr.o`
+
+
+* *gutachten* `u.a` = __unter.anderem__
+* *gutachter* `gu,er`
+
+* *heißblütig* `h.eiss-Ü.i`
+* hochachtung
+  * *mit.vorzüglicher.hochachtung* `M-Ü.ho`
+
+* geb
+  * geber `g.eb-er` `.an.g.eb-er` → rat
+  * ~~geb~~
+    * *ausschlaggebend* `.S.ag.ed`
+    * *ergebnis* `er.is` `er.is.os`
+  * *geb*
+    * `g` `G.g` `G.g.H` `.ab.g` `be.g.H` `er.g` `er.g-st` `ach.g` `Ü.g`  `E.g-s` `E.g.L` `u-rÜ:g`
+    * `-G.g.UNG` `ku:g`
+    * __`n.S.ag.g`__
+  * gab
+    * -~~gab~~- `AU.e` `AU.it` `.S.e`
+      * *aufgabengebiet* `AU.en.it` ≠ auf.dem.gebiet
+* gemein
+  * *allgemeingültig* `.a-G-Ü` @Aufstrichüberkreuzung
+  * *verallgemeiner* `E.al.G`
+* geo
+  * *geograph* `g.e-o+gra`
+  * *geometr* `g.e-m.etr` `g.e-m.etr.I` `g.e-m.etr.i`
+* klar
+  * *erklär* `er+r` ≠ __ernähren__
+* *kultur* `u-ur` `u-ur.ell` = __struktur__ __strukturell__
+* krank
+  * *krankenwagen* `kr.ak.wa` ≠ kraftwagen
+  * *krankheit* `a-H` = schaffung
+  * *kränk* `kr.ek`
+    * *kränker* `kr.ek-er`
+* leg
+  * *ver*leger `E.l.eg-er`
+  * *angelen.sein.lass* `.an-G.ass`
+  * *auswertige.angelegenheiten* `.S.H.en`
+  * *bei.jeder.sich.bietenden.gelegenheit* `(b.ei)j.CH.H`
+* nahr
+  * *ernähr* `er.ä` ≠ __erklären__
+* *nati****on*** __`(.on)`__ __`(.ön).ch.en`__ __`kut.ur+(.on)`__
+  * *nat****ion*** `(.iO)` `(.iO).ch.en` `kut.ur,(.iO)` = __region__
+    * *kulturnation* `u-ur.iO`
+
+* *oder.auch* `.od-er-au` `.od-er-aY`
+* lat
+  * relat*ion* `r.l.at.iO` ≠ _religion_ ← lat
+* lig
+  * *relig* `r.i` `r.i-iO` `r.i.ös` `r.i.os.ät` = __relation__ ← lig
+* rat
+  * ***rat***geber `ra.g.eb-er`
+  * *berat* `Ra` = __errat__
+  * *er*rat `er-r.at` ≠ _beraten_
+* re
+  * *realisieren* `r.ir`
+* reg
+  * *regel* `r.el` `G.r.elt` `r.el.os` `r.el.i` __`r.el.i-T`__
+    * *regelmäßigkeit* `r.el.ess.i-T`
+  * reg*ion* `r.eg.iO` `r.eg.i-aL` ≠ religion
+  * *regul* `r.ul` `r.ul.är` `r.ul.ir` `r.ul.iv` ≠ erklären ernähren relativ* sicht
+  * *gesicht* `G.icht` ≠ gesetzwidrig* *struktur* `str.uk` __`str.uk.ell`__ ≠ _kultur _kulturell_
+  * *strukturell* `str.ell`* tag
+  * arbeits*tag* `.ab.T-tag`
+  * *freitag* `.ei-tag`
+* vest
+  * *investment* `IN.w` = invest* wasser
+  * *ge*<i></i>*wäss*er `G.wes-er` ≠ gewächs
+  * wässr*ig* `w.ess.r.i`* zert
+  * **kon**zert `ko.zet`
+* zug
+  * ~~z~~**ü**~~g~~ `Ü` `gr-Ü.i` `ach-Ü.el.er` `O-Ü.L` → acht
 
 ## TODOs
 
