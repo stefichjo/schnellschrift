@@ -464,7 +464,7 @@
 * faden `r.ad`
 * **fäh** `f`/`fäh` `f.i` `f.i-T` __`(T).f.i`__ __`(T),UN.f.i-T`__ `er.T.er-UNG:f.i` `l.ei-f.i` `l.ei-f.i-T`
 * **fahr** `fa` `fa.bar` __`fa-er`__ `fat` `G.fa` `G.fa-ol` `.ab.fa` `.ab.fat` `.S.fa` `be.fa.bar` `er.fa` `er.fa.G` `.if-fat` `UN.er.fa` `UN.er.fa.H` `E.fa` `Z.fat` `u-rÜ:fa`
-  * **fähr** `fä` __`fä-e`__ `ft` `er.f` `G.fd` __`UN-G.fä`__ `G.f.L` `G.f.L.T` `G.f-t.e` `G.f-t.in` `UN-G.f.L` `(.l):f.i` `dU er.fä .e`
+  * **fähr** `fä` __`fä-e`__ `f-t` `er.f` `G.f-d` __`UN-G.fä`__ `G.f.L` `G.f.L.T` `G.f-t.e` `G.f-t.in` `UN-G.f.L` `(.l):f.i` `dU er.fä .e`
   * **fuhr** `fu` `.S.fu` `N.fu`
     * → führ
 * *fakt* `fat` `fat.ur.a` ← faz
@@ -486,7 +486,6 @@
   * färb `f.eb` `f.eb-UNG`
 * farm `f.am`
 * *f****ass*** __`(.ass)`__ __`G.asst`__ __`G.ass.H`__ __`.an.ass`__ `AU.ass` `be.ass` `er.ass` `.um.ass.ed` `E.ass-er` `Z.Sa-ass.ed` @-heit
-  * *fassen* `fass` `G.fass` `G.fass.H` `.an.fass` ≠ anlassen
   * -*auffassung*- `.ass` `(I)bi.ass` `ach.m.ei-ass` `m.ei-ass:ach`
   * → fass
 * fass `f.ass`
@@ -3247,6 +3246,7 @@
 * *fähre* `f.är.e`
 * *fahrer* `f.ar-er`
 * *familie* `f.am`
+* *fassen* `fass` `G.fass` `G.fass.H` `.an.fass` ≠ anlassen
 * *finalistin* `fi.al.in`
 * *finanzminister* `fi-er`
 * *flamme* `fl.am.e`
