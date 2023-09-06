@@ -857,7 +857,7 @@
 * harm `h.am` `h.am.os`
 * *harmon* `h.am` `h.am.I` `h.am.ir` `h.am.i` @-isier
 * ***harr*** `arr` `be.arr.L.T` @-lichkeit
-* **hart** `hat`
+* **hart** `hat` @Normale Schreibung?
   * **härt** `het` `het.e` `het.est` `G.het` `.ab.het` `er.het`
 * häs @-sion
 * **haupt** `hau` `be.hau.et` `hau.a.L` `hau.uss` `hau,(.e)` `hau.L` `(.es).hau` = hauptstraße hauptsache

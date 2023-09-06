@@ -2,314 +2,74 @@
 
 * [Wörterbuch](wörterbuch.md)
 
+Alle Einträge im Wörterbuch werden kleingeschrieben.
 
-### Kurzschreibung
+## Vokale
 
+<img src="wörter/ab.png" height="20" /> ab `.ab`
 
-### Kürzel
+<img src="wörter/echt.png" height="20" /> echt `.echt`
 
-#### Auslautkürzel
+<img src="wörter/hammer.png" height="20" /> hammer `h.am.er`
 
-Die Auslautkürzel auf -*heit* `H`, -*schaft* `FT`, -*tum* `tum` und -*ung* `UNG` müssen nicht auf die Oberlinie gestellt werden.
+<img src="wörter/kopf.png" height="20" /> kopf `k.opf`
 
-| Einheit | Irrtum | Verwaltung | Wirtschaft |
-|:-:|:-:|:-:|:-:|
-| `[/ ein / heit /]` | `[/ irr / tum /]` | `[/ verwalt / ung /]` | `[/ wirt / schaft /]` |
-| `H` | `tum` | `UNG` | `FT` |
+<img src="wörter/leid.png" height="20" /> leid `l.eid`
 
-### Grammatik
+<img src="wörter/mir.png" height="20" /> mir `m.ir`
 
-#### Adjektive
+<img src="wörter/reif.png" height="30" /> reif `r.eif`
 
-Nach bestimmtem Artikel werden die Endungen von Adjektiven ausgelassen.
+<img src="wörter/um.png" height="20" /> um `.um`
 
-* *die* **gut**e *nach*<i></i>**richt** `I gu ach,ri`
+<img src="wörter/vier.png" height="20" /> vier `v.ir`
 
-#### -ung
+## -eit-, -ein-
 
-Die Endung -*ung* `UNG` wird nach Fußschleifenzeichen durch Auslassen der Fußschleife angedeutet.
+<img src="wörter/heiter.png" height="20" /> heiter `h.T.er`
 
-* heiz*ung* `h.eiz*`
-* **zahl**<i></i>*ung* `za*`
+<img src="wörter/wein.png" height="20" /> wein `w.N`
 
-Bei Verbstämmen wird Endung -*ung* `UNG` nach Artikel nicht geschrieben.
+## Andere Kürzel
 
-* *die* *rech*n*ung* = *die* *rech*n~~ung~~ `I ech`
-* *die* **zeit**<i></i>*ung* `I T-UNG`
+<img src="wörter/feinheit.png" height="30" /> feinheit `f.N.H`
 
-### Griechischer Fugen-Selbstlaut
+## Ausfall von -l-, -n-, -r- im Auslaut
 
-* **kat**a**log** `ka.og`
-* auto `.aut.o`
-* auto**bahn** `.aut.o-ba`
-* auto**graph** `.aut.gra`
+<img src="wörter/ort.png" height="20" /> ort `.ot`
 
-### Anstellen
+Der Aufstrich des -t- bleiben, wenn der Anlaut den Inlaut andeuten kann.
 
-Eine Vorsilbe kann an das obere Ende des folgenden Zeichens angeschlossen werden, wenn das Vorsilbenzeichen die Oberstufe nicht verlässt.
+<img src="wörter/bunt.png" height="25" /> bunt `but`
 
-* an*grenz*en `(.an)GR`
-* **be**<i></i>**tracht** `(b)tra`
-* *ver***tief**en `(E)ti`
-* *ver***trug** `E-tru`
+<img src="wörter/start.png" height="20" /> start `stat`
 
-Ein Anstellen an Zeichen mit Kopfschleife ist nicht möglich, sodass die Vorsilbe gegebenenfalls getrennt geschrieben werden muss.
+<img src="wörter/wort.png" height="20" /> wort `wot`
 
-* an**pflanz**en `.an.pfla`
-* *ver***dienst** `E,di`
+Die Linkswendigkeit des -s- bleibt erhalten.
 
-Aus einer Anlautkürzung darf ein Anlautkürzel werden, um die Getrenntschreibung zu vermeiden. Vorsilben mit Aufstrich dürfen mit Anlautkürzungen auf der Oberlinie verbunden werden.
-
-* **be**<i></i>**find**en `b.e,fi` ⇒ `b.f.i`
-* *zu*.**find**en `Z,fi` ⇒ `Z-fi`
-
-Angestelltes `(b.ei)` kann zu `(.ei)` verkürzt werden.
-
-* bei**trag** `(b.ei)tra` ⇒ `(.ei)tra`
+<img src="wörter/hals.png" height="20" /> hals `h.a-s`
 
 ## Kürzel
 
-Kürzel können andere Kurzformen verschatten.
+<img src="wörter/noch.png" height="20" /> *noch* `n-ch`
 
-* **mehr** `m.e`
-  * *mehrer*e `MR.e`
+## Anlautkürzung
 
-Auslautkürzel mit Fußschleife werden beim Setzen auf die Oberlinie um eine Stufe erhöht.
+<img src="wörter/bald.png" height="20" /> **bald** `ba`
 
-* her***z*** `(z)`
+<img src="wörter/statt.png" height="30" /> **statt** `sta`
 
+## Auslautkürzung
 
-### Inlautkürzel
+<img src="wörter/mut.png" height="30" /> ***mut*** `.ut`
 
-* **i**st `i`
-* t**o**n `o`
+## Auslautkürzel `?`
 
-## Kürzung
+<img src="wörter/berlin.png" height="20" /> *ber****lin*** `(l.in)`
 
-### Anlautkürzung
-
-* **bald** `ba` = **ba**ld
-
-* **bis** `bi` = **bi**s
-
-* **kurz** `ku` = **ku**rz
-* **tausch** `tau` = **tau**sch
-
-* **kon**- `ko` = **ko**n-
-* **schön** `schö` = **schö**n
-
-Kürzungen auf rechtsrunde Mitlautzeichen verschmelzen mit "-er" `-er`.
-
-* **fisch** `fi`
-  * **fisch**er `fi-er`
-
-Die Endung "-e" `.e` von weiblichen Hauptwörtern wird bei Anlautkürzungen und Anlautkürzeln nicht geschrieben. Ausgenommen sind Substantivierungen von Eigenschaftswörtern.
-
-* **woch**e `wo-e` = **wo**che
-* **li**ste `l.i-e` = li~~ste~~
-* **größ**e `grö.e` = **gr**öße
-
-Der Stammselbstlaut "e" von alleinstehenden Anlautkürzungen wird ausgeschrieben.
-
-* **be**- `b.e`
-* **heb**en `h.e`
-* **kenn**en `k.e`
-* **mehr** `m.e`
-
-Der Stammselbstlaut "ä" wird bei Anlautkürzungen wie "e" behandelt, und das "ü" wird durch Durchstreichung angedeutet. Abweichungen werden als Kürzel notiert.
-
-* **männ**er `m.er` = **mä**nner
-* **gä**ste `gä-e` = *gäst*e
-* **büch**er `bÜ.er` = **bü**cher
-* **bü**ndel `bü.el` = *bünd*el
-
-#### Ausweichen (statt Anstellen und Wölben)
-
-* **leicht** `lei` → `l.ei`
-* **gäst**e `gä-e` = `ga.ei`
-* **neu** `neu` = `nu.ei` 
-* **täusch**en `täu` = `tau.ei`
-
-#### Ausweichen auf Anlautkürzel
-
-* **bleib** `bl.ei` = blei~~b~~
-  * **blieb** `bli` ⇒ `bl.i` = blie~~b~~
-
-#### Ausweichen auf Auslautkürzung
-
-##### wegen Fußschleife
-
-* **schreck** `schr`
-  * **schrick** `.ik` = ***schrick***
-  * **schrak** `schra`
-  * **schrock** `schro`
-
-##### wegen Nicht-Wölbbarkeit
-
-* **sprech** `spr`
-  * **sprich** `.ich` = ***sprich***
-  * **sprach** `spra`
-    * **spräch** `spr`
-  * **sproch** `.och` = ***sproch***
-  * **spruch** `.uch` = ***spruch***
-    * **sprüch** `.üch` = ***sprüch***
-
-#### auf -ng, -ss, -x
-
-* **lang** `ang`
-* **mess** `ess`
-* **text** `ext`
-
-#### Herausziehen des "r"
-
-Die kleinsten Zeichen, aus denen das "r" herausgezogen werden kann, sind "b", "d", "h" und "w".
-
-* **lag**er `la-er` ⇒ `l.ag-er`
-
-### Auslautkürzung
-
-* ***viel*** `.il`
-
-#### mit Anlautverschmelzung rechtsrunder Zeichen bei Inlaut-e und -a
-
-* ***dar*** `dar`
-* ***wer*** `wer`
-* -***bar*** `bar`
-* ***pass*** `pass`
-* ***wass***<i></i>er `was-er`
-* ***was*** `was`
-* ***fer***n `fer`
-
-## Didaktische Verhältnismäßigkeit und Praxis
-
-In der Schnellschriftpraxis haben viele Stämme mehr als ein Kürzel oder Kürzung. Da dies für den Lernenden bisweilen sehr verwirrend sein kann, sollte man anfangs nicht mehr als eine Kurzform pro Stamm lernen. Auf die Anwendung des Kürzels *berat* `Ra` sollte daher zunächst verzichtet werden, da diese die Anlautkürzung **rat** `ra` verschatten würde. Ebensowenig sollte auf das vorsichtige Ausschreiben von Kurzformen verzichtet werden. Zum Beispiel sollte *er*<i></i>**rat**~~en~~ `er-ra` nicht ausgeschrieben werden zu *er*rat~~en~~ `er-r.at`.
-
-* **rat** `ra`
-  * *be*<i></i>**rat**en `b.ra`
-  * *er*<i></i>**rat**en `er-ra`
-
-Verkehrsschriftlichen Kurzform können hingegen verschattet werden. Beispielsweise verschattet *Mittel* `-t-el` das verkehrsschriftliche *mit* `M` bzw. *Mittel* `M.el`.
-
-* *mit* `M`
-  * *mittel* `-t-el`
-* *miss*<i></i>*ion* `ms-o`
-  * **ko**<i></i>*miss*<i></i>*ion* `ko-i.iO`
-
-Wörter mit zwei Vorsilben können auf diese gekürzt werden.
-
-* reit `reit`
-  * *vor*<i></i>**be**reiten `O-b.r.T` × `O-b`
-* wort `wot`
-  * **be**<i></i>*ant*worten `b.aNT.wot` × `b.aNT`
-
-Im Wortzusammenhang können ungekürzte Verbstämme ausgelassen oder durch ihren Selbstlaut angedeutet werden. So werden beispielsweise die ungekürzten "empfehlen" `.emp-f.el` und "empfahl" `.emp-f.al` zu `.emp` und `.emp-a`, während bereits gekürztes *ent*<i></i>**wick**eln `eNT,wi.el` nicht weiter zu *ent*<i></i>~~w~~<i></i>**i**<i></i>~~ckeln~~ `eNT-i` verkürzt wird und ungekürztes *be*merk~~en~~ `b.m.ek` nicht etwa auf den Stammanlaut zu `b.m` verkürzt wird.
-
-* fehl `f.el`
-  * empfehlen `.emp-f.el` × `.emp`
-* fahl `f.al`
-  * empfahl `.emp-f.al` * `.emp-a`
-* merk `m.ek`
-  * *be*merken `b.m.ek.`
-
-* "vielleicht"-Regel
-* "selbstverständlich"-Regel
-
-Lediglich Auslautkürzel und Kürzel mit Kringel können schnellschriftliche Kurzformen verschatten. So verschattet beispielsweise das Auslautkürzel ~~mög~~*lich* `(L)` die Auslautkürzung ***mög*** `.ög`. Abgesehen davon dürfen schnellschriftliche Kurzformen verschattet werden, um mehrdeutige Lesungen zu vermeiden.
-
-* ***mög***en `.ög`
-  * ~~mög~~*lich* `(L)`
-* **be**<i></i>**stimm**en `b.im`
-  * *bestimm*en `b°-i`
-    * *mitbestimm*en `M°`
-* *ge*<i></i>***mein*** `G-N`
-  * *all*~~ge~~<i></i>***mein*** ≠ allein
-    * ⇒ *allgemein* `.a-G`
-
-### Phrasenbildung
-
-Bei der Bildung von Präpositionalphrasen dürfen beliebige Bestandteile im Innern der Phrase ausgelassen werden.
-
-* *ge*<i></i>**leg**en*heit* `G-l.H`
-  * : bei.*dies*er *ge*<i></i>**leg**en*heit* `b.ei-.iS-er G-l.H` × `b.ei-.iS.H`
-* ~~mon~~at `(.at)`
-  * *in*.~~de~~n *letzt*en ~~mon~~aten `(I)n let (.at).en` × `(I)let.at.en`
-* *zu*<i></i>*samm*en~~h~~ang `Z-Sa.ang`
-  * : *in*.*dies*em *zu*<i></i>*samm*en~~h~~ang `(I).iS.em Z-Sa.ang` × `(I).iS.ang`
-
-In Verbindung mit Personalpronomen können Kurzformen immer angewendet werden.
-
-* ***glaub***en `.aub`
-  * : *wir*.<i></i>***glaub***<i></i>en `wr.aub` * `wr-au`
-
-### Praxis: Auslassen von -be- und -ver- im Wortinnern
-
-Im Wortinnern werden die Vorsilben **be**- `b` und *ver*- `E` ausgelassen. So wird beispielsweise *zur*.*ver*f**ü**g~~ung~~ `zr*.E-Ü` zu *zur*.~~ver~~f**ü**g~~ung~~ `zr*-Ü` verkürzt.
-
-* *ver*f**ü**gen `E-Ü`
-  * *zur*.*ver*f**ü**g~~ung~~ `zr*.E-Ü` × `zr*-Ü`
-
-### Praxis: Verschattende Kürzel
-
-Formen, die Kürzungen verschatten, werden als eigenständige Kürzel geführt. So verschattet beispielsweise *erfolgreich* `er,r.ei` sowohl die Anlautkürzung **folg** `fo` als auch die Auslautkürzung ~~r~~eich `.eich`.
-
-* *er*<i></i>**folg**<i></i>~~r~~eich `er.fo-.eich`
-  * *erfolgreich* `er,r.ei`
-* **text**il `ext-il`
-  * *textil* `t.il`
-* *zentr*al `zr.al`
-  * *zentral* `zra`
-
-### Praxis (STS)
-
-Die Endung -*ion* wird durch Auslassen der Fußschleife angedeutet bzw. wird nach bestimmtem Artikel ausgelassen.
-
-* *in*<i></i>**stall**at*ion* `IN.sta.iO` ⇒ `IN.sta*`
-* **kon**<i></i>***stell***at*ion* `ko.ell.iO` ⇒ `ko.st*`
-* *die*
-  * *dis*<i></i>*kuss*<i></i>*ion* `I ds-u-o` ⇒ `I ds-u`
-  * *dis*<i></i>***pos***<i></i>it*ion* `I ds.os.iO` ⇒ `I ds.os`
-  * illus*ion* `I .i-lus.iO` ⇒ `I .i-lus`
-  * *in*<i></i>**flat**<i></i>*ion* `I IN.fla-o` ⇒ `I IN.fla`
-  * *kom*<i></i>*miss*<i></i>*ion* `I ko-ms-o` * `I ko-i.iO` ⇒ `I ko-i`
-  * **kon**<i></i>**f**ess*ion* `I ko.f-o` ⇒ `I ko.f`
-  * **kon**<i></i>***zess***<i></i>*ion* `I ko.ess.iO` ⇒ `I ko.ess`
-  * *trans*<i></i>*miss*<i></i>*ion* `I tra.ms-o` ⇒ `I tra.ms`
-
-### ...
-
-Präpositionen (und Vorsilben) haben oftmals eigene Schreibungen.
-
-* innen `.in.en`
-* in `IN`
-
-* ***seit***<i></i>e `T.e`
-* seit `s.T`
-
-* weile `w.eil.e`
-* weil `.eil`
-
-
----
-
-## Legende
-
-| Ausschreibung | [Kurzschreibung](#kurzschreibung) | [Kürzel](#kürzel) |
-|:-:|:-:|:-:|
-| (alt) | wort | *unter* |
-| `[( alt )]` | `[ wort ]` | `[{ unter }]` |
-| `.alt` | `wot` | `UNTER` |
-
-| Anlautkürzung | Auslautkürzung | Anlautkürzel | [Auslautkürzel](#auslautkürzel) |
-|:-:|:-:|:-:|:-:|
-| **kurz** | ***flott*** | **f**ür | *deut****sch*** |
-| `[\| kurz \|]` | `[/ flott /]` | `[\| f \| ür \|]` | `[/ deut / sch /]` |
-| `ku` | `.ot` | `f` | `(sch)` |
-
-* möglich: ~~mög~~*lich* `[{ lich }]`
-
-| Inlautkürzung / -el |
-|:-:|
-| ... |
-| `[< schrift >]` |
-| `i` |
-
+<!--
+spontan
+Forst Förster
+sport
+-->
