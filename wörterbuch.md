@@ -329,8 +329,8 @@
 * *distrikt* `(ds)tr.ikt` ← strikt
 * *diplom* `di.om` `di.om.at` `di.om.I` `di.om.isch`
   * *das.diplomatische.corps* `d,di-om.ko`
-* *doch* `d-ch`
-  * *jedoch* `j-ch`
+* *doch* `dch`
+  * *jedoch* `jch`
 * doktor ← doz
 * *doll****ar*** `(.ar)`
 * dom `d.om` __`d.om.än.e`__ `d.om.il`
@@ -1650,8 +1650,8 @@
   * *niveau*los `.iw.o-l.os`
 * **niv**ell `n.iw` `n.iw.ir-UNG`
   * → niveau
-* *noch* `n-ch` `n-ch:ma-s`
-  * *nochmals* `n-ch-s`
+* *noch* `nch` `nch:ma-s`
+  * *nochmals* `nch-s`
 * nom `n.om` `n.om.i-aL`
   * -***nom*** `.om` → astr aut gastr metr ök
 * nord `n.od`

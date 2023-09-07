@@ -4,7 +4,7 @@
 
 Alle Einträge im Wörterbuch werden kleingeschrieben.
 
-## Vokale
+## Vokale `.`
 
 <img src="wörter/ab.png" height="20" /> ab `.ab`
 
@@ -24,19 +24,35 @@ Alle Einträge im Wörterbuch werden kleingeschrieben.
 
 <img src="wörter/vier.png" height="20" /> vier `v.ir`
 
-## -eit-, -ein-
+## `CH`, `H`, `N`, `T`, ...
+
+<img src="wörter/ein.png" height="20" /> ein `N`
+
+<img src="wörter/feinheit.png" height="30" /> feinheit `f.N.H`
 
 <img src="wörter/heiter.png" height="20" /> heiter `h.T.er`
 
 <img src="wörter/wein.png" height="20" /> wein `w.N`
 
-## Andere Kürzel
+## Kürzel
 
-<img src="wörter/feinheit.png" height="30" /> feinheit `f.N.H`
+<img src="wörter/noch.png" height="20" /> *noch* `nch`
+
+<img src="wörter/sich.png" height="30" /> sich `CH`
+
+<img src="wörter/noch.png" height="20" /> *vielleicht* `v.ei`
+
+<img src="wörter/sonder.png" height="20" /> *sonder* `S`
+
+## Ausfall von -e-
+
+<img src="wörter/vater.png" height="20" /> *vater* `v.at-er` = `v.atr`
 
 ## Ausfall von -l-, -n-, -r- im Auslaut
 
 <img src="wörter/ort.png" height="20" /> ort `.ot`
+
+<img src="wörter/spontan.png" height="30" /> spontan `sp.ot.an`
 
 Der Aufstrich des -t- bleiben, wenn der Anlaut den Inlaut andeuten kann.
 
@@ -48,28 +64,48 @@ Der Aufstrich des -t- bleiben, wenn der Anlaut den Inlaut andeuten kann.
 
 Die Linkswendigkeit des -s- bleibt erhalten.
 
-<img src="wörter/hals.png" height="20" /> hals `h.a-s`
-
-## Kürzel
-
-<img src="wörter/noch.png" height="20" /> *noch* `n-ch`
+<img src="wörter/hals.png" height="20" /> hals `h.a-s` = `h.aS`
 
 ## Anlautkürzung
 
 <img src="wörter/bald.png" height="20" /> **bald** `ba`
 
+<img src="wörter/bis.png" height="20" /> **bis** `bi`
+
+<img src="wörter/her.png" height="20" /> **her** `h`
+
 <img src="wörter/statt.png" height="30" /> **statt** `sta`
+
+<img src="wörter/wo.png" height="20" /> **wo** `wo`
 
 ## Auslautkürzung
 
 <img src="wörter/mut.png" height="30" /> ***mut*** `.ut`
 
-## Auslautkürzel `?`
+## Anlautkürzel
+
+<img src="wörter/für.png" height="20" /> **f**ür `f`
+
+<img src="wörter/ist.png" height="20" /> **i**st `i`
+
+## Auslautkürzel
 
 <img src="wörter/berlin.png" height="20" /> *ber****lin*** `(l.in)`
 
+<img src="wörter/sport.png" height="20" /> *sp****ort*** `(.ot)`
+
+## Anstellen
+
+<img src="wörter/bisher.png" height="20" /> **bis**<i></i>**her** `(bi)h`
+
+-----
+
+## Fragen
+
+Ist "ist" ein Anlautkürzel?
+
+<img src="wörter/ist.png" height="20" /> **i**st/***i****st* `i`
+
 <!--
-spontan
-Forst Förster
-sport
+Fenster mit .er
 -->
