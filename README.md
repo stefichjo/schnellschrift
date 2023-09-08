@@ -44,6 +44,12 @@ Alle Einträge im Wörterbuch werden kleingeschrieben.
 
 <img src="wörter/sonder.png" height="20" /> *sonder* `S`
 
+## Schlaufe
+
+*besonders* `b°`
+
+*d. h.* `d.h°`
+
 ## Ausfall von -e-
 
 <img src="wörter/vater.png" height="20" /> *vater* `v.at-er` = `v.atr`
@@ -67,6 +73,10 @@ Die Linkswendigkeit des -s- bleibt erhalten.
 <img src="wörter/hals.png" height="20" /> hals `h.a-s` = `h.aS`
 
 ## Anlautkürzung
+
+-haft
+zusammen
+da-
 
 <img src="wörter/bald.png" height="20" /> **bald** `ba`
 
