@@ -74,6 +74,8 @@ Die Linkswendigkeit des -s- bleibt erhalten.
 
 ## Anlautkürzung
 
+<!-- TODO -->
+
 -haft
 zusammen
 da-
@@ -225,5 +227,15 @@ zum
 zur
 zusammen
 zwischen
+
+<!--
+Reform-Idee:
+
+fr.isch → fr_isch
+er.fr_isch.en
+d.h°
+
+s.t ≠ s-t ≠ s+t ... ?
+÷
 
 -->
